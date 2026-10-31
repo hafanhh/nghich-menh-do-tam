@@ -1,0 +1,3927 @@
+{
+  "id": "w12",
+  "no": 12,
+  "chapEnd": [
+    12,
+    21,
+    33,
+    38,
+    45
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": 0.085,
+  "p0": {
+    "mi": 62,
+    "tri": 56,
+    "van": 50
+  },
+  "params": {
+    "b1": 2.8,
+    "b2": 4.2,
+    "bad": 7.5,
+    "ac": 1,
+    "hac": 1.45,
+    "hao": 1,
+    "h0": 60,
+    "sp": 3.2
+  },
+  "names": {
+    "n_th": "Mạc Tử Hân",
+    "n_mh": "Giản Mặc Hành",
+    "n_ch": "Phan Cảnh Hòa",
+    "n_tn": "Khúc Thư Nghi",
+    "n_td": "Lạc Triều Dương",
+    "n_mt": "Mục Thanh Tùng",
+    "n_qp": "Quý Thừa Phong",
+    "n_ty": "Tống Ý",
+    "n_lh": "Lữ Hồng",
+    "n_tv": "Thái Vân",
+    "n_dn": "Đoàn Nguyên",
+    "n_tc": "Tạ Nặc",
+    "n_nt": "Cung Ngưng Thu",
+    "n_dni": "Đới Ni",
+    "n_dnb": "Đới Nguyên Bân",
+    "n_sd": "Thi Dĩnh",
+    "n_tk": "Mạc Trọng Khải",
+    "n_tl": "Phùng Tú Lan",
+    "n_md": "Mạc Duệ"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 12 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh dùng lại hình vẽ tạm của các thế giới trước.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Mỗi sáng một câu hỏi",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Giản Mặc Hành đã về không. Hắn học cách buông bớt kiểm soát, không dùng quyền thế chen vào chuyện cô tự giải quyết, và mỗi sáng vẫn hỏi cô một câu: «Hôm nay em có thích anh thêm một chút không?» Đoạn ghi âm ngày xưa được hắn đặt vào hộp riêng, không ai nghe lại. Tống Ý lên làm giám đốc studio; Triều Dương và Thi Dĩnh mỗi năm đều ghé nhà cô một lần. Họ có thêm một bộ phim nữa, rồi một bộ nữa, rồi thôi đếm.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "ysea"
+    },
+    "near": {
+      "n": "Hắn vẫn học cách buông",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người ở bên nhau, mỗi sáng vẫn có câu hỏi quen thuộc. Nhưng thỉnh thoảng hắn vẫn lặng lẽ kiểm tra lịch của cô, như không yên tâm. Cô không giận. Cô biết hắn đang học cách buông bớt từng chút một, và vệt tối trong mắt hắn mờ dần theo mỗi năm.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "yroom"
+    },
+    "half": {
+      "n": "Bóng người đứng chờ ngoài cửa",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hai người vẫn ở cạnh nhau, vẫn làm phim cùng nhau. Nhưng hắn còn nghiêng về chiếm hữu, chưa làm điều gì sai, chỉ hay đứng chờ ngoài cửa phòng hóa trang lâu hơn cần thiết. Cô ở cạnh hắn những lúc hắn im lặng, hy vọng một ngày hắn tin rằng mình không cần canh giữ ai.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "ystudio"
+    },
+    "black": {
+      "n": "Cánh cửa phòng chiếu khép lại",
+      "c": "Hắc hóa chạm 100. Nỗi sợ mất cô nuốt hết những gì còn lại ở hắn. Hắn không nghe tên mình, không nghe tiếng cô, chỉ còn tiếng máy chiếu quay vào phòng trống. Các cuốn phim chưa kịp quay nằm yên trên kệ. Tiểu Châu khẽ gọi cô đi trước khi ánh đèn cuối cùng tắt.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "ynight"
+    },
+    "bdead": {
+      "n": "Chiếc ghế đạo diễn trống",
+      "c": "Sinh mệnh của Giản Mặc Hành về 0. Hắn kiệt sức vì chạy khắp nơi cho cô, không hồi lại được. Chiếc ghế đạo diễn ở phim trường trống từ hôm ấy. Cô ngồi bên hắn rất lâu, tay vẫn nắm tay hắn, cho đến khi Tiểu Châu khẽ gọi cô về.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "yhosp"
+    },
+    "dead": {
+      "n": "Sức cạn giữa rừng",
+      "c": "Sinh mệnh của cô cạn kiệt trước khi kịp trở về. Cô gục xuống giữa lúc đang lo cho quá nhiều việc cùng lúc. Tiểu Châu kéo linh hồn cô đi, khi ở đâu đó Mặc Hành vẫn đang chạy về phía rừng.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "rforest"
+    }
+  },
+  "events": [
+    {
+      "id": "m01",
+      "scene": "yroom",
+      "place": "Căn hộ của Tử Hân · Sáng",
+      "kind": "duyen",
+      "title": "Tỉnh dậy trong căn hộ bừa bộn",
+      "text": "Tử Hân mở mắt giữa mùi rượu cũ. Căn hộ ngổn ngang vỏ chai, rèm kéo kín; theo hồ sơ thì nguyên chủ đã nhốt mình gần một tháng. Một quả cầu ngọc xanh nhỏ lơ lửng trên bàn: «Ta là Tiểu Châu». Nó đọc nhanh: nguyên chủ là nữ minh tinh lưu lượng, từng quyên một nửa thù lao nên được yêu mến, nay bị gọi là «bình hoa ôm đùi đạo diễn». Người cần cảm hóa là đạo diễn Giản Mặc Hành, 30 tuổi, tiếng «quỷ tài», từng ép cô rời người cô yêu là ảnh đế Phan Cảnh Hòa; về sau Cảnh Hòa và bạn gái Khúc Thư Nghi dựng chuyện bôi nhọ cô. Ba mẹ cô vẫn thương nhưng chưa dám gọi. Quỹ đạo gốc chỉ nói gọn: cô bị cô lập và gục ngã.",
+      "tieu": "Dậy rồi à? Chuyện cũ ta nói gọn thôi. Dọn nhà, tắm rửa, rồi hẵng mở điện thoại. Cả mạng đang mắng ngươi đấy.",
+      "cast": "n_th,n_mh,n_ch,n_tn,tc",
+      "ch": [
+        {
+          "t": "Nghe Tiểu Châu kể kỹ từng người trong hồ sơ, ghi nhớ quan hệ giữa họ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nghe hết, ghi lại ai là ai và nhận ra Mặc Hành mới là người đứng giữa mọi sợi dây. Đầu óc cô tỉnh táo hẳn.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_ho_so"
+          },
+          "b": 0.6260000000000001,
+          "bad": {
+            "x": "Cô nghe được nửa chừng thì cơn say còn sót lại làm đầu quay cuồng. Cô chỉ nhớ mang máng.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.56
+        },
+        {
+          "t": "Dọn dẹp căn hộ trước, tắm rửa, để đầu óc nguội đã",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mở cửa sổ, dọn vỏ chai, tắm xong cô thấy mình như người khác. Mặt trời hôm nay đẹp.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.43399999999999994,
+          "bad": {
+            "x": "Cô vấp chai rượu, trượt chân nhẹ một cái. Dọn xong thì đã mệt.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Ngồi yên một lúc, quyết định mình sẽ không gục như quỹ đạo gốc",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nhìn trần nhà rất lâu rồi nói khẽ: «Chờ xem». Lòng dịu lại, đủ để tính tiếp.",
+            "d": {
+              "sinh": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, căn hộ của Tử Hân. Cô tỉnh dậy sau gần một tháng nhốt mình và nhận nhiệm vụ cảm hóa Giản Mặc Hành.",
+      "no": 1
+    },
+    {
+      "id": "m02",
+      "scene": "yphone",
+      "place": "Căn hộ · Cùng ngày",
+      "kind": "chon",
+      "title": "Ba chữ «Chờ xem»",
+      "text": "Điện thoại hiện hàng nghìn bình luận chê. Cô gõ ba chữ «Chờ xem» và đăng, lập tức lên hot search. Fan trung thành sợ hãi chạy ra nhận. Tiểu Châu đề nghị gỡ hết tin xấu giúp cô, nhưng cô từ chối: hắc hồng cũng là hồng. Cô chỉ nhờ nó lặng lẽ ghi lại ai đứng sau các bài bôi nhọ.",
+      "tieu": "Gỡ thì dễ, nhưng nước đã đục thì phải để nó lắng đúng chỗ. Chọn cách ngươi muốn bước tiếp.",
+      "cast": "n_th,tc",
+      "ch": [
+        {
+          "t": "Trả lời vài fan còn ở lại, nói ngắn gọn rằng cô vẫn ổn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Vài dòng của cô được chia sẻ hàng nghìn lần. Có người đổi giọng, có người chỉ im lặng. Cô thấy mình không còn đơn độc.",
+            "d": {
+              "ac": 0,
+              "sinh": 2
+            },
+            "f": "giu_fan"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô gõ xong thì thấy sót ý, xóa đi gõ lại, rồi đăng chậm. Sóng đã qua một đợt.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhờ Tiểu Châu ghi lại từng tài khoản đứng sau các bài bôi nhọ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu lập một bảng gọn: ba tài khoản lớn, cùng một công ty truyền thông. Cô cất bảng vào chỗ kín.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "biet_nguon"
+          },
+          "b": 0.5960000000000001,
+          "bad": {
+            "x": "Danh sách quá dài, cô mệt dần. Tiểu Châu bảo để nó lo, nhưng cô mất hơn một giờ.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.53
+        },
+        {
+          "t": "Chỉ đăng ba chữ ấy rồi tắt máy, không trả lời ai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tắt máy ngủ một giấc. Sáng dậy, ba chữ ấy vẫn nằm đó và đã thành đề tài bàn tán khắp nơi.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.4039999999999999,
+          "bad": {
+            "x": "Cô tắt máy, nhưng không ngủ được. Bình luận cứ hiện lên trong đầu.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cùng ngày, căn hộ. Tử Hân đăng «Chờ xem» và lên hot search; Tiểu Châu đề nghị gỡ tin xấu.",
+      "no": 2
+    },
+    {
+      "id": "m03",
+      "scene": "yroom",
+      "place": "Căn hộ · Hôm sau",
+      "kind": "duyen",
+      "title": "Người đại diện mới",
+      "text": "Hôm sau, Lữ Hồng, người đại diện cũ, gọi tới báo công ty đã bỏ cô. Cô cúp máy luôn, rồi một số lạ gọi vào. Chưa đầy nửa giờ, một cô gái 20 tuổi mắt tròn đã đứng trước cửa: Tống Ý, người đại diện mới, hóa ra là fan ngầm từ những ngày cô còn quyên thù lao. Tử Hân báo rõ: không nhận quảng cáo, chỉ nhận vai diễn và chương trình thực tế có thử thách. Tống Ý lo nhưng đồng ý.",
+      "tieu": "Người này cầm tay ngươi rất chắc. Đừng làm cô bé sợ trước khi làm cô bé tin.",
+      "cast": "n_th,n_ty,n_lh,tc",
+      "ch": [
+        {
+          "t": "Nói rõ với Tống Ý mục tiêu và giới hạn của mình, không giấu điều gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tống Ý nghe xong, lau mắt và gật mạnh: «Em đi cùng chị.» Hai người ký hợp đồng ngay trong căn hộ.",
+            "d": {
+              "ac": 0,
+              "sinh": 2
+            },
+            "f": "ty_tin"
+          },
+          "b": 0.542,
+          "bad": {
+            "x": "Cô nói hơi dài, Tống Ý lo thấy rõ nhưng vẫn gật. Cô hiểu mình còn phải làm lại cho cô bé yên tâm.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Cùng Tống Ý lập danh sách từng loại hợp đồng nhận hoặc không nhận",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Danh sách gọn gàng, cả hai thống nhất ngay. Tống Ý nhìn cô như nhìn một người đã tính trước nhiều bước.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "ty_tin"
+          },
+          "b": 0.6060000000000001,
+          "bad": {
+            "x": "Danh sách rối, hai người phải gạch xóa nhiều lần. Chiều mới xong.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Mời Tống Ý một bữa cơm rồi nói chuyện sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bữa cơm ấm, Tống Ý kể mình theo cô từ hồi cô còn quyên tiền cho trẻ em. Chuyện sau đó dễ nói hơn nhiều.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "ty_tin"
+          },
+          "b": 0.3819999999999999,
+          "bad": {
+            "x": "Quán đông, hai người chẳng nói được gì ra hồn. Cô đành hẹn lại hôm sau.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Hôm sau, căn hộ. Lữ Hồng báo công ty bỏ cô; Tống Ý, 20 tuổi, tới nhận làm người đại diện mới.",
+      "no": 3
+    },
+    {
+      "id": "m04",
+      "scene": "yroom",
+      "place": "Phòng khách · Vài hôm sau",
+      "kind": "chon",
+      "title": "Chọn kịch bản",
+      "text": "Tống Ý bày ba kịch bản lên bàn: một bộ dân quốc, một bộ cung đấu, một bộ học đường do đạo diễn Mục Thanh Tùng quay. Tử Hân chọn nữ nhị của bộ học đường: người chị toàn năng, đối thủ của nữ chính. Tống Ý ngạc nhiên vì đó là vai bị khán giả ghét. Cô nói chọn vai này vì nó cho cô sân khấu rộng nhất.",
+      "tieu": "Vai bị ghét làm cho cô diễn đến nơi, và cũng dễ lộ chỗ yếu hơn mọi vai khác. Cẩn thận nhé.",
+      "cast": "n_th,n_ty,tc",
+      "ch": [
+        {
+          "t": "Giải thích với Tống Ý vì sao vai bị ghét lại là cơ hội lớn nhất",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô vạch từng bước: vai chị toàn năng cho phép cô khoe cả sự thông minh lẫn sự tổn thương. Tống Ý thôi lo và bắt đầu ghi chép.",
+            "d": {
+              "ac": 0,
+              "sinh": 2
+            },
+            "f": "chon_nhi"
+          },
+          "b": 0.5860000000000001,
+          "bad": {
+            "x": "Cô nói lủng củng, Tống Ý gật cho xong. Cô tự nhắc lần sau nói gọn hơn.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Thử đọc một đoạn thoại trước mặt Tống Ý để cô bé thấy vai này hợp mình",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đọc đoạn thoại nữ nhị tức giận. Tống Ý nổi da gà, chỉ nói: «Chị đúng là sinh ra để diễn vai này.»",
+            "d": {
+              "sinh": 2
+            },
+            "f": "chon_nhi"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Cô đọc hơi gượng. Tống Ý vẫn gật nhưng cô biết mình chưa thuyết phục được.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhờ Tống Ý hỏi thử đạo diễn xem ai đã đọc kịch bản trước cô",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tống Ý hỏi được một câu trả lời hay: vai này chưa ai nhận. Họ chốt hẹn thử vai ngay cuối tuần.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "chon_nhi"
+          },
+          "b": 0.3940000000000001,
+          "bad": {
+            "x": "Đạo diễn bận, không trả lời. Họ đành chờ thêm hai ngày.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Vài hôm sau, phòng khách. Tử Hân chọn vai nữ nhị bộ phim học đường của đạo diễn Mục Thanh Tùng.",
+      "no": 4
+    },
+    {
+      "id": "m05",
+      "scene": "ygym",
+      "place": "Phòng tập · Một tuần sau",
+      "kind": "chon",
+      "title": "Một tuần huấn luyện",
+      "text": "Một tuần huấn luyện kín lịch: sáng tập thể hình, chiều học diễn xuất, tối xem phim kinh điển, mỗi ngày ngủ sáu giờ. Sáng nào cô cũng nói chuyện với Tống Ý bằng tiếng Anh khiến cô bé choáng váng. Tới đêm cuối, cô phải chọn tập nặng hơn hay giữ sức cho buổi thử vai.",
+      "tieu": "Cơ thể không phải máy. Tiếng Anh của ngươi hôm nay lại có ích, nhớ giữ nó.",
+      "cast": "n_th,n_ty,tc",
+      "ch": [
+        {
+          "t": "Tập thêm một giờ để thân hình lên máy ảnh đẹp hơn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tập đến mồ hôi ướt áo, nhưng thân hình hôm sau đã đứng vững hơn hẳn. Cô thấy tự tin.",
+            "d": {
+              "ac": 0,
+              "sinh": -1
+            },
+            "f": "tap_nang"
+          },
+          "b": 0.4113333333333333,
+          "bad": {
+            "x": "Cô gồng quá, đau cơ cả sáng hôm sau. Tống Ý hoảng và bắt cô nghỉ.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Giữ sức, dành cả đêm xem lại kịch bản và luyện tiếng Anh với Tống Ý",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô học đủ để đọc lời thoại tiếng Anh trong một cảnh khó. Tống Ý bảo chị làm như đã sống ở nước ngoài.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "giu_suc"
+          },
+          "b": 0.6353333333333335,
+          "bad": {
+            "x": "Cô học đến khuya, sáng dậy hơi mệt nhưng vẫn ổn.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Nghỉ sớm theo lịch, ăn một bữa thật no rồi đi ngủ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô ngủ một giấc sâu. Sáng dậy gương mặt hồng hào, ai nhìn cũng khen.",
+            "d": {
+              "sinh": 3
+            },
+            "f": "giu_suc"
+          },
+          "b": 0.4433333333333333,
+          "bad": {
+            "x": "Cô thao thức vì lo, ngủ không sâu. Mặt hơi xanh.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Một tuần sau, phòng tập. Tử Hân hoàn tất tuần huấn luyện trước buổi thử vai.",
+      "learn": {
+        "n": "Tiếng Anh giao tiếp",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 5
+    },
+    {
+      "id": "m06",
+      "scene": "yphone",
+      "place": "Phòng khách · Chiều",
+      "kind": "chon",
+      "title": "Cuộc gọi của Giản Mặc Hành",
+      "text": "Chiều, điện thoại để chỗ Tống Ý. Tên hắn trong danh bạ là «Mặc Hành vai ác». Tống Ý nghe máy: một giọng trầm hỏi han, nói nếu cô cần giúp thì tìm hắn. Tử Hân giành máy. Hắn đề nghị tự làm sáng tỏ mọi chuyện, cô hỏi hắn có phải muốn lợi dụng rồi áy náy không, và hắn nói hai chữ «xin lỗi». Cô tuyên bố mục tiêu trả thù không thiếu hắn. Cúp máy, Tống Ý hỏi hắn là ai: đạo diễn «quỷ tài», hay mắng diễn viên.",
+      "tieu": "Hắn nói xin lỗi bằng giọng đó là hiếm lắm. Cẩn thận: hắn đang thăm dò, và cũng đang cầu xin.",
+      "cast": "n_th,n_mh,n_ty,tc",
+      "ch": [
+        {
+          "t": "Giữ giọng lạnh, nói thẳng: «Tôi không cần ai thương hại»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đầu dây im lặng rất lâu, rồi hắn nói: «Biết rồi.» Hắn không cúp máy trước. Cô nghe được tiếng thở nhẹ của hắn.",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            },
+            "f": "mh_nghe"
+          },
+          "b": 0.44066666666666654,
+          "bad": {
+            "x": "Giọng cô run nhẹ, hắn nghe ra. Hắn chỉ nói: «Ta vẫn ở đây», rồi cúp máy. Cô tức mình với chính mình.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Đùa một câu để nhẹ bầu không khí: «Đạo diễn quỷ tài mà cũng biết xin lỗi à?»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn khẽ cười, tiếng cười trầm và ngắn. «Chỉ với nàng.» Cô nhíu mày, không biết có nên tin không.",
+            "d": {
+              "ac": -1,
+              "hao": 2
+            },
+            "f": "mh_nghe"
+          },
+          "b": 0.4726666666666666,
+          "bad": {
+            "x": "Hắn không cười. Một lúc lâu mới nói: «Ta không đùa.» Cuộc gọi kết thúc lúng túng.",
+            "d": {
+              "hao": -1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Hỏi hắn: «Vì sao ngài làm vậy với tôi?» và nghe câu trả lời đến cùng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn không trả lời hết, chỉ nói: «Khi nào nàng sẵn sàng nghe.» Cô ghi nhớ câu ấy. Một mảnh sự thật đã được gieo xuống.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "mh_nghe"
+          },
+          "b": 0.5366666666666666,
+          "bad": {
+            "x": "Hắn chỉ im. Cô không hỏi được gì và cúp máy với cảm giác trống rỗng.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Chiều, phòng khách. Giản Mặc Hành gọi tới, Tử Hân nhận máy và tuyên bố mục tiêu trả thù không thiếu hắn.",
+      "no": 6
+    },
+    {
+      "id": "m07",
+      "scene": "ystudio",
+      "place": "Phòng thử vai · Cuối tuần",
+      "kind": "chon",
+      "title": "Thử vai",
+      "text": "Cuối tuần, phòng thử vai của Mục Thanh Tùng. Tử Hân đứng thứ mười một, tay cầm cuốn Toán Olympic. Đạo diễn đã chê chín người trước là «mọt sách nhạt nhẽo». Cô bước vào, đối thoại với người vắng mặt như thể người ấy có thật, rồi diễn thêm hai đoạn: nữ nhị tức giận và nữ nhị trên cây khi bị thú đuổi. Mục Thanh Tùng đứng bật dậy nhận vai ngay. Lạc Triều Dương, ảnh đế trẻ, nam chính của phim, bước lại gần nói cô khác hẳn lời đồn.",
+      "tieu": "Họ cần một người dám bước vào, ngươi có. Giờ chọn cách bước.",
+      "cast": "n_th,n_mt,n_td,tc",
+      "ch": [
+        {
+          "t": "Diễn đúng từng lời trong kịch bản, giữ nhịp thật chắc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Từng câu thoại đúng chỗ, đúng ngắt. Mục Thanh Tùng gật liên tục và ghi chú không ngừng.",
+            "d": {
+              "ac": 0,
+              "sinh": 2
+            },
+            "f": "thu_dung"
+          },
+          "b": 0.6400000000000001,
+          "bad": {
+            "x": "Cô diễn đúng nhưng hơi khô. Đạo diễn vẫn nhận, nhưng dặn thêm cảm xúc.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.53
+        },
+        {
+          "t": "Thêm lời của riêng mình vào chỗ nữ nhị bộc lộ giận dữ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Câu thêm của cô khiến cả phòng im phăng phắc. Triều Dương khẽ vỗ tay. Mục Thanh Tùng nói: «Giữ nguyên lời đó.»",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "thu_them"
+          },
+          "b": 0.32,
+          "bad": {
+            "x": "Lời thêm hơi lệch giọng nhân vật, đạo diễn nhíu mày nhưng vẫn gật. Cô thở ra.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.43
+        },
+        {
+          "t": "Nhìn thẳng Triều Dương khi diễn cảnh trên cây để anh thật sự giật mình",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Triều Dương quên cả đáp lời, rồi bật cười. Anh nói với đạo diễn: «Cô này, em muốn cùng diễn.»",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "thu_td"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Anh chớp mắt rồi nhìn đi chỗ khác, ngượng. Cảnh trôi qua hơi cứng.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Cuối tuần, phòng thử vai. Tử Hân thử vai nữ nhị, gây ấn tượng với đạo diễn Mục Thanh Tùng và ảnh đế trẻ Lạc Triều Dương.",
+      "learn": {
+        "n": "Đối diễn ứng biến",
+        "s": "mi",
+        "v": 1
+      },
+      "no": 7
+    },
+    {
+      "id": "m08",
+      "scene": "yphone",
+      "place": "Phòng khách · Hai ngày sau",
+      "kind": "duyen",
+      "title": "Nhà đầu tư chen ngang",
+      "text": "Hai ngày sau, Tống Ý báo tin: nhà đầu tư Quý Thừa Phong đòi vai nữ nhị cho Khúc Thư Nghi. Trên TV, bản tin đang nhắc một vụ đụng xe trong đêm, kẻ gây ra đã bỏ trốn. Tiểu Châu bật cho cô xem phần ẩn của cốt truyện: Lạc Triều Dương sẽ gặp tai nạn xe lúc 15:30 chiều nay. Cô chưa biết hai chuyện có liên quan gì. Cô gọi hẹn Triều Dương, đeo mặt nạ rồi ra đường.",
+      "tieu": "Tin tức và tai nạn có thể là cùng một sợi chỉ. Đi mau, ba giờ rưỡi không đợi ai.",
+      "cast": "n_th,n_ty,n_qp,tc",
+      "ch": [
+        {
+          "t": "Nhờ Tống Ý kiểm tra ngay thông tin nhà đầu tư Quý Thừa Phong trước khi ra khỏi nhà",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tống Ý tra được một dòng: Quý thị đầu tư vào ngành giải trí mới hai năm, và hôm xảy ra vụ đụng xe ông ta có mặt ở thành phố. Cô ghi nhớ.",
+            "d": {
+              "ac": 0,
+              "sinh": 1
+            },
+            "f": "quy_nghi"
+          },
+          "b": 0.5640000000000001,
+          "bad": {
+            "x": "Tin về Quý thị rải rác, mất nhiều thời gian. Cô ra khỏi nhà trễ hơn dự định.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Ra đường ngay, nhờ Tiểu Châu dò tuyến nhanh nhất tới nhà Triều Dương",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu chọn đúng tuyến vắng. Cô tới sớm hơn dự kiến nhiều phút.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "ra_som"
+          },
+          "b": 0.43599999999999994,
+          "bad": {
+            "x": "Tuyến Tiểu Châu chọn bị tắc bất ngờ. Cô phải đổi đường giữa chừng.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Gọi Triều Dương trước, nói chắc chắn rằng hôm nay anh đừng ra khỏi nhà",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Triều Dương nghe giọng cô thì im, rồi nói: «Được, tôi đợi.» Cô nhẹ cả người.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "td_doi"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh cười, bảo cô nói gì lạ, rồi cúp máy. Cô phải chạy nhanh hơn.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Hai ngày sau, phòng khách. Tử Hân biết Triều Dương sẽ gặp tai nạn xe lúc 15:30 và vội ra đường.",
+      "no": 8
+    },
+    {
+      "id": "m09",
+      "scene": "yroad",
+      "place": "Trên phố · Chiều",
+      "kind": "chon",
+      "title": "Xe của Giản Mặc Hành",
+      "text": "Trên phố, một chiếc xe tấp vào, người lái hỏi «đi đâu?». Là Giản Mặc Hành. Hắn chở cô tới nhà Triều Dương. Cô trêu hắn, hỏi hắn có thích mình không; hắn đáp không. Cô nói muốn dọn về biệt thự của hắn; hắn do dự rồi hỏi cô muốn trả thù Cảnh Hòa hay muốn đi đường sự nghiệp. Cô nói «cả hai» và hắn đồng ý. Trước khi xuống xe cô hôn nhẹ lên má hắn.",
+      "tieu": "Đừng chơi với lửa quá tay. Hắn nói «không» nhưng tai hắn đỏ đấy.",
+      "cast": "n_th,n_mh,tc",
+      "ch": [
+        {
+          "t": "Trêu thêm vài câu để xem hắn còn giữ được vẻ lạnh đến bao giờ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nắm chặt vô lăng, nhìn thẳng phía trước, cuối cùng nói: «Nàng lên đường mà đi.» Cô cười.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.4333333333333333,
+          "bad": {
+            "x": "Hắn lạnh mặt, im cả quãng đường còn lại. Cô nghĩ mình đùa quá trớn.",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nói nghiêm túc: «Tôi cần một người chịu nghe tôi đến cùng»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn im rất lâu, rồi đáp: «Ta nghe.» Giọng hắn thấp hơn mọi lần.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.5613333333333335,
+          "bad": {
+            "x": "Hắn gật nhưng mắt không rời đường. Cô không đoán được hắn nghĩ gì.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Hỏi chuyện đường đi và thời gian, giữ cuộc nói chuyện nhẹ nhàng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn trả lời từng câu, thỉnh thoảng liếc sang cô. Quãng đường ngắn lại như thể chỉ dài vài phút.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.4653333333333333,
+          "bad": {
+            "x": "Đường tắc, hắn mất kiên nhẫn. Cô xuống xe sớm hơn hẹn.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Chiều, trên phố. Giản Mặc Hành đón Tử Hân và chở cô tới nhà Triều Dương.",
+      "no": 9
+    },
+    {
+      "id": "m10",
+      "scene": "yroom",
+      "place": "Căn hộ của Triều Dương · 14:30",
+      "kind": "hiem",
+      "title": "Nhà Lạc Triều Dương và những lá bùa",
+      "text": "Một giờ trước 15:30, căn hộ của Triều Dương. Tử Hân nói thẳng rằng anh sẽ gặp nạn chiều nay. Anh nghi ngờ, rồi nhượng bộ vì đã thấy cô diễn. Cô dán đầy phòng khách bùa vàng mà Tiểu Châu đổi cho cô. Điện thoại anh reo: vai nữ nhị bị đổi. Anh nổi giận định lao đi tìm cậu, tức đạo diễn Mục Thanh Tùng; cô giữ anh lại.",
+      "tieu": "Anh ta đang cáu và cáu đúng lúc dễ gặp nạn nhất. Giữ anh ở lại là việc duy nhất ngươi cần làm.",
+      "cast": "n_th,n_td,n_mt,tc",
+      "ch": [
+        {
+          "t": "Nói thật với anh về chuyện Tiểu Châu và những lá bùa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe hết, mắt mở to, rồi ngồi xuống sofa: «Thôi được, tôi tin cô một lần.»",
+            "d": {
+              "ac": 0,
+              "hao": 1,
+              "sinh": 0
+            },
+            "f": "td_tin"
+          },
+          "b": 0.48733333333333334,
+          "bad": {
+            "x": "Anh nghe đến nửa thì bật cười và đứng dậy. Cô phải túm tay áo anh lại.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Nắm chặt tay anh, giữ anh ngồi xuống và nói: «Chỉ ba mươi phút»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn bàn tay cô, rồi nhìn gương mặt cô, rồi ngồi xuống. «Ba mươi phút.»",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            },
+            "f": "td_tin"
+          },
+          "b": 0.5513333333333335,
+          "bad": {
+            "x": "Anh giằng ra, bước tới cửa. Cô phải chặn trước mặt anh, mệt đứt hơi.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Gọi điện cho đạo diễn Mục, nhờ ông nói chuyện thẳng với Triều Dương",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mục Thanh Tùng nghe máy, giọng mệt nhưng chắc. Ông bảo vai nữ nhị của cô vẫn giữ. Triều Dương dịu lại.",
+            "d": {
+              "hao": 1,
+              "sinh": 0
+            },
+            "f": "td_tin"
+          },
+          "b": 0.3913333333333334,
+          "bad": {
+            "x": "Đạo diễn bận, không nghe máy. Cô quay sang giữ anh bằng cách khác, tốn sức hơn.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "14:30, căn hộ của Triều Dương. Tử Hân dán bùa và giữ anh ở lại trước giờ tai nạn.",
+      "no": 10
+    },
+    {
+      "id": "m11",
+      "scene": "ylot",
+      "place": "Căn hộ · 15:10",
+      "kind": "hiem",
+      "title": "Nữ quỷ nhận nhầm",
+      "text": "15:10, một thôi thúc lạ kéo Triều Dương về phía cửa. Anh lao ra, nghe tiếng thét rồi tỉnh táo lại. Tử Hân dán bùa lên trán anh để anh thấy: một nữ quỷ nhợt nhạt đứng trong góc, nhận nhầm anh là kẻ đã đụng cô đêm qua rồi bỏ đi. Triều Dương nói đêm qua anh ở khách sạn, xe có thiết bị ghi hình. Cả ba xuống bãi đỗ xe: xe giống nhau nhưng không có móc khóa hình mèo máy như xe của kẻ đụng.",
+      "tieu": "Cô ấy không có ác ý, chỉ đang lạc và sợ. Nói nhỏ thôi.",
+      "cast": "n_th,n_td,n_sd,tc",
+      "ch": [
+        {
+          "t": "Nói với nữ quỷ bằng giọng chậm, hỏi cô ấy nhớ gì về chiếc xe đã đụng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nữ quỷ nghẹn ngào kể: móc khóa hình mèo máy, màu xe, một câu cuối của kẻ lái. Cô ghi nhớ từng chi tiết.",
+            "d": {
+              "ac": 0,
+              "sinh": 1
+            },
+            "f": "nho_xe"
+          },
+          "b": 0.4626666666666666,
+          "bad": {
+            "x": "Nữ quỷ run lên, không nói được. Cô đứng đó cho đến khi nữ quỷ bình tĩnh lại.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Cùng Triều Dương kiểm tra camera bãi đỗ xe và đối chiếu từng chiếc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Họ tìm ra đúng đoạn ghi hình đêm qua: xe của Triều Dương đỗ nguyên chỗ. Nữ quỷ chợt hiểu mình nhầm.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "nho_xe"
+          },
+          "b": 0.5586666666666666,
+          "bad": {
+            "x": "Camera mờ, hai người xem mất cả buổi. Cô thấy đầu nặng.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đứng chắn giữa Triều Dương và nữ quỷ, để cô ấy bình tĩnh lại trước",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nữ quỷ nhìn cô rồi lùi dần, nước mắt lặng lẽ rơi. Không khí dịu hẳn.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "nho_xe"
+          },
+          "b": 0.3986666666666667,
+          "bad": {
+            "x": "Nữ quỷ bỗng lao tới sát, cô giật mình lùi, vấp ngã. Cô đau ê ẩm.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "15:10, căn hộ rồi bãi đỗ xe. Nữ quỷ nhận nhầm Triều Dương là kẻ đã đụng cô.",
+      "no": 11
+    },
+    {
+      "id": "m12",
+      "scene": "ylot",
+      "place": "Bãi đỗ xe · Cuối chiều",
+      "kind": "duyen",
+      "title": "Nữ quỷ xin đi theo, nữ chính bị đổi",
+      "text": "Cuối chiều, bãi đỗ xe. Nữ quỷ tên Thi Dĩnh, cúi đầu xin lỗi rồi xin được đi theo Tử Hân. Cô hứa nếu có dịp sẽ giúp tìm kẻ đã đụng cô, với điều kiện cô ấy nghe lời, rồi cho cô ấy vào ngọc bội. Triều Dương cảm ơn, hứa giữ vai nữ nhị cho cô. Hai hôm sau có tin: vai nữ nhị vẫn của Tử Hân, nhưng nữ chính đổi thành Khúc Thư Nghi.",
+      "tieu": "Giờ ngươi đã có một người đi cùng, dù người ấy không còn thân thể. Đừng bỏ lời hứa.",
+      "cast": "n_th,n_td,n_sd,n_tn,tc",
+      "ch": [
+        {
+          "t": "Hứa chắc với Thi Dĩnh rằng cô sẽ tìm ra kẻ gây ra và đưa ra ánh sáng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thi Dĩnh lau mắt, khẽ cười lần đầu tiên. Ngọc bội trên cổ cô ấm lên.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 2
+            },
+            "f": "hua_sd"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thi Dĩnh gật nhưng ánh mắt vẫn nghi ngại. Cô hiểu lời hứa cần việc làm mới chắc.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Ghi lại thật kỹ mọi chi tiết Thi Dĩnh nhớ, để dùng khi cần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô lập một bảng nhỏ bên trong ngọc bội. Thi Dĩnh nhìn mà thấy lòng nhẹ hơn.",
+            "d": {
+              "ac": 0,
+              "sinh": 2
+            },
+            "f": "hua_sd"
+          },
+          "b": 0.5640000000000001,
+          "bad": {
+            "x": "Chi tiết quá rối, cô ghi chưa trọn. Thi Dĩnh bảo để cô ấy nhớ thêm sau.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Cười, nói với Triều Dương: «Anh nhớ trả lời tôi lời hứa giữ vai nữ nhị nhé»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Triều Dương hứa lại lần nữa, rất nghiêm. Tin nữ chính bị đổi đến, anh nổi giận hơn cô.",
+            "d": {
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "hua_sd"
+          },
+          "b": 0.43599999999999994,
+          "bad": {
+            "x": "Triều Dương cười xòa, bảo để anh lo. Cô thấy anh chưa thật sự nghiêm túc.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Cuối chiều, bãi đỗ xe. Thi Dĩnh xin đi theo Tử Hân; hai hôm sau nữ chính bị đổi thành Khúc Thư Nghi.",
+      "no": 12
+    },
+    {
+      "id": "m13",
+      "scene": "yhall",
+      "place": "Trường quý tộc làm phim trường · Sáng",
+      "kind": "duyen",
+      "title": "Khởi máy",
+      "text": "Sáng khởi máy ở trường quý tộc. Đoàn phim còn xa lánh cô; Mục Thanh Tùng chưa công bố dàn diễn viên. Triều Dương gọi cô vào phòng hóa trang riêng của anh, dùng rèm ngăn đôi. Rồi Phan Cảnh Hòa đưa Khúc Thư Nghi tới, cả đoàn xôn xao vì ảnh đế đưa bạn gái tới thăm. Tử Hân thấy cả hai nhìn mình rất lâu.",
+      "tieu": "Đây là lần đầu ngươi đứng cùng phòng với hai người đó. Đừng để mặt lộ gì, giữ bình thản.",
+      "cast": "n_th,n_td,n_ch,n_tn,tc",
+      "ch": [
+        {
+          "t": "Chào hai người bằng một nụ cười xã giao vừa đủ, không hơn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cảnh Hòa hơi sững, Thư Nghi mím môi. Cô quay đi thật tự nhiên. Cả phòng nhìn cô đổi khác.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "giu_binh_tinh"
+          },
+          "b": 0.5073333333333334,
+          "bad": {
+            "x": "Nụ cười của cô cứng một nhịp, Thư Nghi nhận ra và nhếch môi. Cô tự nhắc luyện lại.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Quay sang Triều Dương hỏi chuyện cảnh quay đầu tiên, như không có ai khác",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Triều Dương hiểu ý, đáp lại thật nhập tâm. Cảnh Hòa đứng đó như người ngoài cuộc.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "giu_binh_tinh"
+          },
+          "b": 0.5713333333333335,
+          "bad": {
+            "x": "Hai người nói chưa ăn khớp, Cảnh Hòa chen vào xã giao. Cô đành nhẫn.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Lẳng lặng ra ngoài hành lang trước, để hai người khỏi cớ gây chuyện",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ra tới hành lang thì có tiếng chuông gọi khởi máy. Hai người ở lại trong phòng, ngượng ngập.",
+            "d": {
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "giu_binh_tinh"
+          },
+          "b": 0.4113333333333333,
+          "bad": {
+            "x": "Cô đi vội, va vào một nhân viên. Mọi người nhìn, Thư Nghi nén cười.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Sáng, trường quý tộc làm phim trường. Cảnh Hòa đưa Thư Nghi tới thăm, hai người nhìn Tử Hân rất lâu.",
+      "no": 13
+    },
+    {
+      "id": "m14",
+      "scene": "yhall",
+      "place": "Hành lang ngoài phòng hóa trang · Giờ nghỉ",
+      "kind": "chon",
+      "title": "Cảnh Hòa nói ác",
+      "text": "Qua Tiểu Châu, cô nghe được suy nghĩ của Thư Nghi, một thứ lạ như tiếng thì thầm ký sinh trong đầu cô ta. Ngoài hành lang, Cảnh Hòa mỉa mai cô thông đồng với Triều Dương, nói cô «chỉ là đồ chơi». Tử Hân để mắt đỏ lên, nước mắt rơi, đồng thời bật máy ghi âm giấu trong túi. Triều Dương xô Cảnh Hòa một cái. Cảnh Hòa giữ nụ cười, nói với mọi người anh «không so đo».",
+      "tieu": "Máy ghi âm đã chạy. Đây là chứng cứ đầu tiên, giữ cho chắc.",
+      "cast": "n_th,n_ch,n_tn,n_td,tc",
+      "ch": [
+        {
+          "t": "Để nước mắt rơi, nhìn thẳng Cảnh Hòa mà không nói một lời",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả hành lang im phăng phắc. Cảnh Hòa không còn nụ cười. Ai cũng thấy ai mới là người tổn thương.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "ghi_am"
+          },
+          "b": 0.4553333333333333,
+          "bad": {
+            "x": "Nước mắt rơi chưa đúng lúc. Cảnh Hòa nhếch miệng nói «diễn giỏi nhỉ». Cô nuốt cơn nghẹn.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -2
+            },
+            "f": "ghi_am"
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Giữ mặt lạnh, hỏi lại từng câu để lời của Cảnh Hòa nằm trọn trong bản ghi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô hỏi gọn, Cảnh Hòa đáp dài, sa vào nhiều câu hớ hênh. Bản ghi âm đủ rõ từng chữ.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "ghi_am_ro"
+          },
+          "b": 0.5513333333333335,
+          "bad": {
+            "x": "Cô hỏi vụng, Cảnh Hòa cười xòa lảng đi. Bản ghi chỉ lấy được nửa.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "ghi_am"
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Lùi lại để Triều Dương lên tiếng, cô chỉ đứng im bên cạnh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Triều Dương nói thẳng, mọi người ủng hộ anh. Cảnh Hòa rút lui, mặt tái đi.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "ghi_am"
+          },
+          "b": 0.42333333333333345,
+          "bad": {
+            "x": "Triều Dương nóng nảy hơn cô tưởng, suýt đấm Cảnh Hòa. Cô phải kéo anh lại.",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -3
+            },
+            "f": "ghi_am"
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Giờ nghỉ, hành lang. Cảnh Hòa mỉa mai Tử Hân là «đồ chơi»; cô bật máy ghi âm giấu trong túi.",
+      "learn": {
+        "n": "Thu âm lưu chứng cứ",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 14
+    },
+    {
+      "id": "m15",
+      "scene": "yhall",
+      "place": "Lối ra hành lang · Ngay sau đó",
+      "kind": "duyen",
+      "title": "Hai người ngã",
+      "text": "Ngay sau đó, Cảnh Hòa tự vấp ngã sấp, Thư Nghi chạy tới đỡ lại vấp ngã đè lên anh. Anh kêu lớn và trẹo chân. Cả đoàn bật cười. Thư Nghi xin nghỉ đi cùng anh tới bệnh viện. Tử Hân cười thầm: hai lá bùa xui cô ném đi lúc nãy đã rơi đúng chỗ.",
+      "tieu": "Đừng cười lộ ra mặt. Thế mới là cao tay.",
+      "cast": "n_th,n_ch,n_tn,tc",
+      "ch": [
+        {
+          "t": "Giữ nét mặt bình thản, ra hiệu cho nhân viên đỡ hai người lên xe",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nhân viên làm theo, Cảnh Hòa không bắt bẻ được gì. Trong mắt mọi người, cô là người tử tế.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "giu_dang"
+          },
+          "b": 0.5246666666666667,
+          "bad": {
+            "x": "Khóe môi cô còn nhếch nhẹ. Thư Nghi trừng mắt, nhưng chẳng ai thấy ngoài cô.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Lặng lẽ nhờ Tiểu Châu ghi lại cả đoạn để dùng làm chuyện cười nhẹ về sau",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đoạn ghi gọn và rõ, cô cất vào kho dữ liệu của Tiểu Châu. Nó sẽ có ích.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "giu_dang"
+          },
+          "b": 0.5566666666666668,
+          "bad": {
+            "x": "Tiểu Châu ghi nhưng hình hơi rung. Cô đành bỏ.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Quay sang Triều Dương trao nhau một nụ cười ngầm rồi đi tiếp vào cảnh quay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người cười với nhau thật ngắn. Cảnh quay sau đó suôn sẻ lạ.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "giu_dang"
+          },
+          "b": 0.4286666666666667,
+          "bad": {
+            "x": "Triều Dương cười quá to, cả đoàn quay lại nhìn. Cô vội kéo anh đi.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Ngay sau đó, lối ra hành lang. Cảnh Hòa vấp ngã, Thư Nghi chạy tới đè lên anh, cả đoàn bật cười.",
+      "no": 15
+    },
+    {
+      "id": "m16",
+      "scene": "ydress",
+      "place": "Phòng hóa trang · Cuối buổi",
+      "kind": "chon",
+      "title": "Mặc Hành tới phim trường",
+      "text": "Cuối buổi, phòng hóa trang. Giản Mặc Hành bước vào, nói «Ta tìm nàng» và hỏi khi nào cô dọn về. Cô nói khi nào cũng được nhưng hắn phải tới đón. Hắn cảnh báo tin đồn bị bao dưỡng sẽ thành sự thật, cô nói cô không sợ. Triều Dương chặn hắn ở hành lang, bảo đừng làm phiền cô.",
+      "tieu": "Hắn tới tận phim trường. Đó là lần đầu hắn bước vào chỗ đông người vì ngươi.",
+      "cast": "n_th,n_mh,n_td,tc",
+      "ch": [
+        {
+          "t": "Dọn về ngay hôm nay, cùng hắn lên xe trước mặt mọi người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả hành lang ngơ ngẩn nhìn. Hắn đỡ túi cho cô, khóe môi cong lên rất nhẹ.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.3913333333333334,
+          "bad": {
+            "x": "Cô còn đang thu dọn thì hắn đã mất kiên nhẫn. Cô vội vã ra xe, hơi lúng túng.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.45
+        },
+        {
+          "t": "Hẹn hắn chờ thêm vài ngày, cô cần hoàn thành vài cảnh trước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn gật: «Ta chờ.» Giọng hắn dịu hơn mọi lần. Cô biết hắn đang nhịn.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.5833333333333335,
+          "bad": {
+            "x": "Hắn im, rồi nói: «Ta không thích chờ.» Cô thấy bầu không khí căng hơn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nhờ Triều Dương nhường đường, tự mình nói rõ với hắn ở hành lang",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Triều Dương tránh sang một bên. Cô nói thẳng với hắn chuyện của hai người, và hắn nghe hết.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.4553333333333333,
+          "bad": {
+            "x": "Triều Dương không chịu tránh, hai người đàn ông nhìn nhau căng thẳng. Cô phải đứng giữa.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cuối buổi, phòng hóa trang. Mặc Hành tới tận phim trường tìm Tử Hân, Triều Dương chặn hắn ở hành lang.",
+      "no": 16
+    },
+    {
+      "id": "m17",
+      "scene": "ystudio",
+      "place": "Phim trường · Buổi quay đầu",
+      "kind": "chon",
+      "title": "Cảnh keo nước",
+      "text": "Buổi đầu quay cô đối diễn Thư Nghi. Tiểu Châu nghe được từ hệ thống lậu của Thư Nghi rằng có người đổ keo lên ghế. Thư Nghi né, để chỗ đó lại cho Tử Hân. Cô nhìn ghế, rút khăn giấy, lấy sách của bạn cùng bàn lót lên, nói «Lễ vật này tôi không thích lắm». Mục Thanh Tùng không dừng máy; bạn cùng bàn đỏ mặt. Cô được thêm lời thoại.",
+      "tieu": "Cú này là ngươi tự gỡ, không ai chỉ. Chọn kiểu gỡ nào để đoàn phim nhớ.",
+      "cast": "n_th,n_tn,n_mt,tc",
+      "ch": [
+        {
+          "t": "Ứng biến theo đúng kịch bản, chỉ thêm một câu thoại nhỏ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Câu nhỏ ấy khiến cả phim trường bật cười, đạo diễn gật đầu nhận luôn vào bản quay.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "ung_bien"
+          },
+          "b": 0.5513333333333335,
+          "bad": {
+            "x": "Cô thêm lời hơi lệch nhịp, phải quay lại lần hai. Đạo diễn thở dài nhẹ.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Thêm cả hành động: nhấc sách lên, lau tay ngay trước mặt Thư Nghi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả đoàn phim nín thở rồi bật cười. Thư Nghi cứng đờ, không nói được gì.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "ung_bien"
+          },
+          "b": 0.3913333333333334,
+          "bad": {
+            "x": "Hành động của cô hơi lố, đạo diễn nhíu mày bảo cắt. Phải quay lại.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.45
+        },
+        {
+          "t": "Giữ im lặng, chờ Thư Nghi tự lộ mình trước ống kính",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thư Nghi bối rối, lộ nét mặt khó chịu đúng lúc máy quay lia tới. Cô không phải nói gì.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "ung_bien"
+          },
+          "b": 0.48733333333333334,
+          "bad": {
+            "x": "Thư Nghi giữ được vẻ bình tĩnh, cảnh quay trôi qua không có gì đặc biệt.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Buổi đầu quay, phim trường. Có người đổ keo lên ghế; Thư Nghi né, Tử Hân ngồi vào.",
+      "no": 17
+    },
+    {
+      "id": "m18",
+      "scene": "ystage",
+      "place": "Phim trường rồi cổng trường · Chiều",
+      "kind": "chon",
+      "title": "Cảnh tát và cổng trường",
+      "text": "Cảnh nữ nhị biết nam chính thích em gái. Tử Hân diễn tát Triều Dương (tiếng vang nhưng không đau), nói «Em sẽ xuất ngoại» rồi chạy khỏi cảnh. Cả phim trường nín thở. Sau buổi quay, ở cổng trường Giản Mặc Hành đã chờ sẵn, đưa khăn giấy. Cô ôm tay hắn gọi «A Hành», nhờ hắn lau nước mắt. Một tiếng máy ảnh vang lên: có người chụp trộm.",
+      "tieu": "Có người chụp. Đừng cuống, chọn cho đúng.",
+      "cast": "n_th,n_mh,n_td,tc",
+      "ch": [
+        {
+          "t": "Để Mặc Hành xử lý bức ảnh, nhờ hắn nhắn người của hắn lo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn gật, một cuộc gọi là xong. Ánh mắt hắn dịu đi vì được cô nhờ.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.37400000000000005,
+          "bad": {
+            "x": "Hắn gọi nhưng giọng quá gắt, người nghe bên kia lo ngại. Chuyện vẫn xong, nhưng cô thấy bất an.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -1
+            }
+          },
+          "b0": 0.44
+        },
+        {
+          "t": "Quay sang chỗ có tiếng máy ảnh, mỉm cười như không có chuyện gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Người chụp ngẩn người, hạ máy xuống. Cô cười hiền, thế là bức ảnh trông như một khoảnh khắc đẹp.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô cười chậm, người kia đã chụp thêm. Ảnh lan nhanh hơn dự tính.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Để ảnh lan ra, chỉ nhờ Tống Ý chuẩn bị lời nhắn ngắn đúng lúc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ảnh lên mạng cùng một dòng ngắn của Tống Ý: «Bạn bè thôi». Dân mạng tranh cãi, nhưng không ai tìm được lỗi.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.5660000000000001,
+          "bad": {
+            "x": "Dòng nhắn hơi muộn, dư luận đã chạy trước. Cô và Tống Ý phải thức khuya xử lý.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Chiều, phim trường rồi cổng trường. Tử Hân diễn cảnh tát; Mặc Hành chờ ở cổng và có người chụp trộm.",
+      "no": 18
+    },
+    {
+      "id": "m19",
+      "scene": "yphone",
+      "place": "Căn hộ · Sáng hôm sau",
+      "kind": "nan",
+      "title": "Hot search và những lượt thích",
+      "text": "Sáng hôm sau, tên cô và hắn cùng lên đầu tin. Mạng mắng cả hắn vì «nuôi bình hoa». Tử Hân dùng tài khoản lớn bấm thích từng bình luận mắng hắn rồi đăng «Vui vẻ», nói muốn hắn biết cảm giác bị mắng. Hắn cầm điện thoại, nói không cần tự làm xấu mình, rồi đòi dùng quyền thế gỡ hết, bắt từng người mắng phải trả giá. Giọng hắn rất bình thản, và chính điều đó khiến cô lo.",
+      "tieu": "Đây là mốc nặng. Đừng để hắn dùng quyền thế như hồi trước, nếu không đường lui của ngươi sẽ khép lại.",
+      "cast": "n_th,n_mh,n_ty,tc",
+      "ch": [
+        {
+          "t": "Nắm tay hắn, nói thẳng: «Tôi cần anh đừng can thiệp, để tôi tự đi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn tay cô, im lâu, rồi buông điện thoại. «Được.» Lần đầu hắn nhượng bộ vì cô.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 4,
+              "sinh": -1
+            },
+            "f": "ngan_hanh"
+          },
+          "b": 0.3613333333333334,
+          "bad": {
+            "x": "Hắn gật nhưng mắt vẫn lạnh. Cô biết hắn chưa hẳn đồng ý, chỉ không muốn cãi.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            },
+            "f": "ngan_hanh"
+          },
+          "b0": 0.42
+        },
+        {
+          "t": "Cho hắn xem bản ghi âm của Cảnh Hòa, nói cô đã có cách đúng luật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe hết bản ghi, mặt tối dần, rồi nói: «Ta chờ nàng.» Cô thở ra, nhẹ cả người.",
+            "d": {
+              "ac": -2,
+              "hac": -3,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "ngan_hanh"
+          },
+          "b": 0.5213333333333334,
+          "bad": {
+            "x": "Hắn nghe nhưng chỉ nói: «Chưa đủ.» Cô phải ngồi giải thích thêm cả giờ.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Tự gọi cho Tống Ý, nhờ cô bé xử lý theo luật, rồi nhìn hắn để hắn thấy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nghe cuộc gọi, rồi chỉ nói: «Nàng làm đúng.» Hắn cất điện thoại vào túi.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": -1
+            },
+            "f": "ngan_hanh"
+          },
+          "b": 0.45733333333333354,
+          "bad": {
+            "x": "Tống Ý bận, không nghe máy. Hắn đã gọi cho người của hắn trước khi cô kịp ngăn.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "hac": 2,
+              "sinh": -3
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "Sáng hôm sau, căn hộ. Tên cô và hắn cùng lên hot search; hắn đòi dùng quyền thế gỡ hết bình luận.",
+      "forced": 1,
+      "no": 19
+    },
+    {
+      "id": "m20",
+      "scene": "yvilla",
+      "place": "Biệt thự của Mặc Hành · Tối",
+      "kind": "chon",
+      "title": "Kịch bản mới và lời mời sinh tồn",
+      "text": "Một tối ở phòng khách của Mặc Hành. Tống Ý mang tin: chương trình «Rừng Sâu Thử Thách» có rắn, nhện, rất nguy hiểm; cô bé hỏi cô có muốn rút không. Mặc Hành ngồi nghe, hỏi chương trình gì rồi để mặc cô. Cô xin vai nữ nhị trong phim mới của hắn; hắn đưa kịch bản bảo cô chọn. Cô nói nữ nhị mới là người được yêu thật lòng mãi tới cuối. Hắn cầm kịch bản về thư phòng, sửa nam nhị cho hợp.",
+      "tieu": "Nhớ hỏi cho kỹ chương trình ấy trước khi nhận. Ngươi đã nghe giọng hắn khi hắn sửa nam nhị rồi.",
+      "cast": "n_th,n_mh,n_ty,tc",
+      "ch": [
+        {
+          "t": "Nhận lời chương trình, nhờ Tống Ý xin thêm điều kiện an toàn trong hợp đồng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tống Ý ghi đầy đủ điều khoản. Mặc Hành nghe lỏm cũng gật.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "dk_an_toan"
+          },
+          "b": 0.5786666666666667,
+          "bad": {
+            "x": "Điều khoản bị bỏ sót vài chỗ. Cô phải hỏi lại sau.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Nói thẳng với Mặc Hành rằng cô cần anh tin cô tự lo được",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn im rất lâu, rồi đáp: «Ta tin.» Cô thấy vai mình nhẹ đi.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.4186666666666665,
+          "bad": {
+            "x": "Hắn gật nhưng tay siết kịch bản đến nhăn giấy. Cô biết hắn đang cố nhẫn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Ngồi đọc kịch bản mới cùng hắn, góp ý một nhân vật cho hay hơn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nghe góp ý, hai người nói chuyện đến khuya. Hắn ghi thêm hai dòng vào lề.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.48266666666666663,
+          "bad": {
+            "x": "Hai người bất đồng về một cảnh, nói to hơn cô định. Cô nhẹ giọng lại.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Một tối, phòng khách biệt thự của Mặc Hành. Tống Ý mang tin về chương trình sinh tồn nguy hiểm.",
+      "no": 20
+    },
+    {
+      "id": "m21",
+      "scene": "yphone",
+      "place": "Căn hộ · Tối đầu phát sóng",
+      "kind": "chon",
+      "title": "Phim học đường lên sóng",
+      "text": "Tối ngày đầu phát sóng. Nhóm hắc phấn tụ họp định mắng cô, nhưng cảnh keo nước, cảnh bóng rổ và cảnh tát khiến họ khen không dứt. Tử Hân đăng «Lên sóng, vui vẻ». Thái Vân xào chuyện cho Thư Nghi nhưng không lên nổi. Cuối ngày Tống Ý báo chương trình sinh tồn sẽ phát sóng trực tiếp; hợp đồng đã ký, không rút được.",
+      "tieu": "Phim hay nhưng đừng mừng quá. Ngươi sắp vào rừng thật rồi.",
+      "cast": "n_th,n_ty,n_tv,tc",
+      "ch": [
+        {
+          "t": "Chấp nhận đi chương trình, tập luyện thêm một tuần cho kỹ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tập leo núi, học nhận biết cây cỏ cùng Tống Ý và một chuyên gia. Cô bước vào rừng vững tâm hơn.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 2
+            },
+            "f": "tap_rung"
+          },
+          "b": 0.4653333333333333,
+          "bad": {
+            "x": "Tuần tập luyện bị cắt vì lịch quay. Cô đi với chút lo lắng.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Nhờ Tống Ý đàm phán lại một số điều khoản, rồi chấp nhận phần còn lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tống Ý đàm phán xong ba điều khoản, nhà sản xuất đồng ý. Cô yên tâm hơn nhiều.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "tap_rung"
+          },
+          "b": 0.5613333333333335,
+          "bad": {
+            "x": "Nhà sản xuất từ chối mọi thay đổi. Cô đành ký đúng bản cũ.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cười, đăng tiếp vài dòng để người xem háo hức theo dõi chương trình",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dòng đăng của cô khơi lên một làn sóng chờ đợi. Chương trình còn chưa chiếu đã lên top.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "tap_rung"
+          },
+          "b": 0.4333333333333333,
+          "bad": {
+            "x": "Dòng đăng bị hiểu sai thành khoe khoang. Cô phải xóa và xin lỗi trong đêm.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Tối ngày đầu phát sóng, căn hộ. Phim học đường được khen; hợp đồng chương trình sinh tồn đã ký, không rút được.",
+      "no": 21
+    },
+    {
+      "id": "m22",
+      "scene": "rgreen",
+      "place": "Trạm tập kết rừng Lâm Hải · Sáng",
+      "kind": "chon",
+      "title": "Tám người, bốn tổ",
+      "text": "Sáng, trạm tập kết cạnh rừng Lâm Hải. Đạo diễn Đoàn Nguyên giới thiệu tám khách mời: Cảnh Hòa, Triều Dương, Tạ Nặc, Đới Nguyên Bân, Thư Nghi, Tử Hân, Cung Ngưng Thu, Đới Ni. Phát sóng trực tiếp suốt một tháng; nhà đầu tư thưởng một trăm triệu cho mỗi tổ ở tới cuối; đội cứu hộ đi theo. Chia tổ: Tử Hân với Triều Dương, Cảnh Hòa với Thư Nghi, hai chị em họ Đới, Tạ Nặc với Ngưng Thu.",
+      "tieu": "Nhà đầu tư thưởng nhiều đến mức lạ. Có người muốn ngươi ở lại trong rừng.",
+      "cast": "n_th,n_td,n_dn,n_ch,n_tn,tc",
+      "ch": [
+        {
+          "t": "Dò hỏi Đoàn Nguyên về nhà đầu tư và nguồn tiền thưởng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đoàn Nguyên lỡ miệng nhắc đến «Quý tổng». Cô giữ cái tên ấy trong lòng.",
+            "d": {
+              "ac": 0,
+              "hao": 0,
+              "sinh": 1
+            },
+            "f": "quy_nghi"
+          },
+          "b": 0.49733333333333335,
+          "bad": {
+            "x": "Đoàn Nguyên lảng đi bằng câu đùa. Cô không hỏi được gì.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Chỉ ghi nhớ gương mặt và dáng đi của từng người, không hỏi gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhớ rõ mọi người, kể cả những người chỉ đứng ngoài rìa. Điều đó sau này giúp ích.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "nho_nguoi"
+          },
+          "b": 0.49733333333333335,
+          "bad": {
+            "x": "Quá nhiều gương mặt, cô nhớ lẫn vài người. Cô cười trừ.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Bắt chuyện thân thiện với hai chị em họ Đới để có thêm đồng minh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đới Ni cười toe, Đới Nguyên Bân cũng bớt ngượng. Cô có thêm hai người bạn trong rừng.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "ban_doi"
+          },
+          "b": 0.4653333333333333,
+          "bad": {
+            "x": "Hai chị em còn ngại, nói được dăm câu rồi thôi. Cô không vội.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Sáng, trạm tập kết rừng Lâm Hải. Tám khách mời chia bốn tổ; Tử Hân đi cùng Triều Dương.",
+      "no": 22
+    },
+    {
+      "id": "m23",
+      "scene": "rgreen",
+      "place": "Trạm tập kết · Giờ chuẩn bị",
+      "kind": "duyen",
+      "title": "Chiếc vali",
+      "text": "Giờ chuẩn bị, Tống Ý nhét đồ vào vali cơ khí. Tử Hân mang vali tự động đi theo, cả đoàn cười; Triều Dương thử nhấc không nổi. Vào bụi cỏ, vali mọc chân, mọc dao nhỏ mở đường rộng rãi. Mọi người sững sờ; Đới Ni xin có cái giống. Cô trả lời «người khác tặng».",
+      "tieu": "Cái vali này là đồ ta kiếm cho ngươi, đừng khoe thêm gì khác. Ai hỏi thì cười.",
+      "cast": "n_th,n_td,n_dni,tc",
+      "ch": [
+        {
+          "t": "Cười và trả lời đơn giản: «Người khác tặng», đừng nói thêm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mọi người cười theo, chuyện qua nhanh. Triều Dương liếc cô một cái đầy ngầm hiểu.",
+            "d": {
+              "ac": 0,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "vali_kin"
+          },
+          "b": 0.5173333333333333,
+          "bad": {
+            "x": "Cô cười hơi gượng, Đới Ni nhìn lâu hơn bình thường. Cô vội lảng sang chuyện khác.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cho Đới Ni mượn thử một lần để dập tắt tò mò",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đới Ni thích mê, quay sang kể cho khán giả nghe. Vali thành chủ đề vui của buổi sáng.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "vali_kin"
+          },
+          "b": 0.48533333333333323,
+          "bad": {
+            "x": "Vali tự co chân lại không chịu nghe lời Đới Ni. Mọi người cười ồ, nhưng cô hơi sợ lộ.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đẩy vali về phía Triều Dương, nhờ anh đi trước dò đường",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Triều Dương đi trước, vali theo sau yên ổn. Cô không phải giải thích gì thêm.",
+            "d": {
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "vali_kin"
+          },
+          "b": 0.5173333333333333,
+          "bad": {
+            "x": "Vali vấp một rễ cây, phát tiếng kêu lạ. Mọi người ngoái lại nhìn.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.51
+        }
+      ],
+      "ctx": "Giờ chuẩn bị, trạm tập kết. Tử Hân mang vali cơ khí do Tống Ý chuẩn bị; vali mọc chân và dao nhỏ khi vào bụi cỏ.",
+      "no": 23
+    },
+    {
+      "id": "m24",
+      "scene": "rgreen",
+      "place": "Bụi cỏ rừng Lâm Hải · Trưa",
+      "kind": "hiem",
+      "title": "Bụi cỏ và hố bùn",
+      "text": "Đường xuyên bụi cỏ; đạo diễn đã báo có bẫy. Tiểu Châu quét đường cho cô tránh hố bẫy. Cảnh Hòa tới khuyên bỏ vali vì khó leo núi, Thư Nghi đế thêm «đừng tùy hứng»; Triều Dương bực. Thư Nghi kéo Cảnh Hòa vào đúng hướng cô tránh, và hai người rơi xuống hố bùn. Triều Dương cười lớn. Tử Hân nói «Vui vẻ» trước ống kính. Cảnh Hòa giữ vẻ nhân hậu, nói lần sau phải dò đường.",
+      "tieu": "Ngươi chỉ cần đi đúng đường. Họ tự chọn hố.",
+      "cast": "n_th,n_ch,n_tn,n_td,tc",
+      "ch": [
+        {
+          "t": "Hỏi họ có sao không, đưa tay kéo lên nếu cần",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cảnh Hòa nhận tay cô trước ống kính, nở nụ cười chuẩn mực. Khán giả khen cô rộng lượng.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -1
+            },
+            "f": "giup_ch"
+          },
+          "b": 0.48266666666666663,
+          "bad": {
+            "x": "Cảnh Hòa gạt tay cô, tự bò lên. Cô giữ bình tĩnh, nhưng khán giả xôn xao.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Đứng yên cười nhẹ, nói «Vui vẻ» như cô vẫn hay nói",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Triều Dương cười lớn hơn, khán giả đồng loạt chat «Vui vẻ». Lời của cô trở thành chữ ký.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 0
+            },
+            "f": "chu_ky_vui"
+          },
+          "b": 0.4186666666666665,
+          "bad": {
+            "x": "Cô cười hơi muộn, nhiều người chê cô cay nghiệt. Cô nhận ra mình cần cẩn trọng hơn.",
+            "d": {
+              "hao": -1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nhờ Tiểu Châu quét đường tiếp, dẫn cả nhóm vòng qua bẫy còn lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu chỉ ra thêm ba bẫy. Cả nhóm đi qua an toàn, Triều Dương thốt lên «cô như có mắt sau gáy».",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 0
+            },
+            "f": "quet_bay"
+          },
+          "b": 0.5786666666666667,
+          "bad": {
+            "x": "Tiểu Châu quét chậm, cô suýt đạp vào bẫy cuối. Cô kịp nhảy lùi, tim đập loạn.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.52
+        }
+      ],
+      "ctx": "Trưa, bụi cỏ rừng Lâm Hải. Cảnh Hòa và Thư Nghi rơi xuống hố bùn, Tử Hân nói «Vui vẻ» trước ống kính.",
+      "no": 24
+    },
+    {
+      "id": "m25",
+      "scene": "rstone",
+      "place": "Dốc đá rừng Lâm Hải · Chiều",
+      "kind": "chon",
+      "title": "Dốc đá",
+      "text": "Chiều, dốc đá cao; nhân viên thả dây an toàn; tổ nhất được xin một yêu cầu với đoàn. Vali tự leo; Tử Hân leo nhanh như chạy, Triều Dương theo sau nhờ từng đi leo núi. Cảnh Hòa và Thư Nghi cố giành nhất để xin nước tắm; Tử Hân vượt qua, nói «Nhất là của tôi».",
+      "tieu": "Lên nhanh nhưng đừng vội. Đá ẩm, chân trượt là xong.",
+      "cast": "n_th,n_td,n_ch,n_tn,tc",
+      "ch": [
+        {
+          "t": "Leo thẳng lên bằng sức tay, giữ nhịp đều từ dưới lên",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lên tới đỉnh đầu tiên, tay còn run nhẹ. Triều Dương lên sau gần một phút.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "leo_nhat"
+          },
+          "b": 0.4113333333333333,
+          "bad": {
+            "x": "Cô trượt một nhịp, dây an toàn kéo căng. Cô tái mặt, may chỉ trầy đầu gối.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nhờ Tiểu Châu dò chỗ bám chắc nhất, leo theo đường nó chỉ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Từng chỗ bám đều chắc. Cô leo gọn như đã quen từ lâu.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 0
+            },
+            "f": "leo_nhat"
+          },
+          "b": 0.5713333333333335,
+          "bad": {
+            "x": "Chỗ bám Tiểu Châu chỉ trượt nhẹ. Cô lên chậm hơn dự tính.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Nhường quyền ưu tiên cho tổ khác, tập trung đi an toàn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Các tổ khác cảm kích, khán giả khen cô rộng lượng. Triều Dương gật gù.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "nhuong"
+          },
+          "b": 0.5073333333333334,
+          "bad": {
+            "x": "Nhường xong, cô lại bị tổ khác chê «làm màu». Cô nuốt cơn bực.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Chiều, dốc đá. Tử Hân leo nhanh nhất; Cảnh Hòa và Thư Nghi cố giành nhất để xin nước tắm.",
+      "learn": {
+        "n": "Leo núi đá",
+        "s": "van",
+        "v": 1
+      },
+      "no": 25
+    },
+    {
+      "id": "m26",
+      "scene": "rriver",
+      "place": "Hạ lưu sông · Cuối ngày",
+      "kind": "duyen",
+      "title": "Xiên cá",
+      "text": "Hạ lưu sông, cuối ngày; hai người đã cạn đồ ăn đoàn cấp. Tử Hân tước một cây xiên, nhát nào cũng trúng; Triều Dương xiên mãi không trúng con nào. Họ nướng cá, uống rượu vang mang theo; nhân viên đoàn thử xuống nước cũng ít trúng. Giản Mặc Hành xem trực tiếp, gửi bình luận «Triều Dương làm việc chưa đủ vững».",
+      "tieu": "Cá ngon đấy. Còn bình luận của hắn thì ghi lại, kẻo hắn lại giận oan người.",
+      "cast": "n_th,n_td,n_mh,tc",
+      "ch": [
+        {
+          "t": "Dạy Triều Dương cách nhìn cá và đoán đường lướt của nó",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Triều Dương xiên được con đầu tiên, vui như trẻ con. Khán giả cười rộ.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "day_xien"
+          },
+          "b": 0.5613333333333335,
+          "bad": {
+            "x": "Triều Dương vẫn trượt hết. Cô cười, chia cá của mình cho anh.",
+            "d": {
+              "hao": 0,
+              "sinh": 0
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Xiên thêm vài con cho cả đoàn, rồi nướng chung ở bờ sông",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả đoàn xúm quanh đống lửa, khen cá thơm. Không khí ấm hẳn lên.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 2
+            },
+            "f": "nuong_chung"
+          },
+          "b": 0.4653333333333333,
+          "bad": {
+            "x": "Cá hơi cháy, mọi người nể mặt ăn cho xong. Cô cười gượng.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Nhắn lại bình luận của Mặc Hành: «Triều Dương làm rất tốt, ngài đừng giận»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mặc Hành xóa bình luận cũ, gửi lại một chữ: «Được.» Cô thấy hắn ngoan hơn mọi khi.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 0
+            },
+            "f": "mh_tin"
+          },
+          "b": 0.4333333333333333,
+          "bad": {
+            "x": "Mặc Hành không trả lời. Cô lo hắn đang giận âm thầm.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cuối ngày, hạ lưu sông. Tử Hân xiên cá giỏi hơn Triều Dương; Mặc Hành xem trực tiếp và gửi bình luận.",
+      "learn": {
+        "n": "Xiên cá",
+        "s": "van",
+        "v": 1
+      },
+      "no": 26
+    },
+    {
+      "id": "m27",
+      "scene": "rriver",
+      "place": "Bờ sông rộng bảy mét · Cùng ngày",
+      "kind": "chon",
+      "title": "Qua sông",
+      "text": "Cùng ngày, sông rộng bảy mét, sâu gần ba mét; các tổ nghĩ cách qua. Hai chị em họ Đới qua sông bằng cà kheo bốn mét. Hai tổ khác trát bè gỗ. Tử Hân hỏi Triều Dương có chơi parkour không, anh đáp có. Thư Nghi hỏi hệ thống lậu có cách nào tương tự, hệ thống từ chối.",
+      "tieu": "Một thân cây bắc ngang là đủ nếu chân ngươi đủ vững. Hoặc là buộc bè, an toàn nhưng chậm.",
+      "cast": "n_th,n_td,n_dni,n_tn,tc",
+      "ch": [
+        {
+          "t": "Chạy qua thân cây bắc ngang sông, Triều Dương chạy trước, cô theo sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người qua sông trong mười giây. Vali lướt như ván trượt phía sau. Khán giả chat tới nghẽn.",
+            "d": {
+              "ac": -1,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "qua_cay"
+          },
+          "b": 0.42066666666666674,
+          "bad": {
+            "x": "Chân cô trượt giữa thân cây, tay kịp bám Triều Dương. Cô ngồi xuống thở, mặt trắng bệch.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.45
+        },
+        {
+          "t": "Cùng Triều Dương buộc bè gỗ, đẩy qua sông từng người một",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bè nhỏ nhưng chắc. Cả hai qua sông yên ổn, khán giả khen cẩn thận.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "qua_be"
+          },
+          "b": 0.5806666666666667,
+          "bad": {
+            "x": "Bè nghiêng một góc, nước tạt vào áo. Họ qua được nhưng ướt sũng.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Hỏi hai chị em họ Đới mượn cà kheo thử",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đới Ni cười tít, cho mượn ngay. Cô bước thử, đứng vững, Triều Dương vỗ tay.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 0
+            },
+            "f": "muon_ca_kheo"
+          },
+          "b": 0.3886666666666667,
+          "bad": {
+            "x": "Cà kheo hơi cao, cô lảo đảo nhưng bám được Triều Dương. Cả nhóm cười ồ.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.44
+        }
+      ],
+      "ctx": "Cùng ngày, bờ sông rộng bảy mét. Các tổ tìm cách qua sông; Tử Hân hỏi Triều Dương có chơi parkour không.",
+      "learn": {
+        "n": "Giữ thăng bằng trên thân cây",
+        "s": "van",
+        "v": 1
+      },
+      "no": 27
+    },
+    {
+      "id": "m28",
+      "scene": "rriver",
+      "place": "Bờ đối diện · Chiều",
+      "kind": "duyen",
+      "title": "Hố nước nóng",
+      "text": "Chiều, bờ đối diện; mọi người dựng lều. Cô chọn chỗ ba mặt núi vây, Triều Dương dựng hai lều. Cô đào hố, nung đá ném xuống làm nước ấm, dùng ống hút nước sông. Cô đưa vòi sen bóp tay; Triều Dương dựng lều tắm. Mọi người nhìn hai người dựng trại gọn gàng mà ngạc nhiên.",
+      "tieu": "Chỗ nghỉ tốt là một nửa chiến thắng. Giữ sức, sau còn nhiều việc.",
+      "cast": "n_th,n_td,tc",
+      "ch": [
+        {
+          "t": "Chọn vị trí trại cao ráo, kín gió, thuận đường thoát hiểm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Trại dựng xong trước khi trời tối. Cô nằm xuống thấy lưng thẳng, giấc ngủ êm.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 3
+            },
+            "f": "trai_tot"
+          },
+          "b": 0.5713333333333335,
+          "bad": {
+            "x": "Trại hơi gần nước, nửa đêm gió lạnh thốc vào. Cô ngủ chập chờn.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Đào hố nước nóng, nung đá cho cả hai tắm ấm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nước ấm ngập vai, cô thở dài thoải mái. Triều Dương bảo đây là chuyến đi sướng nhất đời anh.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 3
+            },
+            "f": "nuoc_nong"
+          },
+          "b": 0.47533333333333333,
+          "bad": {
+            "x": "Đá chưa nóng đủ, nước ấm nửa vời. Cô chỉ rửa mặt cho xong.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhờ Triều Dương dựng thêm lều tắm kín, rồi cô tự lo bếp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người chia việc ăn ý. Lều tắm xong, bữa tối cũng nóng. Cả đoàn nhìn theo thèm.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 2
+            },
+            "f": "chia_viec"
+          },
+          "b": 0.4433333333333333,
+          "bad": {
+            "x": "Lều tắm lệch, bếp lại khói nhiều. Hai người cười, ăn tạm.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Chiều, bờ đối diện. Tử Hân và Triều Dương dựng trại gọn gàng; cô đào hố nước nóng.",
+      "learn": {
+        "n": "Dựng trại dã ngoại",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 28
+    },
+    {
+      "id": "m29",
+      "scene": "rfire",
+      "place": "Bên lửa trại · Tối",
+      "kind": "chon",
+      "title": "Nước sạch và khói đuổi muỗi",
+      "text": "Tối cùng ngày; Thư Nghi mang quần áo bẩn ra sông giặt, muỗi nhiều. Tử Hân ngăn Thư Nghi giặt xuống sông vì làm bẩn nguồn nước, mọi người nghe theo. Đới Ni quên nhang muỗi, Cung Ngưng Thu mang nhang cắm điện (vô dụng vì không có điện). Cô chỉ cách đốt bó củi ẩm cho khói đuổi muỗi.",
+      "tieu": "Biết thì chia sẻ, chẳng mất gì. Nhưng ngươi cũng đâu phải bảo mẫu của cả đoàn.",
+      "cast": "n_th,n_tn,n_nt,n_dni,tc",
+      "ch": [
+        {
+          "t": "Dạy cả đoàn cách đốt khói đuổi muỗi và giữ nguồn nước sạch",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả đoàn làm theo, tối nay không ai bị muỗi chích. Cung Ngưng Thu lặng lẽ cảm ơn cô.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 2
+            },
+            "f": "day_chung"
+          },
+          "b": 0.5466666666666666,
+          "bad": {
+            "x": "Cô giải thích hơi dài, một nửa đoàn đã ngủ gật. Dù vậy tối nay vẫn đỡ muỗi.",
+            "d": {
+              "ac": 0,
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Chỉ cho tổ mình, kín đáo, để khỏi bị coi là khoe khoang",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô và Triều Dương ngủ yên. Sáng hôm sau cả đoàn lại hỏi cô, cô cười chia sẻ sau.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 2
+            },
+            "f": "chi_to"
+          },
+          "b": 0.48266666666666663,
+          "bad": {
+            "x": "Tổ khác thấy khói bên cô thì hỏi, cô trả lời cụt. Không khí hơi lạnh.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhường bó củi ẩm cho Đới Ni để cô bé tự làm thử",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đới Ni làm xong, hãnh diện khoe với mọi người. Không khí quanh lửa trại ấm hẳn lên.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "day_chung"
+          },
+          "b": 0.45066666666666655,
+          "bad": {
+            "x": "Đới Ni làm khói nhiều quá, cả đoàn ho sặc sụa. Cô vội đón lấy bó củi xử lý lại.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Tối, bên lửa trại. Tử Hân ngăn Thư Nghi giặt quần áo xuống sông và chỉ cách đốt củi ẩm đuổi muỗi.",
+      "no": 29
+    },
+    {
+      "id": "m30",
+      "scene": "rfire",
+      "place": "Bên lửa trại · Đêm",
+      "kind": "chon",
+      "title": "Vòi sen và lời từ chối",
+      "text": "Đêm, bên lửa trại, Cảnh Hòa tới mượn vòi sen. Cô từ chối, nói mình đã có người. Cảnh Hòa nói cô vẫn còn tiếc, cô nói hết thích rồi. Cô tuyên bố tổ hắn đừng tới mượn gì nữa. Cảnh Hòa nhìn cô lâu, tâm trí rối.",
+      "tieu": "Nhớ giữ đúng chừng mực. Từ chối rõ nhưng đừng gắt, kẻo khán giả lại đổ lên đầu ngươi.",
+      "cast": "n_th,n_ch,tc",
+      "ch": [
+        {
+          "t": "Từ chối thẳng, nói hết thích từ lâu và không cần giải thích thêm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cảnh Hòa tái mặt, không đáp nổi một câu. Cô quay về trại, bụng nhẹ như vừa bỏ được tảng đá.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 0
+            },
+            "f": "tu_choi_ch"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô nói hơi gắt, khán giả lập tức chia phe. Cô giữ nét mặt, nhưng thấy bực bội.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.45
+        },
+        {
+          "t": "Nói nhẹ hơn: «Chúng ta đã qua rồi, anh đừng tìm tôi nữa»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cảnh Hòa gật rất khẽ rồi rời đi. Không có ai bị tổn thương thêm tối nay.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "tu_choi_ch"
+          },
+          "b": 0.61,
+          "bad": {
+            "x": "Cảnh Hòa nghe xong vẫn đứng đó, chưa chịu đi. Cô phải nhắc lần nữa.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Cho mượn vòi sen, đổi lấy một lời xin lỗi trước ống kính",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cảnh Hòa im lâu rồi cúi đầu nói «xin lỗi». Khán giả kinh ngạc. Cô nhận vòi sen lại, không nói gì thêm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "xin_loi"
+          },
+          "b": 0.29000000000000004,
+          "bad": {
+            "x": "Cảnh Hòa nhận vòi sen, bỏ đi mà không đáp lại. Khán giả chê cô cho mượn không điều kiện.",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.4
+        }
+      ],
+      "ctx": "Đêm, bên lửa trại. Cảnh Hòa tới mượn vòi sen; Tử Hân từ chối.",
+      "no": 30
+    },
+    {
+      "id": "m31",
+      "scene": "rriver",
+      "place": "Bờ sông · Sáng hôm sau",
+      "kind": "hiem",
+      "title": "Thư Nghi tiếp cận Triều Dương",
+      "text": "Sáng hôm sau, bờ sông. Thư Nghi mang một giỏ trái cây, khuyên Triều Dương «khuyên Tử Hân bớt chấp nhất», nói Cảnh Hòa đã không để bụng. Triều Dương lạnh mặt. Hệ thống lậu cảnh báo hảo cảm chạm đáy, rồi ù tai khiến Thư Nghi ngã xuống đau đầu mười phút. Cảnh Hòa chạy tới trách Triều Dương; Tử Hân bảo anh không làm gì cả. Tiểu Châu giải thích đó là «trừng phạt» của hệ thống lậu.",
+      "tieu": "Thứ ký sinh trong đầu cô ta bắt đầu quay lại cắn chủ. Ngươi chỉ cần đứng ngoài, nhưng phải đứng cho đúng.",
+      "cast": "n_th,n_td,n_tn,n_ch,tc",
+      "ch": [
+        {
+          "t": "Đứng chắn giữa Triều Dương và Cảnh Hòa, nói rõ anh không động tới ai",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cảnh Hòa ngập ngừng rồi đỡ Thư Nghi đi. Triều Dương nhìn cô đầy biết ơn.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "che_td"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Cảnh Hòa không nghe, gằn giọng bắt Triều Dương xin lỗi. Cô mệt vì phải giằng co.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Hỏi nhân viên cứu hộ xem Thư Nghi có cần chăm sóc không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nhân viên tới ngay, Thư Nghi được đưa đi nghỉ. Khán giả khen cô thương người.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "cuu_ho"
+          },
+          "b": 0.45799999999999996,
+          "bad": {
+            "x": "Nhân viên chưa tới kịp, Thư Nghi rên rỉ ngay trước ống kính. Cô khó xử.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Giữ im lặng, để Triều Dương tự giải thích mọi chuyện bằng lời của anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Triều Dương nói gọn, dứt khoát. Không ai bắt bẻ được. Cô chỉ đứng cạnh anh.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "td_tu_noi"
+          },
+          "b": 0.522,
+          "bad": {
+            "x": "Triều Dương nóng, nói quá lời khiến Cảnh Hòa nổi giận. Cô phải can ngăn.",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sáng hôm sau, bờ sông. Thư Nghi tiếp cận Triều Dương, hệ thống lậu «trừng phạt» cô ta bằng ù tai và đau đầu mười phút.",
+      "no": 31
+    },
+    {
+      "id": "m32",
+      "scene": "rgreen",
+      "place": "Trong rừng · Sau hai tuần",
+      "kind": "chon",
+      "title": "Nửa tháng ăn no",
+      "text": "Sau hai tuần ở rừng, một sáng đi hái lượm. Cô và Triều Dương săn bắt, hái trái, nhận biết cây ăn được; họ chia thức ăn cho mọi người trừ tổ Cảnh Hòa và Thư Nghi. Đới Ni dặn em trai «đừng đắc tội Tử Hân». Một nhà thực vật học nghe tin tới nghiên cứu vài loài chưa ghi chép.",
+      "tieu": "Ăn no là tốt, nhưng chia cho ai mới là chuyện của ngươi.",
+      "cast": "n_th,n_td,n_dni,n_dnb,tc",
+      "ch": [
+        {
+          "t": "Chia thức ăn cho tất cả mọi người, kể cả tổ Cảnh Hòa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cảnh Hòa nhận gói thức ăn, im lặng rất lâu. Khán giả ngợi khen sự độ lượng của cô.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "chia_tat_ca"
+          },
+          "b": 0.42599999999999993,
+          "bad": {
+            "x": "Thư Nghi từ chối thẳng, nói câu khó nghe. Khán giả chia phe, cô bực nhưng giữ bình tĩnh.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Giữ ranh giới như cũ, chỉ chia cho những ai đã giúp đỡ nhau",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mọi người thấy hợp lý. Đới Ni cười hớn hở nhận phần. Cô thấy lòng nhẹ.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "giu_ranh"
+          },
+          "b": 0.554,
+          "bad": {
+            "x": "Một người bạn thân của Thư Nghi chê cô keo kiệt. Cô nuốt giận.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Dẫn nhà thực vật học đi xem các loài cây mới, chỉ chỗ cho họ ghi chép",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nhà thực vật học mừng rỡ, ghi lại cả cuốn sổ. Tên cô sẽ có trong báo cáo.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "dua_nha_tv"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Cô nhớ nhầm một loài, nhà thực vật học mỉm cười chỉnh lại. Cô ngượng.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Sáng, sau hai tuần ở rừng. Tử Hân và Triều Dương săn bắt hái lượm, chia thức ăn cho nhiều người.",
+      "learn": {
+        "n": "Nhận biết thực vật ăn được",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 32
+    },
+    {
+      "id": "m33",
+      "scene": "rgreen",
+      "place": "Trạm phát sóng · Hôm sau",
+      "kind": "chon",
+      "title": "Nhiệm vụ tìm vật nhảy dù",
+      "text": "Hôm sau, Đoàn Nguyên triệu tập ở trạm phát sóng. Nhà đầu tư bí ẩn tuyên bố: ai tìm được vật phẩm nhảy dù trước khi phát sóng kết thúc sẽ nhận một trăm triệu và một bộ phim được đầu tư. Giản Mặc Hành ghé trạm tìm cô; Đoàn Nguyên nói cô vừa vào rừng cùng đội. Hắn nói phim mới đã định nữ nhị, Đoàn Nguyên nhận ra hắn động tâm.",
+      "tieu": "Phần thưởng lớn quá nên có vấn đề. Đi đường nào là việc của ngươi.",
+      "cast": "n_th,n_td,n_dn,n_mh,tc",
+      "ch": [
+        {
+          "t": "Đi đường an toàn, vòng xa nhưng chắc chắn, theo Tiểu Châu dò sẵn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đường xa mà êm, hai người nghỉ đúng chỗ. Triều Dương khen cô thận trọng.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "duong_an"
+          },
+          "b": 0.6153333333333335,
+          "bad": {
+            "x": "Đường vòng dài hơn dự tính, trời đã sập tối khi tới nơi. Cô lo ngoài ý muốn.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Chọn đường tắt gần vực để kịp giờ, bám dây vali cho an toàn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người băng qua đoạn tắt gần vực, tới nơi sớm nhất. Triều Dương hú lên đắc ý.",
+            "d": {
+              "ac": -1,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "duong_tat"
+          },
+          "b": 0.3593333333333334,
+          "bad": {
+            "x": "Đá lở nhẹ dưới chân, hai người thoát hiểm trong gang tấc. Cô tái mặt cả buổi.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.44
+        },
+        {
+          "t": "Hỏi Đoàn Nguyên thêm về nhà đầu tư và điều kiện của phần thưởng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đoàn Nguyên thở dài và nói nhỏ: «Cô cẩn thận. Nhà đầu tư này thích có người không trở về.» Cô hiểu ra.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 0
+            },
+            "f": "canh_giac"
+          },
+          "b": 0.4553333333333333,
+          "bad": {
+            "x": "Đoàn Nguyên lảng đi, chỉ nói «cứ làm theo luật». Cô không moi thêm được gì.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Hôm sau, trạm phát sóng. Nhà đầu tư bí ẩn tuyên bố nhiệm vụ tìm vật phẩm nhảy dù.",
+      "no": 33
+    },
+    {
+      "id": "m34",
+      "scene": "rforest",
+      "place": "Rừng sâu Lâm Hải · Giữa buổi",
+      "kind": "hiem",
+      "title": "Mất tín hiệu",
+      "text": "Giữa buổi, trực thăng báo còn năm phút thả vật phẩm. Rồi tín hiệu và phát sóng đột ngột mất. Bộ đàm báo «tín hiệu bị quấy nhiễu, các tổ ra ngoài»; ba tổ làm theo. Tử Hân và Triều Dương không nhận được lệnh nào. Tiểu Châu báo có người đang áp sát từ ba hướng.",
+      "tieu": "Lệnh ra ngoài đó không dành cho ngươi. Có kẻ muốn ngươi ở lại một mình, hoặc muốn ngươi đi vào chỗ chúng đã chuẩn bị.",
+      "cast": "n_th,n_td,n_dn,tc",
+      "ch": [
+        {
+          "t": "Ở lại tại chỗ, nhờ Tiểu Châu gửi tín hiệu cầu cứu qua đường khác",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Một tín hiệu nhỏ lọt qua, chạm tới đúng người cần chạm. Cô thở ra, tim đập dồn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 0
+            },
+            "f": "bao_hieu"
+          },
+          "b": 0.5680000000000001,
+          "bad": {
+            "x": "Tín hiệu bị nhiễu giữa chừng. Cô gửi được nửa, không rõ có tới nơi.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Cùng Triều Dương rút nhanh vào chỗ rậm hơn, tránh hướng đang có người áp sát",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người trốn kịp vào tán lá dày, người truy đuổi đi lướt qua. Cô nén thở đến khi tiếng bước xa.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "bao_hieu"
+          },
+          "b": 0.5040000000000002,
+          "bad": {
+            "x": "Một cành khô gãy dưới chân, họ phải bỏ chạy ngay. Cô đau chân, thở gấp.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.46
+        },
+        {
+          "t": "Theo lệnh bộ đàm ra ngoài như ba tổ kia, rồi tính tiếp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba tổ kia hóa ra bị chặn ở ngoài, cô kịp quay lại trước khi đóng bẫy. Cô thoát hiểm trong gang tấc.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            },
+            "f": "ra_ngoai"
+          },
+          "b": 0.2480000000000001,
+          "bad": {
+            "x": "Cô ra ngoài thì lệnh đã đổi. Đúng là bẫy, cô phải chạy hết sức để thoát.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -5
+            }
+          },
+          "b0": 0.38
+        }
+      ],
+      "ctx": "Giữa buổi, rừng sâu. Tín hiệu và phát sóng mất; bộ đàm ra lệnh các tổ ra ngoài.",
+      "no": 34
+    },
+    {
+      "id": "m35",
+      "scene": "rburn",
+      "place": "Rừng sâu Lâm Hải · Vài phút sau",
+      "kind": "hiem",
+      "title": "Tiếng nổ và rừng sâu",
+      "text": "Vài phút sau, ba hướng có người xuất hiện. Một tiếng nổ chát chúa vang lên, vỏ cây bị tung từng mảng. Cô kéo Triều Dương nằm xuống né. Cô nhờ Tiểu Châu chặn tín hiệu của nhóm kia và nối phát sóng qua vệ tinh để cả nước cùng thấy. Triều Dương nói gia sản nhà anh chỉ có mình anh, chắc không ai nhắm anh. Cả hai chạy vào rừng sâu.",
+      "tieu": "Không ai bị thương thật, đó là may. Nhưng nếu ngươi chạy sai hướng, may sẽ hết ngay.",
+      "cast": "n_th,n_td,tc",
+      "ch": [
+        {
+          "t": "Nằm im, kéo Triều Dương nấp sau tảng đá lớn, chờ họ đi qua",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Người truy đuổi lướt qua mà không thấy. Hai người nín thở đếm từng giây cho đến lúc yên.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "bao_hieu"
+          },
+          "b": 0.47733333333333333,
+          "bad": {
+            "x": "Tiếng thở của Triều Dương quá to, một người ngoái lại. Cả hai phải bỏ chạy ngay.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nhờ Tiểu Châu nối phát sóng qua vệ tinh để cả nước cùng thấy",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hình ảnh hiện lên hàng triệu màn hình. Những kẻ truy đuổi chậm lại vì sợ lộ mặt. Cô cười mệt.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 0
+            },
+            "f": "phat_song"
+          },
+          "b": 0.5093333333333334,
+          "bad": {
+            "x": "Vệ tinh chỉ nối được vài chục giây. Cô phải chạy tiếp, tim đập dồn.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Kéo Triều Dương chạy ngược hướng họ, vào khu rừng cô đã ghi nhớ từ trước",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nhờ trí nhớ đường đi, hai người tới chỗ rậm hơn trước khi họ kịp đổi hướng.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "bao_hieu"
+          },
+          "b": 0.41333333333333344,
+          "bad": {
+            "x": "Cô nhớ nhầm một ngã rẽ, hai người phải quay đầu, mất mấy phút quý giá.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "Vài phút sau, rừng sâu. Một tiếng nổ vang lên, vỏ cây bị tung; Tử Hân và Triều Dương chạy vào rừng sâu.",
+      "no": 35
+    },
+    {
+      "id": "m36",
+      "scene": "rgreen",
+      "place": "Khu đầm lầy · Trước chiều",
+      "kind": "hiem",
+      "title": "Đầm lầy",
+      "text": "Phía trước là một mảng rêu và đất đen bằng phẳng. Cô nhận ra đầm lầy và dặn Triều Dương tránh rêu, đất đen. Hai người nhặt đá, tách nhau dụ kẻ truy đuổi rồi vòng lại ném vào cổ tay họ, đẩy họ xuống đầm. Cô hỏi bằng tiếng Anh ai thuê họ, họ không biết. Cô tháo vũ khí của họ ném xuống đầm, rồi dùng ná săn mấy con chim; Triều Dương nhặt về nướng.",
+      "tieu": "Đầm lầy là bạn của ngươi hôm nay. Dụ họ vào, đừng bước vào.",
+      "cast": "n_th,n_td,tc",
+      "ch": [
+        {
+          "t": "Dụ kẻ truy đuổi chạy vào mảng rêu, rồi vòng ngược lại ném đá vào cổ tay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai kẻ lao vào mảng rêu và lún đến thắt lưng. Vũ khí rơi khỏi tay. Cô nhanh tay gom rồi ném xuống bùn.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "thang_dam"
+          },
+          "b": 0.41333333333333344,
+          "bad": {
+            "x": "Một kẻ nhận ra bẫy và nhảy lùi. Cô phải chạy vòng, hụt hơi, gần như kiệt sức.",
+            "d": {
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.45
+        },
+        {
+          "t": "Hỏi thẳng bằng tiếng Anh ai đã thuê họ, để lấy lời khai trước khi họ chìm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Một kẻ buột miệng nhắc tới «ông chủ Quý». Cô ghi nhớ giọng và từng chữ. Tiểu Châu đã thu âm.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 0
+            },
+            "f": "loi_khai"
+          },
+          "b": 0.5093333333333334,
+          "bad": {
+            "x": "Họ không biết gì hoặc không chịu nói. Cô mất hơn mười phút mà không được gì.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Dùng ná săn vài con chim, nhờ Triều Dương nhặt về nướng cho kịp bữa chiều",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba con chim rơi xuống đất liền. Triều Dương reo lên, nhặt về nhóm lửa. Cô ăn lần đầu một bữa nóng trong ngày.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 2
+            },
+            "f": "san_chim"
+          },
+          "b": 0.47733333333333333,
+          "bad": {
+            "x": "Phát ná đầu trượt, chim bay mất. Cô thử lại, tốn thời gian, bụng càng cồn cào.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Trước chiều, khu đầm lầy. Tử Hân nhận ra đầm lầy, dụ kẻ truy đuổi vào mảng rêu và đẩy họ xuống bùn.",
+      "learn": {
+        "n": "Đọc địa hình đầm lầy",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 36
+    },
+    {
+      "id": "m37",
+      "scene": "rburn",
+      "place": "Bãi đầm lầy · Chiều",
+      "kind": "nan",
+      "title": "Giản Mặc Hành tới",
+      "text": "Chiều, bãi đầm lầy; cô đang nướng chim cùng Triều Dương. Giản Mặc Hành tới cùng đội cứu viện, nhìn đầm lầy và hiểu chuyện gì đã xảy ra. Mặt hắn trắng bệch. Hắn ngồi xuống giành miếng chim cô đang gặm, nói «tới bàn phim mới». Hắn thì thầm: phim sau này nhân vật nào cũng để cô chọn. Cô nhìn thấy bàn tay hắn run, và hắn ôm cô chặt hơn thường lệ, như sợ mất.",
+      "tieu": "Đây là mốc nặng. Hắn đã thấy nơi suýt nữa ngươi không còn. Kéo hắn lại trước khi nỗi sợ biến thành cơn giận.",
+      "cast": "n_th,n_mh,n_td,tc",
+      "ch": [
+        {
+          "t": "Cười hắn, chọc: «Ngài ngồi giành chim của người ta kìa»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bật cười, giọng nghẹn. Hắn cúi đầu vào vai cô một lúc, rồi buông tay từ từ.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 4,
+              "sinh": 0
+            },
+            "f": "cuoi_mh"
+          },
+          "b": 0.41333333333333344,
+          "bad": {
+            "x": "Hắn không cười. Hắn chỉ nhìn cô rất lâu rồi siết tay nhẹ hơn. Cô thấy mình đùa sai chỗ.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.45
+        },
+        {
+          "t": "Chia nửa con chim cho hắn, nắm tay hắn hỏi: «Ngài có sao không?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhận miếng chim, nuốt xuống, rồi nói khẽ: «Nàng còn sống là ta không sao.» Cô nghe mà nghẹn.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "chia_chim"
+          },
+          "b": 0.47733333333333333,
+          "bad": {
+            "x": "Hắn lắc đầu, mắt vẫn đảo khắp bãi đầm như tìm kẻ nào. Cô phải siết tay hắn lần nữa.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Kể ngắn gọn cho hắn nghe mọi việc đã xảy ra, để hắn thấy cô vẫn chủ động",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe đến cuối, thở dài rất dài. «Nàng làm tốt hơn ta nghĩ.» Cô nhận ra hắn tự trách vì không có mặt.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            },
+            "f": "ke_mh"
+          },
+          "b": 0.5093333333333334,
+          "bad": {
+            "x": "Cô kể lộn xộn, hắn càng căng. Hắn bảo đội cứu viện chuẩn bị đuổi tiếp.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2,
+              "bs": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Chiều, bãi đầm lầy. Mặc Hành tới cùng đội cứu viện, nhìn đầm lầy và hiểu chuyện gì đã xảy ra.",
+      "forced": 1,
+      "no": 37
+    },
+    {
+      "id": "m38",
+      "scene": "rhill",
+      "place": "Mép rừng Lâm Hải · Sau đó",
+      "kind": "duyen",
+      "title": "Đặc nhiệm và chặng ra rừng",
+      "text": "Sau đó, hai mươi đặc nhiệm hạ cánh, kính nể cô. Cô mời họ chim nướng, họ từ chối lịch sự và đưa những kẻ truy đuổi ra khỏi đầm. Cô nói mỏi chân; Mặc Hành ngồi xuống cõng cô ra khỏi rừng, cả nước xem trực tiếp. Cảnh Hòa nhìn theo; Thư Nghi để ý ánh mắt hắn.",
+      "tieu": "Ngươi đã làm xong chặng khó nhất. Giờ để hắn cõng ngươi ra khỏi rừng.",
+      "cast": "n_th,n_mh,n_ch,n_tn,tc",
+      "ch": [
+        {
+          "t": "Nằm yên trên lưng hắn, kể cho hắn nghe cảnh ngươi thấy trong rừng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe, thỉnh thoảng hỏi lại một chi tiết. Hai người ra tới đường mà không cảm thấy xa.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "cong_mh"
+          },
+          "b": 0.5613333333333335,
+          "bad": {
+            "x": "Cô buồn ngủ giữa chừng, nói không trọn. Hắn lặng lẽ bước tiếp, không nhắc.",
+            "d": {
+              "hao": 1,
+              "sinh": 0
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Vẫy tay chào khán giả qua ống kính, ôm nhẹ cổ hắn để cả nước thấy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả nước thấy cô bình an. Mặc Hành hơi cứng đờ, nhưng bước chân vững hơn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "cong_mh"
+          },
+          "b": 0.4653333333333333,
+          "bad": {
+            "x": "Cô vẫy tay quá lâu, hắn thở dài bảo cô đừng cử động. Cô cười, ôm cổ hắn cho yên.",
+            "d": {
+              "hao": 1,
+              "sinh": 0
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Hỏi hắn đã phải trả giá gì để đội cứu viện tới nhanh vậy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn im rất lâu rồi đáp: «Đáng.» Cô nhận ra hắn đã làm nhiều hơn hắn chịu nói.",
+            "d": {
+              "ac": -2,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "cong_mh"
+          },
+          "b": 0.4333333333333333,
+          "bad": {
+            "x": "Hắn không đáp, chỉ bước nhanh hơn. Cô thấy hắn đang giấu điều gì.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": 0
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Sau đó, mép rừng. Đặc nhiệm hạ cánh; Mặc Hành cõng Tử Hân ra khỏi rừng trước ống kính cả nước.",
+      "no": 38
+    },
+    {
+      "id": "m39",
+      "scene": "yoffice",
+      "place": "Văn phòng Đoàn Nguyên · Vài ngày sau",
+      "kind": "chon",
+      "title": "Truy tìm người đứng sau",
+      "text": "Vài ngày sau, cô gọi Đoàn Nguyên hỏi ai là nhà đầu tư; ông nói «Quý tổng». Tiểu Châu lần ra chứng cứ: Quý Thừa Phong cố tình để tín hiệu bị quấy nhiễu, thuê kẻ truy sát, và từng đụng người rồi bỏ trốn đêm hôm ấy. Mặc Hành gửi thư luật sư tới Quý thị ngay trong đêm; Triều Dương đăng xác nhận: bộ đàm không nhận được lệnh ra ngoài.",
+      "tieu": "Chứng cứ đã đủ. Quyết định là ngươi tự gửi hay giao cho người đáng tin.",
+      "cast": "n_th,n_qp,n_dn,n_mh,n_td,tc",
+      "ch": [
+        {
+          "t": "Tự mình gửi chứng cứ cho cơ quan chức năng, kèm bản ghi âm và lời khai",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hồ sơ đầy đủ đến mức người nhận phải gọi lại cảm ơn. Cô ngủ một giấc yên sau nhiều ngày.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "gui_cb"
+          },
+          "b": 0.512,
+          "bad": {
+            "x": "Hồ sơ thiếu một giấy xác nhận. Cô phải bổ sung mất hai ngày.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhờ luật sư của Mặc Hành chuyển chứng cứ, cô chỉ ký xác nhận",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Luật sư làm gọn lẹ. Mặc Hành nhìn cô ký bằng ánh mắt khác hẳn mọi lần.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "nho_mh"
+          },
+          "b": 0.44799999999999995,
+          "bad": {
+            "x": "Luật sư hỏi lại nhiều điều, cô trả lời không trọn. Hồ sơ chậm mất một ngày.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Hỏi ý Triều Dương và Đoàn Nguyên, rồi cùng nhau đưa lên theo một đường",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ba người đưa hồ sơ cùng lúc, không ai thiếu ai. Vụ việc nhanh chóng lên bàn cơ quan chức năng.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "cung_gui"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Ba người bất đồng chuyện tiến hành, mất cả buổi mới thống nhất. Cô thở dài.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Vài ngày sau. Tử Hân hỏi Đoàn Nguyên về nhà đầu tư; Tiểu Châu tìm ra chứng cứ chống lại Quý Thừa Phong.",
+      "no": 39
+    },
+    {
+      "id": "m40",
+      "scene": "yhall",
+      "place": "Buổi xin lỗi của Quý thị · Vài ngày sau",
+      "kind": "chon",
+      "title": "Quý Thừa Phong sa lưới",
+      "text": "Vài ngày sau, buổi gặp mặt xin lỗi của Quý thị. Ba mẹ cô (Mạc Trọng Khải, Phùng Tú Lan) và em trai Mạc Duệ cùng tới; ba mẹ nói «con về nhà đi». Quý Thừa Phong xin lỗi, giọng đều đều; Thi Dĩnh thét lên nhận ra hắn. Tiểu Châu đưa chứng cứ cho ba mẹ, nhà Lạc và Mặc Hành; hắn bị bắt. Thi Dĩnh gặp người nhà lần cuối rồi rời đi.",
+      "tieu": "Hai chuyện cùng xảy ra một lúc: lời hứa với Thi Dĩnh và lời mời về nhà. Ngươi phải chọn trước hay sau.",
+      "cast": "n_th,n_qp,n_sd,n_tk,n_tl,n_md,tc",
+      "ch": [
+        {
+          "t": "Tiễn Thi Dĩnh trước, ở bên cô ấy đến phút cuối rồi mới nói với ba mẹ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thi Dĩnh ôm người nhà lần cuối, rồi nhìn cô cúi đầu thật sâu. Ánh sáng tan trong ngọc bội. Cô khóc lặng.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "tien_sd"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Thi Dĩnh đi trong nước mắt, cô hơi lạc lõng vì không nói được lời nào. Ba mẹ đứng chờ ở xa.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nói với ba mẹ trước rằng cô sẽ về nhà, rồi mới quay sang Thi Dĩnh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba mẹ ôm cô, mẹ khóc nức nở. Thi Dĩnh mỉm cười chờ cô tới, đầy thông cảm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "ve_nha"
+          },
+          "b": 0.534,
+          "bad": {
+            "x": "Mẹ khóc lâu, Thi Dĩnh phải chờ. Cô thấy mình có lỗi với cả hai phía.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nắm tay cả hai: nhờ em Mạc Duệ dìu mẹ, cô ở bên Thi Dĩnh đến khi xong",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mạc Duệ làm theo, dìu mẹ ra ngồi. Cô được trọn vẹn cả hai việc. Ba nhìn cô, gật đầu thật chậm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            },
+            "f": "ca_hai"
+          },
+          "b": 0.4060000000000001,
+          "bad": {
+            "x": "Mạc Duệ vụng về, mẹ lo thêm. Cô bận bịu chạy qua chạy lại, rối ren.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "Vài ngày sau, buổi xin lỗi của Quý thị. Quý Thừa Phong bị bắt; Thi Dĩnh gặp người nhà lần cuối.",
+      "no": 40
+    },
+    {
+      "id": "m41",
+      "scene": "yconcert",
+      "place": "Phim trường rồi rạp chiếu · Hai tháng sau",
+      "kind": "chon",
+      "title": "Phim «Người Giữ Cửa»",
+      "text": "Hai tháng sau, phim trường «Người Giữ Cửa». Mặc Hành mắng mọi người nhưng chỉ nhẹ giọng với Tử Hân: trà chiều, kem, dặn ăn đúng giờ. Phim ra rạp, phòng chiếu kín người; cảnh nữ nhị bác sĩ đưa chứng cứ thuốc giả làm nhiều người rưng rưng. Phim khiến cả nước chú ý chuyện thuốc giả; luật quản lý thuốc được rà soát lại. Tử Hân đạt giải nữ phụ xuất sắc.",
+      "tieu": "Phim của ngươi đã làm được điều ngươi chưa nghĩ tới. Giờ chọn cách bước lên bục.",
+      "cast": "n_th,n_mh,n_ty,tc",
+      "ch": [
+        {
+          "t": "Mời Mặc Hành lên cùng, đứng cạnh nhau khi nhận giải",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng cạnh, rất cứng, nhưng khi cô nhận giải thì hắn khẽ cười. Khán phòng vỗ tay dài.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "nhan_giai_cung"
+          },
+          "b": 0.44799999999999995,
+          "bad": {
+            "x": "Hắn lắc đầu từ chối, đứng ngoài hậu trường. Cô tự lên bục, hơi lẻ loi.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nhận giải một mình, nói lời cảm ơn gọn gàng rồi nhìn xuống chỗ hắn ngồi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nói đúng ba câu, câu cuối nhắm thẳng tới hắn. Hắn nghe mà nắm tay thật chặt.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "nhan_giai_mot"
+          },
+          "b": 0.544,
+          "bad": {
+            "x": "Cô quên một câu định nói. Cô cười, nói vắn tắt rồi xuống bục.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Bước xuống nhìn Tống Ý, kéo cô bé lên bục cùng như người đã đi cùng từ đầu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tống Ý khóc nấc khi bước lên. Khán phòng cảm động. Mặc Hành ngồi dưới lặng lẽ vỗ tay.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "nhan_giai_ty"
+          },
+          "b": 0.44799999999999995,
+          "bad": {
+            "x": "Tống Ý run đến mức không nói được. Cô nhẹ nhàng nói thay.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Hai tháng sau, phim trường rồi rạp chiếu. Phim «Người Giữ Cửa» lên rạp và Tử Hân đạt giải nữ phụ xuất sắc.",
+      "no": 41
+    },
+    {
+      "id": "m42",
+      "scene": "ymansion",
+      "place": "Thư phòng nhà Mặc Hành · Một buổi tối",
+      "kind": "chon",
+      "title": "Mặc Hành kể chuyện mẹ hắn",
+      "text": "Một buổi tối, thư phòng nhà Mặc Hành. Hắn kể: mẹ mang hắn rời nhà họ Phan khi biết cha phản bội, mất sớm, để lại một kế hoạch làm ăn nhằm đánh sập nhà họ Phan. Hắn làm theo và kéo cô vào; hắn nhận đó là sai. Cô nói: «Xin lỗi chưa đủ, ngươi phải dùng cả đời.» Hắn cho cô nghe lại đoạn ghi âm ngày hắn đưa điều kiện cho nguyên chủ. Cô cấm hắn nói cho Cảnh Hòa.",
+      "tieu": "Đây là chỗ hắn lột sạch lớp vỏ. Cái cô nói ra tối nay sẽ ở lại trong hắn rất lâu.",
+      "cast": "n_th,n_mh,n_ch,tc",
+      "ch": [
+        {
+          "t": "Tha thứ từng phần, nói rõ phần nào cô giữ lại và phần nào cô buông",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe, rồi gật. «Từng phần.» Hắn thở ra như vừa đặt xuống tảng đá cũ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "tha_phan"
+          },
+          "b": 0.5660000000000001,
+          "bad": {
+            "x": "Cô nói chưa rõ ý, hắn lo ngày mai mình lại làm sai. Cô nói lại lần nữa.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Yêu cầu hắn chứng minh bằng việc làm: xin lỗi người đã bị mình chặn đường",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn gật chậm. «Ta sẽ làm.» Cô nhận ra hắn nghiêm túc chưa từng thấy.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "yeu_cau"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn lặng đi, rồi nói «Để ta nghĩ.» Cô không biết hắn có đủ can đảm.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Giữ đoạn ghi âm bên mình, nói mai cô sẽ quyết có nên công bố hay không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đưa tay trao máy ghi âm. «Của nàng.» Cô nhận lấy, giữ chặt.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "giu_ghi_am"
+          },
+          "b": 0.37400000000000005,
+          "bad": {
+            "x": "Hắn không giao máy ghi âm, chỉ nói «để đó». Cô thấy hắn còn giữ lại điều gì.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.44
+        }
+      ],
+      "ctx": "Một buổi tối, thư phòng nhà Mặc Hành. Hắn kể về mẹ và nhận mình đã sai khi kéo nguyên chủ vào kế hoạch.",
+      "no": 42
+    },
+    {
+      "id": "m43",
+      "scene": "ywed",
+      "place": "Hội trường hôn lễ · Một ngày hè",
+      "kind": "nan",
+      "title": "Hôn lễ của Cảnh Hòa và Thư Nghi",
+      "text": "Một ngày hè, hội trường hôn lễ; Tử Hân và Mặc Hành cùng tới. Cảnh Hòa nhìn thấy ánh mắt cô và bối rối. Cô nói «Chúc mừng». Tiểu Châu nuốt hệ thống lậu trên người Thư Nghi; Thư Nghi mất hết kỹ năng giả, hoảng loạn làm đổ rượu lên một vị khách, chuyện lên hot search. Cảnh Hòa bị rút khỏi nhiều dự án và nhận ra mình đã sai. Thư Nghi rút khỏi giới.",
+      "tieu": "Mọi thứ sụp từ bên trong. Ngươi chẳng cần làm gì, chỉ cần đứng vững.",
+      "cast": "n_th,n_mh,n_ch,n_tn,tc",
+      "ch": [
+        {
+          "t": "Để hai người tự giải quyết, nắm tay Mặc Hành rời đi trước khi lộn xộn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn bước cạnh cô, tay nắm chặt. Cô cảm thấy lòng nhẹ hơn mọi lần bước ra khỏi nơi này.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "roi_di"
+          },
+          "b": 0.502,
+          "bad": {
+            "x": "Mặc Hành dừng giữa chừng, nhìn về phía Cảnh Hòa. Cô phải kéo hắn đi.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Nói với Cảnh Hòa một lời cuối: xin anh hãy sống tử tế",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cảnh Hòa nhìn cô rất lâu, rồi gật đầu. Anh rơi nước mắt. Cô bước đi mà không quay lại.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 4,
+              "sinh": 0
+            },
+            "f": "loi_cuoi"
+          },
+          "b": 0.502,
+          "bad": {
+            "x": "Cảnh Hòa không đáp, mắt vẫn ngơ ngác. Cô nói xong thì thấy mình cũng nghẹn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Ngồi lại tới cuối buổi như một khách bình thường, nhìn mọi chuyện diễn ra",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ngồi, uống ngụm trà và nhìn từng việc trôi qua. Khi buổi lễ tan, cô thấy lòng mình đã yên.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "ngoi_lai"
+          },
+          "b": 0.4060000000000001,
+          "bad": {
+            "x": "Một vị khách nhận ra cô, hỏi chuyện dai dẳng. Cô mệt vì phải trả lời.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "Một ngày hè, hội trường hôn lễ. Tiểu Châu nuốt hệ thống lậu của Thư Nghi; cô ta hoảng loạn, chuyện lên hot search.",
+      "no": 43
+    },
+    {
+      "id": "m44",
+      "scene": "ysea",
+      "place": "Vùng biển · Cuối năm",
+      "kind": "chon",
+      "title": "Chuyến đi hai người",
+      "text": "Cuối năm, một vùng biển. Phim «Đôi Ta» do hai người cùng viết đã ra rạp. Cô và hắn cùng tuyên bố nghỉ làm phim một thời gian. Trong phim «Đôi Ta», mỗi sáng nhân vật hỏi «Hôm nay em có thích anh thêm một chút không?», khiến dân mạng đoán không ra ý nghĩa. Hắn lo cho cô, đưa đi khám sức khỏe, kết quả bình thường. Giờ hắn đứng trước mặt cô trên bãi cát, chờ câu trả lời.",
+      "tieu": "Câu hỏi quen thuộc rồi. Trả lời thế nào cũng được, miễn là thật.",
+      "cast": "n_th,n_mh,tc",
+      "ch": [
+        {
+          "t": "Đáp «Có», nhìn thẳng vào mắt hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng im, rồi cười, nụ cười dài nhất cô từng thấy. «Ngày mai ta lại hỏi.»",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "dap_co"
+          },
+          "b": 0.48733333333333334,
+          "bad": {
+            "x": "Cô đáp hơi vội, hắn nhận ra điều đó nhưng vẫn mỉm cười. «Ta chờ.»",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Trêu: «Em chưa», rồi chạy dọc bờ biển để hắn đuổi theo",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đuổi theo, bắt kịp, ôm cô quay một vòng. Cả hai ngã nhào xuống cát và cười.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "dap_chua"
+          },
+          "b": 0.3913333333333334,
+          "bad": {
+            "x": "Hắn không đuổi theo. Hắn đứng nhìn, mặt nghiêm lại. Cô quay lại nắm tay hắn, nói «đùa thôi».",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.45
+        },
+        {
+          "t": "Viết câu trả lời vào cuốn sổ nhỏ rồi đưa cho hắn đọc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đọc, lau mắt thật nhanh. Rồi cất cuốn sổ vào túi áo như cất một vật báu.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "dap_viet"
+          },
+          "b": 0.5513333333333335,
+          "bad": {
+            "x": "Chữ cô nhòe vì gió, hắn nhờ cô đọc to. Cô ngượng, nhưng đọc.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -1
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Cuối năm, vùng biển. Phim «Đôi Ta» ra rạp; Mặc Hành hỏi cô câu quen thuộc.",
+      "learn": {
+        "n": "Viết kịch bản",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 44
+    },
+    {
+      "id": "m45",
+      "scene": "ysea",
+      "place": "Bờ biển · Hoàng hôn",
+      "kind": "nan",
+      "title": "Lời kết",
+      "text": "Sau chuyến đi, hoàng hôn trên bãi biển. Tiểu Châu lơ lửng cạnh cô, chuẩn bị đọc kết quả. Mặc Hành ngồi cạnh, cầm cuốn sổ nhỏ trong tay. Cô nhớ lại từng người từng chuyện: Tống Ý, Triều Dương, Thi Dĩnh, ba mẹ, đoạn ghi âm. Lần cuối trước khi hết nhiệm vụ, cô chọn cách nói cuối cùng với hắn.",
+      "tieu": "Đây là mốc cuối. Không còn gì phải sợ nữa, chỉ còn chuyện nên nói.",
+      "cast": "n_th,n_mh,tc",
+      "ch": [
+        {
+          "t": "Nói với hắn: «Từ nay em không cần đóng vai gì với anh nữa»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe, nắm tay cô thật chặt. «Ta cũng không.» Hoàng hôn đổ dài trên cát.",
+            "d": {
+              "ac": -5,
+              "hac": -5,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "ket_that"
+          },
+          "b": 0.5073333333333334,
+          "bad": {
+            "x": "Cô nói hơi nghẹn, hắn kịp đỡ lời. Hoàng hôn vẫn đẹp, chỉ là cả hai bớt chút ngượng.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -1
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Kể cho hắn nghe điều đẹp nhất cô thấy từ ngày tỉnh dậy trong căn hộ bừa bộn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe đến cuối, cười thật khẽ. «Vậy là ta cũng có phần trong đó.» Cô gật.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "ket_ke"
+          },
+          "b": 0.5393333333333334,
+          "bad": {
+            "x": "Cô kể dài quá, hắn ngủ gật vào vai cô. Cô cười, để hắn ngủ.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Im lặng ngồi cạnh hắn tới khi mặt trời lặn hết, không nói gì thêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn tựa đầu vào vai cô. Họ ngồi tới khi sao lên. Không ai cần thêm một lời.",
+            "d": {
+              "ac": -5,
+              "hac": -5,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "ket_im"
+          },
+          "b": 0.4433333333333333,
+          "bad": {
+            "x": "Gió lạnh dần, cô run nhẹ. Hắn khoác áo cho cô, dù mình mặc mỏng.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -1
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Hoàng hôn, bờ biển. Tiểu Châu chuẩn bị đọc kết quả; Tử Hân chọn lời cuối với Mặc Hành.",
+      "no": 45
+    }
+  ]
+}

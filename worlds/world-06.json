@@ -1,0 +1,3885 @@
+{
+  "id": "w6",
+  "no": 6,
+  "chapEnd": [
+    7,
+    18,
+    30,
+    40,
+    47
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": 0.01,
+  "p0": {
+    "mi": 60,
+    "tri": 58,
+    "van": 52
+  },
+  "params": {
+    "ac": 1,
+    "hac": 1.75,
+    "hao": 0.85,
+    "bad": 2.7,
+    "h0": 75
+  },
+  "names": {
+    "ha": "Kiều Hoài An",
+    "tnh": "Phó Tông Nhiên",
+    "ttr": "Phó Tư Triệt",
+    "him": "Ân Hiểu Mi",
+    "dkh": "Đoàn Khải",
+    "kta": "Kha Tú Anh",
+    "dth": "Dương Thiệu Hằng",
+    "lbv": "Lương Bác Văn",
+    "htq": "Hồ Tuệ Quân",
+    "nbn": "Ngưu Bội Ni",
+    "tvp": "Thạch Vạn Phúc"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 6 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh là hình vẽ tạm bằng mã.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Đêm không cần hát ru",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Phó Tông Nhiên đã về không. Anh ngủ một mạch đến sáng mà không cần ai hát, còn cô vẫn hát, vì cô muốn hát cho anh nghe lúc anh thức. Bệnh lạ được phát hiện sớm, bác sĩ nói cô còn rất nhiều năm để viết thêm sách.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "kdawn"
+    },
+    "near": {
+      "n": "Gần như trọn vẹn",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Anh đã ngủ được, chỉ thỉnh thoảng giật mình tỉnh dậy giữa đêm, đưa tay sang bên cạnh. Thấy cô còn đó, anh mới thở ra. Cô chưa kể với anh rằng cô cũng sợ những đêm như thế.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "kdawn"
+    },
+    "half": {
+      "n": "Ở lại bên nhau",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Anh vẫn xây tường quanh mình, vẫn giữ khoảng cách hai bước chân với cả thế giới. Nhưng chiếc ghế dài đầu hành lang vẫn là của cô, và mỗi tối anh vẫn để cửa phòng mở.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "kvilla"
+    },
+    "black": {
+      "n": "Đêm không còn ai nghe",
+      "c": "Hắc hóa chạm 100. Phó Tông Nhiên không còn nghe thấy tiếng hát nào nữa. Cả Lam Tinh chìm trong những cuộc họp lúc nửa đêm và hết bản án này đến bản án khác. Tiểu Châu kéo cô đi trước khi cánh cửa biệt thự khép lại.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "kvilla"
+    },
+    "bdead": {
+      "n": "Tiếng ru tắt lặng",
+      "c": "Sinh mệnh của Phó Tông Nhiên về 0. Chiếc ghế dài đầu hành lang vẫn còn đó, chỉ là không còn ai nằm nghe. Trong ngăn kéo phòng anh vẫn còn nguyên những món quà cô gửi từ nước ngoài, chưa một món nào bóc ra.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "khosp"
+    },
+    "dead": {
+      "n": "Hoài An gục xuống",
+      "c": "Sinh mệnh cạn kiệt. Bệnh lạ bùng ra giữa lúc cô còn đang hát. Tiểu Châu kéo linh hồn cô đi, khi ở đâu đó Phó Tông Nhiên vẫn ngồi nghe đi nghe lại những bản thu cũ.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "khosp"
+    }
+  },
+  "events": [
+    {
+      "id": "k01",
+      "scene": "ktea",
+      "place": "Tiệm trà sữa quen thuộc · Chiều muộn",
+      "kind": "chon",
+      "title": "Tờ chi phiếu trống",
+      "text": "Hoài An vừa tỉnh lại trong thân thể một cô gái 19 tuổi, đúng lúc đang bị chia tay. Đối diện cô là Phó Tư Triệt, 23 tuổi, người quản Lam Tinh Điện ảnh. Cậu nói Ân Hiểu Mi, tình đầu của cậu, vừa về nước và nhận lời ở bên cậu, rồi đẩy sang một tờ chi phiếu trống: cô điền bao nhiêu cũng được. Ký ức của thân thể này bảo cô phải khóc rồi bỏ chạy.",
+      "tieu": "Zzz... chào ngươi... ta là Tiểu Châu. Kịch bản gốc bắt ngươi khóc và chạy. Đừng làm theo. Tiền thì cứ lấy, đừng để ai nhìn thấy ngươi thảm hại...",
+      "cast": "ha,ttr,tc",
+      "ch": [
+        {
+          "t": "Điền một con số đủ sống nửa năm, không tham không dại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô điền con số vừa phải. Tư Triệt sững lại: cậu quen thấy cô xin ít hơn thế nhiều.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nghĩ quá lâu. Tư Triệt sốt ruột kéo tờ séc lại, tự điền một con số thấp hơn.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Đáp nhẹ: chúc hai người hạnh phúc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cười, giọng ráo hoảnh. Tư Triệt chờ một cơn khóc không đến, nét mặt thoáng lạc đi.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "tu_lac"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Giọng cô hơi run. Tư Triệt thở phào như vừa qua được một cửa ải.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Hỏi thẳng: cậu bỏ tôi vì cô ấy, hay vì tôi hết giá trị",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cậu im lặng một lúc rồi mới trả lời: không phải thế. Cô nhận tờ séc và đứng dậy trước.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cậu cau mày: đừng làm khó nhau. Cô nhận tờ séc trong im lặng, tay hơi tê.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều muộn, tiệm trà sữa quen thuộc. Kiều Hoài An, 19 tuổi, cô nhi vừa tốt nghiệp nhạc viện, bị bạn trai Phó Tư Triệt chia tay để quay lại với tình đầu Ân Hiểu Mi, và được đưa một tờ chi phiếu để bồi thường.",
+      "no": 1
+    },
+    {
+      "id": "k02",
+      "scene": "ktea",
+      "place": "Ngoài tiệm trà sữa · Ngay sau đó",
+      "kind": "duyen",
+      "title": "Tiểu Châu giao nhiệm vụ",
+      "text": "Ra khỏi tiệm, chi phiếu đã nằm trong túi. Tiểu Châu hiện lên trong đầu cô, ngái ngủ: cô là Kiều Hoài An, mồ côi, từng là thế thân của Hiểu Mi. Kịch bản gốc kể cô ghen, hãm hại không thành, bị vạch trần, bị ruồng bỏ rồi mất sớm ở tuổi 26. Người duy nhất có thể đổi kết cục ấy là Phó Tông Nhiên, cha nuôi của Tư Triệt, chủ tập đoàn Lam Tinh, nổi tiếng tàn nhẫn và mất ngủ nhiều năm. Ác niệm của anh là 100. Tiểu Châu nói thêm, ngập ngừng: thân thể này còn mang một căn bệnh lạ, khám chưa ra.",
+      "tieu": "Ta chỉ còn sức nói ít thôi. Nhớ kỹ: Tông Nhiên là người cần ngươi cứu, còn cái bệnh kia... ngươi tự giữ gìn sức khỏe. Đừng làm việc đến kiệt sức.",
+      "cast": "ha,tc",
+      "ch": [
+        {
+          "t": "Hỏi Tiểu Châu về căn bệnh lạ cho kỹ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu kể: bệnh không đau, chỉ khiến người mệt dần nếu bị dồn lịch, và có lúc đột ngột bùng lên. Cô ghi nhớ từng chữ.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_benh"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Tiểu Châu ngủ gật giữa câu. Cô chỉ nhớ được rằng nó nguy hiểm.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Hỏi về Phó Tông Nhiên trước",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Châu nói: anh sợ bị bỏ rơi, ghét ai đụng vào mình, và chỉ ngủ được khi có người hát cho nghe. Cô chợt thấy một người đàn ông rất cô độc.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "biet_tn"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiểu Châu chỉ nói được nửa câu rồi lịm đi. Cô đành tự đoán.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Hứa sẽ làm nhiệm vụ, hỏi sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô gật đầu cho xong. Nhẹ nhõm, nhưng cô biết mình còn nợ nhiều câu hỏi.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Tiểu Châu thở dài: ngươi chưa nghe hết đã gật đầu, rồi sẽ hối.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Ngoài tiệm trà sữa. Tiểu Châu giao nhiệm vụ độ hóa Phó Tông Nhiên, chủ tập đoàn Lam Tinh, 38 tuổi, mất ngủ nhiều năm, và báo thân thể này mang một căn bệnh lạ khám chưa ra.",
+      "no": 2
+    },
+    {
+      "id": "k03",
+      "scene": "kclub",
+      "place": "Quán nhạc Dư Âm · Cùng tối",
+      "kind": "duyen",
+      "title": "Nửa bài hát ở Dư Âm",
+      "text": "Quán nhạc Dư Âm bên kia đường vừa mở cửa. Tiểu Châu chỉ một người đàn ông cao lớn đang bước vào phòng khách quý: Phó Tông Nhiên. Cô cầm micro hát một bài tình ca chậm, hát được nửa bài thì dừng, cười và xin lỗi rồi bước xuống. Trong phòng khách quý, anh đã nghe hết. Một người phụ nữ do kẻ khác cài vào mang rượu tới dò tin; anh bóp vỡ chiếc ly và đuổi cô ta ra ngoài. Tiểu Châu kể lại cho cô nghe. Anh sai người đi tìm cô gái vừa hát.",
+      "tieu": "Hắn nghe được rồi! Hắn mất ngủ đã mấy năm, mà chỉ nghe nửa bài của ngươi đã ngồi im... Mau, hát cho đúng hơi!",
+      "cast": "ha,tnh,tc",
+      "ch": [
+        {
+          "t": "Hát nhẹ, giữ nhịp thở đều đến hết bài",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Giọng cô mềm như ru. Trong phòng khách quý, anh nhắm mắt hơi lâu.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "hat_nhe"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô hụt hơi ở đoạn cao rồi phải dừng. Anh vẫn ngồi im, chưa ai biết vì sao.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "learn": {
+            "n": "Kỹ thuật thanh nhạc",
+            "s": "mi",
+            "v": 2
+          }
+        },
+        {
+          "t": "Hát bài tình ca, nhìn về phía phòng khách quý",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nhìn vào tấm kính tối. Phía sau đó, anh đặt ly xuống, không rời mắt khỏi cô.",
+            "d": {
+              "ac": -2,
+              "hao": 4
+            },
+            "f": "hat_nhin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô lỡ liếc quá lâu, quên mất lời. Khán giả ngẩn ra.",
+            "d": {
+              "hao": -1,
+              "sinh": -1
+            }
+          },
+          "learn": {
+            "n": "Kỹ thuật thanh nhạc",
+            "s": "mi",
+            "v": 2
+          }
+        },
+        {
+          "t": "Hát vài câu rồi rời đi, không để ai chú ý",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô hát vừa đủ rồi chuồn khỏi quán. Phía sau, có người vội vã chạy ra tìm.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô vấp chân ở cửa, ly nước ai đó đổ lên tay.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "learn": {
+            "n": "Kỹ thuật thanh nhạc",
+            "s": "mi",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Cùng tối, quán nhạc Dư Âm. Hoài An hát nửa bài rồi bỏ đi; Phó Tông Nhiên ngồi ở phòng khách quý nghe hết, đuổi một người phụ nữ do kẻ khác cài vào, rồi sai người đi tìm cô.",
+      "no": 3
+    },
+    {
+      "id": "k04",
+      "scene": "kflat",
+      "place": "Căn hộ thuê của Hoài An · Tối cùng ngày",
+      "kind": "hiem",
+      "title": "Ba người đàn ông trước cửa",
+      "text": "Tiểu Châu báo: Tông Nhiên đang cho người tìm cô. Chưa đến mười giờ, chuông cửa đã vang. Ba người đàn ông mặc đồ đen đứng chặn trước cửa, lịch sự nhưng không nhúc nhích: chủ của họ muốn gặp cô gái hát ở Dư Âm tối nay. Họ không đe dọa, nhưng cũng không có ý đi khi chưa được trả lời. Dù cô chọn cách nào, tối nay cô cũng sẽ đến biệt thự của anh.",
+      "tieu": "Đừng sợ... hắn không hại người hát ru đâu. Chỉ là cách mời hơi... khác người thôi.",
+      "cast": "ha,tc",
+      "ch": [
+        {
+          "t": "Đi cùng họ, giữ điện thoại sẵn sàng gọi người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhắn địa chỉ cho Kha, người bạn cùng nhạc viện, rồi mới lên xe. Cô thấy mình vững hơn một chút.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "bao_tin"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Điện thoại hết pin ngay lúc cô lên xe. Cô ngồi cứng suốt chặng đường.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Đòi hẹn ở chỗ đông người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nói rất nhẹ mà rất chắc. Người đàn ông cầm đầu suy nghĩ rồi gọi điện, sau đó mỉm cười: tiên sinh đồng ý đón cô ở biệt thự, có người hầu ở đó.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Họ chỉ lặp lại lời mời, lần này nghiêm hơn. Cô đành đi.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Giả vờ gọi cảnh sát",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ lặng lẽ lùi ra một bước và bảo cô cứ gọi. Cảnh sát vừa tới thì nhận được một cuộc gọi từ trên: cả hai bên rút lui. Cô lên xe, bình tĩnh hơn dự tính.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Họ lịch sự đặt tay lên cánh cửa không cho đóng: xin cô đừng làm mọi chuyện khó coi. Cô run tay khi xuống nhà.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Tối cùng ngày, căn hộ thuê nhỏ của Hoài An. Ba vệ sĩ của Phó Tông Nhiên tìm tới mời cô gặp chủ của họ.",
+      "no": 4
+    },
+    {
+      "id": "k05",
+      "scene": "kvilla",
+      "place": "Phòng khách biệt thự Phó gia · Đêm",
+      "kind": "chon",
+      "title": "Điều kiện hát ru",
+      "text": "Phòng khách rộng, đèn vàng. Phó Tông Nhiên ngồi xuống đối diện cô, mắt thâm quầng của người nhiều năm không ngủ. Anh hỏi thẳng: cô muốn làm Phó thái thái, hay muốn danh lợi? Anh cần được nghe cô hát mỗi tối. Cô nói cô muốn được phủng thành ca sĩ và được bảo vệ khỏi tin đồn. Anh chặn trước một điều: không bao giờ là Phó thái thái. Hai bên bắt đầu thương lượng.",
+      "tieu": "Zzz... cẩn thận từng chữ... hắn thích người nói thẳng... nhưng không thích bị lừa...",
+      "cast": "ha,tnh,dkh",
+      "ch": [
+        {
+          "t": "Đòi thêm điều khoản: hát ru chỉ trong giờ ngủ, ban ngày không bị can thiệp",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhướng mày rồi gật đầu: được. Cô thấy mình vừa mua được một chút tự do.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "dieu_khoan"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nhìn cô lâu hơn: ta chưa từng thương lượng với ai nhiều như vậy.",
+            "d": {
+              "hac": 1
+            }
+          },
+          "learn": {
+            "n": "Thương lượng hợp đồng",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Đồng ý ngay, chỉ xin được ở phòng khách riêng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh có vẻ hài lòng vì cô không đòi hỏi quá đáng. Phòng khách ở cuối hành lang, cạnh phòng anh.",
+            "d": {
+              "ac": -1,
+              "hao": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh nhếch môi: cô rất biết điều, nhưng cô tưởng ta không nhìn ra à?",
+            "d": {
+              "hac": 1
+            }
+          },
+          "learn": {
+            "n": "Thương lượng hợp đồng",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Nói thật: tôi cần tiền và cần một chỗ đứng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh im lặng rất lâu rồi nói: thẳng thắn. Ta thích như vậy. Từ nay cô là người của ta, theo đúng nghĩa của hợp đồng.",
+            "d": {
+              "ac": -1,
+              "hao": 2
+            },
+            "f": "that_long"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nghiêng đầu: nghe không giống kịch bản của cô chút nào. Hơi lạnh trong giọng anh khiến cô nhớ lại tờ chi phiếu.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "learn": {
+            "n": "Thương lượng hợp đồng",
+            "s": "tri",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Đêm, phòng khách biệt thự Phó gia. Phó Tông Nhiên đề nghị Hoài An ở lại hát ru cho anh ngủ mỗi tối; đổi lại cô được phủng thành ca sĩ và được che chắn, với điều kiện cô không bao giờ là Phó thái thái.",
+      "no": 5
+    },
+    {
+      "id": "k06",
+      "scene": "kdine",
+      "place": "Bàn ăn sáng biệt thự · Sáng hôm sau",
+      "kind": "duyen",
+      "title": "Giấc ngủ đầu tiên",
+      "text": "Sáng hôm sau, bàn ăn sáng trải khăn trắng. Trợ lý Đoàn Khải đứng cạnh ghế anh, hơi lúng túng như vừa gặp chuyện lạ: tiên sinh ngủ một mạch tới lúc mặt trời lên, lần đầu sau nhiều năm. Tông Nhiên đưa cô bản hợp đồng của Lam Tinh Âm nhạc: tối qua hát không tệ. Cô đọc kỹ từng điều khoản trước khi ký. Anh nói người đại diện sẽ đến vào ngày mai.",
+      "tieu": "Hắn ngủ được rồi! Hảo cảm của hắn nhúc nhích rồi này, nhỏ thôi, nhưng là lần đầu tiên!",
+      "cast": "ha,tnh,dkh",
+      "ch": [
+        {
+          "t": "Đọc kỹ hợp đồng, hỏi lại một điều khoản lạ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chỉ ra một điều khoản bất lợi, anh gạch đi không nói gì. Đoàn Khải ngạc nhiên thấy tiên sinh chịu sửa hợp đồng vì người khác.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            },
+            "f": "hop_dong"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô đọc sót một dòng, về sau mới thấy. Anh không phản ứng.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Cười, nói: ngủ ngon là công của anh chứ không phải của tôi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh khựng lại một nhịp rồi khẽ gật đầu. Đây là lần đầu có người nói với anh như thế.",
+            "d": {
+              "ac": -2,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh lạnh nhạt: nói ít thôi. Cô cười gượng.",
+            "d": {
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Ký luôn, chỉ hỏi bao giờ tới buổi hát kế tiếp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh gật đầu: tối nay. Giọng anh nhẹ hơn tối hôm trước.",
+            "d": {
+              "ac": -1,
+              "hao": 3
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Anh nhìn cô một lúc: gấp thế cơ à. Đoàn Khải cười thầm.",
+            "d": {
+              "hao": 0
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, bàn ăn sáng biệt thự. Phó Tông Nhiên ngủ liền một mạch lần đầu sau nhiều năm; anh đưa Hoài An hợp đồng Lam Tinh Âm nhạc, trợ lý Đoàn Khải đứng cạnh.",
+      "no": 6
+    },
+    {
+      "id": "k07",
+      "scene": "kdine",
+      "place": "Bàn ăn sáng biệt thự · Cùng sáng",
+      "kind": "chon",
+      "title": "Phó Tư Triệt bước vào",
+      "text": "Đang ăn dở thì Tư Triệt về đòi tiền sinh hoạt. Thấy cô ngồi cạnh cha trong bộ đồ ngủ, cậu nghẹn lời, hiểu lầm điều gì đó mà không dám hỏi. Tông Nhiên chỉ nhìn cậu, lặng lẽ viết một tờ chi phiếu rồi đẩy sang. Lúc ấy điện thoại của cậu reo: Ân Hiểu Mi gọi, giọng bực bội. Tư Triệt đưa máy cho cô vì cô gần hơn. Cô chọn trêu qua máy hay giữ im; Hiểu Mi cúp máy giận, Tư Triệt chạy theo.",
+      "tieu": "Đây là màn mở đầu của kịch bản gốc đấy, nhưng ngươi đứng ở phía có lợi hơn rồi. Đừng làm quá, kẻo hắn nhìn ra.",
+      "cast": "ha,ttr,tnh,him",
+      "ch": [
+        {
+          "t": "Cầm máy, trả lời nhẹ nhàng như người xa lạ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng cô lịch sự đến lạnh. Hiểu Mi tưởng mình bị trêu, cúp máy. Tông Nhiên uống nốt cà phê, không nói gì nhưng khóe môi hơi nhích.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "troi_him"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hiểu Mi nghe ra hơi thở gấp của cô, hiểu cô sợ. Cô ta cười nhạt trước khi cúp máy.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Đưa máy lại, giữ im lặng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tư Triệt cầm máy ra ngoài. Cô ngồi yên, ăn nốt bánh. Tông Nhiên nhìn cô hơi lâu rồi quay đi.",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô để rơi cái thìa. Tư Triệt liếc cô một cái đầy ngờ vực rồi chạy theo Hiểu Mi.",
+            "d": {
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Ngẩng lên nhìn thẳng Tư Triệt, đợi cậu mở lời",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tư Triệt không dám mở lời. Cậu ngượng đến đỏ tai, xin phép về trước.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cậu bật dậy, bỏ lại một câu khó nghe. Tông Nhiên nhìn theo, mắt tối đi.",
+            "d": {
+              "hac": 2,
+              "hao": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng sáng, bàn ăn biệt thự. Phó Tư Triệt về nhà đòi tiền, bắt gặp Hoài An ngồi cạnh cha nuôi; Ân Hiểu Mi gọi điện, và cô là người nghe máy.",
+      "no": 7
+    },
+    {
+      "id": "k08",
+      "scene": "khall",
+      "place": "Hội trường «Giọng Ca Vàng» · Hai tuần sau",
+      "kind": "duyen",
+      "title": "Bán kết và người đại diện",
+      "text": "Hai tuần ở biệt thự trôi qua như một giấc mơ ngắn: ban ngày tập hát, ban đêm hát ru. Hôm nay là bán kết cuộc thi «Giọng Ca Vàng», 62 thí sinh, chọn 20 người vào chung kết. Người đại diện Kha Tú Anh đón cô ở xe bảo mẫu, cùng nhà tạo mẫu và hai trợ lý. Kha dặn: tránh đụng Hiểu Mi, tiểu thư nhà họ Ân. Cô để ý thí sinh số 17, Ngưu Bội Ni, người Kha nói hay chơi xấu sau lưng.",
+      "tieu": "Từ giờ ngươi vào guồng rồi. Nhớ chừa sức nghỉ nhé, bệnh lạ của thân thể này không đùa được đâu.",
+      "cast": "ha,kta,nbn",
+      "ch": [
+        {
+          "t": "Nghe Kha dặn, ghi nhớ từng người cần tránh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi nhớ gần hết danh sách. Kha thấy cô nghe nhập tâm thì yên tâm hơn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nhầm tên hai người. Kha thở dài rồi nhắc lại.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Mỉm cười chào Ngưu Bội Ni, bắt chuyện trước",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bội Ni hơi bất ngờ, đáp lại khô khan nhưng không gây khó. Kha nhìn cô như nhìn một người liều.",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            },
+            "f": "chao_bni"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bội Ni quay đi, nói nhỏ gì đó với cô thí sinh bên cạnh. Cô nghe thấy tên mình.",
+            "d": {
+              "sinh": -2,
+              "tt": 4
+            }
+          }
+        },
+        {
+          "t": "Chỉ tập trung nghỉ ngơi trước giờ thi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nằm nghỉ trên xe, thấy người nhẹ hẳn. Giờ thi tới, giọng cô sáng hơn hẳn.",
+            "d": {
+              "sinh": 3,
+              "ks": -6
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô ngủ gật quá lâu, vội vã chạy vào hậu trường với mái tóc chưa chải.",
+            "d": {
+              "sinh": -1,
+              "ks": 8
+            }
+          }
+        }
+      ],
+      "ctx": "Hai tuần sau, ngoài hội trường «Giọng Ca Vàng». Người đại diện Kha Tú Anh đưa Hoài An tới bán kết, 62 thí sinh chọn 20 người vào chung kết; Kha dặn cô tránh Ân Hiểu Mi và để ý Ngưu Bội Ni.",
+      "no": 8
+    },
+    {
+      "id": "k09",
+      "scene": "kback",
+      "place": "Hậu trường bán kết · Hai mươi phút trước giờ thi",
+      "kind": "chon",
+      "title": "Hiểu Mi và Tư Triệt",
+      "text": "Còn hai mươi phút nữa tới lượt cô. Hiểu Mi, dáng thanh tú trong chiếc váy trắng, bước tới cùng Tư Triệt, muốn nói chuyện riêng. Cô giả vờ không nhận ra, hỏi đây là ai. Hiểu Mi nghiến răng. Tư Triệt xin cô đừng phá chuyện của hai người; cô vỗ vai cậu như người lớn trấn an đứa nhỏ.",
+      "tieu": "Zzz... đây là chỗ ngươi nên nhẹ tay... đừng gây thêm kẻ thù không cần thiết...",
+      "cast": "ha,him,ttr",
+      "ch": [
+        {
+          "t": "Hỏi lịch sự: xin lỗi, cô là ai nhỉ?",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiểu Mi tái mặt. Tư Triệt cuống cuồng giải thích. Cô cười, bước đi, còn kịp thấy Hiểu Mi nắm chặt tay.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "tt": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hiểu Mi nhìn thấu cô: cô làm ra vẻ giỏi lắm. Cô ta cười lạnh rồi quay đi.",
+            "d": {
+              "sinh": -1,
+              "tt": 5
+            }
+          }
+        },
+        {
+          "t": "Im lặng, chỉ gật đầu chào rồi vào hậu trường",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hiểu Mi không có cớ để nói gì thêm. Cô giữ được bình tĩnh cho phần thi.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô lỡ liếc nhìn Tư Triệt một cái. Hiểu Mi thấy hết.",
+            "d": {
+              "tt": 4
+            }
+          }
+        },
+        {
+          "t": "Vỗ vai Tư Triệt: đừng lo, tôi không có hứng phá ai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tư Triệt đỏ mặt gật đầu. Hiểu Mi nhìn cô bằng ánh mắt khó hiểu.",
+            "d": {
+              "hao": 1,
+              "tt": -2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hiểu Mi nghe câu đó, mặt như bị tát. Tư Triệt ngượng chín người.",
+            "d": {
+              "tt": 6,
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Hai mươi phút trước giờ thi bán kết, hậu trường. Ân Hiểu Mi và Phó Tư Triệt tìm tới Hoài An; Hiểu Mi muốn nói riêng, Tư Triệt xin cô đừng phá chuyện của hai người.",
+      "no": 9
+    },
+    {
+      "id": "k10",
+      "scene": "kstage",
+      "place": "Sân khấu bán kết · Cùng buổi",
+      "kind": "hiem",
+      "title": "Điểm mãn phân",
+      "text": "Đèn sân khấu bật. Hiểu Mi vừa được 97 điểm. Đến lượt cô, bản nhạc nhẹ vang lên, cô hát chậm như hát ru. Hội trường im phăng phắc. Ba giám khảo cùng giơ bảng 100 điểm. Một người lau mắt, bảo sau bài hát này ông sẽ ngủ ngon, sau nhiều năm mất ngủ. Ở hàng ghế sau, Hiểu Mi nhìn thấy kết quả, siết chặt tà váy.",
+      "tieu": "Đừng quên thở! Ngươi hát cho hắn nghe mỗi tối, hát cho cả hội trường nghe thì cũng như nhau thôi.",
+      "cast": "ha,him,lbv",
+      "ch": [
+        {
+          "t": "Hát như hát ru cho một người, bỏ qua khán giả",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng cô trong và chậm. Cả hội trường lặng đi, đến lúc kết thúc mới có người vỗ tay.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "mf"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô bị khán giả làm xao nhãng, hát lệch một nốt. Ba giám khảo vẫn chấm 98.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Chọn bài dễ, hát đúng từng chữ, từng nhịp",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô hát chính xác, an toàn. Điểm số cao nhưng không gây xúc động bằng.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô quá lo giữ nhịp, bài hát nghe khô. Điểm số ở mức khá.",
+            "d": {
+              "hao": 0
+            }
+          }
+        },
+        {
+          "t": "Tin vào cảm hứng, thêm một đoạn ngân tự do",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đoạn ngân tự nhiên bật ra, đúng chỗ. Vài khán giả bật khóc.",
+            "d": {
+              "ac": -4,
+              "hao": 5
+            },
+            "f": "mf"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Đoạn ngân lệch tông. Một giám khảo nhăn mặt, nhưng khán giả vẫn vỗ tay.",
+            "d": {
+              "sinh": -2,
+              "hao": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Sân khấu bán kết «Giọng Ca Vàng», ba giám khảo. Ân Hiểu Mi vừa được 97 điểm; Hoài An hát và cố gắng đạt điểm mãn phân.",
+      "no": 10
+    },
+    {
+      "id": "k11",
+      "scene": "kweb",
+      "place": "Mạng xã hội «Tiếng Vang» · Hai tuần sau bán kết",
+      "kind": "nan",
+      "title": "Bài đăng bôi nhọ",
+      "text": "Hai tuần sau bán kết, trên «Tiếng Vang» xuất hiện bài đăng: «thiên sứ thanh thuần ôm đùi kim chủ», khui chuyện cô là cô nhi, có xe bảo mẫu đưa đón. Bài lan nhanh, hàng nghìn lượt chia sẻ. Tông Nhiên cho Lam Tinh dập tin, rồi đưa ra chứng cứ chuyển khoản mua tài khoản ảo của Ngưu Bội Ni; cô ta bị loại khỏi cuộc thi. Còn cô, cô phải quyết định đáp thế nào.",
+      "tieu": "Dư luận như nước, ngươi không ngăn được, chỉ chọn được hướng chảy thôi.",
+      "cast": "ha,nbn,tnh",
+      "ch": [
+        {
+          "t": "Truy nguồn các tài khoản ẩn danh trước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô lần ra mạng lưới tài khoản mua chuyển. Tông Nhiên nhìn kết quả cô gửi, ngạc nhiên không nói thành lời.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "tt": -4
+            },
+            "f": "truy_nguon"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô không tìm ra đầu mối nào. Dư luận vẫn tiếp tục lan.",
+            "d": {
+              "tt": 6
+            }
+          },
+          "learn": {
+            "n": "Xử lý khủng hoảng truyền thông",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Đăng lời đáp nhẹ nhàng, kể rõ mình là ai",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bài đáp của cô lan nhanh không kém. Nhiều người nhắn tin an ủi, tin đồn dịu xuống.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "tt": -5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Có người cho rằng cô giả vờ đáng thương. Bài đăng bị chê loãng.",
+            "d": {
+              "tt": 5,
+              "sinh": -1
+            }
+          },
+          "learn": {
+            "n": "Xử lý khủng hoảng truyền thông",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Im lặng, để Lam Tinh xử lý",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lam Tinh xử lý gọn. Cô giữ được vẻ bình tĩnh, nhưng trong lòng vẫn không yên.",
+            "d": {
+              "hao": 1,
+              "tt": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Một vài tin đồn vẫn rỉ ra, cô đành lặng nghe.",
+            "d": {
+              "tt": 4
+            }
+          },
+          "learn": {
+            "n": "Xử lý khủng hoảng truyền thông",
+            "s": "tri",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Hai tuần sau bán kết, trước chung kết. Một bài đăng bôi nhọ Hoài An lan khắp «Tiếng Vang»; Phó Tông Nhiên chứng minh Ngưu Bội Ni đã mua tài khoản ảo, và cô này bị loại.",
+      "no": 11
+    },
+    {
+      "id": "k12",
+      "scene": "kvilla",
+      "place": "Hành lang biệt thự · Đêm",
+      "kind": "duyen",
+      "title": "Hơn nửa tháng ở chung",
+      "text": "Tông Nhiên đã quen nghe cô hát mỗi đêm và ngủ đến sáng. Đoàn Khải nói riêng với cô: có quy tắc ở biệt thự, không ai ở quá một tháng. Anh để cô ngồi gần hơn mỗi tuần, từ chiếc ghế dài cuối hành lang vào đến cửa phòng. Cô hỏi anh về quy tắc ấy. Anh không đáp, chỉ nhìn cô thật lâu. Tiểu Châu ghi nhận Ác niệm giảm rất chậm.",
+      "tieu": "Hắn nhìn ngươi như nhìn thứ sợ mất. Tiến chậm cũng được, đừng làm hắn hoảng.",
+      "cast": "ha,tnh,dkh",
+      "ch": [
+        {
+          "t": "Ngồi gần hơn một chút, hát bài ru khác",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô chuyển sang bài ru anh chưa nghe bao giờ. Anh khẽ nhắm mắt, hơi thở dài ra.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bài mới hơi khó nghe với anh. Anh mở mắt, nhìn lên trần.",
+            "d": {
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Hỏi lại về quy tắc một tháng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh im lặng rồi nói: người ở lâu sẽ muốn rời. Câu trả lời khiến cô hiểu thêm một nửa.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "quy_tac"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh đổi sang nói về giấc ngủ. Cô hiểu mình vừa chạm vào chỗ đau.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Giữ nguyên khoảng cách, hát đều mỗi tối",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh thở nhẹ đều trong bóng tối. Không ai nói gì, nhưng căn phòng ấm lên một chút.",
+            "d": {
+              "ac": -1,
+              "hao": 2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Anh ngủ chậm hơn thường lệ, trở mình vài lần.",
+            "d": {
+              "hao": 0
+            }
+          }
+        }
+      ],
+      "ctx": "Hơn nửa tháng sau, hành lang cạnh phòng Phó Tông Nhiên. Anh đã quen nghe cô hát mỗi đêm; Đoàn Khải nhắc quy tắc không ai ở biệt thự quá một tháng.",
+      "no": 12
+    },
+    {
+      "id": "k13",
+      "scene": "ktea",
+      "place": "Tiệm trà sữa cũ · Chiều trước chung kết",
+      "kind": "hiem",
+      "title": "Giám khảo bị mua",
+      "text": "Kha Tú Anh báo tin xấu: hai giám khảo mới, Lương Bác Văn và Hồ Tuệ Quân, sẽ nghiêng về Hiểu Mi theo lời Tư Triệt. Cô đi dạo cho nguội đầu thì bước vào đúng tiệm trà sữa cũ. Ở bàn kế bên là Tư Triệt dẫn Hiểu Mi tới. Cô cố ý nói một câu chọc, Hiểu Mi tái mặt, Tư Triệt trách cô đã thay đổi.",
+      "tieu": "Gặp nhau ở đây là tình cờ thật... nhưng đừng để lộ bài. Chung kết còn chưa tới.",
+      "cast": "ha,ttr,him",
+      "ch": [
+        {
+          "t": "Nói nhẹ nhàng: hai người hợp nhau lắm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiểu Mi đỏ mặt vì tức, Tư Triệt không biết đáp lại thế nào. Cô rời đi trước, nhẹ như không.",
+            "d": {
+              "tt": -2,
+              "hao": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Giọng cô lộ vẻ mỉa mai quá. Hiểu Mi nắm tay Tư Triệt thật chặt, nhìn cô bằng ánh mắt căm ghét.",
+            "d": {
+              "tt": 5,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Quay đi, coi như không thấy",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô rời tiệm. Phía sau là khoảng lặng nặng nề của hai người.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô vấp bậc cửa. Hiểu Mi bật cười, rất khẽ.",
+            "d": {
+              "sinh": -2,
+              "tt": 3
+            }
+          }
+        },
+        {
+          "t": "Hỏi thẳng Tư Triệt về chuyện giám khảo",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tư Triệt lúng túng không dám nhìn cô. Cô hiểu mọi chuyện là có thật. Hiểu Mi nín thở.",
+            "d": {
+              "hao": 1,
+              "tt": 2
+            },
+            "f": "biet_gk"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Tư Triệt chối phăng, giọng gay gắt. Hiểu Mi nhìn cô đầy hằn học.",
+            "d": {
+              "tt": 6,
+              "sinh": -2
+            },
+            "f": "biet_gk"
+          }
+        }
+      ],
+      "ctx": "Chiều trước chung kết, tiệm trà sữa cũ. Hoài An gặp Phó Tư Triệt và Ân Hiểu Mi, ngay sau khi biết hai giám khảo Lương Bác Văn và Hồ Tuệ Quân bị mua chuộc nghiêng về Hiểu Mi.",
+      "no": 13
+    },
+    {
+      "id": "k14",
+      "scene": "kvilla",
+      "place": "Hành lang cạnh phòng Tông Nhiên · Đêm",
+      "kind": "chon",
+      "title": "Nhờ Phó Tông Nhiên",
+      "text": "Đêm đó cô nhờ anh can thiệp. Cô có thể làm nũng, đưa bằng chứng, hoặc tự lo. Tông Nhiên nghe xong, im lặng hồi lâu. Anh đồng ý để Hiểu Mi ký hợp đồng với Lam Tinh Âm nhạc theo lời Tư Triệt, nhưng từ chối chống lưng cho cô ta. Rồi anh gọi điện cho hai giám khảo.",
+      "tieu": "Hắn sẽ giúp ngươi, nhưng đừng để hắn thấy ngươi dựa dẫm quá. Đây là chỗ cần khéo.",
+      "cast": "ha,tnh,lbv,htq",
+      "ch": [
+        {
+          "t": "Làm nũng: anh giúp em một lần nhé",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nghiêng đầu nhìn cô, rất lâu, rồi khẽ thở ra: được. Lần đầu anh cười với cô.",
+            "d": {
+              "ac": -4,
+              "hao": 6
+            },
+            "f": "nho_tn"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh lạnh đi một chút: đừng quen thói đó. Nhưng anh vẫn gọi điện.",
+            "d": {
+              "hac": 2,
+              "hao": -1
+            },
+            "f": "nho_tn"
+          }
+        },
+        {
+          "t": "Đưa bằng chứng cô thu thập được",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh đọc từng dòng, nhíu mày rồi gật: cô làm được việc. Hai giám khảo nhận một cuộc gọi lạnh lùng.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            },
+            "f": "nho_tn"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bằng chứng chưa đủ chắc. Anh vẫn gọi, nhưng giọng nặng hơn.",
+            "d": {
+              "hac": 1
+            },
+            "f": "nho_tn"
+          }
+        },
+        {
+          "t": "Nói không cần, cô sẽ tự thắng bằng giọng hát",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn cô như nhìn một thứ gì lạ, rồi bật cười khẽ: được, ta chờ xem. Dù vậy anh vẫn gọi.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            },
+            "f": "tu_lo"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nhíu mày: cô bướng quá. Anh vẫn gọi điện, nhưng đóng cửa phòng hơi mạnh.",
+            "d": {
+              "hac": 2,
+              "hao": -2
+            },
+            "f": "tu_lo"
+          }
+        }
+      ],
+      "ctx": "Đêm, hành lang cạnh phòng Phó Tông Nhiên. Hoài An đã biết chuyện hai giám khảo; cô nhờ anh can thiệp, anh đồng ý cho Hiểu Mi ký hợp đồng với Lam Tinh nhưng từ chối chống lưng cho cô ta.",
+      "no": 14
+    },
+    {
+      "id": "k15",
+      "scene": "kdine",
+      "place": "Bàn ăn tối biệt thự · Gần cuối tháng",
+      "kind": "nan",
+      "title": "Hết hạn một tháng",
+      "text": "Gần cuối tháng, quy tắc không ai ở quá một tháng đã được nhắc từ trước. Tông Nhiên đưa cho cô bản hợp đồng mới và sổ đỏ một căn biệt thự, gọi là thù lao. Đoàn Khải đứng cạnh, mắt tránh đi. Đêm trước chung kết, anh nằm mơ thấy cô nói rằng có cả đám đàn ông chờ phủng mình, rồi tỉnh dậy giữa đêm. Cô chọn nhận quà, hỏi lại hay nài ở lại.",
+      "tieu": "Hắn đang tiễn ngươi đi bằng cách tốt nhất mà hắn biết: cho tiền. Đừng nhận không suy nghĩ.",
+      "cast": "ha,tnh,dkh",
+      "ch": [
+        {
+          "t": "Nhận quà, cảm ơn lịch sự",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh gật đầu, không nhìn cô. Có cái gì đó trong mắt anh lạnh đi.",
+            "d": {
+              "hac": 1,
+              "hao": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh cười nhạt: quả nhiên là vậy. Đêm đó anh mất ngủ.",
+            "d": {
+              "hac": 2,
+              "hao": -4
+            }
+          }
+        },
+        {
+          "t": "Hỏi lại: anh muốn tôi đi sao",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh sững người. Một lúc lâu anh mới nói: không. Rồi lại im. Nhưng hợp đồng vẫn nằm đó.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "hoi_lai"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh trả lời bằng sự im lặng. Cô hiểu mình hỏi sai lúc.",
+            "d": {
+              "hac": 1,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Nài ở lại, nói cô chưa muốn đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn cô thật lâu. Lần đầu tiên, bàn tay anh khẽ động đậy như muốn đưa ra. Anh nói: sau chung kết rồi tính.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -1
+            },
+            "f": "nai_lai"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Anh quay đi: đừng cầu xin. Giọng anh khô khốc.",
+            "d": {
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Gần cuối tháng, biệt thự Phó gia. Phó Tông Nhiên đưa Hoài An hợp đồng mới cùng sổ đỏ một căn biệt thự làm thù lao, ngầm hiểu là tiễn cô đi; đêm trước chung kết anh mơ thấy cô bỏ mình.",
+      "no": 15
+    },
+    {
+      "id": "k16",
+      "scene": "khall",
+      "place": "Hậu trường chung kết · Sáng chung kết",
+      "kind": "chon",
+      "title": "Phỏng vấn trước ống kính",
+      "text": "Sáng chung kết, fan vây kín cửa hội trường. Cô đã biết Hiểu Mi vừa ký hợp đồng với Lam Tinh. Người dẫn chương trình kéo cô vào phòng phỏng vấn và hỏi thẳng trước ống kính về chuyện giữa cô và Hiểu Mi. Cô có thể nói thẳng là không vừa mắt, hoặc giữ hình tượng; Hiểu Mi bị kéo vào thế khó.",
+      "tieu": "Ống kính không biết thương ai. Chọn lời cho khéo, đừng để mình thành trò cười.",
+      "cast": "ha,him,kta",
+      "ch": [
+        {
+          "t": "Nói thẳng, bình tĩnh: tôi không vừa mắt cô ấy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Câu nói của cô lan nhanh như cháy rừng. Một số fan bênh cô, số khác chê gay gắt, nhưng ai cũng nhớ cô.",
+            "d": {
+              "ac": -2,
+              "tt": 2,
+              "hao": 2,
+              "ks": 10
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Cô nói lỡ lời, bị cắt ra khỏi ngữ cảnh. Nhiều người mắng cô nhỏ nhen.",
+            "d": {
+              "tt": 8,
+              "sinh": -2,
+              "ks": 10
+            }
+          },
+          "learn": {
+            "n": "Ứng đối phỏng vấn",
+            "s": "mi",
+            "v": 2
+          }
+        },
+        {
+          "t": "Giữ hình tượng: chúng tôi là đối thủ cũng là bạn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Câu trả lời mềm mại, không ai bắt bẻ được. Hiểu Mi phải mỉm cười đáp lại.",
+            "d": {
+              "ac": -1,
+              "tt": -3,
+              "ks": 8
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nói quá lòng vòng, người dẫn chương trình chán nản chuyển câu hỏi.",
+            "d": {
+              "tt": 1,
+              "ks": 8
+            }
+          },
+          "learn": {
+            "n": "Ứng đối phỏng vấn",
+            "s": "mi",
+            "v": 2
+          }
+        },
+        {
+          "t": "Đẩy câu hỏi ngược lại: cô ấy nghĩ sao?",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hiểu Mi bị đẩy vào thế khó, ấp úng. Hội trường cười nhẹ nhõm.",
+            "d": {
+              "ac": -2,
+              "tt": -2,
+              "ks": 8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hiểu Mi khéo léo đáp lại, cô lại thành người bị hỏi.",
+            "d": {
+              "tt": 4,
+              "ks": 8
+            }
+          },
+          "learn": {
+            "n": "Ứng đối phỏng vấn",
+            "s": "mi",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Sáng chung kết, hậu trường hội trường. Người dẫn chương trình phỏng vấn Hoài An trước ống kính về chuyện giữa cô và Ân Hiểu Mi, vừa ký hợp đồng với Lam Tinh Âm nhạc.",
+      "no": 16
+    },
+    {
+      "id": "k17",
+      "scene": "kstage",
+      "place": "Sân khấu chung kết · Tối chung kết",
+      "kind": "hiem",
+      "title": "Thế Giới Sa Ngã",
+      "text": "Cô lên sân khấu cuối cùng, mặc váy đen. Hiểu Mi vừa nhận 99, 98, 98, 99, 98 điểm. Cô hát bài do chính mình viết lời, «Thế Giới Sa Ngã», về một người phá giới suốt đời không rửa sạch được tội lỗi. Ở đoạn cuối đèn tắt, váy cô chuyển sang trắng. Cả hội trường lặng đi. Ở cánh gà, Tông Nhiên lần đầu rời khỏi biệt thự để nghe cô hát.",
+      "tieu": "Đây là bài hát của ngươi, cũng là của hắn. Hát cho hết đi, đừng sợ.",
+      "cast": "ha,tnh,him",
+      "ch": [
+        {
+          "t": "Hát hết mình, để lời ca nói thay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đèn tắt, hơi thở cả hội trường nén lại. Có người bật khóc. Ở cánh gà, Tông Nhiên đứng yên rất lâu.",
+            "d": {
+              "ac": -5,
+              "hao": 7,
+              "ks": 12
+            },
+            "f": "sa_nga"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Giọng cô hơi khản ở đoạn cao nhất. Khán giả vẫn vỗ tay, nhưng cô biết mình chưa hát hết.",
+            "d": {
+              "sinh": -3,
+              "ks": 15
+            }
+          },
+          "learn": {
+            "n": "Sáng tác nhạc",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Giữ nhịp thật chắc, không để lỡ đoạn nào",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bài hát trôi chảy không vấp. Năm giám khảo cùng gật đầu.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "ks": 10
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô lo nhịp quá nên bài hát nghe cứng. Điểm số chỉ ở mức cao.",
+            "d": {
+              "hao": 1,
+              "ks": 10
+            }
+          },
+          "learn": {
+            "n": "Sáng tác nhạc",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Thay đổi một đoạn ngay trên sân khấu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đoạn thêm bất ngờ hợp hoàn hảo với không khí. Cả hội trường nín thở.",
+            "d": {
+              "ac": -6,
+              "hao": 8,
+              "ks": 12
+            },
+            "f": "sa_nga"
+          },
+          "b": 0.35,
+          "bad": {
+            "x": "Đoạn thêm không ăn khớp với dàn nhạc. Cô phải gượng hát cho hết.",
+            "d": {
+              "sinh": -4,
+              "hao": -1,
+              "ks": 15
+            }
+          },
+          "learn": {
+            "n": "Sáng tác nhạc",
+            "s": "tri",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Tối chung kết, sân khấu. Hoài An hát bài do chính mình viết lời, «Thế Giới Sa Ngã», về một người phá giới suốt đời không rửa sạch tội lỗi; Phó Tông Nhiên rời biệt thự để đến nghe.",
+      "no": 17
+    },
+    {
+      "id": "k18",
+      "scene": "kback",
+      "place": "Sau sân khấu chung kết · Ngay sau đó",
+      "kind": "chon",
+      "title": "Kết quả và lời tuyên chiến",
+      "text": "Kết quả vừa công bố: năm giám khảo cùng giơ 100 điểm cho cô. Hiểu Mi ngất xỉu, Tư Triệt đỡ lấy rồi lỡ lời hỏi mình có làm sai không. Khi tỉnh lại, Hiểu Mi tìm cô ở hậu trường, tuyên bố Tư Triệt là của mình. Cách cô trả lời quyết định mức thù hận Hiểu Mi giữ về sau.",
+      "tieu": "Cô ta bị sốc, nhưng không phải người yếu đuối. Đây là lúc quyết định ngươi muốn có một kẻ thù hay hai.",
+      "cast": "ha,him,ttr",
+      "ch": [
+        {
+          "t": "Gật đầu: cậu ấy là của cô, tôi chưa từng giữ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiểu Mi sững người, không biết tiếp lời thế nào. Sự thù địch trong mắt cô ta dịu lại đôi chút.",
+            "d": {
+              "tt": -4,
+              "hao": 2,
+              "ks": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô ta nghe ra mỉa mai, càng thêm uất hận.",
+            "d": {
+              "tt": 6,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Im lặng, rời đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hiểu Mi nhìn theo, không nói gì thêm. Chuyện tạm yên.",
+            "d": {
+              "sinh": 1,
+              "ks": -3
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô vô tình va phải một thùng đạo cụ, ngã nhẹ. Hiểu Mi nhìn thấy, bật cười.",
+            "d": {
+              "sinh": -2,
+              "tt": 2
+            }
+          }
+        },
+        {
+          "t": "Đáp: tôi chỉ muốn hát, đừng kéo tôi vào",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hiểu Mi lặng đi. Dường như lần đầu có người từ chối cuộc cạnh tranh của cô ta.",
+            "d": {
+              "ac": -1,
+              "tt": -2,
+              "hao": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hiểu Mi cười gằn: nói dối. Cô ta quay đi, mắt đỏ hoe.",
+            "d": {
+              "tt": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Ngay sau chung kết, hậu trường. Năm giám khảo cùng chấm 100 điểm cho Hoài An; Ân Hiểu Mi ngất, Phó Tư Triệt đỡ cô ta, và khi tỉnh dậy Hiểu Mi tìm Hoài An tuyên bố Tư Triệt là của mình.",
+      "no": 18
+    },
+    {
+      "id": "k19",
+      "scene": "kgate",
+      "place": "Cổng biệt thự Phó gia · Chiều sau chung kết",
+      "kind": "nan",
+      "title": "Hành lý ngoài cửa",
+      "text": "Chiều sau chung kết, cô trở về biệt thự thì người hầu đã chặn ở cửa: tiên sinh không muốn cô vào, hành lý đã xếp sẵn dưới bậc thềm. Đây là lần bị ruồng bỏ thứ nhất trong kịch bản gốc. Cô nhớ lại tờ hợp đồng mới và sổ đỏ ngày hôm trước, hiểu rằng đó chính là lời tiễn. Cô có thể gọi hỏi anh, hoặc lặng lẽ rời đi.",
+      "tieu": "Trong kịch bản gốc, đến đây ngươi sẽ ngã quỵ ngoài cổng. Ta mong ngươi đừng giống bản gốc.",
+      "cast": "ha,tnh,dkh",
+      "ch": [
+        {
+          "t": "Gọi thẳng cho anh: em chỉ hỏi một câu thôi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh không bắt máy, nhưng một phút sau tin nhắn hiện lên: ngày mai nói. Cô biết anh còn do dự.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "hac": -1
+            },
+            "f": "goi_tn"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Máy tắt. Cô đứng ngoài cổng thêm một giờ mới chịu bỏ đi.",
+            "d": {
+              "sinh": -4,
+              "hao": -3,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Cúi chào người hầu, nhận hành lý, rời đi lặng lẽ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô rời đi thật gọn. Đoàn Khải đứng ở cửa sổ nhìn theo, thấy tiên sinh cũng đứng sau tấm rèm.",
+            "d": {
+              "ac": -1,
+              "hao": 2
+            },
+            "f": "roi_lang"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô ngã nhẹ bên đường vì quá mệt. Một người lạ phải đỡ.",
+            "d": {
+              "sinh": -3,
+              "ks": 8
+            }
+          }
+        },
+        {
+          "t": "Nhờ Đoàn Khải chuyển lại một câu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đoàn Khải hứa chuyển. Tối đó có một hộp thuốc bổ gửi tới căn nhà mới của cô, không đề tên người gửi.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Đoàn Khải xin lỗi: tiên sinh dặn không truyền lời nào. Cô cười gượng rồi rời đi.",
+            "d": {
+              "hao": -1,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều sau chung kết, cổng biệt thự Phó gia. Người hầu báo Phó Tông Nhiên không muốn Hoài An vào nữa, hành lý đã xếp sẵn ngoài cửa, đúng như bước ngoặt bị ruồng bỏ lần thứ nhất trong kịch bản gốc.",
+      "no": 19
+    },
+    {
+      "id": "k20",
+      "scene": "kstudio",
+      "place": "Phòng thu nhỏ · Một tuần sau",
+      "kind": "duyen",
+      "title": "Ghi năm bài hát",
+      "text": "Một tuần sau, cô chuyển vào căn nhà mới, thuê một phòng thu nhỏ và nhờ Kha Tú Anh đưa năm bài lên ứng dụng «Âm Tuyền» để người nghe biết cô trước khi chương trình phát sóng. Ngày nào cô cũng thu âm thâu đêm, kỹ sư thu âm là một cậu trai trẻ hay ngủ gật. Cô sắp có cả năm bài trong tay, nhưng cũng sắp kiệt sức.",
+      "tieu": "Thu âm thâu đêm là việc ngươi rất thích làm, nhưng thân thể này thì không. Nhớ nghỉ cho đúng giờ.",
+      "cast": "ha,kta",
+      "ch": [
+        {
+          "t": "Thu liền năm bài trong ba đêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Năm bài xong sớm hơn dự định. Kha nghe thử xong không nói được lời nào.",
+            "d": {
+              "ac": -2,
+              "ks": 30
+            },
+            "f": "nam_bai"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bài thứ tư hỏng giọng, phải thu lại. Cô kiệt sức, mắt đỏ ngầu.",
+            "d": {
+              "sinh": -4,
+              "ks": 35
+            }
+          },
+          "learn": {
+            "n": "Thu âm",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Thu một bài mỗi ngày, nghỉ trưa đầy đủ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Từng bài rõ ràng, sạch sẽ. Kỹ sư thu âm khen cô chuyên nghiệp.",
+            "d": {
+              "ac": -1,
+              "ks": 10,
+              "sinh": 2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Tiến độ chậm, Kha sốt ruột nhưng không dám ép.",
+            "d": {
+              "ks": 5
+            }
+          },
+          "learn": {
+            "n": "Thu âm",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Học kỹ sư thu âm cách chỉnh âm, tự làm một phần",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô học nhanh bất ngờ. Bản thu cuối cùng có chất riêng mà không phòng thu nào làm được.",
+            "d": {
+              "ac": -3,
+              "ks": 18,
+              "hao": 1
+            },
+            "f": "tu_chinh"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô chỉnh quá tay, phải thu lại một bài.",
+            "d": {
+              "ks": 22
+            }
+          },
+          "learn": {
+            "n": "Thu âm",
+            "s": "tri",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Một tuần sau, căn nhà mới của Hoài An. Cô thuê một phòng thu nhỏ, nhờ Kha Tú Anh đưa năm bài hát lên ứng dụng «Âm Tuyền» để người nghe biết cô trước khi chương trình phát sóng.",
+      "no": 20
+    },
+    {
+      "id": "k21",
+      "scene": "ktv",
+      "place": "Show thực tế của Hiểu Mi · Đang phát sóng",
+      "kind": "chon",
+      "title": "Hiểu Mi hát bài của cô",
+      "text": "Trong show thực tế dài kỳ của Hiểu Mi, đạo diễn đã mua hai bài của cô làm nhạc nền. Hôm nay Hiểu Mi hát lại một bài đó trên sóng. Khán giả nhận ra tác giả là Hoài An rồi quay sang cô. Hiểu Mi nhờ Tư Triệt xin cắt cảnh nhưng đạo diễn từ chối. Cô có thể lên tiếng hoặc để dư luận tự chạy.",
+      "tieu": "Bài hát là của ngươi, nhưng đừng để mình nghe như người tức giận. Giữ giọng cho đẹp.",
+      "cast": "ha,him,ttr",
+      "ch": [
+        {
+          "t": "Đăng một dòng nhẹ: cảm ơn cô ấy đã hát bài của tôi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dòng đăng của cô được chia sẻ rất rộng. Người ta khen cô độ lượng; Hiểu Mi phải im lặng.",
+            "d": {
+              "ac": -2,
+              "tt": -6,
+              "hao": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Có người cho rằng cô đang mỉa mai. Bình luận đổ về hai phía.",
+            "d": {
+              "tt": 4,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Im lặng, để dư luận tự chạy",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Khán giả tự nhận ra, tự bình luận. Ai cũng thấy cô không cần lên tiếng.",
+            "d": {
+              "tt": -4,
+              "ks": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Dư luận chia hai phe, kéo dài mấy ngày. Cô nghe mà mệt mỏi.",
+            "d": {
+              "tt": 3,
+              "ks": 8
+            }
+          }
+        },
+        {
+          "t": "Gửi thư riêng nhờ đạo diễn ghi tên tác giả trên phụ đề",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đạo diễn đồng ý. Tên cô hiện lên trong tập kế, không ai bắt bẻ được.",
+            "d": {
+              "ac": -2,
+              "tt": -3,
+              "hao": 1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Đạo diễn từ chối thẳng, nói đã có thỏa thuận. Cô đành chờ.",
+            "d": {
+              "tt": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Đang phát sóng, show thực tế dài kỳ của Ân Hiểu Mi. Đạo diễn đã mua hai bài của Hoài An làm nhạc nền; Hiểu Mi hát lại một bài trên sóng và khán giả nhận ra tác giả là Hoài An.",
+      "no": 21
+    },
+    {
+      "id": "k22",
+      "scene": "kstudio",
+      "place": "Văn phòng Kha Tú Anh · Vài ngày sau",
+      "kind": "chon",
+      "title": "Từ chối chân nhân tú",
+      "text": "Văn phòng Kha Tú Anh chất đầy thư mời show thực tế. Kha muốn cô nhận để giữ nhân khí, vì người nổi tiếng mà vắng bóng lâu sẽ bị lãng quên. Cô từ chối, nói muốn ra đĩa nhạc trước. Kha lo thiếu người và thiếu tiền; cô đáp đã có người giúp.",
+      "tieu": "Kha lo cho ngươi thật đấy. Nghe cô ấy một chút, nhưng đừng để bị cuốn theo.",
+      "cast": "ha,kta",
+      "ch": [
+        {
+          "t": "Giải thích kế hoạch ra đĩa nhạc rõ ràng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Kha nghe xong, gật đầu: tôi sẽ lo phần quảng bá. Cô thở phào, thấy mình không đơn độc.",
+            "d": {
+              "ac": -1,
+              "tt": -2,
+              "ks": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Kha vẫn chưa yên tâm, hứa theo nhưng ánh mắt còn lo âu.",
+            "d": {
+              "ks": 5
+            }
+          }
+        },
+        {
+          "t": "Nhận một chương trình nhỏ để giữ nhân khí",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Chương trình nhỏ ngoài sức mong đợi: khán giả thích vẻ tự nhiên của cô. Kha vui ra mặt.",
+            "d": {
+              "ac": -1,
+              "tt": -3,
+              "ks": 15
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Chương trình quay kéo dài, cô mệt rã rời. Khán giả không phản ứng nhiều.",
+            "d": {
+              "ks": 22,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nói: tôi tin sẽ có người cần tôi hát",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Kha im lặng rồi bật cười: cô nhiều tự tin hơn tôi tưởng. Thư mời được đẩy sang bên.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "ks": -4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Kha thở dài: tôi hy vọng cô đúng. Thư mời lần lượt bị rút lại.",
+            "d": {
+              "tt": 2,
+              "ks": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Vài ngày sau, văn phòng Kha Tú Anh. Kha muốn Hoài An nhận chương trình thực tế để giữ nhân khí; cô từ chối và nói muốn ra đĩa nhạc.",
+      "no": 22
+    },
+    {
+      "id": "k23",
+      "scene": "kgala",
+      "place": "Dạ tiệc hiến xướng · Tối",
+      "kind": "duyen",
+      "title": "Giọng hát lúc anh ra về",
+      "text": "Dạ tiệc của một tiền bối trong giới. Tiểu Châu báo tiệc có Tông Nhiên và có cả Thạch Vạn Phúc, nhà đầu tư địa ốc có tiếng thích ép nghệ sĩ mới. Cô được mời hát một bài. Đúng lúc cô cất giọng, Tông Nhiên đang đứng dậy ra về. Anh dừng bước ở cửa, quay lại, đứng nghe đến cuối. Thạch Vạn Phúc để mắt tới cô, chủ tiệc mời cô hát tiệc sau.",
+      "tieu": "Hắn quay lại rồi! Nhìn kìa, hắn quay lại! Còn tên mập kia thì cẩn thận đấy, tiếng xấu đồn xa.",
+      "cast": "ha,tnh,tvp",
+      "ch": [
+        {
+          "t": "Hát bài ru cô vẫn hát cho anh mỗi đêm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đứng ở cửa đến khi bài kết thúc. Tiếng vỗ tay vang lên, cô không nhìn xuống khán giả, chỉ nhìn về cửa.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô hát lệch một chút vì quá xúc động. Anh vẫn đứng yên, không đổi sắc mặt.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Hát bài mới vừa sáng tác, tránh bài cũ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bài mới trong trẻo, khán giả bất ngờ. Anh đứng ở cửa rất lâu, rồi mới rời đi.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bài mới còn thô, nhiều đoạn chưa mượt. Anh chỉ nghe hết rồi quay đi.",
+            "d": {
+              "hao": 0
+            }
+          }
+        },
+        {
+          "t": "Hát xong, đi thẳng ra cửa phụ tránh Thạch Vạn Phúc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô kịp lách ra khỏi sảnh trước khi ông ta kịp tìm. Nhưng tiếng hát của cô đã ở lại trong đầu mọi người.",
+            "d": {
+              "ac": -1,
+              "hao": 2
+            },
+            "f": "tranh_tvp"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thạch Vạn Phúc chặn ngay hành lang, cười sáng loáng và đưa danh thiếp.",
+            "d": {
+              "sinh": -1,
+              "hao": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, dạ tiệc của một tiền bối trong giới. Hoài An hát đúng lúc Phó Tông Nhiên đứng dậy ra về; anh quay lại nghe, còn Thạch Vạn Phúc, nhà đầu tư thích ép nghệ sĩ mới, để mắt tới cô.",
+      "no": 23
+    },
+    {
+      "id": "k24",
+      "scene": "klock",
+      "place": "Phòng riêng khóa cửa · Sau tiệc",
+      "kind": "hiem",
+      "title": "Cánh cửa bị khóa",
+      "text": "Sau tiệc, người của Thạch Vạn Phúc mời cô lên một phòng riêng để bàn hợp đồng độc quyền. Cửa vừa đóng thì bị khóa từ bên ngoài. Thạch Vạn Phúc ngồi xuống đối diện, đẩy bản hợp đồng bất lợi sang: ký đi, cô sẽ có tất cả. Giọng ông ta ngọt như đường, nhưng đôi mắt thì không.",
+      "tieu": "Bình tĩnh... ghi âm... Điện thoại trong túi áo... Ta nghe thấy tiếng bước chân ngoài hành lang rồi...",
+      "cast": "ha,tvp",
+      "ch": [
+        {
+          "t": "Âm thầm bật ghi âm, kéo dài câu chuyện",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô để ông ta nói hết kế hoạch của mình. Cuộc ghi âm đủ rõ để làm bằng chứng.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "ghi_am"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Điện thoại báo hết pin giữa chừng. Cô vội cất đi, hy vọng ông ta không nhận ra.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Đứng dậy, đòi ông ta mở cửa ngay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng cô lạnh và chắc. Ông ta khựng lại, không ngờ cô không run. Ông ta chậm rãi đưa tay về phía chìa khóa.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "ghi_am"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Ông ta cười, bước lại gần. Cô lùi sát cửa.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Gõ cửa thật mạnh, gọi người",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiếng gõ vang đến tận hành lang. Một nhân viên khách sạn hoảng hốt gọi quản lý.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Không ai nghe thấy. Ông ta bước lại gần hơn, nụ cười thôi giả tạo.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "ctx": "Sau tiệc, một phòng riêng. Người của Thạch Vạn Phúc mời Hoài An lên bàn hợp đồng độc quyền, cửa bị khóa từ bên ngoài, ông ta đòi cô ký hợp đồng bất lợi.",
+      "no": 24
+    },
+    {
+      "id": "k25",
+      "scene": "klock",
+      "place": "Hành lang khách sạn · Ngay sau đó",
+      "kind": "duyen",
+      "title": "Anh quay lại",
+      "text": "Tông Nhiên vừa nghe người trong tiệc nhắc tên Thạch Vạn Phúc và nhận ra chuyện không ổn. Anh đá tung cánh cửa. Cô đưa điện thoại cho anh, anh nghe hết đoạn ghi âm, mặt tối lại, rồi giao Thạch Vạn Phúc cho cảnh sát. Anh đưa cô về biệt thự, không nói câu nào suốt đường. Đến cửa xe, anh nhắc tới Dương Thiệu Hằng, bạn cũ làm đạo diễn «Bậc Thầy Âm Nhạc», sẽ giúp cô.",
+      "tieu": "Hắn giận đến mức không nói nổi một câu. Nhưng hắn đến nhanh hơn ngươi tưởng đấy.",
+      "cast": "ha,tnh,tvp",
+      "ch": [
+        {
+          "t": "Cảm ơn thật nhẹ, không hỏi gì thêm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh liếc nhìn cô qua gương, nét mặt bớt cứng. Đoàn Khải nhìn cô như nhìn người đã làm điều không ai làm được.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh chỉ gật đầu, mắt vẫn nhìn thẳng. Không khí trong xe nặng nề.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Hỏi thẳng: sao anh lại đến?",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh im lặng rất lâu rồi nói: ta nghe thấy tên hắn. Câu đó ngắn nhưng cô hiểu cả nghĩa.",
+            "d": {
+              "ac": -4,
+              "hao": 6
+            },
+            "f": "hoi_den"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh đáp lạnh: tiện đường. Cô biết anh nói dối.",
+            "d": {
+              "hac": 2,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Giữ lấy chiếc áo khoác anh khoác cho cô, im lặng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chiếc áo vẫn còn hơi ấm và mùi hương quen. Cô ngủ gục trên ghế, được đưa về phòng khách.",
+            "d": {
+              "ac": -2,
+              "hao": 4,
+              "sinh": 3
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô run khẽ đến mức anh nhận ra. Anh tăng nhiệt độ trong xe mà không nói gì.",
+            "d": {
+              "hao": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Ngay sau đó, hành lang khách sạn. Phó Tông Nhiên phá cửa, nghe bằng chứng ghi âm, giao Thạch Vạn Phúc cho cảnh sát, đưa Hoài An về và nhắc tới đạo diễn Dương Thiệu Hằng, bạn cũ của anh.",
+      "no": 25
+    },
+    {
+      "id": "k26",
+      "scene": "ktv",
+      "place": "Trường quay «Bậc Thầy Âm Nhạc» · Vài ngày sau",
+      "kind": "duyen",
+      "title": "Khách mời «Bậc Thầy Âm Nhạc»",
+      "text": "Cô vào «Bậc Thầy Âm Nhạc» với tư cách khách mời. Hiểu Mi là thí sinh của chương trình, mất bình tĩnh khi thấy cô ở hậu trường. Đạo diễn Dương Thiệu Hằng nghe bản thu của cô rồi đề nghị hợp tác ra đĩa. Anh bắt đầu dạy cô đệm guitar mỗi buổi chiều, kiên nhẫn như một người thầy thật sự.",
+      "tieu": "Thiệu Hằng là người tốt, ngươi cứ học. Nhưng nhớ giữ khoảng cách nhé, kịch bản gốc rất thích dựng chuyện ở chỗ này.",
+      "cast": "ha,dth,him",
+      "ch": [
+        {
+          "t": "Học guitar chăm chỉ, nhờ anh chỉ từng ngón",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ngón tay cô đau rát nhưng tiến bộ nhanh. Thiệu Hằng nhìn cô bằng ánh mắt của người tìm thấy học trò.",
+            "d": {
+              "ac": -2,
+              "ks": 15,
+              "hao": 1
+            },
+            "f": "hoc_guitar"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô tập quá sức, ngón tay phồng rộp. Thiệu Hằng bắt cô nghỉ hẳn một buổi.",
+            "d": {
+              "ks": 20,
+              "sinh": -1
+            }
+          },
+          "learn": {
+            "n": "Chơi guitar",
+            "s": "van",
+            "v": 2
+          }
+        },
+        {
+          "t": "Mang theo đồ ăn nhẹ, chia sẻ với cả ê-kíp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả ê-kíp quý cô. Thiệu Hằng cười: người biết đối đãi như cô hiếm thấy. Không khí làm việc dễ chịu hẳn.",
+            "d": {
+              "tt": -3,
+              "hao": 1,
+              "ks": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Một nhân viên hiểu nhầm cô lấy lòng đạo diễn. Lời đồn lan nhỏ.",
+            "d": {
+              "tt": 3
+            }
+          },
+          "learn": {
+            "n": "Chơi guitar",
+            "s": "van",
+            "v": 2
+          }
+        },
+        {
+          "t": "Giữ khoảng cách với Hiểu Mi trong trường quay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hiểu Mi chỉ nhìn từ xa. Không có chuyện gì xảy ra suốt buổi quay.",
+            "d": {
+              "sinh": 1,
+              "tt": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hiểu Mi chủ động lại gần, nói vài câu mỉa mai trước mặt mọi người.",
+            "d": {
+              "tt": 4,
+              "sinh": -1
+            }
+          },
+          "learn": {
+            "n": "Chơi guitar",
+            "s": "van",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Vài ngày sau, trường quay «Bậc Thầy Âm Nhạc». Hoài An vào chương trình với tư cách khách mời, Ân Hiểu Mi là thí sinh; đạo diễn Dương Thiệu Hằng đề nghị hợp tác ra đĩa và dạy cô đệm guitar.",
+      "no": 26
+    },
+    {
+      "id": "k27",
+      "scene": "kweb",
+      "place": "Mạng xã hội «Tiếng Vang» · Hai tháng sau",
+      "kind": "nan",
+      "title": "Bài báo thượng vị",
+      "text": "Hai tháng sau, cô và Thiệu Hằng thường xuyên gặp nhau bàn đĩa nhạc. Một tài khoản ẩn danh đăng ảnh chụp lén hai người cùng tiêu đề «tiểu hoa thượng vị bằng tiền bối». Dư luận nhanh chóng quay lưng. Nếu cô từng học cách xử lý khủng hoảng truyền thông, thì đây là lúc dùng.",
+      "tieu": "Dư luận quay lưng nhanh hơn ngươi tưởng. Nhưng lần này ngươi có công cụ, đừng bỏ phí.",
+      "cast": "ha,dth,him",
+      "ch": [
+        {
+          "t": "Truy nguồn tài khoản, lần ra dấu vết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Dấu vết dẫn về một địa chỉ quen: mạng lưới của Hiểu Mi. Chưa đủ chứng cứ để kiện, nhưng đủ để cô biết ai là người đứng sau.",
+            "d": {
+              "ac": -2,
+              "tt": -4,
+              "hao": 1
+            },
+            "f": "biet_him"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Dấu vết bị xóa sạch sau vài giờ. Cô chỉ nhận được một địa chỉ giả.",
+            "d": {
+              "tt": 5,
+              "ks": 8
+            }
+          }
+        },
+        {
+          "t": "Nhờ Thiệu Hằng ra mặt xác nhận chỉ là quan hệ công việc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thiệu Hằng đăng một dòng bình tĩnh, kèm bản hợp đồng. Dư luận lắng xuống từng ngày.",
+            "d": {
+              "tt": -5,
+              "hao": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lời xác nhận bị cắt xén, càng khiến người ta nghi ngờ.",
+            "d": {
+              "tt": 5,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Im lặng, tập trung vào đĩa nhạc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô vùi đầu vào bài mới. Dư luận mệt vì không có chuyện để nói, tự nguội đi.",
+            "d": {
+              "tt": -2,
+              "ks": 12
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tin đồn kéo dài suốt cả tuần. Cô mất ngủ nhiều đêm.",
+            "d": {
+              "tt": 6,
+              "sinh": -3,
+              "ks": 15
+            }
+          }
+        }
+      ],
+      "ctx": "Hai tháng sau, mạng xã hội «Tiếng Vang». Một tài khoản ẩn danh đăng ảnh chụp lén Hoài An và Dương Thiệu Hằng với tiêu đề thượng vị bằng tiền bối; dư luận quay lưng với cô.",
+      "no": 27
+    },
+    {
+      "id": "k28",
+      "scene": "krest",
+      "place": "Quán ăn yên tĩnh · Tối",
+      "kind": "chon",
+      "title": "Hẹn hò giả",
+      "text": "Thiệu Hằng mời cô đến một quán ăn yên tĩnh, đề nghị công bố hai người đang hẹn hò, nửa năm sau thì chia tay êm đẹp. Với anh, đó là cách chặn miệng thiên hạ. Cô có thể đồng ý hoặc tìm cách khác. Giữa bữa, cô nói thẳng Tông Nhiên là kim chủ của mình; Thiệu Hằng sửng sốt, nhưng vẫn đứng về phía cô. Điện thoại cô reo: Tông Nhiên giục cô về sớm.",
+      "tieu": "Thiệu Hằng nghĩ cho ngươi thật lòng. Nhưng ngươi biết hắn thích kiểu gì rồi... nghĩ cho kỹ nhé.",
+      "cast": "ha,dth,tnh",
+      "ch": [
+        {
+          "t": "Từ chối khéo, đề nghị cách khác để dập tin",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thiệu Hằng nghĩ một chút rồi đề xuất một buổi họp báo ra đĩa. Cả hai nhẹ nhõm.",
+            "d": {
+              "ac": -1,
+              "tt": -4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thiệu Hằng hơi hụt hẫng, nhưng vẫn tôn trọng quyết định. Tin đồn chưa dứt.",
+            "d": {
+              "tt": 3
+            }
+          }
+        },
+        {
+          "t": "Đồng ý, nhưng ghi rõ điều khoản bằng văn bản",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thiệu Hằng bật cười: cô cẩn thận thật. Hợp đồng ngắn gọn, rõ ràng. Tin đồn nguội hẳn.",
+            "d": {
+              "tt": -6,
+              "hao": -2,
+              "hac": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Tông Nhiên nghe tin trước khi cô kịp nói. Giọng anh trong điện thoại lạnh như băng.",
+            "d": {
+              "hac": 5,
+              "hao": -4,
+              "tt": -3
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng chuyện với Tông Nhiên, nhờ anh ra mặt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Giọng anh trầm xuống: ta sẽ xử lý. Chỉ mấy ngày sau tin đồn đã lắng. Cô biết anh đang giận ai.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "tt": -5
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Anh im lặng rất lâu rồi cúp máy. Cô không biết anh giận chuyện gì.",
+            "d": {
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, quán ăn yên tĩnh. Dương Thiệu Hằng đề nghị công bố hẹn hò giả để chặn tin đồn, nửa năm sau chia tay; Phó Tông Nhiên gọi điện giục Hoài An về sớm.",
+      "no": 28
+    },
+    {
+      "id": "k29",
+      "scene": "kgate",
+      "place": "Cổng biệt thự Phó gia · Cuối tuần",
+      "kind": "nan",
+      "title": "Bị đuổi lần hai",
+      "text": "Cuối tuần, Thiệu Hằng đưa cô về tận cổng biệt thự. Tông Nhiên đứng ở ban công thấy hết. Anh quay vào, sai Đoàn Khải thu dọn đồ của cô. Đây là lần bị ruồng bỏ thứ hai. Cô nhờ Kha Tú Anh mang tới chiếc máy ghi nhạc chứa mười bài cô chưa công bố, dặn nhất định phải trao tận tay anh.",
+      "tieu": "Lần này hắn thật sự giận. Nhưng ngươi cũng đừng đổ lỗi cho hắn quá. Hắn sợ nhất bị bỏ rơi, mà cảnh vừa rồi trông giống đúng như thế.",
+      "cast": "ha,tnh,kta",
+      "ch": [
+        {
+          "t": "Gọi ngay cho anh, giải thích thật ngắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nghe hết. Không trả lời, nhưng không cúp máy. Một phút sau mới nói: đi đi.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "hac": 1
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Anh cúp máy. Cô nhìn màn hình rất lâu.",
+            "d": {
+              "hao": -3,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Để lại thư tay cùng chiếc máy ghi nhạc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lá thư chỉ có ba dòng. Cô ký tên rồi đặt vào tay Kha. Một mối dây còn lại.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "hac": -1
+            },
+            "f": "may_ghi"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lá thư bị nhàu vì mưa. Kha cố giữ khô nhưng không thể cứu hết.",
+            "d": {
+              "hao": 1
+            },
+            "f": "may_ghi"
+          }
+        },
+        {
+          "t": "Rời đi không để lại gì, để anh tự nghĩ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh đứng ở ban công đến khi xe cô khuất hẳn. Đoàn Khải thấy anh đứng đó suốt đêm.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nghĩ cô thật sự bỏ đi. Đêm đó mất ngủ đến sáng.",
+            "d": {
+              "hac": 4,
+              "hao": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối tuần, cổng biệt thự Phó gia. Dương Thiệu Hằng đưa Hoài An về tận cổng; Phó Tông Nhiên thấy, sai Đoàn Khải thu dọn đồ của cô. Cô nhờ Kha Tú Anh mang tới chiếc máy ghi nhạc chứa mười bài hát chưa công bố, trao tận tay anh.",
+      "no": 29
+    },
+    {
+      "id": "k30",
+      "scene": "kfan",
+      "place": "Họp mặt fan · Hai tháng sau",
+      "kind": "nan",
+      "title": "Chai nước có mùi lạ",
+      "text": "Hai tháng sau, album đã bán hết. Kha báo có người phá hoại cô ở hậu trường buổi họp mặt fan: váy bị rạch, chai nước đặt sẵn trên bàn có mùi lạ, ảnh chụp lén bị tung lên mạng. Cô không biết ai làm, nhưng cô biết mình phải cẩn thận. Cô kiểm tra đồ uống, nhờ nhân viên đổi chai.",
+      "tieu": "Mùi lạ thì đừng uống, cũng đừng vứt đi. Giữ làm chứng cứ!",
+      "cast": "ha,kta,nbn",
+      "ch": [
+        {
+          "t": "Ngửi và kiểm tra kỹ chai nước, đưa Kha giữ làm chứng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chai nước đúng là có pha thứ gì đó. Kha khóa nó vào két, đủ làm chứng cứ về sau.",
+            "d": {
+              "sinh": 2,
+              "tt": -3
+            },
+            "f": "chai_nuoc"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô chạm vào miệng chai trước khi nghi ngờ. Một chút mùi lạ vương lại trên tay.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "learn": {
+            "n": "Tự vệ cơ bản",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Hô to báo bảo vệ, cho kiểm tra toàn bàn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bảo vệ vào nhanh. Cô bình tĩnh nhìn từng nhân viên một. Kẻ phá hoại tự bỏ chạy.",
+            "d": {
+              "tt": -2,
+              "hao": 1
+            },
+            "f": "bat_ke"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Tiếng hô gây hoảng loạn. Fan bên ngoài tưởng có chuyện gì to tát.",
+            "d": {
+              "tt": 3,
+              "sinh": -2
+            }
+          },
+          "learn": {
+            "n": "Tự vệ cơ bản",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Thay váy dự phòng, vẫn lên sân khấu như thường",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô bước ra trong váy dự phòng, hát như chưa có chuyện gì. Fan reo vang.",
+            "d": {
+              "ac": -1,
+              "tt": -4,
+              "ks": 12
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Váy dự phòng không vừa, cô cử động khó khăn cả buổi diễn.",
+            "d": {
+              "sinh": -3,
+              "ks": 15
+            }
+          },
+          "learn": {
+            "n": "Tự vệ cơ bản",
+            "s": "tri",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Hai tháng sau, hậu trường buổi họp mặt fan. Album của Hoài An đã bán hết; Kha Tú Anh báo có người phá hoại cô: váy bị rạch, chai nước có mùi lạ, ảnh chụp lén bị tung ra.",
+      "no": 30
+    },
+    {
+      "id": "k31",
+      "scene": "kstudio",
+      "place": "Studio của Thiệu Hằng · Chiều",
+      "kind": "chon",
+      "title": "Bó hồng đỏ",
+      "text": "Sau khi nghe hết chiếc máy ghi nhạc, Tông Nhiên mất ngủ nhiều tuần. Chiều nay anh tới studio của Thiệu Hằng, đặt cược với bạn cũ: nếu cô chịu về, Thiệu Hằng phải công bố hai người đã chia tay. Anh cầm một bó hồng đỏ, đứng chờ ở cửa như một người xa lạ. Cô có thể về cùng anh, ở lại, hoặc hẹn anh ngày mai.",
+      "tieu": "Hắn cầm hoa đấy! Ngươi biết hắn thế nào, người cả đời chưa từng tặng hoa cho ai. Đừng làm hắn đứng đó quá lâu.",
+      "cast": "ha,tnh,dth",
+      "ch": [
+        {
+          "t": "Nhận bó hồng, về cùng anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đưa bó hoa bằng cả hai tay, vụng về. Trong xe, anh chỉ nói một câu: tối nay hát cho ta nghe.",
+            "d": {
+              "ac": -3,
+              "hao": 6,
+              "hac": -2
+            },
+            "f": "ve_cung"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nhận hoa nhưng hơi chần chừ. Anh cứng người, bó hồng suýt rơi.",
+            "d": {
+              "hao": 1,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Cười, nói cô cần hoàn thành bài ghi âm cuối trước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh gật đầu: ta chờ. Cô nhận bó hoa, hẹn tối nay. Anh về trước, nhưng hơi thở nhẹ hẳn.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh im lặng nhìn cô. Rất lâu sau mới nói: được. Rồi quay đi, vai hơi cứng.",
+            "d": {
+              "hac": 2,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Hẹn anh ngày mai, nhờ Thiệu Hằng tiễn anh ra cửa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thiệu Hằng nháy mắt, giữ anh lại uống nước. Cả hai người đàn ông cùng bật cười lần đầu sau nhiều tháng.",
+            "d": {
+              "ac": -2,
+              "hao": 4
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Anh nhìn cô lần cuối rồi bỏ đi, bó hoa vẫn cầm trên tay.",
+            "d": {
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, studio của Dương Thiệu Hằng. Sau khi nghe chiếc máy ghi nhạc, Phó Tông Nhiên mất ngủ nhiều tuần; anh tới đặt cược với Thiệu Hằng và cầm bó hồng đỏ chờ Hoài An.",
+      "no": 31
+    },
+    {
+      "id": "k32",
+      "scene": "kstudio",
+      "place": "Studio của Thiệu Hằng · Cùng chiều",
+      "kind": "chon",
+      "title": "Phó thái thái hay chim hoàng yến",
+      "text": "Trước mặt Thiệu Hằng và Kha Tú Anh, Tông Nhiên hỏi thẳng cô có muốn làm Phó thái thái không. Cả phòng nín thở. Cô từ chối, rồi nói rõ: cô muốn làm chim hoàng yến, được hát cho anh nghe và được tự do bay ra khỏi lồng khi muốn. Thiệu Hằng đăng thông báo chia tay hai người ngay sau đó.",
+      "tieu": "Câu hỏi này là ngã rẽ lớn nhất ở nửa đầu. Ngươi nghĩ kỹ trước khi đáp.",
+      "cast": "ha,tnh,dth,kta",
+      "ch": [
+        {
+          "t": "Nói rõ: em muốn làm chim hoàng yến, hát cho anh nghe",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh im lặng, rồi bật cười khẽ, giọng khàn: ta hứa không nhốt em. Cả phòng thở phào.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -2
+            },
+            "f": "hoang_yen"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nhíu mày: ta không hiểu. Nhưng anh không rời đi.",
+            "d": {
+              "hac": 2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Giải thích rằng làm Phó thái thái sẽ khiến cô mất tự do",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe hết, mắt tối rồi sáng. Cô thấy anh gật đầu rất chậm.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "hac": -1
+            },
+            "f": "hoang_yen"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh hiểu theo hướng khác: cô sợ ràng buộc với ta. Mắt anh sẫm lại.",
+            "d": {
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Cười, nói cô còn nhiều bài hát chưa hát cho anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn cô, mắt bỗng ấm lạ. Thiệu Hằng quay đi cười khẽ.",
+            "d": {
+              "ac": -2,
+              "hao": 5,
+              "hac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh nhếch môi: lảng tránh. Cô biết mình vừa bỏ lỡ một cơ hội.",
+            "d": {
+              "hao": -1,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng chiều, trước mặt Dương Thiệu Hằng và Kha Tú Anh. Phó Tông Nhiên hỏi Hoài An có muốn làm Phó thái thái không; cô từ chối và nói muốn làm chim hoàng yến, rồi Thiệu Hằng đăng thông báo chia tay.",
+      "no": 32
+    },
+    {
+      "id": "k33",
+      "scene": "kvilla",
+      "place": "Biệt thự Phó gia · Đêm hôm đó",
+      "kind": "duyen",
+      "title": "Tuổi thơ của Phó Tông Nhiên",
+      "text": "Đêm hôm đó, biệt thự yên ắng trở lại. Tiểu Châu kể cho cô nghe: mẹ anh bỏ đi theo người khác, cha anh đi tìm bà rồi cũng bỏ anh lại, họ hàng quay lưng. Anh tự dựng cơ nghiệp từ hai bàn tay trắng. Từ đó anh sợ bị ruồng bỏ và ghê tởm những thứ đã bị người khác chạm vào. Cô quyết định mình sẽ đối đãi với anh thế nào.",
+      "tieu": "Bây giờ ngươi đã biết vì sao hắn lạnh lùng, và vì sao hắn không đụng vào ai. Đối đãi cho khéo.",
+      "cast": "ha,tnh,tc",
+      "ch": [
+        {
+          "t": "Ngồi cạnh anh, kể một chuyện tuổi thơ của chính mình",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô kể chuyện lớn lên ở trại trẻ mồ côi, giọng nhẹ như đang hát. Anh không nói gì, nhưng người anh thả lỏng hẳn.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -2
+            },
+            "f": "ke_chuyen"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô kể vụng quá, anh nghiêng đầu nhìn trần nhà. Chuyện chưa tới lòng.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Không hỏi gì, chỉ ở bên và hát khẽ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh ngủ trước khi bài hát kết thúc. Cô ngồi cạnh cho đến sáng, không dám động đậy.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "hac": -1,
+              "ks": 8
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Anh chưa ngủ được, trở mình mãi. Cô chỉ biết hát nhỏ hơn.",
+            "d": {
+              "hao": 1,
+              "ks": 5
+            }
+          }
+        },
+        {
+          "t": "Hứa với anh: em sẽ không bỏ đi một mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh mở mắt, nhìn cô rất lâu. Cô thấy ánh mắt anh đang run rất khẽ.",
+            "d": {
+              "ac": -5,
+              "hao": 7,
+              "hac": -2
+            },
+            "f": "loi_hua"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh quay mặt đi: đừng hứa những điều không giữ được. Giọng anh khô.",
+            "d": {
+              "hac": 2,
+              "hao": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm hôm đó, biệt thự Phó gia. Tiểu Châu kể cho Hoài An về tuổi thơ của Phó Tông Nhiên: mẹ bỏ đi, cha bỏ rơi, họ hàng quay lưng; anh sợ bị ruồng bỏ và ghê tởm thứ đã bị người khác chạm vào.",
+      "no": 33
+    },
+    {
+      "id": "k34",
+      "scene": "kvilla",
+      "place": "Biệt thự và thành phố · Ba tháng sau",
+      "kind": "duyen",
+      "title": "Những ngày được nâng niu",
+      "text": "Ba tháng trôi qua êm đềm. Cô nấu ăn, làm bánh, chọn áo cho anh, kéo anh đi công viên giải trí. Anh bắt đầu đưa tay ra rồi lại rụt về, nhiều lần như thế. Người hầu ở biệt thự nói chưa từng thấy tiên sinh ăn hết bữa sáng. Hảo cảm tăng đều đều, nhưng cô cũng bắt đầu thấy mình mệt hơn bình thường.",
+      "tieu": "Đây là quãng yên ả hiếm hoi. Hưởng đi, nhưng đừng quên chừa sức cho mình.",
+      "cast": "ha,tnh,dkh",
+      "ch": [
+        {
+          "t": "Học làm bánh ngọt, làm cho anh mỗi sáng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chiếc bánh đầu tiên cháy nửa phần. Tông Nhiên ăn hết, không chê một lời. Từ hôm đó, sáng nào bàn ăn cũng thơm mùi bơ.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "ks": 10
+            },
+            "f": "ngot_ngao"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Bánh sống nửa trong nửa ngoài. Anh nhìn bánh, nhìn cô, nuốt từng miếng một.",
+            "d": {
+              "hao": 2,
+              "ks": 12,
+              "sinh": -1
+            }
+          },
+          "learn": {
+            "n": "Làm bánh",
+            "s": "mi",
+            "v": 2
+          }
+        },
+        {
+          "t": "Kéo anh đi công viên giải trí, ngồi vòng quay ngựa gỗ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ngồi cứng ngắc trên con ngựa gỗ, tai đỏ ửng. Lần đầu anh cười lớn, ngay giữa chỗ đông người.",
+            "d": {
+              "ac": -4,
+              "hao": 7,
+              "hac": -2,
+              "ks": 8
+            },
+            "f": "ngot_ngao"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Cả công viên nhìn anh. Anh bỏ đi mà không nói câu nào. Cô chạy theo xin lỗi.",
+            "d": {
+              "hao": -2,
+              "hac": 2
+            }
+          },
+          "learn": {
+            "n": "Làm bánh",
+            "s": "mi",
+            "v": 2
+          }
+        },
+        {
+          "t": "Chọn áo cho anh, để anh quen được người khác chăm sóc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh đứng yên để cô chỉnh cổ áo. Tay anh khẽ nâng lên rồi hạ xuống, nhưng không còn lùi lại.",
+            "d": {
+              "ac": -2,
+              "hao": 4,
+              "hac": -1
+            },
+            "f": "ngot_ngao"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh né sang một bên: ta tự mặc được. Cô cười gượng.",
+            "d": {
+              "hao": -1
+            }
+          },
+          "learn": {
+            "n": "Làm bánh",
+            "s": "mi",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Ba tháng sau, biệt thự và thành phố. Hoài An nấu ăn, làm bánh, chọn áo cho Phó Tông Nhiên và kéo anh đi công viên giải trí; anh bắt đầu đưa tay ra rồi rụt lại, còn cô bắt đầu thấy mệt hơn bình thường.",
+      "no": 34
+    },
+    {
+      "id": "k35",
+      "scene": "kstad",
+      "place": "Sân vận động · Đêm diễn đầu tiên",
+      "kind": "hiem",
+      "title": "Giàn đèn đổ",
+      "text": "Đêm diễn đầu tiên tại sân vận động, mười vạn khán giả. Tiểu Châu đã cảnh báo về giàn đèn trên đầu từ chiều. Cô kịp kiểm tra sân khấu thì tránh được; nếu không, Tông Nhiên lao tới che cho cô giữa lúc giàn đèn đổ xuống. Sau đó, anh lên sân khấu, đứng trước vạn người và tuyên bố đây là Phó thái thái của anh.",
+      "tieu": "Giàn đèn trên đầu ngươi không chắc đâu! Kiểm tra trước đi, đừng chờ đến khi nó rơi!",
+      "cast": "ha,tnh,dkh",
+      "ch": [
+        {
+          "t": "Kiểm tra giàn đèn và dây cáp từng điểm trước buổi diễn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô phát hiện hai chốt lỏng và báo ngay. Giàn đèn được cố định trước khi khán giả vào. Buổi diễn trôi chảy; Tông Nhiên đứng cánh gà nhìn cô chỉ đạo như một người dày dạn.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "sinh": 2,
+              "ks": 10
+            },
+            "f": "kt_den"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô kiểm tra nhưng bỏ sót một điểm. Một góc giàn đèn rơi xuống, vỡ vụn bên cạnh cô. Anh lao tới kéo cô ra, tay rách một đường dài.",
+            "d": {
+              "sinh": -5,
+              "hao": 6,
+              "bs": -6,
+              "ks": 12
+            },
+            "f": "den_do"
+          },
+          "learn": {
+            "n": "Chỉ đạo sân khấu",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Nhờ Đoàn Khải kiểm tra giúp rồi tập trung vào buổi diễn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đoàn Khải kiểm tra nhanh nhưng kỹ. Buổi diễn bình yên, anh ngồi ở hàng ghế đầu, mắt không rời cô.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "ks": 5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Đoàn Khải bị tắc đường tới muộn. Giàn đèn rung nhẹ giữa buổi diễn. Anh đứng bật dậy, cô thấy mặt anh trắng bệch.",
+            "d": {
+              "hao": 2,
+              "sinh": -2,
+              "ks": 8
+            }
+          },
+          "learn": {
+            "n": "Chỉ đạo sân khấu",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Tin vào số may, vào sân khấu như thường",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Giàn đèn không sao cả. Cô hát trọn buổi diễn, mừng thầm.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "ks": 8
+            }
+          },
+          "b": 0.3,
+          "bad": {
+            "x": "Giữa bài thứ ba, giàn đèn đổ xuống. Anh lao tới che cho cô, vai anh bị mảnh kính rạch sâu. Cô thấy máu trên áo anh, mặt anh tái đi nhưng không buông tay.",
+            "d": {
+              "sinh": -6,
+              "hao": 7,
+              "bs": -8,
+              "ks": 10
+            },
+            "f": "den_do"
+          },
+          "learn": {
+            "n": "Chỉ đạo sân khấu",
+            "s": "tri",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Đêm diễn đầu tiên tại sân vận động, mười vạn khán giả. Tiểu Châu đã cảnh báo về giàn đèn trên đầu; sau buổi diễn Phó Tông Nhiên lên sân khấu tuyên bố trước vạn người rằng Hoài An là Phó thái thái.",
+      "no": 35
+    },
+    {
+      "id": "k36",
+      "scene": "kback",
+      "place": "Hậu trường sân vận động · Ngay sau buổi diễn",
+      "kind": "nan",
+      "title": "Lời tố của Phó Tư Triệt",
+      "text": "Hậu trường sau buổi diễn, Hiểu Mi giận bỏ về. Tông Nhiên bảo Tư Triệt từ nay phải kính cô như người nhà họ Phó. Tư Triệt tái mặt, hét lên rằng cô từng là bạn gái của cậu. Cả hậu trường im bặt. Tông Nhiên không đuổi cô, nhưng từ giây phút ấy, ánh mắt anh đổi khác, và anh không để cô chạm vào mình nữa. Tiểu Châu báo Hắc hóa của anh vừa vọt lên.",
+      "tieu": "Hắn đang cố bình tĩnh nhưng tay hắn run... đây là chỗ hắn tổn thương nhất: người hắn tin lại từng thuộc về đứa con nuôi của hắn.",
+      "cast": "ha,tnh,ttr",
+      "ch": [
+        {
+          "t": "Nói rõ với anh: em đã kể mọi chuyện, chưa giấu gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nghe, mắt vẫn tối nhưng không bỏ đi. Cô thấy Hắc hóa nhích xuống ngay khi anh cúi đầu nhìn tay mình.",
+            "d": {
+              "ac": -4,
+              "hao": 2,
+              "hac": -2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh nghe như nghe tiếng ồn xa xôi. Mắt anh đỏ lên.",
+            "d": {
+              "hao": -3,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Đứng yên, không giải thích, chờ anh hỏi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh không hỏi. Nhưng anh không đuổi, cũng không quay lưng. Hai người đứng im như thế rất lâu.",
+            "d": {
+              "ac": -2,
+              "hao": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Sự im lặng kéo dài biến thành khoảng cách. Anh quay lưng đi trước.",
+            "d": {
+              "hao": -3,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Đưa tay chạm vào tay anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh giật lại, nhưng không lùi xa. Đoàn Khải đứng cạnh nín thở. Tay cô vẫn nằm ở đó, và rất lâu sau anh mới thôi cứng người.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "hac": -1
+            }
+          },
+          "b": 0.35,
+          "bad": {
+            "x": "Anh đẩy tay cô ra, rất mạnh. Cô loạng choạng vịn tường, đau nhói.",
+            "d": {
+              "sinh": -5,
+              "hao": -4,
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Hậu trường sau buổi diễn. Phó Tông Nhiên bảo Phó Tư Triệt từ nay phải kính Hoài An như người nhà họ Phó; Tư Triệt hét lên rằng cô từng là bạn gái của cậu. Hắc hóa của Tông Nhiên vọt lên.",
+      "no": 36
+    },
+    {
+      "id": "k37",
+      "scene": "kvilla",
+      "place": "Thư phòng biệt thự · Vài ngày sau",
+      "kind": "chon",
+      "title": "Lệnh tổ chức hôn lễ",
+      "text": "Vài ngày sau, Tông Nhiên ra lệnh cho Tư Triệt cầu hôn Hiểu Mi và tổ chức hôn lễ. Tiểu Châu giải thích: Tư Triệt là con của mẹ anh và người tình của bà, lý do anh giữ cậu ở bên cạnh suốt bao năm. Đoàn Khải điều tra xong vụ giàn đèn, báo rằng người lỏng chốt là người của Hiểu Mi. Cô quyết định có cho Tông Nhiên biết hay không.",
+      "tieu": "Nói hay không nói đều có giá. Nếu ngươi nói, hắn sẽ nghĩ ngươi đang bôi nhọ người khác. Nếu không, Hiểu Mi còn cơ hội.",
+      "cast": "ha,tnh,dkh,him",
+      "ch": [
+        {
+          "t": "Kể hết cho anh nghe, kèm bằng chứng Đoàn Khải tìm được",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe xong, im lặng, rồi gật đầu: được. Hôn lễ vẫn diễn ra, nhưng danh sách khách mời thì anh đổi hết.",
+            "d": {
+              "ac": -4,
+              "hao": 4,
+              "hac": -2
+            },
+            "f": "noi_him"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh chỉ nghe nửa chừng rồi đứng dậy: ta biết rồi. Cô không biết là anh biết thật hay chỉ muốn kết thúc câu chuyện.",
+            "d": {
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Giữ im, để Đoàn Khải tự báo cáo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đoàn Khải báo cáo rành mạch hơn cô làm được. Anh nhìn cô một lúc, nói: cô biết nhường nhịn.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Đoàn Khải bị anh gạt đi giữa chừng. Cô thấy vẻ giận dữ của anh quay về hướng lạ.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Nói nhẹ: chuyện đã qua, tôi không muốn thêm chuyện",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn cô, rất lâu, rồi khẽ lắc đầu: em tốt bụng quá. Nhưng anh vẫn xử lý.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "hac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh nhíu mày: không báo thù thì sau này ai bảo vệ em? Giọng anh lạnh.",
+            "d": {
+              "hac": 2,
+              "hao": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Vài ngày sau, thư phòng biệt thự. Phó Tông Nhiên ra lệnh cho Tư Triệt cầu hôn Hiểu Mi; Đoàn Khải báo người lỏng chốt giàn đèn là người của Hiểu Mi, và Hoài An quyết định có nói cho anh biết hay không.",
+      "no": 37
+    },
+    {
+      "id": "k38",
+      "scene": "kvilla",
+      "place": "Hành lang biệt thự · Vài tuần sau",
+      "kind": "chon",
+      "title": "Hai bước chân",
+      "text": "Vài tuần trôi qua. Tông Nhiên vẫn gửi đồ ăn cho cô, vẫn cho người đưa đón, nhưng khi đi cùng cô, anh luôn giữ khoảng cách hai bước chân. Anh không để cô chạm vào. Cô chọn chờ anh tự hỏi, chủ động nói rõ mọi chuyện, hoặc nhờ Thiệu Hằng nói giúp.",
+      "tieu": "Hai bước chân này là bức tường của hắn. Gỡ từng viên gạch một, đừng phá luôn cả tường.",
+      "cast": "ha,tnh,dth",
+      "ch": [
+        {
+          "t": "Chủ động nói: em đã hết những điều muốn giấu",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh dừng bước giữa hành lang. Quay lại thật chậm. Khoảng cách hai bước chân còn một bước rưỡi.",
+            "d": {
+              "ac": -4,
+              "hao": 5,
+              "hac": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nghe, nhưng chỉ gật đầu. Hai bước chân vẫn y nguyên.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Chờ anh tự hỏi, giữ nguyên nếp sinh hoạt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sau một tuần, anh tự hỏi: sao em không giận? Cô nói thật, anh nghe hết. Một bước chân bị xóa.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "hac": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh chờ cô nói trước. Hai người chờ nhau cả tuần mà không ai lên tiếng.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Nhờ Thiệu Hằng nói giúp vài lời với anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thiệu Hằng nói với anh trong hai tiếng. Tối đó anh đứng ở cửa phòng cô rất lâu rồi mới gõ cửa.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "hac": -2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh nghe Thiệu Hằng nói, nét mặt khó hiểu: cô cần người nói thay à? Anh lạnh đi.",
+            "d": {
+              "hac": 3,
+              "hao": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Vài tuần sau, hành lang biệt thự. Phó Tông Nhiên vẫn lo cho Hoài An chu đáo nhưng luôn đi cách cô hai bước chân và không để cô chạm vào.",
+      "no": 38
+    },
+    {
+      "id": "k39",
+      "scene": "kvilla",
+      "place": "Biệt thự Phó gia · Một tháng sau",
+      "kind": "duyen",
+      "title": "Gầy đi và dinh dưỡng sư",
+      "text": "Một tháng sau, Thiệu Hằng gửi video cô gầy đi trông thấy cho Tông Nhiên. Anh sắp ngay một dinh dưỡng sư và đưa cô đi kiểm tra sức khỏe mỗi tháng. Tiểu Châu nhắc: căn bệnh lạ vẫn còn, và nó chỉ bùng lên khi cô quá sức. Cô chọn nghỉ ngơi đúng nghĩa, hay tiếp tục dồn lịch.",
+      "tieu": "Đây là chỗ quan trọng nhất của cả thế giới này. Học cách nghỉ đi. Ta không đùa đâu.",
+      "cast": "ha,tnh,tc",
+      "ch": [
+        {
+          "t": "Nhận lịch của dinh dưỡng sư, nghỉ đủ giấc, đi kiểm tra đúng hẹn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô học cách xếp lịch: làm một, nghỉ một. Tháng đầu kiểm tra, bác sĩ chưa phát hiện gì lạ. Anh đứng ngoài hành lang chờ, thở nhẹ hẳn khi nghe kết quả.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -2,
+              "sinh": 8,
+              "ks": -27
+            },
+            "f": "nghi_ngoi"
+          },
+          "b": 0.7,
+          "bad": {
+            "x": "Cô làm theo nhưng hay quên giờ. Dinh dưỡng sư phải nhắc nhiều lần, cô vẫn chưa quen nhịp nghỉ.",
+            "d": {
+              "hao": 2,
+              "sinh": 3,
+              "ks": -12
+            },
+            "f": "nghi_ngoi"
+          },
+          "learn": {
+            "n": "Quản lý sức khỏe",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Nghe theo một nửa: nghỉ khi rảnh, làm khi có việc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cân bằng được một phần. Anh không ép, chỉ nhìn cô mỗi sáng như đang đếm.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 3,
+              "ks": -9
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Việc dồn lại, cô thức khuya hai đêm liền. Anh nhìn quầng mắt cô và không nói gì.",
+            "d": {
+              "hao": -1,
+              "ks": 15
+            }
+          },
+          "learn": {
+            "n": "Quản lý sức khỏe",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Nói cô ổn, tiếp tục nhận thêm lịch làm việc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô cố ép thêm vài ngày vẫn trụ được. Nhưng anh nhìn thấy, và mắt anh dần tối đi.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "ks": 25
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô ngất xỉu giữa buổi thu âm. Anh bế cô ra xe với tay run lên. Cả ngày hôm đó anh không nói một lời.",
+            "d": {
+              "sinh": -8,
+              "hao": -2,
+              "hac": 3,
+              "ks": 35
+            }
+          }
+        }
+      ],
+      "ctx": "Một tháng sau, biệt thự Phó gia. Dương Thiệu Hằng gửi video Hoài An gầy đi cho Phó Tông Nhiên; anh sắp dinh dưỡng sư và đưa cô đi kiểm tra mỗi tháng, trong khi Tiểu Châu nhắc căn bệnh lạ vẫn còn.",
+      "no": 39
+    },
+    {
+      "id": "k40",
+      "scene": "kair",
+      "place": "Sân bay · Trước ngày ra nước ngoài",
+      "kind": "chon",
+      "title": "Chuyến bay và cuốn sách",
+      "text": "Trước ngày cô ra nước ngoài thu âm, Tư Triệt tìm đến sân bay xin lỗi, nói sẽ giải thích với cha. Cô bảo cậu đừng giải thích hộ, cô muốn anh tự hỏi. Trên máy bay, cô bắt đầu viết cuốn sách «Nếu, đây là một kết cục khác», kể lại câu chuyện của mình từ góc nhìn của một cô gái từng bị đẩy vào kịch bản.",
+      "tieu": "Ngươi định viết gì thì viết, nhưng đừng để cả cuốn sách thành lời phàn nàn. Hãy viết như đang hát.",
+      "cast": "ha,ttr,tc",
+      "ch": [
+        {
+          "t": "Nói với Tư Triệt: cứ xin lỗi cha cậu, đừng tìm tôi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tư Triệt hít sâu rồi gật đầu. Cậu lùi lại một bước, lần đầu không cúi đầu.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "tt": -3
+            },
+            "f": "cho_tu_hoi"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cậu tưởng cô đang trách mình nên càng lúng túng. Cô nhìn đồng hồ, thấy mình sắp trễ chuyến bay.",
+            "d": {
+              "ks": 8
+            }
+          },
+          "learn": {
+            "n": "Viết sách",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Viết ngay chương mở đầu trên máy bay",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chương mở đầu trôi chảy lạ thường. Cô thấy mình nhẹ hơn sau mỗi trang.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "ks": 5
+            },
+            "f": "viet_sach"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô viết xóa, xóa viết mãi mà chẳng ra chữ nào. Mệt rã rời khi máy bay hạ cánh.",
+            "d": {
+              "ks": 12,
+              "sinh": -1
+            }
+          },
+          "learn": {
+            "n": "Viết sách",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Gửi anh một tin nhắn trước khi lên máy bay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tin nhắn chỉ có một dòng: em đi một thời gian, chờ em. Anh trả lời ngay: ta chờ. Cô nhìn dòng chữ rất lâu.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -2
+            },
+            "f": "tin_nhan"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tin nhắn hiện đã xem rồi im lặng. Cô tắt điện thoại, lòng không yên.",
+            "d": {
+              "hao": -1
+            }
+          },
+          "learn": {
+            "n": "Viết sách",
+            "s": "tri",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Sân bay, ngay trước ngày Hoài An ra nước ngoài. Phó Tư Triệt tìm tới xin lỗi, nói sẽ giải thích với cha; cô bảo cậu đừng giải thích hộ, và bắt đầu viết cuốn sách «Nếu, đây là một kết cục khác».",
+      "no": 40
+    },
+    {
+      "id": "k41",
+      "scene": "kair",
+      "place": "Nước ngoài · Hai năm sau",
+      "kind": "chon",
+      "title": "Hai năm xuất ngoại",
+      "text": "Tiểu Châu tóm lại hai năm ở nước ngoài: một album, năm buổi diễn, hôn lễ của Tư Triệt và Hiểu Mi mà cô không dự. Mỗi tháng cô gửi một món quà cho Tông Nhiên, dặn người đưa rằng cô chưa từng chạm vào chúng. Anh nhận từng món, xếp ngay ngắn trong phòng riêng. Cô chọn tiếp tục như vậy hay dừng lại.",
+      "tieu": "Hai năm là thời gian dài với hắn. Nhưng hắn vẫn đang đợi, ngươi biết mà.",
+      "cast": "ha,tnh,tc",
+      "ch": [
+        {
+          "t": "Tiếp tục gửi quà mỗi tháng, thêm một dòng viết tay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mỗi dòng viết tay là một câu hát ru ngắn. Anh nhận hết, và Đoàn Khải kể anh ngủ ngon hơn mỗi lần có thư.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -2,
+              "ks": 8
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Có một lá thư thất lạc giữa đường. Cô áy náy cả tháng.",
+            "d": {
+              "hao": 1,
+              "ks": 8
+            }
+          }
+        },
+        {
+          "t": "Thôi gửi quà, chỉ gọi video mỗi tuần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhìn màn hình rất lâu, nói ít nhưng không bao giờ bỏ lỡ cuộc gọi. Cô thấy anh gầy đi chút.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "hac": -1,
+              "ks": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cuộc gọi lệch múi giờ, nhiều lần chỉ kịp chào. Cô thấy hụt hẫng.",
+            "d": {
+              "hao": 0,
+              "ks": 5
+            }
+          }
+        },
+        {
+          "t": "Chọn hai năm nghỉ ngơi thật sự, ít gửi hơn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ngủ đủ giấc, ăn đủ bữa. Sức khỏe ổn định hẳn, anh cũng yên tâm hơn khi thấy ảnh cô.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 6,
+              "ks": -15
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nghỉ nhiều, anh nghĩ cô quên mình. Anh gửi lại một món quà không lời.",
+            "d": {
+              "hao": -2,
+              "hac": 2,
+              "sinh": 3,
+              "ks": -9
+            }
+          }
+        }
+      ],
+      "ctx": "Hai năm sau, nước ngoài. Hoài An ra album, diễn năm buổi, bỏ lỡ hôn lễ của Tư Triệt và Hiểu Mi; mỗi tháng cô gửi một món quà cho Phó Tông Nhiên và dặn cô chưa từng chạm vào chúng.",
+      "no": 41
+    },
+    {
+      "id": "k42",
+      "scene": "kair",
+      "place": "Sân bay trong nước · Ngày về nước",
+      "kind": "chon",
+      "title": "Buổi diễn cuối",
+      "text": "Về nước, fan vây kín sân bay. Hiểu Mi sắp có buổi diễn đầu vào tháng mười. Cô tuyên bố sắp có buổi diễn cuối vào ngày 9/9 rồi sẽ rời giới âm nhạc. Tông Nhiên đón cô ở ngoài cửa. Hai chiếc xe chạy song song trên đường về, không ai nói gì.",
+      "tieu": "Ngươi nói rời giới, nhưng hắn nghe thành rời hắn. Đừng quên giải thích.",
+      "cast": "ha,tnh,kta",
+      "ch": [
+        {
+          "t": "Nói rõ với anh: em chỉ rời sân khấu, không rời anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh dừng xe giữa đường, quay sang nhìn cô thật lâu. Rồi anh gật đầu, và đi tiếp.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh hiểu thành ngược lại. Hai chiếc xe vẫn song song nhưng mãi không gặp nhau.",
+            "d": {
+              "hao": -1,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Giải thích sau, giữ im lặng suốt chặng đường",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đợi tới nhà mới nói. Anh nghe hết, tay đặt hờ cạnh tay cô trên bàn, không chạm.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "hac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô đợi quá lâu, anh đã tưởng tượng ra đủ chuyện. Mắt anh đỏ.",
+            "d": {
+              "hac": 3,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Ngồi chung xe với anh, nhờ Kha lái xe kia",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ngồi cạnh anh. Hai chiếc xe cuối cùng cũng chạy chung một hướng. Anh nhìn gương chiếu hậu nhiều lần hơn thường lệ.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Kha lái xe đi nhầm đường. Cô tới muộn một giờ, anh đã đợi ở sảnh với đôi mắt đỏ.",
+            "d": {
+              "hao": -2,
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày về nước, sân bay trong nước. Hoài An tuyên bố buổi diễn cuối vào ngày 9/9 rồi sẽ rời giới âm nhạc; Phó Tông Nhiên đón cô, hai chiếc xe chạy song song.",
+      "no": 42
+    },
+    {
+      "id": "k43",
+      "scene": "kgate",
+      "place": "Cục Dân chính · Sáng hôm sau",
+      "kind": "chon",
+      "title": "Trước cửa Cục Dân chính",
+      "text": "Sáng hôm sau, anh đưa cô tới một nơi, dù chưa ai nói chuyện kết hôn: Cục Dân chính. Anh đứng ở cửa, hai tay buông thõng, không nói gì. Cô có thể chấp nhận, hoãn lại hoặc tìm cách khác. Tông Nhiên lúng túng, không biết phải làm gì tiếp theo; anh gọi Tư Triệt về ăn cơm.",
+      "tieu": "Hắn tưởng đây là điều ngươi muốn, và sợ nếu không làm thì ngươi sẽ đi. Chậm lại một chút nhé.",
+      "cast": "ha,tnh",
+      "ch": [
+        {
+          "t": "Nắm tay anh, nói cô chưa cần giấy tờ nhưng cô ở lại",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn bàn tay cô đặt trên tay mình. Rất lâu sau anh mới siết lại. Hôm đó họ đi dạo công viên, không ai vào Cục Dân chính.",
+            "d": {
+              "ac": -4,
+              "hao": 7,
+              "hac": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nghe thành từ chối. Anh quay đi nhanh quá, tay cô trượt khỏi.",
+            "d": {
+              "hao": -3,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Hoãn lại, nói cô muốn hoàn thành buổi diễn trước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh gật đầu: ta chờ đến ngày 9/9. Sự hiểu ý của anh làm cô nhẹ hẳn.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "hac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh im lặng. Cô nghe thấy tiếng thở dài nặng nề.",
+            "d": {
+              "hao": -1,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Kéo anh vào quán cà phê, nói chuyện thật lòng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Quán cà phê vắng khách. Cô nói, anh nghe, hết hai ly cà phê nguội. Anh bắt đầu cười.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói không đúng chỗ, anh cau mày. Mãi sau anh mới hiểu.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, trước cửa Cục Dân chính. Phó Tông Nhiên đưa Hoài An tới đó dù chưa ai nói chuyện kết hôn, rồi gọi Phó Tư Triệt về ăn cơm.",
+      "no": 43
+    },
+    {
+      "id": "k44",
+      "scene": "kdine",
+      "place": "Bàn ăn gia đình Phó gia · Tối",
+      "kind": "duyen",
+      "title": "Bữa cơm gia đình",
+      "text": "Tư Triệt và Hiểu Mi đến dự bữa cơm. Tư Triệt nói rõ trước mặt cha rằng giữa cậu và cô chưa từng có gì ngoài cái tên. Tông Nhiên im lặng, mắt tối đi từng chút. Hiểu Mi cúi đầu. Cô chọn nói thêm vài lời, hoặc để anh tự hỏi như cô đã nói ở sân bay.",
+      "tieu": "Cuối cùng Tư Triệt cũng nói thẳng. Cậu ta không xấu, chỉ nhát. Hắn cần nghe thêm từ ngươi.",
+      "cast": "ha,tnh,ttr,him",
+      "ch": [
+        {
+          "t": "Nói thêm: Tư Triệt nói thật, tôi chưa từng giấu anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô. Rồi nhìn Tư Triệt, rất lâu. Rồi nhẹ nhàng gật đầu. Hiểu Mi thở ra khe khẽ.",
+            "d": {
+              "ac": -5,
+              "hao": 6,
+              "hac": -3
+            },
+            "f": "bua_com"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nghe nhưng mắt vẫn xa xăm. Bàn ăn lặng ngắt.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Giữ im, để anh tự hỏi theo cách của anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh hỏi ngắn: tại sao không nói sớm? Cô đáp thật lòng. Anh gật đầu, nét mặt dịu đi.",
+            "d": {
+              "ac": -4,
+              "hao": 4,
+              "hac": -2
+            },
+            "f": "bua_com"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh không hỏi. Anh đứng dậy rời bàn trước khi món cuối được dọn.",
+            "d": {
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Gắp thức ăn cho anh, cười như không có gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn bát cô gắp, rất lâu. Rồi ăn hết. Tư Triệt và Hiểu Mi nhìn nhau lần đầu thấy cha dịu thế.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -2
+            },
+            "f": "bua_com"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh buông đũa. Bữa cơm kết thúc sớm trong im lặng.",
+            "d": {
+              "hao": -1,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, bàn ăn biệt thự Phó gia. Phó Tư Triệt và Ân Hiểu Mi đến dự bữa cơm gia đình; Tư Triệt nói rõ trước mặt cha rằng giữa cậu và Hoài An chưa từng có gì ngoài cái tên.",
+      "no": 44
+    },
+    {
+      "id": "k45",
+      "scene": "kbook",
+      "place": "Hiệu sách · Hai tuần trước buổi diễn",
+      "kind": "chon",
+      "title": "Cuốn sách ra mắt",
+      "text": "Hai tuần trước buổi diễn, cuốn «Nếu, đây là một kết cục khác» ra mắt. Sách bán hết trong một ngày. Tông Nhiên đọc xong bảo kết cục không tốt. Thiệu Hằng và Tư Triệt đọc, thấy mình bị viết vào từng chương. Cô giải thích hoặc để họ tự hiểu.",
+      "tieu": "Sách của ngươi viết thật đến mức họ khó chịu. Nhưng cũng chính vì thế mà họ hiểu ngươi hơn.",
+      "cast": "ha,tnh,dth,ttr",
+      "ch": [
+        {
+          "t": "Giải thích với anh: kết cục đó là tôi viết cho nhân vật, không phải cho mình",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đọc lại chương cuối, lần này chậm hơn. Rồi anh hỏi: vậy kết cục thật của em là gì? Cô trả lời bằng nụ cười.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -3
+            },
+            "f": "giai_thich"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nhíu mày: nhân vật là em. Cô cảm thấy mình vừa bị nhìn thấu.",
+            "d": {
+              "hao": -1,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Để họ tự hiểu, không nói gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tông Nhiên đọc tới lần thứ ba. Một đêm anh gõ cửa phòng cô chỉ để nói: ta hiểu rồi.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "hac": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thiệu Hằng và Tư Triệt ngượng ngùng suốt mấy ngày. Anh vẫn trầm ngâm.",
+            "d": {
+              "hao": 0,
+              "tt": 3
+            }
+          }
+        },
+        {
+          "t": "Tặng mỗi người một bản có chữ ký riêng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mỗi dòng đề tặng đều khác nhau. Họ đọc, nhìn nhau rồi bật cười. Anh đọc dòng của mình thật lâu.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -1,
+              "tt": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Một dòng đề tặng bị hiểu sai. Thiệu Hằng nhắn lại ngượng ngập.",
+            "d": {
+              "hao": 0,
+              "tt": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Hai tuần trước buổi diễn cuối, hiệu sách. Cuốn «Nếu, đây là một kết cục khác» của Hoài An bán hết trong một ngày; Phó Tông Nhiên đọc và bảo kết cục không tốt, Thiệu Hằng và Tư Triệt đọc thấy mình bị viết vào.",
+      "no": 45
+    },
+    {
+      "id": "k46",
+      "scene": "kstad",
+      "place": "Sân khấu mười vạn chỗ · Đêm 9/9",
+      "kind": "hiem",
+      "title": "Buổi diễn cuối",
+      "text": "Đêm 9/9, sân khấu mười vạn chỗ do Tông Nhiên dựng riêng cho cô. Cô hát hai mươi bài mới, từng bài là một khúc ru khác nhau. Đến bài cuối, hơi thở cô nghẹn lại, mắt tối sầm, và cô gục xuống giữa sân khấu. Tông Nhiên chạy lên đỡ cô dù đang run vì sợ. Cả sân vận động nín thở.",
+      "tieu": "Đây rồi... đây là bước ngoặt. Thân thể này sẽ ra sao còn tùy vào những gì ngươi đã làm suốt thời gian qua...",
+      "cast": "ha,tnh,kta",
+      "ch": [
+        {
+          "t": "Hát tiếp dù đã yếu, giữ hơi cho đến nốt cuối",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cố gắng giữ hơi, hát hết nốt cuối rồi mới ngã vào vòng tay anh. Cả sân vận động đứng dậy. Anh bế cô đi, không còn run nữa.",
+            "d": {
+              "ac": -4,
+              "hao": 5,
+              "sinh": -8,
+              "ks": 15
+            },
+            "f": "hat_het"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Cô hụt hơi giữa nốt. Anh chạy lên sớm hơn, bế cô xuống trong tiếng thét của khán giả.",
+            "d": {
+              "sinh": -14,
+              "hao": 3,
+              "ks": 20
+            }
+          }
+        },
+        {
+          "t": "Dừng bài lại, ngồi xuống và nói với khán giả cô cần nghỉ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ngồi xuống giữa sân khấu, nói rất nhẹ. Khán giả im lặng đợi. Anh chạy lên đỡ cô, và lần đầu anh nói trước vạn người: ta ở đây.",
+            "d": {
+              "ac": -5,
+              "hao": 7,
+              "sinh": -4,
+              "ks": -6
+            },
+            "f": "dung_bai"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô ngồi xuống nhưng đã quá muộn. Cô ngất khi anh vừa chạm tới.",
+            "d": {
+              "sinh": -10,
+              "hao": 4,
+              "ks": 10
+            }
+          }
+        },
+        {
+          "t": "Ra hiệu cho Kha đưa nước, giữ nụ cười đến phút chót",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Kha đưa nước kịp lúc. Cô uống một ngụm, hát thêm một câu rồi mới được đỡ xuống.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "sinh": -6,
+              "ks": 8
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Nước không đủ. Cô ngất ngay giữa câu hát cuối.",
+            "d": {
+              "sinh": -12,
+              "hao": 2,
+              "ks": 15
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Đêm 9/9, sân khấu mười vạn chỗ do Phó Tông Nhiên dựng cho Hoài An. Cô hát hai mươi bài mới, đến bài cuối thì gục xuống; Tông Nhiên chạy lên đỡ cô dù đang run vì sợ.",
+      "no": 46
+    },
+    {
+      "id": "k47",
+      "scene": "khosp",
+      "place": "Phòng chờ bệnh viện · Đêm 9/9",
+      "kind": "nan",
+      "title": "Kết quả khám",
+      "text": "Bệnh viện, phòng chờ, nửa đêm. Tông Nhiên ngồi bất động trên chiếc ghế nhựa, tay nắm chặt áo cô còn hơi ấm. Bác sĩ bước ra, tay cầm hồ sơ. Bệnh lạ của cô có lộ ra hay không tùy vào những gì cô đã làm: nghỉ ngơi đúng giờ hay dồn lịch đến kiệt. Cú rẽ này quyết định lời kết, nhưng đây không phải là kết thúc của một cái chết.",
+      "tieu": "Ta không dám nhìn... Ngươi đứng ra nghe đi. Dù kết quả ra sao, hắn đã ở đây suốt đêm rồi.",
+      "cast": "ha,tnh,dkh",
+      "ch": [
+        {
+          "t": "Nắm tay anh, cùng nghe kết quả",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bác sĩ nói chậm và rõ. Anh siết tay cô, run nhẹ. Khi nghe xong, anh gục đầu vào vai cô lần đầu tiên.",
+            "d": {
+              "ac": -5,
+              "hao": 8,
+              "hac": -4
+            },
+            "f": "nghe_kq"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Bác sĩ nói những điều khó nghe. Anh nghe, tay vẫn nắm chặt, không rời.",
+            "d": {
+              "hao": 5,
+              "hac": -2
+            },
+            "f": "nghe_kq"
+          }
+        },
+        {
+          "t": "Tự mình hỏi bác sĩ trước, nói lại với anh sau",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô hỏi từng câu, ghi chú lại. Anh nhìn cô, ánh mắt như một người thấy đất liền sau cơn bão.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô quá mệt để nhớ hết. Anh phải hỏi lại bác sĩ, tay run.",
+            "d": {
+              "hao": 3,
+              "hac": -1
+            }
+          }
+        },
+        {
+          "t": "Im lặng ngồi bên anh, chờ bác sĩ nói tiếp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người ngồi cạnh nhau, không ai nói. Khi bác sĩ ra, anh nắm tay cô trước khi nghe.",
+            "d": {
+              "ac": -4,
+              "hao": 7,
+              "hac": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh bật dậy hỏi dồn bác sĩ. Cô thấy tay anh run rất rõ.",
+            "d": {
+              "hao": 4,
+              "hac": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Nửa đêm 9/9, phòng chờ bệnh viện. Phó Tông Nhiên chờ cùng Hoài An kết quả khám; bệnh lạ có bùng ra hay không tùy cô đã giữ Kiệt sức thấp đến đâu.",
+      "no": 47
+    }
+  ]
+}

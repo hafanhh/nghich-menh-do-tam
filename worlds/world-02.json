@@ -1,0 +1,2389 @@
+{
+  "id": "w2",
+  "no": 2,
+  "chapEnd": [
+    7,
+    15,
+    23,
+    30
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 1
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 1
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -3,
+      "hao": 2
+    }
+  ],
+  "pbias": 0.02,
+  "p0": {
+    "mi": 60,
+    "tri": 58,
+    "van": 52
+  },
+  "params": {
+    "ac": 1,
+    "hac": 1.12,
+    "hao": 1,
+    "bad": 1
+  },
+  "names": {
+    "on": "Ôn Niệm",
+    "ctr": "Cố Trầm",
+    "can": "Cố Ảnh",
+    "stk": "Tống Thư Kỳ",
+    "dkt": "Đỗ Khải Thịnh",
+    "dq": "Đàm Quý",
+    "hgm": "Hứa Gia Minh",
+    "ngt": "Ngụy Thần",
+    "lth": "Lạc Tuệ",
+    "hti": "Huyền Tĩnh",
+    "tcm": "Bé Tiểu Cầm"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 2 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh là hình vẽ tạm bằng mã.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Một mái nhà, hai thế giới",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ban ngày anh ngồi trong bóng rèm, ban đêm anh đàn cho cô hát. Anh học cách ở cạnh cô mà không giữ chặt cô. Vườn cúc trắng trước nhà cũ nở quanh năm.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "mansion"
+    },
+    "near": {
+      "n": "Gần như trọn vẹn",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Thỉnh thoảng mắt anh đỏ lên khi có người lạ nhìn cô quá lâu. Anh tự nhốt mình trong phòng tối cho tới khi nó qua, rồi lại ra nấu cơm cho cô.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "mansion"
+    },
+    "half": {
+      "n": "Ở lại bên nhau",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Anh vẫn đứng sau rèm cửa nhìn theo mỗi lần cô ra ngõ, vẫn ghen với cả bóng người qua đường. Nhưng cô ở lại, và tối nào cô cũng về nhà trước khi trời tối hẳn.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "mansion"
+    },
+    "black": {
+      "n": "Lệ quỷ hoàn toàn",
+      "c": "Hắc hóa chạm 100. Anh không còn nhận ra ai, kể cả cô. Tiểu Châu kéo linh hồn cô đi trước khi căn nhà cũ chìm trong khói đen.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "ritual"
+    },
+    "bdead": {
+      "n": "Anh tan vào khói",
+      "c": "Sinh mệnh của Cố Trầm về 0. Anh tan như khói nến, tiếng cuối cùng vẫn là gọi tên cô.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "ritual"
+    },
+    "dead": {
+      "n": "Ôn Niệm vẫn chết",
+      "c": "Sinh mệnh cạn kiệt. Tiểu Châu thở dài, kéo linh hồn cô về không gian của nó trước khi anh kịp nắm tay cô.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "street"
+    }
+  },
+  "events": [
+    {
+      "id": "w01",
+      "scene": "apart",
+      "place": "Căn phòng thuê, ban công có xích đu",
+      "kind": "duyen",
+      "title": "Cuộc gọi lúc trưa",
+      "text": "Ôn Niệm, hai mươi hai tuổi, hát đêm ở quán Lam Đăng để sống qua ngày. Trưa nay cô đang lim dim trên chiếc xích đu tre thì điện thoại reo. Một giọng đàn ông trầm, chậm, hơi lạnh: Mình là Cố Trầm, cậu còn nhớ mình không?",
+      "tieu": "Zzz... Linh khí thế giới này mỏng quá, ta ngủ đây. Boss sẽ tự tìm đến... zzz",
+      "cast": "on,tc",
+      "ch": [
+        {
+          "t": "Kể những gì mình nhớ về cậu ấy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nhắc đúng chỗ ngồi cuối lớp và điểm thi của cậu ấy. Đầu dây bên kia bật cười rất khẽ.",
+            "d": {
+              "hao": 6,
+              "ac": -3,
+              "hac": -2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô nhớ nhầm cậu ấy với một người khác. Đầu dây im lặng rất lâu.",
+            "d": {
+              "hao": -3,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Hỏi vì sao cậu ấy có số của mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nói tra mãi mới thấy. Câu trả lời trơn tru đến lạ, và cô ghi nhớ điều đó.",
+            "d": {
+              "ac": -2,
+              "am": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Câu hỏi làm anh khựng lại. Rồi giọng anh lạnh hẳn đi.",
+            "d": {
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Hứa sẽ đến buổi họp lớp",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Anh nói: mình chờ cậu tới. Cô thấy câu ấy là lạ, nhưng vẫn vỗ ngực hứa.",
+            "d": {
+              "hao": 4,
+              "am": 3
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Dò hỏi khéo",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 1
+    },
+    {
+      "id": "w02",
+      "scene": "pond",
+      "place": "Trang trại ven thành phố, bờ ao",
+      "kind": "hiem",
+      "title": "Đứa bé dưới ao",
+      "text": "Buổi họp lớp đông đủ ba mươi người, chỉ không thấy Cố Trầm. Đi dạo bên ao, cô thấy một cậu bé rơi xuống nước giãy giụa. Những người khác vẫn cười nói như không nhìn thấy gì.",
+      "tieu": "Zzz... ao sâu... đừng có nhảy... à mà ngươi biết bơi... zzz",
+      "cast": "on,tc",
+      "ch": [
+        {
+          "t": "Lao xuống cứu cậu bé",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Có thứ gì cuốn lấy chân cô kéo xuống. Giữa lúc ngộp thở, một hơi lạnh truyền qua môi cô, và cô nổi lên được.",
+            "d": {
+              "sinh": -6,
+              "hao": 5,
+              "am": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô bị kéo xuống đáy, uống no nước. Người ta lôi cô lên bờ và bảo trong ao chẳng có ai.",
+            "d": {
+              "sinh": -16,
+              "am": 8
+            }
+          }
+        },
+        {
+          "t": "Gọi mọi người cùng đến",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả lớp chạy tới. Mặt ao phẳng lặng, không có đứa bé nào. Mọi người cười cô hoa mắt.",
+            "d": {
+              "ac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô hét lớn, rồi tự trượt chân ở mép ao.",
+            "d": {
+              "sinh": -8,
+              "am": 4
+            }
+          }
+        },
+        {
+          "t": "Ném cành cây xuống cho cậu bé",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cành cây chìm dần mà không ai nắm lấy. Gió lạnh lướt qua tai cô như một tiếng thở dài.",
+            "d": {
+              "hao": 2,
+              "am": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô chồm người quá đà, ngã nhào xuống nước.",
+            "d": {
+              "sinh": -12,
+              "am": 6
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Bơi lặn",
+        "s": "van",
+        "v": 2
+      },
+      "no": 2
+    },
+    {
+      "id": "w03",
+      "scene": "pond",
+      "place": "Trang trại ven thành phố, gốc liễu",
+      "kind": "chon",
+      "title": "Tin dữ từ Tống Thư Kỳ",
+      "text": "Tống Thư Kỳ lái xe tới muộn, váy đen, trang điểm nhạt. Cô ta kéo Ôn Niệm ra một góc, giọng lạnh tanh: Cố Trầm chết rồi, ba ngày trước, tai nạn giao thông. Cô mở nhật ký cuộc gọi, và số máy hôm ấy trùng đúng số của anh.",
+      "tieu": "Zzz... cô gái váy đen này không ưa ngươi đâu... ta nói rồi đấy... zzz",
+      "cast": "on,stk",
+      "ch": [
+        {
+          "t": "Nói thật về cuộc gọi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thư Kỳ nhìn cô rất lâu, rồi xóa số của anh khỏi danh bạ. Cô ta không tin, nhưng cũng không cãi.",
+            "d": {
+              "ac": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thư Kỳ cười nhạt: cậu bịa chuyện để được chú ý à. Ánh mắt cô ta đầy oán giận.",
+            "d": {
+              "hac": 2
+            },
+            "f": "ghet"
+          }
+        },
+        {
+          "t": "Bảo có lẽ ai đó đùa dai",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thư Kỳ gật đầu, bớt gay gắt. Sau lưng hai người, cành liễu rung khẽ dù không có gió.",
+            "d": {
+              "hao": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thư Kỳ cau mày: đùa dai bằng số của người chết sao?",
+            "d": {
+              "hac": 1
+            },
+            "f": "ghet"
+          }
+        },
+        {
+          "t": "Chia buồn và hỏi về anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thư Kỳ kể anh học giỏi, ít nói, có người trong lòng từ lâu. Cô ta nhìn Ôn Niệm như nhìn một kẻ cướp.",
+            "d": {
+              "hao": 4,
+              "ac": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Thư Kỳ gạt tay cô ra: cậu không có tư cách hỏi.",
+            "d": {
+              "hac": 2
+            },
+            "f": "ghet"
+          }
+        }
+      ],
+      "no": 3
+    },
+    {
+      "id": "w04",
+      "scene": "graves",
+      "place": "Đường đồng về thành phố, chạng vạng",
+      "kind": "hiem",
+      "title": "Bó cúc dại trên đường về",
+      "text": "Dắt chiếc xe đạp mượn ra cổng, cô va phải một cậu bé áo trắng im lìm. Cậu đưa cô bó cúc dại, bàn tay lạnh như nước giếng. Đạp qua cánh đồng có mấy nấm mộ, xe nặng dần như có người ngồi sau. Phía xa sau lưng có tiếng gọi: này.",
+      "tieu": "...Không... ngoái đầu... zzz",
+      "cast": "on,tc",
+      "ch": [
+        {
+          "t": "Đạp thật nhanh, không ngoái lại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô về tới phố đèn sáng. Bó cúc trong giỏ xe vẫn tươi như vừa hái.",
+            "d": {
+              "am": 3,
+              "hao": 3,
+              "ac": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô run tay, xe lao vào lề cỏ. Tiếng gọi im bặt ngay sau gáy.",
+            "d": {
+              "sinh": -8,
+              "am": 8
+            }
+          }
+        },
+        {
+          "t": "Hát thật to cho đỡ sợ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng cô vang khắp cánh đồng. Chiếc xe chợt nhẹ hẳn, như có ai đang ngồi nghe.",
+            "d": {
+              "hao": 6,
+              "ac": -3,
+              "am": 2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Giọng cô run, lạc nhịp. Tiếng gọi mỗi lúc một gần.",
+            "d": {
+              "am": 8,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Dừng xe, ngoái nhìn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chỉ thấy đường tối và cánh đồng. Gió lạnh quấn quanh vai cô một vòng rồi đi.",
+            "d": {
+              "am": 4
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Có thứ gì đó lướt sát mặt cô. Cô ngã khỏi xe, trầy cả hai đầu gối.",
+            "d": {
+              "sinh": -14,
+              "am": 10,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "learn": null,
+      "no": 4
+    },
+    {
+      "id": "w05",
+      "scene": "bar",
+      "place": "Quán Lam Đăng, giờ diễn tối",
+      "kind": "hiem",
+      "title": "Thiếu gia ở quán Lam Đăng",
+      "text": "Mấy hôm liền, thiếu gia Đỗ Khải Thịnh ngồi bàn đầu cổ vũ cô. Tối nay hắn chặn cô ở quầy, buông lời bẩn thỉu và chìa ra một xấp tiền mua một đêm. Cả quán im phăng phắc.",
+      "tieu": "Zzz... đập... à không, ta đang mơ... zzz",
+      "cast": "on,dkt",
+      "ch": [
+        {
+          "t": "Đập chai rượu lên đầu hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Choang. Hắn lăn ra sàn. Chủ quán chỉ trừ cô một tháng lương. Ở góc tối, có ai đó vỗ tay.",
+            "d": {
+              "hao": 6,
+              "hac": -2,
+              "sinh": -2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Hắn né được, hất cô ngã vào cạnh quầy.",
+            "d": {
+              "sinh": -12,
+              "hac": 4
+            }
+          }
+        },
+        {
+          "t": "Từ chối khéo rồi lui vào trong",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô cười nhạt, nói giờ diễn đã hết. Bảo vệ bước ra đứng chắn giữa hai người.",
+            "d": {
+              "ac": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn túm cổ tay cô kéo mạnh. Đèn quán chập chờn liên hồi.",
+            "d": {
+              "sinh": -6,
+              "hac": 5
+            }
+          }
+        },
+        {
+          "t": "Gọi chủ quán và bảo vệ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chủ quán mời hắn ra về. Hắn đi, vừa đi vừa chửi.",
+            "d": {
+              "ac": -1,
+              "hac": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Chủ quán đứng về phía khách sộp, bắt cô xin lỗi.",
+            "d": {
+              "hac": 4,
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Võ Taekwondo",
+        "s": "mi",
+        "v": 2
+      },
+      "no": 5
+    },
+    {
+      "id": "w06",
+      "scene": "street",
+      "place": "Ngã tư trung tâm, đêm",
+      "kind": "nan",
+      "title": "Tai nạn kỳ lạ",
+      "text": "Hai hôm sau, Đỗ Khải Thịnh chết. Camera ghi lại cảnh hắn đứng một mình bên đường, rồi bị hất văng ra trước mũi xe như có ai đẩy. Đêm ấy, căn phòng thuê của cô lạnh như ướp đá.",
+      "tieu": "Ta... ngửi thấy mùi máu... cẩn thận... zzz",
+      "cast": "on,tc",
+      "ch": [
+        {
+          "t": "Nói vào khoảng không: đừng làm vậy nữa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hơi lạnh sau lưng cô khựng lại rất lâu, rồi rút đi như con thú vừa bị mắng.",
+            "d": {
+              "hac": -4,
+              "ac": -4,
+              "am": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Không có gì đáp lại. Chỉ có cánh cửa sổ tự mở tung.",
+            "d": {
+              "hac": 4,
+              "am": 6
+            }
+          }
+        },
+        {
+          "t": "Thắp một nén nhang cho hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Khói nhang bay thẳng lên, rồi bị gió thổi tắt. Cô thấy lòng nhẹ đi đôi chút.",
+            "d": {
+              "ac": -2,
+              "am": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Nén nhang gãy làm đôi trong tay cô.",
+            "d": {
+              "hac": 3,
+              "am": 4
+            }
+          }
+        },
+        {
+          "t": "Coi như tai nạn thường, đi ngủ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô kéo chăn trùm đầu. Bó cúc dại trên đầu giường vẫn trắng xóa, không chút héo.",
+            "d": {
+              "am": 4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô trằn trọc cả đêm, cảm giác có người ngồi lặng bên mép giường.",
+            "d": {
+              "am": 7,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "no": 6
+    },
+    {
+      "id": "w06b",
+      "scene": "street",
+      "place": "Phố trung tâm, buổi chiều",
+      "kind": "duyen",
+      "title": "Chiếc ví và người lạ tốt bụng",
+      "text": "Giữa phố đông, một gã thanh niên giật phăng túi xách của cô rồi chạy. Cô chưa kịp đuổi thì một người đàn ông mặc vest đã lao theo, vài phút sau quay lại với chiếc ví trên tay. Anh tên Hứa Gia Minh, anh trai một bạn học cũ của cô.",
+      "tieu": "Zzz... người tốt... đứng gần ngươi lúc này... không tốt cho hắn đâu... zzz",
+      "cast": "on,hgm",
+      "ch": [
+        {
+          "t": "Cảm ơn, nhưng không cho số điện thoại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Gia Minh cười, không ép. Gió lạnh quanh cô dịu xuống.",
+            "d": {
+              "hac": -3,
+              "ac": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh vẫn nhét danh thiếp vào tay cô. Đèn đường phía sau nhấp nháy liên hồi.",
+            "d": {
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Cho số, mời anh ly cà phê cảm ơn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người ngồi quán nửa tiếng. Ly cà phê của anh bỗng nứt chân.",
+            "d": {
+              "hao": -2,
+              "hac": 3
+            },
+            "f": "gan_gm"
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô làm đổ cà phê lên áo anh. Anh vẫn cười.",
+            "d": {
+              "hac": 4
+            },
+            "f": "gan_gm"
+          }
+        },
+        {
+          "t": "Tự đuổi theo tên trộm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đuổi kịp trước cả Gia Minh, quật tên trộm xuống đất. Đâu đó có tiếng cười rất khẽ.",
+            "d": {
+              "hao": 5,
+              "ac": -2,
+              "sinh": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô trượt chân ngã sấp giữa phố.",
+            "d": {
+              "sinh": -8
+            }
+          }
+        }
+      ],
+      "no": 7
+    },
+    {
+      "id": "w07",
+      "scene": "cinema",
+      "place": "Rạp chiếu phim trung tâm",
+      "kind": "chon",
+      "title": "Ghế trống bên trái",
+      "text": "Hứa Gia Minh, người từng giúp cô giành lại chiếc ví bị giật, mời cô xem phim kinh dị. Rạp kín chỗ, chỉ ghế bên trái cô bỏ trống. Giữa phim cô ngủ gật, gối đầu lên một bờ vai rất rộng. Gia Minh thì ngồi bên phải.",
+      "tieu": "Hự... ai đó nhắc ta đừng tỉnh dậy lúc này... zzz",
+      "cast": "on,hgm",
+      "ch": [
+        {
+          "t": "Cứ tựa vào bờ vai trái thêm chút",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bờ vai không nhúc nhích. Cô ngủ một giấc ngon lành giữa tiếng la hét cả rạp.",
+            "d": {
+              "hao": 8,
+              "ac": -4,
+              "hac": -2,
+              "am": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô giật mình vì bờ vai lạnh buốt, ngã dúi vào thành ghế.",
+            "d": {
+              "am": 8,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Đổi chỗ, ngồi sát Gia Minh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai bên đều có người, cô thở phào. Phía cuối rạp, một chiếc ghế kẽo kẹt.",
+            "d": {
+              "hac": 3,
+              "hao": -2
+            },
+            "f": "gan_gm"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Gia Minh khoác tay qua vai cô. Màn hình nhiễu sọc một nhịp.",
+            "d": {
+              "hac": 6,
+              "hao": -4
+            },
+            "f": "gan_gm"
+          }
+        },
+        {
+          "t": "Thì thầm cảm ơn khoảng trống",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Có tiếng cười rất khẽ bên tai. Không ai khác nghe thấy.",
+            "d": {
+              "hao": 6,
+              "ac": -3,
+              "hac": -2,
+              "am": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Gia Minh tưởng cô nói với mình, cười tủm tỉm cả buổi.",
+            "d": {
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "no": 8
+    },
+    {
+      "id": "w07b",
+      "scene": "apart",
+      "place": "Căn phòng thuê, sau bữa tiệc",
+      "kind": "chon",
+      "title": "Rời căn phòng thuê",
+      "text": "Bạn cùng phòng mở tiệc ồn ào ngay trong phòng cô, ly cốc vỡ đầy sàn, giường cô ướt đẫm rượu. Cô quyết định dọn đi. Gia Minh nghe chuyện, nói anh có một căn biệt thự để trống, cô cứ ở tạm.",
+      "tieu": "Zzz... nhận nhà của đàn ông khác... ngươi chắc chứ... zzz",
+      "cast": "on,hgm",
+      "ch": [
+        {
+          "t": "Nhận ở nhờ biệt thự",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô dọn đến biệt thự hai tầng. Bình cúc dại bỏ lại ở phòng cũ rơi xuống vỡ tan.",
+            "d": {
+              "hac": 4,
+              "am": 3
+            },
+            "f": "gan_gm"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Ngày dọn nhà trời đổ mưa, đồ đạc ướt hết.",
+            "d": {
+              "hac": 4,
+              "sinh": -3
+            },
+            "f": "gan_gm"
+          }
+        },
+        {
+          "t": "Ngủ tạm ở quán, tự tìm phòng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ngủ trên ghế dài ở quán. Đêm nào cũng có ai đắp áo khoác cho cô.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "am": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Ghế cứng, cô trằn trọc đến sáng, lưng đau ê ẩm.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng với bạn cùng phòng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bạn cùng phòng xin lỗi, hứa dọn dẹp. Cô ở lại thêm ít hôm.",
+            "d": {
+              "ac": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hai người cãi nhau to. Cô xách đồ đi giữa đêm.",
+            "d": {
+              "sinh": -4,
+              "am": 3
+            }
+          }
+        }
+      ],
+      "no": 9
+    },
+    {
+      "id": "w08",
+      "scene": "clinic",
+      "place": "Phòng khám tâm lý",
+      "kind": "duyen",
+      "title": "Cánh cửa thứ ba",
+      "text": "Mấy hôm nay cô ngủ chập chờn, lúc nào cũng thấy có ai nhìn mình, kể cả khi thay đồ. Gia Minh đưa cô đến bác sĩ tâm lý Ngụy Thần. Ông thôi miên cô và bảo cô chọn một cánh cửa.",
+      "tieu": "...Cửa nào cũng có người đứng chờ... ừm... zzz",
+      "cast": "on,ngt",
+      "ch": [
+        {
+          "t": "Cửa gỗ quấn dây leo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Sau cửa là đồng cỏ yên tĩnh. Bác sĩ hài lòng, kê cho cô vài viên thuốc ngủ.",
+            "d": {
+              "am": -3
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Dây leo siết lấy cổ chân cô. Cô giãy tỉnh, mồ hôi ướt áo.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Cửa sắt lạnh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sau cửa là một ngã tư. Một người áo trắng lao qua đường về phía cô, rồi tiếng phanh rít lên. Anh gọi tên cô trong vũng máu.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "am": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cánh cửa đóng sập. Cô tỉnh dậy với tiếng thét trong cổ họng.",
+            "d": {
+              "sinh": -8,
+              "am": 4
+            }
+          }
+        },
+        {
+          "t": "Cửa lớn của một căn nhà cũ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Sau cửa là bàn ăn đầy món cô thích. Trong bếp, một người đàn ông áo sơ mi trắng đang thái rau, quay lại thì không có mặt. Cô hét lên, và bác sĩ Ngụy chợt nhìn trừng trừng vào đồng hồ.",
+            "d": {
+              "hao": 6,
+              "ac": -4,
+              "am": 5
+            },
+            "f": "cua_cu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô bị kẹt trong căn bếp ấy rất lâu, chỉ nghe tiếng dao thớt đều đều.",
+            "d": {
+              "sinh": -10,
+              "am": 8
+            }
+          }
+        }
+      ],
+      "learn": null,
+      "no": 10
+    },
+    {
+      "id": "w08b",
+      "scene": "bar",
+      "place": "Quán Lam Đăng, đêm vắng khách",
+      "kind": "hiem",
+      "title": "Tiếng vỗ tay sau lưng",
+      "text": "Tối nay quán Lam Đăng vắng khách. Cô hát xong bài Yêu thầm thì nghe tiếng vỗ tay từng tiếng một, rất rõ, từ phía sau sân khấu, nơi không có ai đứng. Gọi cho Gia Minh, máy cứ báo bận.",
+      "tieu": "Zzz... ta nghe thấy rồi... hắn thích bài đó lắm... zzz",
+      "cast": "on,tc",
+      "ch": [
+        {
+          "t": "Hát thêm một bài, như hát cho ai đó",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiếng vỗ tay lại vang lên, chậm và dịu hơn. Hơi lạnh đứng yên sau lưng cô suốt bài hát.",
+            "d": {
+              "hao": 6,
+              "ac": -4,
+              "am": 4
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Giọng cô run. Micro rè lên một tiếng chói tai.",
+            "d": {
+              "am": 6,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Quay lại hỏi: ai đấy?",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Không ai trả lời, nhưng bóng đèn sau sân khấu sáng lên một nhịp, như gật đầu.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "am": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Đèn tắt phụt. Cô vấp dây điện, ngã khỏi bục.",
+            "d": {
+              "sinh": -10,
+              "am": 5
+            }
+          }
+        },
+        {
+          "t": "Bám theo đôi khách đang ra về",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô hòa vào phố đông. Hơi lạnh đi theo, giữ khoảng cách vài bước.",
+            "d": {
+              "am": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Đôi khách rẽ vào ngõ khác, cô đứng lại một mình trên phố vắng.",
+            "d": {
+              "am": 6,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "no": 11
+    },
+    {
+      "id": "w09",
+      "scene": "bus",
+      "place": "Chuyến xe buýt cuối",
+      "kind": "duyen",
+      "title": "Người đàn ông trên chuyến xe cuối",
+      "text": "Bác sĩ Ngụy Thần ngã quỵ trước chiếc đồng hồ treo tường, giờ đang nằm khoa thần kinh. Đêm đó, chuyến xe buýt cuối chỉ có một người đàn ông áo sơ mi trắng ngồi hàng ghế cuối. Anh trò chuyện rất dễ chịu, rồi đưa cô về tận cửa.",
+      "tieu": "Ồ, đẹp trai... hừm... ta biết cái mặt này ở đâu... zzz",
+      "cast": "on,can",
+      "ch": [
+        {
+          "t": "Mời anh vào uống chén trà",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh uống xong thì đi ngay, lịch sự đến lạ. Dưới ánh đèn đường, chỗ anh đứng không có bóng.",
+            "d": {
+              "hao": 8,
+              "ac": -5,
+              "hac": -3,
+              "am": 5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh nhận lời, rồi nhìn quanh căn nhà rất lâu, ánh mắt sẫm lại.",
+            "d": {
+              "hac": 4,
+              "am": 5
+            }
+          }
+        },
+        {
+          "t": "Hỏi tên và chỗ ở của anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh chỉ nói: tôi cũng ở đây. Câu trả lời khiến cô nhớ mãi.",
+            "d": {
+              "hao": 4,
+              "ac": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh mỉm cười không đáp. Đèn hành lang tắt phụt.",
+            "d": {
+              "am": 6
+            }
+          }
+        },
+        {
+          "t": "Chào tạm biệt ở cổng",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Anh đứng chờ cô vào nhà rồi mới quay đi. Bác tài xế nhìn theo cô, mặt cắt không còn giọt máu.",
+            "d": {
+              "hao": 3,
+              "ac": -1
+            }
+          }
+        }
+      ],
+      "no": 12
+    },
+    {
+      "id": "w10",
+      "scene": "street",
+      "place": "Ngã tư trước nhà hàng, buổi sáng",
+      "kind": "nan",
+      "title": "Bó hồng giữa ngã tư",
+      "text": "Sáng hôm sau, Gia Minh cầm bó hồng vẫy cô bên kia đường. Một giây sau, anh bị hất văng ra giữa lòng đường như có bàn tay vô hình ghì chặt, ngay trước mũi một chiếc xe tải. Trong đầu cô vang lên một giọng quen thuộc.",
+      "tieu": "Ta vừa tỉnh đã thấy cảnh này! Hắc hóa của mục tiêu vọt lên, ác niệm không giảm điểm nào. Gia Minh không phải boss. Kẻ làm chuyện này mới là.",
+      "cast": "on,tc,hgm",
+      "ch": [
+        {
+          "t": "Cắn môi bước đi, không nhìn lại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô bước đi thật nhanh. Phía sau, tiếng còi và tiếng thét lẫn vào nhau.",
+            "d": {
+              "ac": -2,
+              "am": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô đứng chết lặng giữa đám đông, rồi gập người nôn khan.",
+            "d": {
+              "sinh": -8,
+              "am": 4
+            }
+          }
+        },
+        {
+          "t": "Hỏi Tiểu Châu ai là boss thật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu ấp úng: ngươi gặp rồi, đẹp trai, chân dài, rất biết trò chuyện. Cô chợt nhớ chuyến xe buýt cuối.",
+            "d": {
+              "ac": -2
+            },
+            "f": "biet_boss"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Tiểu Châu giả chết. Cô đành tự đoán.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Thắp nhang xin lỗi Gia Minh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô hứa sẽ không để ai vô tội chết vì mình nữa. Gió lạnh quanh cô lặng đi một chút.",
+            "d": {
+              "hac": -4,
+              "ac": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Khói nhang cuộn đen. Cô thấy lạnh dọc sống lưng.",
+            "d": {
+              "hac": 2,
+              "am": 5
+            }
+          }
+        }
+      ],
+      "no": 13
+    },
+    {
+      "id": "w11",
+      "scene": "bar",
+      "place": "Quán Lam Đăng, buổi chiều",
+      "kind": "hiem",
+      "title": "Sao chổi",
+      "tieu": "Ta đã bảo cô ta không ưa ngươi mà. Cẩn thận, có kẻ đang nghe từng chữ cô ta nói.",
+      "cast": "on,stk",
+      "ch": [
+        {
+          "t": "Đối chất với Thư Kỳ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô hỏi thẳng vì sao. Thư Kỳ bật khóc: vì người anh ấy nhớ suốt bốn năm là cậu. Hơi lạnh trong quán rút đi.",
+            "d": {
+              "ac": -3,
+              "hac": -3
+            }
+          },
+          "bad": {
+            "x": "Thư Kỳ hắt ly nước vào mặt cô. Đèn trần chao mạnh, suýt rơi xuống đầu cô ta.",
+            "d": {
+              "hac": 5,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Kéo Thư Kỳ tránh cơn gió lạnh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô kéo Thư Kỳ ra khỏi chỗ đứng, ngay trước khi chiếc đèn trần rơi xuống. Từ góc tối, có ai đó lặng im rất lâu.",
+            "d": {
+              "hac": -5,
+              "ac": -4,
+              "hao": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô kéo chậm một nhịp, mảnh đèn vỡ cứa vào tay cô.",
+            "d": {
+              "sinh": -10,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Nhận lương rồi lặng lẽ đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đi qua Thư Kỳ không nói một lời. Sau lưng cô, ly rượu trong tay Thư Kỳ nứt toác.",
+            "d": {
+              "am": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Chủ quán quỵt nửa tháng lương. Đèn trong quán tắt phụt khi cô bước ra.",
+            "d": {
+              "am": 4,
+              "sinh": -3,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "no": 14
+    },
+    {
+      "id": "w12",
+      "scene": "stair",
+      "place": "Khu nhà cũ, căn hộ tầng sáu",
+      "kind": "chon",
+      "title": "Người thuê chung lúc chín giờ",
+      "text": "Cô thuê được một căn hộ rẻ lạ lùng trong khu nhà cũ, đủ đồ đạc, có cả cây đàn piano trắng, còn hàng xóm thì đã dọn đi hết. Cô đăng tin tìm người ở chung. Đúng chín giờ tối, một người đàn ông đứng dưới gốc cây chờ cô. Anh nói anh tên Cố Ảnh.",
+      "tieu": "Đây rồi, mục tiêu đây! Từ giờ ta thức để trông ngươi. Ừm, đừng hỏi ta vì sao hắn không mang hành lý.",
+      "cast": "on,can",
+      "ch": [
+        {
+          "t": "Nấu cho anh bát mì trứng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ăn hết, gạt cà rốt sang một bên, ngậm đầu đũa rất lâu như đang nếm thứ gì khác. Ác niệm giảm còn chín mươi.",
+            "d": {
+              "ac": -8,
+              "hao": 6,
+              "hac": -3,
+              "am": 3
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Mì nát bét, anh vẫn ăn sạch nhưng không nói gì.",
+            "d": {
+              "ac": -3,
+              "am": 3
+            }
+          }
+        },
+        {
+          "t": "Kể về người bạn học họ Cố đã mất",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh hỏi: vậy còn cô thì sao? Cô nói thật: chỉ thấy tiếc. Mắt anh tối đi một thoáng rồi dịu lại.",
+            "d": {
+              "ac": -6,
+              "hao": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô buột miệng nói chưa từng nhớ nổi mặt cậu ấy. Không khí lạnh hẳn đi.",
+            "d": {
+              "hac": 5,
+              "hao": -4
+            }
+          }
+        },
+        {
+          "t": "Nhường anh căn phòng sáng hơn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh từ chối: tôi thích bóng tối. Câu nói đơn giản mà cô thấy dễ chịu lạ thường.",
+            "d": {
+              "ac": -4,
+              "hao": 4,
+              "hac": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh lặng lẽ nhìn khung cửa đầy nắng như nhìn một bức tường.",
+            "d": {
+              "am": 4
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Nấu ăn",
+        "s": "mi",
+        "v": 1
+      },
+      "no": 15
+    },
+    {
+      "id": "w13",
+      "scene": "apart",
+      "place": "Căn hộ tầng sáu, phòng khách",
+      "kind": "duyen",
+      "title": "Bữa sáng và cây đàn trắng",
+      "text": "Sáng ra, tiếng dao thớt đánh thức cô. Anh đứng trong bếp, áo sơ mi trắng không một vết bụi, đôi giày da chưa từng tháo. Ba món một canh, đều là món cô thích. Rồi anh ngồi xuống bên cây đàn piano: muốn học không, Niệm Niệm?",
+      "tieu": "Hắn gọi tên thân mật rồi kìa. Cây đàn này đắt hơn cả năm tiền hát quán của ngươi đấy.",
+      "cast": "on,can",
+      "ch": [
+        {
+          "t": "Nói mình chưa từng học, xin anh dạy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mười ngón tay anh phủ lên tay cô, lạnh buốt. Cô đánh sai liên tục, anh kiên nhẫn sửa từng ngón. Ác niệm giảm còn tám mươi.",
+            "d": {
+              "ac": -8,
+              "hao": 6,
+              "hac": -3,
+              "am": 5
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô rụt tay lại vì ngón tay anh lạnh buốt. Anh nhìn cô, ánh mắt khó đoán.",
+            "d": {
+              "am": 4,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Đàn thử bài mẹ từng dạy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nghe hết, rồi khẽ nói: em hay hơn trong trí nhớ của anh. Cô không hiểu câu ấy.",
+            "d": {
+              "ac": -6,
+              "hao": 8,
+              "hac": -3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô đàn vấp liên tục, mặt đỏ bừng. Anh không cười, nhưng cũng không nói gì.",
+            "d": {
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Rủ anh cùng ăn sáng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nói mình không đói, nhưng ngồi nhìn cô ăn đến miếng cuối cùng.",
+            "d": {
+              "ac": -4,
+              "hao": 4,
+              "hac": -2,
+              "am": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh đẩy bát ra, giọng nhạt: anh không ăn.",
+            "d": {
+              "hao": -2
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Đàn piano",
+        "s": "mi",
+        "v": 2
+      },
+      "no": 16
+    },
+    {
+      "id": "w13b",
+      "scene": "apart",
+      "place": "Căn hộ tầng sáu, buổi tối",
+      "kind": "duyen",
+      "title": "Tờ tiền âm phủ",
+      "text": "Cố Ảnh trả trước ba ngày tiền nhà, cô cầm đi siêu thị mua đầy tủ lạnh. Tối đó, cô thu ngân khóc vì phát hiện trong két có hai tờ tiền âm phủ. Còn trong phòng anh, mặt bàn phủ một lớp bụi mỏng, chăn gấp vuông vức như chưa ai nằm.",
+      "tieu": "Ta không nói gì đâu. Ngươi tự nhìn đi.",
+      "cast": "on,can",
+      "ch": [
+        {
+          "t": "Giả như không biết, vẫn nấu cơm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nấu món anh thích. Anh ăn chậm, nhìn cô lâu hơn mọi hôm.",
+            "d": {
+              "ac": -6,
+              "hao": 5,
+              "hac": -2,
+              "am": 3
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Tay cô run, làm vỡ cái đĩa. Anh nhặt từng mảnh, không hỏi gì.",
+            "d": {
+              "am": 4,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Hỏi khéo anh làm nghề gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nói từng làm công ty riêng, giờ nghỉ rồi. Không sai một chữ, mà cô thấy sống lưng lạnh toát.",
+            "d": {
+              "ac": -4,
+              "hao": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nhìn cô rất lâu: em muốn biết gì?",
+            "d": {
+              "hac": 4
+            }
+          }
+        },
+        {
+          "t": "Lau sạch bụi trong phòng anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh đứng ở cửa nhìn cô lau, khóe môi hơi cong.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "am": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô mở ngăn kéo, thấy một xấp ảnh của mình. Cô đóng lại thật nhanh.",
+            "d": {
+              "am": 5,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "no": 17
+    },
+    {
+      "id": "w14",
+      "scene": "apart",
+      "place": "Căn hộ tầng sáu, nửa đêm",
+      "kind": "hiem",
+      "title": "Tiếng đàn lúc nửa đêm",
+      "text": "Nửa đêm có tiếng kéo đàn rít trên sàn, rồi tiếng phím gõ loạn xạ. Cô hé cửa: trên ghế đàn là một bé gái khóc ra máu, lẩm bẩm xin mẹ đừng giận. Cố Ảnh đứng sau lưng con bé, tay đã giơ lên.",
+      "tieu": "Đó là bé Tiểu Cầm, chủ cũ của cây đàn. Hắn sắp nuốt con bé. Ngươi có muốn xen vào không?",
+      "cast": "on,tcm,can",
+      "ch": [
+        {
+          "t": "Gọi tên anh, xin anh tha cho bé",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh dừng tay, nhìn cô rất lâu rồi buông con bé ra. Tiểu Cầm tan vào ánh trăng như được thả.",
+            "d": {
+              "hac": -6,
+              "ac": -6,
+              "hao": 4,
+              "am": 4
+            },
+            "f": "tha_cam"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh quay lại, đôi mắt đỏ sẫm. Cô ngất ngay ở ngưỡng cửa.",
+            "d": {
+              "sinh": -12,
+              "am": 8,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Ngồi xuống đàn ru bé Tiểu Cầm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đàn một bài hát ru. Con bé ngừng khóc, gật gù rồi biến mất. Cố Ảnh hạ tay xuống.",
+            "d": {
+              "hac": -5,
+              "ac": -5,
+              "am": 3
+            },
+            "f": "tha_cam"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Con bé gào lên, chiếc ghế đàn đổ ầm đè lên chân cô.",
+            "d": {
+              "sinh": -14,
+              "am": 6
+            }
+          }
+        },
+        {
+          "t": "Trùm chăn, giả như không thấy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiếng thét ngắn ngủi rồi im bặt. Lát sau, tiếng đàn êm như ru vang lên đến sáng.",
+            "d": {
+              "hac": 2,
+              "am": 4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Tiếng thét xuyên qua lớp chăn. Cô thức trắng, tim đập thình thịch.",
+            "d": {
+              "hac": 3,
+              "am": 6,
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "no": 18
+    },
+    {
+      "id": "w15",
+      "scene": "mansion",
+      "place": "Trấn Hạ Khê, nhà cũ hai tầng",
+      "kind": "chon",
+      "title": "Anh đi rồi, em làm sao",
+      "text": "Ngày thứ tư, Cố Ảnh nói phải về nhà cũ ít lâu. Anh để lại một địa chỉ ở trấn Hạ Khê, quê nhà của Ôn Niệm. Chiếc điện thoại anh bỏ quên đổ chuông bằng chính bài hát cô từng hát ở quán.",
+      "tieu": "Hắn cố tình để quên đấy. Ngươi đi hay không, hắn đều biết.",
+      "cast": "on,can",
+      "ch": [
+        {
+          "t": "Mang điện thoại đến nhà cũ trả anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Căn nhà hai tầng giống hệt cánh cửa trong cơn thôi miên. Anh mở cửa, mắt sáng lên. Ác niệm giảm còn bảy mươi lăm.",
+            "d": {
+              "ac": -6,
+              "hao": 6,
+              "hac": -3,
+              "am": 6
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô lạc giữa đồng, tối mịt mới tìm thấy cổng.",
+            "d": {
+              "sinh": -6,
+              "am": 6
+            }
+          }
+        },
+        {
+          "t": "Gọi vào số của anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chiếc máy trong tay cô tự đổ chuông. Giọng anh vang lên ngay trong đó: em đến tìm anh cũng được.",
+            "d": {
+              "ac": -4,
+              "hao": 4,
+              "hac": -2,
+              "am": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Đầu dây im lặng, chỉ có tiếng gió rất lạnh.",
+            "d": {
+              "hac": 2,
+              "am": 3
+            }
+          }
+        },
+        {
+          "t": "Để yên, đợi anh tự về",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba đêm liền cô mơ thấy ô cửa tầng hai và tấm rèm trắng.",
+            "d": {
+              "am": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Ba đêm liền cô thức giấc vì tiếng gõ cửa, mở ra thì không có ai.",
+            "d": {
+              "am": 5,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "no": 19
+    },
+    {
+      "id": "w16",
+      "scene": "town",
+      "place": "Bến xe trấn Hạ Khê, giữa trưa",
+      "kind": "hiem",
+      "title": "Cậu Đàm Quý",
+      "text": "Ở bến xe trấn Hạ Khê, cậu ruột của Ôn Niệm là Đàm Quý nhận ra cô. Ông ta đòi phần tiền bán nhà của mẹ cô, rồi lôi chuyện gả cô cho ông chủ quán đầu trấn ra đe dọa. Gió lạnh nổi lên giữa trưa hè, cành cây trên đầu ông ta kêu rắc một tiếng.",
+      "tieu": "Hắn đang đứng ngay sau ngươi. Ngươi không ra tay trước thì hắn sẽ ra tay.",
+      "cast": "on,dq",
+      "ch": [
+        {
+          "t": "Quật ngã cậu bằng một đòn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đàm Quý nằm ngửa giữa bến xe, không dám ngóc đầu. Cành cây trên cao thôi lay động.",
+            "d": {
+              "hac": -3,
+              "ac": -3,
+              "sinh": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Ông ta túm tóc cô giật mạnh. Cành cây gãy, rơi sát chân ông ta.",
+            "d": {
+              "sinh": -10,
+              "hac": 5
+            }
+          }
+        },
+        {
+          "t": "Nói khẽ với gió: anh đừng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Gió lặng hẳn. Đàm Quý chửi bới một hồi rồi tự bỏ đi, chẳng hiểu sao run cầm cập.",
+            "d": {
+              "hac": -6,
+              "ac": -5,
+              "hao": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Gió không nghe. Đàm Quý trượt chân ngã xuống rãnh, gãy tay.",
+            "d": {
+              "hac": 6,
+              "am": 4
+            }
+          }
+        },
+        {
+          "t": "Gọi công an trấn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Công an đến ghi biên bản. Đàm Quý đành nuốt giận bỏ đi.",
+            "d": {
+              "ac": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Không ai đến. Đàm Quý giật túi của cô rồi đi mất.",
+            "d": {
+              "sinh": -4,
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "no": 20
+    },
+    {
+      "id": "w17",
+      "scene": "apart",
+      "place": "Căn hộ tầng sáu, có bạn cùng phòng mới",
+      "kind": "duyen",
+      "title": "Gương trừ tà",
+      "text": "Bạn cùng phòng mới là Lạc Tuệ, nữ cảnh sát tóc ngắn, cháu nội một đại sư trừ tà. Cô ấy đang điều tra hai vụ tai nạn kỳ lạ. Lạc Tuệ rắc gạo nếp ở khe cửa, đặt chiếc gương đồng đối diện. Trong gương, quanh người Ôn Niệm phủ một lớp khí đen.",
+      "tieu": "Lạc Tuệ là người được thiên đạo ưu ái của thế giới này, rất khó chết. Nếu không có ngươi, kết cục gốc là cô ấy diệt hắn.",
+      "cast": "on,lth",
+      "ch": [
+        {
+          "t": "Nhận chuông trừ tà đeo tay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chuông im lìm cả ngày, chỉ khẽ rung mỗi lần điện thoại anh gọi đến.",
+            "d": {
+              "am": -8
+            },
+            "f": "chuong"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Chuông kêu không ngớt, cô sợ đến mất ngủ.",
+            "d": {
+              "am": -4,
+              "sinh": -6,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Nhận bùa hộ mệnh, giấu trong túi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lá bùa ấm trong túi áo. Hơi lạnh quanh cô lùi ra một bước.",
+            "d": {
+              "am": -10,
+              "hac": 2
+            },
+            "f": "bua"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Đêm đó lá bùa cháy đen, như bị ai bóp nát.",
+            "d": {
+              "hac": 5,
+              "am": 2
+            }
+          }
+        },
+        {
+          "t": "Kể thật với Lạc Tuệ, xin đừng vội",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lạc Tuệ nghe hết, cau mày nhưng đồng ý chờ thêm vài ngày.",
+            "d": {
+              "ac": -3,
+              "hac": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lạc Tuệ nghiêm giọng: em đang xin cho một thứ đã giết người.",
+            "d": {
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Trừ tà cơ bản",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 21
+    },
+    {
+      "id": "w18",
+      "scene": "mansion",
+      "place": "Nhà cũ họ Cố, nửa đêm",
+      "kind": "nan",
+      "title": "Bức ảnh trên tủ đầu giường",
+      "text": "Lạc Tuệ tra số máy của Cố Ảnh: chủ thuê bao là Cố Trầm, tổng giám đốc tập đoàn Tư Niệm, chết vì tai nạn một tháng trước. Hai người đến nhà cũ lúc nửa đêm. Bụi phủ dày, phòng ngủ ngăn nắp. Trên tủ đầu giường là ảnh một nữ sinh ngủ dưới bóng cây, quyển sách che mặt: chính là Ôn Niệm năm lớp 11.",
+      "tieu": "Ngươi đã ở chung ba ngày với một lệ quỷ. Tin tốt: hắn yêu ngươi. Tin xấu: hắn yêu ngươi.",
+      "cast": "on,lth,ctr",
+      "ch": [
+        {
+          "t": "Xin Lạc Tuệ đừng diệt anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lạc Tuệ siết chặt tay, nhưng không đốt căn phòng. Sau rèm cửa tầng hai, có ai đó đứng rất lâu.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Lạc Tuệ quát: em điên rồi. Cô ấy quyết định lên chùa mời đại sư ngay trong đêm.",
+            "d": {
+              "hac": 4
+            }
+          }
+        },
+        {
+          "t": "Lặng lẽ mang bức ảnh về",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đặt bức ảnh trên tủ đầu giường mình. Đêm ấy không có giấc mơ dữ nào.",
+            "d": {
+              "ac": -5,
+              "hao": 5,
+              "hac": -3,
+              "am": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Kính khung ảnh nứt toác trong tay cô.",
+            "d": {
+              "hac": 3,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Đứng giữa phòng gọi tên thật của anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô gọi: Cố Trầm. Rèm cửa thôi lay. Một tiếng thở dài rất khẽ, như vừa trút được gánh nặng.",
+            "d": {
+              "ac": -8,
+              "hac": -5,
+              "am": 6
+            },
+            "f": "goi_ten"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiếng gọi vọng lại thành tiếng cười. Lạc Tuệ kéo cô chạy ra ngoài.",
+            "d": {
+              "am": 8,
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "no": 22
+    },
+    {
+      "id": "w18b",
+      "scene": "apart",
+      "place": "Căn hộ tầng sáu, một mình",
+      "kind": "duyen",
+      "title": "Chăn của ai",
+      "text": "Lạc Tuệ lên chùa Linh Ẩn mời đại sư Huyền Tĩnh, dặn cô không được ra khỏi nhà. Ở nhà một mình, cô ngủ quên trên ghế, tỉnh dậy đã có chăn đắp ngang người. Lúc gội đầu quên khăn, vừa đưa tay ra đã có chiếc khăn đặt vào lòng bàn tay.",
+      "tieu": "Ta che mắt ngươi rồi, ngươi chẳng thấy gì đâu. Ừm, hắn ở đây từ sáng.",
+      "cast": "on,ctr",
+      "ch": [
+        {
+          "t": "Nói vào khoảng không: cảm ơn anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tấm rèm khẽ lay. Lần đầu cô nói chuyện với anh mà biết rõ anh là ai.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "am": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Lời cảm ơn nghẹn lại. Căn phòng im lặng đến đáng sợ.",
+            "d": {
+              "am": 4
+            }
+          }
+        },
+        {
+          "t": "Đặt bùa của Lạc Tuệ dưới gối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đêm đó cô ngủ yên. Sáng ra lá bùa đã cháy thành tro, nhưng không ai làm gì cô.",
+            "d": {
+              "am": -6,
+              "hac": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lá bùa cháy ngay trong đêm. Cửa sổ đập liên hồi đến sáng.",
+            "d": {
+              "hac": 7,
+              "am": 3
+            }
+          }
+        },
+        {
+          "t": "Đàn một bài trên cây piano trắng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đàn rất lâu. Có tiếng đàn thứ hai hòa vào, rất khẽ, từ phía bên kia phím.",
+            "d": {
+              "ac": -5,
+              "hao": 6,
+              "hac": -3,
+              "am": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô đàn sai liên tục, bực bội gập nắp đàn.",
+            "d": {
+              "am": 3
+            }
+          }
+        }
+      ],
+      "no": 23
+    },
+    {
+      "id": "w19",
+      "scene": "school",
+      "place": "Ký ức: cổng trường cấp ba, chiều tan học",
+      "kind": "duyen",
+      "title": "Giấc mơ năm lớp 11",
+      "text": "Đêm đó cô mơ thấy một chiều tan học năm lớp 11. Mấy tên côn đồ chặn một cậu nam sinh tóc mái dài che mắt, giật tiền rồi đánh túi bụi. Ôn Niệm đang vội đến viện chăm mẹ, nhưng vẫn xắn tay áo lao vào.",
+      "tieu": "Ngươi quên chiều hôm ấy từ lâu rồi. Hắn thì giữ nó suốt bốn năm.",
+      "cast": "on,ctr",
+      "ch": [
+        {
+          "t": "Đánh tan bọn côn đồ, vỗ vai cậu ấy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nói: đừng sợ, sau này chị che chở cậu. Trong giấc mơ, cậu nam sinh ngẩng lên lần đầu tiên.",
+            "d": {
+              "ac": -8,
+              "hao": 8,
+              "hac": -4
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô ăn một cú đấm trúng mặt, tỉnh dậy vẫn còn thấy đau.",
+            "d": {
+              "sinh": -6,
+              "hao": 4
+            }
+          }
+        },
+        {
+          "t": "Hỏi tên cậu nam sinh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cậu nói rất khẽ: Cố Trầm. Lần này cô nhớ rõ khuôn mặt sau mái tóc ấy.",
+            "d": {
+              "ac": -6,
+              "hao": 6,
+              "hac": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cậu cúi gằm, không nói. Giấc mơ tan như sương.",
+            "d": {
+              "ac": -2
+            }
+          }
+        },
+        {
+          "t": "Đưa cậu ấy về tận nhà",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người đi qua căn nhà hai tầng. Cậu chỉ lên ban công: tôi hay đứng ở đó, nhìn cậu đạp xe qua.",
+            "d": {
+              "ac": -6,
+              "hao": 8,
+              "hac": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô trễ giờ vào viện. Giấc mơ chuyển sang hành lang bệnh viện lạnh tanh.",
+            "d": {
+              "sinh": -4,
+              "am": 3
+            }
+          }
+        }
+      ],
+      "learn": null,
+      "no": 24
+    },
+    {
+      "id": "w20",
+      "scene": "mansion",
+      "place": "Nhà cũ họ Cố, xế chiều",
+      "kind": "hiem",
+      "title": "Tống Thư Kỳ ở nhà cũ",
+      "text": "Tống Thư Kỳ lẻn vào nhà cũ họ Cố, mang theo bật lửa và can xăng. Cô ta muốn đốt sạch bức ảnh, cuốn nhật ký và mọi thứ có tên Ôn Niệm. Cánh cửa tự đóng sập sau lưng cô ta. Ôn Niệm đến đúng lúc nghe tiếng thét.",
+      "tieu": "Ta không ép. Nhưng nếu hắn giết thêm một người nữa, ác niệm sẽ bật ngược.",
+      "cast": "on,stk,ctr",
+      "ch": [
+        {
+          "t": "Đứng chắn trước Thư Kỳ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô dang tay chắn. Bóng áo trắng khựng lại ngay trước mặt cô, rồi tan vào tường. Thư Kỳ bỏ chạy, không ngoái lại.",
+            "d": {
+              "hac": -8,
+              "ac": -6,
+              "hao": 4,
+              "sinh": -4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Một lực vô hình hất cô vào tường. Thư Kỳ thoát được, còn cô gãy hai xương sườn.",
+            "d": {
+              "sinh": -20,
+              "hac": 2,
+              "bs": -5
+            }
+          }
+        },
+        {
+          "t": "Dập lửa, cứu căn phòng của anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ôm cuốn nhật ký ra khỏi khói. Trang đầu ghi: hôm nay cô ấy vẫy tay với mình.",
+            "d": {
+              "ac": -6,
+              "hao": 8,
+              "sinh": -6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Khói làm cô ngất. Có đôi tay lạnh bế cô ra ngoài.",
+            "d": {
+              "sinh": -16,
+              "hao": 4
+            }
+          }
+        },
+        {
+          "t": "Mặc kệ, cô ta tự chuốc lấy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thư Kỳ tự phá được cửa sổ thoát ra, tóc bạc trắng một nửa. Cô ta không bao giờ dám quay lại trấn Hạ Khê.",
+            "d": {
+              "hac": 3,
+              "am": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Tiếng thét tắt dần sau cánh cửa. Hôm sau người ta tìm thấy Thư Kỳ ngất trong vườn, không còn nhận ra ai.",
+            "d": {
+              "hac": 6,
+              "ac": 3
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Sơ cứu",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 25
+    },
+    {
+      "id": "w20b",
+      "scene": "apart",
+      "place": "Căn hộ tầng sáu, đêm trước",
+      "kind": "chon",
+      "title": "Quyết định đến nhà cũ",
+      "text": "Lạc Tuệ báo đại sư Huyền Tĩnh sẽ đến nhà cũ họ Cố đêm mai, ra tay trước khi lệ quỷ kịp giết thêm người. Ôn Niệm biết nếu hai bên đánh nhau sẽ có người chết, và người đó có thể là Lạc Tuệ, hoặc anh.",
+      "tieu": "Ngươi định đi trước một bước à? Ta không cản, nhưng ta sẽ chuẩn bị sẵn Hộ Tâm Hoàn.",
+      "cast": "on,lth",
+      "ch": [
+        {
+          "t": "Tự đến nhà cũ trước để nói chuyện với anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đi ngay trong đêm, mang theo hộp cơm anh thích.",
+            "d": {
+              "ac": -4,
+              "hao": 6
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô lỡ chuyến xe cuối, phải đi bộ nửa đêm qua cánh đồng.",
+            "d": {
+              "sinh": -6,
+              "am": 5
+            }
+          }
+        },
+        {
+          "t": "Thuyết phục Lạc Tuệ hoãn lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lạc Tuệ nghĩ rất lâu rồi cho cô một ngày.",
+            "d": {
+              "hac": -4,
+              "ac": -3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Lạc Tuệ lắc đầu: chị không thể chờ thêm một xác người nữa.",
+            "d": {
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Đi cùng Lạc Tuệ và đại sư",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đi giữa hai người, nắm chặt bùa trong tay áo.",
+            "d": {
+              "hac": 3,
+              "am": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lạc Tuệ không cho cô theo, khóa cửa giữ cô lại.",
+            "d": {
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "no": 26
+    },
+    {
+      "id": "w21",
+      "scene": "ritual",
+      "place": "Nhà cũ họ Cố, phòng ngủ tầng hai",
+      "kind": "nan",
+      "title": "Nghi thức con rối",
+      "text": "Cô tự đến nhà cũ để nói chuyện với anh, chưa kịp mở lời đã ngất đi trong nụ cười của anh. Tỉnh lại, cô nằm giữa vòng nến xanh và bùa vẽ máu, hai cổ tay rỉ máu: anh muốn giữ linh hồn cô trong thân xác này mãi mãi. Lạc Tuệ và đại sư Huyền Tĩnh phá cửa xông vào, nhưng bùa lửa của đại sư bị khói đen nuốt sạch.",
+      "tieu": "Ta cho ngươi uống Hộ Tâm Hoàn rồi. Còn tỉnh thì làm gì đi, nhanh lên, Lạc Tuệ sắp bị hắn giết.",
+      "cast": "on,ctr,lth,hti",
+      "ch": [
+        {
+          "t": "Ôm anh từ phía sau, hứa ở lại",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nói: em ở lại với anh, đừng làm hại ai nữa. Cả người anh run lên. Anh buông tay khỏi cổ Lạc Tuệ.",
+            "d": {
+              "ac": -18,
+              "hac": -12,
+              "hao": 10,
+              "sinh": -12
+            },
+            "f": "o_lai"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Lời cô bị tiếng quỷ khóc nuốt mất. Anh vẫn quay về phía Lạc Tuệ, đại sư lao vào giữa.",
+            "d": {
+              "sinh": -18,
+              "bs": -15,
+              "hac": 6
+            }
+          }
+        },
+        {
+          "t": "Giật đổ vòng nến",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ngọn nến xanh tắt phụt. Nghi thức đứt đoạn, anh quỵ xuống, ngẩng nhìn cô như đứa trẻ bị bỏ lại.",
+            "d": {
+              "ac": -10,
+              "hac": -6,
+              "bs": -10,
+              "sinh": -10
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lửa xanh liếm lên tay áo cô. Đại sư thừa cơ đánh trúng anh.",
+            "d": {
+              "sinh": -20,
+              "bs": -25,
+              "hac": 8
+            }
+          }
+        },
+        {
+          "t": "Nói với anh: con rối không phải là em",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe đến câu cuối thì dừng lại: em sẽ không cười nữa sao. Anh tự tay xóa vòng bùa.",
+            "d": {
+              "ac": -14,
+              "hac": -10,
+              "hao": 6,
+              "sinh": -10
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh mỉm cười dịu dàng: hận anh cũng được. Cô ngất lần nữa.",
+            "d": {
+              "sinh": -24,
+              "hac": 6
+            }
+          }
+        }
+      ],
+      "no": 27
+    },
+    {
+      "id": "w22",
+      "scene": "mansion",
+      "place": "Nhà cũ họ Cố, cổng vườn",
+      "kind": "duyen",
+      "title": "Làm bạn trai em nhé",
+      "text": "Đưa Lạc Tuệ vào viện xong, cô ghé chợ, xách về túi lớn túi nhỏ. Anh đứng chờ ở cổng từ sáng sớm. Cô chìa túi đồ ra: làm bạn trai em mà không xách đồ giúp à? Anh đứng sững, như người vừa được trả lại nhịp tim.",
+      "tieu": "Ngươi gan thật. Nhưng ta phải công nhận, ác niệm vừa rơi một đoạn dài.",
+      "cast": "on,ctr",
+      "ch": [
+        {
+          "t": "Áp má vào mặt anh: lạnh thì em làm ấm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai gò má chạm nhau. Trái tim đã ngừng của anh như đập lại một nhịp.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 10,
+              "am": 6
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô rùng mình vì lạnh, lùi lại nửa bước. Anh thấy hết.",
+            "d": {
+              "hao": -4,
+              "hac": 3,
+              "am": 4
+            }
+          }
+        },
+        {
+          "t": "Rủ anh đi xem phim tối nay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô mua hai vé. Người ngoài thấy ghế bên cạnh cô trống, chỉ cô biết có bàn tay lạnh nắm tay mình suốt buổi.",
+            "d": {
+              "ac": -6,
+              "hac": -5,
+              "hao": 8,
+              "am": 4
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Người soát vé thấy cô nói chuyện với không khí, gọi bảo vệ.",
+            "d": {
+              "hac": 2,
+              "am": 4
+            }
+          }
+        },
+        {
+          "t": "Nhờ anh nấu món cà rốt xào thịt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nấu, cô gắp cho anh một đũa đầy cà rốt. Anh nhìn bát cơm rất lâu rồi bật cười thành tiếng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "am": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh nói: anh không cần ăn cơm. Bữa cơm lặng đi.",
+            "d": {
+              "hao": -2
+            }
+          }
+        }
+      ],
+      "learn": null,
+      "no": 28
+    },
+    {
+      "id": "w23",
+      "scene": "alley",
+      "place": "Con hẻm âm khí gần siêu thị",
+      "kind": "chon",
+      "title": "Cơ hội cuối cùng",
+      "text": "Lạc Tuệ, đầu còn quấn băng, chặn cô ở siêu thị. Đại sư Huyền Tĩnh đã viên tịch đêm qua, để lại một lá bùa vẽ bằng máu tim và một túi bột lõi đào nghìn năm. Chỉ cần cho anh uống, dán bùa lên ngực, anh sẽ tan thành mây khói.",
+      "tieu": "Tiểu quỷ trong vòng trăm dặm đều báo tin cho hắn. Ngươi làm gì, hắn biết hết.",
+      "cast": "on,lth",
+      "ch": [
+        {
+          "t": "Rải bột vào hẻm âm khí, dán bùa ở đó",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô xử lý gọn gàng rồi xách đồ về. Anh đón ở cửa, ánh mắt cuộn lên điều gì đó rồi dịu xuống.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 4
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Một ít bột dính trên tay cô. Anh chạm vào và rụt tay lại như phải bỏng.",
+            "d": {
+              "hac": 5,
+              "bs": -8
+            }
+          }
+        },
+        {
+          "t": "Mang về, kể hết cho anh nghe",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đặt túi bột lên bàn: Lạc Tuệ đưa cái này, em không dùng. Anh nhìn cô thật lâu, rồi tự tay đốt nó.",
+            "d": {
+              "ac": -12,
+              "hac": -8,
+              "hao": 10
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nhìn túi bột, không nói gì. Đêm đó anh không vào phòng cô.",
+            "d": {
+              "hac": 6,
+              "hao": -6
+            }
+          }
+        },
+        {
+          "t": "Giấu đi, phòng khi cần",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô giấu dưới đáy tủ. Anh không hỏi, nhưng có lẽ anh biết.",
+            "d": {
+              "hac": 3
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Anh tìm thấy nó. Căn nhà lạnh như hầm băng suốt ba ngày.",
+            "d": {
+              "hac": 12,
+              "hao": -10,
+              "am": 10
+            }
+          }
+        }
+      ],
+      "no": 29
+    },
+    {
+      "id": "w24",
+      "scene": "mansion",
+      "place": "Nhà cũ họ Cố, một tháng sau",
+      "kind": "nan",
+      "title": "Người và quỷ khác đường",
+      "tieu": "Nói hay không là quyền của ngươi. Ta chỉ nhắc: hắn yêu ngươi kiểu muốn giữ chặt trong tay.",
+      "cast": "on,ctr",
+      "ch": [
+        {
+          "t": "Nói thật với anh về dương khí",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe xong, im lặng rất lâu, rồi lùi ra một bước: vậy anh ở trong bóng râm, còn em đứng ngoài nắng. Anh vẫn ở đó, chỉ là không còn giữ chặt cô.",
+            "d": {
+              "ac": -12,
+              "hac": -10,
+              "hao": 10,
+              "am": -20
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh hoảng loạn, ôm cô chặt hơn, như sợ cô tan mất.",
+            "d": {
+              "hac": 4,
+              "am": 6
+            }
+          },
+          "final": 1
+        },
+        {
+          "t": "Đánh má hồng, hẹn hò lần nữa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tàu lượn, rạp phim, tiếng cười của hai người. Đêm ấy anh nói: chỉ cần em còn ấm, anh không cần gì thêm.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": -6
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô ngất giữa khu vui chơi. Anh bế cô về, lần đầu thấy cô nhợt nhạt đến vậy.",
+            "d": {
+              "sinh": -14,
+              "hac": 5
+            }
+          },
+          "final": 1
+        },
+        {
+          "t": "Nhờ Lạc Tuệ xin bùa giữ dương khí",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lạc Tuệ thở dài, đưa lá bùa cuối cùng của ông nội. Cô đeo nó, và anh vẫn được ôm cô.",
+            "d": {
+              "ac": -6,
+              "hac": -6,
+              "hao": 4,
+              "am": -15,
+              "sinh": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lá bùa bỏng rát khi anh chạm vào. Anh nhìn cô như bị phản bội.",
+            "d": {
+              "hac": 8,
+              "hao": -6,
+              "bs": -10
+            }
+          },
+          "final": 1
+        }
+      ],
+      "no": 30
+    }
+  ]
+}

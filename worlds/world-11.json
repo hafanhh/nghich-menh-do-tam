@@ -1,0 +1,3599 @@
+{
+  "id": "w11",
+  "no": 11,
+  "chapEnd": [
+    8,
+    17,
+    27,
+    35,
+    42
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": 0.075,
+  "p0": {
+    "mi": 56,
+    "tri": 64,
+    "van": 52
+  },
+  "params": {
+    "b1": 3,
+    "b2": 4.6,
+    "bad": 9.5,
+    "ac": 1.05,
+    "hac": 1.45,
+    "hao": 1,
+    "h0": 63,
+    "sp": 2.2
+  },
+  "names": {
+    "unh": "Trình Nhược Hi",
+    "udt": "Hoắc Dịch Trì",
+    "umg": "Chu Mộng Giai",
+    "udh": "Tần Dĩ Hằng",
+    "udp": "Quan Đình Phong",
+    "uqq": "Quan phu nhân",
+    "uta": "Quan Tú Anh",
+    "uch": "Hoắc Chấn Hải",
+    "utt": "Phương Tiểu Tuyết",
+    "udl": "Đại Lực",
+    "uco": "Dư Chấn Hoa",
+    "ucd": "Thầy Cao Văn Đạt",
+    "uba": "Trình Kiến Quốc",
+    "ume": "Văn Ngọc Chi",
+    "uth": "Thanh Hạc đạo nhân",
+    "uel": "Elara",
+    "uso": "Soren"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 11 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh dùng lại hình vẽ tạm của các thế giới trước.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Chiều thứ bảy ở cửa hàng kem",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Hoắc Dịch Trì đã về không. Sau lễ cưới, hắn học cách nghỉ ngơi đúng giờ, sức khỏe dần hồi lại. Phòng thí nghiệm của hắn có thêm một chiếc ghế cho cô, bàn của cô ở Kinh Đại có thêm một lọ hoa hắn đổi mỗi tuần. Mỗi chiều thứ bảy hai người vẫn ra cửa hàng kem quen, gọi đúng hai vị như hồi mười bảy tuổi. Vết sẹo trên má cô, dù giữ hay chữa, chưa bao giờ làm hắn ngừng nhìn cô như lần đầu.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "zwed"
+    },
+    "near": {
+      "n": "Vệt sẹo trong lòng hắn",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người cưới nhau, hắn vẫn ở bên cô và đã biết cách nghỉ ngơi. Nhưng thỉnh thoảng giữa đêm hắn vẫn dậy ngồi ngoài ban công, như muốn chắc cô vẫn ở đó. Vệt tự trách trong mắt hắn nhạt dần theo từng năm. Cô biết rồi nó cũng sẽ tan.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "zgarden"
+    },
+    "half": {
+      "n": "Hai bóng chờ nhau",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hai người vẫn cưới nhau, vẫn đi cạnh nhau, nhưng lời hứa nghỉ ngơi của hắn còn lửng lơ. Hắn vẫn làm việc quá giờ, cô vẫn đứng ngoài phòng thí nghiệm chờ hắn ra. Cô ở cạnh hắn những lúc hắn im lặng, hy vọng một ngày hắn tin rằng mình đã được tha thứ.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "zstudy"
+    },
+    "black": {
+      "n": "Cánh cửa phòng thí nghiệm",
+      "c": "Hắc hóa chạm 100. Tự trách nuốt hết những gì còn lại: hắn khóa trái phòng thí nghiệm, không nghe tên mình, không nghe lời cô, chỉ còn tiếng máy chạy suốt đêm. Bình dung dịch trên bàn lạnh dần. Tiểu Châu khẽ gọi cô đi trước khi ánh đèn cuối cùng tắt.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "clinic"
+    },
+    "bdead": {
+      "n": "Giường bệnh không mở mắt",
+      "c": "Sinh mệnh của Hoắc Dịch Trì về 0. Hắn kiệt sức đến mức không hồi lại được. Cô ngồi bên giường bệnh rất lâu, tay vẫn nắm tay hắn, cho đến khi Tiểu Châu khẽ gọi cô về.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "clinic"
+    },
+    "dead": {
+      "n": "Sức cạn trước ngày cưới",
+      "c": "Sinh mệnh của cô cạn kiệt trước khi kịp tới ngày cưới. Cô gục xuống giữa lúc đang lo cho quá nhiều việc cùng lúc. Tiểu Châu kéo linh hồn cô đi, khi ở đâu đó Dịch Trì vẫn đang chạy tới bệnh viện.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "clinic"
+    }
+  },
+  "events": [
+    {
+      "id": "h01",
+      "scene": "zhosp",
+      "place": "Bệnh viện thành phố Thanh Giang · Sáng",
+      "kind": "duyen",
+      "title": "Tỉnh dậy trong bệnh viện",
+      "text": "Nhược Hi mở mắt giữa mùi thuốc sát trùng. Nửa mặt phải quấn băng, đau rát âm ỉ; theo hồ sơ thì cô đã nằm viện nửa tháng. Một quả cầu ngọc xanh nhỏ lơ lửng cạnh gối: «Ta là Tiểu Châu». Nó nói gọn: nguyên chủ 17 tuổi, học giỏi nhất khối, bị nhầm với người khác nên chịu một vết thương nặng trước khi cô đến. Nhà Trình đấu không lại nhà Quan, quỹ đạo gốc là cô sống cô độc cả đời dù không làm gì sai. Người cần cảm hóa là bạn cùng bàn Hoắc Dịch Trì, giáo bá cuối bảng, từng là thần đồng, mẹ mất sớm, bị cha Hoắc Chấn Hải và dì ghẻ Quan Tú Anh bỏ mặc.",
+      "tieu": "Dậy rồi à? Chuyện cũ ta nói gọn thôi, đừng bắt ta tả. Việc của ngươi là sống cho ra sống, và kéo cái cậu bạn cùng bàn lạnh lùng kia ra khỏi bóng tối.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Hỏi Tiểu Châu thật kỹ quỹ đạo gốc và về Hoắc Dịch Trì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nghe hết, ghi nhớ từng mốc và nhận ra Dịch Trì mới là người cô đơn nhất trong câu chuyện này. Đầu óc cô tỉnh táo hẳn.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_quydao"
+          },
+          "b": 0.5960000000000001,
+          "bad": {
+            "x": "Cô nghe được nửa chừng thì cơn đau trở lại, đầu quay cuồng. Cô chỉ nhớ mang máng.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.56
+        },
+        {
+          "t": "Gọi y tá, hỏi rõ tình trạng của mình trước",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Y tá nói vết thương đang hồi phục tốt, tuần sau có thể xuất viện. Cô thở ra, thấy mình có thêm một chỗ dựa.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.46399999999999997,
+          "bad": {
+            "x": "Y tá bận, chỉ dặn nghỉ ngơi. Cô nằm đó thêm nửa tiếng với đầu óc rối bời.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nằm im sắp xếp lại ý nghĩ, hỏi sau",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nhìn trần nhà một lúc lâu rồi quyết định: mình sẽ không sống như quỹ đạo gốc đã vẽ. Lòng cô dịu lại, đủ để tính tiếp.",
+            "d": {
+              "sinh": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, bệnh viện thành phố Thanh Giang. Nhược Hi, 17 tuổi, tỉnh dậy sau nửa tháng nằm viện và nhận nhiệm vụ cảm hóa Hoắc Dịch Trì.",
+      "no": 1
+    },
+    {
+      "id": "h02",
+      "scene": "zhosp",
+      "place": "Phòng bệnh · Tối cùng ngày",
+      "kind": "chon",
+      "title": "Ba mẹ muốn đòi công bằng",
+      "text": "Tối, Trình Kiến Quốc và Văn Ngọc Chi tới sau giờ làm, mắt đỏ hoe. Hai người đã liên hệ bệnh viện nước ngoài và muốn kiện ngay, dù chưa có chứng cứ nào trong tay. Nhược Hi biết nhà Quan lớn hơn nhà Trình nhiều; kiện lúc này chỉ khiến công ty nhà cô mất thêm.",
+      "tieu": "Ba mẹ ngươi thương con nên nóng. Khuyên cho khéo, đừng để họ nghĩ ngươi sợ.",
+      "cast": "unh,uba,ume,tc",
+      "ch": [
+        {
+          "t": "Nắm tay ba mẹ, nói con cần ba mẹ khỏe để cùng con chờ đúng lúc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mẹ bật khóc, ba siết tay cô thật chặt. Hai người gật đầu, bảo sẽ cùng nhau xây lại công ty trước.",
+            "d": {
+              "ac": 0,
+              "sinh": 3
+            },
+            "f": "ba_me_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Mẹ vẫn nghẹn ngào, ba đứng im không đáp. Cô phải nhắc lại lần nữa mới yên.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Phân tích từng lợi hại: vì sao kiện lúc này chỉ có thiệt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nói chậm, rõ từng ý. Ba nhìn cô lâu rồi hỏi: «Con lớn từ bao giờ thế?» Hai người đồng ý ẩn nhẫn.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "ba_me_tin"
+          },
+          "b": 0.5660000000000001,
+          "bad": {
+            "x": "Cô nói dài quá, ba mẹ nghe không kịp. Họ gật đầu cho xong nhưng lòng còn nặng.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.53
+        },
+        {
+          "t": "Ôm ba mẹ, rồi hứa sẽ kể hết khi đủ chứng cứ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ba mẹ im lặng ôm cô rất lâu. Không ai nhắc đến chuyện kiện nữa tối đó.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "ba_me_tin"
+          },
+          "b": 0.43399999999999994,
+          "bad": {
+            "x": "Mẹ vẫn thút thít, ba quay mặt đi. Cô ôm hai người mà lòng thấy trống.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Tối cùng ngày, phòng bệnh. Ba mẹ Trình muốn kiện ngay dù chưa có chứng cứ; Nhược Hi phải khuyên ẩn nhẫn.",
+      "no": 2
+    },
+    {
+      "id": "h03",
+      "scene": "apart",
+      "place": "Giường bệnh · Đêm đó",
+      "kind": "duyen",
+      "title": "Khôi phục đoạn camera",
+      "text": "Tiểu Châu vừa được nâng cấp, báo rằng camera đầu phố hôm xảy ra chuyện đã bị cắt xóa. Nó có thể khôi phục, nhưng cô phải học cách kiểm tra từng bản và lưu thêm vài bản để không ai sửa được. Trong đoạn phim hiện ra, Chu Mộng Giai chạy ngang đụng ngã cô, và Quan Đình Phong đuổi theo ngay sau. Cô nhìn đến khi hiểu hết, rồi tắt màn hình.",
+      "tieu": "Chứng cứ sạch là thứ đáng giá nhất trong chuyện này. Làm chậm mà chắc, đừng để một bản duy nhất.",
+      "cast": "unh,umg,udp,tc",
+      "ch": [
+        {
+          "t": "Cùng Tiểu Châu khôi phục từng đoạn, kiểm tra tính nguyên vẹn từng bản",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Từng đoạn hiện ra đúng thời gian, đúng nhịp. Cô lưu ra ba bản, mã hóa cẩn thận. Cô nhận ra mình đã học được một kỹ năng thật sự.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "giu_cam"
+          },
+          "b": 0.5680000000000001,
+          "bad": {
+            "x": "Một đoạn bị lỗi, cô phải làm lại hai lần mới sạch. Cô thấy mệt nhưng không bỏ.",
+            "d": {
+              "sinh": -3
+            },
+            "f": "giu_cam"
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Lưu thêm bản sao ở nhiều nơi khác nhau, rồi mới xem",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Các bản sao nằm yên ở ba nơi khác nhau. Cô nhẹ cả người khi biết không ai xóa nổi cả ba.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "giu_cam"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Một nơi lưu bị đầy, cô phải dọn lại từ đầu. Tốn cả đêm.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Xem hết đoạn phim thật kỹ, ghi lại mốc thời gian từng cảnh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô ghi lại từng giây, đủ để sau này trình bày trước bất kỳ ai. Đêm đó cô ngủ vững hơn.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "giu_cam"
+          },
+          "b": 0.392,
+          "bad": {
+            "x": "Cô xem đến gần sáng, đầu óc căng ra, ghi chép lộn xộn. Phải chép lại vào hôm sau.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.44
+        }
+      ],
+      "ctx": "Đêm đó, giường bệnh. Tiểu Châu khôi phục camera phố bị xóa; cô thấy Mộng Giai đụng ngã mình và Đình Phong đuổi theo.",
+      "learn": {
+        "n": "Khôi phục dữ liệu",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 3
+    },
+    {
+      "id": "h04",
+      "scene": "zstudy",
+      "place": "Nhóm giao lưu vị diện · Cùng đêm",
+      "kind": "duyen",
+      "title": "Nhóm giao lưu vị diện",
+      "text": "Tiểu Châu phát hiện Mộng Giai đang ở trong một nhóm trò chuyện liên thế giới, nơi cô ta đổi đồ ăn lấy đồ quý để giữ dung mạo. Nhược Hi dùng nick «Hoa Khôi» xin vào và bất ngờ được trao quyền chủ nhóm. Ba đàn hữu lần lượt giới thiệu: Thanh Hạc đạo nhân, nữ phù thủy Elara và Soren, thợ chỉnh nhan từ một thế giới tinh tế. Mộng Giai chưa biết nhóm đã có chủ mới.",
+      "tieu": "Chủ nhóm là ngươi rồi đấy. Nói ít, làm khéo, và nhớ cái nhóm này chỉ là màn hình thôi, đừng để nó nuốt thời gian học của ngươi.",
+      "cast": "unh,uth,uel,uso,tc",
+      "ch": [
+        {
+          "t": "Giới thiệu thân thiện, phát vài món ăn làm quà ra mắt",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba đàn hữu khen rối rít, gọi cô là «chủ nhóm đáng yêu». Họ tin cô từ những tin nhắn đầu tiên.",
+            "d": {
+              "ac": 0,
+              "sinh": 2
+            },
+            "f": "chu_nhom"
+          },
+          "b": 0.49600000000000005,
+          "bad": {
+            "x": "Món ăn gửi trễ nhịp, ba người chỉ phản hồi qua loa. Cô phải bù thêm sau.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đọc kỹ quy tắc nhóm trước khi nói câu nào",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô phát hiện một điều khoản về đổi vật phẩm mà ai cũng bỏ qua. Cô ghi nhớ để dùng sau.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "chu_nhom"
+          },
+          "b": 0.5840000000000001,
+          "bad": {
+            "x": "Quy tắc dài và rối, cô đọc gần xong thì có người nhắn dồn dập. Cô vẫn phải trả lời vội.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Chỉ chào ngắn, quan sát xem ba người trò chuyện thế nào",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ba người nói chuyện rất tự nhiên, để lộ ai thật thà, ai hay tính toán. Cô đọc ra tính cách từng người.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "chu_nhom"
+          },
+          "b": 0.43,
+          "bad": {
+            "x": "Cô lơ đãng bỏ lỡ nửa buổi trò chuyện, chỉ nắm được vài tên.",
+            "d": {
+              "sinh": -1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cùng đêm. Nhược Hi vào nhóm giao lưu vị diện bằng nick «Hoa Khôi» và thành chủ nhóm; Mộng Giai chưa biết.",
+      "no": 4
+    },
+    {
+      "id": "h05",
+      "scene": "zstudy",
+      "place": "Nhóm giao lưu vị diện · Vài hôm sau",
+      "kind": "chon",
+      "title": "Quả trứng nướng",
+      "text": "Cô phát trứng nướng cho cả nhóm làm quà. Ba đàn hữu ăn ngay và khen, riêng Mộng Giai giật được một quả, thấy vỏ sáng bóng thì tin là trứng thần thú, giấu đi và không hỏi ai. Nhược Hi biết trứng chỉ giữ được vài ngày. Cô có thể nhắc Mộng Giai, hoặc để cô ta tự quyết.",
+      "tieu": "Trứng thường thôi, nhưng cô ta thì tin là thần thú. Nhắc hay không là ở ngươi, nhưng đã nhắc thì nhắc cho rõ.",
+      "cast": "unh,umg,uel,tc",
+      "ch": [
+        {
+          "t": "Nhắn Mộng Giai: «Ăn sớm, đừng để lâu»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mộng Giai chỉ trả lời một chữ «ừ», nhưng cô đã làm tròn phần mình. Đàn hữu thấy cô cẩn thận.",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            },
+            "f": "nhac_trung"
+          },
+          "b": 0.46599999999999997,
+          "bad": {
+            "x": "Mộng Giai bảo cô ghen vì không được trứng. Nhóm hơi ngượng nhưng cô chẳng cãi.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Chỉ ghi lại chuyện đã xảy ra, không nói thêm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi chép gọn, đủ để sau này chứng minh mình đã không lừa ai.",
+            "d": {
+              "hao": 1
+            },
+            "f": "ghi_trung"
+          },
+          "b": 0.532,
+          "bad": {
+            "x": "Cô quên đánh dấu ngày giờ. Ghi chép thiếu một chỗ.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhắn riêng cho Elara nhờ để mắt tới Mộng Giai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Elara đồng ý ngay. Cô được thêm một người hiểu chuyện trong nhóm.",
+            "d": {
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "nhac_trung"
+          },
+          "b": 0.42200000000000004,
+          "bad": {
+            "x": "Elara đang bận đi xa, tin nhắn nằm im cả ngày.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "Vài hôm sau, trong nhóm. Mộng Giai giật được một quả trứng nướng và tin đó là trứng thần thú.",
+      "no": 5
+    },
+    {
+      "id": "h06",
+      "scene": "school",
+      "place": "Cổng trường Nhất Trung Thanh Giang · Thứ ba",
+      "kind": "duyen",
+      "title": "Trở lại trường",
+      "text": "Thứ ba, Nhược Hi bước qua cổng Nhất Trung Thanh Giang với băng gạc vừa tháo, nửa má phải còn sẹo. Cô kể thẳng với lớp 11A3 chuyện mình bị nhầm người, không giấu, không khóc. Bạn học sửng sốt rồi nể. Ở góc lớp, Hoắc Dịch Trì ngủ gục trên bàn, giáo thảo Tần Dĩ Hằng ngồi cạnh bạn gái Chu Mộng Giai. Khi cô ngồi xuống chỗ cạnh Dịch Trì, hắn ngẩng lên nhìn cô lâu hơn mọi người.",
+      "tieu": "Ngươi làm rất tốt. Mặt còn sẹo thì kệ, ngẩng đầu là đủ. Hắn nhìn ngươi rồi đó, ghi lại.",
+      "cast": "unh,udt,umg,udh,tc",
+      "ch": [
+        {
+          "t": "Kể thẳng chuyện bị nhầm người, giọng bình tĩnh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả lớp lặng đi rồi vài người vỗ tay nhẹ. Cô đứng thẳng, cảm thấy nhẹ nhõm lạ.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "ve_truong"
+          },
+          "b": 0.504,
+          "bad": {
+            "x": "Giọng cô run ở câu cuối. Vài người quay đi, nhưng không ai cười.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Chào thầy cô, ngồi xuống im lặng làm bài",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sự yên lặng của cô khiến cả lớp dần quen. Dịch Trì nhìn cô thêm một lần nữa.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            },
+            "f": "ve_truong"
+          },
+          "b": 0.548,
+          "bad": {
+            "x": "Cô để rơi cuốn sách, vài tiếng thì thầm. Cô lặng lẽ nhặt lên.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Ngồi xuống cạnh Dịch Trì như chẳng có chuyện gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn khẽ nghiêng người nhường chỗ, không nói gì. Cô để ý ngón tay hắn gõ nhẹ lên mặt bàn.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "ve_truong"
+          },
+          "b": 0.43799999999999994,
+          "bad": {
+            "x": "Ghế kêu to, cả lớp quay lại nhìn. Cô đỏ mặt, ngồi xuống thật nhanh.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Thứ ba, cổng và lớp 11A3 Nhất Trung Thanh Giang. Nhược Hi trở lại trường với nửa má phải còn sẹo và ngồi cạnh Dịch Trì.",
+      "no": 6
+    },
+    {
+      "id": "h07",
+      "scene": "school",
+      "place": "Lớp 11A3 · Giờ ra chơi",
+      "kind": "chon",
+      "title": "Lời cay độc của Tiểu Tuyết",
+      "text": "Giờ ra chơi, Nhược Hi đùa với Dịch Trì rằng một người có sẹo, một người cuối bảng thì cũng xứng đôi. Phương Tiểu Tuyết, nữ sinh lớp bên vốn thích Dịch Trì, bước vào chê cô xấu và bảo cô đừng bám hắn. Dịch Trì đứng dậy bỏ ra ngoài, không nói một câu chê cô.",
+      "tieu": "Cô bé đó cay thật đấy, nhưng không đáng để ngươi giận. Hắn bỏ đi mà không chê ngươi, nhớ cái đó.",
+      "cast": "unh,udt,utt,tc",
+      "ch": [
+        {
+          "t": "Đáp Tiểu Tuyết một câu nhẹ nhàng nhưng rõ ràng: «Bạn nói gì, mình nghe rồi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Tuyết sững người, không ngờ cô không giận. Cả lớp lặng đi, cô quay lại chỗ ngồi thở đều.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2
+            },
+            "f": "dap_tuyet"
+          },
+          "b": 0.51,
+          "bad": {
+            "x": "Cô nói lỡ giọng, nghe như đang đáp trả. Tiểu Tuyết cười khẩy.",
+            "d": {
+              "hao": -1,
+              "hac": 1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Mặc kệ, mở sách ra làm bài như không có gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô làm bài thật nhanh. Tiểu Tuyết đứng thêm một lúc rồi bỏ đi trong khó chịu.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            }
+          },
+          "b": 0.5980000000000001,
+          "bad": {
+            "x": "Tay cô run làm đứt nét bút. Tiểu Tuyết thấy vậy và cười thêm một câu.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.53
+        },
+        {
+          "t": "Quay sang nhờ Dịch Trì lên tiếng một câu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn dừng ở cửa lớp, quay đầu lại, nói gọn: «Đừng nói nữa.» Tiểu Tuyết im bặt.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "dt_len_tieng"
+          },
+          "b": 0.31200000000000006,
+          "bad": {
+            "x": "Hắn không quay lại. Cô nhận ra mình đã nhờ sớm quá.",
+            "d": {
+              "hao": -2,
+              "hac": 1
+            }
+          },
+          "b0": 0.4
+        }
+      ],
+      "ctx": "Giờ ra chơi, lớp 11A3. Phương Tiểu Tuyết chê cô xấu và bảo đừng bám Dịch Trì; hắn bỏ ra ngoài mà không đáp.",
+      "no": 7
+    },
+    {
+      "id": "h08",
+      "scene": "school",
+      "place": "Hành lang · Cùng ngày",
+      "kind": "duyen",
+      "title": "Hắn không đáp",
+      "text": "Ngoài hành lang, Nhược Hi hỏi Dịch Trì vì sao hắn không từ chối một câu. Hắn không nói gì, chỉ nhìn ra sân. Tiểu Châu giải thích: cô muốn nghe hắn từ chối để dứt tình cảm của nguyên chủ, nhưng hắn không cho cô cơ hội đó. Cô quyết ở gần hắn để hiểu vì sao.",
+      "tieu": "Đây là mốc đầu của hắn đấy. Hắn không từ chối nghĩa là hắn chưa muốn dứt. Bước tiếp thế nào là ở ngươi.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Hỏi thẳng hắn: «Cậu thật sự muốn tớ tránh xa à?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn im rất lâu, rồi lắc đầu nhẹ. Cô biết đó là câu trả lời thật nhất hắn có thể cho lúc này.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3
+            },
+            "f": "hoi_thang"
+          },
+          "b": 0.494,
+          "bad": {
+            "x": "Hắn quay đi, cô không nghe được gì. Hành lang chỉ còn tiếng chuông vào lớp.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Đưa hắn một cái bánh, nói sẽ chờ hắn khi nào hắn muốn nói",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cầm cái bánh, nhìn nó rất lâu, rồi cất vào cặp. Cô biết hắn đã nghe.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "cho_banh"
+          },
+          "b": 0.44999999999999996,
+          "bad": {
+            "x": "Hắn để cái bánh lên bàn, không cầm lên. Cô đành nhặt lại.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Đi cạnh hắn lặng lẽ tới cổng, không hỏi thêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người đi cạnh nhau suốt đoạn đường mà không ai nói. Đến cổng hắn khẽ gật đầu với cô.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "di_canh"
+          },
+          "b": 0.516,
+          "bad": {
+            "x": "Hắn đi nhanh hơn, cô tụt lại phía sau. Cô nhìn bóng hắn xa dần.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Cùng ngày, hành lang. Nhược Hi hỏi Dịch Trì vì sao không từ chối Tiểu Tuyết; hắn không đáp và cô quyết ở gần để hiểu.",
+      "no": 8
+    },
+    {
+      "id": "h09",
+      "scene": "clinic",
+      "place": "Lớp 11A3 và phòng y tế · Giờ nghỉ trưa",
+      "kind": "duyen",
+      "title": "Giả thiếu máu",
+      "text": "Hôm sau, Nhược Hi muốn thử phản ứng của Dịch Trì. Giờ nghỉ trưa, cô gục xuống bàn, mặt tái đi vì đã bỏ bữa sáng. Dịch Trì đi ra cửa lớp, rồi vòng lại, đỡ cô xuống phòng y tế. Bác sĩ nói cô chỉ bỏ bữa. Cô cười bảo hắn lo cho mình, hắn quay đi, tai đỏ.",
+      "tieu": "Hắn quay lại đấy, ghi nhớ. Nhưng lần sau ăn sáng đi, đừng lấy sức khỏe ra thử người ta.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Hơi tựa vào vai hắn trên đường xuống phòng y tế",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cứng người nhưng không tránh. Đến cửa phòng y tế, hắn buông tay thật khẽ như sợ làm cô ngã.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "dt_tin"
+          },
+          "b": 0.486,
+          "bad": {
+            "x": "Cô tựa hơi mạnh, hắn khẽ chau mày. Hắn đỡ cô nhưng nhìn đi nơi khác.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Tự nói «chỉ choáng chút thôi» và để hắn đỡ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn gật đầu, im lặng đi sát bên cô, tay đặt ở lưng ghế chờ cô ngồi xuống.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "dt_tin"
+          },
+          "b": 0.552,
+          "bad": {
+            "x": "Cô nói liền một hơi, nghe như đã chuẩn bị. Hắn nhìn cô ngờ vực.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Im lặng chờ xem hắn có quay lại thật không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cửa lớp bật mở, hắn quay lại thật. Cô hé mắt nhìn và thấy ngón tay hắn run nhẹ.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "dt_tin"
+          },
+          "b": 0.44199999999999995,
+          "bad": {
+            "x": "Hắn đứng nhìn một lúc rồi đi gọi giáo viên. Cô thấy mình hơi quá đà.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Hôm sau, giờ nghỉ trưa. Nhược Hi giả thiếu máu để thử Dịch Trì; hắn đỡ cô xuống phòng y tế.",
+      "no": 9
+    },
+    {
+      "id": "h10",
+      "scene": "school",
+      "place": "Phòng y tế và lớp học · Cùng trưa",
+      "kind": "chon",
+      "title": "Cơm trưa",
+      "text": "Dịch Trì mang đến cả một túi hộp cơm, đặt xuống bàn cô, dặn ăn đúng giờ rồi đỏ mặt nói: «Đừng hiểu lầm.» Cô nhìn mấy hộp cơm còn ấm, thấy cổ họng nghẹn lại.",
+      "tieu": "Hắn không giỏi nói, nhưng giỏi lo. Nhìn kỹ thì thấy đấy.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Cười, trêu: «Cậu mua gấp đôi để mình ăn hết à?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn quay mặt đi, tai đỏ hơn. «Ăn đi, nguội mất.» Nhưng khóe môi hắn khẽ nhếch.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "dt_tin"
+          },
+          "b": 0.43399999999999994,
+          "bad": {
+            "x": "Hắn cau mày, nói «đừng trêu». Cô phải xin lỗi nhỏ một câu.",
+            "d": {
+              "hao": -1,
+              "hac": 1
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Cảm ơn thật lòng và mời hắn ăn cùng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn ngần ngừ rồi ngồi xuống. Hai người chia nhau hộp cơm, không ai nói gì nhiều nhưng bầu không khí dịu hẳn.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "dt_tin"
+          },
+          "b": 0.5880000000000001,
+          "bad": {
+            "x": "Hắn lắc đầu, bảo đã ăn rồi, nhưng bụng hắn lại kêu. Cả hai đều ngượng.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Ăn thật ngon miệng, không nói gì thêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ăn hết từng hộp. Hắn liếc nhìn rồi quay đi, nhưng cô thấy nét mặt hắn giãn ra.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "dt_tin"
+          },
+          "b": 0.478,
+          "bad": {
+            "x": "Cô ăn nhanh quá, nghẹn một miếng. Hắn đưa chai nước, ngượng ngùng quay đi.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Cùng trưa. Dịch Trì mua cả túi cơm cho Nhược Hi và dặn đừng hiểu lầm.",
+      "no": 10
+    },
+    {
+      "id": "h11",
+      "scene": "street",
+      "place": "Khu nhà Mộng Giai · Chiều cùng ngày",
+      "kind": "nan",
+      "title": "Quả trứng thối",
+      "text": "Cô đã báo trong nhóm đừng để quả trứng lâu và đừng đập ra. Mộng Giai giữ nó cả tháng rồi đập ra. Mùi hôi lan khắp khu chung cư, vài trẻ nhỏ và người già choáng váng, hàng xóm báo cảnh sát, Mộng Giai bị gọi lên đồn. Tần Dĩ Hằng không có mặt chiều đó. Nhược Hi theo dõi qua nhóm, chưa can thiệp.",
+      "tieu": "Cô ta tự chọn đấy, không ai ép. Ngươi đã báo trước rồi, nhớ giữ tin nhắn.",
+      "cast": "unh,umg,uel,tc",
+      "ch": [
+        {
+          "t": "Gửi vào nhóm ảnh chụp lời nhắc cũ của mình, không bình luận thêm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba đàn hữu đọc lại và không ai trách cô. Elara nhắn riêng: «Cô ấy tự chọn mà.»",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            },
+            "f": "co_loi_nhac"
+          },
+          "b": 0.552,
+          "bad": {
+            "x": "Có người cho rằng cô đang ném đá xuống giếng. Cô cũng thấy khó chịu.",
+            "d": {
+              "hao": -1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nhắn riêng cho Mộng Giai: «Mở cửa sổ, lau sạch rồi báo cho hàng xóm»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mộng Giai không trả lời, nhưng cô ta mở cửa sổ và dọn sạch. Cô làm được việc nhỏ cần làm.",
+            "d": {
+              "ac": -1,
+              "sinh": 1
+            },
+            "f": "co_loi_nhac"
+          },
+          "b": 0.398,
+          "bad": {
+            "x": "Mộng Giai chặn tin nhắn của cô. Cô thở dài.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.44
+        },
+        {
+          "t": "Chỉ theo dõi, không can thiệp",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô đọc từng dòng, ghi lại. Chuyện này không phải việc của cô, nhưng cô ghi nhớ.",
+            "d": {
+              "sinh": 0
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều cùng ngày, khu nhà Mộng Giai. Cô ta đập quả trứng giữ cả tháng; mùi hôi lan khắp khu và hàng xóm báo cảnh sát.",
+      "no": 11
+    },
+    {
+      "id": "h12",
+      "scene": "school",
+      "place": "Lớp 11A3 · Sau giờ học",
+      "kind": "duyen",
+      "title": "Hắn đợi sau giờ học",
+      "text": "Sau giờ học, Nhược Hi ở lại làm bài tới sáu giờ rưỡi. Dịch Trì không về. Hắn nói chỉ muốn ngồi cho yên tĩnh rồi lỡ quát một câu, ngượng ngùng bỏ đi. Hôm sau hắn dặn bạn thân Đại Lực và mấy người trong nhóm để mắt tới cô.",
+      "tieu": "Hắn lo đấy, chỉ là không biết nói. Đừng lấy đó làm chuyện để trêu.",
+      "cast": "unh,udt,udl,tc",
+      "ch": [
+        {
+          "t": "Nói với hắn: «Hôm qua cậu quát hơi to, nhưng tớ biết cậu lo»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn khựng lại, im lặng, rồi gật đầu. Cô thấy mắt hắn bớt lạnh.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            },
+            "f": "dt_tin"
+          },
+          "b": 0.452,
+          "bad": {
+            "x": "Hắn nói «không phải vậy» và bỏ đi nhanh. Cô thấy mình nói hơi sớm.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Cảm ơn Đại Lực và mấy bạn, mời mọi người một chầu trà sữa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đại Lực cười toe, bảo «đại ca dặn rồi». Cả nhóm kéo nhau đi, Dịch Trì đi sau cùng, lặng lẽ cười.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "dt_tin"
+          },
+          "b": 0.518,
+          "bad": {
+            "x": "Trà sữa hết giờ, cả nhóm tiếc nuối. Dịch Trì quay đi, vẻ không vui.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Giả vờ không biết, vẫn học bài tới giờ rồi cùng ra về",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người đi cạnh nhau ra cổng, hắn thôi quát, bắt chuyện về bài tập.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "dt_tin"
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Cô học quá lâu, hắn đi trước một đoạn. Cô chạy theo không kịp.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.52
+        }
+      ],
+      "ctx": "Sau giờ học, lớp 11A3. Dịch Trì đợi cô học xong, lỡ quát rồi dặn Đại Lực để mắt tới cô.",
+      "no": 12
+    },
+    {
+      "id": "h13",
+      "scene": "alley",
+      "place": "Ngõ sau Nhị Trung · Tối",
+      "kind": "nan",
+      "title": "Hắn biết ai là kẻ gây ra chuyện",
+      "text": "Tối, Dịch Trì hỏi Đại Lực ai đã làm hại một nữ sinh Nhất Trung. Đại Lực nói tên Quan Đình Phong, cháu của Quan Tú Anh, tức dì ghẻ của hắn. Hắn giận run và đi tìm. Hôm sau hắn đến lớp mặt bầm, chỉ nói gọn là có va chạm, rồi quay sang nhìn cô. Chuyện nặng diễn ra ngoài tầm mắt cô; Tiểu Châu chỉ kể lại ngắn gọn.",
+      "tieu": "Đây là mốc nặng. Hắn đã biết, và ngươi đã chậm một bước. Giờ phải kéo hắn lại trước khi cơn giận biến thành thứ khác.",
+      "cast": "unh,udt,udl,tc",
+      "ch": [
+        {
+          "t": "Hỏi thẳng, đưa thuốc sát trùng, nói: «Đừng làm vậy vì tớ»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn cô rất lâu, rồi cúi đầu. «Tớ… xin lỗi.» Lần đầu hắn nói xin lỗi bất cứ ai.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": -1
+            },
+            "f": "giu_dt"
+          },
+          "b": 0.404,
+          "bad": {
+            "x": "Hắn gạt tay cô, nói «cậu không hiểu». Cô vẫn ở lại băng cho hắn, dù hắn không nhìn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -3
+            },
+            "f": "giu_dt"
+          },
+          "b0": 0.44
+        },
+        {
+          "t": "Ngồi cạnh hắn cả giờ ra chơi, không hỏi gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn không nói, nhưng đôi vai căng cứng dần mềm lại. Cuối giờ hắn khẽ nói: «Cảm ơn.»",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": -1
+            },
+            "f": "giu_dt"
+          },
+          "b": 0.536,
+          "bad": {
+            "x": "Hắn bỏ ra ngoài giữa giờ. Cô ngồi một mình nhìn chỗ trống bên cạnh.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhắc hắn nhớ mục tiêu: cùng nhau thi vào Kinh Đại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn im rất lâu, rồi gật. «Tớ không muốn tụt lại.» Cô thấy đó là lời hứa đầu tiên của hắn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": -1
+            },
+            "f": "giu_dt"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn cười khẩy: «Kinh Đại thì được gì.» Cô nghẹn lời.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -3
+            },
+            "f": "giu_dt"
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Hôm sau, lớp 11A3. Dịch Trì biết Quan Đình Phong là kẻ gây ra chuyện và đi tìm hắn; cơn giận của hắn cần được kéo lại.",
+      "forced": 1,
+      "no": 13
+    },
+    {
+      "id": "h14",
+      "scene": "school",
+      "place": "Lớp học · Giờ toán",
+      "kind": "duyen",
+      "title": "Bài hình trên bảng",
+      "text": "Vài hôm sau, thầy Cao Văn Đạt gọi cô lên bảng giải một bài hình vượt chương. Cô giải không cần phác thảo, thầy xác nhận đáp án chuẩn, cả lớp lặng đi. Tần Dĩ Hằng nhìn cô rất lâu. Dịch Trì đang gục trên bàn khẽ ngẩng lên.",
+      "tieu": "Hình học không gian là chỗ ngươi mạnh đấy. Giải thích cho người khác hiểu mới là kỹ năng thật.",
+      "cast": "unh,udt,udh,ucd,tc",
+      "ch": [
+        {
+          "t": "Giải thích từng bước cho cả lớp, vẽ hình rõ ràng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả lớp ngồi nghe chăm chú, có người ghi lại. Dịch Trì ngồi thẳng người lần đầu trong giờ toán.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "giai_hinh"
+          },
+          "b": 0.5840000000000001,
+          "bad": {
+            "x": "Cô vẽ sai một nét, phải xóa làm lại. Cả lớp hơi rối nhưng thầy cười động viên.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Viết đáp án gọn rồi xuống chỗ, không giải thích",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thầy gật đầu, không hỏi thêm. Dịch Trì liếc bài giải của cô rồi chép lại vào vở.",
+            "d": {
+              "ac": -1,
+              "hao": 2
+            },
+            "f": "giai_hinh"
+          },
+          "b": 0.49600000000000005,
+          "bad": {
+            "x": "Đáp án đúng nhưng trình bày quá vắn. Vài người hỏi lại, cô ngượng.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Vừa giải vừa hỏi cả lớp từng bước tiếp theo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả lớp hào hứng trả lời, cô dẫn dắt khéo. Dịch Trì bất giác tham gia trả lời một câu.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "giai_hinh"
+          },
+          "b": 0.43,
+          "bad": {
+            "x": "Câu hỏi của cô quá khó, cả lớp im phăng phắc. Cô phải tự giải tiếp.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Vài hôm sau, giờ toán. Thầy Cao gọi Nhược Hi giải bài hình vượt chương; cô giải không cần phác thảo.",
+      "learn": {
+        "n": "Giải hình học không gian",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 14
+    },
+    {
+      "id": "h15",
+      "scene": "zstudy",
+      "place": "Nhóm giao lưu vị diện · Cuối tuần",
+      "kind": "duyen",
+      "title": "Khai Trí Đan",
+      "text": "Mộng Giai điểm kém, sợ lộ ra là nhờ đan dược mới có chút tiến bộ, nên xin món thuốc giúp tăng trí. Nhược Hi nói rõ trong nhóm: tên Khai Trí Đan, mỗi viên giúp nửa canh giờ tỉnh táo, tác dụng phụ là nửa tháng sau tóc rụng một tháng, mỗi viên một tháng. Mộng Giai bỏ qua phần cuối, đổi đồ lấy năm viên. Cả nhóm đều đọc dòng cảnh báo đó.",
+      "tieu": "Cảnh báo ghi rõ ràng, cả nhóm đều đọc. Cô ta chọn bỏ qua, không phải lỗi của ngươi. Nhưng nhớ ghim dòng cảnh báo lên đầu.",
+      "cast": "unh,umg,uth,uso,tc",
+      "ch": [
+        {
+          "t": "Ghi rõ tác dụng phụ bằng chữ đậm, ghim lên đầu nhóm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả nhóm đều thấy dòng chữ. Soren nhắn: «Cô chủ nhóm làm việc cẩn thận thật.»",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "canh_bao"
+          },
+          "b": 0.5840000000000001,
+          "bad": {
+            "x": "Cô ghim nhầm tin nhắn, phải gỡ ra làm lại. Cuối cùng vẫn đủ rõ.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            },
+            "f": "canh_bao"
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Nói thẳng với Mộng Giai từng điều trong tin nhắn riêng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mộng Giai đọc, trả lời «biết rồi», cô ta chọn bỏ qua. Cô đã nói đủ phần của mình.",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            },
+            "f": "canh_bao"
+          },
+          "b": 0.43,
+          "bad": {
+            "x": "Mộng Giai không đọc kỹ, chỉ nhắn «nhanh lên». Cô phải nhắc lại lần nữa.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Gửi bảng thuốc, để cô ta tự đọc rồi tự quyết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả bảng thuốc có dòng cảnh báo ở cuối. Mộng Giai đọc lướt, chọn bỏ qua. Mọi người trong nhóm đều thấy.",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            },
+            "f": "canh_bao"
+          },
+          "b": 0.49600000000000005,
+          "bad": {
+            "x": "Bảng bị lỗi hiển thị một dòng. Cô phải gửi lại.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            },
+            "f": "canh_bao"
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Cuối tuần, trong nhóm. Mộng Giai xin thuốc tăng trí; Nhược Hi nói rõ tác dụng phụ rụng tóc, cô ta bỏ qua và đổi năm viên.",
+      "no": 15
+    },
+    {
+      "id": "h16",
+      "scene": "school",
+      "place": "Phòng thi và phòng lấy phiếu điểm · Cuối học kỳ I",
+      "kind": "chon",
+      "title": "Điểm cuối kỳ I",
+      "text": "Cuối học kỳ, Nhược Hi đứng nhất khối. Mộng Giai tiến mười chín hạng nhờ đan, Dịch Trì hạng cuối. Nhược Hi nói với hắn rằng nếu muốn đi cùng cô lên Kinh Đại thì phải đổi cách sống. Hắn không đáp, chỉ nắm chặt phiếu điểm.",
+      "tieu": "Hạng cuối là hạng cuối, nhưng hắn cầm phiếu điểm chặt đến vậy là có chuyện. Chọn cách nói cho đúng.",
+      "cast": "unh,udt,umg,tc",
+      "ch": [
+        {
+          "t": "Khích lệ: «Cậu thông minh, chỉ cần muốn thôi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngẩng lên nhìn cô, mắt sáng một thoáng. «Thật à?» «Thật.» Hắn gật nhẹ.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "khich_le"
+          },
+          "b": 0.516,
+          "bad": {
+            "x": "Hắn cười khẩy: «Ai cũng nói vậy.» Cô lặng đi.",
+            "d": {
+              "hao": -1,
+              "hac": 1
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nói thẳng: «Hạng cuối không đưa cậu tới Kinh Đại»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn im rất lâu, rồi nói: «Tớ biết.» Đó là lần đầu hắn thừa nhận điều gì với cô.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "noi_thang"
+          },
+          "b": 0.494,
+          "bad": {
+            "x": "Hắn bỏ ra ngoài, đóng sầm cửa. Cô biết mình nói hơi nặng.",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Hỏi hắn: «Cậu muốn gì cho mình?»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nghĩ rất lâu, rồi nói: «Tớ muốn không bị bỏ lại.» Cô gật, thấy tim mình mềm đi.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "hoi_muon"
+          },
+          "b": 0.44999999999999996,
+          "bad": {
+            "x": "Hắn nhún vai: «Chẳng biết.» Cô thở dài.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cuối học kỳ I. Nhược Hi đứng nhất khối, Dịch Trì hạng cuối; cô nói hắn phải đổi cách sống nếu muốn cùng lên Kinh Đại.",
+      "no": 16
+    },
+    {
+      "id": "h17",
+      "scene": "school",
+      "place": "Lớp 11A3 · Nửa tháng sau",
+      "kind": "hiem",
+      "title": "Mộng Giai rụng tóc",
+      "text": "Nửa tháng sau, lúc phát phiếu điểm, Mộng Giai gãi đầu và tóc rụng thành mảng. Cô ta chạy khỏi lớp, vào nhóm cầu cứu. Soren gửi nước mọc tóc nhưng không hợp thể trạng cô ta. Nhược Hi nhắc lại dòng cảnh báo ở mốc trước, đề nghị ba loại thuốc mọc tóc kèm tác dụng phụ: ngủ li bì, mất vị giác, đau đầu từng cơn. Mộng Giai từ chối cả ba, chuyển sang đội tóc giả và mũ. Đàn hữu bắt đầu xa cô ta. Không ai trong lớp cười nhạo ngoại hình cô ta.",
+      "tieu": "Đây là hệ quả cô ta tự chọn. Ngươi đã đưa lối thoát, cô ta từ chối. Đừng chê ngoại hình cô ta, kể cả trong lòng.",
+      "cast": "unh,umg,uso,uth,tc",
+      "ch": [
+        {
+          "t": "Nhắc lại dòng cảnh báo cũ và gửi ba loại thuốc kèm tác dụng phụ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô trình bày rõ từng loại, không thêm bớt một chữ. Mộng Giai đọc, từ chối cả ba, nhưng nhóm thấy cô công bằng.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "cong_bang"
+          },
+          "b": 0.5800000000000001,
+          "bad": {
+            "x": "Cô gửi thiếu một loại, Soren phải bổ sung. Cô hơi ngượng.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Nhắn Mộng Giai một câu an ủi, không nhắc lại lỗi cũ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mộng Giai không trả lời, nhưng đã đọc. Đàn hữu khen cô tử tế.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3
+            },
+            "f": "cong_bang"
+          },
+          "b": 0.4479999999999999,
+          "bad": {
+            "x": "Mộng Giai trả lời gay gắt: «Đừng thương hại tôi.» Cô lặng đi.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Để cô ta tự chọn, không nhắn thêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ta chọn tóc giả. Cô ghi nhớ rằng mình đã làm đủ phần của mình.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            }
+          },
+          "b": 0.49199999999999994,
+          "bad": {
+            "x": "Mộng Giai im lặng rồi rời nhóm vài ngày. Cô thấy hơi áy náy.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Nửa tháng sau, lớp 11A3. Mộng Giai rụng tóc thành mảng, từ chối ba loại thuốc mọc tóc và chuyển sang đội tóc giả; đàn hữu bắt đầu xa cô ta.",
+      "no": 17
+    },
+    {
+      "id": "h18",
+      "scene": "apart",
+      "place": "Trước nhà Trình · Mùa hè lớp 11",
+      "kind": "chon",
+      "title": "Hắn đứng dưới lầu",
+      "text": "Mùa hè, Dịch Trì nhắn tin mỗi ngày. Một chiều hắn đến đứng dưới lầu nhà Trình, chỉ để nhìn lên cửa sổ. Cô bước xuống nói chuyện. Tiểu Châu ghi nhận hắn đỡ cáu gắt hơn nhiều so với đầu năm.",
+      "tieu": "Hắn đứng dưới lầu cả buổi rồi đấy. Mời hắn lên hay ra ngoài là ở ngươi, nhưng đừng để hắn đứng ngoài nắng.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Mời hắn lên nhà ăn cơm với ba mẹ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba mẹ cô đón hắn chu đáo. Hắn ăn rất ít, nhưng lúc về ngoái nhìn lại ba lần.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "an_com_nha"
+          },
+          "b": 0.43799999999999994,
+          "bad": {
+            "x": "Hắn ngại, từ chối. Cô đứng nói chuyện với hắn dưới lầu cả buổi.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Hẹn ra quán ven đường uống nước mát",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người ngồi ở quán nước nhỏ nghe tiếng ve. Hắn kể về ông ngoại, lần đầu nói nhiều như vậy.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            },
+            "f": "quan_nuoc"
+          },
+          "b": 0.504,
+          "bad": {
+            "x": "Quán đông, ồn quá. Hai người ngồi mười phút rồi về.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Rủ hắn ra công viên ngồi nói chuyện bài vở",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn hỏi cô vài bài toán còn vướng. Cô giảng, hắn ghi lại. Trời chiều mát, hắn ngồi gần hơn một chút.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "cong_vien"
+          },
+          "b": 0.548,
+          "bad": {
+            "x": "Cô quên mang sách. Hai người ngồi nhìn nhau lúng túng rồi đi về.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.52
+        }
+      ],
+      "ctx": "Mùa hè lớp 11, trước nhà Trình. Dịch Trì đứng dưới lầu chỉ để nhìn lên cửa sổ; cô bước xuống nói chuyện.",
+      "no": 18
+    },
+    {
+      "id": "h19",
+      "scene": "school",
+      "place": "Căng tin Nhất Trung · Đầu lớp 12",
+      "kind": "hiem",
+      "title": "Quan Đình Phong chặn đường",
+      "text": "Đầu lớp 12, Quan Đình Phong lẻn vào căng tin Nhất Trung khi Dịch Trì không có mặt. Hắn từng thích Mộng Giai vì nhầm cô ta với cô bé thuở nhỏ từng giúp hắn; mẹ hắn là Quan phu nhân giữ hắn ở nhà nhưng hắn trốn đi. Hắn xin lỗi vụng về, tay run. Nhược Hi trả lời thẳng. Đại Lực và vài người đang kéo tới.",
+      "tieu": "Đây là kẻ gây ra chuyện. Hắn đang xin lỗi, nhưng ngươi không nợ hắn sự tha thứ. Cẩn thận nhìn xung quanh.",
+      "cast": "unh,udp,udl,tc",
+      "ch": [
+        {
+          "t": "Nói thẳng: «Tôi không tha, hãy ra trước pháp luật»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn sững người, không biện hộ. Đại Lực kéo tới đưa hắn ra ngoài. Cô thở đều, tay vẫn nắm chặt khay cơm.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "khong_tha"
+          },
+          "b": 0.548,
+          "bad": {
+            "x": "Giọng cô lạc đi một chút. Hắn cúi đầu nhưng chưa chịu đi. Phải đợi Đại Lực tới.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Đứng yên, nhìn thẳng vào mắt hắn, không đáp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn không chịu nổi ánh nhìn của cô. Hắn lùi hai bước, rồi bị Đại Lực đưa ra ngoài.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "khong_tha"
+          },
+          "b": 0.43799999999999994,
+          "bad": {
+            "x": "Hắn nói liên tục, cô cứng người không đáp được. Đại Lực phải tới cắt ngang.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Gọi Đại Lực ngay lập tức, rời căng tin",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đại Lực và vài bạn kéo tới ngay. Cô đi ra cửa, hắn bị chặn lại ở phía sau.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "goi_dai_luc"
+          },
+          "b": 0.504,
+          "bad": {
+            "x": "Điện thoại cô tắt pin giữa lúc cần. Cô phải chạy ra hành lang.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Đầu lớp 12, căng tin Nhất Trung. Quan Đình Phong lẻn vào xin lỗi vụng về; Nhược Hi nói thẳng cô không tha và để Đại Lực đưa hắn ra ngoài.",
+      "no": 19
+    },
+    {
+      "id": "h20",
+      "scene": "school",
+      "place": "Lớp 12 · Cuối giờ tự học",
+      "kind": "chon",
+      "title": "Thư tay trong giờ tự học",
+      "text": "Cuối giờ tự học, Dịch Trì viết lên một trang vở rồi đẩy sang: hắn nghĩ mình thật sự thích cô. Nhược Hi đọc xong, viết lại ba chữ «em cũng vậy». Hắn đỏ mặt, khẽ nắm tay cô dưới bàn rồi buông ra ngay. Cô thấy ngón tay hắn run.",
+      "tieu": "Hai đứa nhỏ viết thư trong giờ tự học, dễ thương thật. Nhưng nhớ mục tiêu: Kinh Đại. Đừng để thứ này lấn át bài vở.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Viết «em cũng vậy», nắm tay hắn một lúc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nắm lại tay cô, nhẹ như chạm vào cánh bướm. Cả hai đều đỏ mặt, không ai nhìn ai.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 6
+            },
+            "f": "thu_tay"
+          },
+          "b": 0.502,
+          "bad": {
+            "x": "Hắn buông ra quá nhanh, giữ tay trong túi áo. Cô thấy hơi hụt hẫng.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Viết điều kiện: «Cùng cố gắng vào Kinh Đại nhé»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đọc xong, cầm bút viết đáp lại: «Được.» Chữ hắn nắn nót hơn mọi khi.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "hen_kinh_dai"
+          },
+          "b": 0.5680000000000001,
+          "bad": {
+            "x": "Hắn gạch bỏ rồi viết lại, nét chữ vội vàng. Cả hai đều ngượng.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Trêu hắn: «Cậu viết thư cẩu thả quá»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bật cười khẽ, tiếng cười ngắn mà thật. Cô nhìn nụ cười đó và thấy mọi chuyện đều đáng.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 5
+            },
+            "f": "thu_tay"
+          },
+          "b": 0.37,
+          "bad": {
+            "x": "Hắn cau mày, đóng vở lại. Cô hối hận vì trêu sai lúc.",
+            "d": {
+              "hao": -1,
+              "hac": 1
+            }
+          },
+          "b0": 0.43
+        }
+      ],
+      "ctx": "Cuối giờ tự học, lớp 12. Dịch Trì viết thư tay nói hắn thích cô; cô viết lại «em cũng vậy».",
+      "no": 20
+    },
+    {
+      "id": "h21",
+      "scene": "zstudy",
+      "place": "Thư viện và nhà ông ngoại · Mấy tháng sau",
+      "kind": "duyen",
+      "title": "Hắn quyết học",
+      "text": "Dịch Trì không muốn bị bỏ lại. Hắn xin ông ngoại Dư Chấn Hoa tìm thầy dạy thêm, rồi nhờ cô dạy kèm toán và lý. Hắn ngủ lớp ít dần, xếp sách đầy cặp. Ông ngoại nhìn cô, gật đầu thật khẽ.",
+      "tieu": "Hắn đang cố đấy. Dạy người khác là kỹ năng khác với tự giỏi. Làm cho tốt.",
+      "cast": "unh,udt,uco,tc",
+      "ch": [
+        {
+          "t": "Dạy từng bước, đợi hắn hiểu chắc mới sang bước sau",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn hiểu nhanh hơn dự kiến. Ông ngoại ngồi nghe ngoài cửa phòng, mỉm cười.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "day_tung_buoc"
+          },
+          "b": 0.5880000000000001,
+          "bad": {
+            "x": "Hắn chưa hiểu phần phương trình, cô phải giảng lại hai lần. Cả hai đều mệt.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            },
+            "f": "day_tung_buoc"
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Để hắn tự làm, cô chỉ chữa lỗi sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn sai ba lần rồi tự tìm ra lối. Hắn nhìn cô, mắt sáng: «Tớ làm được.»",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "tu_lam"
+          },
+          "b": 0.478,
+          "bad": {
+            "x": "Hắn bí quá, bực bội bỏ sách xuống. Cô phải dỗ mãi mới học tiếp.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Rủ Đại Lực học cùng, tạo không khí nhóm học",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đại Lực kéo theo hai bạn nữa. Phòng học sôi nổi, Dịch Trì cũng cười nhiều hơn.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "nhom_hoc"
+          },
+          "b": 0.43399999999999994,
+          "bad": {
+            "x": "Cả nhóm nói chuyện nhiều hơn học. Cô phải chia nhỏ lại cho yên.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Mấy tháng sau, thư viện và nhà ông ngoại. Dịch Trì quyết học, nhờ Nhược Hi dạy kèm toán và lý.",
+      "learn": {
+        "n": "Dạy kèm",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 21
+    },
+    {
+      "id": "h22",
+      "scene": "school",
+      "place": "Bảng điểm trên cửa lớp · Cuối học kỳ II",
+      "kind": "duyen",
+      "title": "Hắn vào top 10",
+      "text": "Cô soạn kế hoạch ôn tập từng tuần cho hắn. Điểm của hắn lên rất nhanh, vào top 10 của khối nhờ toán, lý, ngoại ngữ; ngữ văn còn khó khăn mới đạt. Tần Dĩ Hằng giữ hạng ba, Mộng Giai hạng mười hai và nhìn cả hai bằng ánh mắt khó chịu.",
+      "tieu": "Top 10 rồi, hắn tự làm được đấy. Kế hoạch tuần là lý do. Đừng quên khen hắn.",
+      "cast": "unh,udt,udh,umg,tc",
+      "ch": [
+        {
+          "t": "Gói riêng một phần thưởng nhỏ, mang đến cho hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn mở gói, thấy cuốn sổ nhỏ có câu: «Chúc mừng». Hắn không nói gì, chỉ ôm sổ chặt hơn.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "khen_dt"
+          },
+          "b": 0.47400000000000003,
+          "bad": {
+            "x": "Hắn cầm gói, nói «cảm ơn» khô khốc rồi cất đi. Cô hơi hụt hẫng.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Cùng hắn xem lại từng môn, chỉ ra chỗ còn thiếu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn gật lia lịa, ghi chép. Hắn nói: «Học kỳ sau tớ lên top 5.»",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "xem_diem"
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Kế hoạch của cô thiếu mục ngữ văn, hắn lo. Cô phải bổ sung thêm.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Nói với hắn: «Cậu giỏi lắm»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đỏ mặt, quay đi. «Đừng khen nữa.» Nhưng khóe môi hắn khẽ nhếch.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "khen_dt"
+          },
+          "b": 0.49600000000000005,
+          "bad": {
+            "x": "Hắn cau mày: «Đừng khen nữa, chưa đủ.» Cô hiểu hắn đang tự nghiêm khắc.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Cuối học kỳ II. Dịch Trì vào top 10 khối nhờ kế hoạch ôn tập từng tuần của Nhược Hi.",
+      "learn": {
+        "n": "Lập kế hoạch ôn thi",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 22
+    },
+    {
+      "id": "h23",
+      "scene": "apart",
+      "place": "Nhà Trình · Tuần sau phát phiếu điểm",
+      "kind": "hiem",
+      "title": "Quan phu nhân tới nhà",
+      "text": "Quan phu nhân thấy con trai cứ tới trường tìm cô. Bà cho rằng cô quyến rũ con mình và đe dọa nhà Trình nếu cô còn lại gần. Ba mẹ cô giận nhưng không đáp lại. Nhược Hi nói bình tĩnh rằng bà nên hỏi chính con trai mình. Bà ra về.",
+      "tieu": "Bà ta tới để dọa. Ngươi đừng sợ, cũng đừng cãi to. Giữ giọng, và nhớ nhà Trình vẫn đang còn yếu.",
+      "cast": "unh,uqq,uba,ume,tc",
+      "ch": [
+        {
+          "t": "Nói rõ ràng: «Bà nên hỏi con trai mình xem ai tìm ai»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bà ngập ngừng, không đáp được. Ba mẹ nhìn cô, tự hào lẫn xót xa.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "binh_tinh"
+          },
+          "b": 0.538,
+          "bad": {
+            "x": "Giọng cô hơi cao, bà càng gắt hơn. Ba phải đứng ra mời bà về.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Rót trà mời bà, nói chuyện nhẹ nhàng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bà không nhận trà nhưng giọng bà dịu đi. Bà ra về mà không to tiếng thêm.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "binh_tinh"
+          },
+          "b": 0.42800000000000005,
+          "bad": {
+            "x": "Bà hất tay, tách trà rơi vỡ. Cô cúi nhặt mảnh vỡ trong im lặng.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.46
+        },
+        {
+          "t": "Im lặng đứng cạnh ba mẹ, để bà nói hết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bà nói một hồi rồi cũng dừng, nhìn quanh nhà. Bà thấy ba mẹ cô chẳng sợ gì, và ra về.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            }
+          },
+          "b": 0.494,
+          "bad": {
+            "x": "Bà nói quá lâu, ba mẹ cô nghe như bị ép. Cô đứng cạnh cắn môi.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Tuần sau phát phiếu điểm, nhà Trình. Quan phu nhân đe dọa nhà Trình vì cho rằng cô quyến rũ con trai bà.",
+      "no": 23
+    },
+    {
+      "id": "h24",
+      "scene": "zoffice",
+      "place": "Công ty Trình · Vài hôm sau",
+      "kind": "nan",
+      "title": "Hai nhà cùng chèn ép Trình gia",
+      "text": "Ba mẹ về nhà muộn. Quan gia bắt đầu ép các đối tác của Trình gia. Quan Tú Anh nói với Hoắc Chấn Hải khiến Hoắc thị cũng làm khó. Dịch Trì nghe tin, cắn răng. Nhược Hi biết một tờ chứng cứ trong tay có thể xoay chiều, nhưng cô cần thời gian để tìm đúng tờ.",
+      "tieu": "Hai nhà cùng ép, nghe đáng sợ nhưng chưa sụp. Ba mẹ ngươi cần biết con gái có cách, nhưng đừng khoe.",
+      "cast": "unh,uba,ume,udt,tc",
+      "ch": [
+        {
+          "t": "Nói với ba mẹ: «Con có cách, xin ba mẹ cho con vài ngày»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba nhìn cô lâu rồi gật. «Ba tin con.» Mẹ đặt tay lên vai cô, im lặng.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 2
+            },
+            "f": "ba_me_chap"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Ba mẹ lo, hỏi dồn. Cô không giải thích đủ nên cả hai càng bất an.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nhắn Dịch Trì: «Đừng làm gì vội, đợi tớ»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhắn lại một chữ: «Được.» Cô biết hắn đang cố kìm lại.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3
+            },
+            "f": "giu_dt_kim"
+          },
+          "b": 0.44000000000000006,
+          "bad": {
+            "x": "Hắn không trả lời cả đêm. Cô lo lắng tới sáng.",
+            "d": {
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.46
+        },
+        {
+          "t": "Chờ thêm vài ngày xem tình hình, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ngồi cả đêm suy nghĩ. Sáng hôm sau cô biết mình nên làm gì, và hơi thở trở nên đều.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            }
+          },
+          "b": 0.44000000000000006,
+          "bad": {
+            "x": "Cô chờ mà không yên, ngày nào cũng nhận thêm tin xấu. Sinh lực cạn dần.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Vài hôm sau, công ty Trình. Quan gia và Hoắc thị cùng chèn ép nhà Trình; Dịch Trì nghe tin và cắn răng.",
+      "no": 24
+    },
+    {
+      "id": "h25",
+      "scene": "apart",
+      "place": "Phòng Nhược Hi · Cùng hôm",
+      "kind": "duyen",
+      "title": "Lần theo sổ sách của Quan gia",
+      "text": "Tiểu Châu có thể thâm nhập dữ liệu công khai và nội bộ của Quan thị. Nó giúp cô lần ra bằng chứng trốn thuế và các giao dịch ngầm, nhưng cô phải tự học cách đọc báo cáo tài chính để biết đoạn nào đáng tin. Sau lưng Quan gia còn có một quan chức bảo kê.",
+      "tieu": "Nhiều con số lắm. Đọc chậm, đối chiếu từng cột. Cái gì cũng phải có nguồn.",
+      "cast": "unh,tc",
+      "ch": [
+        {
+          "t": "Đối chiếu từng khoản, lập bảng riêng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Con số khớp nhau từng dòng. Cô nhìn bảng tổng hợp, biết mình đã nắm đủ.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "so_sach"
+          },
+          "b": 0.556,
+          "bad": {
+            "x": "Cô sai một dòng, phải làm lại cả cột. Gần sáng mới xong.",
+            "d": {
+              "sinh": -3
+            },
+            "f": "so_sach"
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Nhờ Tiểu Châu đánh dấu những chỗ đáng ngờ trước, rồi tự kiểm lại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu đánh dấu bảy chỗ, cô kiểm lại và thấy năm chỗ thật sự có vấn đề.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "so_sach"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Tiểu Châu đánh dấu quá nhiều, cô mất cả đêm lọc lại.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Học cách đọc báo cáo từ các video giảng của giáo sư kinh tế",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô tìm được một chuỗi bài giảng rõ ràng. Hiểu xong, các cột số không còn đáng sợ.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "so_sach"
+          },
+          "b": 0.42400000000000004,
+          "bad": {
+            "x": "Cô chọn nhầm bài giảng quá cao, đầu óc rối. Phải bắt đầu lại.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Cùng hôm, phòng Nhược Hi. Tiểu Châu giúp cô lần ra bằng chứng trốn thuế và giao dịch ngầm của Quan thị.",
+      "learn": {
+        "n": "Đọc báo cáo tài chính",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 25
+    },
+    {
+      "id": "h26",
+      "scene": "apart",
+      "place": "Phòng Nhược Hi · Hôm sau",
+      "kind": "chon",
+      "title": "Chuyển bằng chứng",
+      "text": "Có ba cách xử lý chứng cứ: gửi thẳng cơ quan thanh tra, báo ẩn danh cho quan chức bảo kê để hắn tự rút lui, hoặc chờ thêm chứng cứ. Mỗi cách đi một đường khác nhau, và Dịch Trì đang đợi tin nhắn của cô.",
+      "tieu": "Gửi thanh tra là đường thẳng nhất. Báo cho quan chức là đánh cược. Chờ thì có thể nhà Trình chịu thêm một tháng nữa.",
+      "cast": "unh,tc",
+      "ch": [
+        {
+          "t": "Gửi thẳng cho cơ quan thanh tra, kèm bảng đối chiếu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hồ sơ gọn và đủ, thanh tra nhận ngay. Cô gửi xong, thấy mình nhẹ hẳn.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "gui_thanh_tra"
+          },
+          "b": 0.6540000000000001,
+          "bad": {
+            "x": "Hồ sơ thiếu một mục, thanh tra yêu cầu bổ sung. Cô mất thêm một ngày.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "gui_thanh_tra"
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Báo ẩn danh cho quan chức bảo kê để hắn tự rút lui",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Quan chức rút khỏi Quan gia ngay đêm đó. Cô thở phào, nhưng linh cảm có điều chưa ổn.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            },
+            "f": "bao_quan_chuc"
+          },
+          "b": 0.23599999999999993,
+          "bad": {
+            "x": "Quan chức cảnh giác, sai người dò tung tích. Cô phải xóa dấu vết suốt đêm.",
+            "d": {
+              "hac": 2,
+              "hao": -2,
+              "sinh": -5
+            }
+          },
+          "b0": 0.35
+        },
+        {
+          "t": "Chờ thêm chứng cứ, chưa gửi vội",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô chờ thêm hai hôm, thu thêm vài chứng từ, trong lúc nhà Trình chịu thêm sức ép. Cô nghĩ mình đã đủ chắc tay để gửi.",
+            "d": {
+              "hac": 1,
+              "sinh": -3,
+              "hao": 0
+            }
+          }
+        }
+      ],
+      "ctx": "Hôm sau, phòng Nhược Hi. Cô chọn cách chuyển bằng chứng thuế và hối lộ của Quan gia.",
+      "no": 26
+    },
+    {
+      "id": "h27",
+      "scene": "zoffice",
+      "place": "Tập đoàn Quan thị · Vài giờ sau",
+      "kind": "duyen",
+      "title": "Quan gia sụp đổ",
+      "text": "Thanh tra tới tập đoàn Quan thị. Quan phu nhân và Quan Tú Anh bị tạm giữ. Quan gia không còn kịp bảo vệ nhà Trình. Hoắc Chấn Hải phải bỏ chèn ép. Ba mẹ Trình thở ra, nhìn con gái thật lâu mà không hỏi gì.",
+      "tieu": "Quan gia đổ rồi. Dịch Trì sẽ biết trước ngươi hai phút. Nhắn hắn, đừng để hắn tìm đến ngõ sau Nhị Trung lần nữa.",
+      "cast": "unh,uba,ume,uta,uqq,tc",
+      "ch": [
+        {
+          "t": "Ở lại cạnh ba mẹ, đặt tay lên vai hai người",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ba mẹ không hỏi, cô không nói. Cả ba ngồi cạnh nhau trong phòng khách tối, không ai muốn bật đèn.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 3
+            },
+            "f": "o_canh_ba_me"
+          },
+          "b": 0.486,
+          "bad": {
+            "x": "Mẹ òa khóc, ba lặng lẽ lau mắt. Cô nghẹn lời, chỉ biết ngồi cạnh.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhắn Dịch Trì: «Xong rồi. Cậu không cần làm gì nữa»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhắn lại sau mười giây: «Tớ đến ngay.» Rồi hắn xuất hiện dưới lầu, thở dốc.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "bao_dt"
+          },
+          "b": 0.46399999999999997,
+          "bad": {
+            "x": "Hắn đọc tin nhưng không trả lời. Cô lo cả đêm.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Ghi lại danh sách việc cần làm tiếp theo trước khi quên",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô viết xong, thấy mình đã sẵn sàng cho giai đoạn tiếp theo. Một việc đã xong, việc khác đang chờ.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 2
+            },
+            "f": "ke_hoach"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô mệt quá, viết lộn xộn. Hôm sau phải chép lại.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        }
+      ],
+      "ctx": "Vài giờ sau, tập đoàn Quan thị. Thanh tra tới; Quan phu nhân và Quan Tú Anh bị tạm giữ và nhà Trình thở ra.",
+      "no": 27
+    },
+    {
+      "id": "h28",
+      "scene": "zstudy",
+      "place": "Thư phòng nhà Trình · Hôm sau",
+      "kind": "chon",
+      "title": "Ba mẹ khởi kiện",
+      "text": "Hôm sau, Nhược Hi đưa cho ba mẹ chứng cứ camera đã khôi phục từ mốc ba. Ba mẹ nộp đơn kiện Quan Đình Phong. Luật sư hỏi cô có muốn đích thân ra làm chứng hay không, vì lời của người bị hại luôn có sức nặng.",
+      "tieu": "Đây là bản gốc cô đã giữ sạch từ đầu. Chọn cách ra mặt, nhưng nhớ cô vẫn còn nhỏ, cứ để luật sư lo phần khó.",
+      "cast": "unh,uba,ume,tc",
+      "ch": [
+        {
+          "t": "Tự đứng ra làm chứng, nói rõ từng chi tiết",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Luật sư gật đầu hài lòng. Ba mẹ nhìn cô, ánh mắt vừa lo vừa tự hào.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "lam_chung"
+          },
+          "b": 0.44599999999999995,
+          "bad": {
+            "x": "Cô nói hơi lủng củng khi luyện thử, luật sư phải chỉnh lại. Cô thấy mình còn thiếu một chút.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Để luật sư trình bày, cô chỉ bổ sung khi cần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Luật sư trình bày gọn, hồ sơ chắc chắn. Cô thấy yên tâm hơn nhiều.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 2
+            },
+            "f": "luat_su"
+          },
+          "b": 0.556,
+          "bad": {
+            "x": "Luật sư hiểu sai một chi tiết nhỏ, cô phải chỉnh lại. Mất cả buổi chiều.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Hỏi ba mẹ ý kiến rồi cùng quyết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ba mẹ bàn với nhau rất lâu, rồi quyết định để cô tự chọn. Cô chọn làm chứng, nhưng chuẩn bị kỹ.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.46799999999999997,
+          "bad": {
+            "x": "Ba mẹ bất đồng ý kiến, cô phải làm trung gian cả buổi tối. Mệt rã người.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Hôm sau, thư phòng nhà Trình. Ba mẹ nộp đơn kiện Đình Phong với chứng cứ camera Nhược Hi đã khôi phục.",
+      "no": 28
+    },
+    {
+      "id": "h29",
+      "scene": "zvilla",
+      "place": "Nhà họ Hoắc · Cuối tuần",
+      "kind": "duyen",
+      "title": "Dịch Trì về Hoắc thị",
+      "text": "Hoắc Chấn Hải gọi con về vì Hoắc thị mất đối tác. Dịch Trì nói sẽ lấy lại phần của mẹ hắn, bảo vệ cô, và vẫn học song song. Cha hắn chịu nhún vì cần hắn. Sau đó hắn tìm cô, nói: «Anh sẽ cùng em thi vào Kinh Đại.»",
+      "tieu": "Hắn lần đầu tự đứng ra đòi quyền của mình. Cô nên có mặt khi hắn bước ra.",
+      "cast": "unh,udt,uch,tc",
+      "ch": [
+        {
+          "t": "Đợi hắn ngoài cổng nhà họ Hoắc, đưa chai nước ấm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn bước ra, thấy cô, bước chân chậm lại. «Em đợi lâu chưa?» «Chưa đâu.» Hắn nhận chai nước, tay run nhẹ.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "cho_cong"
+          },
+          "b": 0.486,
+          "bad": {
+            "x": "Cô đứng nhầm cổng. Hắn đi ra bằng cửa phụ, cô phải chạy theo.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Hỏi hắn: «Anh muốn lấy lại gì trước?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghĩ lâu rồi trả lời: «Tên mẹ trong sổ cổ đông.» Cô gật, thấy hắn đã có kế hoạch riêng.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "hoi_muc_tieu"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn lảng tránh: «Chuyện của anh.» Cô gật, không hỏi thêm.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nhắc hắn không được bỏ học, dù Hoắc thị bận",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn gật đầu: «Anh hứa.» Nụ cười hắn nhẹ hơn mọi lần.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "hua_khong_bo_hoc"
+          },
+          "b": 0.46399999999999997,
+          "bad": {
+            "x": "Hắn cau mày: «Em cũng như ông ngoại.» Cô lặng đi vì bị hiểu nhầm.",
+            "d": {
+              "hao": -1,
+              "hac": 1
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Cuối tuần, nhà họ Hoắc. Dịch Trì nói sẽ lấy lại phần của mẹ, bảo vệ cô, và hứa cùng cô thi vào Kinh Đại.",
+      "no": 29
+    },
+    {
+      "id": "h30",
+      "scene": "zoffice",
+      "place": "Tòa án thành phố Thanh Giang · Một tháng sau",
+      "kind": "chon",
+      "title": "Phiên tòa",
+      "text": "Đình Phong và Mộng Giai bị gọi làm nhân chứng. Nhược Hi trình chứng cứ camera. Mộng Giai chối rằng không biết mình đã đụng ngã ai. Đoạn phim cho thấy rõ. Đình Phong không biện hộ nhiều. Thẩm phán chờ phần trình bày của cô.",
+      "tieu": "Chứng cứ sạch đã có. Giờ là phần nói. Ngắn gọn hay kỹ lưỡng, đều có cái giá của nó.",
+      "cast": "unh,umg,udp,tc",
+      "ch": [
+        {
+          "t": "Trình bày ngắn gọn, chỉ nêu mốc thời gian và hình ảnh chính",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thẩm phán gật đầu liên tục. Phần trình bày gọn của cô khiến mọi người theo kịp từng giây.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "trinh_gon"
+          },
+          "b": 0.6120000000000001,
+          "bad": {
+            "x": "Cô bỏ sót một chi tiết, luật sư phải bổ sung. Phiên tòa kéo dài thêm nửa giờ.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Kể từng chi tiết theo thứ tự, không bỏ sót",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nói chậm mà rõ. Thẩm phán ghi chép, nhìn cô bằng ánh mắt tôn trọng.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "trinh_ky"
+          },
+          "b": 0.45799999999999996,
+          "bad": {
+            "x": "Cô nói quá dài, thẩm phán nhắc đi vào trọng tâm. Cô đỏ mặt.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Để Mộng Giai tự khai trước, cô chỉ bổ sung sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mộng Giai tự mâu thuẫn trước tòa. Cô chỉ cần trình đoạn phim, mọi chuyện rõ ngay.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "doi_khai"
+          },
+          "b": 0.37,
+          "bad": {
+            "x": "Mộng Giai khai bình tĩnh hơn dự kiến. Cô phải trình bày lại từ đầu.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.43
+        }
+      ],
+      "ctx": "Một tháng sau, tòa án Thanh Giang. Nhược Hi trình chứng cứ camera; Mộng Giai chối nhưng đoạn phim cho thấy rõ.",
+      "learn": {
+        "n": "Trình bày chứng cứ",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 30
+    },
+    {
+      "id": "h31",
+      "scene": "school",
+      "place": "Hành lang tòa án · Sau phiên tòa",
+      "kind": "nan",
+      "title": "Lời của Quan Đình Phong",
+      "text": "Sau phiên tòa, Đình Phong xin nói riêng vài câu. Hắn xin lỗi, hỏi cô có nhớ công viên mười năm trước, nơi cô đã giúp một cậu bé bị bắt nạt. Cô nhớ ra. Hắn sụp đổ khi hiểu mình đã làm hại chính cô bé hắn luôn nhớ. Cô không tha thứ, nhưng cũng không nói lời nặng. Hắn bị tuyên án.",
+      "tieu": "Câu chuyện cũ lộ ra. Ngươi không nợ hắn sự tha thứ, nhưng cũng không cần nói nặng. Hít sâu.",
+      "cast": "unh,udp,udt,tc",
+      "ch": [
+        {
+          "t": "Nói điềm đạm: «Tôi nhớ, nhưng tôi không tha»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn gật đầu, nước mắt rơi. Hắn xoay người đi, vai run. Cô đứng đó thở ra, nhẹ nhõm đến lạ.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "khong_tha_lan_hai"
+          },
+          "b": 0.46799999999999997,
+          "bad": {
+            "x": "Cô nói xong thì giọng nghẹn. Hắn thấy và lặng đi lâu hơn cô dự tính.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Im lặng nghe hết, rồi quay đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nghe từng lời mà không đáp. Khi quay đi, cô thấy mình không còn mang hắn theo nữa.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 2
+            }
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Cô nghe một lúc thì bước chân khựng lại. Hắn gọi, cô vẫn đi tiếp, tim đập mạnh.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhờ Dịch Trì đứng cạnh, chỉ nói một câu cuối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Dịch Trì đứng cạnh, không nói một câu. Cô nói gọn một câu cuối. Hắn gật, rời đi.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "dt_canh"
+          },
+          "b": 0.512,
+          "bad": {
+            "x": "Dịch Trì siết nắm tay, cô khẽ chạm vào tay áo hắn để giữ hắn lại. Chuyện qua nhanh nhưng căng.",
+            "d": {
+              "hac": 1,
+              "hao": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sau phiên tòa, hành lang. Đình Phong xin lỗi, kể chuyện công viên mười năm trước; cô không tha nhưng không nói nặng lời.",
+      "no": 31
+    },
+    {
+      "id": "h32",
+      "scene": "school",
+      "place": "Hành lang tòa án · Cùng lúc",
+      "kind": "chon",
+      "title": "Bạn của Mộng Giai",
+      "text": "Cô bạn cùng bàn của Mộng Giai khuyên cô ta cùng đi xin lỗi Nhược Hi. Mộng Giai nổi giận, đẩy bạn ra, nói mình không sai. Mọi người xung quanh đều thấy. Cô bạn nhìn Nhược Hi bằng ánh mắt áy náy.",
+      "tieu": "Cô ta tự để lộ trước mặt mọi người. Ngươi không cần làm gì thêm, nhưng nói một câu cũng được.",
+      "cast": "unh,umg,tc",
+      "ch": [
+        {
+          "t": "Nói với Mộng Giai một câu: «Cậu không cần xin lỗi tôi, chỉ cần dừng lại»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mộng Giai im lặng, mặt tái dần. Cô bạn nhìn cô, khẽ gật đầu cảm ơn.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "noi_mg"
+          },
+          "b": 0.388,
+          "bad": {
+            "x": "Mộng Giai gắt lên «đừng lên mặt». Cô rút lời nhưng người xung quanh đã thấy đủ.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.44
+        },
+        {
+          "t": "Để cô ta tự đối mặt, quay đi không nói",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô quay đi. Sau lưng cô, tiếng Mộng Giai nhỏ dần, rồi im hẳn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            }
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Mộng Giai đuổi theo, gọi tên cô. Cô phải dừng lại nghe cô ta nói vài câu.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Cảm ơn cô bạn vì đã dám nói thật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô bạn đỏ mặt, ngập ngừng: «Mình sai khi không nói sớm hơn.» Cô gật, mỉm cười.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "cam_on_ban"
+          },
+          "b": 0.542,
+          "bad": {
+            "x": "Cô bạn xua tay, ngượng ngùng bỏ đi. Cô thấy hơi tiếc.",
+            "d": {
+              "hao": 0
+            }
+          },
+          "b0": 0.51
+        }
+      ],
+      "ctx": "Sau phiên tòa, hành lang. Mộng Giai đẩy cô bạn cùng bàn ra khi bị khuyên đi xin lỗi; mọi người đều thấy.",
+      "no": 32
+    },
+    {
+      "id": "h33",
+      "scene": "zmall",
+      "place": "Quán cà phê gần trường · Mùa thu lớp 12",
+      "kind": "duyen",
+      "title": "Vốn đầu tư",
+      "text": "Dịch Trì đang lỡ một dự án vì thiếu vốn. Nhược Hi nói cô đã dùng tiền tiêu vặt mua vài cổ phiếu theo gợi ý của Tiểu Châu, kiếm được một khoản, và chuyển cho hắn đầu tư. Cô chỉ hắn cách đọc nhịp thị trường. Hắn chạy xe đến dưới nhà cô vì quá vui.",
+      "tieu": "Tiền tiêu vặt là thật, lời cũng là thật. Phân tích từng bước, đừng bảo hắn làm theo vì tin ngươi.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Chỉ hắn đọc biểu đồ và báo cáo, để hắn tự quyết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đọc xong, nói: «Anh hiểu rồi.» Hắn tự chọn đúng hướng, cô chỉ gật đầu.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "phan_tich"
+          },
+          "b": 0.5860000000000001,
+          "bad": {
+            "x": "Hắn đọc sai một chỉ số, cô phải quay lại giảng. Cả hai ngồi thêm hai giờ.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.53
+        },
+        {
+          "t": "Nói rõ rủi ro: «Lời có thể mất, đừng đặt hết vào»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nghe xong, gật chắc nịch. Hắn chia vốn thành ba phần, chừa lại một phần dự phòng.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            },
+            "f": "rui_ro"
+          },
+          "b": 0.498,
+          "bad": {
+            "x": "Hắn bực vì cô nhắc nhiều: «Em không tin anh à?» Cô giải thích mãi mới êm.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Cười bảo: «Lãi thì chia đôi nhé»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn bật cười, hứa sẽ để dành phần cho cô. Hai người cùng xem biểu đồ đến khi tối.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 5
+            },
+            "f": "chia_doi"
+          },
+          "b": 0.366,
+          "bad": {
+            "x": "Hắn tưởng cô nói thật, nghiêm giọng từ chối. Cô phải giải thích đó chỉ là đùa.",
+            "d": {
+              "hao": -1
+            }
+          },
+          "b0": 0.43
+        }
+      ],
+      "ctx": "Mùa thu lớp 12. Nhược Hi chuyển khoản lời cổ phiếu cho Dịch Trì làm vốn dự án và chỉ hắn cách đọc nhịp thị trường.",
+      "learn": {
+        "n": "Phân tích cổ phiếu",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 33
+    },
+    {
+      "id": "h34",
+      "scene": "street",
+      "place": "Mạng xã hội và văn phòng hiệu trưởng · Học kỳ I lớp 12",
+      "kind": "hiem",
+      "title": "Tin đồn yêu sớm",
+      "text": "Một bài viết trên mạng chê hai người, nói trường dung túng yêu sớm. Bình luận tăng nhanh. Nhược Hi viết lại một bài ngắn, đính kèm bảng điểm của cả hai. Dư luận đổi chiều. Dịch Trì công khai nhận khoản đầu tư của cô, không giấu giếm gì.",
+      "tieu": "Tin đồn lan nhanh, nhưng bảng điểm thì thật. Viết ngắn, viết rõ, và nhớ nhắc đến thầy cô nữa.",
+      "cast": "unh,udt,ucd,tc",
+      "ch": [
+        {
+          "t": "Viết một bài nghị luận ngắn, dẫn bảng điểm và lời thầy Cao",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bài viết được chia sẻ rộng. Thầy Cao nhắn: «Em viết có lý.» Dư luận quay đầu.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "viet_bai"
+          },
+          "b": 0.588,
+          "bad": {
+            "x": "Bài viết dài, ít người đọc hết. Cô chỉnh lại bản ngắn hơn mới có chút tác dụng.",
+            "d": {
+              "hao": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Nhờ Dịch Trì cùng ký tên vào bản trả lời",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn không do dự ký ngay: «Anh ký.» Hai cái tên đứng cạnh nhau, rõ ràng và thẳng thắn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "cung_ky"
+          },
+          "b": 0.47799999999999987,
+          "bad": {
+            "x": "Hắn bận họp Hoắc thị, ký trễ. Bài đăng chậm một ngày, dư luận đã lan xa.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Im lặng chờ nhà trường lên tiếng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hiệu trưởng ra thông báo bảo vệ hai người. Cô thở ra, nhẹ cả lòng.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": 1
+            }
+          },
+          "b": 0.32399999999999995,
+          "bad": {
+            "x": "Nhà trường chậm trễ, tin đồn lan thêm một ngày. Cô thức tới sáng.",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -4
+            }
+          },
+          "b0": 0.4
+        }
+      ],
+      "ctx": "Học kỳ I lớp 12. Một bài đăng chê hai người yêu sớm; Nhược Hi viết bài nghị luận kèm bảng điểm và Dịch Trì công khai nhận khoản đầu tư.",
+      "learn": {
+        "n": "Viết nghị luận",
+        "s": "mi",
+        "v": 1
+      },
+      "no": 34
+    },
+    {
+      "id": "h35",
+      "scene": "zstudy",
+      "place": "Nhóm giao lưu vị diện · Đêm trước kỳ thi đại học",
+      "kind": "chon",
+      "title": "Viên đan cuối của Mộng Giai",
+      "text": "Mộng Giai thấy điểm thi thử không đủ nên năn nỉ đổi thêm Khai Trí Đan. Nhược Hi nói rõ chỉ đổi thêm một viên và dùng quá mười lăm viên thì đầu óc kiệt, lâu mới hồi phục. Mộng Giai đã dùng gần hết giới hạn đó và vẫn nhận. Cả nhóm đọc lại lời cảnh báo.",
+      "tieu": "Cô ta đã dùng gần hết giới hạn. Ngươi đã nói rõ. Giờ là chọn đổi hay không.",
+      "cast": "unh,umg,uth,uel,tc",
+      "ch": [
+        {
+          "t": "Đổi một viên, nhắc lại giới hạn một lần cuối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mộng Giai nhận viên cuối, không nói cảm ơn. Cả nhóm đọc lại dòng cảnh báo và không ai trách cô.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "doi_vien"
+          },
+          "b": 0.526,
+          "bad": {
+            "x": "Mộng Giai nhận mà không đọc. Cô thở dài, thấy áy náy dù đã nói đủ.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Từ chối đổi: «Cậu đã dùng đủ rồi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mộng Giai gắt lên, rồi cô ta im lặng. Cô ta rời nhóm mà không nói gì thêm.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "tu_choi_vien"
+          },
+          "b": 0.45999999999999996,
+          "bad": {
+            "x": "Mộng Giai chửi cô ích kỷ, nhóm bàn tán. Cô giữ nguyên quyết định nhưng thấy nặng lòng.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Hỏi Elara và Thanh Hạc xem họ nghĩ sao",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả hai đồng ý với cô. Thanh Hạc nhắn: «Chủ nhóm quyết đúng.» Cô thấy yên tâm.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "hoi_nhom"
+          },
+          "b": 0.504,
+          "bad": {
+            "x": "Hai người ý kiến trái chiều, cô phải tự quyết. Đêm đó cô khó ngủ.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Đêm trước kỳ thi đại học, trong nhóm. Mộng Giai xin đổi thêm Khai Trí Đan dù đã dùng gần hết giới hạn; cô nói rõ rồi cân nhắc.",
+      "no": 35
+    },
+    {
+      "id": "h36",
+      "scene": "school",
+      "place": "Trường thi · Tháng sáu",
+      "kind": "chon",
+      "title": "Thi đại học",
+      "text": "Tháng sáu, cô và Dịch Trì thi trong cùng một khu. Hai người ra khỏi phòng thi, đứng đợi nhau dưới tán cây. Cô hỏi hắn khoa nào khó nhất, hắn nói ngữ văn. Gió thổi qua, hắn chợt đưa cô cái quạt nhỏ hắn mang theo từ sáng.",
+      "tieu": "Hết thi rồi. Hắn mang quạt cho ngươi từ sáng đấy. Chọn lời cho khéo.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Trấn an hắn: «Anh làm tốt rồi, em tin»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn thở ra, vai chùng xuống. «Có em nói thì anh tin.» Cô cười, đón cái quạt.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "tran_an"
+          },
+          "b": 0.522,
+          "bad": {
+            "x": "Hắn không tin được hết, chỉ gật. Cô đưa nước cho hắn uống.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Trêu: «Ngữ văn thì để em dạy lại cho anh»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bật cười, mắt cong lên. «Thi xong rồi mà.» «Còn đại học nữa.» Hắn đỏ mặt.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            },
+            "f": "treu_van"
+          },
+          "b": 0.43399999999999994,
+          "bad": {
+            "x": "Hắn cau mày: «Em đừng nhắc nữa.» Hắn đi trước vài bước.",
+            "d": {
+              "hao": -1,
+              "hac": 1
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Cùng hắn đi bộ về dưới tán cây, không bàn gì về bài thi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người đi cạnh nhau, nói về mùa hè, về ông ngoại, về món ăn mình thích. Bài thi trôi vào quên lãng.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "di_bo_ve"
+          },
+          "b": 0.544,
+          "bad": {
+            "x": "Trời nắng gắt, hai người ướt đẫm mồ hôi, nhanh chóng chia tay ở ngã ba.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.52
+        }
+      ],
+      "ctx": "Tháng sáu, trường thi. Nhược Hi và Dịch Trì thi cùng khu và đợi nhau dưới tán cây.",
+      "no": 36
+    },
+    {
+      "id": "h37",
+      "scene": "school",
+      "place": "Sân trường Nhất Trung · Cuối tháng sáu",
+      "kind": "duyen",
+      "title": "Điểm thi và Kinh Đại",
+      "text": "Kết quả được công bố. Cả hai đạt điểm tối đa ở hầu hết các môn, cả trường vỗ tay. Tần Dĩ Hằng vào cùng trường nhưng đã buông tình cảm. Mộng Giai chỉ đỗ một trường cao đẳng. Dịch Trì chọn ngành sinh học, Nhược Hi chọn toán.",
+      "tieu": "Kinh Đại rồi. Cả hai đều đỗ. Giờ cười đi, đừng giấu.",
+      "cast": "unh,udt,udh,umg,tc",
+      "ch": [
+        {
+          "t": "Chạy lại ôm Dịch Trì ngay giữa sân, mặc cả trường nhìn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng chết lặng, rồi vòng tay ôm lại. Cả sân trường cười rộ, vỗ tay. Tai hắn đỏ rực.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "om_san"
+          },
+          "b": 0.45999999999999996,
+          "bad": {
+            "x": "Cô ôm hơi vội, Dịch Trì lùi nửa bước vì bất ngờ. Cả hai đều đỏ mặt rồi cười.",
+            "d": {
+              "hao": 2,
+              "sinh": 0
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Bắt tay hắn thật chặt, nói «cảm ơn vì đã cố gắng»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhìn bàn tay hai người nắm chặt, mắt sáng. «Cảm ơn em.» Cả hai im lặng một lúc lâu.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "bat_tay"
+          },
+          "b": 0.526,
+          "bad": {
+            "x": "Tay hắn ra mồ hôi, cô nắm hụt. Cả hai bật cười.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nhờ thầy Cao chụp một tấm ảnh cho cả hai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thầy Cao chụp lại khoảnh khắc hai người đứng cạnh nhau dưới bảng điểm. Tấm ảnh sau này ở mãi trong ví hắn.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 5
+            },
+            "f": "chup_anh"
+          },
+          "b": 0.504,
+          "bad": {
+            "x": "Thầy Cao chụp lệch khung hình, cả hai nhìn nhau rồi cười. Chụp lại một tấm khác.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Cuối tháng sáu, trường Nhất Trung. Cả hai đạt điểm tối đa, vào Kinh Đại; Dịch Trì chọn sinh học, Nhược Hi chọn toán.",
+      "no": 37
+    },
+    {
+      "id": "h38",
+      "scene": "zbridge",
+      "place": "Kinh Đại · Năm năm sau",
+      "kind": "duyen",
+      "title": "Năm năm",
+      "text": "Tiểu Châu tóm tắt năm năm trôi qua. Nhược Hi học xong đại học, vào học tiến sĩ toán, công thức đầu tiên mang tên cô được công bố. Dịch Trì vừa học sinh học vừa điều hành Hoắc thị, lập phòng thí nghiệm riêng. Hai người vẫn gặp nhau mỗi tuần dù bận.",
+      "tieu": "Năm năm trôi nhanh lắm. Hai người vẫn gặp nhau mỗi tuần, tốt rồi. Giờ chọn cách giữ nhịp cho thật vững.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Giữ lịch hẹn cố định mỗi chiều thứ bảy, dù bận đến đâu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mỗi chiều thứ bảy, cả hai đều có mặt. Thời gian ít, nhưng chưa bao giờ trống.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "lich_hen"
+          },
+          "b": 0.552,
+          "bad": {
+            "x": "Cô bận đề tài, hai lần hủy hẹn. Hắn không trách nhưng im lặng suốt buổi sau đó.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Mang đồ ăn tới phòng thí nghiệm của hắn mỗi khi hắn thức khuya",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn mở hộp cơm, im lặng nhìn rồi thì thầm: «Anh không xứng.» Cô nắm tay hắn: «Anh xứng.»",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5,
+              "sinh": -1
+            },
+            "f": "mang_com"
+          },
+          "b": 0.44199999999999995,
+          "bad": {
+            "x": "Hắn đang họp, bỏ quên hộp cơm đến nguội. Cô mang về, không trách.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Viết thư tay mỗi tuần như hồi cấp ba, dù đã có điện thoại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn giữ từng lá thư trong ngăn kéo. Khi đọc lại, hắn mỉm cười như hồi hai người còn mặc đồng phục.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "thu_tay_tuan"
+          },
+          "b": 0.486,
+          "bad": {
+            "x": "Một lá thư bị thất lạc. Hắn nhắn hỏi, cô viết bù lá khác.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Năm năm sau, Kinh Đại. Nhược Hi vào học tiến sĩ toán, Dịch Trì vừa học sinh học vừa điều hành Hoắc thị; hai người vẫn gặp nhau mỗi tuần.",
+      "no": 38
+    },
+    {
+      "id": "h39",
+      "scene": "ztea",
+      "place": "Cửa hàng kem quen · Chiều thứ bảy",
+      "kind": "chon",
+      "title": "Cửa hàng kem",
+      "text": "Chiều thứ bảy, cửa hàng kem quen, cả hai hai mươi ba tuổi. Hắn hỏi cô thích vị nào, như hồi cấp ba. Cô cười và cầu hôn trước. Hắn đỏ mặt, bảo hắn sẽ tặng món quà quý nhất. Tiểu Châu báo sức khỏe hắn đang xuống vì làm việc quá độ.",
+      "tieu": "Cô cầu hôn rồi đấy, nhưng đừng để vui mà quên sức khỏe hắn. Ép hắn nghỉ hay để hắn tự quyết, mỗi cách có cái giá.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Ép hắn nghỉ hẳn một tuần, cô sẽ trông phòng thí nghiệm giúp",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn cãi ba câu rồi chịu thua. Một tuần hắn ngủ đủ giấc, sắc mặt hồng hơn hẳn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": -1
+            },
+            "f": "ep_nghi"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Hắn đồng ý nhưng lén vào phòng thí nghiệm ban đêm. Cô phát hiện, hai người cãi nhỏ.",
+            "d": {
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Để hắn tự quyết, chỉ nhắc nhẹ khi cần",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn giảm bớt giờ làm, tự lên lịch nghỉ. Cô thở ra, thấy hắn thật sự lớn.",
+            "d": {
+              "ac": -2,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "tu_nghi"
+          },
+          "b": 0.43600000000000005,
+          "bad": {
+            "x": "Hắn gật đầu rồi quên ngay. Mấy ngày sau, hắn mệt đến mức không đứng vững.",
+            "d": {
+              "hac": 2,
+              "hao": 0,
+              "bs": -4,
+              "sinh": -2
+            }
+          },
+          "b0": 0.46
+        },
+        {
+          "t": "Cùng hắn lập lịch nghỉ ngơi và ăn uống hằng tuần",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người ngồi cả buổi lập lịch, chia ô từng giờ. Hắn cười: «Giống thời cấp ba.»",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "lap_lich"
+          },
+          "b": 0.524,
+          "bad": {
+            "x": "Lịch quá chặt, hắn thấy ngộp, nhăn mặt. Cô sửa lại, nhưng mất cả buổi chiều.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Chiều thứ bảy, cửa hàng kem quen. Nhược Hi cầu hôn; hắn hứa tặng món quà quý nhất và Tiểu Châu báo sức khỏe hắn đang xuống.",
+      "setf": "cau_hon",
+      "no": 39
+    },
+    {
+      "id": "h40",
+      "scene": "clinic",
+      "place": "Phòng bệnh · Một năm sau",
+      "kind": "nan",
+      "title": "Lọ làn da tái sinh",
+      "text": "Một năm sau, Dịch Trì ngất vì kiệt sức. Tỉnh dậy trong phòng bệnh, hắn đưa cô một bình dung dịch màu xanh: làn da tái sinh, hắn nghiên cứu suốt nhiều năm để sửa vết sẹo cho cô. Hắn tự trách vì năm đó đã không bảo vệ được cô, giọng khản đặc, tay run. Đây là mốc nặng: hắn đang kéo mình xuống vì cô.",
+      "tieu": "Hắn tự trách mình rất nặng. Ngươi đã nói nhiều lần là ngươi không để ý, hãy nói lại, đừng để hắn tự dằn vặt.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Nắm tay hắn thật chặt: «Em không để ý vết sẹo, em chỉ cần anh khỏe»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn khóc, lần đầu để cô thấy. Cô ôm hắn cho đến khi hắn thôi run. Hắn thì thầm: «Anh sẽ khỏe.»",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 6,
+              "sinh": -2,
+              "bs": 3
+            },
+            "f": "noi_that_long"
+          },
+          "b": 0.46199999999999997,
+          "bad": {
+            "x": "Hắn quay mặt đi, nghẹn lại: «Em nói vậy để anh yên tâm thôi.» Cô vẫn nắm tay hắn cả đêm.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -4
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Bảo hắn đừng làm cô lo, cô cần anh còn ở đó",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe xong thì lặng đi, rồi gật đầu. «Anh xin lỗi.» Cô lắc đầu, dựa vào vai hắn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": -1,
+              "bs": 2
+            },
+            "f": "dung_lam_lo"
+          },
+          "b": 0.528,
+          "bad": {
+            "x": "Hắn nghe nhưng lòng vẫn nặng trĩu. Cô ngồi cạnh giường, canh hắn ngủ.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Ngồi cạnh im lặng, đợi hắn tự nói ra",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nói ra hết những điều giấu từ năm năm trước. Cô nghe từng chữ, không ngắt lời. Hắn thở ra như người đặt gánh.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": -1,
+              "bs": 2
+            },
+            "f": "nghe_het"
+          },
+          "b": 0.44000000000000006,
+          "bad": {
+            "x": "Hắn im lặng tới sáng, mắt đỏ hoe. Cô ngủ gục cạnh giường.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -4
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Một năm sau, phòng bệnh. Dịch Trì ngất vì kiệt sức, đưa cô bình làn da tái sinh và tự trách vì đã không bảo vệ được cô.",
+      "forced": 1,
+      "no": 40
+    },
+    {
+      "id": "h41",
+      "scene": "zwed",
+      "place": "Hội trường · Hôm sau",
+      "kind": "chon",
+      "title": "Lễ cưới",
+      "text": "Hôm sau, hội trường đầy người. Ba mẹ Trình, bạn học cũ, Đại Lực, ông ngoại Dư Chấn Hoa và nhiều người nữa đều tới. Nhược Hi thông báo về lọ dung dịch, rồi tự mình chủ trì hôn lễ cùng hắn. Hai người trao nhẫn. Cô chọn cách đáp lại lọ dung dịch: dùng thử hay giữ nguyên.",
+      "tieu": "Lễ cưới của hai ngươi đấy. Dùng hay không dùng, ngươi quyết, và hắn sẽ tôn trọng.",
+      "cast": "unh,udt,uba,ume,udl,uco,tc",
+      "ch": [
+        {
+          "t": "Nói trước toàn hội trường: «Em giữ nguyên, vì đó là em»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả hội trường lặng đi, rồi vỗ tay vang dội. Hắn nắm chặt tay cô, mắt đỏ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "giu_seo"
+          },
+          "b": 0.494,
+          "bad": {
+            "x": "Cô nói hơi nghẹn, nhưng ai cũng hiểu. Hắn siết tay cô, không nói gì.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 0
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Dùng thử dung dịch ngay, để hắn thấy thành quả của mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Dung dịch ngấm vào da, mát lạnh. Hắn nhìn cô, mắt rưng rưng: «Cảm ơn em.» Cả hội trường lặng đi rồi vỗ tay.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "dung_thu"
+          },
+          "b": 0.44999999999999996,
+          "bad": {
+            "x": "Phản ứng nhẹ làm da cô hơi rát. Hắn hoảng, nhưng cô mỉm cười trấn an.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Cất lọ dung dịch lại, nói để sau lễ cưới sẽ quyết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn gật đầu, không ép. Hai người trao nhẫn, mỉm cười đón tiếng chúc mừng.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "de_sau"
+          },
+          "b": 0.516,
+          "bad": {
+            "x": "Lễ cưới có chút ngập ngừng, khách bàn tán. Cô nắm tay hắn thật chặt để lấy bình tĩnh.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Hôm sau, hội trường. Nhược Hi thông báo về lọ dung dịch, tự mình chủ trì hôn lễ cùng Dịch Trì; hai người trao nhẫn.",
+      "no": 41
+    },
+    {
+      "id": "h42",
+      "scene": "zgarden",
+      "place": "Sau lễ cưới · Chiều muộn",
+      "kind": "nan",
+      "title": "Lời kết",
+      "text": "Tiểu Châu tóm tắt những gì xảy ra sau lễ cưới. Dịch Trì ở bên cô, dù sức khỏe có lúc lên lúc xuống, và hắn học cách nghỉ ngơi đúng giờ. Mỗi chiều thứ bảy, hai người ra cửa hàng kem quen. Câu chuyện không kết bằng một cái chết, chỉ kết bằng việc hai người cùng đi tiếp. Kết cục thế nào, các con số của cô sẽ nói.",
+      "tieu": "Đây là mốc cuối. Ngươi đã đi cùng hắn rất xa. Hắn ra sao, các con số sẽ trả lời.",
+      "cast": "unh,udt,tc",
+      "ch": [
+        {
+          "t": "Gọi tên hắn khẽ, đưa tay ra",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn quay lại, nắm lấy tay cô. Không cần nói gì thêm. Chiều muộn chảy chậm lại.",
+            "d": {
+              "ac": -5,
+              "hac": -5,
+              "hao": 6,
+              "sinh": -2
+            },
+            "f": "goi_ten"
+          },
+          "b": 0.548,
+          "bad": {
+            "x": "Cô gọi nhỏ quá, hắn không nghe. Cô chạy tới nắm tay hắn, cười.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -3
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Ngồi cạnh hắn, kể lại từng mốc hai người đã đi qua",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô kể, hắn nghe, thỉnh thoảng sửa lại một chi tiết. Hai người cười nhiều hơn khóc.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": -1
+            },
+            "f": "ke_lai"
+          },
+          "b": 0.504,
+          "bad": {
+            "x": "Cô quên một chi tiết, hắn nhắc lại. Cả hai bật cười, hơi ngượng.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đợi hắn tự bước đến bên cạnh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bước đến lúc hoàng hôn, ngồi xuống cạnh cô. «Anh ở đây rồi.»",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 6,
+              "sinh": -1
+            },
+            "f": "cho_dt"
+          },
+          "b": 0.43799999999999994,
+          "bad": {
+            "x": "Hắn chưa đến khi trời tối. Cô ngồi một mình, lòng không yên.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -4
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Sau lễ cưới, chiều muộn. Tiểu Châu tóm tắt: hai người cùng đi tiếp; không có cái chết.",
+      "no": 42
+    }
+  ]
+}

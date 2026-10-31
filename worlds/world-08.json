@@ -1,0 +1,3447 @@
+{
+  "id": "w8",
+  "no": 8,
+  "chapEnd": [
+    9,
+    18,
+    26,
+    34,
+    42
+  ],
+  "prog": [
+    {
+      "ac": 0,
+      "hac": 0,
+      "hao": 0
+    },
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": 0,
+  "p0": {
+    "mi": 60,
+    "tri": 58,
+    "van": 52
+  },
+  "params": {
+    "ac": 1.3,
+    "hac": 1.8,
+    "hao": 1.1,
+    "bad": 3.2,
+    "h0": 70,
+    "tt": 1
+  },
+  "names": {
+    "yn": "Giang Thanh Nghi",
+    "ym": "Tạ Chiêu Minh",
+    "yu": "Văn Uyển Như",
+    "yv": "Tạ Thừa Vĩ",
+    "yh": "Văn Nhược Hi",
+    "yi": "Tiểu Mễ",
+    "yp": "Đàm Thụy Phong",
+    "yf": "Tiểu Trình",
+    "yg": "Giả Hồng Văn",
+    "yd": "Sở Dịch Hiên",
+    "yc": "Chương Duệ Thiên",
+    "yk": "Quản Kiêu",
+    "ye": "Đường Mạn Nghê",
+    "yb": "Giản Ngạn",
+    "yw": "Giám đốc Vạn",
+    "yt": "Bùi Thanh Vân",
+    "yj": "Khúc Giai Nguyệt",
+    "yl": "Tiểu Lộ",
+    "yz": "Thiên Hân",
+    "yo": "Tạ Chấn Hồng",
+    "yh2": "Chú Hòa"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 8 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh là hình vẽ tạm bằng mã.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Ánh đèn không cần khán giả",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Tạ Chiêu Minh đã về không. Chiếc xe tải chỉ còn là tin trong báo cũ, Quản Kiêu và Thừa Vĩ phải đứng trước pháp luật. Hôm cưới, anh nắm tay cô bước qua sảnh dưới nắng, không còn nhìn quanh tìm lối thoát. Nhiều năm sau, hai người vẫn sống trong căn nhà ven sông; cô vẫn nấu cháo mỗi khi anh quên ăn, còn anh vẫn đọc kịch bản trên ghế cạnh bếp.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "ywed"
+    },
+    "near": {
+      "n": "Một vệt đèn đỏ cuối cánh gà",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người cưới trong một buổi sáng yên ổn. Anh không còn muốn trả thù ai, nhưng thỉnh thoảng đêm khuya vẫn tỉnh dậy vì những giấc mơ cũ, và cô vẫn ngồi bên cạnh cho đến sáng. Vết đỏ trong mắt anh nhạt dần theo từng mùa; cô biết rồi nó sẽ tan.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "ysea"
+    },
+    "half": {
+      "n": "Hai người, một cánh gà",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Họ vẫn cưới và vẫn cùng nhau làm phim, nhưng mối hận với nhà họ Tạ chưa được gỡ hết. Anh vẫn lạnh với Uyển Như, vẫn giữ khoảng cách với cha, và cô vẫn đứng cạnh anh những lúc anh im lặng. Hai người đi cùng nhau, dù con đường còn dài.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "ywed"
+    },
+    "black": {
+      "n": "Đèn tắt giữa buổi lễ",
+      "c": "Hắc hóa chạm 100. Anh không còn nghe thấy tên mình, không còn nghe thấy lời cô. Sảnh lễ vắng lặng, đèn sân khấu tắt từng ngọn. Tiểu Châu kéo cô đi trước khi cánh cửa sảnh khép lại sau lưng.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "ystage"
+    },
+    "bdead": {
+      "n": "Chiếc nhẫn trong lòng bàn tay",
+      "c": "Sinh mệnh của Tạ Chiêu Minh về 0. Trên nền sảnh cưới lạnh, chiếc nhẫn nằm trong lòng bàn tay cô, vẫn còn ấm. Cô giữ nó rất lâu, cho đến khi Tiểu Châu khẽ gọi cô về.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "ywed"
+    },
+    "dead": {
+      "n": "Chiếc xe ven sông",
+      "c": "Sinh mệnh cạn kiệt. Giữa tiếng còi và ánh đèn pha trên con đường ven sông, cô nhìn lại sảnh cưới ở cuối đường lần cuối. Tiểu Châu kéo linh hồn cô đi, khi ở đâu đó Chiêu Minh vẫn đang chờ trong bộ vest cưới, tay nắm chặt một chiếc nhẫn.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "yroad"
+    }
+  },
+  "events": [
+    {
+      "id": "y01",
+      "scene": "ysmall",
+      "place": "Phòng trọ của Thanh Nghi · Đêm khuya",
+      "kind": "nan",
+      "title": "Ngất giữa buổi livestream",
+      "text": "Ba đêm liền Thanh Nghi bật livestream bán đồ cũ để gom tiền mua tấm vé buổi gặp fan của Tạ Chiêu Minh. Đêm thứ ba, cô chưa ăn gì từ sáng, tay lạnh toát, đầu quay cuồng. Khung bình luận chạy liên tục: «chị ơi, chị ổn không?». Màn hình nhòe đi. Trước khi ngã xuống, một giọng nói trong vắt vang lên ngay trong đầu cô: «Đừng ngất ở đây! Đây là hạ đường huyết, làm theo ta!»",
+      "tieu": "Này, đừng ngất! Ngươi bỏ bữa cả ngày rồi đúng không? Kê chân lên, uống nước đường, nhanh lên... Ta là Tiểu Châu, tí nữa ta giải thích.",
+      "cast": "yn,tc",
+      "ch": [
+        {
+          "t": "Nằm xuống kê chân cao, pha cốc nước đường uống từng ngụm nhỏ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nằm xuống, kê chân lên gối, pha cốc nước đường rồi uống chậm. Vài phút sau mắt sáng lại, tay bớt run.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô vội đứng dậy đi pha nước nên ngã quỵ ngay cạnh bàn. Mãi mới bò đến được cốc đường.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Tắt livestream rồi gọi chị hàng xóm sang",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chị hàng xóm sang kịp lúc, đỡ cô ngồi dậy và nấu cho cô một bát mì nóng.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Chị hàng xóm đi vắng. Cô chờ hơn nửa tiếng mới đỡ choáng.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Gắng livestream thêm vài phút cho đủ giờ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô gượng cười, đọc nốt đơn hàng. Người xem thương mà đặt thêm mấy món, nhưng cô ngã xuống ngay sau khi tắt máy.",
+            "d": {
+              "sinh": -2,
+              "tt": 3
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Cô nói lắp giữa chừng, người xem nhắn tin hỏi dồn. Một clip ngắt khung hình lan ra trước khi cô kịp tắt.",
+            "d": {
+              "sinh": -6,
+              "tt": 8
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm khuya, phòng trọ chật của Giang Thanh Nghi, 20 tuổi, hotgirl mạng bị gọi là «fan cuồng» của ảnh đế Tạ Chiêu Minh. Cô vừa livestream ba đêm liền không ăn uống.",
+      "learn": {
+        "n": "Sơ cứu cơ bản",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 1
+    },
+    {
+      "id": "y02",
+      "scene": "ysmall",
+      "place": "Phòng trọ · Rạng sáng",
+      "kind": "duyen",
+      "title": "Tiểu Châu giao nhiệm vụ",
+      "text": "Tỉnh dậy trên sàn nhà lạnh, Thanh Nghi thấy một quả cầu ngọc xanh trong suốt lơ lửng cạnh cửa sổ. Tiểu Châu giải thích: thân thể này là của một cô gái mê Tạ Chiêu Minh đến mức khắp mạng gọi là fan cuồng. Chiêu Minh năm nay 25 tuổi, là ảnh đế, Ác niệm 100. Mẹ ruột anh là bà Lan Chi mất sớm; cha là Tạ Chấn Hồng, chủ tịch một tập đoàn lớn; mẹ kế là Văn Uyển Như; anh kế Tạ Thừa Vĩ lớn hơn anh một tháng; em gái nuôi là Văn Nhược Hi. Nhiệm vụ của cô là cảm hóa anh trước khi hận thù nuốt chửng anh.",
+      "tieu": "Zzz... Nhớ cho kỹ nhà họ Tạ. Mẹ kế, anh kế, em nuôi: từng người một có lý do để làm khó hắn, và cả cô nữa. Hỏi gì ta trả lời nấy.",
+      "cast": "yn,tc",
+      "ch": [
+        {
+          "t": "Hỏi kỹ về từng người trong nhà họ Tạ và lý do họ làm khó hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi nhớ từng người trong nhà họ Tạ và vì sao Văn Uyển Như, Thừa Vĩ sợ mất chỗ đứng. Cô thấy bức tranh rõ hơn nhiều.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_gd"
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô nhớ nhầm tên hai người. Tiểu Châu phải nhắc lại hai lần cho đến khi cô nhớ đúng.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Hỏi vì sao Ác niệm của hắn lại cao đến 100",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Châu kể: hắn mất mẹ từ nhỏ, rồi bị ép nhường mọi thứ trong nhà. Cô nghe xong chỉ im lặng rất lâu.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_gd"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Tiểu Châu nói dài mà cô nghe không kịp. Cô chỉ nhớ lờ mờ.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Mở lại trang mạng của hắn để xem lịch trình tuần tới",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lướt thấy lịch ra mắt phim mới «Phong Vân Lục» của hắn và thông báo tuyển vai phụ ở công ty Hoa Diệu.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_lich"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Trang mạng treo, cô mất cả buổi sáng mà không đọc được gì ra hồn.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Rạng sáng hôm sau, phòng trọ. Tiểu Châu mở đầu nhiệm vụ: Tạ Chiêu Minh, 25 tuổi, ảnh đế, Ác niệm 100, là người Thanh Nghi phải cảm hóa.",
+      "no": 2
+    },
+    {
+      "id": "y03",
+      "scene": "ydesk",
+      "place": "Mạn Mạn, tài khoản của Thanh Nghi · Sáng",
+      "kind": "chon",
+      "title": "Dọn lại tài khoản",
+      "text": "Cô mở tài khoản Mạn Mạn của mình: hơn hai triệu người theo dõi, hàng nghìn bài đăng toàn lời cuồng nhiệt về Chiêu Minh. Dưới mỗi bài đều có anti-fan đang đào bới và mỉa mai. Tiểu Châu nhắc: danh tiếng của cô bây giờ là một cái bẫy, muốn được đến gần hắn thì phải gỡ nó ra trước, không thì hắn sẽ coi cô như mọi fan khác.",
+      "tieu": "Hai triệu người theo dõi mà toàn là «chị gái điên vì ảnh đế»... Dọn đi, nhưng đừng làm họ giận. Họ vẫn là khán giả của ngươi.",
+      "cast": "yn,tc",
+      "ch": [
+        {
+          "t": "Xóa các bài cuồng nhiệt nhất, đăng lời xin lỗi thật lòng với người theo dõi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bài xin lỗi của cô chân thành, nhiều người xem thấy dễ chịu. Lượng anti-fan giảm hẳn, vài người cũ nhắn tin động viên.",
+            "d": {
+              "tt": -8
+            },
+            "f": "fan_tin"
+          },
+          "b": 0.69,
+          "bad": {
+            "x": "Lời xin lỗi bị cắt thành ảnh chụp màn hình rồi mỉa mai khắp nơi. Cô đọc đến nửa đêm mà không dám trả lời.",
+            "d": {
+              "tt": 6,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Giữ nguyên bài cũ, ghim một bài giới thiệu bản thân mới và nghiêm túc hơn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bài ghim mới giới thiệu một Thanh Nghi biết nghĩ hơn. Người mới vào đọc đều thấy cô không còn quá khích.",
+            "d": {
+              "tt": -4
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Bài ghim lạc điệu, bị mỉa là «đổi giọng cho đẹp». Cô mất cả buổi sửa lại.",
+            "d": {
+              "tt": 4,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Đóng tài khoản vài ngày cho mọi chuyện nguội đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tài khoản im lìm, tin đồn giảm đi nhưng người theo dõi cũng nguội dần, cô mất đi một phần chỗ dựa trên mạng.",
+            "d": {
+              "tt": 2
+            },
+            "f": "an_mang"
+          },
+          "b": 0.57,
+          "bad": {
+            "x": "Tài khoản đóng lại, anti-fan tưởng cô trốn nên lôi hết ảnh cũ ra bàn tán.",
+            "d": {
+              "tt": 7,
+              "sinh": -3
+            },
+            "f": "an_mang"
+          }
+        }
+      ],
+      "ctx": "Buổi sáng sau đêm ngất, Mạn Mạn, mạng xã hội quen thuộc của Thanh Nghi. Cô thấy tên mình đã gắn liền với hai chữ «fan cuồng» và muốn gỡ dần.",
+      "no": 3
+    },
+    {
+      "id": "y04",
+      "scene": "ycafe",
+      "place": "Quán cà phê gần phòng trọ · Chiều",
+      "kind": "duyen",
+      "title": "Đàm Thụy Phong tìm đến",
+      "text": "Một người đàn ông ngoài ba mươi, áo sơ mi nhàu, tự giới thiệu là Đàm Thụy Phong, người đại diện của công ty giải trí nhỏ Hoa Diệu Entertainment. Anh đã xem clip cô livestream và thấy cô không giả tạo. Đi cùng anh là Tiểu Mễ, cô gái trẻ làm trợ lý, từng là fan của Thanh Nghi. Thụy Phong thẳng thắn: Hoa Diệu đang thiếu người, đang có nợ, nhưng có một vai phụ trong phim «Phong Vân Lục» mà anh nghĩ cô hợp. Nam chính phim chính là Tạ Chiêu Minh.",
+      "tieu": "Là Phong Vân Lục! Phim của hắn đấy! Người này tên Đàm Thụy Phong, nghèo nhưng có vẻ thật. Cô gái kia là Tiểu Mễ. Hỏi cho kỹ, đừng gật đầu liền.",
+      "cast": "yn,yp,yi",
+      "ch": [
+        {
+          "t": "Hỏi thẳng về khoản nợ của công ty và ai đang cho vay",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thụy Phong ngập ngừng rồi nói thật: Hoa Diệu vay quỹ Kiêu Thịnh của một người tên Quản Kiêu để xoay vốn. Cô ghi nhớ cái tên đó.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "biet_no"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Thụy Phong gạt đi, nói chuyện nợ nần để sau. Cô chỉ biết công ty đang khó khăn.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Trò chuyện thân thiện với Tiểu Mễ, hỏi vì sao cô ấy làm ở đây",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Mễ cười ngượng và kể từng theo dõi Thanh Nghi từ lúc cô còn bán hàng nhỏ. Từ đó Tiểu Mễ coi cô là người đáng tin.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "tmi_tin"
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Tiểu Mễ rụt rè, trả lời qua loa. Cuộc nói chuyện trôi qua nhạt nhẽo.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Từ chối khéo, hẹn gặp lại sau khi cô xem kỹ công ty",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thụy Phong không giận, chỉ gật đầu và để lại danh thiếp. Cô có thêm thời gian cân nhắc.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô vừa từ chối thì Tiểu Mễ cúi mặt thở dài, Thụy Phong trông mệt đi hẳn. Cô thấy mình hơi tệ.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều hôm sau, quán cà phê gần phòng trọ. Đàm Thụy Phong, người đại diện của Hoa Diệu Entertainment, mang theo trợ lý Tiểu Mễ đến mời cô nhận vai phụ trong «Phong Vân Lục».",
+      "no": 4
+    },
+    {
+      "id": "y05",
+      "scene": "yoffice",
+      "place": "Văn phòng Hoa Diệu · Tuần sau",
+      "kind": "chon",
+      "title": "Đọc hợp đồng đầu tiên",
+      "text": "Văn phòng Hoa Diệu chỉ có hai gian, ghế cũ, nhưng bản hợp đồng thì dày. Thanh Nghi đọc từng trang và thấy một điều khoản phạt khổng lồ nếu cô bỏ vai giữa chừng. Phụ lục cuối ghi rằng khoản vay của công ty được bảo lãnh bởi quỹ Kiêu Thịnh, chủ quỹ là Quản Kiêu. Thụy Phong gãi đầu: «Anh chưa kịp rà kỹ. Cô thấy chỗ nào lạ cứ nói.»",
+      "tieu": "Kẻ nào nhét điều khoản phạt to thế vào một vai phụ thì chắc chắn có lý do. Đọc kỹ, gạch chỗ lạ, đừng ký liều.",
+      "cast": "yn,yp,yi",
+      "ch": [
+        {
+          "t": "Gạch đỏ điều khoản phạt và yêu cầu sửa trước khi ký",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô gạch đỏ điều khoản phạt và chỉ ra chỗ mập mờ trong phụ lục. Thụy Phong sững người rồi sửa lại ngay. Cô cũng chụp lại phụ lục có tên Quản Kiêu.",
+            "d": {
+              "sinh": 1,
+              "ct": 1
+            },
+            "f": "hd_sua,biet_kieu"
+          },
+          "b": 0.66,
+          "bad": {
+            "x": "Cô đọc sót một dòng, gạch lệch chỗ. Thụy Phong sửa theo nhưng điều khoản chính vẫn còn nguyên.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "biet_kieu"
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Mễ cùng đọc lại từng trang",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Mễ phát hiện giùm vài chỗ mơ hồ, hai người đánh dấu để hỏi Thụy Phong. Cô có thêm một người đồng hành.",
+            "d": {
+              "sinh": 1,
+              "ct": 1
+            },
+            "f": "biet_kieu"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hai người đọc mãi vẫn không rút được ý chính, đành hẹn lại hôm sau.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "biet_kieu"
+          }
+        },
+        {
+          "t": "Ký luôn vì cần việc gấp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ký ngay, đỡ được thời gian. Thụy Phong mừng rỡ, nhưng điều khoản phạt vẫn nằm đó, chưa ai xử lý.",
+            "d": {
+              "sinh": 0
+            },
+            "f": "ky_voi,biet_kieu"
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Ký xong cô mới thấy bản hợp đồng thiếu mấy trang. Thụy Phong phải đi in lại.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "ky_voi,biet_kieu"
+          }
+        }
+      ],
+      "ctx": "Một tuần sau, văn phòng Hoa Diệu. Thanh Nghi sắp ký hợp đồng nhận vai phụ trong «Phong Vân Lục». Phụ lục ghi khoản vay của công ty bảo lãnh bởi quỹ Kiêu Thịnh.",
+      "learn": {
+        "n": "Đọc hợp đồng",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 5
+    },
+    {
+      "id": "y06",
+      "scene": "ystudio",
+      "place": "Phòng thử vai «Phong Vân Lục» · Sáng",
+      "kind": "hiem",
+      "title": "Thử vai trước đạo diễn",
+      "text": "Đạo diễn Giả Hồng Văn ngồi giữa phòng, đeo kính dày, nổi tiếng khó tính và ghét người diễn «quá lố». Cùng thử vai hôm nay còn có Đường Mạn Nghê, một sao nữ hạng ba đang cần vai này để được diễn chung với Chiêu Minh. Cô ta liếc Thanh Nghi, nói đủ nhỏ để cô nghe: «Fan cuồng mà cũng đòi diễn?» Tiểu Châu thì thào: ngoài đời người ta ghét cô thế nào, hôm nay phải để họ thấy cô diễn thế nào.",
+      "tieu": "Đường Mạn Nghê là người cô ta ghen với ngươi vì cũng muốn vai này. Đừng đáp lại bằng lời. Đáp bằng vai diễn.",
+      "cast": "yn,yg,ye",
+      "ch": [
+        {
+          "t": "Học thuộc thoại từ tối hôm trước, giữ nhịp thở đều khi diễn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô diễn gọn, nhịp thở đều, ánh mắt không lố. Giả Hồng Văn gõ bút lên bàn một cái, nghĩa là ông ta chấp nhận.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Cô quên một câu thoại giữa chừng và phải xin diễn lại. Hồng Văn nhíu mày nhưng vẫn cho cô diễn nốt.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Diễn cảm xúc thật, nhìn thẳng vào đạo diễn ở đoạn cao trào",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ánh mắt cô khiến cả phòng im lặng. Hồng Văn khẽ cười, ghi chú gì đó vào sổ.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô diễn quá đà ở đoạn cao trào. Mạn Nghê che miệng cười, Hồng Văn lắc đầu nhẹ.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhường Mạn Nghê diễn trước để xem cách ông ta làm việc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô quan sát được ông ta ghét người nói nhiều thoại thừa. Đến lượt mình, cô cắt bớt hai câu và diễn nhanh gọn hơn.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Mạn Nghê diễn rất khéo. Đến lượt cô thì ông ta đã mệt, không còn kiên nhẫn.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng thứ Hai, phòng thử vai «Phong Vân Lục». Đạo diễn Giả Hồng Văn chọn người cho vai phụ; Đường Mạn Nghê cũng đi thử vai này và coi Thanh Nghi là đối thủ.",
+      "learn": {
+        "n": "Diễn xuất cơ bản",
+        "s": "mi",
+        "v": 2
+      },
+      "no": 6
+    },
+    {
+      "id": "y07",
+      "scene": "ylobby",
+      "place": "Hành lang Hoa Diệu · Chiều",
+      "kind": "hiem",
+      "title": "Lần đầu chạm mặt Chiêu Minh",
+      "text": "Thanh Nghi vừa ra khỏi phòng họp thì cánh cửa cuối hành lang mở ra. Tạ Chiêu Minh bước ra, cao, gầy, áo đen, ánh mắt như đã mệt từ lâu. Phía sau là Tiểu Trình, trợ lý của anh, tay ôm xấp hồ sơ. Anh liếc cô một cái, giọng bình thản: «Cô cũng muốn chụp ảnh? Mười giây.» Cô nhìn thấy bàn tay anh siết nhẹ vào tay cầm cốc cà phê, đã nguội từ lâu.",
+      "tieu": "Là hắn kìa! Tạ Chiêu Minh. Ác niệm 100. Người đi sau là Tiểu Trình, trợ lý của hắn. Đừng xin chữ ký, đừng chụp ảnh. Hắn nhìn ngươi như nhìn mọi fan khác.",
+      "cast": "yn,ym,yf",
+      "ch": [
+        {
+          "t": "Chào hỏi lịch sự rồi đi tiếp, không bám theo",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô cúi chào, mỉm cười nhẹ và đi thẳng. Anh nhìn theo bóng cô một giây, thoáng nhíu mày vì bất ngờ.",
+            "d": {
+              "hao": 2,
+              "ac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô vấp nhẹ ở góc hành lang khi đi. Anh quay đi không nói gì.",
+            "d": {
+              "hao": -1,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Nhìn thẳng vào anh, hỏi anh đã ăn trưa chưa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Câu hỏi bất ngờ làm anh khựng lại. Tiểu Trình há miệng. Anh quay đi, nhưng bước chân chậm lại một nhịp.",
+            "d": {
+              "hao": 4,
+              "ac": -2
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Anh nhìn cô lạnh như băng: «Tôi không cần ai quan tâm.» Hành lang im phăng phắc.",
+            "d": {
+              "hao": -3,
+              "hac": 2,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Xin chữ ký như bao fan khác cho nhanh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh ký chữ ký quen tay rồi đưa lại, không ngẩng đầu. Cô nhận ra mình vừa trở lại thành một người hâm mộ bình thường trong mắt anh.",
+            "d": {
+              "hao": -1,
+              "hac": 3,
+              "ac": 2
+            }
+          },
+          "b": 0.62,
+          "bad": {
+            "x": "Anh liếc tờ giấy rồi trả lại không ký. «Tôi không ký cho người bám theo.»",
+            "d": {
+              "hao": -3,
+              "hac": 4,
+              "ac": 2,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều cùng ngày, hành lang Hoa Diệu. Thanh Nghi bất ngờ đứng đối diện Tạ Chiêu Minh, người cô đã được Tiểu Châu giao nhiệm vụ cảm hóa. Anh đi cùng trợ lý Tiểu Trình.",
+      "no": 7
+    },
+    {
+      "id": "y08",
+      "scene": "ydesk",
+      "place": "Nhóm chat người hâm mộ lý trí · Tối",
+      "kind": "duyen",
+      "title": "Tiểu Lộ nhắn tin",
+      "text": "Tối đó điện thoại cô sáng lên bởi một tin nhắn từ Tiểu Lộ, nhóm trưởng một hội fan lý trí của Chiêu Minh, chuyên chống tin đồn. Tiểu Lộ viết: «Chị không phải kiểu fan phá đám. Tôi từng thấy chị livestream. Tôi nhắn để cảnh báo: Đường Mạn Nghê có hội fan riêng hay đi bêu xấu, còn nhà đầu tư Chương Duệ Thiên thì nổi tiếng mời các cô gái trẻ đi ăn rồi hứa vai. Cẩn thận.» Tiểu Châu bảo đây là đồng minh đầu tiên của cô.",
+      "tieu": "Có người chịu nhắn thế này là hiếm lắm. Giữ liên lạc với cô ấy. Và ghi nhớ hai cái tên kia.",
+      "cast": "yn,yl,tc",
+      "ch": [
+        {
+          "t": "Cảm ơn Tiểu Lộ và hỏi cô ấy biết gì thêm về Mạn Nghê và Duệ Thiên",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Lộ gửi hẳn một tệp ghi chép: cách Mạn Nghê tung tin, những buổi tiệc Duệ Thiên hay mời. Cô thấy nhẹ lòng hơn nhiều.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "tl_tin"
+          },
+          "b": 0.66,
+          "bad": {
+            "x": "Tiểu Lộ vẫn dè dặt, chỉ trả lời vài câu cụt ngủn.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Mời Tiểu Lộ nói chuyện thẳng, kể về mình và lý do cô đã mê Chiêu Minh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người nhắn đến khuya. Tiểu Lộ tin cô thật lòng muốn thay đổi và nhận làm tai mắt giúp cô trong hội.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "tl_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô kể dài mà Tiểu Lộ thấy nặng nề, chỉ đáp bằng một biểu tượng cảm xúc.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Cảm ơn rồi bỏ qua, tập trung vào việc của mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đọc nhưng không phản hồi nhiều. Tiểu Lộ để yên.",
+            "d": {
+              "sinh": 0
+            }
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Cô lỡ tay xóa tin nhắn. Tiểu Lộ tưởng cô không quan tâm và rút lui.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Tối cùng ngày, phòng trọ. Tiểu Lộ, nhóm trưởng một hội fan lý trí của Tạ Chiêu Minh, nhắn tin cảnh báo Thanh Nghi về Đường Mạn Nghê và nhà đầu tư Chương Duệ Thiên.",
+      "no": 8
+    },
+    {
+      "id": "y09",
+      "scene": "ydesk",
+      "place": "Nhóm chat diễn viên «Phong Vân Lục» · Ba ngày sau",
+      "kind": "nan",
+      "title": "Mạn Nghê tung tin dùng quan hệ",
+      "text": "Thanh Nghi nhận được vai phụ. Ngay đêm công bố, ảnh chụp màn hình tin nhắn riêng của Hoa Diệu bị ai đó tuồn ra: «Fan cuồng nhờ quan hệ để cướp vai.» Đường Mạn Nghê, với nụ cười ngọt, đăng ngay một dòng: «Chúc mừng em, cố lên nhé» kèm biểu tượng buồn. Cư dân mạng bắt đầu xì xào. Tiểu Mễ hoảng, Thụy Phong gọi liên tục. Cô là người duy nhất được quyết định nên trả lời thế nào.",
+      "tieu": "Mạn Nghê muốn vai này, và cô ta vừa tung đòn đầu tiên. Đừng cãi lại ở chỗ đông người. Đưa ra thứ mà không ai cãi được.",
+      "cast": "yn,ye,yi",
+      "ch": [
+        {
+          "t": "Đăng lịch sử thử vai và lời giám khảo, để mọi người tự đánh giá",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô công khai lịch thử vai, kèm lời nhận xét ngắn của Giả Hồng Văn. Tin đồn tắt dần, nhiều người quay sang ủng hộ.",
+            "d": {
+              "tt": -6,
+              "sinh": 1
+            }
+          },
+          "b": 0.59,
+          "bad": {
+            "x": "Cô đăng thiếu một mốc thời gian, bị chỉ trích là cắt xén. Tin đồn nóng thêm.",
+            "d": {
+              "tt": 6,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Thụy Phong và đạo diễn phát biểu chính thức thay cô",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hồng Văn chỉ nói một câu: «Tôi chọn người, không chọn tên.» Mạng im phăng phắc.",
+            "d": {
+              "tt": -5,
+              "sinh": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hồng Văn từ chối bình luận, nói đó là chuyện nội bộ. Tin đồn kéo dài thêm vài ngày.",
+            "d": {
+              "tt": 4,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Im lặng chờ qua cơn bão, chỉ nhắn riêng cho Mạn Nghê",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô không phản ứng gì, Mạn Nghê đắc ý đăng thêm vài bài. Tin đồn nhạt dần nhưng vết xấu vẫn bám.",
+            "d": {
+              "tt": 3
+            },
+            "f": "mn_lan"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nhắn riêng, Mạn Nghê chụp màn hình đăng lên làm bằng chứng cô «đe dọa». Tin đồn bùng lại.",
+            "d": {
+              "tt": 9,
+              "sinh": -4
+            },
+            "f": "mn_lan"
+          }
+        }
+      ],
+      "ctx": "Ba ngày sau buổi thử vai. Thanh Nghi vừa nhận vai phụ trong «Phong Vân Lục», và tin nhắn nội bộ của Hoa Diệu bị tuồn ra mạng. Đường Mạn Nghê là người được lợi nhất.",
+      "no": 9
+    },
+    {
+      "id": "y10",
+      "scene": "ystudio",
+      "place": "Phim trường «Phong Vân Lục» · Ngày khởi quay",
+      "kind": "duyen",
+      "title": "Luật của nam chính",
+      "text": "Phim trường sáng sớm ồn ào như hội chợ. Tiểu Trình đến đưa cho Thanh Nghi một tờ giấy nhỏ: ba quy tắc của Chiêu Minh, không chạm vào người anh, không xin ảnh, không bắt chuyện ngoài cảnh quay. Tiểu Trình nói nhỏ: «Anh ấy không ghét cô. Anh ấy chỉ đã bị nhiều người lợi dụng.» Từ xa, Chiêu Minh đang đọc kịch bản, không ngẩng đầu. Cô nhận ra mình có thể làm việc cùng anh, nếu biết giữ đúng khoảng cách.",
+      "tieu": "Tuân thủ ba luật đó, và tìm cách khiến hắn tin rằng ngươi khác với những người trước. Đừng vội.",
+      "cast": "yn,ym,yf",
+      "ch": [
+        {
+          "t": "Giữ đúng luật, chỉ gật đầu chào mỗi khi gặp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô giữ đúng ba luật suốt cả ngày. Cuối buổi anh liếc nhìn cô một lần, thoáng ngạc nhiên vì cô không làm phiền.",
+            "d": {
+              "hao": 3,
+              "ac": -1
+            }
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Cô quên không dặn bạn diễn tránh xa anh. Một bạn diễn bám sát anh khiến anh quát lên và cả phim trường nhìn về phía cô.",
+            "d": {
+              "hao": -1,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Trình chuyển ly trà gừng ấm, không ghi tên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh uống hết ly trà rồi hỏi Tiểu Trình ai đưa. Tiểu Trình chỉ cười. Từ hôm đó anh bắt đầu để ý cô.",
+            "d": {
+              "hao": 4,
+              "ac": -2
+            },
+            "f": "tr_tin"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Ly trà nguội trước khi đến tay anh. Anh đẩy sang một bên mà không hỏi gì.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            },
+            "f": "tr_tin"
+          }
+        },
+        {
+          "t": "Nhân giờ nghỉ, hỏi anh một câu về cảnh quay sắp tới",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhìn cô lâu, rồi trả lời đúng ba câu về động cơ nhân vật. Cô nhận ra anh nói về kịch bản thì không còn lạnh như ngoài đời.",
+            "d": {
+              "hao": 5,
+              "ac": -3
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Câu hỏi của cô lệch trọng tâm. Anh nói «Đọc lại kịch bản» rồi quay đi.",
+            "d": {
+              "hao": -2,
+              "hac": 1,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng khởi quay «Phong Vân Lục», phim trường ngoại thành. Thanh Nghi lần đầu làm việc chung đoàn với Tạ Chiêu Minh. Trợ lý Tiểu Trình đưa cô ba quy tắc của anh.",
+      "no": 10
+    },
+    {
+      "id": "y11",
+      "scene": "yroom",
+      "place": "Phòng nghỉ nam chính · Giữa trưa",
+      "kind": "hiem",
+      "title": "Bữa cơm của mẹ kế",
+      "text": "Giữa giờ nghỉ, một chiếc xe đỗ trước phim trường. Người phụ nữ ăn mặc sang trọng bước xuống: Văn Uyển Như, mẹ kế của Chiêu Minh. Cô gái trẻ đi cùng cầm hộp cơm là Văn Nhược Hi, em gái nuôi. Uyển Như cười rất dịu: «Con trai, mẹ mang cơm cho con.» Chiêu Minh đứng im như bị đóng băng, tay siết chặt vào lưng ghế. Thanh Nghi, đang ngồi gần, nhìn rõ nỗi sợ trong mắt anh. Bà ta chỉ ở lại mười phút, nhưng đủ để anh không chạm đến suất cơm ấy.",
+      "tieu": "Văn Uyển Như, mẹ kế của hắn. Bà ta nhìn thế thôi chứ không thương hắn đâu. Bà muốn con ruột là Thừa Vĩ nối nghiệp. Đừng để bà ta thấy ngươi gần hắn.",
+      "cast": "yn,ym,yu,yh",
+      "ch": [
+        {
+          "t": "Đứng ngoài quan sát, ghi nhớ lời nói và thái độ của hai người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi nhận cách Uyển Như hỏi thăm toàn những chuyện hợp đồng và tài sản, Nhược Hi thì chỉ cười. Cô hiểu bà ta đang dò xét.",
+            "d": {
+              "hao": 2,
+              "ac": -1
+            },
+            "f": "thay_uyen"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô nhìn chăm chú quá nên Nhược Hi để ý. Cô đành cúi xuống làm bộ xem kịch bản.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "thay_uyen"
+          }
+        },
+        {
+          "t": "Nhẹ nhàng chen vào, hỏi Chiêu Minh về cảnh quay để kéo anh ra khỏi cuộc nói chuyện",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh quay sang trả lời cô như được cứu. Uyển Như nhìn cô một giây với ánh mắt lạnh rồi cười.",
+            "d": {
+              "hao": 5,
+              "ac": -3
+            },
+            "f": "thay_uyen"
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Uyển Như lên tiếng trước: «Cô bé này là ai, sao dám nói chen?» Chiêu Minh quay đi.",
+            "d": {
+              "hao": -2,
+              "hac": 2,
+              "sinh": -3
+            },
+            "f": "thay_uyen"
+          }
+        },
+        {
+          "t": "Lặng lẽ ra ngoài cho họ nói chuyện riêng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ra ngoài đứng đợi. Khi bà ta đi, anh nhìn cô một lúc, như cảm ơn vì không hỏi gì.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô ra ngoài nhưng Nhược Hi theo ra, hỏi dồn cô là ai của anh.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Giữa trưa, phòng nghỉ nam chính. Văn Uyển Như, mẹ kế của Chiêu Minh, ghé thăm phim trường cùng Văn Nhược Hi, em gái nuôi. Bà muốn dò xem anh có đang kết thân với ai không.",
+      "bonus": null,
+      "no": 11
+    },
+    {
+      "id": "y12",
+      "scene": "ykitchen",
+      "place": "Bếp nhỏ phim trường · Đêm",
+      "kind": "duyen",
+      "title": "Bát cháo ngoài hành lang",
+      "text": "Quay đến nửa đêm, Chiêu Minh bỏ bữa lần thứ ba trong ngày. Thanh Nghi thấy anh ôm bụng, mặt tái, dựa vào tường trong bếp nhỏ của phim trường. Tiểu Trình đã đi lấy thuốc. Cô nhớ ra mình từng nấu cho mẹ khi bà đau dạ dày. Trong bếp còn gạo, gừng và táo đỏ. Cô tự hỏi: nếu hỏi anh thì anh sẽ từ chối, nhưng nếu để bát cháo ấm đặt đúng chỗ?",
+      "tieu": "Dạ dày hắn có vấn đề rồi. Nấu cháo đi, nhưng đừng bắt hắn ăn. Chỉ cần đặt đúng chỗ.",
+      "cast": "yn,ym,yf",
+      "ch": [
+        {
+          "t": "Nấu cháo gừng táo đỏ nhạt, đặt ngoài hành lang rồi lặng lẽ rời đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hương cháo ấm lan khắp hành lang. Anh nhìn bát cháo rất lâu, rồi ăn hết. Hôm sau anh không nhắc, nhưng Tiểu Trình nói anh hỏi «cháo của ai».",
+            "d": {
+              "hao": 6,
+              "ac": -3,
+              "hac": -1
+            }
+          },
+          "b": 0.59,
+          "bad": {
+            "x": "Cô nêm hơi mặn, anh chỉ nếm hai thìa rồi bỏ lại. Tiểu Trình xoa vai cô an ủi.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Trình đưa cháo, không nói là của cô",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ăn hết, hỏi Tiểu Trình «bếp nào nấu». Tiểu Trình chỉ cười nhẹ.",
+            "d": {
+              "hao": 4,
+              "ac": -2
+            },
+            "f": "tr_tin"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Tiểu Trình lỡ nói là của cô. Anh nhíu mày, đẩy bát ra xa.",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -1
+            },
+            "f": "tr_tin"
+          }
+        },
+        {
+          "t": "Gõ cửa, mời anh nghỉ ngơi và ăn chút gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn cô rất lạ, nhưng nhận bát cháo. Cả hai im lặng ngồi cạnh nhau năm phút.",
+            "d": {
+              "hao": 5,
+              "ac": -2,
+              "sinh": -1
+            }
+          },
+          "b": 0.37,
+          "bad": {
+            "x": "Anh gạt tay: «Tôi đã bảo đừng bắt chuyện.» Cô lùi lại, đỏ mặt.",
+            "d": {
+              "hao": -3,
+              "hac": 2,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Nửa đêm, bếp nhỏ phim trường. Chiêu Minh bỏ bữa nhiều ngày, đau dạ dày. Thanh Nghi nhớ cách nấu cháo dưỡng sinh mà mẹ cô từng dạy.",
+      "learn": {
+        "n": "Nấu ăn dưỡng sinh",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 12
+    },
+    {
+      "id": "y13",
+      "scene": "ylot",
+      "place": "Bãi đỗ xe phim trường · Chiều muộn",
+      "kind": "nan",
+      "title": "Chiếc xe lạ ở bãi đỗ",
+      "text": "Một chiếc xe đen đậu sát cổng phim trường từ sáng. Người đàn ông bước ra là Tạ Thừa Vĩ, anh kế của Chiêu Minh, trưởng phòng đầu tư của tập đoàn nhà họ Tạ, nụ cười điềm đạm, lớn hơn Chiêu Minh đúng một tháng tuổi. Anh ta giả vờ ghé thăm em, nhưng Thanh Nghi nhận ra chiếc xe thứ hai đậu xa hơn: kính phủ đen, một người đàn ông đang chụp lén Chiêu Minh. Biển số cũ, gắn thêm một mảnh dán lạ.",
+      "tieu": "Hắn là Tạ Thừa Vĩ, anh kế. Gương mặt hiền nhưng thuê người theo dõi em mình. Nhớ biển số xe kia, ngươi sẽ cần.",
+      "cast": "yn,yv,ym",
+      "ch": [
+        {
+          "t": "Giả vờ chụp ảnh tự sướng để ghi lại biển số và mảnh dán lạ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chụp đủ góc, ghi lại biển số và đặc điểm mảnh dán. Gã đàn ông không hay biết gì.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "xe_la"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Gã đàn ông nhìn thấy cô giơ điện thoại và bật máy đi mất. Cô chỉ chụp được góc đuôi xe.",
+            "d": {
+              "sinh": -3
+            },
+            "f": "xe_la"
+          }
+        },
+        {
+          "t": "Hỏi thẳng người trong xe vì sao đỗ lâu thế",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Gã giật mình, lái đi vội. Cô kịp thấy biển số và mảnh dán trước khi xe khuất.",
+            "d": {
+              "sinh": -1,
+              "hao": 1
+            },
+            "f": "xe_la"
+          },
+          "b": 0.66,
+          "bad": {
+            "x": "Gã nhìn cô lạnh lùng, bấm còi rồi phóng ra khỏi bãi. Thừa Vĩ quay sang nhìn cô, nụ cười vẫn nguyên.",
+            "d": {
+              "sinh": -4,
+              "tt": 4
+            }
+          }
+        },
+        {
+          "t": "Bỏ qua, quay lại trường quay làm việc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô vào trường quay, làm việc như không có gì. Chuyện chiếc xe lạ trôi qua trong ngày, nhưng cô không còn gì để nhớ lại.",
+            "d": {
+              "sinh": 0
+            },
+            "f": "bo_xe"
+          },
+          "b": 0.62,
+          "bad": {
+            "x": "Cô vào trong thì Thừa Vĩ đã đi, xe lạ cũng biến mất. Không còn gì để chứng minh.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "bo_xe"
+          }
+        }
+      ],
+      "ctx": "Chiều muộn, bãi đỗ xe phim trường. Tạ Thừa Vĩ, anh kế của Chiêu Minh, đến thăm. Anh ta muốn biết em mình có ai là đồng minh mới không.",
+      "no": 13
+    },
+    {
+      "id": "y14",
+      "scene": "ydesk",
+      "place": "Mạn Mạn · Nửa đêm",
+      "kind": "hiem",
+      "title": "Tin đồn bám đại gia",
+      "text": "Tối đó Mạn Mạn nổ tung: một tài khoản ẩn danh đăng ảnh Thanh Nghi bước ra từ văn phòng Hoa Diệu cùng Thụy Phong, chú thích «fan cuồng bám đại gia, đổi thân để lên mặt». Tài khoản phụ đó, qua cách đặt tên, giống hệt phong cách của hội fan Đường Mạn Nghê. Tiểu Mễ gọi cô khóc nức nở. Thụy Phong muốn phản bác ngay bằng một bài dài. Tiểu Châu nhắc: có đúng giờ và đúng cách, một dòng tuyên bố còn mạnh hơn mười bài giải thích.",
+      "tieu": "Đừng chạy theo từng bình luận. Soạn một bản tuyên bố ngắn, có dẫn chứng, đăng đúng lúc người ta đang đọc nhiều nhất.",
+      "cast": "yn,ye,yi",
+      "ch": [
+        {
+          "t": "Soạn tuyên bố ngắn, đính kèm lịch hẹn và hợp đồng, đăng vào giờ cao điểm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tuyên bố gọn, dẫn chứng đủ. Nhiều người chia sẻ lại, tin đồn nguội đi trong hai ngày.",
+            "d": {
+              "tt": -8,
+              "sinh": 1
+            }
+          },
+          "b": 0.66,
+          "bad": {
+            "x": "Cô đăng sai giờ, ít người đọc, tin đồn vẫn tiếp tục lan. Cô phải soạn lại bản thứ hai.",
+            "d": {
+              "tt": 5,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Lộ và hội fan lý trí bình luận bằng chứng thật",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Lộ huy động hội, bình luận có dẫn nguồn ngập dưới bài. Tin đồn đảo chiều.",
+            "d": {
+              "tt": -7,
+              "sinh": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hội fan lý trí dè dặt, chỉ vài người lên tiếng. Cô không được thêm bao nhiêu.",
+            "d": {
+              "tt": 2,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Xóa ảnh, không đáp trả, chờ chuyện qua đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ảnh bị xóa nhưng đã kịp bị sao chép. Tin đồn nhạt dần, nhưng ác ý vẫn lưu lại.",
+            "d": {
+              "tt": 2
+            }
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Ảnh bị xóa làm người ta tin cô có tật giật mình. Tin đồn nóng hơn.",
+            "d": {
+              "tt": 9,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Nửa đêm, Mạn Mạn. Một tài khoản ẩn danh đăng ảnh Thanh Nghi và Thụy Phong để vu cô bám đại gia. Dấu vết cho thấy hội fan của Đường Mạn Nghê đứng sau.",
+      "learn": {
+        "n": "Xử lý khủng hoảng truyền thông",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 14
+    },
+    {
+      "id": "y15",
+      "scene": "ystudio",
+      "place": "Trường quay cảnh đối đầu · Chiều",
+      "kind": "chon",
+      "title": "Giản Ngạn cướp cảnh",
+      "text": "Hôm nay quay cảnh đối đầu giữa nhân vật của Thanh Nghi và kẻ phản diện do Giản Ngạn đóng. Giản Ngạn, nam diễn viên hạng hai, vẫn bực vì bao năm phải đứng sau Chiêu Minh. Anh ta cố tình diễn lố, thêm thoại, ép cô lùi khỏi ống kính. Chiêu Minh ngồi sau màn hình monitor, im lặng quan sát. Đạo diễn Hồng Văn chưa lên tiếng. Cô phải chọn: nhường, hay giữ đúng vị trí của mình?",
+      "tieu": "Giản Ngạn ghen với Chiêu Minh nên mới nhắm vào ngươi. Đừng nhún quá, đừng cãi. Diễn là cách duy nhất.",
+      "cast": "yn,yb,ym,yg",
+      "ch": [
+        {
+          "t": "Giữ đúng kịch bản, để đạo diễn tự điều chỉnh khung hình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô giữ nhịp thoại đúng như đã chuẩn bị. Hồng Văn hô cắt, chỉnh lại góc máy. Giản Ngạn bị nhắc nhở.",
+            "d": {
+              "hao": 3,
+              "ac": -1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Giản Ngạn nói chồng lên thoại của cô. Hồng Văn yêu cầu quay lại, cô tốn thêm hai mươi phút.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Đáp lại bằng ánh mắt, đẩy cảnh lên đúng nhịp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ánh mắt cô khiến Giản Ngạn khựng lại. Cả trường quay im lặng, và đó là cảnh được giữ nguyên trong phim. Chiêu Minh khẽ gật đầu.",
+            "d": {
+              "hao": 5,
+              "ac": -3
+            }
+          },
+          "b": 0.59,
+          "bad": {
+            "x": "Cô bị đẩy lố, cả cảnh trở nên rối. Hồng Văn lắc đầu: «Tắt máy.»",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhường nửa bước để tránh rắc rối với anh ta",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhường khung hình, cảnh quay êm. Nhưng Chiêu Minh nhìn cô thoáng thất vọng.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nhường mà Giản Ngạn vẫn lấn tới. Cô mất luôn một đoạn thoại.",
+            "d": {
+              "hao": -2,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, trường quay cảnh đối đầu. Giản Ngạn, nam diễn viên đóng phản diện, ghen với Chiêu Minh nên cố ép Thanh Nghi mờ nhạt đi trước ống kính.",
+      "no": 15
+    },
+    {
+      "id": "y16",
+      "scene": "ynight",
+      "place": "Trường quay đêm ngoài trời · Đêm",
+      "kind": "nan",
+      "title": "Sợi dây bị cắt",
+      "text": "Đêm quay cảnh treo dây trên vách đá giả. Chiêu Minh sắp nhảy xuống từ độ cao ba mét. Thanh Nghi đứng gần, nhìn kỹ sợi dây và thấy mép dây sờn bất thường, như bị cắt gần hết rồi cố giấu. Cô nhớ chiếc xe lạ ở bãi đỗ hôm trước. Nếu hô dừng mà sai, cô mất vai. Nếu không hô, anh có thể ngã.",
+      "tieu": "Dây có vấn đề! Mép sờn quá đều, nhìn như bị cắt. Hô dừng ngay, rồi nhờ tổ đạo cụ kiểm tra.",
+      "cast": "yn,ym,yg",
+      "ch": [
+        {
+          "t": "Hô dừng cảnh quay và yêu cầu tổ đạo cụ kiểm tra dây ngay",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tổ đạo cụ kiểm tra: dây đã bị cắt hơn nửa. Hồng Văn cho thay dây mới, truy tìm kẻ nào đã chạm vào. Chiêu Minh nhìn cô thật lâu.",
+            "d": {
+              "hao": 6,
+              "ac": -3,
+              "hac": -2,
+              "sinh": -1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô hô dừng nhưng tổ đạo cụ nói cô lo thừa. Chiêu Minh vẫn nhảy xuống, may chỉ trượt nhẹ nhờ cô nắm tay kéo lại.",
+            "d": {
+              "hao": 2,
+              "bs": -5,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chạy tới giữ chân Chiêu Minh, nói rằng cô thấy dây lạ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô một giây rồi tin. Anh ra hiệu cho tổ đạo cụ kiểm tra; sợi dây quả nhiên đã bị cắt.",
+            "d": {
+              "hao": 7,
+              "ac": -3,
+              "hac": -2,
+              "sinh": -2
+            }
+          },
+          "b": 0.59,
+          "bad": {
+            "x": "Anh gạt tay cô ra: «Tôi đã bảo đừng chạm.» Hồng Văn phải ra lệnh dừng rồi cả hai bị khiển trách.",
+            "d": {
+              "hao": -2,
+              "hac": 2,
+              "bs": -4,
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Báo riêng với Tiểu Trình, nhờ anh ấy kiểm tra không ồn ào",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Trình nhanh chóng thay dây mà không để ai biết. Chiêu Minh chỉ hay chuyện khi mọi sự đã xong.",
+            "d": {
+              "hao": 3,
+              "ac": -1,
+              "sinh": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiểu Trình chưa kịp đến thì cảnh quay đã bắt đầu. Cô phải lao vào kéo anh lại giữa chừng.",
+            "d": {
+              "hao": 1,
+              "bs": -6,
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm quay ngoài trời, vách đá giả. Chiêu Minh sắp nhảy dây xuống. Sau chuyện chiếc xe lạ, Thanh Nghi nghi ngờ có người muốn hại anh.",
+      "learn": {
+        "n": "Kiểm tra an toàn trường quay",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 16
+    },
+    {
+      "id": "y17",
+      "scene": "ybalc",
+      "place": "Ban công khách sạn · Đêm mưa",
+      "kind": "chon",
+      "title": "«Tại sao em thích anh?»",
+      "text": "Sau sự cố sợi dây, đoàn phim nghỉ một ngày. Đêm mưa, Chiêu Minh đứng một mình ở ban công khách sạn, áo mỏng, tay cầm ly nước lọc chưa uống. Thanh Nghi đi ngang. Anh không quay lại: «Người ta bảo cô là fan cuồng. Cô thích tôi vì cái gì? Gương mặt, tiền, hay danh tiếng?» Câu hỏi không phải chế giễu. Anh đã hỏi như thể chờ nghe một câu trả lời sai để có cớ đẩy cô đi.",
+      "tieu": "Đây là câu hỏi quan trọng nhất từ đầu đến giờ. Đừng nói dối. Cũng đừng nói như fan.",
+      "cast": "yn,ym",
+      "ch": [
+        {
+          "t": "Nói thật: ban đầu em thích vì gương mặt, nhưng giờ em thấy anh mệt và cô đơn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh quay lại nhìn cô rất lâu. «Không ai nói thế với tôi.» Anh không đuổi cô đi, chỉ để cô đứng cạnh thêm một lát.",
+            "d": {
+              "hao": 8,
+              "ac": -5,
+              "hac": -3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh khựng người. «Cô nghĩ cô biết gì về tôi?» Anh bỏ vào trong, đóng cửa ban công.",
+            "d": {
+              "hao": -2,
+              "hac": 3,
+              "ac": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Hỏi ngược lại: anh có cần ai thích anh vì lý do nào đó không",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Câu hỏi bất ngờ làm anh bật cười khẽ, tiếng cười đầu tiên cô nghe từ anh. «Không ai hỏi tôi thế.»",
+            "d": {
+              "hao": 6,
+              "ac": -3,
+              "hac": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nhìn cô lạnh lùng: «Đừng trả lời bằng câu hỏi.» Bầu không khí chùng xuống.",
+            "d": {
+              "hao": -1,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Cười và nói em thích vì anh đẹp trai, như mọi fan",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh khẽ nhếch môi, ánh mắt xa xăm: «Quả nhiên.» Anh bỏ đi. Cô nhận ra mình vừa bỏ lỡ cơ hội.",
+            "d": {
+              "hao": -1,
+              "hac": 3,
+              "ac": 3
+            }
+          },
+          "b": 0.62,
+          "bad": {
+            "x": "Anh đáp cụt lủn: «Biết rồi.» Anh nhìn cô thất vọng rồi đi vào trong.",
+            "d": {
+              "hao": -3,
+              "hac": 4,
+              "ac": 3,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm mưa, ban công khách sạn. Sau sự cố sợi dây, Chiêu Minh gặp Thanh Nghi một mình và hỏi cô vì sao thích anh.",
+      "no": 17
+    },
+    {
+      "id": "y18",
+      "scene": "yparty",
+      "place": "Tiệc đóng máy · Tối",
+      "kind": "duyen",
+      "title": "Tiệc đóng máy ngoài trời",
+      "text": "Hồng Văn mời cả đoàn dự tiệc đóng máy ở sân vườn. Đường Mạn Nghê ngồi cạnh Giản Ngạn, thì thầm điều gì đó rồi nhìn sang Thanh Nghi. Lần đầu tiên, Chiêu Minh kéo ghế ngồi xuống cạnh cô, im lặng gắp cho cô một miếng cá. Cuối bữa, một người giao hàng mang đến món quà từ Văn Uyển Như, kèm thiệp ghi: «Mừng đóng máy, cô bé nhớ giữ đúng chừng mực nhé.» Chiêu Minh nhìn tấm thiệp, sắc mặt tối hẳn.",
+      "tieu": "Hắn ngồi cạnh ngươi rồi kìa! Cẩn thận lời thiệp của bà mẹ kế: đó là lời cảnh cáo. Xử lý thế nào là chuyện của ngươi.",
+      "cast": "yn,ym,yu,ye",
+      "ch": [
+        {
+          "t": "Cầm tấm thiệp, mỉm cười đọc to rồi cảm ơn Uyển Như một cách bình thản",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cảm ơn lịch sự và cất tấm thiệp đi. Chiêu Minh nhìn cô như thể thấy cô lần đầu. Uyển Như không còn cớ gì để làm khó.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô đọc nhầm một câu, khiến Mạn Nghê cười khúc khích. Chiêu Minh quay mặt đi.",
+            "d": {
+              "hao": -1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhẹ nhàng cất tấm thiệp đi, hỏi anh có muốn ra ngoài hít thở không",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh gật đầu. Hai người đi dọc hàng cây ngoài sân. Anh nói vài câu về mẹ rồi dừng, cô không hỏi thêm.",
+            "d": {
+              "hao": 6,
+              "ac": -3,
+              "hac": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh nói: «Không cần.» Cô trở lại chỗ ngồi, ngượng ngập.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Bỏ qua tấm thiệp, cố giữ không khí vui vẻ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiệc vẫn vui, nhưng Chiêu Minh đứng dậy rời đi sớm. Anh không nói lý do.",
+            "d": {
+              "hao": 1,
+              "hac": -1
+            }
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Cô cười quá lố, Mạn Nghê thì thầm điều gì khiến cả bàn lặng đi.",
+            "d": {
+              "hao": -2,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Tối đóng máy, sân vườn. Văn Uyển Như gửi quà kèm lời cảnh cáo cho Thanh Nghi. Chiêu Minh lần đầu ngồi cạnh cô.",
+      "no": 18
+    },
+    {
+      "id": "y19",
+      "scene": "yedit",
+      "place": "Tòa soạn báo giải trí · Sáng",
+      "kind": "hiem",
+      "title": "Bài báo «hotgirl bám ảnh đế»",
+      "text": "Sau tiệc đóng máy, một bài báo xuất hiện với tiêu đề: «Hotgirl bám ảnh đế, đổi thân để lên mặt». Tác giả là Thiên Hân, phóng viên trẻ có tiếng viết thẳng. Thụy Phong gọi cô lúc sáng sớm, giọng gấp gáp. Thanh Nghi nhìn kỹ các trích dẫn và thấy chúng giống hệt những dòng mà Mạn Nghê đã đăng bằng tài khoản phụ. Tiểu Châu bảo: Thiên Hân không ác ý, cô ấy chỉ viết nhanh để lấy lượt xem. Muốn đảo ngược, phải khiến cô ấy tự kiểm tra lại nguồn.",
+      "tieu": "Thiên Hân là phóng viên, không phải kẻ thù. Mang bằng chứng cho cô ấy xem, đừng cãi.",
+      "cast": "yn,yz,yi",
+      "ch": [
+        {
+          "t": "Mang hồ sơ thử vai và tin nhắn gốc đến tòa soạn gặp trực tiếp",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thiên Hân xem hồ sơ rất lâu, rồi gật đầu: «Tôi sẽ kiểm tra lại nguồn.» Cô ấy nhận ra mình bị lợi dụng.",
+            "d": {
+              "tt": -6,
+              "sinh": 1
+            },
+            "f": "thienhan_nghe"
+          },
+          "b": 0.66,
+          "bad": {
+            "x": "Thiên Hân bận họp, chỉ nhận hồ sơ qua lễ tân. Cô chờ hơn một giờ mà không gặp được ai.",
+            "d": {
+              "tt": 3,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Gửi thư yêu cầu đính chính kèm dẫn chứng, giọng điệu bình tĩnh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thư của cô khiến tòa soạn xem xét lại. Họ gỡ một đoạn trích dẫn có lỗi.",
+            "d": {
+              "tt": -4,
+              "sinh": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Thư bị chuyển nhầm sang bộ phận khác, hai ngày sau mới có ai đọc.",
+            "d": {
+              "tt": 3,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Phớt lờ bài báo, chờ độc giả chán",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lượt xem giảm dần, nhưng bài báo vẫn nằm đó làm bằng chứng cho những ai muốn công kích cô.",
+            "d": {
+              "tt": 3
+            }
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Bài báo được chia sẻ thêm vì cô không đáp. Hội fan Mạn Nghê tiếp tục xúc tiến.",
+            "d": {
+              "tt": 8,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng sau tiệc đóng máy, tòa soạn báo giải trí. Thiên Hân, phóng viên trẻ, đăng bài bêu xấu Thanh Nghi dựa vào nguồn tin do Mạn Nghê tuồn ra.",
+      "no": 19
+    },
+    {
+      "id": "y20",
+      "scene": "yhall",
+      "place": "Sảnh buổi giới thiệu phim · Tối",
+      "kind": "hiem",
+      "title": "Bữa tối riêng của nhà đầu tư",
+      "text": "Buổi giới thiệu phim «Phong Vân Lục» tổ chức trong một khách sạn lớn. Một người đàn ông ngoài bốn mươi, vest xám, nụ cười dễ gần, tiến lại phía Thanh Nghi: Chương Duệ Thiên, nhà đầu tư lớn của phim và chủ chuỗi rạp ở thành phố. Anh ta khen cô diễn tốt, rồi nói nhỏ: «Mai tối, ăn riêng với tôi nhé. Tôi cần người cho vai nữ chính phim sau.» Thanh Nghi nhớ lời cảnh báo của Tiểu Lộ về những lời hứa kiểu này.",
+      "tieu": "Là Chương Duệ Thiên! Đúng người mà Tiểu Lộ cảnh báo. Đừng nhận lời đi riêng. Từ chối cho khéo, nhưng đừng để hắn mất mặt trước đám đông.",
+      "cast": "yn,yc,yp",
+      "ch": [
+        {
+          "t": "Viện lý do lịch quay dày, từ chối lịch sự",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Duệ Thiên cười nhẹ: «Tiếc quá.» Anh ta đi tiếp, không làm khó gì thêm. Cô thở phào.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Anh ta vẫn nài, tay chạm vào vai cô. Cô phải lùi lại hai bước, nhờ Tiểu Mễ đến đỡ lời mới thoát.",
+            "d": {
+              "sinh": -3,
+              "tt": 2
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng là cô chỉ bàn công việc có Thụy Phong đi cùng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thụy Phong từ xa đến đứng cạnh cô. Duệ Thiên khựng lại một giây rồi đổi sang giọng công việc. Cô nhớ lại gương mặt anh ta khi bị từ chối.",
+            "d": {
+              "sinh": 1,
+              "ac": 0
+            },
+            "f": "duet_chu"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Câu nói của cô khiến anh ta mất mặt. Anh ta quay đi, nét mặt lạnh hẳn.",
+            "d": {
+              "sinh": -3,
+              "tt": 3
+            },
+            "f": "duet_chu"
+          }
+        },
+        {
+          "t": "Nhận lời gặp nhưng chọn quán cà phê công cộng ban ngày",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tới đúng giờ, ngồi gần cửa kính. Duệ Thiên tỏ ra mất hứng, kết thúc nhanh. Từ đó anh ta để ý đến cô nhiều hơn.",
+            "d": {
+              "sinh": -1,
+              "tt": 2
+            },
+            "f": "duet_chu"
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Cô tới nơi thì anh ta đã sắp xếp sẵn phòng riêng. Cô phải viện cớ để rời đi, tốn cả buổi chiều.",
+            "d": {
+              "sinh": -4,
+              "tt": 4
+            },
+            "f": "duet_chu"
+          }
+        }
+      ],
+      "ctx": "Tối, sảnh khách sạn tổ chức buổi giới thiệu «Phong Vân Lục». Nhà đầu tư Chương Duệ Thiên, chủ chuỗi rạp, bắt chuyện với Thanh Nghi và mời cô đi ăn riêng.",
+      "no": 20
+    },
+    {
+      "id": "y21",
+      "scene": "ydress",
+      "place": "Phòng thay đồ phim trường · Chiều",
+      "kind": "nan",
+      "title": "Cú nắm tay ở cửa phòng thay đồ",
+      "text": "Tuần trước, chị Thủy, huấn luyện viên võ thuật của đoàn phim, đã dạy Thanh Nghi vài thế gỡ tay cơ bản cho cảnh võ. Chiều nay, khi cô đang thay đồ diễn, cửa phòng bị đẩy ra. Chương Duệ Thiên bước vào, đóng cửa lại, nắm lấy cổ tay cô: «Hôm qua em từ chối tôi, giờ hối hận chưa?» Anh ta là nhà đầu tư, quanh đây không ai dám xen vào. Cô nhớ thế xoay cổ tay của chị Thủy, và nhớ điện thoại đang để ở túi áo.",
+      "tieu": "Đừng sợ, nhớ thế chị Thủy dạy. Xoay cổ tay theo hướng ngón cái hắn, bước lùi, rồi chạy ra cửa. Kêu to nếu cần!",
+      "cast": "yn,yc",
+      "ch": [
+        {
+          "t": "Dùng thế gỡ tay đã học, xoay cổ tay rồi lùi ra cửa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cổ tay cô xoay đúng hướng, thoát ra ngay. Cô lao ra ngoài kêu cứu, chị Thủy chạy đến trước tiên. Duệ Thiên bị nhân viên giữ lại giải thích.",
+            "d": {
+              "sinh": -2,
+              "tt": -2
+            },
+            "f": "duet_thu"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Cô xoay sai hướng, bị siết chặt hơn. Cô đạp vào ống chân hắn, hắn lùi một nhịp và cô thoát ra, bầm cổ tay.",
+            "d": {
+              "sinh": -8,
+              "tt": 2
+            },
+            "f": "duet_thu"
+          }
+        },
+        {
+          "t": "Giơ điện thoại lên nói đang ghi âm, gọi to tên Thụy Phong",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Duệ Thiên buông tay ngay. Cô vừa lùi ra vừa bấm gọi Thụy Phong. Hắn rời đi với nụ cười gượng gạo.",
+            "d": {
+              "sinh": -1,
+              "ct": 1
+            },
+            "f": "duet_thu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn giật điện thoại ném sang một bên. Cô phải đạp mạnh vào chân hắn mới thoát ra.",
+            "d": {
+              "sinh": -7
+            },
+            "f": "duet_thu"
+          }
+        },
+        {
+          "t": "Giáng thẳng một đấm vào mặt hắn rồi chạy ra cửa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cú đấm trúng ngay mũi hắn. Hắn ôm mặt, cô chạy ra ngoài kêu cứu. Hắn không dám truy cứu vì sợ lộ chuyện.",
+            "d": {
+              "sinh": -2,
+              "tt": 3
+            },
+            "f": "duet_thu"
+          },
+          "b": 0.32,
+          "bad": {
+            "x": "Cú đấm trượt, hắn siết cổ tay cô đến bầm. Cô cắn vào tay hắn mới được thả.",
+            "d": {
+              "sinh": -10,
+              "tt": 3
+            },
+            "f": "duet_thu"
+          }
+        }
+      ],
+      "ctx": "Chiều, phòng thay đồ phim trường. Chương Duệ Thiên, bị từ chối ở buổi tối trước, tìm đến chặn Thanh Nghi để ép cô nhận lời. Chị Thủy, huấn luyện viên võ thuật của đoàn, tuần trước đã dạy cô thế gỡ tay.",
+      "learn": {
+        "n": "Võ phòng thân cơ bản",
+        "s": "van",
+        "v": 2
+      },
+      "no": 21
+    },
+    {
+      "id": "y22",
+      "scene": "ydesk",
+      "place": "Mạn Mạn · Đêm",
+      "kind": "hiem",
+      "title": "Clip cắt ghép",
+      "text": "Hai hôm sau, một đoạn clip mười giây lan khắp mạng: Thanh Nghi giơ tay tát Đường Mạn Nghê ở tiệc đóng máy. Cô nhớ rất rõ chuyện đó chưa từng xảy ra. Hồng Văn gọi cô vào phòng làm việc, nét mặt nghiêm: «Tôi cần biết sự thật trước khi họp báo.» Tiểu Lộ nhắn: nhóm fan lý trí cũng đang nghi ngờ clip bị cắt ghép. Tiểu Châu nhắc: mọi video đều để lại dấu vết, cô chỉ cần biết tìm.",
+      "tieu": "Video nào bị cắt ghép cũng để lại dấu vết: thời gian, độ phân giải, khung hình nhảy cóc. Tìm ra, ngươi thắng.",
+      "cast": "yn,ye,yg",
+      "ch": [
+        {
+          "t": "Lấy file gốc, đối chiếu thời gian tạo và từng khung hình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô phát hiện khung hình thứ 41 bị ghép từ clip khác, thời gian tạo file lệch gần một ngày. Cô gửi báo cáo ngắn cho Hồng Văn, ông gật đầu: «Tôi tin cô.»",
+            "d": {
+              "tt": -8,
+              "ct": 1,
+              "sinh": 1
+            }
+          },
+          "b": 0.66,
+          "bad": {
+            "x": "Cô đọc sai thời gian, nhầm lẫn giữa hai bản sao. Hồng Văn phải nhờ người khác kiểm tra lại, mất thêm một ngày.",
+            "d": {
+              "tt": 5,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Lộ và hội fan lý trí cùng phân tích clip",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Lộ huy động hội, vài thành viên làm kỹ thuật đã chỉ ra những khung hình lạ. Họ đăng phân tích có dẫn chứng.",
+            "d": {
+              "tt": -6,
+              "sinh": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Phân tích của hội còn thiếu sót, phía Mạn Nghê phản công bằng bản clip khác.",
+            "d": {
+              "tt": 4,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Họp báo ngay, tuyên bố clip là giả mà chưa có bằng chứng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nói thẳng, một số người tin ngay vì giọng điệu thành thật. Nhưng tin đồn chưa tắt hẳn.",
+            "d": {
+              "tt": 1
+            },
+            "f": "hop_bao"
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Cô bị chất vấn dồn dập vì không có bằng chứng. Hồng Văn phải đứng ra bảo vệ cô nửa chừng.",
+            "d": {
+              "tt": 8,
+              "sinh": -4
+            },
+            "f": "hop_bao"
+          }
+        }
+      ],
+      "ctx": "Hai ngày sau chuyện phòng thay đồ, Mạn Mạn. Một clip cắt ghép cho thấy Thanh Nghi tát Đường Mạn Nghê lan khắp mạng; đạo diễn Hồng Văn cần biết sự thật trước buổi họp báo.",
+      "learn": {
+        "n": "Truy xuất dấu vết video",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 22
+    },
+    {
+      "id": "y23",
+      "scene": "yconcert",
+      "place": "Nhà hát thành phố · Tối",
+      "kind": "duyen",
+      "title": "Buổi hòa nhạc của Dịch Hiên",
+      "text": "Hồng Văn nhờ Thanh Nghi tham gia buổi hòa nhạc từ thiện của đoàn phim. Người đệm đàn cho cô là Sở Dịch Hiên, hoàng tử piano 26 tuổi, nổi tiếng hiền lành, cha là Sở lão gia chủ một hãng nhạc cụ. Dịch Hiên không cần nhiều lời, chỉ chỉ cho cô cách bám nhịp và đổi hợp âm. Ở hàng ghế khán giả, Chiêu Minh ngồi xem, ly rượu vang trong tay không động tới. Anh có vẻ không thích cảnh hai người cười với nhau.",
+      "tieu": "Sở Dịch Hiên là người tốt, không có ý xấu gì đâu. Học cho kỹ, hợp âm này sẽ giúp ngươi cả đời. Còn Chiêu Minh thì để hắn tự ghen đi.",
+      "cast": "yn,yd,ym",
+      "ch": [
+        {
+          "t": "Nghe Dịch Hiên chỉ cách bám nhịp và đổi hợp âm, ghi nhớ từng bước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô bám nhịp đều, đổi hợp âm trơn tru. Dịch Hiên khen cô học nhanh. Buổi diễn trôi chảy.",
+            "d": {
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Cô trật nhịp ở đoạn đổi hợp âm. Dịch Hiên khéo léo sửa giúp, khán giả không nhận ra.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Hát một khúc nhẹ, để Dịch Hiên đệm theo giọng của mình",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng cô vang lên nhẹ nhàng, tiếng đàn bám sát. Khán giả vỗ tay. Chiêu Minh ngồi im, ánh mắt không rời cô.",
+            "d": {
+              "hao": 5,
+              "ac": -2,
+              "sinh": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Giọng cô run ở nốt cao. Dịch Hiên đổi tông cứu cảnh, nhưng buổi diễn mất đi nửa phần hay.",
+            "d": {
+              "hao": -1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Từ chối ở phút chót vì ngại Chiêu Minh nhìn thấy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hồng Văn tìm người khác thay. Cô xem buổi diễn từ cánh gà, thấy Chiêu Minh nhìn quanh như tìm người.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hồng Văn nhíu mày vì mất thêm thời gian sắp xếp lại. Chiêu Minh không nói gì.",
+            "d": {
+              "hao": -2,
+              "hac": 1,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, nhà hát thành phố, buổi hòa nhạc từ thiện của đoàn phim. Sở Dịch Hiên, pianist trẻ, đệm đàn cho Thanh Nghi; Chiêu Minh ngồi dưới khán đài.",
+      "learn": {
+        "n": "Nhạc lý cơ bản, đệm đàn",
+        "s": "mi",
+        "v": 1
+      },
+      "no": 23
+    },
+    {
+      "id": "y24",
+      "scene": "yoffice",
+      "place": "Phòng họp Hoa Diệu · Sáng",
+      "kind": "hiem",
+      "title": "Giám đốc Vạn đe dọa phong sát",
+      "text": "Giám đốc Vạn, người nắm quyền sắp lịch chiếu và đề cử của một chuỗi nhà phát hành, triệu tập Thanh Nghi và Thụy Phong. Ông ta là bạn lâu năm của quản lý Đường Mạn Nghê. Ông đặt lên bàn một bản hợp đồng khác, vai phụ rẻ hơn, thời hạn dài hơn: «Ký đi, tôi giữ cô an toàn trong ngành. Không ký, đừng mong còn ai dám dùng cô.» Thụy Phong siết bàn tay thành nắm đấm nhưng không dám nói. Thanh Nghi nhớ khoản phạt ở phụ lục cũ.",
+      "tieu": "Ông ta lợi dụng quyền để ép ngươi. Đọc kỹ điều khoản, tìm chỗ hở. Nhớ là ngươi không đơn độc, còn có Thụy Phong.",
+      "cast": "yn,yw,yp",
+      "ch": [
+        {
+          "t": "Chỉ ra điều khoản vô lý trong bản hợp đồng mới, đề nghị bàn lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chỉ vào ba chỗ mập mờ. Giám đốc Vạn nhíu mày rồi đổi giọng: «Cô gái này không dễ lừa.» Thụy Phong thở ra nhẹ nhõm.",
+            "d": {
+              "tt": -3,
+              "sinh": 1,
+              "ct": 0
+            },
+            "f": "van_lui"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Cô nhầm giữa hai điều khoản, ông ta cười nhạt: «Tưởng giỏi lắm.» Thụy Phong phải đứng ra xin thêm thời gian.",
+            "d": {
+              "tt": 3,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Từ chối thẳng, nói sẽ bàn lại cùng Thụy Phong sau",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đứng dậy, cúi chào lịch sự. Ông ta không ngờ cô bình tĩnh đến thế. Thụy Phong bước theo ra, gật đầu cảm ơn.",
+            "d": {
+              "tt": -2,
+              "sinh": 0
+            },
+            "f": "van_lui"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Ông ta nổi giận: «Cô sẽ hối hận.» Căn phòng im lặng đến lạnh người.",
+            "d": {
+              "tt": 4,
+              "sinh": -3
+            },
+            "f": "van_lui"
+          }
+        },
+        {
+          "t": "Đồng ý ký tạm để yên chuyện, tính lại sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ký bản tạm, Giám đốc Vạn mãn nguyện. Nhưng từ hôm đó cô bị trói buộc bởi một hợp đồng cô không ưa.",
+            "d": {
+              "tt": 3,
+              "hao": 1
+            },
+            "f": "van_ky"
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Cô vừa ký thì ông ta thêm điều khoản phụ. Thụy Phong phải xin sửa nhiều lần.",
+            "d": {
+              "tt": 6,
+              "hac": 2,
+              "sinh": -3
+            },
+            "f": "van_ky"
+          }
+        }
+      ],
+      "ctx": "Sáng, phòng họp Hoa Diệu. Giám đốc Vạn, người có quyền quyết định lịch chiếu và đề cử, ép Thanh Nghi ký hợp đồng vai phụ rẻ vì ông thân với quản lý của Mạn Nghê.",
+      "no": 24
+    },
+    {
+      "id": "y25",
+      "scene": "yvilla",
+      "place": "Biệt thự Bùi Thanh Vân · Tối",
+      "kind": "chon",
+      "title": "Tiệc sinh nhật của ảnh hậu",
+      "text": "Bùi Thanh Vân, ảnh hậu lão luyện từng đoạt nhiều giải, tổ chức tiệc sinh nhật tại biệt thự cổ. Chiêu Minh dẫn Thanh Nghi đi cùng vì Thanh Vân yêu cầu anh mang theo «cô gái nấu cháo». Trong tiệc, Đường Mạn Nghê và Giản Ngạn nâng ly, mỉa mai nói cô «bước lên nhờ may mắn». Nhiều ánh mắt quay sang. Chiêu Minh nhìn cô, chờ xem cô sẽ làm gì.",
+      "tieu": "Bùi Thanh Vân là người có tiếng nói trong giới. Bà nhìn thấy mọi thứ. Đừng cãi cọ, đừng để mình mất bình tĩnh.",
+      "cast": "yn,yt,ye,yb,ym",
+      "ch": [
+        {
+          "t": "Nâng ly mỉm cười, cảm ơn lời nhắc nhở và nói sẽ cố gắng hơn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đáp nhẹ nhàng, không giận. Thanh Vân bật cười khẽ, nhìn Mạn Nghê rồi nâng ly với cô. Chiêu Minh thở ra lần đầu từ đầu bữa.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -1
+            },
+            "f": "thanvan_quy"
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Cô hơi run tay, rượu sánh ra váy. Mạn Nghê che miệng cười, Chiêu Minh đưa khăn cho cô.",
+            "d": {
+              "hao": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Bình tĩnh nhắc lại việc Mạn Nghê tung tin ở buổi họp báo, rồi lịch sự bỏ qua",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhắc ngắn gọn, không quá lời. Thanh Vân nhíu mày nhìn Mạn Nghê. Giản Ngạn lúng túng rút lui.",
+            "d": {
+              "hao": 4,
+              "ac": -2,
+              "hac": -1,
+              "tt": -3
+            },
+            "f": "thanvan_quy"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô nhắc nhầm một chi tiết, Mạn Nghê phản bác ngay. Không khí chùng xuống.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "tt": 3,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Rời bàn tiệc, ra ban công đứng một mình cho nguội",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ra ngoài hít thở, tránh được xung đột. Chiêu Minh đi ra sau năm phút.",
+            "d": {
+              "hao": 1
+            },
+            "f": "ban_cong"
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Cô vừa ra ngoài thì nghe Mạn Nghê nói lớn «bỏ chạy rồi kìa». Cô đành quay vào, mặt đỏ bừng.",
+            "d": {
+              "hao": -2,
+              "sinh": -3
+            },
+            "f": "ban_cong"
+          }
+        }
+      ],
+      "ctx": "Tối, biệt thự cổ của ảnh hậu Bùi Thanh Vân. Chiêu Minh dẫn Thanh Nghi đến dự tiệc sinh nhật bà. Mạn Nghê và Giản Ngạn cũng có mặt, mỉa mai cô trước cả khách mời.",
+      "no": 25
+    },
+    {
+      "id": "y26",
+      "scene": "ybalc",
+      "place": "Ban công biệt thự · Cuối tiệc",
+      "kind": "duyen",
+      "title": "Chuyện về mẹ ruột",
+      "text": "Cuối tiệc, Chiêu Minh đứng ở ban công, nhìn xuống khu vườn tối. Thanh Nghi đứng cạnh, không nói gì. Rất lâu sau anh mở lời: «Mẹ tôi mất lúc tôi tám tuổi. Chưa đầy một năm sau, bà Uyển Như vào nhà.» Anh nói đều đều, như kể chuyện của người khác. «Ba tôi chưa bao giờ giải thích. Tôi không biết ông ấy có thương mẹ không.» Tiểu Châu im bặt, như sợ làm vỡ khoảnh khắc này.",
+      "tieu": "Đây là lần đầu hắn nói về mẹ. Đừng vội an ủi. Lắng nghe là tốt nhất.",
+      "cast": "yn,ym",
+      "ch": [
+        {
+          "t": "Im lặng lắng nghe, chỉ gật đầu đúng chỗ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô để anh nói hết. Khi anh dừng, cô chỉ nói: «Em ở đây.» Anh nhìn cô rất lâu rồi thì thầm: «Cảm ơn.»",
+            "d": {
+              "hao": 9,
+              "ac": -6,
+              "hac": -4
+            },
+            "f": "tin_cay"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô lỡ nói «chắc ba anh có lý do». Anh quay mặt đi, cắt ngang câu chuyện.",
+            "d": {
+              "hao": -1,
+              "hac": 3,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Kể lại chuyện mẹ cô để anh thấy mình không đơn độc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô kể ngắn gọn về mẹ mình, về những bữa cơm đạm bạc. Anh nghe, rồi khẽ nói: «Mẹ cô chắc rất thương cô.»",
+            "d": {
+              "hao": 7,
+              "ac": -5,
+              "hac": -3
+            },
+            "f": "tin_cay"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô kể dài quá, anh có vẻ mệt. Anh gật đầu cho có lệ rồi nhìn đi chỗ khác.",
+            "d": {
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Hứa sẽ luôn bảo vệ anh khỏi họ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhếch môi: «Đừng hứa điều cô không làm được.» Anh nhìn xa xăm, nhưng cô thấy vai anh chùng xuống.",
+            "d": {
+              "hao": 2,
+              "hac": 2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Anh lùi lại một bước: «Tôi không cần ai bảo vệ.» Anh bỏ vào trong.",
+            "d": {
+              "hao": -2,
+              "hac": 4,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối tiệc sinh nhật, ban công biệt thự. Chiêu Minh lần đầu kể cho Thanh Nghi nghe về mẹ ruột Lan Chi và cuộc sống khi Văn Uyển Như bước vào nhà họ Tạ.",
+      "no": 26
+    },
+    {
+      "id": "y27",
+      "scene": "yoffice",
+      "place": "Phòng họp Hoa Diệu · Chiều",
+      "kind": "hiem",
+      "title": "Quản Kiêu bước vào phòng họp",
+      "text": "Một người đàn ông lạ mặt bước vào phòng họp Hoa Diệu mà không gõ cửa. Ông ngoài năm mươi, áo vest tối màu, chiếc nhẫn vàng nặng ở ngón trỏ. Thụy Phong đứng bật dậy: «Anh Kiêu.» Thanh Nghi nhớ ngay cái tên ở phụ lục hợp đồng đầu tiên: Quản Kiêu, chủ quỹ Kiêu Thịnh, người đang giữ khoản nợ của công ty. Ông ta mỉm cười, đặt lên bàn một xấp giấy: chuyển toàn bộ hợp đồng nghệ sĩ của Hoa Diệu sang một công ty mới của ông, đổi lại xóa nợ.",
+      "tieu": "Quản Kiêu, chủ nợ của Hoa Diệu. Hắn mua hợp đồng của nghệ sĩ để dùng, không phải để giúp. Hãy đòi xem từng chữ trước khi ai ký gì.",
+      "cast": "yn,yk,yp",
+      "ch": [
+        {
+          "t": "Đòi xem bản sao hợp đồng chuyển nhượng và hạn trả lời",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Quản Kiêu hơi nhíu mày rồi để lại xấp giấy. Cô và Thụy Phong có ba ngày để đọc, và cô nhận ra ít nhất hai điều khoản mập mờ.",
+            "d": {
+              "ct": 1,
+              "sinh": 1
+            },
+            "f": "quan_doc"
+          },
+          "b": 0.66,
+          "bad": {
+            "x": "Quản Kiêu thu lại xấp giấy: «Không cần nhiều lời, hạn trả lời là sáng mai.» Cô chỉ kịp liếc lướt qua.",
+            "d": {
+              "sinh": -3,
+              "tt": 2
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng Thụy Phong chưa quyết, cần thời gian bàn với luật sư",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Quản Kiêu nhìn cô lâu hơn. «Tôi cho ba ngày.» Ông ta rút lui nhưng ánh mắt không rời.",
+            "d": {
+              "sinh": 0,
+              "tt": 1
+            },
+            "f": "quan_doc"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Quản Kiêu cười lạnh: «Cô là ai mà nói chuyện thay Hoa Diệu?» Thụy Phong phải xin lỗi thay cô.",
+            "d": {
+              "sinh": -4,
+              "tt": 3
+            },
+            "f": "quan_doc"
+          }
+        },
+        {
+          "t": "Khuyên Thụy Phong nhận để xóa nợ cho nhẹ gánh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thụy Phong ngạc nhiên rồi gật đầu mệt mỏi. Quản Kiêu mỉm cười hài lòng. Cô chưa kịp đọc kỹ hợp đồng.",
+            "d": {
+              "sinh": -1,
+              "tt": 2
+            },
+            "f": "nhan_chuyen"
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Thụy Phong nhìn cô thất vọng: «Em cũng nghĩ thế à?» Quản Kiêu lấy bút ngay trong lúc cả hai chưa kịp đọc.",
+            "d": {
+              "sinh": -4,
+              "tt": 4
+            },
+            "f": "nhan_chuyen"
+          }
+        }
+      ],
+      "ctx": "Chiều, phòng họp Hoa Diệu. Quản Kiêu, chủ quỹ Kiêu Thịnh và là chủ nợ của công ty, đến ép Thụy Phong chuyển toàn bộ hợp đồng nghệ sĩ sang công ty mới của ông.",
+      "no": 27
+    },
+    {
+      "id": "y28",
+      "scene": "yphone",
+      "place": "Điện thoại của Thụy Phong · Đêm",
+      "kind": "nan",
+      "title": "Tin nhắn đe dọa và nợ giả",
+      "text": "Nửa đêm, Thụy Phong gọi cho Thanh Nghi, giọng vỡ ra. Quản Kiêu vừa nhắn: số nợ đã tăng gấp đôi vì «lãi phạt», kèm bản sao một hợp đồng có chữ ký của anh mà anh chưa từng ký. Nếu sáng mai không chuyển nhượng, ông ta sẽ kiện và cho người đến nhà. Không có bạo lực nào thật sự xảy ra, chỉ là những tin nhắn lạnh lẽo. Thụy Phong chưa kể với ai. Thanh Nghi nhớ Tiểu Trình luôn có liên lạc với đội luật sư của Chiêu Minh.",
+      "tieu": "Hợp đồng giả và nợ giả: đúng kiểu hắn làm. Đừng xóa bất cứ tin nhắn nào. Chụp lại tất cả rồi nhờ Tiểu Trình chuyển luật sư.",
+      "cast": "yn,yp,yf,yk",
+      "ch": [
+        {
+          "t": "Chụp lại toàn bộ tin nhắn và bản hợp đồng giả, nhờ Tiểu Trình chuyển cho luật sư",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chụp đủ bản, đánh dấu thời gian từng tin. Tiểu Trình đưa luật sư Chiêu Minh đọc, họ xác nhận chữ ký có vấn đề.",
+            "d": {
+              "ct": 1,
+              "sinh": -1,
+              "hao": 1
+            },
+            "f": "ct_kieu"
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Cô chụp thiếu mấy tin nhắn quan trọng. Luật sư nói cần thêm bằng chứng, mất thêm hai ngày.",
+            "d": {
+              "sinh": -4,
+              "tt": 2
+            }
+          }
+        },
+        {
+          "t": "Gọi thẳng cho Quản Kiêu, nói rằng luật sư đang xem hồ sơ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Quản Kiêu im lặng một lúc rồi cười khẽ: «Cô bé khá đấy.» Ông ta lùi hạn thêm một tuần.",
+            "d": {
+              "ct": 0,
+              "sinh": -2,
+              "hao": 1
+            },
+            "f": "kieu_lui"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Quản Kiêu cúp máy, rồi nhắn cho Thụy Phong dọa nặng hơn. Thụy Phong gần như sụp đổ.",
+            "d": {
+              "sinh": -5,
+              "tt": 3
+            }
+          }
+        },
+        {
+          "t": "Giúp Thụy Phong trả bớt nợ bằng cát-xê của mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô chuyển tiền cát-xê trả trước một phần. Quản Kiêu chấp nhận tạm, nhưng bằng chứng hợp đồng giả vẫn chưa ai giữ.",
+            "d": {
+              "sinh": -2
+            },
+            "f": "tra_no"
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Cô trả tiền rồi mới biết Quản Kiêu vẫn tính lãi kép. Cô mất tiền mà nợ không giảm.",
+            "d": {
+              "sinh": -5,
+              "tt": 3
+            },
+            "f": "tra_no"
+          }
+        }
+      ],
+      "ctx": "Nửa đêm, điện thoại của Thụy Phong. Quản Kiêu nhắn đe dọa, đòi nợ gấp đôi bằng một hợp đồng giả mang chữ ký Thụy Phong chưa từng ký.",
+      "no": 28
+    },
+    {
+      "id": "y29",
+      "scene": "yoffice",
+      "place": "Văn phòng tập đoàn họ Tạ · Giữa trưa",
+      "kind": "hiem",
+      "title": "Bằng chứng giả của Thừa Vĩ",
+      "text": "Thừa Vĩ trình lên hội đồng quản trị tập đoàn một xấp tin nhắn và ảnh chụp, tuyên bố Chiêu Minh dùng quan hệ ngầm để thao túng báo chí và rút tiền công ty. Anh ta muốn cổ đông bỏ phiếu loại Chiêu Minh khỏi ghế cổ đông. Tiểu Trình gọi cho Thanh Nghi, hoảng loạn: Chiêu Minh đã thấy tập bằng chứng và im lặng bỏ đi. Thanh Nghi nhớ cách nhìn dấu vết video, và nhớ rằng chiếc xe lạ ở bãi đỗ cũng từng thuộc về người của Thừa Vĩ.",
+      "tieu": "Đây là đòn lớn của Thừa Vĩ. Hắn muốn Chiêu Minh mất kiểm soát. Tìm dấu vết giả trong tập bằng chứng, nhanh lên!",
+      "cast": "yn,yv,yf",
+      "ch": [
+        {
+          "t": "Cùng Tiểu Trình lần dấu file, tìm chỗ ảnh bị ghép và tin nhắn bị sửa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người tìm ra giờ tạo file lệch, phông chữ tin nhắn khác nhau. Họ in ra ba điểm giả rõ nhất, gửi Chiêu Minh trước khi anh kịp làm chuyện dại dột.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "hac": -2,
+              "ct": 1
+            },
+            "f": "cm_ct"
+          },
+          "b": 0.59,
+          "bad": {
+            "x": "Họ chỉ tìm được một điểm giả nhỏ. Chiêu Minh đã bỏ họp, tắt điện thoại.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Thiên Hân tra lại nguồn gốc ảnh bên phía báo chí",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thiên Hân gửi lại thông tin: ảnh được đăng lần đầu bởi một tài khoản liên quan đến công ty của Thừa Vĩ. Cô chuyển cho Chiêu Minh.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "hac": -1,
+              "ct": 1
+            },
+            "f": "cm_ct"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Thiên Hân bận, trả lời muộn nửa ngày. Khi bằng chứng đến nơi thì Chiêu Minh đã nổi giận với Thừa Vĩ trước mặt cổ đông.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Đến thẳng tìm Chiêu Minh, nói rằng cô tin anh vô tội",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tìm thấy anh ở phòng tập, giữ cửa không cho ai vào. Anh nghe cô nói, vai buông lỏng một chút.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "hac": -1
+            },
+            "f": "cm_ct"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô đến trễ. Chiêu Minh đã rời tòa nhà, Tiểu Trình lo lắng gọi mãi không được.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Giữa trưa, văn phòng tập đoàn họ Tạ. Thừa Vĩ đưa bằng chứng giả ra hội đồng quản trị để bêu xấu Chiêu Minh. Anh đã thấy tập bằng chứng, không nói gì rồi bỏ đi.",
+      "learn": {
+        "n": "Truy xuất dấu vết video",
+        "s": "tri",
+        "v": 0
+      },
+      "no": 29
+    },
+    {
+      "id": "y30",
+      "scene": "ycafe",
+      "place": "Quán trà gần tòa soạn · Chiều",
+      "kind": "chon",
+      "title": "Thiên Hân đổi phe",
+      "text": "Thiên Hân hẹn Thanh Nghi ở một quán trà nhỏ gần tòa soạn. Cô ấy đã kiểm tra lại nguồn của bài báo trước đó và thấy mình bị Mạn Nghê lợi dụng. Cô nói thêm: tổng biên tập vừa nhận phong bì từ phía Thừa Vĩ, yêu cầu giữ im bài về chuyện hợp đồng giả của Quản Kiêu. Thiên Hân đưa ra một lựa chọn: cô có thể viết bài, hoặc giữ lại tài liệu làm bằng chứng cho Thanh Nghi.",
+      "tieu": "Thiên Hân đã đổi phe, nhưng không có nghĩa là mạo hiểm công việc của cô ấy. Hỏi kỹ, đừng ép.",
+      "cast": "yn,yz",
+      "ch": [
+        {
+          "t": "Nhờ Thiên Hân viết bài làm rõ chuyện hợp đồng giả, đăng tên tuổi rõ ràng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thiên Hân viết bài chặt chẽ, nêu rõ các điểm mâu thuẫn. Dư luận chuyển hướng sang Quản Kiêu. Bài được đăng ngay dù tổng biên tập khó chịu.",
+            "d": {
+              "tt": -6,
+              "ct": 1,
+              "sinh": -1
+            }
+          },
+          "b": 0.37,
+          "bad": {
+            "x": "Bài viết bị tổng biên tập chặn ngay khi gửi duyệt. Thiên Hân bị khiển trách và Thanh Nghi cảm thấy có lỗi.",
+            "d": {
+              "tt": 3,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Xin Thiên Hân giữ tài liệu làm bằng chứng, chưa đăng vội",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thiên Hân gật đầu, chuyển cho cô bản sao đã mã hóa. Cô giữ chúng cẩn thận để dùng đúng lúc.",
+            "d": {
+              "ct": 1,
+              "sinh": 0
+            },
+            "f": "tl_gian"
+          },
+          "b": 0.59,
+          "bad": {
+            "x": "Thiên Hân băn khoăn vì mất thời cơ. Tài liệu bị rò một phần ra ngoài trước khi cô kịp xử lý.",
+            "d": {
+              "tt": 2,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Hỏi Thiên Hân thêm về nguồn tiền của tổng biên tập, rồi quyết sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thiên Hân kể thêm vài chi tiết, đủ để cô thấy sợi dây nối giữa Thừa Vĩ và tòa soạn. Cô ghi lại tất cả.",
+            "d": {
+              "sinh": 0,
+              "ct": 0
+            },
+            "f": "tl_gian"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Thiên Hân nói không muốn dính sâu hơn, chỉ gửi thêm vài chi tiết lờ mờ rồi rút lui.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, quán trà gần tòa soạn. Thiên Hân, phóng viên đã viết bài chống Thanh Nghi, nay muốn bù đắp và đưa ra thông tin về áp lực từ phía Thừa Vĩ đối với tòa soạn.",
+      "no": 30
+    },
+    {
+      "id": "y31",
+      "scene": "yhosp",
+      "place": "Bệnh viện · Chiều",
+      "kind": "hiem",
+      "title": "Nhược Hi giả thân thiện",
+      "text": "Văn Nhược Hi bất ngờ nhắn tin mời Thanh Nghi đến bệnh viện thăm Văn Uyển Như, bà vừa nhập viện kiểm tra huyết áp. Nhược Hi cười hiền, gọi cô là «chị Nghi», hỏi thăm đủ chuyện, từ lịch quay đến việc Chiêu Minh thích ăn món gì, ngủ giờ nào. Những câu hỏi nghe vô hại nhưng dồn dập. Thanh Nghi nhớ cái nhìn lạnh của Uyển Như ở tiệc đóng máy, và nhớ rằng Nhược Hi là người bà tin tưởng nhất.",
+      "tieu": "Cô em gái nuôi này đang thu thập thông tin cho bà mẹ kế. Trả lời xã giao thôi, và hỏi ngược lại để biết mục đích thật của cô ta.",
+      "cast": "yn,yh,yu",
+      "ch": [
+        {
+          "t": "Trả lời xã giao, hỏi ngược lại vì sao Nhược Hi quan tâm đến thế",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nhược Hi hơi lúng túng, rồi nói lấp lửng rằng bà Uyển Như lo cho con trai. Cô nghe ra ý đồ ngay.",
+            "d": {
+              "hao": 2,
+              "ac": -1,
+              "sinh": 0
+            },
+            "f": "nhuochi_ro"
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Nhược Hi khéo léo lái sang chuyện khác. Cô không moi thêm được gì.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nói thật vài chuyện vô hại, giữ kín chuyện quan trọng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô kể vài chuyện vô thưởng vô phạt như món cháo và giờ quay. Nhược Hi tưởng đã moi được nhiều, rồi tự bộc lộ thêm vài điều.",
+            "d": {
+              "hao": 1,
+              "sinh": 0
+            },
+            "f": "nhuochi_ro"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô lỡ nói nhầm một chi tiết nhỏ về lịch đi lại của Chiêu Minh. Nhược Hi ghi lại ngay bằng ánh mắt.",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Viện cớ bận quay, từ chối đi cùng đến bệnh viện",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tránh được cuộc nói chuyện. Nhược Hi hơi mất hứng, nhưng không làm khó thêm.",
+            "d": {
+              "sinh": 0
+            }
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Nhược Hi nhắn lại: «Chị ngại em à?» Tin nhắn bị chụp lại làm bằng chứng cô «tránh mặt gia đình».",
+            "d": {
+              "sinh": -2,
+              "tt": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, bệnh viện. Văn Nhược Hi mời Thanh Nghi đến thăm mẹ nuôi Văn Uyển Như. Cô ta thực ra được bà nhờ dò xét xem Chiêu Minh thân với ai.",
+      "no": 31
+    },
+    {
+      "id": "y32",
+      "scene": "ygym",
+      "place": "Phòng tập của Chiêu Minh · Đêm",
+      "kind": "hiem",
+      "title": "Cánh cửa phòng tập",
+      "text": "Sau vụ tập bằng chứng giả, Chiêu Minh khóa mình trong phòng tập của studio. Tiếng gương vỡ vang qua cánh cửa. Tiểu Trình đứng ngoài hành lang, mặt trắng bệch: «Anh ấy không cho ai vào, tôi sợ anh ấy làm đau mình.» Thanh Nghi đứng trước cửa, nghe tiếng thở dốc phía sau. Cô không thể phá cửa, cũng không thể bỏ đi. Tiểu Châu thì thào: Hắc hóa đang rất cao. Người nói chuyện qua cánh cửa chính là cách duy nhất.",
+      "tieu": "Hắc hóa quá cao rồi! Đừng đập cửa, đừng ép hắn. Ngồi xuống, nói qua cửa, chỉ lắng nghe. Hắn sẽ tự mở khi sẵn sàng.",
+      "cast": "yn,ym,yf",
+      "ch": [
+        {
+          "t": "Ngồi xuống cạnh cửa, nói nhỏ rằng cô ở đây và không hỏi gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô ngồi dựa lưng vào cửa, nói vài câu ngắn rồi im lặng. Rất lâu sau, tiếng đập dừng. Cánh cửa mở ra một khe, và anh ngồi xuống bên trong, đối diện cô.",
+            "d": {
+              "hao": 8,
+              "ac": -6,
+              "hac": -8,
+              "sinh": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói nhiều quá, tiếng gương vỡ lại vang lên. Anh quát một tiếng. Cô lùi lại nhưng không bỏ đi.",
+            "d": {
+              "hao": -2,
+              "hac": 4,
+              "bs": -5,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Lặp lại từng câu anh nói, hỏi xem cô hiểu đúng ý anh chưa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Giọng anh bắt đầu chậm lại. Anh nói từng câu đứt quãng về nỗi oan, về Thừa Vĩ. Cô đáp: «Em nghe đây.» Cửa dần mở.",
+            "d": {
+              "hao": 7,
+              "ac": -5,
+              "hac": -6,
+              "sinh": -2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh nghe cô lặp lại như đang bị giễu. Tiếng đập mạnh hơn. Cô phải lùi xa hai bước.",
+            "d": {
+              "hao": -3,
+              "hac": 5,
+              "bs": -6,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Gọi người đến phá cửa vì lo anh nguy hiểm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bảo vệ phá cửa. Anh ngồi giữa đống gương vỡ, nhìn cô như người bị phản bội. Anh không nói một câu.",
+            "d": {
+              "hao": -4,
+              "hac": 5,
+              "bs": -3,
+              "sinh": -2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cánh cửa bật mở khi anh đang đập nốt ô gương. Mảnh vỡ cứa vào tay anh, anh quay lại nhìn cô đầy giận dữ.",
+            "d": {
+              "hao": -6,
+              "hac": 7,
+              "bs": -9,
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm, phòng tập của Chiêu Minh. Sau khi Thừa Vĩ tung bằng chứng giả, anh khóa mình trong phòng tập và đập vỡ gương. Tiểu Trình sợ anh làm đau mình nên gọi Thanh Nghi đến.",
+      "learn": {
+        "n": "Lắng nghe chủ động",
+        "s": "mi",
+        "v": 2
+      },
+      "no": 32
+    },
+    {
+      "id": "y33",
+      "scene": "yrecord",
+      "place": "Studio ghi hình · Tối",
+      "kind": "duyen",
+      "title": "Giai Nguyệt chìa tay",
+      "text": "Hôm sau, khi Thanh Nghi đến studio để thu âm cho phim, một cô gái chặn cô lại ngoài phòng thu. Khúc Giai Nguyệt, sao nữ cùng công ty phát hành, từng bị Đường Mạn Nghê chèn ép nhiều năm. Cô thì thầm: «Chị biết em đang đấu với ai. Tôi có thứ này.» Giai Nguyệt đưa một đoạn ghi âm hợp pháp, ghi lúc Mạn Nghê nhờ người tuồn tin vu cho Thanh Nghi. Giai Nguyệt còn chỉ cho cô cách ghi âm đúng luật: thông báo, lưu bản gốc, ghi lại thời gian.",
+      "tieu": "Giai Nguyệt cũng là nạn nhân của Mạn Nghê, người này đáng tin. Học cách ghi âm hợp pháp, rồi lưu bằng chứng cho cẩn thận.",
+      "cast": "yn,yj,ye",
+      "ch": [
+        {
+          "t": "Học cách ghi âm đúng luật và lưu bản gốc có dấu thời gian",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Giai Nguyệt chỉ từng bước, cô ghi chép đầy đủ. Từ giờ cô có thể ghi âm và lưu bằng chứng một cách hợp pháp.",
+            "d": {
+              "ct": 1,
+              "sinh": 1
+            },
+            "f": "ghi_am"
+          },
+          "b": 0.66,
+          "bad": {
+            "x": "Cô nhầm một bước, bản gốc không lưu được. Giai Nguyệt kiên nhẫn chỉ lại.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nghe đoạn ghi âm Giai Nguyệt đưa, hỏi vì sao cô ấy chọn giúp mình",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giai Nguyệt kể thẳng chuyện bị Mạn Nghê chèn ép, hai người trở thành đồng minh.",
+            "d": {
+              "ct": 1,
+              "sinh": 1
+            },
+            "f": "ghi_am"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Giai Nguyệt do dự, chỉ cho cô nghe một đoạn rồi rút lại. Cô chưa có bằng chứng đầy đủ.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Cảm ơn nhưng nói chưa cần, cô muốn tự xử lý",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Giai Nguyệt gật đầu, hơi thất vọng. Cô để lại số điện thoại để dùng khi cần.",
+            "d": {
+              "sinh": 0
+            }
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Giai Nguyệt cười gượng rồi rời đi. Cô nghĩ mình vừa bỏ lỡ cơ hội.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, studio ghi hình. Khúc Giai Nguyệt, sao nữ từng bị Đường Mạn Nghê chèn ép, tìm đến đưa cho Thanh Nghi bằng chứng và dạy cô cách ghi âm hợp pháp.",
+      "learn": {
+        "n": "Ghi âm, lưu bằng chứng số",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 33
+    },
+    {
+      "id": "y34",
+      "scene": "yoffice",
+      "place": "Văn phòng chủ tịch tập đoàn họ Tạ · Chiều",
+      "kind": "chon",
+      "title": "Cú điện thoại của người cha",
+      "text": "Tạ Chấn Hồng, chủ tịch tập đoàn họ Tạ và cha của Chiêu Minh, gọi Thanh Nghi đến văn phòng. Ông tóc đã điểm bạc, giọng trầm. Ông biết cô thân với con trai ông, biết cả những tin đồn quanh cô. Ông chỉ hỏi một câu: «Cô có thật lòng với nó không?» Ông kể thêm rằng sau khi vợ cũ mất, ông không biết cách nói chuyện với con. Thanh Nghi nhìn ông và nhận ra ông cũng đang sợ.",
+      "tieu": "Cha hắn không phải kẻ thù. Ông ấy cũng bối rối. Trả lời thật, nhưng đừng hứa điều ngươi chưa chắc làm được.",
+      "cast": "yn,yo,ym",
+      "ch": [
+        {
+          "t": "Trả lời thật lòng, kể cô đã thấy anh cô đơn thế nào",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ông im lặng rất lâu, rồi gật đầu: «Tôi không biết nó khổ đến thế.» Ông hứa sẽ để mắt đến Thừa Vĩ.",
+            "d": {
+              "hao": 4,
+              "ac": -4,
+              "hac": -2
+            },
+            "f": "cha_goi"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Câu trả lời của cô nghe quá cảm tính. Ông nhíu mày: «Cô còn trẻ.» Cuộc nói chuyện kết thúc lạnh nhạt.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nói về công việc và những gì cô đã làm cùng anh, tránh chuyện riêng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ông gật đầu từng ý, ghi chép gì đó. «Nó có người giúp việc đáng tin, tôi yên tâm hơn.»",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "hac": -1
+            },
+            "f": "cha_goi"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Ông thấy cô né tránh. «Cô không muốn nói thật à?» Cô cúi đầu im lặng.",
+            "d": {
+              "hao": -1,
+              "hac": 1,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nói rằng cô chỉ muốn hợp tác nghề nghiệp, không có gì khác",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ông gật đầu, nhẹ nhõm nhưng cũng có vẻ thất vọng. Ông không nói thêm gì.",
+            "d": {
+              "hao": 1,
+              "hac": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Ông nhìn cô một lúc lâu: «Tôi thấy cô nói dối.» Ông đứng dậy, cuộc nói chuyện chấm dứt.",
+            "d": {
+              "hao": -3,
+              "hac": 3,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, văn phòng chủ tịch tập đoàn họ Tạ. Tạ Chấn Hồng, cha Chiêu Minh, gọi Thanh Nghi đến hỏi cô có thật lòng với con trai ông không.",
+      "no": 34
+    },
+    {
+      "id": "y35",
+      "scene": "ymansion",
+      "place": "Nhà họ Tạ · Tối",
+      "kind": "nan",
+      "title": "Bữa cơm gia đình ngã gục",
+      "text": "Sau cuộc gặp ở văn phòng, Tạ Chấn Hồng mời cả Chiêu Minh và Thanh Nghi về nhà ăn một bữa cơm, lần đầu tiên trong nhiều năm hai cha con ngồi chung bàn. Văn Uyển Như và Thừa Vĩ cũng có mặt, Nhược Hi bày bát đũa. Giữa bữa, ông Chấn Hồng ôm ngực, mặt xám lại và ngã xuống ghế. Căn phòng nháo nhào. Uyển Như hét gọi người giúp việc, Thừa Vĩ đứng sững. Chiêu Minh cứng người như bị đóng đinh. Chỉ Thanh Nghi nhớ rõ mình đã học gì về sơ cứu.",
+      "tieu": "Ông ấy lên cơn đau tim! Đặt nằm ngửa, nới cà vạt, gọi cấp cứu, đừng để ai quấy rầy. Ngươi biết làm mà.",
+      "cast": "yn,yo,ym,yu,yv",
+      "ch": [
+        {
+          "t": "Đặt ông nằm ngửa, nới áo, gọi cấp cứu và làm theo hướng dẫn tổng đài",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô làm đúng từng bước, giữ tay ông cho đến khi xe cấp cứu tới. Chiêu Minh hồi thần lại, đứng sát bên cô, tay run nhưng không rời.",
+            "d": {
+              "hao": 7,
+              "ac": -4,
+              "hac": -3,
+              "sinh": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô làm đúng nhưng chậm hơn vài giây vì Uyển Như xô cô sang bên. Ông vẫn qua cơn nguy, nhưng cô bị đẩy ngã.",
+            "d": {
+              "hao": 3,
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Gọi cấp cứu trước, giao việc sơ cứu cho chú giúp việc rồi đứng cạnh Chiêu Minh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Chú giúp việc làm theo lời cô chỉ. Cô nắm tay Chiêu Minh, nói «anh ở đây là đủ». Anh gật đầu.",
+            "d": {
+              "hao": 6,
+              "ac": -3,
+              "hac": -2,
+              "sinh": -2
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Chú giúp việc luống cuống, mất thêm thời gian quý. Chiêu Minh quay sang nhìn cô trách móc mà không nói.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Để Uyển Như lo, chỉ đứng ngoài trấn an Chiêu Minh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Uyển Như làm rối tay chân. Chiêu Minh nhìn cô đứng im, ánh mắt khó hiểu.",
+            "d": {
+              "hao": 1,
+              "hac": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Mọi người loạn cả lên. Ông Chấn Hồng được đưa đi trễ, cô áy náy mãi.",
+            "d": {
+              "hao": -3,
+              "hac": 4,
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, nhà họ Tạ. Chấn Hồng mời Chiêu Minh và Thanh Nghi ăn cơm cùng gia đình, rồi ngã gục giữa bữa vì cơn đau tim.",
+      "no": 35
+    },
+    {
+      "id": "y36",
+      "scene": "yboard",
+      "place": "Phòng họp cổ đông · Sáng",
+      "kind": "chon",
+      "title": "Phiếu bầu loại Chiêu Minh",
+      "text": "Ba ngày sau khi Chấn Hồng nhập viện, Thừa Vĩ nhân lúc ông chưa tỉnh táo triệu tập họp cổ đông, đưa đề xuất loại Chiêu Minh khỏi hội đồng quản trị với lý do «thiếu trách nhiệm và liên quan đến tin giả». Chiêu Minh ngồi im ở cuối bàn. Nhược Hi nhìn xuống bàn, Uyển Như mỉm cười nhẹ. Tiểu Trình nhắn cho Thanh Nghi: họ chỉ còn vài chục phút trước khi bỏ phiếu.",
+      "tieu": "Giờ là lúc dùng mọi thứ ngươi đã gom: hợp đồng giả, ghi âm, bằng chứng giả của Thừa Vĩ. Đưa đúng người, đúng lúc.",
+      "cast": "yn,yv,ym,yf",
+      "ch": [
+        {
+          "t": "Gửi toàn bộ bằng chứng đã gom cho Tiểu Trình mang vào phòng họp",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Trình chiếu từng bằng chứng trước cổ đông. Có người chững lại, có người nhìn sang Thừa Vĩ. Phiếu bầu bị hoãn.",
+            "d": {
+              "hao": 6,
+              "ac": -5,
+              "hac": -4,
+              "tt": -3
+            }
+          },
+          "b": 0.59,
+          "bad": {
+            "x": "Bằng chứng thiếu mấy khâu quan trọng, Thừa Vĩ phản bác trơn tru. Phiếu bầu vẫn diễn ra nhưng chỉ thiếu một phiếu.",
+            "d": {
+              "hao": 1,
+              "hac": 3,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Chấn Hồng nhắn từ bệnh viện gửi phòng họp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ông tỉnh được nửa giờ, kịp nhắn một câu ngắn nhưng nặng: «Hoãn bỏ phiếu.» Cổ đông im lặng chấp hành.",
+            "d": {
+              "hao": 5,
+              "ac": -4,
+              "hac": -3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Ông chưa tỉnh táo, bác sĩ không cho phép ai quấy rầy. Cô không liên lạc được.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Đến đứng ngoài cửa phòng họp, chờ kết quả",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Kết quả bị hoãn vì thiếu một phiếu. Chiêu Minh bước ra nhìn cô, rồi gật đầu rất nhẹ.",
+            "d": {
+              "hao": 2,
+              "hac": 1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Kết quả nghiêng về phía Thừa Vĩ. Chiêu Minh bước ra mặt tái nhợt, đi qua cô mà không nói gì.",
+            "d": {
+              "hao": -3,
+              "hac": 5,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Sáng, phòng họp cổ đông tập đoàn họ Tạ. Khi Chấn Hồng còn nằm viện, Thừa Vĩ muốn bỏ phiếu loại Chiêu Minh khỏi hội đồng.",
+      "no": 36
+    },
+    {
+      "id": "y37",
+      "scene": "ystage",
+      "place": "Lễ trao giải Kim Hạc · Tối",
+      "kind": "duyen",
+      "title": "Lễ trao giải Kim Hạc",
+      "text": "Tối lễ trao giải Kim Hạc, thảm đỏ chật ních máy quay. Chiêu Minh nhận giải Nam chính xuất sắc nhất cho «Phong Vân Lục». Anh đứng trước khán giả, giọng bình thản: «Cảm ơn những người đã không bỏ đi khi tôi ở thời điểm khó nhất. Trong đó có một người ngồi hàng thứ ba.» Máy quay lia sang Thanh Nghi. Đường Mạn Nghê và Giản Ngạn ngồi cách đó hai hàng ghế, mặt tái đi. Bùi Thanh Vân, ngồi hàng đầu, mỉm cười nhìn cô gật đầu.",
+      "tieu": "Hắn công khai cảm ơn ngươi trước cả nước kìa! Đừng khóc ở đây. Mỉm cười thôi, giữ bình tĩnh.",
+      "cast": "yn,ym,yt,ye,yb",
+      "ch": [
+        {
+          "t": "Đứng dậy cúi chào nhẹ, rồi ngồi xuống lặng lẽ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cúi đầu rất nhẹ, mắt long lanh nhưng mỉm cười. Chiêu Minh nhìn xuống và mỉm cười đáp lại. Cả khán phòng vỗ tay.",
+            "d": {
+              "hao": 7,
+              "ac": -5,
+              "hac": -3,
+              "tt": -4
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Cô đứng lên hơi vội, váy vướng ghế. Cả khán phòng cười nhẹ, nhưng Chiêu Minh không để ý.",
+            "d": {
+              "hao": 3,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Giữ nguyên chỗ ngồi, chỉ vỗ tay và mỉm cười",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Máy quay bắt trọn nụ cười tự nhiên của cô. Dư luận thay đổi chóng mặt vì nhìn thấy cô không làm màu.",
+            "d": {
+              "hao": 4,
+              "ac": -2,
+              "tt": -3
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Máy quay lia lại lần nữa, bắt nét mặt cô đang căng thẳng. Mạn Nghê tung ngay ảnh chụp vào mạng.",
+            "d": {
+              "hao": 1,
+              "tt": 4,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Gặp Bùi Thanh Vân ở hành lang, cảm ơn bà đã đứng về phía cô",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thanh Vân cười khẽ: «Cô bé khá lắm. Có gì cần cứ gọi tôi.» Bà hứa sẽ lên tiếng giúp cô nếu có chuyện cần.",
+            "d": {
+              "hao": 3,
+              "ac": -1,
+              "tt": -3
+            },
+            "f": "thanvan_hua"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Thanh Vân bận tiếp khách, chỉ gật đầu và đi thẳng. Cô bỏ lỡ cơ hội.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, lễ trao giải Kim Hạc. Chiêu Minh nhận giải Nam chính xuất sắc và công khai cảm ơn Thanh Nghi trước hàng triệu khán giả.",
+      "no": 37
+    },
+    {
+      "id": "y38",
+      "scene": "ycourt",
+      "place": "Cơ quan điều tra và tòa soạn · Sáng",
+      "kind": "hiem",
+      "title": "Vạch trần Quản Kiêu",
+      "text": "Sáng sớm, một hợp đồng giả khác lại xuất hiện: Quản Kiêu vừa nộp đơn kiện Hoa Diệu với số nợ gấp ba. Thụy Phong gần như sụp đổ. Thanh Nghi nhìn tập hồ sơ mình đã gom suốt mấy tháng: hợp đồng đầu tiên, tin nhắn đe dọa, bản ghi âm Giai Nguyệt đưa, ý kiến luật sư. Tiểu Trình đã mang tin này tới cơ quan chức năng. Chỉ còn một bước: nộp đúng hồ sơ, đúng chỗ, đúng lúc.",
+      "tieu": "Đây là lúc lật bàn. Chứng cứ ngươi gom nhiều hay ít sẽ quyết định kết quả. Nộp cho đúng nơi.",
+      "cast": "yn,yk,yp,yf,yz",
+      "ch": [
+        {
+          "t": "Nộp toàn bộ hồ sơ gốc cùng bản ghi âm và ý kiến luật sư cho cơ quan chức năng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cơ quan chức năng xem xét từng bản gốc, nhận ra chữ ký giả. Quản Kiêu bị gọi lên làm việc, số nợ giả bị hủy. Thụy Phong lần đầu thở ra nhẹ nhõm sau nhiều tháng.",
+            "d": {
+              "hao": 5,
+              "ac": -6,
+              "hac": -4,
+              "tt": -4
+            },
+            "f": "kieu_do"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hồ sơ còn thiếu một vài bản gốc, cơ quan chức năng yêu cầu bổ sung. Quản Kiêu kịp thời gian rút lui một phần.",
+            "d": {
+              "hao": 1,
+              "hac": 2,
+              "sinh": -4
+            },
+            "f": "kieu_thoat"
+          }
+        },
+        {
+          "t": "Nhờ Thiên Hân đăng bài kèm hồ sơ để dư luận gây áp lực",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thiên Hân đăng bài chi tiết, báo chí khác nối tiếp. Quản Kiêu mất uy tín, nhà đầu tư rút khỏi quỹ Kiêu Thịnh.",
+            "d": {
+              "hao": 5,
+              "ac": -5,
+              "hac": -3,
+              "tt": -5
+            },
+            "f": "kieu_do"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Bài viết bị chặn ngay trước giờ phát hành. Thiên Hân bị gọi vào làm việc, Quản Kiêu kịp tạo bản phản biện.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "sinh": -4
+            },
+            "f": "kieu_thoat"
+          }
+        },
+        {
+          "t": "Hẹn Quản Kiêu nói riêng, đề nghị ông ta rút đơn để cả hai cùng yên",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ông ta cười khẩy rồi rút đơn kiện với điều kiện cô im lặng. Thụy Phong thoát nợ nhưng Quản Kiêu vẫn nguyên quyền lực ngoài kia.",
+            "d": {
+              "hao": 1,
+              "ac": 1,
+              "hac": 2
+            },
+            "f": "kieu_thoat"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Ông ta ghi âm cuộc nói chuyện và dọa sẽ công bố. Cô phải rời đi trong tình thế bất lợi.",
+            "d": {
+              "hao": -2,
+              "hac": 3,
+              "tt": 5,
+              "sinh": -5
+            },
+            "f": "kieu_thoat"
+          }
+        }
+      ],
+      "ctx": "Sáng, cơ quan điều tra và tòa soạn. Quản Kiêu nộp đơn kiện Hoa Diệu với số nợ giả gấp ba. Thanh Nghi cùng Tiểu Trình mang toàn bộ hồ sơ gom được để vạch trần ông ta.",
+      "no": 38
+    },
+    {
+      "id": "y39",
+      "scene": "ysea",
+      "place": "Bãi biển nhỏ · Hoàng hôn",
+      "kind": "chon",
+      "title": "Lời cầu hôn",
+      "text": "Sau ngày mọi chuyện lắng xuống, Chiêu Minh đưa Thanh Nghi ra bãi biển nhỏ ngoài thành phố. Hoàng hôn đỏ như rượu, sóng vỗ vào chân hai người. Anh dừng lại, lấy từ túi áo một chiếc hộp nhung nhỏ, quỳ xuống trên cát. «Em từng là fan của anh. Giờ anh muốn trở thành fan của em.» Giọng anh run một chút, tay cầm hộp nhẫn cũng run. Tiểu Châu im bặt, như cố giữ yên lặng cho khoảnh khắc này.",
+      "tieu": "Cô đừng nhìn ta! Chuyện này là của hai người. Chọn thế nào cũng được, miễn là thật lòng.",
+      "cast": "yn,ym",
+      "ch": [
+        {
+          "t": "Nhận lời, đưa tay cho anh đeo nhẫn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đeo nhẫn vào ngón tay cô, ôm cô thật chặt. Cả hai đứng im nghe tiếng sóng một lúc lâu.",
+            "d": {
+              "hao": 12,
+              "ac": -8,
+              "hac": -6
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Cô nhận lời nhưng bàn tay run quá, nhẫn rơi xuống cát. Anh bật cười, nhặt lên và đeo lại cho cô. Khoảnh khắc không trọn vẹn nhưng vẫn ấm.",
+            "d": {
+              "hao": 7,
+              "ac": -3,
+              "hac": -2
+            }
+          }
+        },
+        {
+          "t": "Nói muốn cưới, nhưng xin thời gian cùng anh xử lý xong chuyện nhà họ Tạ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhìn cô thật lâu rồi gật đầu: «Vậy anh chờ.» Anh nắm tay cô thật chặt, và cô biết anh hiểu.",
+            "d": {
+              "hao": 8,
+              "ac": -5,
+              "hac": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh hơi sững, rồi cười gượng: «Anh hiểu.» Nhưng cô thấy tay anh siết lại trước khi buông.",
+            "d": {
+              "hao": 2,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Hỏi anh vì sao muốn cưới ngay lúc này",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh kể anh sợ nhiều thứ có thể mất đi. Cô nghe xong, nắm tay anh: «Em hiểu rồi.»",
+            "d": {
+              "hao": 5,
+              "ac": -2,
+              "hac": -1
+            }
+          },
+          "b": 0.52,
+          "bad": {
+            "x": "Anh nhìn cô lâu hơn mong đợi. «Anh nghĩ em hiểu rồi.» Anh đứng dậy nhưng không nói thêm.",
+            "d": {
+              "hao": -3,
+              "hac": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Hoàng hôn, bãi biển nhỏ ngoài thành phố. Sau khi bão hợp đồng qua đi, Chiêu Minh cầu hôn Thanh Nghi.",
+      "no": 39
+    },
+    {
+      "id": "y40",
+      "scene": "yhall",
+      "place": "Sảnh cưới · Chiều",
+      "kind": "duyen",
+      "title": "Chuẩn bị ngày cưới",
+      "text": "Cả hai chọn một sảnh cưới nhỏ ven sông cho tuần sau. Tiểu Châu lên tiếng, giọng khẽ hơn thường lệ: mốc nguy hiểm nhất của nhiệm vụ nằm đúng ngày cưới, trên đường từ khách sạn đến sảnh. Cô cần chuẩn bị. Chú Hòa, tài xế lâu năm của nhà họ Tạ, mỉm cười nhận dạy cô vài kỹ thuật lái xe phòng ngự và cách lập lộ trình dự phòng. Chú nói: «Nhà cô cậu cần người tỉnh táo hơn là người dũng cảm.»",
+      "tieu": "Ta không được nói trước chuyện chưa xảy ra, chỉ nhắc cô: học kỹ vào. Tai nạn có thể tránh được nếu biết trước tuyến đường và người lạ.",
+      "cast": "yn,yh2,tc",
+      "ch": [
+        {
+          "t": "Học kỹ thuật phanh gấp, giữ khoảng cách và quan sát gương cùng chú Hòa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhớ đúng từng thao tác, chú Hòa gật đầu hài lòng. Cô cảm thấy tự tin hơn nhiều.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.59,
+          "bad": {
+            "x": "Cô nhầm giữa chân ga và chân phanh khi tập. Chú Hòa kiên nhẫn chỉnh lại từng bước.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Cùng chú Hòa vẽ ba lộ trình dự phòng từ khách sạn đến sảnh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người đánh dấu ba tuyến đường khác nhau, tính sẵn thời gian từng đoạn. Cô ghi nhớ rõ trong đầu.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "lo_trinh"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nhầm một đoạn đường, chú Hòa phải kiểm tra lại cả bản đồ. Mất thêm cả buổi chiều.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Trình theo dõi người lạ quanh sảnh cưới",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Trình gật đầu nhận việc, hứa báo ngay nếu thấy ai khả nghi. Cô thấy yên tâm hơn một chút.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "tt_giu"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Tiểu Trình bận lo khâu tổ chức, quên mất việc này. Cô phải tự mình để ý hơn.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, sảnh cưới ven sông. Một tuần trước ngày cưới, Tiểu Châu cảnh báo cô sẽ có mối nguy trên đường đến lễ. Chú Hòa, tài xế lâu năm của nhà họ Tạ, nhận dạy cô lái xe phòng ngự.",
+      "learn": {
+        "n": "Lái xe phòng ngự",
+        "s": "van",
+        "v": 2
+      },
+      "no": 40
+    },
+    {
+      "id": "y41",
+      "scene": "yroad",
+      "place": "Con đường ven sông · Đêm trước cưới",
+      "kind": "hiem",
+      "title": "Chiếc xe lạ ven sông",
+      "text": "Đêm trước ngày cưới, Thanh Nghi lái xe về khách sạn sau buổi tập dượt. Qua gương chiếu hậu, cô thấy một chiếc xe đen đi sau mình đã nửa quãng đường, đèn pha tắt một bên, biển số lạ nhưng mảnh dán ở kính sau quen thuộc. Cô nhớ chiếc xe ở bãi đỗ phim trường nhiều tháng trước. Nếu Thừa Vĩ vẫn chưa buông tay, và nếu đám tay chân của Quản Kiêu còn chờ trả thù, đêm nay chỉ là phép thử trước ngày mai.",
+      "tieu": "Chiếc xe đó đấy! Mảnh dán, đèn pha: cùng nhóm với bãi đỗ xe hôm trước! Đừng dừng ở chỗ vắng, rẽ vào đường có đèn rồi gọi người.",
+      "cast": "yn,yv,yk,yf",
+      "ch": [
+        {
+          "t": "Rẽ vào đường có đèn và camera, vừa lái vừa gọi Tiểu Trình truy biển số",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Xe lạ không dám bám vào đường sáng. Tiểu Trình truy ra biển số thuộc về người thuê xe: một tay chân cũ của Quản Kiêu, được Thừa Vĩ chỉ điểm. Cô lưu lại tất cả.",
+            "d": {
+              "sinh": -3,
+              "ct": 1,
+              "hao": 3,
+              "ac": -2,
+              "hac": -2
+            },
+            "f": "biet_tai"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô rẽ nhầm vào đoạn vắng, xe lạ ép sát. Cô phanh gấp theo kỹ thuật chú Hòa dạy, thoát được nhưng bị sượt đuôi.",
+            "d": {
+              "sinh": -12,
+              "hac": 2
+            },
+            "f": "biet_tai"
+          }
+        },
+        {
+          "t": "Dừng xe ở cây xăng đông người, nhờ nhân viên gọi cảnh sát",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Xe lạ lướt qua rồi biến mất. Cảnh sát ghi biển số và hứa điều tra. Cô thở phào nhưng chưa biết ai đứng sau.",
+            "d": {
+              "sinh": -2,
+              "ct": 1
+            },
+            "f": "biet_tai"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Xe lạ dừng cách đó năm mét, chờ. Cô phải ngồi trong cây xăng đến khuya.",
+            "d": {
+              "sinh": -6
+            },
+            "f": "biet_tai"
+          }
+        },
+        {
+          "t": "Tăng tốc cắt đuôi, quay về khách sạn nhanh nhất",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Xe lạ không bắt kịp, cô về an toàn. Nhưng không có bằng chứng nào được lưu lại.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b": 0.37,
+          "bad": {
+            "x": "Cô vượt đèn đỏ để cắt đuôi, suýt đâm vào xe tải. Xe lạ vẫn bám sát.",
+            "d": {
+              "sinh": -14,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm trước ngày cưới, đường ven sông. Thanh Nghi nhận ra chiếc xe có mảnh dán lạ từng đỗ ở phim trường đang bám theo mình. Cô nhớ lời cảnh báo của Tiểu Châu.",
+      "no": 41
+    },
+    {
+      "id": "y42",
+      "scene": "ywed",
+      "place": "Con đường đến sảnh cưới · Sáng",
+      "kind": "nan",
+      "title": "Sáng ngày cưới",
+      "text": "Sáng ngày cưới, nắng đổ trên mặt sông. Đoàn xe hoa rời khách sạn. Chiêu Minh ngồi xe trước, Thanh Nghi ngồi xe sau cùng chú Hòa. Qua gương chiếu hậu, cô nhận ra chiếc xe tải cũ ở ngã tư phía trước, đèn pha nháy hai lần, như đang chờ ra hiệu. Tiểu Châu im lặng. Cô nhớ ba lộ trình dự phòng và kỹ thuật phanh gấp. Sảnh cưới đã nhìn thấy ở phía cuối đường.",
+      "tieu": "Là lúc này, đúng ngã tư này! Mọi thứ ngươi đã chuẩn bị. Ta tin ngươi.",
+      "cast": "yn,ym,yh2",
+      "ch": [
+        {
+          "t": "Ra hiệu chú Hòa đổi sang lộ trình dự phòng, báo Chiêu Minh dừng xe trước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chú Hòa rẽ sang tuyến phụ. Chiếc xe tải lao qua ngã tư trống không, đâm vào dải phân cách. Không ai bị thương. Chiêu Minh nhảy xuống xe, chạy về phía cô, ôm cô thật chặt.",
+            "d": {
+              "hao": 12,
+              "ac": -10,
+              "hac": -8,
+              "sinh": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô ra hiệu muộn nửa nhịp. Xe tải sượt qua đuôi xe, đèn vỡ và cô đập đầu vào cửa kính. Chú Hòa kịp đánh lái, cả hai thoát chết trong gang tấc.",
+            "d": {
+              "hao": 6,
+              "ac": -4,
+              "hac": -2,
+              "sinh": -20
+            }
+          }
+        },
+        {
+          "t": "Giật vô lăng chú Hòa, phanh gấp theo kỹ thuật đã học",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Xe dừng gọn. Chiếc xe tải trượt qua, đâm vào hàng rào ven sông, tài xế bị cảnh sát khống chế. Cô run rẩy bước xuống, Chiêu Minh đã đứng sẵn đó.",
+            "d": {
+              "hao": 11,
+              "ac": -9,
+              "hac": -7,
+              "sinh": -4
+            }
+          },
+          "b": 0.37,
+          "bad": {
+            "x": "Cô phanh chậm, xe tải sượt mạnh vào cửa bên. Cô mất ý thức vài giây, tỉnh dậy trong vòng tay Chiêu Minh.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -2,
+              "sinh": -24
+            }
+          }
+        },
+        {
+          "t": "Mở cửa nhảy xuống, kéo chú Hòa theo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người lăn xuống mặt đường cạnh nhau, xe tải đâm vào hàng rào. Cô trầy khắp người nhưng sống sót. Chiêu Minh chạy tới như phát điên.",
+            "d": {
+              "hao": 9,
+              "ac": -7,
+              "hac": -5,
+              "sinh": -14
+            }
+          },
+          "b": 0.3,
+          "bad": {
+            "x": "Cô nhảy không chuẩn, ngã dập đầu gối và vai. Chú Hòa kịp lôi cô ra khỏi đường trước khi xe tải lao tới.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "hac": -1,
+              "sinh": -26
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng ngày cưới, con đường ven sông đến sảnh cưới. Đoàn xe hoa lăn bánh. Một chiếc xe tải cũ chờ ở ngã tư phía trước, đúng như Tiểu Châu đã cảnh báo.",
+      "no": 42
+    }
+  ]
+}

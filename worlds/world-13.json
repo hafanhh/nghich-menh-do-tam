@@ -1,0 +1,3865 @@
+{
+  "id": "w13",
+  "no": 13,
+  "chapEnd": [
+    8,
+    16,
+    23,
+    32,
+    43
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": -0.032,
+  "p0": {
+    "mi": 60,
+    "tri": 56,
+    "van": 50
+  },
+  "params": {
+    "b1": 2.54,
+    "b2": 4.35,
+    "bad": 1.88,
+    "ac": 0.859,
+    "hac": 1.474,
+    "hao": 0.801,
+    "h0": 56,
+    "sp": 2.23,
+    "sd": 2.5
+  },
+  "names": {
+    "q_tq": "Bùi Tiểu Quất",
+    "q_th": "Úc Tễ Hàn",
+    "q_kh": "Trác Khải Hằng",
+    "q_nv": "Khương Nhược Vi",
+    "q_cv": "Lương Chí Viễn",
+    "q_tl": "Ân Tịch Lan",
+    "q_sd": "Sầm Dục",
+    "q_hd": "Hồ Duật",
+    "q_da": "Địch Ngạo",
+    "q_db": "Đàm Bình",
+    "q_hc": "Hầu Cương",
+    "q_bs": "Biện Sách",
+    "q_vt": "Cù Vĩnh Thọ"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 13 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh dùng lại hình vẽ tạm của các thế giới trước.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Ngai đôi trên đỉnh Tịch Chiếu",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Úc Tễ Hàn đã về không. Hắn học cách buông bớt, không còn nắm tay cô như sợ cô tan mất, và mỗi sáng chỉ hỏi một câu: «Hôm nay em muốn ngồi ở đâu?». Đế quốc Tịch Chiếu vẫn là nơi sạch sẽ duy nhất giữa thế giới, tang thi và người sống chung một thành. Khải Hằng giữ hộp thuốc cũ, mỗi năm một lần đứng ở biên giới nhìn lâu đài rồi quay về. Còn cô, trên ngai đôi, vẫn nghe hắn kể thêm một chút về kiếp trước mỗi đêm.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "ggarden"
+    },
+    "near": {
+      "n": "Hắn vẫn đang học buông tay",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người ngồi chung ngai, ở bên nhau rất nhiều năm. Nhưng thỉnh thoảng hắn vẫn đứng ở cổng thành đến khuya, chờ cô về, và nắm tay cô chặt hơn mức cần. Cô không giận. Cô biết hắn đang học cách tin rằng lần này cô sẽ không đi, và nỗi lo trong mắt hắn mờ dần theo mỗi năm.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "gpalace"
+    },
+    "half": {
+      "n": "Bóng hắn đứng chờ ngoài cổng",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hai người vẫn bên nhau, đế quốc vẫn bình yên. Nhưng hắn còn nghiêng về giữ chặt, chưa làm điều gì sai, chỉ hay đứng chờ cô ngoài cổng lâu hơn cần thiết. Cô ngồi cạnh hắn những lúc hắn im lặng, hy vọng một ngày hắn tin rằng không cần canh giữ ai.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "yhall"
+    },
+    "black": {
+      "n": "Lệnh vây thành không bao giờ thu lại",
+      "c": "Hắc hóa chạm 100. Nỗi sợ mất cô nuốt hết những gì còn lại ở hắn. Hắn không nghe tên mình, không nghe tiếng cô, chỉ còn lệnh vây thành bay đi mọi hướng. Đế quốc chưa kịp thành hình đã rung chuyển. Tiểu Châu khẽ gọi cô đi trước khi ánh đèn cuối cùng tắt.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "rcave"
+    },
+    "bdead": {
+      "n": "Chiếc ngai bỏ trống",
+      "c": "Sinh mệnh của Úc Tễ Hàn về 0. Hắn kiệt sức vì chạy khắp nơi để giữ cô an toàn, không hồi lại được. Chiếc ngai bên cạnh cô trống từ hôm ấy. Cô ngồi bên hắn rất lâu, tay vẫn nắm tay hắn, cho đến khi Tiểu Châu khẽ gọi cô về.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "gdream"
+    },
+    "dead": {
+      "n": "Sức cạn giữa bầy",
+      "c": "Sinh mệnh của cô cạn kiệt trước khi kịp trở về. Cô gục xuống giữa bầy tang thi im lặng, khi ở đâu đó Tễ Hàn vẫn đang chạy về phía rừng. Tiểu Châu kéo linh hồn cô đi trước khi hắn kịp tới.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "rforest"
+    }
+  },
+  "events": [
+    {
+      "id": "m01",
+      "scene": "jclinic",
+      "place": "Hiệu thuốc hoang · Ngay sau khi bị cắn",
+      "kind": "duyen",
+      "title": "Tỉnh dậy trong hiệu thuốc",
+      "text": "Tiểu Quất mở mắt giữa kệ thuốc đổ nghiêng và mùi ẩm mốc. Ngoài cửa kính vỡ có tiếng chân lê lết của tang thi. Một quả cầu ngọc xanh nhỏ lơ lửng cạnh cô: «Ta là Tiểu Châu». Nó đọc hồ sơ rất nhanh: nguyên chủ là tiểu thư Bùi Tiểu Quất, thói ở sạch, vừa bị cắn khi chạy đi lấy thuốc hạ sốt cho vị hôn phu Trác Khải Hằng. Khương Nhược Vi đã lấy thuốc đổi ngọc bội gia truyền của cô, rồi mang Khải Hằng đi ngay khi cô vừa bước ra. Người cần cảm hóa là Úc Tễ Hàn, 28 tuổi, người đứng đầu Tịch Chiếu căn cứ, cô chưa gặp. Cô soi tấm gương nứt: da trắng hồng, không giống tang thi chút nào. Quỹ đạo gốc chỉ nói gọn: cô bị bỏ rơi, tuyệt vọng và gục ngã.",
+      "tieu": "Chuyện cũ ta nói gọn thôi. Thân thể này còn nhiều điều chưa thử, nên đừng vội hoảng. Ngươi chọn trước một việc.",
+      "cast": "q_tq,q_th,q_kh,q_nv,tc",
+      "ch": [
+        {
+          "t": "Nghe Tiểu Châu kể kỹ hồ sơ, ghi nhớ ai là ai và ai nợ ai",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nghe hết, vẽ trong đầu một sợi dây nối bốn người: vị hôn phu, kẻ đổi ngọc bội, người chưa gặp và chính mình. Đầu óc cô sáng hẳn.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_ho_so"
+          },
+          "b": 0.5969000000000001,
+          "bad": {
+            "x": "Cô nghe được nửa chừng thì cơn choáng sau vết cắn kéo lại. Cô chỉ nhớ mang máng.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.56
+        },
+        {
+          "t": "Soi gương, kiểm tra vết cắn và cái bụng đói trước đã",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Vết cắn đã khép lại thành một vệt mờ. Cô thấy khỏe hơn mình tưởng, thậm chí còn muốn đi tắm.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.46309999999999996,
+          "bad": {
+            "x": "Cô lắc người, đụng đổ cả một kệ thuốc. Tiếng động vang ra tận ngoài phố.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Ngồi yên một lúc, tự nhủ mình sẽ không gục như quỹ đạo gốc",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nhìn trần nhà rất lâu rồi nói khẽ: «Chơi ván dài». Lòng dịu lại, đủ để tính tiếp.",
+            "d": {
+              "sinh": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Hiệu thuốc hoang, ngay sau khi bị cắn. Tiểu Quất nhận nhiệm vụ cảm hóa Úc Tễ Hàn và đọc hồ sơ của nguyên chủ.",
+      "learn": null,
+      "no": 1
+    },
+    {
+      "id": "m02",
+      "scene": "jclinic",
+      "place": "Hiệu thuốc · Cùng buổi",
+      "kind": "duyen",
+      "title": "Cú đấm xuyên cửa sắt",
+      "text": "Người dính đầy bụi bẩn khiến Tiểu Quất không chịu nổi, cô muốn tìm chỗ tắm ngay. Cánh cửa sắt kho thuốc bị khóa; cô đấm vào đó một cái và để lại một lỗ lớn. Tiểu Châu giải thích: thân thể này tái sinh rất nhanh, trong đầu có lõi tinh hạch mà cô điều động được, và cô hấp thu năng lượng bên ngoài để mạnh lên. Cô nhìn nắm tay rồi nhận ra nếu bóp nát Khải Hằng thì nhiệm vụ hỏng, nên quyết chỉ chơi ván dài. Cô cất túi thuốc hạ sốt nguyên chủ từng mang theo.",
+      "tieu": "Sức này đủ xuyên tường, nhưng chuyện lớn đâu nằm ở nắm đấm. Hãy tính trước khi dùng.",
+      "cast": "q_tq,tc",
+      "ch": [
+        {
+          "t": "Thử lại một lần có kiểm soát, để biết chính xác mình mạnh đến đâu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lần này cô chỉ để lại một vệt lõm đều tay. Cô hiểu mình có thể mạnh hoặc nhẹ tùy ý.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_suc"
+          },
+          "b": 0.5769000000000001,
+          "bad": {
+            "x": "Cô đo sai lực, cánh cửa sập hẳn xuống. Bụi bay mù, cô ho sặc sụa.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Tìm vòi nước còn chảy, rửa tay rồi đi tìm chỗ tắm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tìm được một vòi nước còn chảy sau kho thuốc. Nước mát rửa trôi cả cơn khó chịu.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.44309999999999994,
+          "bad": {
+            "x": "Vòi nước rỉ sét, nước bẩn bắn lên mặt. Cô nhăn mũi và rửa lại thêm lần nữa.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Cất túi thuốc hạ sốt vào nhẫn trữ vật, coi như một lời nhắc",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô cất túi thuốc vào nhẫn Bùi gia, ngón tay chạm vào ngọc lạnh. Có thể nó sẽ có ích sau này.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "giu_thuoc"
+          }
+        }
+      ],
+      "ctx": "Hiệu thuốc, cùng buổi. Tiểu Quất phát hiện sức mạnh thân thể mới và cất túi thuốc hạ sốt mang theo.",
+      "no": 2
+    },
+    {
+      "id": "m03",
+      "scene": "rforest",
+      "place": "Ngoài hiệu thuốc · Chiều",
+      "kind": "duyen",
+      "title": "Bầy tang thi cúi đầu",
+      "text": "Hơn hai mươi tang thi đứng thành vòng quanh hiệu thuốc, vừa thấy cô liền lùi lại như sợ. Cô thử truyền ý niệm «lại đây»; chúng bu quanh, vẻ lấy lòng, mang trang sức nhặt được tặng cô. Tiểu Châu: ý niệm của cô cho chúng thần trí vài tuổi và coi cô là tất cả. Cô đặt luật đầu tiên: không cắn người, không ăn thịt người. Chúng nghe răm rắp, gật đầu như trẻ con. Cô đeo thử chiếc vòng tay chúng đưa, chiếc vòng bẩn nhưng sáng.",
+      "tieu": "Chúng ngoan hơn ngươi tưởng, và cũng mong manh hơn ngươi tưởng. Luật phải rõ ngay từ ngày đầu.",
+      "cast": "q_tq,tc",
+      "ch": [
+        {
+          "t": "Nói chậm từng điều luật, bắt chúng nhắc lại cho tới khi thuộc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai mươi cái đầu gật đều theo từng chữ. Cô biết luật này sẽ không quên.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "luat_ro"
+          },
+          "b": 0.5851000000000002,
+          "bad": {
+            "x": "Có mấy con nhắc sai, cô phải nói lại tới lần thứ ba. Chiều trôi mất.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Cười với chúng, nhận hết trang sức rồi hứa sẽ cho chúng nhà",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Chúng nhảy cẫng lên. Từ giờ bầy coi cô là tất cả của mình.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "bay_tin"
+          },
+          "b": 0.49590000000000006,
+          "bad": {
+            "x": "Cô cười hơi lạc điệu, mấy con lùi lại nhìn cô khó hiểu. Cô phải dỗ thêm.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đứng yên trước bầy, để chúng tự quen mùi và tiếng của cô",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chúng ngồi xuống, im lặng quanh cô như một bức tường. Một lúc sau không ai còn run.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.429,
+          "bad": {
+            "x": "Gió đổi hướng, mấy con ngửi thấy mùi lạ và gầm khẽ. Cô phải ra lệnh để chúng yên.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Ngoài hiệu thuốc, chiều. Hơn hai mươi tang thi bu quanh Tiểu Quất; cô đặt luật không cắn người.",
+      "no": 3
+    },
+    {
+      "id": "m04",
+      "scene": "jclinic",
+      "place": "Hiệu thuốc · Tối cùng ngày",
+      "kind": "chon",
+      "title": "Kế hoạch tịnh thổ và kho tinh hạch",
+      "text": "Bầy ngồi thành hàng trong sân sau. Tiểu Quất nghĩ: nếu nhân loại diệt hết tang thi thì cô cũng bị diệt; chi bằng lập một nơi cho tang thi sống như người. Tiểu Châu có sẵn kiến thức: tang thi lên cấp bằng cách ăn tinh hạch, tới thất cấp thì lấy lại dung mạo và ý thức như người; bản vẽ lâu đài có thể xây tại chỗ. Cô mở kho tinh hạch nguyên chủ để lại trong nhẫn Bùi gia, đếm và phân từng màu. Cô phải chọn chia đều cho cả bầy hay dồn cho vài con chọn trước.",
+      "tieu": "Tinh hạch ít hơn bụng bầy, nên chia kiểu nào cũng có người thiệt. Chọn sao để không thiệt mãi một chỗ.",
+      "cast": "q_tq,tc",
+      "ch": [
+        {
+          "t": "Lập sổ ghi từng màu tinh hạch, tính kỹ xem ai nên ăn trước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi đủ ba trang: màu nào bồi dưỡng cho hệ nào, con nào đáng dồn. Kho trông gọn như một cửa hàng.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "so_kho"
+          },
+          "b": 0.5974,
+          "bad": {
+            "x": "Cô đếm nhầm hai lần, mất cả tối mới khớp. Bầy ngồi chờ đến buồn ngủ.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Chia đều một ít cho cả bầy để không con nào tủi, chừa phần cho vài con tốt",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả bầy ăn được một chút, mấy con tốt nhất ăn thêm phần của mình. Không ai gầm gừ.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "chia_deu"
+          },
+          "b": 0.5082,
+          "bad": {
+            "x": "Có con nhận thấy mình ít hơn, quay mặt đi giận. Cô phải dỗ mãi.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhắm mắt chọn ngẫu nhiên vài con để đặt hết niềm tin vào",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô chọn trúng hai con có tiềm năng nhất, như có ai đó khẽ chỉ đường. Tiểu Châu thôi chê.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "chon_vai"
+          },
+          "b": 0.3744,
+          "bad": {
+            "x": "Hai con cô chọn ăn xong chỉ ngáp. Phần còn lại phí mất.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.44
+        }
+      ],
+      "ctx": "Hiệu thuốc, tối cùng ngày. Tiểu Quất lập kế hoạch tịnh thổ và phân chia kho tinh hạch nguyên chủ để lại.",
+      "learn": {
+        "n": "Quản lý kho vật tư",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 4
+    },
+    {
+      "id": "m05",
+      "scene": "rfire",
+      "place": "Sân hiệu thuốc · Một tháng sau",
+      "kind": "duyen",
+      "title": "Sầm Dục quỳ xuống",
+      "text": "Một tháng sau, trong bầy có một tang thi được cô dồn hai màu tinh hạch cao cấp. Sầm Dục lên thất cấp ngay trong đêm: da hồng trở lại, mắt có ánh, hắn quỳ một gối trước mặt cô và gọi «Vương». Tiểu Quất trao hắn nhẫn trữ vật chứa tinh hạch và đặt luật: không cắn người, không ăn thịt người, không tự ý hại người; con nào không nghe thì bị đuổi khỏi bầy. Cô giao hắn gom những tang thi nghe lời và dựng nơi ở cho bầy, còn mình đi tìm Khải Hằng.",
+      "tieu": "Hắn nghe lời ngươi hơn cả tên mình. Lệnh nào ra cũng phải nghĩ trước, vì hắn sẽ làm đến cùng.",
+      "cast": "q_tq,q_sd,tc",
+      "ch": [
+        {
+          "t": "Nói rõ cho Sầm Dục biết «đuổi khỏi bầy» nghĩa là gì và vì sao cô đặt luật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe xong, nhắc lại luật bằng giọng chậm và rõ. Cô hiểu đã giao đúng người.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "sd_hieu"
+          },
+          "b": 0.5669000000000001,
+          "bad": {
+            "x": "Hắn gật nhưng nét mặt lúng túng. Cô nói lại thêm lần nữa.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.53
+        },
+        {
+          "t": "Nâng hắn đứng dậy, bảo hắn cứ làm theo cách hắn thấy hợp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng thẳng, mắt sáng lên như được trao một vương quốc. Từ ngày ấy hắn không còn quỳ nữa.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "sd_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn bối rối vì không quen được hỏi ý. Cô phải ra lệnh rõ lại cho yên lòng.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đưa nhẫn trữ vật rồi dặn hắn đếm lại từng viên trước mặt cô",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đếm đủ, không thiếu viên nào. Cô yên tâm ra đi.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.43309999999999993,
+          "bad": {
+            "x": "Hắn đếm sót, hai người phải đếm lại từ đầu. Cô mất cả buổi sáng.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Sân hiệu thuốc, một tháng sau. Sầm Dục lên thất cấp và nhận nhẫn trữ vật cùng luật của vương.",
+      "no": 5
+    },
+    {
+      "id": "m06",
+      "scene": "jfactory",
+      "place": "Xưởng thực phẩm · Sáng",
+      "kind": "chon",
+      "title": "Xưởng thực phẩm và que cay",
+      "text": "Xưởng thực phẩm bị tang thi chiếm; Tiểu Châu báo đây là nơi Khải Hằng và Nhược Vi sẽ xác lập quan hệ. Trong xưởng có một tang thi tam cấp tên Hồ Duật: theo Tiểu Châu, hắn từng là bạn trai của Nhược Vi, bị cô ta bỏ lại khi lái xe chạy trốn. Tiểu Quất cho hắn ăn tinh hạch lên tứ cấp, hắn nấu mì gói cho cô. Cô phân loại và cất gần hết đồ ăn trong xưởng. Còn lại một việc phải chọn: chừa thêm ít đồ khác cho tiểu đội, hay chỉ chừa toàn que cay.",
+      "tieu": "Que cay chỉ để chọc tức. Còn đồ khác để lại là lòng tốt, mà lòng tốt thì có giá của nó.",
+      "cast": "q_tq,q_hd,tc",
+      "ch": [
+        {
+          "t": "Chia thực phẩm thành ba loại, bảo quản thật kỹ phần mang đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô gói, dán nhãn và xếp đồ khô vào thùng kín. Kho của bầy đủ ăn qua mùa mưa.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "bao_quan"
+          },
+          "b": 0.5892000000000001,
+          "bad": {
+            "x": "Cô xếp lẫn đồ ẩm vào thùng khô, phải làm lại cả chục thùng. Lưng cô mỏi nhừ.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Cười, chừa hẳn một góc que cay cho tiểu đội và coi như xong",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hồ Duật cười khúc khích, hắn rất thích trò chọc tức này. Tiểu đội sẽ nhớ mãi.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "que_cay"
+          },
+          "b": 0.47769999999999996,
+          "bad": {
+            "x": "Hồ Duật cười một mình, cô nhận ra trò đùa hơi thô. Cô chừa thêm một túi gạo cho đỡ gắt.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Cùng Hồ Duật nấu một nồi mì, tính sau chuyện còn lại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mì nở đều, thơm. Hồ Duật ăn xong hứa sẽ theo cô tới cùng.",
+            "d": {
+              "sinh": 3
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.43309999999999993,
+          "bad": {
+            "x": "Nồi mì khê một nửa. Hồ Duật vẫn ăn sạch, nhưng cô thấy mình hậu đậu.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Xưởng thực phẩm, sáng. Tiểu Quất gặp Hồ Duật, cất đồ ăn và chuẩn bị đón tiểu đội Triêu Dương.",
+      "learn": {
+        "n": "Bảo quản thực phẩm",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 6
+    },
+    {
+      "id": "m07",
+      "scene": "jfactory",
+      "place": "Xưởng thực phẩm · Ba ngày sau",
+      "kind": "hiem",
+      "title": "Tiểu đội Triêu Dương và trận đòn",
+      "text": "Ba ngày sau, Tiểu Quất ngồi trong bóng tối cắn hạt dưa. Tiểu đội Triêu Dương bước vào xưởng: Trác Khải Hằng (kim và lôi), Khương Nhược Vi ôm ngọc bội và tự nhận có dị năng không gian, Lương Chí Viễn (hỏa hệ, hay mắng), Ân Tịch Lan (băng hệ, lạnh nhưng lễ phép) cùng vài người khác. Khải Hằng nói với Nhược Vi: «Đừng nhắc cô ta. Chuyện giữa ta và cô ta hết từ lúc cô ta bỏ đi.» Họ chỉ thấy toàn que cay. Rồi Hồ Duật xông vào, giả làm tang thi tam cấp, ném người của tiểu đội ra ngoài, đánh Khải Hằng và vả vài cái vào má Nhược Vi theo lệnh cô. Nhược Vi vừa lấy ngọc bội định tưới linh tuyền thì hắn nghe cô gọi «Quay lại» và nhảy đi. Cô phải quyết: ra lệnh dừng sớm, hay để hắn đánh thêm một lúc.",
+      "tieu": "Chú ý nhé, ngọc bội ấy sẽ còn xuất hiện nhiều lần. Đánh vừa đủ, đừng để nó thành thù mới.",
+      "cast": "q_tq,q_hd,q_kh,q_nv,q_cv,q_tl,tc",
+      "ch": [
+        {
+          "t": "Gọi hắn dừng ngay khi Khải Hằng nhận ra đây không phải trận đánh thường",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn dừng đúng lúc, cú đánh cuối chạm gió. Khải Hằng ngã ngồi, mắt đầy nghi hoặc nhìn bóng tối.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "dung_som"
+          },
+          "b": 0.5469,
+          "bad": {
+            "x": "Cô gọi trễ nửa nhịp, Khải Hằng bị thương nặng hơn dự tính. Cô lặng người.",
+            "d": {
+              "sinh": -4,
+              "hac": 1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cười lạnh trong bóng tối, để hắn đánh thêm vài hiệp cho họ nhớ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hồ Duật làm đúng như vậy. Cả tiểu đội tay trắng ra khỏi xưởng, cô vui thầm.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "danh_them"
+          },
+          "b": 0.4131,
+          "bad": {
+            "x": "Hắn đánh hơi mạnh, Khải Hằng chảy máu. Cô vội gọi dừng, lòng thấy không yên.",
+            "d": {
+              "sinh": -4,
+              "hac": 1
+            }
+          },
+          "b0": 0.45
+        },
+        {
+          "t": "Hô «Quay lại» khi Nhược Vi vừa mở ngọc bội, để cô ta thấy dị năng của mình vô dụng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhảy đi đúng lúc ngọc bội còn chưa kịp sáng. Nhược Vi tái mặt, nắm chặt nó hơn.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "ngoc_im"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Hắn nghe chậm một nhịp, ngọc bội sáng lên một chút. Nhược Vi nhìn quanh đầy nghi ngờ.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Xưởng thực phẩm, ba ngày sau. Tiểu đội Triêu Dương bước vào; Hồ Duật theo lệnh cô đánh Khải Hằng và Nhược Vi.",
+      "no": 7
+    },
+    {
+      "id": "m08",
+      "scene": "jfactory",
+      "place": "Xưởng thực phẩm · Ngay sau đó",
+      "kind": "chon",
+      "title": "Người lạ tên Úc Tễ Hàn",
+      "text": "Tiểu đội vừa chạy ra thì một người đàn ông lạnh lùng bước vào từ phía cửa sau; hắn đã đứng nhìn từ nãy. Úc Tễ Hàn tự giới thiệu, hỏi «Muốn theo ta không?» và hứa che chở để cô không bị ai khi dễ. Cô trêu hỏi hắn có bị mỹ mạo khuynh đảo không; hắn đáp «không», rồi nói sẽ thử thích cô nếu cô theo. Cô đáp «ta là người muốn lập một đế quốc tang thi» rồi định bỏ đi. Hắn về dặn thuộc hạ lắm lời Đàm Bình mau phát triển Tịch Chiếu căn cứ để sẵn sàng khi cô cần. Tiểu Châu: linh hồn hắn «khác thường», dò không ra.",
+      "tieu": "Đây là hắn. Hắn nhìn ngươi bằng ánh mắt như đã gặp từ lâu. Chọn cách đáp sao cho vừa kiêu vừa không đóng cửa.",
+      "cast": "q_tq,q_th,q_db,tc",
+      "ch": [
+        {
+          "t": "Đùa lại: «Anh thử xem, nhưng đừng thích ta quá nhanh»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Khóe miệng hắn khẽ nhếch. «Ta sẽ thử.» Lần đầu hắn cười, và cô nhận ra mình nhớ nụ cười ấy.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "dua_hay"
+          },
+          "b": 0.5082,
+          "bad": {
+            "x": "Câu đùa lạc đi, hắn im lặng nhìn cô một lúc. Cô vội nói sang chuyện khác.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Giữ vẻ kiêu, nói cô đã có kế hoạch riêng và sẽ tìm hắn khi cần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn gật chậm, như đã đoán trước. «Ta chờ.» Cô bước đi mà thấy lưng nóng lên vì ánh mắt hắn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            },
+            "f": "kieu_ke"
+          },
+          "b": 0.5305,
+          "bad": {
+            "x": "Cô nói hơi dài, hắn nghe xong chỉ hỏi một câu: «Khi nào?». Cô đáp không ra.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nhìn thẳng hắn, hỏi vì sao hắn lại muốn che chở một người xa lạ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn im lâu rồi đáp: «Vì ta nợ em.» Cô chưa hiểu nhưng không quên được câu ấy.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            },
+            "f": "hoi_vi_sao"
+          },
+          "b": 0.4412999999999999,
+          "bad": {
+            "x": "Hắn chỉ đáp: «Không phải bây giờ.» Cô để câu hỏi lại cho sau.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Xưởng thực phẩm, ngay sau đó. Úc Tễ Hàn xuất hiện và mời Tiểu Quất theo hắn; cô đáp mình muốn lập đế quốc tang thi.",
+      "no": 8
+    },
+    {
+      "id": "m09",
+      "scene": "jgate",
+      "place": "Cổng căn cứ số 7 · Vài ngày sau",
+      "kind": "duyen",
+      "title": "Vào căn cứ số 7",
+      "text": "Vài ngày sau, Tiểu Quất cho Hồ Duật ăn thêm tinh hạch lên ngũ cấp, dặn hắn ở ngoài căn cứ nhận những tang thi nghe lời. Cô đến cổng căn cứ số 7 do chính quyền thành phố lập, khai là người thường, qua kiểm tra mà không ai nghi ngờ. Cô được phát một phòng nhỏ ở khu người thường: miễn phí nửa tháng, sau đó nộp phí bằng tinh hạch hoặc đồ ăn, muốn có đồ ăn phải làm việc. Tin có một cô gái rất xinh vừa tới đã lan khắp khu.",
+      "tieu": "Vào cổng không khó. Ở lại mới khó, vì ai cũng biết ngươi vừa tới. Giữ mặt ngoài thật hiền.",
+      "cast": "q_tq,q_hd,tc",
+      "ch": [
+        {
+          "t": "Khai báo ngắn gọn, mặt mộc, giọng nhỏ để người kiểm tra thương hại",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Người kiểm tra nhìn cô, thở dài rồi đóng dấu thật nhanh. «Đi nhanh kẻo tối.»",
+            "d": {
+              "sinh": 2
+            },
+            "f": "vao_de"
+          },
+          "b": 0.5323,
+          "bad": {
+            "x": "Người kiểm tra nhìn kỹ hơn cô định, hỏi thêm vài câu. Cô đáp chậm, mồ hôi lạnh túa ra.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Ghi nhớ bố cục căn cứ: cổng, kho, khu người thường, tòa nhà chính",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô vẽ bản đồ trong đầu ngay lúc xếp hàng. Chỗ nào có người gác, chỗ nào vắng, cô thuộc hết.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_cu"
+          },
+          "b": 0.5769000000000001,
+          "bad": {
+            "x": "Hàng quá đông, cô bị đẩy lùi vài bước, mất một nửa bố cục. Cô đi vòng lại.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Nhận phòng, dọn qua loa rồi ra ngoài tìm hiểu giá trao đổi trong chợ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tìm được một quán nhỏ trao đồ ăn lấy tinh hạch giá phải chăng. Tối đó cô ngủ yên.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.42079999999999995,
+          "bad": {
+            "x": "Chợ chen chúc, cô bị xô nhẹ vài lần. Giá cả nơi đây đắt đến choáng váng.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cổng căn cứ số 7, vài ngày sau. Tiểu Quất khai là người thường và được phát một phòng nhỏ ở khu người thường.",
+      "no": 9
+    },
+    {
+      "id": "m10",
+      "scene": "jyard",
+      "place": "Khu người thường · Sáng hôm sau",
+      "kind": "hiem",
+      "title": "Gã thu phí",
+      "text": "Sáng hôm sau, Tiểu Quất vừa bước ra khỏi phòng thì Hầu Cương cùng đàn em chặn cô lại, đòi nộp hết tinh hạch làm «phí bảo hộ». Xung quanh mọi người im lặng, cúi đầu bước nhanh. Cô cố ý run rẩy, nói mình đến tìm vị hôn phu Trác Khải Hằng. Nghe tên, hắn khựng lại: Khải Hằng là dị năng giả nổi tiếng trong căn cứ. Có người chạy đi báo tin. Cô phải chọn: tiếp tục tỏ ra yếu ớt, hay để lộ một chút sức.",
+      "tieu": "Hắn chỉ khựng vì cái tên. Ngươi mà để lộ quá nhiều, cái tên ấy sẽ hết tác dụng.",
+      "cast": "q_tq,q_hc,tc",
+      "ch": [
+        {
+          "t": "Tiếp tục run rẩy, khóc nhỏ, nói mình chỉ muốn tìm người thân",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hầu Cương lùi lại một bước, đàn em nhìn nhau. Có người nhìn cô với ánh mắt thương hại.",
+            "d": {
+              "ac": 0,
+              "sinh": 1
+            },
+            "f": "yeu_dai"
+          },
+          "b": 0.5469,
+          "bad": {
+            "x": "Cô khóc hơi giả, một đàn em nhếch mép. Hầu Cương vẫn giữ tay nơi cổ tay cô.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Bình tĩnh nói với hắn rằng cô có thể đổi thứ khác ít tốn hơn tinh hạch",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đưa ra một món đồ ăn khô, hắn nhận mà không thắc mắc. Cô thoát nhẹ.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "doi_vat"
+          },
+          "b": 0.5023,
+          "bad": {
+            "x": "Hắn chê món đồ ít, đòi thêm. Cô phải xoay xở lâu mới thoát.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Đẩy nhẹ cổ tay hắn ra, đủ để hắn đau mà không nhận ra mình bị đẩy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn rụt tay, nhìn cô như thấy ma rồi lùi ra. Không ai dám nói gì thêm.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "lo_suc"
+          },
+          "b": 0.39080000000000004,
+          "bad": {
+            "x": "Cô đẩy hơi mạnh, hắn ngã nhào. Mọi người trố mắt nhìn cô.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.44
+        }
+      ],
+      "ctx": "Khu người thường, sáng hôm sau. Hầu Cương chặn Tiểu Quất đòi phí bảo hộ; cô nhắc tên Khải Hằng.",
+      "no": 10
+    },
+    {
+      "id": "m11",
+      "scene": "yroad",
+      "place": "Khu người thường rồi biệt thự · Ngay sau đó",
+      "kind": "nan",
+      "title": "Gặp lại Trác Khải Hằng",
+      "text": "Khải Hằng đến ngay sau đó, nhìn cô một lúc rồi xô cô ra: «Cô tưởng ta đã chết à?». Cô giải thích mình chạy đi lấy thuốc hạ sốt cho hắn; hắn không tin: «Lúc đó tang thi vây biệt thự, cô dám bước ra sao?». Hắn đưa cô về biệt thự Triêu Dương «để khỏi bị người ta cười» và bảo cô phải làm việc để ở lại. Tiểu Châu: cô càng cố giải thích, hắn càng khinh. Cô phải chọn: giải thích tiếp, hay im lặng đi theo.",
+      "tieu": "Hắn không muốn nghe sự thật nữa. Có những lúc im lặng là chiêu cao hơn lời nói.",
+      "cast": "q_tq,q_kh,tc",
+      "ch": [
+        {
+          "t": "Im lặng đi theo, trong lòng đếm từng lần hắn không nhìn thẳng vào mắt cô",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ngoan ngoãn đi sau lưng hắn. Hắn hơi chững lại vì không nghe tiếng cãi, nhưng không quay đầu.",
+            "d": {
+              "ac": 0,
+              "sinh": 2
+            },
+            "f": "im_theo"
+          },
+          "b": 0.5492,
+          "bad": {
+            "x": "Cô đi sau mà đầu óc rối bời, vấp vào bậc thềm. Hắn quay lại gắt: «Đi cho đàng hoàng.»",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nói ngắn: «Em đi lấy thuốc cho anh», rồi để đó không giải thích thêm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn khựng nửa giây rồi quay đi. Cô biết câu ấy sẽ còn ở lại trong đầu hắn.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": 0
+            },
+            "f": "noi_ngan"
+          },
+          "b": 0.4600000000000001,
+          "bad": {
+            "x": "Hắn cười khẩy, ánh mắt càng lạnh. «Lại diễn.» Cô cúi đầu lặng im.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.46
+        },
+        {
+          "t": "Cố giải thích đầy đủ từng bước, từ lúc ra khỏi biệt thự đến lúc bị cắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nghe được một nửa thì quay đi, nhưng bước chân chậm lại. Cô ghi nhận.",
+            "d": {
+              "ac": 0,
+              "sinh": -1
+            },
+            "f": "giai_thich"
+          },
+          "b": 0.3708,
+          "bad": {
+            "x": "Cô vừa nói đến chỗ bị cắn thì hắn đã bước nhanh ra xa. Cô phải chạy theo.",
+            "d": {
+              "sinh": -5
+            }
+          },
+          "b0": 0.42
+        }
+      ],
+      "ctx": "Khu người thường, rồi đường về biệt thự Triêu Dương. Khải Hằng gặp lại Tiểu Quất và không tin lời cô.",
+      "no": 11
+    },
+    {
+      "id": "m12",
+      "scene": "kvilla",
+      "place": "Biệt thự Triêu Dương · Chiều cùng ngày",
+      "kind": "chon",
+      "title": "Gian dưới cầu thang",
+      "text": "Chiều đó ở biệt thự Triêu Dương, Lương Chí Viễn chỉ gian chứa đồ dưới cầu thang cho cô ở, ném chăn bụi và giao việc giặt đồ, quét nhà, nấu cơm. Ân Tịch Lan đứng nhìn, không nói. Cô vụng về bỏ cả đống đồ vào máy giặt, lau nhà không vắt khiến Lương Chí Viễn trượt chân ngã. Cô để lại trong góc gian túi thuốc hạ sốt mang từ hiệu thuốc. Việc phải chọn là làm đúng cho tới nơi, hay tiếp tục giả vụng.",
+      "tieu": "Vụng là tấm khiên, nhưng dùng quá lâu thì thành cái xiềng. Cân nhắc đi.",
+      "cast": "q_tq,q_cv,q_tl,q_kh,tc",
+      "ch": [
+        {
+          "t": "Làm đúng từ đầu, giặt riêng đồ trắng và đồ màu, vắt khô sàn rồi lau lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Gian chứa đồ sạch tinh tươm sau một buổi chiều. Ân Tịch Lan liếc nhìn rồi gật đầu rất nhẹ.",
+            "d": {
+              "ac": 0,
+              "sinh": -1
+            },
+            "f": "lam_dung"
+          },
+          "b": 0.5892000000000001,
+          "bad": {
+            "x": "Máy giặt kẹt giữa chừng, cô phải gỡ từng món. Chiều tối vẫn chưa xong.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Giả vụng thêm vài lần nữa, cho Lương Chí Viễn tự tay dạy cô",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lương Chí Viễn mắng vài câu rồi làm mẫu. Anh ta chưa nhận ra mình đang giúp cô.",
+            "d": {
+              "ac": 0,
+              "hao": 0,
+              "sinh": 0
+            },
+            "f": "gia_vung"
+          },
+          "b": 0.47769999999999996,
+          "bad": {
+            "x": "Lương Chí Viễn mắng to hơn và ném cả khăn lau vào mặt cô. Cô nén lòng nhịn.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhờ Ân Tịch Lan chỉ chỗ để chăn và dụng cụ, rồi tự làm lấy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ân Tịch Lan chỉ gọn từng thứ, giọng lạnh nhưng rõ ràng. Cô cảm ơn, chị ấy lặng lẽ gật.",
+            "d": {
+              "ac": 0,
+              "sinh": 2
+            },
+            "f": "tl_giup"
+          },
+          "b": 0.43309999999999993,
+          "bad": {
+            "x": "Ân Tịch Lan chỉ sai ngăn, cô tìm mãi không ra. Cả hai nhìn nhau ngượng ngùng.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Biệt thự Triêu Dương, chiều cùng ngày. Lương Chí Viễn giao việc nhà cho Tiểu Quất ở gian dưới cầu thang.",
+      "no": 12
+    },
+    {
+      "id": "m13",
+      "scene": "ykitchen",
+      "place": "Bếp biệt thự · Tối",
+      "kind": "chon",
+      "title": "Nồi cháo gạo và mì",
+      "text": "Tối đó Tiểu Quất định làm bò bít tết và nấu gạo trộn bột mì. Lương Chí Viễn đau lòng vì khối thịt bò. Nhưng nồi cháo thơm bất ngờ, mọi người ăn hết. Khải Hằng uống xong nói «từ nay cô nấu cơm cho tiểu đội» rồi bỏ đi lạnh lùng. Lương Chí Viễn dịu lại chút ít; Tiểu Châu cho biết anh ta thầm thích Nhược Vi nên vẫn ghét cô. Cô phải chọn: chia phần đều, hay để lại phần cho người về muộn.",
+      "tieu": "Nồi cháo hôm nay chỉ là may mắn. Lần sau phải có cách để lặp lại.",
+      "cast": "q_tq,q_kh,q_cv,q_tl,tc",
+      "ch": [
+        {
+          "t": "Chia cháo thành từng bát đều nhau, xếp quanh bàn rồi mới gọi mọi người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ai cũng nhận một bát đầy như nhau. Không ai kêu ca, cả Lương Chí Viễn.",
+            "d": {
+              "ac": 0,
+              "hao": 0,
+              "sinh": 2
+            },
+            "f": "chia_cháo"
+          },
+          "b": 0.5346000000000001,
+          "bad": {
+            "x": "Có bát ít bát nhiều, Lương Chí Viễn càu nhàu. Cô vội múc thêm cho đỡ ồn.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Để riêng một phần cháo nóng trong nồi cho người về muộn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nửa đêm có người về, mở nồi còn ấm. Người đó lặng lẽ để lại một chiếc bát sạch trên bàn.",
+            "d": {
+              "ac": 0,
+              "sinh": 1
+            },
+            "f": "phan_muon"
+          },
+          "b": 0.5123,
+          "bad": {
+            "x": "Cháo để lâu đóng váng, phần để lại bị bỏ. Cô thấy hơi tủi.",
+            "d": {
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nấu thêm một nồi nhỏ ngay, thử lại công thức cho chắc tay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nồi thứ hai ngon hơn nồi đầu. Cô nhớ kỹ tỷ lệ bột và gạo.",
+            "d": {
+              "ac": 0,
+              "sinh": 2
+            },
+            "f": "nau_chac"
+          },
+          "b": 0.42310000000000003,
+          "bad": {
+            "x": "Nồi thứ hai hơi mặn. Cô thở dài và lần sau sẽ cẩn thận hơn.",
+            "d": {
+              "sinh": -3
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Bếp biệt thự, tối. Nồi cháo gạo trộn bột mì khiến cả tiểu đội ăn hết; Khải Hằng giao cô nấu cơm cho tiểu đội.",
+      "no": 13
+    },
+    {
+      "id": "m14",
+      "scene": "yhall",
+      "place": "Phòng khách biệt thự · Tối cùng ngày",
+      "kind": "nan",
+      "title": "Khương Nhược Vi trở về",
+      "text": "Nhược Vi vừa bước vào phòng khách thì thấy cô, sững sờ rồi giả như không quen biết. Tiểu Quất nhờ cô ta giải thích với Khải Hằng chuyện lấy thuốc và nhắc chuyện đổi ngọc bội; Nhược Vi nói chưa từng gặp cô. Ân Tịch Lan đề nghị cô ta đưa ngọc bội ra cho nguyên chủ nhận; viên ngọc không đúng hình dạng cũ (đã nhận chủ nên đổi dạng, Tiểu Châu giải thích), mọi người nhìn cô như người nói dối. Cô phải chọn: nài thêm, hay im lặng.",
+      "tieu": "Ngọc đã đổi dạng, nên ngươi không chứng minh nổi. Giờ là lúc để họ tự thấy mình sai, chứ không phải để cãi.",
+      "cast": "q_tq,q_nv,q_tl,q_kh,tc",
+      "ch": [
+        {
+          "t": "Hỏi Nhược Vi một câu: «Cô nhớ hiệu thuốc ấy ở góc phố nào không?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nhược Vi cứng họng vài giây, nói tránh sang chuyện khác. Ân Tịch Lan để ý ánh mắt ấy.",
+            "d": {
+              "ac": 0,
+              "hac": 0,
+              "sinh": -1
+            },
+            "f": "hoi_goc_pho"
+          },
+          "b": 0.4964,
+          "bad": {
+            "x": "Nhược Vi đáp trơn tru, thậm chí nhớ cả số nhà. Mọi người càng tin cô ta, cô thấy lạnh tay.",
+            "d": {
+              "sinh": -5,
+              "hac": 1
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Im lặng, nhìn thẳng vào ngọc bội trong tay cô ta rồi quay đi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nhược Vi nắm ngọc chặt hơn, tránh ánh mắt cô. Cô nhẹ nhõm vì lần đầu cô ta lộ ra điều lúng túng.",
+            "d": {
+              "ac": 0,
+              "hac": 0,
+              "sinh": -1
+            },
+            "f": "nhin_ngoc"
+          },
+          "b": 0.4295000000000001,
+          "bad": {
+            "x": "Nhược Vi cười nhạt: «Nhìn gì mà nhìn». Cả phòng cười theo, cô thấy nóng mặt.",
+            "d": {
+              "sinh": -5,
+              "hac": 1
+            }
+          },
+          "b0": 0.45
+        },
+        {
+          "t": "Nói nhỏ rằng cô tin ngọc sẽ tự nói khi đến lúc, rồi xin phép về gian dưới cầu thang",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ân Tịch Lan nghe câu ấy hơi nhíu mày, như ghi nhớ. Cô quay lưng đi rất thẳng.",
+            "d": {
+              "ac": 0,
+              "sinh": -1
+            }
+          },
+          "b": 0.4741,
+          "bad": {
+            "x": "Có người bật cười: «Ngọc mà biết nói à?». Cô lặng lẽ đi về, tai đỏ bừng.",
+            "d": {
+              "sinh": -5,
+              "hac": 1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Phòng khách biệt thự, tối cùng ngày. Nhược Vi giả như không quen Tiểu Quất; viên ngọc bội không còn đúng hình cũ.",
+      "no": 14
+    },
+    {
+      "id": "m15",
+      "scene": "yhall",
+      "place": "Phòng khách biệt thự · Cùng tối",
+      "kind": "nan",
+      "title": "«Bạn gái tôi là Khương Nhược Vi»",
+      "text": "Cùng tối đó, Tiểu Quất hỏi thẳng Khải Hằng. Hắn nắm tay Nhược Vi: «Bạn gái tôi là Khương Nhược Vi, tương lai thê tử cũng là Nhược Vi.» Cô cố nói thêm, hắn quát «Đủ rồi», dọa đuổi nếu cô còn làm phiền Nhược Vi. Cô hỏi nếu Nhược Vi lấy ngọc bội chỉ vì thích hắn thì sao; hắn cười lạnh. Ân Tịch Lan ở lại với cô sau khi mọi người rời đi, nói: «Học cách yêu bản thân trước.»",
+      "tieu": "Câu ấy nên nghe, và cũng nên nhớ. Giờ lòng ngươi đang đau, nhưng đây là chỗ dựa đầu tiên của ngươi ở nơi này.",
+      "cast": "q_tq,q_kh,q_nv,q_tl,tc",
+      "ch": [
+        {
+          "t": "Nói với Ân Tịch Lan: «Tôi còn nhớ là mình ai nên chưa sao»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ân Tịch Lan nhìn cô lâu rồi gật. Từ hôm đó chị ấy bắt đầu để ý tới cô nhiều hơn.",
+            "d": {
+              "ac": 0,
+              "hac": 0,
+              "hao": 0,
+              "sinh": 1
+            },
+            "f": "tl_tin"
+          },
+          "b": 0.5146000000000001,
+          "bad": {
+            "x": "Câu nói run run, chị ấy chỉ đặt tay lên vai cô. Cô chẳng giấu nổi vẻ mệt.",
+            "d": {
+              "sinh": -5
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Hỏi Ân Tịch Lan về Nhược Vi, nhờ chị kể điều chị thấy trong những ngày qua",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chị kể ngắn gọn: Nhược Vi hay lấy ngọc ra mỗi khi không ai nhìn. Cô ghi kỹ từng chữ.",
+            "d": {
+              "ac": 0,
+              "sinh": -1
+            },
+            "f": "tl_ke"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Chị không muốn bàn sau lưng ai. Cô hiểu và không hỏi nữa.",
+            "d": {
+              "sinh": -5
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Cười nhẹ, nói chị cứ về nghỉ, cô tự ở được một mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chị nhìn cô như muốn nói thêm điều gì, rồi thôi. Tối đó cô ngủ được vài tiếng.",
+            "d": {
+              "ac": 0,
+              "sinh": 1
+            }
+          },
+          "b": 0.42540000000000006,
+          "bad": {
+            "x": "Cô cố cười mà mắt đỏ hoe. Chị ở lại thêm một lúc mới đi.",
+            "d": {
+              "sinh": -5
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "Phòng khách biệt thự, cùng tối. Khải Hằng tuyên bố Nhược Vi là bạn gái; Ân Tịch Lan ở lại với Tiểu Quất.",
+      "no": 15
+    },
+    {
+      "id": "m16",
+      "scene": "ykitchen",
+      "place": "Bếp và biệt thự · Vài tuần sau",
+      "kind": "chon",
+      "title": "Những ngày giải thích",
+      "text": "Vài tuần trôi qua. Tiểu Quất ngày nào cũng tìm cơ hội giải thích, và càng giải thích Khải Hằng càng lạnh, càng gần Nhược Vi. Cô nấu cơm ngon đến mức cả tiểu đội mong tới bữa, thêm cả trà bánh buổi chiều. Cô nói với Tiểu Châu đây là cách để hắn nhớ mãi những lần cô đã cố gắng, để sau này nhớ lại mới đau hơn. Cô phải chọn làm trà bánh gì cho tiểu đội.",
+      "tieu": "Ngươi đang gieo hạt cho một mùa gặt rất xa. Hãy chọn thứ họ sẽ nhớ tới mỗi khi ăn.",
+      "cast": "q_tq,q_kh,q_cv,q_tl,tc",
+      "ch": [
+        {
+          "t": "Làm bánh quy bơ giản dị, nướng thật vàng, vị thơm từ bếp tỏa ra khắp nhà",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mùi bánh lan tới tận cầu thang. Ngay cả Lương Chí Viễn cũng lặng lẽ xin thêm hai cái.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "banh_quy"
+          },
+          "b": 0.5223,
+          "bad": {
+            "x": "Mẻ đầu cháy một nửa, cô nướng lại mẻ khác. Trà nguội, cô phải pha lần nữa.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Pha trà thanh cùng bánh gạo nhỏ, hợp khẩu vị của Ân Tịch Lan",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ân Tịch Lan uống hết ấm trà, khen khẽ: «Vừa phải». Cô nhớ kỹ khẩu vị cả tiểu đội.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "banh_gao"
+          },
+          "b": 0.5446000000000001,
+          "bad": {
+            "x": "Bánh gạo hơi dẻo quá, trà pha loãng. Cô tự cười và rút kinh nghiệm.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Làm bánh trứng theo công thức nhớ lại từ hồi còn là tiểu thư, thử xem sao",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bánh nở xốp, vàng ươm. Khải Hằng cắn một miếng rồi khựng lại, như nhớ ra điều gì.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "banh_trung"
+          },
+          "b": 0.43309999999999993,
+          "bad": {
+            "x": "Bánh xẹp xuống ngay khi ra lò. Cô nhìn khay bánh và bật cười một mình.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Bếp biệt thự, vài tuần sau. Tiểu Quất làm trà bánh mỗi chiều và vẫn cố giải thích cho Khải Hằng.",
+      "learn": {
+        "n": "Làm bánh trà",
+        "s": "mi",
+        "v": 1
+      },
+      "no": 16
+    },
+    {
+      "id": "m17",
+      "scene": "ykitchen",
+      "place": "Biệt thự Triêu Dương · Sáng",
+      "kind": "duyen",
+      "title": "Chuyến lấy vật tư xa",
+      "text": "Sáng nay tiểu đội chuẩn bị tới một kho hàng xa, nơi nhiều tang thi tụ tập. Lần này họ chủ động rủ Tiểu Quất đi cùng, vì cô nấu ngon. Tiểu Châu nhắc nguyên tác: ở kho hàng Nhược Vi sẽ gài cô, và Khải Hằng sẽ đẩy cô vào bầy tang thi. Trên mái kho có Địch Ngạo, tang thi ngũ cấp tự thức tỉnh ý thức, bạn học thuở nhỏ của Nhược Vi và thầm thích cô ta; hắn cai quản bầy quanh kho và đang theo dõi. Tiểu Châu: hắn chưa thuộc bầy của cô. Cô phải chuẩn bị trước.",
+      "tieu": "Ngươi biết trước kịch bản rồi. Có chuẩn bị thì cú ngã vẫn đau, nhưng chưa chắc mất mạng.",
+      "cast": "q_tq,q_kh,q_nv,q_cv,q_tl,q_da,tc",
+      "ch": [
+        {
+          "t": "Mang theo thức ăn nóng cho cả tiểu đội, làm quen từng người để lúc nguy có người tin",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả tiểu đội ăn xong ai cũng nhìn cô khác đi một chút. Ân Tịch Lan để phần cho cô ngồi cạnh.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "chuan_bi_an"
+          },
+          "b": 0.49590000000000006,
+          "bad": {
+            "x": "Thức ăn nguội ngay khi tới nơi, mọi người ăn qua loa. Cô thấy mình như người thừa.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Ghi nhớ đường vào kho, cửa phụ và chỗ yếu của bầy từ lời Tiểu Châu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô thuộc từng góc kho khi chưa đặt chân tới. Địch Ngạo trên mái kho nhìn cô từ xa, khẽ nhíu mày.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "biet_kho"
+          },
+          "b": 0.5851000000000002,
+          "bad": {
+            "x": "Cô quên mất cửa phụ nằm bên nào. Cô phải nhờ Tiểu Châu nhắc lại giữa đường.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.54
+        },
+        {
+          "t": "Nhờ Hồ Duật theo sát từ xa, sẵn sàng nghe tiếng cô gọi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hồ Duật nấp trong hẻm, sẵn sàng như cung đã giương. Cô yên tâm đi cùng tiểu đội.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "ho_tro"
+          },
+          "b": 0.429,
+          "bad": {
+            "x": "Hồ Duật đi nhầm đường, cô không tìm thấy hắn khi tới nơi. Cô bồn chồn.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Biệt thự Triêu Dương, sáng. Tiểu đội rủ Tiểu Quất đi lấy vật tư; Tiểu Châu nhắc cảnh kho hàng trong nguyên tác.",
+      "no": 17
+    },
+    {
+      "id": "m18",
+      "scene": "jsite",
+      "place": "Kho hàng · Giữa trưa",
+      "kind": "hiem",
+      "title": "Kho hàng và cú ngã",
+      "text": "Giữa trưa tại kho hàng, vài chục tang thi quanh cửa. Khải Hằng, Ân Tịch Lan và Lương Chí Viễn dọn đường; Nhược Vi đi giữa tiểu đội, thấy Tiểu Quất sợ hãi thì để ý. Nhược Vi lách tới sát cô, giả vờ bị ai đẩy rồi tự ngã vào bầy tang thi, hô to: «Tiểu Quất, cô điên rồi à!». Tiểu Quất không đẩy. Cô truyền ý niệm cho bầy: nhấc Nhược Vi lên, vả vài cái rồi thả xuống hố bùn. Khải Hằng và Địch Ngạo cùng lao tới cứu. Cô phải chọn: dặn bầy vả nhẹ, hay chỉ vây lại.",
+      "tieu": "Cô ta tự ngã, nhưng ai cũng sẽ nhìn vào ngươi. Làm vừa đủ để không ai bị thương thật.",
+      "cast": "q_tq,q_nv,q_kh,q_cv,q_tl,q_da,tc",
+      "ch": [
+        {
+          "t": "Ra lệnh bầy chỉ nhấc lên, vả một cái thật nhẹ rồi thả xuống hố bùn gần nhất",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bầy làm đúng từng chữ. Nhược Vi lấm bùn từ đầu tới chân, nhưng không một vết xước.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "ve_nhe"
+          },
+          "b": 0.5287000000000001,
+          "bad": {
+            "x": "Một con vả hơi mạnh, má Nhược Vi đỏ ửng. Cô hối hận nhưng đã muộn.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4,
+              "hac": 1
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Chỉ ra lệnh vây lại, không để ai động vào cô ta, để mặc cô ta tự hoảng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bầy vây thành vòng, không con nào chạm vào Nhược Vi. Cô ta run rẩy, mặt trắng bệch.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "vay_lai"
+          },
+          "b": 0.48410000000000003,
+          "bad": {
+            "x": "Bầy vây quá chặt, Nhược Vi hét khản tiếng. Khải Hằng lao vào, mặt tối sầm.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4,
+              "hac": 1
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Nấp sau xe, quan sát Địch Ngạo trên mái kho, chờ xem hắn làm gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Địch Ngạo nhảy xuống đỡ Nhược Vi trước cả Khải Hằng, rồi nhìn quanh như tìm ai. Cô nhớ mặt hắn.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 0
+            },
+            "f": "nhin_da"
+          },
+          "b": 0.41720000000000007,
+          "bad": {
+            "x": "Cô chờ hơi lâu, Nhược Vi bị vây thêm một lúc. Địch Ngạo gầm lên từ mái.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4,
+              "hac": 1
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "Kho hàng, giữa trưa. Nhược Vi tự ngã vào bầy tang thi và đổ tội cho Tiểu Quất.",
+      "no": 18
+    },
+    {
+      "id": "m19",
+      "scene": "jsite",
+      "place": "Trước kho hàng · Ngay sau đó",
+      "kind": "chon",
+      "title": "Lời buộc tội",
+      "text": "Lương Chí Viễn túm lấy cổ tay Tiểu Quất, quát cô ác độc. Cô cười nhẹ nói «nàng chết cũng tốt», rồi kể mình đã cầm dao phay chém đường vào hiệu thuốc vì Khải Hằng. Anh ta không tin hết. Cô nói nếu nàng sống thì là trời cứu nàng, rồi từ chối giải thích thêm. Cô phải chọn: nói thật, hay im.",
+      "tieu": "Anh ta đang giận, và người giận ghét nhất bị nghe lời ngọt. Nói ít, nhưng nói thật.",
+      "cast": "q_tq,q_cv,q_tl,tc",
+      "ch": [
+        {
+          "t": "Nói thật, kể ngắn gọn con đường từ biệt thự tới hiệu thuốc, không thêm không bớt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lương Chí Viễn im lặng, tay buông dần ra. Anh ta chưa tin nhưng không còn quát.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 0
+            },
+            "f": "noi_that"
+          },
+          "b": 0.5064000000000001,
+          "bad": {
+            "x": "Cô vừa kể đến nửa chừng thì anh ta gạt đi: «Đủ rồi.» Cô nuốt lời.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3,
+              "hac": 1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Im lặng, nhìn thẳng mắt anh ta, để vết tay hằn trên cổ tay nói thay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ánh mắt cô đủ làm anh ta chùng bước. Anh ta buông ra, quay đi và gãi đầu.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 0
+            },
+            "f": "nhin_thang"
+          },
+          "b": 0.4618,
+          "bad": {
+            "x": "Anh ta không hiểu im lặng nghĩa là gì và càng giận. Cô thấy cánh tay đau nhói.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3,
+              "hac": 1
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nhờ Ân Tịch Lan làm chứng rằng cô đứng yên suốt lúc Nhược Vi ngã",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ân Tịch Lan bước lên, nói thẳng: «Cô ấy không đẩy». Lương Chí Viễn sững người.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 0
+            },
+            "f": "tl_chung"
+          },
+          "b": 0.4618,
+          "bad": {
+            "x": "Ân Tịch Lan chỉ nhìn, không nói gì. Cô nhận ra chị ấy cũng chưa chắc.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3,
+              "hac": 1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Trước kho hàng, ngay sau đó. Lương Chí Viễn túm cổ tay Tiểu Quất và buộc tội cô độc ác.",
+      "no": 19
+    },
+    {
+      "id": "m20",
+      "scene": "yroad",
+      "place": "Trước kho hàng · Ngay sau đó",
+      "kind": "chon",
+      "title": "Xe tải của Úc Tễ Hàn",
+      "text": "Một chiếc xe tải dừng cạnh tiểu đội. Úc Tễ Hàn xuống xe: «Bọn họ không chào đón em. Ta chào đón.» Tiểu Quất từ chối: cô không cần ai bảo vệ. Hắn nhìn ra Nhược Vi bị đánh là do cô điều khiển tang thi và vẫn nói muốn cô đi cùng. Khải Hằng quay lại ôm Nhược Vi, mỉa mai cô có chỗ dựa mới. Cô phải chọn: từ chối thẳng, hay hỏi hắn nhiều hơn.",
+      "tieu": "Hắn nhìn thấu ngươi mà vẫn đứng đó. Giữ lấy ánh mắt này, vì chiều nay nó sẽ được thử.",
+      "cast": "q_tq,q_th,q_kh,q_nv,tc",
+      "ch": [
+        {
+          "t": "Từ chối thẳng, nói cô còn việc của riêng cô ở đây",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn gật chậm, lùi một bước. «Ta ở gần.» Cô tưởng hắn bỏ đi, nhưng xe vẫn đứng đó.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            },
+            "f": "te_tin"
+          },
+          "b": 0.5469,
+          "bad": {
+            "x": "Hắn gật nhưng bàn tay siết vô lăng. Cô nhận ra mình vừa làm hắn đau một chút.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Hỏi hắn: «Anh biết ta làm gì, vì sao vẫn muốn ta đi cùng?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đáp: «Vì ta biết em không đẩy.» Cô sững người, câu ấy nặng hơn bất kỳ lời bảo vệ nào.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "te_tin"
+          },
+          "b": 0.45769999999999994,
+          "bad": {
+            "x": "Hắn im lâu, mắt dán vào Khải Hằng. Cô hiểu hắn đang nén một điều gì đó.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nhìn kỹ nét mặt hắn, thử đoán vì sao hắn nhìn Khải Hằng bằng ánh mắt ấy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhận ra trong mắt hắn có một nỗi rất cũ, như đã gặp cảnh này một lần. Cô ghi lại câu hỏi cho Tiểu Châu.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 0
+            },
+            "f": "nhin_ra"
+          },
+          "b": 0.43540000000000006,
+          "bad": {
+            "x": "Cô nhìn lâu quá, hắn khẽ quay đi. Cô thấy hơi bối rối.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -3
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Trước kho hàng, ngay sau đó. Úc Tễ Hàn xuất hiện bằng xe tải và nói muốn Tiểu Quất đi cùng hắn.",
+      "no": 20
+    },
+    {
+      "id": "m21",
+      "scene": "jsite",
+      "place": "Rìa bầy tang thi · Ngay sau đó",
+      "kind": "nan",
+      "title": "Cú đẩy vào bầy tang thi",
+      "text": "Khải Hằng hùng hổ quay lại, nói «để cô biết bị tang thi vây quanh là cảm giác gì», lôi cô tới rìa bầy tang thi và đẩy vào. Lương Chí Viễn và Ân Tịch Lan can không kịp. Cô quay lại nhìn hắn một lần, ánh mắt tắt hẳn. Ở xa, trên xe tải, Úc Tễ Hàn thấy hết; Tiểu Châu báo hắn nắm vô lăng đến trắng tay và ra lệnh cho đội tiến sát.",
+      "tieu": "Mốc này nặng. Bầy sẽ không cắn ngươi, nhưng hắn thì không biết điều đó, và hắn đang nhìn.",
+      "cast": "q_tq,q_kh,q_th,q_cv,q_tl,tc",
+      "ch": [
+        {
+          "t": "Truyền ý niệm cho cả bầy đứng yên, giữ vẻ bình tĩnh để hắn nhìn thấy cô không sao",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bầy đứng chết lặng quanh cô như tượng. Từ xa, bàn tay hắn buông vô lăng một chút.",
+            "d": {
+              "ac": -2,
+              "hac": -3,
+              "hao": 3,
+              "sinh": -3
+            },
+            "f": "giu_binh_tinh"
+          },
+          "b": 0.45230000000000004,
+          "bad": {
+            "x": "Một con chưa kịp nghe lệnh, nhào tới ngửi cô. Cô phải gồng người, tim đập như trống.",
+            "d": {
+              "ac": -1,
+              "hac": 0,
+              "hao": 1,
+              "sinh": -7
+            }
+          },
+          "b0": 0.44
+        },
+        {
+          "t": "Quay lưng lại, không để Khải Hằng thấy cô sợ hay cô giận",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đứng thẳng giữa bầy, lưng không run. Khải Hằng chớp mắt, nhìn cô như người lạ.",
+            "d": {
+              "ac": -2,
+              "hac": -3,
+              "hao": 3,
+              "sinh": -3
+            },
+            "f": "giu_binh_tinh"
+          },
+          "b": 0.40769999999999995,
+          "bad": {
+            "x": "Cô quay quá nhanh, vấp ngã giữa bầy. Cô lặng người chờ nỗi đau không đến.",
+            "d": {
+              "ac": -1,
+              "hac": 0,
+              "hao": 1,
+              "sinh": -7
+            }
+          },
+          "b0": 0.42
+        },
+        {
+          "t": "Ngồi xuống giữa bầy, lặng lẽ nhìn từng con, để chúng tự hiểu cô là ai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chúng ngồi xuống theo cô thành một vòng tròn. Trong khoảnh khắc ấy, cô thấy mình mạnh hơn mọi tên đàn ông ngoài kia.",
+            "d": {
+              "ac": -2,
+              "hac": -2,
+              "hao": 3,
+              "sinh": -3
+            },
+            "f": "giu_binh_tinh"
+          },
+          "b": 0.43,
+          "bad": {
+            "x": "Cô ngồi xuống thì một con khẽ cào lên tay áo. Cô bình tĩnh gỡ ra, nhưng lòng nặng trĩu.",
+            "d": {
+              "ac": -1,
+              "hac": 0,
+              "hao": 1,
+              "sinh": -6
+            }
+          },
+          "b0": 0.43
+        }
+      ],
+      "ctx": "Rìa bầy tang thi, ngay sau đó. Khải Hằng đẩy Tiểu Quất vào bầy tang thi; Tễ Hàn thấy hết từ chiếc xe tải.",
+      "forced": 1,
+      "no": 21
+    },
+    {
+      "id": "m22",
+      "scene": "jsite",
+      "place": "Giữa bầy tang thi · Nửa giờ sau",
+      "kind": "chon",
+      "title": "Nửa giờ giữa bầy tang thi",
+      "text": "Nửa giờ sau, tang thi xung quanh vẫn không động vào cô; cô ngồi xổm giữa bầy, im lặng. Tiểu đội giết vào, Lương Chí Viễn hối hận xin lỗi; Ân Tịch Lan đỡ cô dậy: «Sống vì chính mình.» Khải Hằng liếc nhìn rồi quay đi, như nhẹ người mà không nói. Cô nói «Tôi biết», rồi nhìn xuống bàn tay vừa được đỡ. Cô phải chọn: tha thứ Lương Chí Viễn một phần, hay giữ khoảng cách.",
+      "tieu": "Tha thứ không phải là quên. Chọn mức khiến ngươi nhẹ lòng nhất mà không mất cảnh giác.",
+      "cast": "q_tq,q_cv,q_tl,q_kh,tc",
+      "ch": [
+        {
+          "t": "Nhận lời xin lỗi của Lương Chí Viễn và nhờ anh ta nấu cùng một bữa, để đền",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lương Chí Viễn ngượng chín mặt nhưng nhận lời. Bữa cơm hôm ấy là bữa ngon nhất tiểu đội từng có.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "cv_xin"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Anh ta nói lắp bắp, hai người đứng nhìn nhau lúng túng. Cô nói «thôi, mai tính».",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -2,
+              "hac": 1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Cảm ơn Ân Tịch Lan, hứa nấu món chị ấy thích mỗi tuần một lần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chị ấy hơi bất ngờ rồi cười, lần đầu tiên cô thấy chị cười. Cô nhận ra mình có thêm một người bạn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "tl_ban"
+          },
+          "b": 0.5346000000000001,
+          "bad": {
+            "x": "Chị ấy chỉ gật nhẹ, không nói gì thêm. Cô lẳng lặng đi theo.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -2,
+              "hac": 1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Giữ khoảng cách với tất cả, tự quay về gian dưới cầu thang trước mọi người",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô về đến gian nhỏ, bật một ngọn đèn nhỏ. Không ai làm phiền cô đêm ấy.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 3
+            },
+            "f": "giu_khoang"
+          },
+          "b": 0.44539999999999996,
+          "bad": {
+            "x": "Cô đi quá nhanh, vấp ngã trước cửa gian. Đầu gối rớm máu, cô nén tiếng rên.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4,
+              "hac": 1
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Giữa bầy tang thi, nửa giờ sau. Tiểu đội giết vào cứu; Lương Chí Viễn xin lỗi, Ân Tịch Lan đỡ cô dậy.",
+      "no": 22
+    },
+    {
+      "id": "m23",
+      "scene": "yoffice",
+      "place": "Biệt thự và căn cứ số 7 · Vài tuần sau",
+      "kind": "duyen",
+      "title": "Dị năng «không bị tang thi tấn công» và Triêu Dương thành",
+      "text": "Vài tuần sau, Tiểu Quất tuyên bố đã thức tỉnh dị năng «không bị tang thi tấn công». Từ nay cô không nấu cho cả đội, chỉ nấu cho ai cô thuận mắt, Ân Tịch Lan trước nhất, và đi theo các nhiệm vụ vào nơi nhiều tang thi. Cô được ở phòng riêng. Trong căn cứ có nội loạn; Khải Hằng chiếm quyền, đổi tên căn cứ thành Triêu Dương và trở thành thành chủ Triêu Dương thành. Nhóm nghiên cứu do giáo sư Biện Sách đứng đầu tới nhờ che chở và được trọng đãi. Nhược Vi lấy linh tuyền pha loãng đưa cho họ. Cô phải chọn: nhận lời mời của các tiểu đội khác, hay chỉ làm nhiệm vụ của tiểu đội mình.",
+      "tieu": "Từ giờ ngươi là món hàng quý, nên đừng cho ai giá dễ. Chọn cách khiến người ta phải hỏi ý ngươi trước.",
+      "cast": "q_tq,q_kh,q_nv,q_bs,q_tl,tc",
+      "ch": [
+        {
+          "t": "Nhận có chọn lọc: tiểu đội nào có người tốt thì đi, nhờ Ân Tịch Lan sắp xếp lịch",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lịch được xếp gọn, Ân Tịch Lan thành người quản lý cho cô. Cô nhận ra mình có thêm một đồng minh.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "nhan_chon"
+          },
+          "b": 0.5387000000000001,
+          "bad": {
+            "x": "Hai tiểu đội cùng giành, lịch bị trùng. Cô phải xin lỗi một bên.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3,
+              "hac": 1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Chỉ làm nhiệm vụ của tiểu đội mình, giữ sức cho việc lớn hơn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu đội nhẹ nhõm hơn vì cô vẫn bên họ. Cô có thêm thời gian ghi nhớ Biện Sách và nhóm nghiên cứu.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "o_nhom"
+          },
+          "b": 0.5164000000000001,
+          "bad": {
+            "x": "Một tiểu đội khác phật ý vì bị từ chối. Cô phải giải thích mất một buổi chiều.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -2,
+              "hac": 1
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Hỏi Biện Sách về công việc của nhóm nghiên cứu, thử thăm dò xem họ muốn gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Biện Sách trả lời trơn tru, nhưng ánh mắt dừng lâu ở cổ tay cô. Cô ghi nhớ điều đó.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "biet_bs"
+          },
+          "b": 0.40490000000000004,
+          "bad": {
+            "x": "Biện Sách chỉ nói chung chung rồi tìm cớ đi. Cô thấy mình hỏi hơi lộ.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3,
+              "hac": 1
+            }
+          },
+          "b0": 0.45
+        }
+      ],
+      "ctx": "Biệt thự và căn cứ số 7, vài tuần sau. Tiểu Quất tuyên bố có dị năng; Khải Hằng đổi tên căn cứ thành Triêu Dương; Biện Sách đến.",
+      "learn": {
+        "n": "Điều phối nhân sự",
+        "s": "mi",
+        "v": 1
+      },
+      "no": 23
+    },
+    {
+      "id": "m24",
+      "scene": "yhall",
+      "place": "Phòng khách Triêu Dương · Vài năm sau",
+      "kind": "duyen",
+      "title": "Bí mật ngọc bội rò rỉ",
+      "text": "Tiểu Châu tóm gọn vài năm đã qua: Triêu Dương căn cứ lớn dần, Nhược Vi giữ thân phận «dị năng không gian», nhưng tin về bảo vật trong tay cô ta đã lan khắp các căn cứ và người lạ kéo đến quanh thành. Tịch Chiếu căn cứ cũng mạnh lên rất nhanh. Rồi Ân Tịch Lan tìm Tiểu Quất ở phòng khách, dặn gần đây đừng ra ngoài. Cô nói «là ngọc bội», nhắc rằng ngọc bội vốn của mình, rồi nhìn chị ấy chờ phản ứng.",
+      "tieu": "Ngọc đã lộ tiếng, và ai cũng muốn có nó. Tin tốt là ngươi có người cảnh báo. Đừng phụ lòng chị ấy.",
+      "cast": "q_tq,q_tl,q_nv,tc",
+      "ch": [
+        {
+          "t": "Kể cho Ân Tịch Lan nghe thật về lai lịch viên ngọc, từ lúc nó còn là của nhà họ Bùi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Chị ấy nghe, gật rất chậm. «Ta sẽ không nói với ai.» Cô cảm thấy được tin lần đầu sau nhiều năm.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "tl_nghe"
+          },
+          "b": 0.4818,
+          "bad": {
+            "x": "Chị ấy nghe nhưng nét mặt khó đoán. Cô không biết chị ấy tin hay không.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Hỏi chị ấy tin gì về tình hình bên ngoài, nhờ chị ấy nói ngắn gọn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chị ấy kể ba tin quan trọng: người lạ quanh thành, Tịch Chiếu tăng quân, Biện Sách bắt đầu bàn tính. Cô ghi lại cả ba.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "tl_tin_tuc"
+          },
+          "b": 0.5487000000000001,
+          "bad": {
+            "x": "Chị ấy chỉ nói chung chung, hình như e ngại. Cô nhận ra mình vẫn là người ngoài.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Cảm ơn chị, hứa sẽ ở trong biệt thự và làm theo lời chị dặn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chị ấy thở ra nhẹ nhõm, đặt tay lên vai cô. Hôm nay cô không ra ngoài, bình an.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 3
+            }
+          },
+          "b": 0.45949999999999996,
+          "bad": {
+            "x": "Cô hứa nhưng ánh mắt dao động, chị ấy nhận ra. Chị lắc đầu và đi.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Phòng khách Triêu Dương, vài năm sau. Tin về ngọc bội lan khắp các căn cứ; Ân Tịch Lan dặn Tiểu Quất đừng ra ngoài.",
+      "no": 24
+    },
+    {
+      "id": "m25",
+      "scene": "yoffice",
+      "place": "Văn phòng của Nhược Vi · Sáng",
+      "kind": "chon",
+      "title": "Ẩu đả trong văn phòng",
+      "text": "Sáng nay Tiểu Quất xông vào văn phòng của Nhược Vi ở tòa nhà chính, túm lấy cô ta đòi ngọc bội. Ngọc bội đã nhận chủ nên không lấy được. Cô tát cô ta vài cái và lén chạm ngón tay vào ngọc để Tiểu Châu đánh dấu, về sau nó mới hiện đúng hình. Khải Hằng và Lương Chí Viễn xông vào, hắn nổi giận ra tay; hai người đánh nhau và cô thắng, vả vào mặt hắn trước mọi người. Cô phải chọn: đánh gọn rồi dừng, hay đánh tới khi hắn xin tha.",
+      "tieu": "Đánh đủ để họ biết, nhưng đừng đánh tới mức không ai còn muốn nói chuyện. Dấu trên ngọc mới là thứ quan trọng.",
+      "cast": "q_tq,q_nv,q_kh,q_cv,tc",
+      "ch": [
+        {
+          "t": "Ra đòn gọn một cái vào chỗ yếu rồi lùi lại, để hắn tự biết mình thua",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Khải Hằng ngã nhào, cả văn phòng im phăng phắc. Cô chắp tay sau lưng: «Đủ rồi.»",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "danh_gon"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Đòn hơi lệch, Khải Hằng bật dậy đánh trả. Cô phải đỡ vài cú liền mới ổn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Giữ thế thủ cho tới khi hắn mệt, rồi mới nhắm vào lúc hắn hở sườn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô né mười cú liền, rồi tung một đòn. Khải Hằng ngã, thở dốc, nhìn cô như thấy lần đầu.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "the_thu"
+          },
+          "b": 0.5246000000000001,
+          "bad": {
+            "x": "Cô tính nhịp chậm, bị hắn đấm trúng vai. Vết đau lan ra, cô cắn răng gượng dậy.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Vừa đánh vừa nói lạnh lùng, buộc hắn nghe từng câu về ngọc bội",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe mà không dám ngắt lời. Nhược Vi nép sau lưng hắn, tái mét.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "noi_ngoc"
+          },
+          "b": 0.43540000000000006,
+          "bad": {
+            "x": "Cô nói quá nhiều, hắn tranh thủ ra đòn. Cô phải dừng lại để thở.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Văn phòng của Nhược Vi, sáng. Tiểu Quất đòi ngọc bội, đánh nhau với Khải Hằng và thắng trước mọi người.",
+      "learn": {
+        "n": "Quyền anh",
+        "s": "van",
+        "v": 1
+      },
+      "no": 25
+    },
+    {
+      "id": "m26",
+      "scene": "yhall",
+      "place": "Hội đồng Triêu Dương · Hai ngày sau",
+      "kind": "nan",
+      "title": "Tịch Chiếu vây thành và đề nghị thế thân",
+      "text": "Hai ngày sau, Triêu Dương thành bị quân Tịch Chiếu bao vây. Họ do Đàm Bình chỉ huy, theo lệnh Úc Tễ Hàn (Tiểu Châu cho cô biết), đòi giao Nhược Vi trong nửa ngày, nếu không sẽ phá căn cứ, kèm lời đe dọa có hạch vũ khí. Khải Hằng không muốn giao, nhưng nhóm nghiên cứu do Biện Sách đứng đầu đòi giữ Nhược Vi vì ngọc bội. Biện Sách đề nghị đem Tiểu Quất ra thế chỗ: người Tịch Chiếu chưa gặp Nhược Vi, còn cô có thân thể đặc biệt không bị tang thi cắn, họ sẽ thích nghiên cứu. Khải Hằng ngần ngừ rồi gật đầu, dặn giữ kín vì Lương Chí Viễn và Ân Tịch Lan sẽ ngăn.",
+      "tieu": "Nghe cho kỹ, vì lúc này lời của Biện Sách mới là mối nguy. Bình tĩnh và thu thập mọi thứ ngươi có thể.",
+      "cast": "q_tq,q_bs,q_kh,q_nv,q_db,tc",
+      "ch": [
+        {
+          "t": "Nấp sau cửa, nghe hết cuộc họp và ghi nhớ từng người đã nói gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô thuộc từng chữ: ai đồng ý, ai ngập ngừng, ai im lặng. Tối đó cô lập danh sách trong đầu.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "nghe_hop"
+          },
+          "b": 0.5428000000000001,
+          "bad": {
+            "x": "Cô nghe được nửa chừng thì có người đi qua, phải nép sâu hơn. Cô mất một đoạn quan trọng.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Báo gấp cho Ân Tịch Lan để chị ấy giữ Lương Chí Viễn lại, chờ cô quyết",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Chị ấy nhận tin, lập tức chặn Lương Chí Viễn ở hành lang. Cả hai đứng nghe cô nói hết.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "bao_tl"
+          },
+          "b": 0.47589999999999993,
+          "bad": {
+            "x": "Chị ấy không ở phòng, cô nhắn qua người khác mà không thấy trả lời. Cô lo cả buổi.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Quyết tự đi sang Tịch Chiếu, coi đây là cơ hội gặp Tễ Hàn sớm hơn kế hoạch",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô thấy rõ mọi chuyện rồi mỉm cười: đây là cánh cửa mở sẵn. Tiểu Châu ghi lại lựa chọn.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "tu_di"
+          },
+          "b": 0.4313,
+          "bad": {
+            "x": "Cô nghĩ nhiều quá, đêm đó mất ngủ. Sáng ra mắt thâm quầng, nhưng đầu óc rõ hơn.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Hội đồng Triêu Dương, hai ngày sau. Tịch Chiếu vây thành đòi Nhược Vi; Biện Sách đề nghị đem Tiểu Quất thế chỗ.",
+      "no": 26
+    },
+    {
+      "id": "m27",
+      "scene": "yroad",
+      "place": "Phòng riêng rồi cổng Triêu Dương · Chiều",
+      "kind": "nan",
+      "title": "Mũi tiêm",
+      "text": "Chiều hôm đó, Tiểu Quất đang ngủ trưa trong phòng riêng thì đau nhói ở cánh tay: Khải Hằng vừa tiêm thuốc khóa dị năng cho cô. Hắn nói «coi như chuộc tội cho Nhược Vi; nếu cô sống thì vị trí ở đây vẫn còn». Cô nói hắn chưa từng tin cô, rồi: «Người yêu anh nhất, từ hôm nay biến mất.» Cô tự bước ra cổng cho người Tịch Chiếu dẫn đi. Từ lúc này tới mốc 31, thân thể cô không tái sinh được nữa, nên mỗi vết thương đều ở lại.",
+      "tieu": "Thuốc này chỉ tạm thời, nhưng trong lúc nó còn, ngươi chỉ là người thường. Giữ sức và đừng gây thêm vết nào.",
+      "cast": "q_tq,q_kh,tc",
+      "ch": [
+        {
+          "t": "Đi thẳng ra cổng, nói một câu cuối với hắn rồi không quay đầu",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đi mà không quay lại. Phía sau, Khải Hằng đứng chết lặng cho tới khi cô khuất bóng.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -2
+            },
+            "f": "roi_di"
+          },
+          "b": 0.47589999999999993,
+          "bad": {
+            "x": "Cô bước hơi vội, giày vướng vào bậc thềm. Cô ngã nhẹ, bàn tay xước máu.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -6
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Lấy túi thuốc hạ sốt trong nhẫn ra, đặt lên bàn rồi mới đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhìn túi thuốc, mặt tái đi. Cô nhẹ nhàng đóng cửa, không nói thêm lời nào.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "de_thuoc"
+          },
+          "b": 0.5205,
+          "bad": {
+            "x": "Cô đặt túi thuốc xuống thì hắn liếc nhìn rồi quay đi. Cô nuốt nghẹn, bước ra.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Cảm ơn Ân Tịch Lan và Lương Chí Viễn đã ra cổng tiễn, rồi bước đi một mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người họ đứng lặng, Ân Tịch Lan rơm rớm. Cô gật đầu, bước đi mà lòng nhẹ hẳn.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -1
+            },
+            "f": "tien_cong"
+          },
+          "b": 0.45359999999999995,
+          "bad": {
+            "x": "Không ai ra tiễn, cổng vắng tanh. Cô đi một mình giữa gió.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Phòng riêng rồi cổng Triêu Dương, chiều. Khải Hằng tiêm thuốc khóa dị năng; Tiểu Quất tự bước ra cổng cho người Tịch Chiếu dẫn đi.",
+      "no": 27
+    },
+    {
+      "id": "m28",
+      "scene": "yroad",
+      "place": "Cổng Triêu Dương · Ngay sau đó",
+      "kind": "duyen",
+      "title": "Rời Triêu Dương",
+      "text": "Đàm Bình đón cô ở cổng Triêu Dương và hỏi liên tục: có đói không, có xóc không, có cần dừng xe không. Anh ta nói thuốc chỉ tạm thời, cô sẽ khôi phục. Anh ta lỡ miệng: lão đại dặn thấy cô là phải mang về bằng mọi giá, vì lão đại rất thích cô. Cô hỏi nhà họ có váy đẹp cho cô không. Đàm Bình bắt đầu thấy cô khác với lời đồn, và nhắn về Tịch Chiếu căn cứ vài dòng ngắn.",
+      "tieu": "Anh ta lắm lời nhưng chân thành. Cứ để anh ta nói, ngươi sẽ nghe được điều ngươi muốn.",
+      "cast": "q_tq,q_db,tc",
+      "ch": [
+        {
+          "t": "Trả lời từng câu hỏi của Đàm Bình, cười để anh ta đỡ căng thẳng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ta thở phào, rồi bắt đầu kể về căn cứ không ngớt. Cô nghe được rất nhiều.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "db_tin"
+          },
+          "b": 0.5346000000000001,
+          "bad": {
+            "x": "Cô cười hơi gượng, anh ta càng lo hơn. Cô phải nói thêm vài câu nữa.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Hỏi khéo về Tễ Hàn: hắn thích ăn gì, hay làm gì lúc rảnh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đàm Bình kể không ngừng: lão đại thích đứng một mình nhìn cổng thành, và đêm nào cũng kiểm tra xem phòng cô đã sẵn sàng chưa. Cô mỉm cười.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "hoi_te"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Đàm Bình chợt tỉnh ra, im bặt rồi nói «Cái này lão đại mới được kể». Cô đành thôi.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhắm mắt nghỉ trong xe, để cơ thể hồi sức sau mũi tiêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ngủ một giấc đến cổng thành. Tỉnh dậy đã thấy một chiếc chăn mới đắp trên người.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 4
+            }
+          },
+          "b": 0.44539999999999996,
+          "bad": {
+            "x": "Xe xóc liên tục, cô không ngủ được. Tới nơi mệt hơn lúc đi.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cổng Triêu Dương, ngay sau đó. Đàm Bình đón Tiểu Quất bằng xe Tịch Chiếu và lỡ miệng nói lão đại rất thích cô.",
+      "no": 28
+    },
+    {
+      "id": "m29",
+      "scene": "jcity",
+      "place": "Cổng Tịch Chiếu và phòng váy áo · Chiều",
+      "kind": "chon",
+      "title": "Cổng Tịch Chiếu và phòng váy áo",
+      "text": "Chiều đó tại cổng Tịch Chiếu căn cứ, Úc Tễ Hàn đứng đợi. Hắn nói «lần này ở lại nhé», thấy vết kim trên tay cô và hỏi ai làm; cô nói thật, mắt hắn tối lại. Cô hỏi hắn thích cô bao nhiêu; hắn đáp «thực thích», giao căn cứ cho cô làm chủ cũng được. Cô dắt tay hắn vào căn phòng hắn đã chuẩn bị: váy áo, đá quý, trang sức. Cô chọn viên đá quý đẹp nhất (và nhìn ra viên giả). Hắn khen «đẹp lắm». Cô phải chọn: nhận hết quà, hay chỉ giữ vài món.",
+      "tieu": "Hắn tặng gì cũng thật lòng, nhưng ngươi không cần giữ hết. Chọn thế nào để hắn thấy ngươi vẫn là ngươi.",
+      "cast": "q_tq,q_th,q_db,tc",
+      "ch": [
+        {
+          "t": "Chỉ giữ vài món hợp với mình, trả những món còn lại, giải thích ngắn gọn vì sao",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn gật chậm, ghi nhớ từng món cô chọn. «Lần sau ta biết em thích gì rồi.» Cô nhận ra hắn nhớ rất kỹ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "giu_vai"
+          },
+          "b": 0.5164000000000001,
+          "bad": {
+            "x": "Hắn nghe nhưng bàn tay siết nhẹ. Cô nhận ra hắn sợ cô chê quà của mình.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Chỉ ra viên đá giả bằng giọng nhẹ nhàng rồi nhờ hắn đổi cho đúng loại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn kinh ngạc rồi bật cười thật khẽ. «Em nhìn ra à.» Từ hôm sau, mọi viên đá trong cung đều được kiểm lại.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "nhin_gia"
+          },
+          "b": 0.49410000000000004,
+          "bad": {
+            "x": "Cô nói quá thẳng, hắn hơi lúng túng. Cô vội cười để xua đi bầu không khí.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhận hết, cười nói cảm ơn rồi nhờ hắn ngồi cùng thử từng bộ váy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn ngồi thật ngay ngắn nhìn cô thử từng bộ, ánh mắt không rời. Một giờ sau cả hai quên mất giờ cơm.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 6,
+              "sinh": 3
+            },
+            "f": "nhan_het"
+          },
+          "b": 0.44949999999999996,
+          "bad": {
+            "x": "Cô thử mãi vẫn chưa chọn ra bộ ưng ý, hắn kiên nhẫn chờ nhưng cô thấy hơi ngượng.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cổng Tịch Chiếu căn cứ, chiều. Tễ Hàn đón cô ở cổng và đưa cô vào căn phòng váy áo, đá quý hắn đã chuẩn bị.",
+      "learn": {
+        "n": "Thẩm định đá quý",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 29
+    },
+    {
+      "id": "m30",
+      "scene": "yoffice",
+      "place": "Phòng làm việc của Tễ Hàn · Vài ngày sau",
+      "kind": "chon",
+      "title": "Kế hoạch thư",
+      "text": "Vài ngày sau, ở phòng làm việc của Tễ Hàn, Tiểu Quất đưa bản kế hoạch dài hơn hai mươi trang: không cho tang thi cắn người, giúp họ tiến hóa tới thất cấp, dựng thành lũy cho họ sống chung với người. Hắn đọc cả giờ rồi đề nghị cùng thống lĩnh cả thế giới; cô từ chối vì không muốn lo chuyện cứu thế. Hắn nói tang thi chưa phải thứ nguy hiểm nhất, sắp có biến dị động thực vật; cô ngạc nhiên vì sao hắn biết (Tiểu Châu ghi lại câu hỏi). Cô phải chọn: giao hết danh sách tướng tang thi, hay chỉ giao một nửa.",
+      "tieu": "Hắn biết nhiều hơn mức một người sống một đời nên biết. Giữ lại một nửa không phải là không tin, mà là để hắn còn lý do hỏi.",
+      "cast": "q_tq,q_th,tc",
+      "ch": [
+        {
+          "t": "Giao cả danh sách, kèm chú thích về tính cách từng tướng để hắn dễ phối hợp",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đọc đến đâu gật đến đó. «Em nghĩ kỹ thật.» Cô nghe hắn nói mà thấy mình được tin.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "giao_het"
+          },
+          "b": 0.5369,
+          "bad": {
+            "x": "Cô viết chú thích hơi sơ sài, hắn hỏi lại ba chỗ. Cô phải giải thích thêm.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Chỉ giao một nửa, giữ lại phần còn lại để dành cho lúc thật cần",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn cô lâu rồi mỉm cười. «Đúng, nên như vậy.» Cô nhận ra hắn thích sự thận trọng của cô.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "giao_nua"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn gật nhưng đôi mắt có một chút buồn. Cô biết hắn không muốn nghe câu «dè chừng».",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Hỏi ngược hắn: «Anh biết có biến dị thực vật từ đâu?»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn im rất lâu. «Một ngày nào đó ta sẽ kể.» Cô ghi lời hứa ấy lại, không hỏi thêm.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "hoi_kiep"
+          },
+          "b": 0.4031,
+          "bad": {
+            "x": "Hắn tránh ánh mắt cô và đổi chủ đề. Cô cảm nhận được nỗi sợ trong giọng hắn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 3,
+              "sinh": -2
+            }
+          },
+          "b0": 0.44
+        }
+      ],
+      "ctx": "Phòng làm việc của Tễ Hàn, vài ngày sau. Tiểu Quất đưa kế hoạch thư xây thành lũy cho tang thi sống chung với người.",
+      "learn": {
+        "n": "Viết kế hoạch dự án",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 30
+    },
+    {
+      "id": "m31",
+      "scene": "yhall",
+      "place": "Sảnh Tịch Chiếu · Vài ngày sau",
+      "kind": "chon",
+      "title": "Hai người tới cứu",
+      "text": "Vài ngày sau, ở sảnh Tịch Chiếu, Lương Chí Viễn, Ân Tịch Lan và vài người cũ tìm tới. Họ biết Khải Hằng đã giao cô đi nên trả huy hiệu rồi tới cứu. Thấy cô mặc váy cao quý, ngồi trong lòng Tễ Hàn nghe hắn bóc quýt, Lương Chí Viễn ngơ ngác. Họ không còn đường lui; cô mời họ ở lại làm việc, Ân Tịch Lan nhận ngay. Cô phải chọn giao họ phụ trách việc gì.",
+      "tieu": "Họ vừa mất chỗ đứng, nên việc đầu tiên phải cho họ cảm giác có ích. Xếp đúng người đúng việc.",
+      "cast": "q_tq,q_th,q_cv,q_tl,q_db,tc",
+      "ch": [
+        {
+          "t": "Giao Ân Tịch Lan phụ trách phòng tuyến băng, Lương Chí Viễn phụ trách bếp và lò hỏa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người nhận việc đúng sở trường. Đàm Bình khen cô biết dùng người.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "xep_viec"
+          },
+          "b": 0.5346000000000001,
+          "bad": {
+            "x": "Lương Chí Viễn chê bếp là việc đàn bà, bực bội. Cô phải xếp lại vào kho vũ khí.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Để họ nghỉ ba ngày, rồi tự chọn việc mình muốn làm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba ngày sau, cả hai tự đến xin việc, xin có phần. Cô nhận ra họ đã quen dần chỗ mới.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "cho_nghi"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Một người nghỉ xong lại ngơ ngác, không biết nên làm gì. Cô phải chỉ định cho gọn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhờ Tễ Hàn chỉ cho Lương Chí Viễn xem mọi quy tắc của Tịch Chiếu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tễ Hàn nói đúng ba câu, Lương Chí Viễn nghe đủ. Anh ta gật đầu nghiêm túc.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "te_chi"
+          },
+          "b": 0.44539999999999996,
+          "bad": {
+            "x": "Tễ Hàn lạnh nhạt, chỉ gật đầu. Lương Chí Viễn cảm thấy bị hắt hủi, hơi buồn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Sảnh Tịch Chiếu, vài ngày sau. Lương Chí Viễn và Ân Tịch Lan trả huy hiệu Triêu Dương, tới Tịch Chiếu xin ở lại.",
+      "no": 31
+    },
+    {
+      "id": "m32",
+      "scene": "ggarden",
+      "place": "Lâu đài trong rừng · Hôm sau",
+      "kind": "duyen",
+      "title": "Lâu đài trong rừng",
+      "text": "Hôm sau, Tiểu Quất dẫn họ vào rừng xa, đến một nơi toàn tang thi. Họ thấy lâu đài, ruộng rau, cây ăn trái mà Sầm Dục đã dựng; tang thi tiến hóa trông như người. Cô nói thật: «Tôi là tang thi.» Tễ Hàn nói thay phần còn lại: cô bị cắn khi đi lấy thuốc cho Khải Hằng và giấu thân phận từ đó. Hai người chấn động và hối hận; ngọc bội của cô và lời Nhược Vi nói dối đều sáng tỏ. Cô nói để Khải Hằng biết sau, không vội. Tiểu Châu ghi lại câu hỏi: vì sao Tễ Hàn biết rõ chuyện này?",
+      "tieu": "Đây là lúc ngươi nói thật, và là lúc hắn đứng cạnh ngươi mà không nao núng. Để ý ánh mắt hắn.",
+      "cast": "q_tq,q_th,q_cv,q_tl,q_sd,tc",
+      "ch": [
+        {
+          "t": "Nắm tay Tễ Hàn, nói: «Anh biết hết rồi, đúng không?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn không phủ nhận, chỉ nắm tay lại. «Ta sẽ kể khi em muốn nghe.» Cô gật, ngả đầu vào vai hắn.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "nam_tay"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Hắn tránh ánh mắt, siết tay cô nhẹ rồi buông. Cô thấy hắn run nhẹ.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Giới thiệu Sầm Dục cho hai người cũ, để họ thấy tang thi cũng biết lễ độ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sầm Dục cúi chào đúng phép, Ân Tịch Lan đáp lễ theo. Lương Chí Viễn ngẩn người rồi cũng cúi theo.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "gioi_thieu"
+          },
+          "b": 0.5346000000000001,
+          "bad": {
+            "x": "Sầm Dục hơi cứng nhắc, Lương Chí Viễn lùi một bước. Cô phải xoa dịu giữa hai bên.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Để hai người cũ đi quanh lâu đài một mình, tự thấy cuộc sống bên trong",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ đi qua ruộng rau, thấy tang thi làm đồng, trẻ con chạy đùa. Khi quay lại, cả hai im lặng nhìn cô.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 3
+            },
+            "f": "di_xem"
+          },
+          "b": 0.44539999999999996,
+          "bad": {
+            "x": "Họ đi lạc một đoạn, đến khi tìm thấy nhau thì đã chiều. Cô hơi áy náy.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Lâu đài trong rừng, hôm sau. Tiểu Quất nói thật thân phận tang thi với Lương Chí Viễn và Ân Tịch Lan.",
+      "no": 32
+    },
+    {
+      "id": "m33",
+      "scene": "jfactory",
+      "place": "Trạm chỉ huy Tịch Chiếu · Vài tuần sau",
+      "kind": "hiem",
+      "title": "Tin đồn và bầy quái biến dị",
+      "text": "Vài tuần sau, Tịch Chiếu căn cứ rộng ra và tin lan khắp nơi. Tịch Chiếu cố ý tung tin «Khương Nhược Vi đã bị bắt, đang ở phòng thí nghiệm»; Tiểu Châu cho biết Khải Hằng nghe tin thì mất ngủ. Cùng lúc liếm thực giả và biến dị động thực vật xuất hiện, nhiều dị năng giả bỏ mạng; các căn cứ họp bàn ở Triêu Dương thành. Tịch Chiếu căn cứ bị tấn công, mất điện; Sầm Dục dẫn đội tang thi tiêu diệt quái, còn cô khởi động lại máy phát điện cho trạm chỉ huy. Cô phải chọn: tự ra trận, hay ở lại chỉ huy.",
+      "tieu": "Mất điện là mất cả hàng phòng thủ. Đừng lao ra ngoài trước khi biết ánh sáng sẽ quay lại.",
+      "cast": "q_tq,q_th,q_sd,q_db,tc",
+      "ch": [
+        {
+          "t": "Ở lại khởi động máy phát điện trước, ra lệnh qua bộ đàm cho Sầm Dục",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Máy kêu một tiếng rồi đèn bật sáng lần lượt. Sầm Dục reo trong bộ đàm: «Vương! Có điện rồi!».",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "may_dien"
+          },
+          "b": 0.5428000000000001,
+          "bad": {
+            "x": "Máy chỉ nổ lách tách rồi tắt, cô phải thử lại từ đầu. Mồ hôi nhễ nhại.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4,
+              "hac": 1
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cùng Đàm Bình dẫn đội phụ đi chặn lối vào kho, giữ cho điện không bị cắt thêm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô ra tay nhanh gọn, chặn được con quái cuối cùng. Đàm Bình nhìn cô đầy khâm phục.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": -1
+            },
+            "f": "chan_quai"
+          },
+          "b": 0.45359999999999995,
+          "bad": {
+            "x": "Một con quái lách qua kẽ hở, cô phải đấm văng nó ra. Cánh tay đau nhức cả buổi.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -5,
+              "hac": 1
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nhờ Tễ Hàn chỉ huy phòng tuyến, mình xuống tầng hầm xử lý nguồn điện",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tễ Hàn gật đầu, không hỏi thêm. Hai người mỗi người một nơi, nhưng cùng nhịp.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "phoi_hop"
+          },
+          "b": 0.45359999999999995,
+          "bad": {
+            "x": "Tầng hầm tối om, cô lạc mất một nhịp. Tễ Hàn gọi qua bộ đàm hai lần liền, giọng hơi gấp.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "sinh": -4,
+              "hac": 2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Trạm chỉ huy Tịch Chiếu, vài tuần sau. Biến dị động thực vật tấn công Tịch Chiếu căn cứ và làm mất điện.",
+      "learn": {
+        "n": "Vận hành máy phát điện",
+        "s": "van",
+        "v": 1
+      },
+      "no": 33
+    },
+    {
+      "id": "m34",
+      "scene": "jcity",
+      "place": "Quảng trường Tịch Chiếu · Hôm sau",
+      "kind": "chon",
+      "title": "Ngày đoàn tụ",
+      "text": "Hôm sau, ở quảng trường Tịch Chiếu, dân căn cứ lần đầu thấy bầy tang thi tiến hóa. Tiểu Quất nói thẳng: tang thi trong Tịch Chiếu có ý thức, không cắn người, và có người thân của mọi người trong đó. Một bé trai đi hỏi từng tang thi tìm mẹ tên Lý Tố ở tây thành L; nhiều người tìm thấy người thân dù diện mạo đã đổi. Cô phải chọn: cho họ gặp ngay, hay chờ khi tang thi tiến hóa thêm.",
+      "tieu": "Chờ thêm thì an toàn, cho gặp thì ấm lòng. Cân nhắc điều nào quan trọng hơn.",
+      "cast": "q_tq,q_th,q_sd,tc",
+      "ch": [
+        {
+          "t": "Cho họ gặp ngay, có Sầm Dục và đội hộ vệ đứng canh quanh quảng trường",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bé trai tìm được mẹ, chạy ào vào lòng bà. Cả quảng trường nức nở rồi vỗ tay.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "gap_ngay"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Có người sợ hãi hét lên, cả quảng trường xôn xao. Cô phải trấn an từng nhóm một.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Chờ thêm vài ngày, lập danh sách người nhà trước để mọi cuộc gặp có chuẩn bị",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba ngày sau, từng gia đình gặp nhau trong yên lặng. Không ai hoảng loạn, tiếng khóc nhẹ như gió.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "cho_them"
+          },
+          "b": 0.5569000000000001,
+          "bad": {
+            "x": "Danh sách có vài chỗ sai, vài người đợi uổng công. Cô xin lỗi từng người.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Hỏi Tễ Hàn nên làm theo cách nào, tin lời hắn quyết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nghĩ một lát, nói: «Cho họ gặp. Dân cần thấy.» Cô gật. Cuộc gặp diễn ra êm.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "hoi_te2"
+          },
+          "b": 0.42310000000000003,
+          "bad": {
+            "x": "Hắn im lặng, nhìn đám đông bằng ánh mắt khó đoán. Cô tự quyết, thấy hơi lẻ loi.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -3
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Quảng trường Tịch Chiếu, hôm sau. Dân căn cứ lần đầu thấy tang thi tiến hóa; một bé trai đi tìm mẹ.",
+      "no": 34
+    },
+    {
+      "id": "m35",
+      "scene": "gpalace",
+      "place": "Cung Tịch Chiếu · Vài tháng sau",
+      "kind": "chon",
+      "title": "Tịch Chiếu đế quốc",
+      "text": "Vài tháng sau, tang thi ngoài căn cứ gần như biến mất, tất cả theo về Tịch Chiếu. Căn cứ đổi tên thành Tịch Chiếu đế quốc, xây lâu đài thống nhất theo bản vẽ Tiểu Châu đưa, lấy vật liệu tại chỗ. Một kẻ phản loạn xông vào cung bị cô vả xuống một hố sâu; Tễ Hàn giữ hố làm «Hố của Vương». Cô cho xây thêm tới một mức rồi dừng, nói chỉ cần một nơi cho tang thi, không có kiên nhẫn cứu hết thiên hạ. Cô phải chọn: mở rộng thêm vài khu, hay giữ phạm vi.",
+      "tieu": "Đế quốc là một cái nhà lớn. Nhà càng lớn càng khó giữ ấm, nên hãy chọn mức vừa tầm tay.",
+      "cast": "q_tq,q_th,q_sd,q_db,tc",
+      "ch": [
+        {
+          "t": "Giữ phạm vi như cũ, chỉ củng cố tường và đường nước cho vững",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đế quốc nhỏ nhưng vững như bàn thạch. Tễ Hàn khen cô biết chừng mực.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "giu_pham_vi"
+          },
+          "b": 0.5792,
+          "bad": {
+            "x": "Cô tính toán lệch, đường nước rỉ một đoạn. Cả đội phải sửa mấy ngày.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.53
+        },
+        {
+          "t": "Mở rộng thêm hai khu cho dân tị nạn bên ngoài, đồng thời tăng quân canh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dân bên ngoài đổ về, cả đế quốc rộn ràng. Tễ Hàn lặng lẽ bố trí thêm người canh, không than.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "mo_rong"
+          },
+          "b": 0.44539999999999996,
+          "bad": {
+            "x": "Dân đông quá nhanh, đồ ăn thiếu một thời gian. Cô và Tễ Hàn phải thức đêm lo.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -4
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Vẽ lại bản vẽ khu mới, nhờ Sầm Dục và vài tướng tang thi xây từng bước",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bản vẽ tinh tế, tướng tang thi xây từng viên đá. Một khu thành hình sau chỉ vài tuần.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "ve_ban"
+          },
+          "b": 0.44539999999999996,
+          "bad": {
+            "x": "Bản vẽ có một chỗ không khớp, phải đập đi xây lại. Cô thở dài, chỉnh từng nét.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cung Tịch Chiếu, vài tháng sau. Căn cứ đổi tên thành Tịch Chiếu đế quốc, lâu đài xây theo bản vẽ Tiểu Châu đưa.",
+      "learn": {
+        "n": "Vẽ bản vẽ nhà",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 35
+    },
+    {
+      "id": "m36",
+      "scene": "gbanquet",
+      "place": "Cung điện Tịch Chiếu · Một chiều",
+      "kind": "chon",
+      "title": "Vương miện và lời cầu hôn",
+      "text": "Một chiều trong cung điện Tịch Chiếu, Úc Tễ Hàn nâng một chiếc vương miện nạm đá quý. Hắn đội cho cô, nói điều hắn muốn chỉ là tình cảm của cô; cô hỏi hắn có muốn nhân tiện cầu hôn không. Hắn quỳ xuống đưa nhẫn kim cương, cô đồng ý; hắn ôm cô, hôn lên mu bàn tay. Cùng ngày Tịch Chiếu đế quốc ra mắt, người dân hoan hô. Cô phải chọn: đáp ngay, hay bảo hắn kể thêm về mình trước.",
+      "tieu": "Hắn quỳ giữa cung điện này, không phải vì ngai vị mà vì chờ ngươi. Chọn cách đáp để lời hứa này đủ nặng.",
+      "cast": "q_tq,q_th,q_db,tc",
+      "ch": [
+        {
+          "t": "Đồng ý ngay, đeo nhẫn và ôm lại hắn trước mặt cả đế quốc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiếng hoan hô vang cả quảng trường. Hắn nhắm mắt, giọng khàn: «Cảm ơn em.»",
+            "d": {
+              "ac": -5,
+              "hac": -5,
+              "hao": 8,
+              "sinh": 2
+            },
+            "f": "dong_y"
+          },
+          "b": 0.5228,
+          "bad": {
+            "x": "Cô quên đeo nhẫn đúng ngón, cả hai bật cười. Tiếng cười ấy làm khán giả cười theo, buổi lễ vẫn trọn vẹn.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhờ hắn kể về kiếp trước, về những điều hắn còn giữ, rồi mới đáp",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn kể một đoạn ngắn: một đỉnh núi, một người đến muộn. Cô nắm tay hắn, nói «em ở đây». Hắn nắm lại thật chặt.",
+            "d": {
+              "ac": -5,
+              "hac": -5,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "ke_kiep"
+          },
+          "b": 0.4113,
+          "bad": {
+            "x": "Hắn ấp úng, chưa sẵn sàng kể. Cô nói «không sao», để lại câu hỏi cho sau.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 0
+            }
+          },
+          "b0": 0.44
+        },
+        {
+          "t": "Chọn khoảnh khắc yên tĩnh trong vườn cung, chỉ hai người, rồi mới nhận nhẫn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Giữa vườn cung, ánh chiều dịu, cô nhận nhẫn từ tay hắn. Hắn hôn lên trán cô, khe khẽ như sợ vỡ.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 8,
+              "sinh": 2
+            },
+            "f": "o_vuon"
+          },
+          "b": 0.4559000000000001,
+          "bad": {
+            "x": "Gió thổi bay vương miện, cô vội đỡ lấy. Hắn đỡ tay cô, cả hai bật cười, lễ vẫn tròn.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Cung điện Tịch Chiếu, một chiều. Úc Tễ Hàn đội vương miện cho cô và quỳ cầu hôn.",
+      "no": 36
+    },
+    {
+      "id": "m37",
+      "scene": "jgate",
+      "place": "Cổng Tịch Chiếu · Vài tuần sau",
+      "kind": "chon",
+      "title": "Địch Ngạo xin nhập quốc",
+      "text": "Vài tuần sau, ở cổng Tịch Chiếu, Địch Ngạo, nay đã lục cấp, nhận ra cô là người mà ngày xưa hắn từng thấy từ trên mái kho và quỳ chào «Vương». Hắn nói đã nhận ra Nhược Vi không còn cần hắn và muốn tìm nơi thuộc về. Cô giao hắn vào đội hộ quốc, dặn ăn biến dị thực vật để tiến hóa. Tiểu Châu: Nhược Vi vừa nhắn tìm hắn, hắn không đáp. Cô phải chọn: thử lòng hắn trước, hay nhận ngay.",
+      "tieu": "Hắn đã cúi đầu, nhưng một lời hứa chưa chắc bằng một ngày làm việc. Thử lòng nhẹ thôi, đừng đẩy hắn đi.",
+      "cast": "q_tq,q_da,q_th,tc",
+      "ch": [
+        {
+          "t": "Nhận hắn ngay, giao hắn làm đội phó đội hộ quốc dưới quyền Sầm Dục",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn quỳ xuống thêm lần nữa, rồi đứng lên vững vàng. Sầm Dục vỗ vai hắn như anh em.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "nhan_da"
+          },
+          "b": 0.5082,
+          "bad": {
+            "x": "Hắn ấp úng nhận lệnh, rõ ràng chưa quen. Cô phải nhẹ nhàng dạy lại.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Thử lòng: bắt hắn gác cổng ba ngày không được tự ý ra ngoài",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba ngày trôi, hắn không ý kiến một câu. Cô gật đầu: hắn xứng đáng ở lại.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "thu_long"
+          },
+          "b": 0.5305,
+          "bad": {
+            "x": "Hắn bỏ gác một lúc để tìm nước, cô thở dài. Hắn xin lỗi, cô cho thêm cơ hội.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Hỏi thẳng hắn: «Nhược Vi gọi, anh có định đáp không?»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn lắc đầu chắc nịch. «Không. Từ nay vương là chủ của thần.» Cô tin lời ấy.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "hoi_da"
+          },
+          "b": 0.4412999999999999,
+          "bad": {
+            "x": "Hắn im lặng rất lâu. Cô nhận ra hắn vẫn còn lưỡng lự, nhưng không ép nữa.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Cổng Tịch Chiếu, vài tuần sau. Địch Ngạo, nay đã lục cấp, xin nhập quốc.",
+      "no": 37
+    },
+    {
+      "id": "m38",
+      "scene": "gdream",
+      "place": "Phòng làm việc Tịch Chiếu · Mười năm sau",
+      "kind": "duyen",
+      "title": "Ngọc bội trở về hình cũ",
+      "text": "Mười năm sau, Tiểu Châu bật màn hình cho cô xem Triêu Dương đế quốc. Linh tuyền trong ngọc bội cạn, đất bên trong thành cát; ngọc bội hiện đúng hình cũ với chữ «Bùi» (dấu cô đánh ở mốc 25). Khải Hằng nhận ra viên ngọc của nguyên chủ, nhận ra Nhược Vi nói dối. Hắn tước dị năng và ngọc bội của cô ta rồi đuổi khỏi Triêu Dương, quay về biệt thự, mở gian dưới cầu thang, thấy túi thuốc hạ sốt cô để lại và giữ lại. Câu hỏi bỏ ngỏ về ngọc bội được trả lời.",
+      "tieu": "Chân tướng đã lộ, nhưng ngươi không cần ai trả giá. Hãy xem ngươi cảm thấy thế nào trước khi chọn.",
+      "cast": "q_tq,q_kh,q_nv,q_th,tc",
+      "ch": [
+        {
+          "t": "Lặng lẽ nhìn màn hình tới cuối, chờ Tiểu Châu kể hết mọi chi tiết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô xem tới khi hình ảnh cuối tắt. Lòng nhẹ như vừa buông một gánh nặng mười năm.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 4,
+              "sinh": 3
+            },
+            "f": "xem_het"
+          },
+          "b": 0.5346000000000001,
+          "bad": {
+            "x": "Cô xem được nửa thì thấy mắt cay, phải dừng lại. Tiểu Châu kể nốt phần còn lại.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nói với Tễ Hàn chuyện hôm nay, nhờ hắn ngồi cạnh khi cô xem",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngồi xuống, nắm tay cô. «Em muốn ta làm gì không?» Cô lắc đầu: «Ở đây là đủ rồi.»",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 3
+            },
+            "f": "ngoi_canh"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Hắn nghe xong đứng dậy đi lại, vẻ giận dữ chưa kịp giấu. Cô phải kéo hắn ngồi xuống.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Tắt màn hình, ra vườn hái một quả cam, ăn chậm rãi một mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Quả cam ngọt, gió chiều mát. Cô nhận ra mình đã thôi oán từ lâu rồi.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 4,
+              "sinh": 4
+            },
+            "f": "hai_cam"
+          },
+          "b": 0.44539999999999996,
+          "bad": {
+            "x": "Quả cam chua lét, cô nhăn mặt rồi bật cười. Chuyện cũ lại dâng lên một chút.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Phòng làm việc Tịch Chiếu, mười năm sau. Tiểu Châu bật màn hình cho Tiểu Quất xem ngọc bội trở về hình cũ và Khải Hằng đuổi Nhược Vi.",
+      "no": 38
+    },
+    {
+      "id": "m39",
+      "scene": "gtemple",
+      "place": "Chợ Tịch Chiếu · Sau đó",
+      "kind": "chon",
+      "title": "Rau quả đổi đá quý",
+      "text": "Sau đó, các nước và thương nhân tới Tịch Chiếu; Cù Vĩnh Thọ là người đầu tiên. Thấy rau quả và đất sạch khan hiếm, họ mang đá quý tới đổi. Tiểu Quất bán hạt giống, dạy cách trồng đơn giản (đào hố, bỏ hạt, lấp đất, tưới nước) và cách cải tạo đất bẩn; khách ngỡ cô đùa. Cô còn bán đất sạch theo cân với giá rất cao. Tễ Hàn lo phần giao dịch. Cô phải chọn: dạy hết, hay chỉ dạy bước cơ bản.",
+      "tieu": "Ngươi bán thứ cả thế giới đang thiếu. Dạy bao nhiêu là lòng tốt, giữ bao nhiêu là bảo hộ.",
+      "cast": "q_tq,q_th,q_vt,tc",
+      "ch": [
+        {
+          "t": "Dạy trọn quy trình cải tạo đất, ghi chép từng bước cho họ mang về",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Khách mang sổ tay về nước, hứa sẽ gửi tin mừng. Tịch Chiếu từ đó vang danh khắp nơi.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "day_het"
+          },
+          "b": 0.5387000000000001,
+          "bad": {
+            "x": "Cô giảng quá nhanh, khách lúng túng. Phải ngồi giảng lại buổi chiều.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Chỉ dạy bước cơ bản, bán thêm đất sạch theo cân để họ quay lại mua",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Khách nhận hàng cười tươi, hẹn quay lại. Kho Tịch Chiếu đầy đá quý trong vài tuần.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "day_co_ban"
+          },
+          "b": 0.4718,
+          "bad": {
+            "x": "Khách thấy giá cao, bực bội bỏ đi. Cù Vĩnh Thọ phải quay lại thương lượng.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Trồng thử một luống ngay trước mặt khách, để họ tận mắt thấy hạt lên mầm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chỉ vài ngày sau hạt nảy mầm xanh mướt. Khách vỗ tay, đòi mua thêm hạt giống.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "trong_thu"
+          },
+          "b": 0.44949999999999996,
+          "bad": {
+            "x": "Hạt lên chậm, khách sốt ruột chờ. Tễ Hàn đứng ra xoa dịu giúp cô.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Chợ Tịch Chiếu, sau đó. Các nước tới đổi đá quý lấy rau quả và đất sạch; Cù Vĩnh Thọ là thương nhân đầu tiên.",
+      "learn": {
+        "n": "Trồng rau trên đất cải tạo",
+        "s": "van",
+        "v": 1
+      },
+      "no": 39
+    },
+    {
+      "id": "m40",
+      "scene": "gbanquet",
+      "place": "Cung điện Tịch Chiếu · Một sáng",
+      "kind": "nan",
+      "title": "Trác Khải Hằng tới cung",
+      "text": "Một sáng, các nước vừa rời đi, Trác Khải Hằng xin gặp riêng. Hắn nhận ra cô: «Là Tiểu Quất sao?», xin lỗi, nói đã đuổi Nhược Vi, sẵn sàng trao cả Triêu Dương và mạng. Cô đáp: «Xin lỗi không đổi được gì, anh có việc thì đi đi.» Tễ Hàn ngồi cạnh; Tiểu Châu báo hắn đã ra hiệu cho Đàm Bình giữ lệnh vây thành sau lưng. Địch Ngạo dẫn Khải Hằng ra; hắn đứng ba ngày ở biên giới nhìn lâu đài.",
+      "tieu": "Hắn đứng đó, và cả Tễ Hàn cũng đứng đó. Chọn cách nói để cả hai đều biết chuyện đã khép.",
+      "cast": "q_tq,q_kh,q_th,q_da,q_db,tc",
+      "ch": [
+        {
+          "t": "Nghe hết lời xin lỗi của hắn, không ngắt, rồi nói một câu để hắn có thể rời đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nói xong, cô đáp bình thản. Tễ Hàn buông ngón tay ra khỏi lệnh bài dưới bàn, lặng lẽ.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 4,
+              "sinh": -1
+            },
+            "f": "nghe_het"
+          },
+          "b": 0.44409999999999994,
+          "bad": {
+            "x": "Hắn nói quá dài, cô thấy Tễ Hàn khẽ nghiến răng. Cô vội cắt lời bằng một câu ngắn.",
+            "d": {
+              "ac": -1,
+              "hac": 0,
+              "hao": 1,
+              "sinh": -4
+            }
+          },
+          "b0": 0.44
+        },
+        {
+          "t": "Bảo hắn đi ngay, rồi quay sang nắm tay Tễ Hàn để hắn biết cô ở đâu",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Khải Hằng cúi đầu, quay lưng. Tễ Hàn hít vào thật sâu, nắm lại tay cô. «Ta ở đây.»",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 5,
+              "sinh": -1
+            },
+            "f": "bao_di"
+          },
+          "b": 0.42179999999999995,
+          "bad": {
+            "x": "Cô nói hơi gắt, Khải Hằng loạng choạng. Tễ Hàn nhìn hắn bằng ánh mắt không ai muốn thấy.",
+            "d": {
+              "ac": -1,
+              "hac": 0,
+              "hao": 1,
+              "sinh": -4
+            }
+          },
+          "b0": 0.43
+        },
+        {
+          "t": "Nhờ Ân Tịch Lan chuyển lời mong hắn sống lâu và nhớ, rồi tiễn hắn ra biên giới",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ân Tịch Lan chuyển lời đúng ý, Khải Hằng đứng sững rất lâu. Ba ngày sau, hắn quay về trong lặng lẽ.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": -1
+            },
+            "f": "chuyen_loi"
+          },
+          "b": 0.44409999999999994,
+          "bad": {
+            "x": "Ân Tịch Lan nói hơi cứng, Khải Hằng đứng lì ở biên giới, không chịu đi. Tễ Hàn hỏi liên tục khi nào hắn đi.",
+            "d": {
+              "ac": -1,
+              "hac": 0,
+              "hao": 1,
+              "sinh": -4
+            }
+          },
+          "b0": 0.44
+        }
+      ],
+      "ctx": "Cung điện Tịch Chiếu, một sáng. Trác Khải Hằng xin gặp, xin lỗi và đứng ba ngày ở biên giới.",
+      "forced": 1,
+      "no": 40
+    },
+    {
+      "id": "m41",
+      "scene": "gbanquet",
+      "place": "Đại sảnh cung điện · Một đêm",
+      "kind": "chon",
+      "title": "Yến hội và Khương Nhược Vi",
+      "text": "Một đêm trong đại sảnh cung điện, yến hội mời người có tài; Nhược Vi đi cùng Cù Vĩnh Thọ. Cô ta nhận ra Địch Ngạo và Hồ Duật, nay đều là tướng của vương, rồi nhìn thấy cô trên ngôi vị và hét lên «Sao cô vẫn còn sống!». Mọi người xôn xao. Cô chỉ nói «người quen cũ». Sau yến hội, người ta tra ra quá khứ của Nhược Vi; Hồ Duật tới kể chuyện với Cù Vĩnh Thọ, ông ta đuổi cô ta đi. Nhược Vi không còn được vào Tịch Chiếu, sống cô độc. Cô phải chọn: để mặc, hay cho cô ta một khoản đủ rời đi.",
+      "tieu": "Cô ta tự chuốc lấy kết cục này. Nhưng ngươi quyết định có nên thêm một viên đá nào nữa hay không.",
+      "cast": "q_tq,q_nv,q_vt,q_hd,q_da,q_th,tc",
+      "ch": [
+        {
+          "t": "Để mặc, nói với Cù Vĩnh Thọ rằng ông muốn dùng người thế nào là việc của ông",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cù Vĩnh Thọ gật, hiểu ý. Nhược Vi rời Tịch Chiếu trong im lặng, không ai tiễn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "de_mac"
+          },
+          "b": 0.5387000000000001,
+          "bad": {
+            "x": "Cù Vĩnh Thọ ngập ngừng, hỏi lại ý cô. Cô phải nói rõ hơn một lần nữa.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cho cô ta một khoản đủ đi đường và dặn đừng quay lại, bằng giọng nhẹ nhàng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nhược Vi nhận khoản tiền, cúi đầu rất thấp. Lần đầu cô ta không nói được lời nào.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "cho_tien"
+          },
+          "b": 0.4718,
+          "bad": {
+            "x": "Nhược Vi ném trả khoản tiền, chửi bới. Mọi người nhìn cô, cô lặng người.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Nhờ Hồ Duật và Địch Ngạo tiễn cô ta tới biên giới, bảo đảm cô ta rời đi an toàn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai tướng đứng sau lưng cô ta như hai bức tường. Cô ta hiểu đây là lần cuối, và đi không ngoái lại.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "tien_nv"
+          },
+          "b": 0.44949999999999996,
+          "bad": {
+            "x": "Hồ Duật lỡ lời mỉa mai, Nhược Vi bật khóc. Cô phải bảo hắn dừng.",
+            "d": {
+              "ac": -1,
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Đại sảnh cung điện, một đêm. Nhược Vi đến yến hội, bị người ta tra ra quá khứ và bị đuổi khỏi Tịch Chiếu.",
+      "no": 41
+    },
+    {
+      "id": "m42",
+      "scene": "gdream",
+      "place": "Ngai vị Tịch Chiếu · Ba trăm năm sau",
+      "kind": "chon",
+      "title": "Ba trăm năm",
+      "text": "Ba trăm năm sau, Tiểu Châu tóm lại: Tịch Chiếu vẫn là nơi sạch sẽ duy nhất, nhiều nước vẫn mua đất; Triêu Dương chấp chưởng một phương, Khải Hằng đêm nào cũng mở hộp thuốc cũ nhìn; Nhược Vi sống một mình trong căn nhà trống. Cô và Tễ Hàn vẫn ngồi chung ngai. Cô phải chọn: đi thăm Khải Hằng một lần, hay không.",
+      "tieu": "Ba trăm năm là đủ để nhiều chuyện lắng xuống. Thăm hay không, chỉ cần ngươi thấy nhẹ lòng.",
+      "cast": "q_tq,q_th,q_kh,tc",
+      "ch": [
+        {
+          "t": "Đi thăm Khải Hằng một lần cùng Tễ Hàn, đứng ngoài cổng nhìn rồi quay về",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn già đi nhiều, mái tóc trắng. Cô gật đầu chào từ xa, hắn cúi đầu thật sâu. Tễ Hàn nắm tay cô suốt dọc đường về.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "di_tham"
+          },
+          "b": 0.45769999999999994,
+          "bad": {
+            "x": "Hắn không ra gặp, chỉ đóng cửa. Tễ Hàn không nói gì, nhưng bàn tay siết chặt hơn.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 2,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Không đi, nhờ Ân Tịch Lan gửi một hộp bánh trà năm xưa để hắn biết cô vẫn ổn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hộp bánh đến tay hắn. Hắn mở ra, ngồi lặng cả đêm. Cô nghe tin, lòng nhẹ đi một chút.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "gui_banh"
+          },
+          "b": 0.5023,
+          "bad": {
+            "x": "Hộp bánh bị trả lại, chưa mở. Cô nhìn thật lâu rồi cất vào ngăn tủ.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Ngồi cạnh Tễ Hàn trên ngai, kể hắn nghe về ba trăm năm đã qua và không đi đâu cả",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nghe đến cuối, rồi nói: «Ta mừng vì em ở đây.» Hai người ngồi yên tới khi trời sáng.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 3
+            },
+            "f": "o_nha"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Cô kể dài, hắn ngủ gật bên vai cô. Cô cười, để hắn ngủ.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "hac": 1,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Ngai vị Tịch Chiếu, ba trăm năm sau. Tiểu Châu tóm lại số phận Tịch Chiếu, Triêu Dương, Khải Hằng và Nhược Vi.",
+      "no": 42
+    },
+    {
+      "id": "m43",
+      "scene": "gdream",
+      "place": "Phòng ngủ vương cung · Một đêm",
+      "kind": "nan",
+      "title": "Lời thú nhận và lời kết",
+      "text": "Một đêm trong phòng ngủ vương cung, hắn không ngủ. Úc Tễ Hàn kể điều chưa từng nói: hắn đã sống một kiếp trước, từng thấy cô một mình trên đỉnh núi và đến muộn, nên kiếp này tìm cô ngay. Cô nói cô biết cô không phải nguyên chủ, hắn đáp «ta biết». Hai người cười. Tiểu Châu còn một món: nếu cô muốn, nó đổi cho cô một «viên mộng cũ» để gửi Khải Hằng; hắn sẽ mơ thấy cô một mình đi lấy thuốc, tỉnh dậy đầy nước mắt. Lời kết chọn theo chỉ số: ở bên nhau lâu dài và hắn học cách buông bớt; hoặc hắn vẫn giữ tay cô quá chặt; hoặc hắn lo mất cô nhưng chưa làm điều gì sai.",
+      "tieu": "Đây là mốc cuối. Hắn kể cho ngươi nghe những gì hắn giấu. Giờ ngươi chọn cách đáp để hắn bớt sợ mất ngươi.",
+      "cast": "q_tq,q_th,q_kh,tc",
+      "ch": [
+        {
+          "t": "Nói: «Em ở đây, và em sẽ ở đây đến khi anh chán», rồi ôm hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn bật cười trong cổ họng, ôm lại thật chặt. «Không bao giờ.» Hai người ngủ yên đến sáng.",
+            "d": {
+              "ac": -6,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 2
+            },
+            "f": "om_hat"
+          },
+          "b": 0.48819999999999997,
+          "bad": {
+            "x": "Hắn gật nhưng tay vẫn siết. Cô biết hắn cần thêm thời gian, và sẵn lòng cho hắn.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 0
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Đổi viên mộng cũ với Tiểu Châu, gửi Khải Hằng, rồi quay về ngồi cạnh Tễ Hàn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Khải Hằng sẽ mơ một giấc dài. Cô quay về, Tễ Hàn ôm cô vào lòng, nói «cảm ơn em đã khép chuyện cũ».",
+            "d": {
+              "ac": -6,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 2
+            },
+            "f": "mong_cu"
+          },
+          "b": 0.4658999999999999,
+          "bad": {
+            "x": "Mộng cũ chưa đến tay, bị chặn ở biên giới. Cô thở dài nhưng không tiếc: cũng không phải lỗi của ai.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 0
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Hỏi hắn: «Anh có muốn đi dạo một vòng đế quốc cùng em, ngay bây giờ không?»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn chớp mắt rồi mỉm cười. Hai người đi dạo trong đêm, tay trong tay, nhìn đèn sáng khắp đế quốc.",
+            "d": {
+              "ac": -6,
+              "hac": -5,
+              "hao": 8,
+              "sinh": 3
+            },
+            "f": "di_dao"
+          },
+          "b": 0.4658999999999999,
+          "bad": {
+            "x": "Trời mưa bất chợt, cả hai chạy về cung, ướt sũng. Cô cười, hắn lau tóc cho cô.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 0
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Phòng ngủ vương cung, một đêm. Tễ Hàn kể điều hắn giấu từ kiếp trước; Tiểu Châu đề nghị đổi cho cô một viên mộng cũ.",
+      "no": 43
+    }
+  ]
+}

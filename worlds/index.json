@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "names": {
+    "tc": "Tiểu Châu"
+  },
+  "worlds": [
+    {
+      "id": "w1",
+      "no": 1,
+      "file": "world-01.json",
+      "name": "Giới Huyền Nguyên",
+      "genre": "Huyền huyễn cổ đại",
+      "hero": "lt",
+      "heroName": "Lăng Tuyết",
+      "bossName": "Thương Dạ",
+      "heroSub": "Con gái gia chủ tộc Lăng, sắp bị gả cho Xà Vương. Nhiệm vụ: độ hóa Thương Dạ.",
+      "events": 30,
+      "chapEnd": [
+        7,
+        16,
+        20,
+        30
+      ]
+    },
+    {
+      "id": "w2",
+      "no": 2,
+      "file": "world-02.json",
+      "name": "Thành Vọng Xuyên",
+      "genre": "Hiện đại linh dị",
+      "hero": "on",
+      "heroName": "Ôn Niệm",
+      "bossName": "Cố Trầm",
+      "heroSub": "Ca sĩ hát đêm ở quán Lam Đăng. Nhiệm vụ: độ hóa lệ quỷ Cố Trầm.",
+      "events": 30,
+      "chapEnd": [
+        7,
+        15,
+        23,
+        30
+      ]
+    },
+    {
+      "id": "w3",
+      "no": 3,
+      "file": "world-03.json",
+      "name": "Lãnh cung Tĩnh Tư",
+      "genre": "Cổ đại cung đấu",
+      "hero": "vc",
+      "heroName": "Lục Vãn Ca",
+      "bossName": "Tiêu Hàn Uyên",
+      "heroSub": "Quý phi bị đày vào lãnh cung Tĩnh Tư. Nhiệm vụ: độ hóa bạo quân Tiêu Hàn Uyên.",
+      "events": 30,
+      "chapEnd": [
+        7,
+        15,
+        23,
+        30
+      ]
+    },
+    {
+      "id": "w4",
+      "no": 4,
+      "file": "world-04.json",
+      "name": "Rừng Cổ Mộc",
+      "genre": "Viễn cổ hoang dã",
+      "hero": "av",
+      "heroName": "A Vân",
+      "bossName": "A Dã",
+      "heroSub": "Con gái tộc trưởng bộ lạc Bờ Sông. Nhiệm vụ: độ hóa thợ săn A Dã.",
+      "events": 39,
+      "chapEnd": [
+        11,
+        19,
+        25,
+        30,
+        39
+      ]
+    },
+    {
+      "id": "w5",
+      "no": 5,
+      "file": "world-05.json",
+      "name": "Trại giam Thiết Sơn",
+      "genre": "Hiện đại hắc đạo",
+      "hero": "ns",
+      "heroName": "Ninh Sương",
+      "bossName": "Kỷ Liệt",
+      "heroSub": "Sinh viên 19 tuổi, vào trại giam làm việc để được tái thẩm. Nhiệm vụ: độ hóa Kỷ Liệt.",
+      "events": 43,
+      "chapEnd": [
+        6,
+        15,
+        24,
+        31,
+        43
+      ]
+    },
+    {
+      "id": "w6",
+      "no": 6,
+      "file": "world-06.json",
+      "name": "Biệt thự Dạ Khúc",
+      "genre": "Hiện đại giới giải trí",
+      "hero": "ha",
+      "heroName": "Kiều Hoài An",
+      "bossName": "Phó Tông Nhiên",
+      "heroSub": "Cô nhi 19 tuổi, vừa tốt nghiệp nhạc viện. Nhiệm vụ: độ hóa Phó Tông Nhiên.",
+      "events": 47,
+      "chapEnd": [
+        7,
+        18,
+        30,
+        40,
+        47
+      ]
+    },
+    {
+      "id": "w7",
+      "no": 7,
+      "file": "world-07.json",
+      "name": "Huyền Vu Các",
+      "genre": "Cổ đại vu cổ",
+      "hero": "xtd",
+      "heroName": "Tô Tiểu Đường",
+      "bossName": "Diệp Tẫn Ly",
+      "heroSub": "Cô gái ăn mày 18 tuổi, bụng «thùng cơm». Nhiệm vụ: độ hóa Diệp Tẫn Ly.",
+      "events": 38,
+      "chapEnd": [
+        7,
+        15,
+        24,
+        31,
+        38
+      ]
+    },
+    {
+      "id": "w8",
+      "no": 8,
+      "file": "world-08.json",
+      "name": "Ánh Quang Viện",
+      "genre": "Showbiz ngôn tình",
+      "hero": "yn",
+      "heroName": "Giang Thanh Nghi",
+      "bossName": "Tạ Chiêu Minh",
+      "heroSub": "Hotgirl mạng 20 tuổi, bị gọi là «fan cuồng». Nhiệm vụ: cảm hóa Tạ Chiêu Minh.",
+      "events": 42,
+      "chapEnd": [
+        9,
+        18,
+        26,
+        34,
+        42
+      ]
+    },
+    {
+      "id": "w9",
+      "no": 9,
+      "file": "world-09.json",
+      "name": "Lê Uyển Thẩm Gia",
+      "genre": "Hiện đại hào môn",
+      "hero": "zl",
+      "heroName": "Thẩm Lê Lê",
+      "bossName": "Thẩm Mặc Trì",
+      "heroSub": "Tiểu công chúa 18 tuổi, tim yếu, nghe lời anh nuôi từng chữ. Nhiệm vụ: cảm hóa Thẩm Mặc Trì.",
+      "events": 45,
+      "chapEnd": [
+        9,
+        18,
+        28,
+        37,
+        45
+      ]
+    },
+    {
+      "id": "w10",
+      "no": 10,
+      "file": "world-10.json",
+      "name": "Đan Lô Phù Gia",
+      "genre": "Huyền huyễn thế gia",
+      "hero": "qv",
+      "heroName": "Phù Tư Vi",
+      "bossName": "Doãn Hiên Dật",
+      "heroSub": "Đích nữ 18 tuổi nhà Phù, thiên phú tốt nhưng bị bỏ rơi. Nhiệm vụ: cảm hóa Doãn Hiên Dật.",
+      "events": 44,
+      "chapEnd": [
+        9,
+        19,
+        29,
+        37,
+        44
+      ]
+    },
+    {
+      "id": "w11",
+      "no": 11,
+      "file": "world-11.json",
+      "name": "Nhất Trung Thanh Giang",
+      "genre": "Hiện đại học đường",
+      "hero": "unh",
+      "heroName": "Trình Nhược Hi",
+      "bossName": "Hoắc Dịch Trì",
+      "heroSub": "Học sinh giỏi nhất khối, 17 tuổi, mang sẹo nửa má phải sau một vụ nhầm người. Nhiệm vụ: cảm hóa Hoắc Dịch Trì.",
+      "events": 42,
+      "chapEnd": [
+        8,
+        17,
+        27,
+        35,
+        42
+      ]
+    },
+    {
+      "id": "w12",
+      "no": 12,
+      "file": "world-12.json",
+      "name": "Phim Trường Lâm Hải",
+      "genre": "Hiện đại showbiz sinh tồn",
+      "hero": "n_th",
+      "heroName": "Mạc Tử Hân",
+      "bossName": "Giản Mặc Hành",
+      "heroSub": "Nữ minh tinh lưu lượng 22 tuổi đang bị cả mạng mắng là «bình hoa». Nhiệm vụ: cảm hóa đạo diễn Giản Mặc Hành.",
+      "events": 45,
+      "chapEnd": [
+        12,
+        21,
+        33,
+        38,
+        45
+      ]
+    },
+    {
+      "id": "w13",
+      "no": 13,
+      "file": "world-13.json",
+      "name": "Tịch Chiếu Đế Quốc",
+      "genre": "Mạt thế tang thi",
+      "hero": "q_tq",
+      "heroName": "Bùi Tiểu Quất",
+      "bossName": "Úc Tễ Hàn",
+      "heroSub": "Tiểu thư thói ở sạch, vừa bị tang thi cắn và thành tang thi vương. Nhiệm vụ: cảm hóa Úc Tễ Hàn.",
+      "events": 43,
+      "chapEnd": [
+        8,
+        16,
+        23,
+        32,
+        43
+      ]
+    },
+    {
+      "id": "w14",
+      "no": 14,
+      "file": "world-14.json",
+      "name": "Thiên Dận Hậu Cung",
+      "genre": "Cổ đại cung đình song đế",
+      "hero": "d_dao",
+      "heroName": "Giang Tiểu Đào",
+      "bossName": "Mộ Dung Triệt",
+      "heroSub": "Quý Phi được vua «độc sủng» nhưng chỉ là tấm chắn tên. Nhiệm vụ: cảm hóa Mộ Dung Triệt.",
+      "events": 50,
+      "chapEnd": [
+        10,
+        20,
+        28,
+        38,
+        50
+      ]
+    },
+    {
+      "id": "w15",
+      "no": 15,
+      "file": "world-15.json",
+      "name": "Thiên Ma Tông",
+      "genre": "Tu tiên trọng sinh",
+      "hero": "u_mach",
+      "heroName": "Hạ Tiểu Mạch",
+      "bossName": "Quan Hạc Ngôn",
+      "heroSub": "Kim Đan bị phế linh căn, bị trục xuất khỏi Lưu Nguyệt Môn. Nhiệm vụ: cảm hóa Quan Hạc Ngôn.",
+      "events": 48,
+      "chapEnd": [
+        8,
+        15,
+        21,
+        33,
+        48
+      ]
+    },
+    {
+      "id": "w16",
+      "no": 16,
+      "file": "world-16.json",
+      "name": "Hứa Gia Thôn",
+      "genre": "Niên đại làm giàu",
+      "hero": "h_dao",
+      "heroName": "Hứa Tiểu Đào",
+      "bossName": "Tần Dã",
+      "heroSub": "Thôn hoa của Hứa gia thôn, vừa bị gài rơi nước nên phải cưới. Nhiệm vụ: cảm hóa Tần Dã.",
+      "events": 45,
+      "chapEnd": [
+        9,
+        17,
+        24,
+        29,
+        36,
+        45
+      ]
+    },
+    {
+      "id": "w17",
+      "no": 17,
+      "file": "world-17.json",
+      "name": "Hắc Thạch Thú Quốc",
+      "genre": "Thú nhân bộ lạc viễn cổ",
+      "hero": "tk_ky",
+      "heroName": "A Kỳ",
+      "bossName": "Bạch Triệt",
+      "heroSub": "«Tiểu công chúa» bộ lạc Hà Lâm, biết trước mình sẽ bị giao đi. Nhiệm vụ: cảm hóa Bạch Triệt.",
+      "events": 45,
+      "chapEnd": [
+        8,
+        17,
+        25,
+        31,
+        38,
+        45
+      ]
+    },
+    {
+      "id": "w18",
+      "no": 18,
+      "file": "world-18.json",
+      "name": "Lưới Hồn Thịnh Thị",
+      "genre": "Hiện đại mạng ảo kinh dị",
+      "hero": "mg_hanh",
+      "heroName": "Ngu Tiểu Hạnh",
+      "bossName": "Thịnh Trạch Dương",
+      "heroSub": "Streamer game kinh dị 23 tuổi, biết trước bạn trai sẽ tráo hồn mình. Nhiệm vụ: cảm hóa Thịnh Trạch Dương.",
+      "events": 50,
+      "chapEnd": [
+        10,
+        14,
+        21,
+        30,
+        36,
+        43,
+        50
+      ]
+    }
+  ]
+}

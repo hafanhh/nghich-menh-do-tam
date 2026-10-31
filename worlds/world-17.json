@@ -1,0 +1,4374 @@
+{
+  "id": "w17",
+  "no": 17,
+  "chapEnd": [
+    8,
+    17,
+    25,
+    31,
+    38,
+    45
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": -0.124,
+  "p0": {
+    "mi": 60,
+    "tri": 58,
+    "van": 52
+  },
+  "params": {
+    "pb": -0.124,
+    "b1": 1.1,
+    "b2": 2.6,
+    "bad": 2.8,
+    "ac": 0.8,
+    "hac": 1.17,
+    "hao": 0.772,
+    "h0": 74.7,
+    "sp": 6,
+    "sd": 1.5,
+    "s22b": 6,
+    "s22s": 2,
+    "s38b": 14,
+    "s38s": 7,
+    "s43b": 10,
+    "s43s": 5
+  },
+  "names": {
+    "tk_ky": "A Kỳ",
+    "tk_triet": "Bạch Triệt",
+    "tk_nghi": "Phương Lạc Nghi",
+    "tk_cang": "Khắc Cang",
+    "tk_hao": "Mặc Hạo",
+    "tk_nham": "Thiết Nham",
+    "tk_lan": "Thiết Lan",
+    "tk_lam": "Huyền Lâm",
+    "tk_duc": "Ưng Dực",
+    "tk_nha": "Cự Nha",
+    "tk_onha": "Ô Nhã",
+    "tk_mich": "Hồ Mịch",
+    "tk_khue": "Hồ Khuê",
+    "tk_loi": "Hách Lôi",
+    "tk_thich": "Bàng Thích",
+    "tk_lang": "Tư Lăng",
+    "tk_han": "Bạch Hàn"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 17 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh dùng lại hình vẽ tạm của các thế giới trước.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Hai bàn tay, một tòa lầu",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Bạch Triệt về không. Anh không còn sợ bị bỏ lại, cũng thôi nắm tay cô như nắm một sợi chỉ sắp đứt. Hai người sống đến tuổi già trên Vọng Lâm Lâu, nhìn Đại Mê Lâm xanh dưới nắng, nhìn Hắc Thạch mở cổng đón những người đến từ nhân giới. Đến ngày cô phải đi, anh nắm tay cô nhẹ như nắm một cánh hoa. Họ ra đi bình yên, cùng một ngày.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "vdawn"
+    },
+    "near": {
+      "n": "Anh siết tay cô hơi chặt",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người vẫn bên nhau đến cuối. Hắc Thạch thống nhất thú nhân giới, sắt và gốm và chữ lan khắp Đại Mê Lâm. Chỉ có điều những lần cô sắp đi xa, tay anh vẫn siết hơi chặt, như sợ gió cuốn đi. Cô không giận. Cô biết anh đang học cách tin rằng lần này không ai bị bỏ lại, và vết lo trong mắt anh nhạt dần theo từng mùa.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "vwall"
+    },
+    "half": {
+      "n": "Một mình trên lầu cao",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Cô đã làm gần hết nhiệm vụ: Hắc Thạch ổn, thú triều không còn là nỗi sợ, Hà Lâm đã bước ra khỏi rừng. Nhưng vết sợ mất trong anh vẫn chưa lành. Đến ngày cô rời đi, anh ở lại một mình trên Vọng Lâm Lâu, vẫn đặt hai cái chén mỗi sáng. Có những vết, tình thương không đủ để lấp, và cả hai đều biết điều đó.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "rtop"
+    },
+    "black": {
+      "n": "Tiếng gầm trên Đại Mê Lâm",
+      "c": "Hắc hóa chạm 100. Nỗi sợ bị bỏ lại và mối hận với bộ lạc đã giao cô đi nuốt trọn Bạch Triệt. Anh hóa tuyết lang mà không còn nghe tên mình, chạy thẳng về phía Hà Lâm. Tiếng gầm vang khắp Đại Mê Lâm, chim bay tán loạn. Tiểu Châu khẽ gọi cô đi trước khi sơn bụng lặng hẳn.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "vfire"
+    },
+    "bdead": {
+      "n": "Chiếc áo lông còn ấm",
+      "c": "Sinh mệnh của Bạch Triệt về 0. Anh kiệt sức vì chạy theo thú triều, vì những đêm không ngủ nghĩ về chuyện cô sẽ đi. Chiếc áo lông cô khâu dở vẫn nằm trên ghế đá, hơi ấm chưa kịp tan. Tiểu Châu khẽ gọi cô về.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "vdawn"
+    },
+    "dead": {
+      "n": "Ngọn lửa chưa kịp truyền",
+      "c": "Sinh mệnh của cô cạn kiệt. Một bước chân sai ở bìa rừng, hay một lần ngã đưa cô đi nhanh hơn dự tính, và đêm ấy không ai kịp chạy tới. Tiểu Châu kéo linh hồn cô đi trước khi Bạch Triệt chạm tay vào cánh cửa thạch ốc.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "rforest"
+    }
+  },
+  "events": [
+    {
+      "id": "t01",
+      "scene": "rcave",
+      "place": "Bộ lạc Hà Lâm · Hang đá của A Kỳ",
+      "kind": "duyen",
+      "title": "Tỉnh dậy trong hang đá",
+      "text": "A Kỳ tỉnh dậy khi nắng đã lên cao, trong thân một cô gái hai mươi tuổi. Một quả cầu ngọc xanh nhỏ lơ lửng bên tấm da thú: «Ta là Tiểu Châu». Nó giao nhiệm vụ: sống trọn đời cùng Đại Tư Tế Bạch Triệt và giữ anh khỏi con đường trở thành hung thần. Hồ sơ nguyên chủ: A Kỳ, «tiểu công chúa» của bộ lạc Hà Lâm, con gái vị thủ lĩnh cũ đã hy sinh vì bộ lạc, ai cũng nể vì cha mẹ cô. Trên cổ cô treo chiếc vòng cổ xương của mẹ. Cuốn truyện gốc dừng ở đây: hôm nay Khắc Cang sẽ mang một cô gái lạ tên Phương Lạc Nghi về, và ít lâu sau bộ lạc giao A Kỳ cho Hắc Thạch quốc của quốc vương Hách Lôi thay cô ta. Cô bị giao đi và không bao giờ trở về. Phần sau cô phải tự đi.",
+      "tieu": "Ngươi biết trước cả cốt truyện, còn bộ lạc thì không. Đó là lợi thế, nhưng đừng khoe ra.",
+      "cast": "tk_ky,tk_triet,tk_loi,tc",
+      "ch": [
+        {
+          "t": "Ra cửa hang chờ Khắc Cang mang cô gái lạ về",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đứng đúng chỗ, đúng giờ, đúng như trang truyện. Tiểu Châu khẽ gật.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Cô ra hơi sớm, đứng giữa nắng quá lâu, hoa cả mắt.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đi tìm Bạch Triệt trước, đừng đợi chuyện tới",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Từ xa, cô thấy anh đứng trước thạch ốc như đã đợi ai. Ngực cô nhẹ đi.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5766666666666669,
+          "bad": {
+            "x": "Cô lạc đường giữa các hang, tới nơi thì anh đã đi hái thuốc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Ghi lại những điều cần nhớ trong cốt truyện gốc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ghi ngắn gọn từng mốc lên da thú. Đầu óc cô sáng ra, như vừa dọn xong một cái kho.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.39666666666666667,
+          "bad": {
+            "x": "Cô ghi nhầm thứ tự hai việc, phải xóa đi viết lại mãi mới ổn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Hang đá của A Kỳ, sáng muộn. Tiểu Châu giao nhiệm vụ và đọc hồ sơ nguyên chủ.",
+      "no": 1
+    },
+    {
+      "id": "t02",
+      "scene": "rfire",
+      "place": "Bộ lạc Hà Lâm · Cửa hang, gần trưa",
+      "kind": "chon",
+      "title": "Cô gái lạ trên vai sư tử",
+      "text": "Gần trưa, các giống cái đang phơi thịt khô và quả khô trước hang. Khắc Cang, dũng sĩ thứ hai của bộ lạc, hóa người ngay trước cổng và khiêng vào một cô gái nhỏ gầy, da trắng, ăn mặc kỳ lạ. Anh tuyên bố trước mọi người: «đây là người của tôi». Thiết Lan, em gái dũng sĩ Thiết Nham, ghé ngồi bên cô gái lạ, chê cô ta quá yếu rồi quay sang hỏi A Kỳ có thích Khắc Cang không. Cô đáp «không». Cô có thể ngồi nghe Thiết Lan nói tiếp để biết ai đang nghĩ gì, hoặc đứng lên đi tìm việc khác.",
+      "tieu": "Thiết Lan cười rất hiền khi nói xấu người khác. Nhớ tên nàng.",
+      "cast": "tk_ky,tk_cang,tk_nghi,tk_lan,tk_nham,tc",
+      "ch": [
+        {
+          "t": "Ngồi nghe Thiết Lan nói tiếp, ghi nhớ ai nghĩ gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thiết Lan kể liền một hơi về ba dũng sĩ và hai giống cái. Cô nhớ hết, khuôn mặt vẫn không đổi sắc.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Thiết Lan nhận ra cô lắng nghe hơi chăm chú, liền nói sang chuyện thời tiết.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Đứng lên đi phụ các giống cái phơi thịt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô phơi thịt cạnh một bà lão, bà lão chép miệng: A Kỳ hôm nay chịu khó thật.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô treo xiên thịt lệch, cả hàng rơi xuống đất. Mấy cô gái cười khúc khích.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhìn kỹ cô gái lạ, nhớ từng chi tiết",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô gái lạ nhận ra ánh nhìn, rụt rè gật đầu chào. Cô gật lại, không hơn không kém.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Ánh nhìn của cô dài hơn dự tính, cô gái lạ nép vào lưng Khắc Cang.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Cửa hang bộ lạc Hà Lâm, gần trưa. Khắc Cang mang Phương Lạc Nghi về.",
+      "no": 2
+    },
+    {
+      "id": "t03",
+      "scene": "rcave",
+      "place": "Bộ lạc Hà Lâm · Thạch ốc ở rìa bộ lạc",
+      "kind": "chon",
+      "title": "Bệnh trong lòng",
+      "text": "Tối cùng ngày, cô mang thịt khô và quả khô tới thạch ốc ở rìa bộ lạc. Bạch Triệt, Đại Tư Tế 26 tuổi, chữa bệnh và xem mai rùa, được cả bộ lạc kính như thần. Anh sống một mình, không ăn thịt tươi, hay đỏ tai khi bị trêu. Cô nói mình bị «bệnh trong lòng»: một ngày không thấy anh là khó chịu. Anh bắt mạch, rồi nghiêm mặt bảo cô khỏe đến mức đánh chết được một con dê. Cô có thể xin được tới thăm mỗi ngày, hoặc chỉ nói một câu rồi về.",
+      "tieu": "Anh là người cả bộ lạc cúi đầu, nên chẳng ai dám ngồi xuống cạnh anh. Ngồi xuống đi.",
+      "cast": "tk_ky,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Xin được tới thăm anh mỗi ngày",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh im lặng khá lâu, rồi quay đi pha trà thuốc. «Mai đến sớm», anh nói với cái ấm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 8,
+              "sinh": 2
+            },
+            "f": "tham_moi_ngay"
+          },
+          "b": 0.4833333333333335,
+          "bad": {
+            "x": "Cô nói quá nhanh, anh nghe thành đùa. Anh đáp «tùy em» rất lạnh, nhưng tai thì đỏ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "_g": [
+            -3,
+            -2,
+            8,
+            2
+          ],
+          "b0": 0.5
+        },
+        {
+          "t": "Chỉ nói một câu rồi về, không quấy anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đặt thịt xuống, nói «ngủ ngon» rồi đi. Anh đứng ở cửa nhìn theo lâu hơn cần thiết.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.6033333333333336,
+          "bad": {
+            "x": "Cô vấp ngưỡng cửa, làm đổ cả giỏ quả. Anh cúi xuống nhặt, không nói gì.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Hỏi anh bắt mạch thấy gì, nói thật mình mệt thế nào",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh dặn vài vị thuốc lành tính, giọng dịu đi. «Em cần nghỉ nhiều hơn.»",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.42333333333333345,
+          "bad": {
+            "x": "Anh bắt mạch sai tay, đành bắt lại. Cô cười, anh càng đỏ tai.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Thạch ốc của Bạch Triệt, tối cùng ngày. A Kỳ nói mình bị «bệnh trong lòng».",
+      "no": 3
+    },
+    {
+      "id": "t04",
+      "scene": "rfire",
+      "place": "Bộ lạc Hà Lâm · Quanh hang Khắc Cang",
+      "kind": "duyen",
+      "title": "Mùi canh thịt",
+      "text": "Cả bộ lạc sợ lửa, chỉ giữ mồi lửa khi thật cần. Sáng hôm sau, mùi thịt thơm lan từ hang Khắc Cang: Phương Lạc Nghi nấu canh thịt với hương liệu hái quanh hang, rồi nấu một nồi lớn mời mọi người. Ai cũng khen. Cô nếm thấy canh còn nhạt và chưa ninh kỹ. Cô có thể nhận việc giữ mồi lửa cho cả khu hang của mình, hoặc chỉ nhận bát canh rồi về.",
+      "tieu": "Lửa là thứ bộ lạc sợ, và cũng là thứ cứu họ sau này. Học cách giữ nó cho chắc.",
+      "cast": "tk_ky,tk_nghi,tk_cang,tc",
+      "ch": [
+        {
+          "t": "Nhận việc giữ mồi lửa cho khu hang của mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô học cách che gió, chọn củi khô và giữ than đỏ qua đêm. Mồi lửa nhà cô không tắt.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "giu_moi_lua"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô giữ lửa chưa quen, than tắt giữa đêm, phải xin mồi từ hang kế bên.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Chỉ nhận bát canh, nếm kỹ rồi về",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô khen đúng chỗ khiến Phương Lạc Nghi mừng ra mặt. Không ai thấy cô có ý gì khác.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nếm lâu quá, Khắc Cang cau mày hỏi có chê không. Cô vội đáp không.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đứng xa quan sát cách Phương Lạc Nghi nấu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhìn ra từng bước: chần, thêm hương liệu, hạ lửa. Đầu cô ghi lại hết.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Khói cay làm cô ho sặc sụa, bỏ lỡ nửa công đoạn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Quanh hang Khắc Cang, sáng hôm sau. Phương Lạc Nghi nấu canh thịt cho cả bộ lạc.",
+      "learn": {
+        "n": "Giữ mồi lửa",
+        "s": "van",
+        "v": 1
+      },
+      "no": 4
+    },
+    {
+      "id": "t05",
+      "scene": "rfire",
+      "place": "Bộ lạc Hà Lâm · Bếp đá sau thạch ốc",
+      "kind": "chon",
+      "title": "Canh xương hầm",
+      "text": "Chiều cùng ngày, cô nhóm lửa ở bếp đá sau thạch ốc của Bạch Triệt, chần xương qua nước sôi, đổ nước đầu rồi hầm lâu với hương liệu. Anh đứng khoanh tay, ngờ vực: cô cũng sợ lửa như mọi người mới phải. Thấy cô làm lưu loát, anh bật cười. Anh nếm một bát, rồi ăn tới bát thứ hai, bảo canh ngon hơn bát của Khắc Cang. Cô có thể nấu thêm thịt nướng cho anh, hoặc để anh tự học làm.",
+      "tieu": "Anh không ăn thịt tươi. Đừng ép anh. Chỉ cần canh đúng vị.",
+      "cast": "tk_ky,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Nấu thêm thịt nướng cho anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh ăn từng miếng chậm rãi. «Em làm ra thứ này từ đâu?», anh hỏi. Cô chỉ cười.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thịt nướng quá lửa, anh ăn vẫn không nói gì, chỉ nhẹ nhàng đẩy phần cháy sang một bên.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Để anh tự học làm, cô đứng cạnh chỉ từng bước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh làm hỏng hai lần, lần thứ ba thành. Anh nhìn nồi canh với vẻ như vừa thắng một trận.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "day_anh_nau"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh quên đổ nước đầu, canh đục. Cô bảo làm lại, anh đồng ý rất nghiêm túc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Hỏi anh thích vị nào, nấu theo khẩu vị anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ngập ngừng nói vài vị anh nhớ từ nhỏ. Cô ghi nhớ từng cái.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Anh nói «tùy em», cô hỏi lại ba lần mà vẫn không được câu trả lời.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Bếp đá sau thạch ốc, chiều cùng ngày. Cô nấu canh xương cho Bạch Triệt.",
+      "learn": {
+        "n": "Hầm canh xương",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 5
+    },
+    {
+      "id": "t06",
+      "scene": "rfire",
+      "place": "Bộ lạc Hà Lâm · Trước cửa hang cô",
+      "kind": "chon",
+      "title": "«Không muốn kết bạn»",
+      "text": "Chiều ngày thứ ba, Phương Lạc Nghi tới trước cửa hang, tự giới thiệu và xin làm bạn. Cô biết người này sẽ khiến cả bộ lạc quay sang mình, nên từ chối thẳng. Các giống cái đứng xem cười khẽ. Thiết Lan lập tức kéo Phương Lạc Nghi đi, nói «A Kỳ vốn thế», và hai người từ đó thân nhau. Cô có thể nói thẳng «tôi không muốn» rồi đi, hoặc dịu giọng nhưng vẫn giữ khoảng cách.",
+      "tieu": "Nàng ta không có lỗi gì với ngươi. Lỗi nằm ở cách cả bộ lạc nhìn ngươi sau này.",
+      "cast": "tk_ky,tk_nghi,tk_lan,tc",
+      "ch": [
+        {
+          "t": "Nói thẳng «tôi không muốn» rồi đi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đi không ngoảnh lại. Có tiếng xì xào sau lưng nhưng bước chân cô vững.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói quá cộc, Phương Lạc Nghi ngẩn người, mắt đỏ. Mấy giống cái trừng cô.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Dịu giọng nhưng giữ khoảng cách: «Tôi quen ở một mình»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Phương Lạc Nghi gật đầu, nụ cười vẫn còn nguyên. Thiết Lan nhìn cô thêm một lần.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "diu_giong"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Lời dịu dàng nghe như xã giao, Phương Lạc Nghi ngượng ngùng bỏ đi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "diu_giong"
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Gật đầu chào, không nói gì thêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô gật, rồi quay vào hang. Không ai đoán được cô nghĩ gì.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Cô gật đầu hơi muộn, Phương Lạc Nghi đã rảo bước đi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Cửa hang A Kỳ, chiều ngày thứ ba. Phương Lạc Nghi xin làm bạn.",
+      "no": 6
+    },
+    {
+      "id": "t07",
+      "scene": "rfire",
+      "place": "Bộ lạc Hà Lâm · Trước hang Khắc Cang",
+      "kind": "chon",
+      "title": "Ô Nhã và cô gái lạ",
+      "text": "Chiều đó, một nhóm giống cái vây quanh trước hang Khắc Cang. Ô Nhã, bạn thân từ nhỏ của cô, giống cái đẹp nhất bộ lạc, thích Khắc Cang từ lâu, vừa đi xa về, nghe tin Khắc Cang đã chọn người liền chặn Phương Lạc Nghi, chê cô ta quá yếu, không xứng. Phương Lạc Nghi nhìn sang cầu cứu A Kỳ. Mặc Hạo, thủ lĩnh và đệ nhất dũng sĩ hóa sói đen, cùng Thiết Nham, dũng sĩ thứ ba hóa hổ, tới can; cả hai đều để ý cô gái lạ. Cô có thể lên tiếng bênh Phương Lạc Nghi, hoặc lặng im.",
+      "tieu": "Bênh một người là bỏ rơi một người. Cân đo trước khi mở miệng.",
+      "cast": "tk_ky,tk_onha,tk_nghi,tk_hao,tk_nham,tk_cang,tc",
+      "ch": [
+        {
+          "t": "Lên tiếng: «Đừng ép cô ấy, chẳng ai chọn được ai thích»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ô Nhã khựng lại, vẫn giận nhưng buông tay. Mặc Hạo nhìn cô, gật đầu rất khẽ.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "benh_nghi"
+          },
+          "b": 0.4833333333333335,
+          "bad": {
+            "x": "Ô Nhã hiểu nhầm cô phản bạn, trừng mắt: «Cậu đứng về phía ai?». Cô bị bỏ lại với hai lời giải thích dang dở.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "benh_nghi"
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Lặng im, đứng nhìn Mặc Hạo can",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mặc Hạo ngăn được cuộc cãi. Cô đứng ngoài cuộc, tránh được một trận giận.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.6033333333333336,
+          "bad": {
+            "x": "Cô đứng im quá lâu, Phương Lạc Nghi nhìn cô với ánh mắt thất vọng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Kéo Ô Nhã ra chỗ khác: «Đi với tớ, nói chuyện riêng»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ô Nhã đi theo, vừa đi vừa càu nhàu nhưng bớt hẳn giận.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.42333333333333345,
+          "bad": {
+            "x": "Ô Nhã hất tay cô ra: «Cậu cũng đứng về phía cô ta à?».",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Trước hang Khắc Cang, chiều muộn. Ô Nhã chặn Phương Lạc Nghi, Mặc Hạo và Thiết Nham tới can.",
+      "no": 7
+    },
+    {
+      "id": "t08",
+      "scene": "rfair",
+      "place": "Bộ lạc Hà Lâm · Sân ngoài bộ lạc",
+      "kind": "chon",
+      "title": "Chiếc vòng cổ của thủ lĩnh",
+      "text": "Chiều muộn, Mặc Hạo đưa cô một chiếc vòng cổ xương đẹp. Anh báo hai bộ lạc bạn, Thanh Hồ của Cự Nha và Phi Ưng của Ưng Dực, đã nhận cùng chống thú triều năm nay, rồi hỏi cô đã để ý giống đực nào chưa. Cô biết anh từng nói sẽ chờ cô, và rồi sẽ quên khi Phương Lạc Nghi chiếm lòng anh. Cô đáp «có». Ô Nhã nghe được, sáng hôm sau gặng hỏi suốt. Cô có thể nói thật với Ô Nhã đó là Bạch Triệt, hoặc chỉ nói «có rồi, đừng hỏi».",
+      "tieu": "Vòng cổ này là lời hứa của anh ta. Ngươi biết hứa này sẽ gãy ra sao.",
+      "cast": "tk_ky,tk_hao,tk_onha,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Nói thật với Ô Nhã: «Là Bạch Triệt»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ô Nhã há hốc miệng, rồi ôm cô cười thành tiếng. «Chọn gì mà liều thế!»",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "noi_that_8"
+          },
+          "b": 0.5766666666666669,
+          "bad": {
+            "x": "Ô Nhã không tin, bật cười: «Đại Tư Tế á? Cậu nói đùa». Chuyện này phải giải thích lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Chỉ nói «có rồi, đừng hỏi»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ô Nhã dừng hỏi, nhưng ánh mắt đã đoán ra bảy phần.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Ô Nhã càng tò mò hơn, theo cô cả buổi, cô bực hơn dự tính.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Trả lại chiếc vòng cho Mặc Hạo, nói cô không nhận",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mặc Hạo nhận lại, im lặng. Anh hiểu cô nói gì, dù không nói ra.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.39666666666666667,
+          "bad": {
+            "x": "Mặc Hạo nhăn mặt, nói «cứ giữ đấy», rồi bỏ đi. Cô cầm vòng như cầm một cục than.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Sân ngoài bộ lạc, chiều muộn. Mặc Hạo tặng vòng cổ xương và hỏi chuyện giống đực.",
+      "no": 8
+    },
+    {
+      "id": "t09",
+      "scene": "rcave",
+      "place": "Bộ lạc Hà Lâm · Hang của Ô Nhã",
+      "kind": "chon",
+      "title": "Lời khuyên cho Ô Nhã",
+      "text": "Sáng hôm sau, Ô Nhã đang chọn da thú, vẫn bực vì Khắc Cang đã có người. Cô nhớ trong truyện gốc Ô Nhã sẽ chết khi cố bảo vệ Khắc Cang và Phương Lạc Nghi, rồi bị bỏ lại. Cô khuyên bạn đừng ép Khắc Cang: hãy ra các bộ lạc khác tìm một dũng sĩ mạnh hơn, bộ lạc sẽ có thêm người bảo vệ. Ô Nhã bừng sáng, sắm váy da và sáng hôm sau lên đường. Cô có thể khuyên bạn đi tìm, hoặc khuyên ở lại chờ Khắc Cang.",
+      "tieu": "Nàng sống hay chết là do một câu của ngươi. Chọn cho kỹ.",
+      "cast": "tk_ky,tk_onha,tk_cang,tc",
+      "ch": [
+        {
+          "t": "Khuyên Ô Nhã đi các bộ lạc khác tìm dũng sĩ mạnh hơn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ô Nhã ôm cô thật chặt: «Cậu nói đúng!». Hôm sau cô ấy lên đường, váy da bay trong gió.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "onha_di"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Ô Nhã nghi ngờ lời cô, nhưng vẫn bước đi, nửa tin nửa không.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "onha_di"
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Khuyên ở lại, chờ Khắc Cang đổi ý",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ô Nhã thở dài, gật đầu. Cô ấy ở lại, nhưng ánh mắt vẫn nhìn về hang Khắc Cang.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "onha_o"
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Ô Nhã giận dỗi: «Cậu không muốn tớ đi hả?». Cả buổi hai người không nói với nhau.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "onha_o"
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nói thật: «Tớ có linh cảm Khắc Cang không hợp với cậu»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ô Nhã im lặng khá lâu, rồi gật. Cô ấy quyết định đi, mang theo lời cô.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "onha_di"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Ô Nhã bật cười: «Cậu có linh cảm gì chứ». Cuộc nói chuyện kết thúc chưa ai thuyết phục được ai.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "onha_di"
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Hang của Ô Nhã, sáng hôm sau. A Kỳ khuyên bạn thân về chuyện Khắc Cang.",
+      "no": 9
+    },
+    {
+      "id": "t10",
+      "scene": "rfire",
+      "place": "Bộ lạc Hà Lâm · Bãi đất giữa bộ lạc",
+      "kind": "chon",
+      "title": "Hai dũng sĩ đánh nhau",
+      "text": "Chiều vài ngày sau, Thiết Nham nói Phương Lạc Nghi không thuộc riêng ai; Khắc Cang đáp bằng nắm đấm. Phương Lạc Nghi chạy vào cản, rồi đỡ lấy Thiết Nham, khiến Khắc Cang đỏ mắt. Mặc Hạo bắt cả hai về. Thiết Lan ngồi xa, như mong chuyện này lớn thêm. Bạch Triệt băng vết thương cho Thiết Nham; cô đứng phụ. Thiết Lan lại thì thầm bên tai cô: «Khắc Cang ra tay độc quá». Cô có thể cùng chê Khắc Cang, hoặc im lặng giúp băng.",
+      "tieu": "Thiết Lan muốn ngươi nói câu đó để nàng đem đi kể lại. Đừng đưa lời cho nàng.",
+      "cast": "tk_ky,tk_nham,tk_cang,tk_nghi,tk_hao,tk_triet,tk_lan,tc",
+      "ch": [
+        {
+          "t": "Im lặng giúp Bạch Triệt băng vết thương",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đưa lá thuốc đúng lúc, giữ chặt đúng chỗ. Anh khẽ gật đầu cảm ơn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5933333333333333,
+          "bad": {
+            "x": "Cô băng hơi lỏng, Bạch Triệt lặng lẽ băng lại, không trách.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cùng Thiết Lan chê Khắc Cang ra tay độc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thiết Lan mỉm cười hài lòng. Cô thấy mình vừa nói một câu thừa.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.3533333333333331,
+          "bad": {
+            "x": "Câu nói của cô truyền đi nhanh hơn dự tính. Khắc Cang nhìn sang, ánh mắt tối lại.",
+            "d": {
+              "ac": 0,
+              "hac": 2,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "_b": [
+            0,
+            2,
+            0,
+            -3
+          ],
+          "b0": 0.47
+        },
+        {
+          "t": "Nhìn ngang sang chỗ khác, giả vờ không nghe",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thiết Lan hết chuyện để nói, bỏ đi chỗ khác. Cô thở ra nhẹ nhõm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5333333333333332,
+          "bad": {
+            "x": "Thiết Lan lặp lại ba lần, vẫn không thôi. Cô đành đứng nghe.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Bãi đất giữa bộ lạc, chiều vài ngày sau. Khắc Cang và Thiết Nham đánh nhau.",
+      "no": 10
+    },
+    {
+      "id": "t11",
+      "scene": "rcave",
+      "place": "Bộ lạc Hà Lâm · Ngoài thạch ốc Bạch Triệt",
+      "kind": "chon",
+      "title": "Cấm nhìn Khắc Cang",
+      "text": "Vài ngày sau, mỗi ngày cô tới ngồi xem anh nghiền thuốc. Bạch Triệt nghiêm mặt: «Khắc Cang đã có người, em đừng nhìn anh ta nữa». Cô hiểu anh đang ghen, bật cười và đáp «từ nay em chỉ nhìn anh». Anh đỏ tai, bảo cô hiểu chuyện. Cô có thể nói thật rằng mình chẳng để ý Khắc Cang chút nào, hoặc trêu thêm cho anh đỏ tai.",
+      "tieu": "Anh nghiêm túc hơn ngươi tưởng. Anh ghen và không biết gọi nó là gì.",
+      "cast": "tk_ky,tk_triet,tk_cang,tc",
+      "ch": [
+        {
+          "t": "Nói thật: «Em chưa bao giờ để ý anh ta»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh im lặng, rồi khẽ thở ra. «Thế thì tốt», anh nói với cái cối thuốc.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 8,
+              "sinh": 2
+            },
+            "f": "noi_that_11"
+          },
+          "b": 0.5766666666666669,
+          "bad": {
+            "x": "Anh nghe xong nhưng vẫn cúi gằm mặt. Cô phải nói thêm một lần.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "_g": [
+            -3,
+            -2,
+            8,
+            2
+          ],
+          "b0": 0.51
+        },
+        {
+          "t": "Trêu thêm: «Vậy anh ghen à?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nghiêm mặt, tai đỏ rực. «Không có», anh đáp, nhưng tay nghiền thuốc nhanh hơn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.39666666666666667,
+          "bad": {
+            "x": "Anh đặt cối xuống, im lặng đi vào trong. Cô nghĩ mình trêu hơi quá.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Ngồi xuống nghiền thuốc cùng anh, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người nghiền thuốc cả buổi. Khi cô đứng dậy, anh khẽ nói: «Mai lại đến».",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Cô nghiền quá mạnh, thuốc bắn tung. Anh nhìn cô, khóe miệng giật giật.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Ngoài thạch ốc Bạch Triệt, vài ngày sau. Anh nói cô đừng nhìn Khắc Cang nữa.",
+      "no": 11
+    },
+    {
+      "id": "t12",
+      "scene": "rfire",
+      "place": "Bộ lạc Hà Lâm · Cổng sơn động",
+      "kind": "chon",
+      "title": "Phương Lạc Nghi mất tích",
+      "text": "Mấy ngày sau, trời nhá nhem, Khắc Cang chạy về một mình báo tin: anh và Phương Lạc Nghi đi hái hương liệu rồi lạc nhau. Thiết Nham lao vào đánh anh vì làm mất cô ta. Mặc Hạo can, chia người đi tìm. Các giống cái xì xào «cô ta yếu, chắc chết rồi». Cô biết cô ta vẫn an toàn nhưng chưa thể nói ra. Cô có thể đi tìm cùng đoàn một ngày, hoặc xin đi hái thuốc với Bạch Triệt.",
+      "tieu": "Nàng không sao. Nhưng ngươi không thể nói lý do ngươi biết.",
+      "cast": "tk_ky,tk_cang,tk_nham,tk_hao,tk_nghi,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Đi tìm cùng đoàn một ngày",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đi cạnh Mặc Hạo, hỏi han từng khe đá. Không ai trách cô thờ ơ.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.4833333333333335,
+          "bad": {
+            "x": "Cô đi chậm hơn đoàn, bị tụt lại. Mặc Hạo phải quay lại đón.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Xin đi hái thuốc với Bạch Triệt, nói thú triều sắp tới",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mặc Hạo gật đầu ngay. «Việc đó cũng quan trọng.»",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "khong_tim"
+          },
+          "b": 0.6033333333333336,
+          "bad": {
+            "x": "Mặc Hạo cau mày, không phản đối nhưng cũng không đồng ý ngay.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "khong_tim"
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Ở lại trông các giống cái và trẻ nhỏ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Các giống cái bớt hoảng hơn khi có cô ở cạnh. Không ai nhắc chuyện cô không đi tìm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "khong_tim"
+          },
+          "b": 0.42333333333333345,
+          "bad": {
+            "x": "Vài giống cái liếc cô, thì thầm: «Cô ta lạnh lùng thật».",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "khong_tim"
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Cổng sơn động, trời nhá nhem. Khắc Cang báo Phương Lạc Nghi mất tích.",
+      "no": 12
+    },
+    {
+      "id": "t13",
+      "scene": "rhill",
+      "place": "Chân núi · Bãi hái thuốc",
+      "kind": "duyen",
+      "title": "Bức vẽ thảo dược",
+      "text": "Hôm sau, Bạch Triệt tính thú triều sắp tới nên cần thêm thuốc. Cô đi cùng; anh dạy cô nhận từng loại. Cô vẽ ký hiệu từng loại lên da thú bằng văn tự bộ lạc, điều chưa ai nghĩ ra. Anh đọc từ đầu đến cuối rồi sững người. Cô giấu một điều: cô vừa thấy một khe gió thổi ra từ chân núi, đúng chỗ cô nhớ trong truyện gốc. Cô có thể dẫn anh tới khe gió, hoặc tiếp tục hái thuốc.",
+      "tieu": "Anh nhìn bức vẽ như nhìn một phép lạ. Đừng hủy nó vì khiêm tốn.",
+      "cast": "tk_ky,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Dẫn anh tới khe gió, nói «em thấy gió thổi từ đây»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh áp tay vào đá, rồi gật chậm. «Đúng là có hang.» Anh nhìn cô lâu hơn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "chi_khe_gio"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô chỉ nhầm hướng, phải vòng qua hai bụi cỏ mới tìm lại đúng chỗ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Tiếp tục hái thuốc, để khe gió cho ngày mai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô hái đầy giỏ. Tối đó cô vẫn thấy khe gió trong mắt.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô vô ý hái nhầm một loại độc nhẹ, anh phát hiện kịp, nghiêm giọng dặn lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Hỏi anh về những loại cô chưa biết, vẽ thêm vào bản",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh kể mỗi loại một câu chuyện nhỏ. Bản vẽ thêm đầy, anh cũng nói nhiều hơn thường ngày.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Anh trả lời ngắn gọn, đoán cô mệt. Cô cười, nói không sao.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Chân núi, hôm sau. A Kỳ và Bạch Triệt đi hái thuốc.",
+      "learn": {
+        "n": "Viết văn tự bộ lạc",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 13
+    },
+    {
+      "id": "t14",
+      "scene": "rhill",
+      "place": "Chân núi · Lối qua bụi cỏ",
+      "kind": "hiem",
+      "title": "Cái hang sau bụi cỏ",
+      "text": "Cùng ngày, sợ cô lạc, Bạch Triệt nắm tay cô suốt đường. Sau lớp cỏ dày là một khe hang cao bằng người; bên trong là lối hẹp dẫn vào sơn bụng: hai khoảng rộng, phía trên có khe hở lọt ánh sáng. Anh nhận ra nơi này có thể chứa cả bộ lạc khi thú triều tới. Đá trên trần có vẻ lỏng. Cô có thể chui vào dò trước, hoặc để anh đi trước.",
+      "tieu": "Đá lỏng thì phải đi nhẹ. Đừng để anh đi trước mà ngươi cũng đừng đi trước một cách liều.",
+      "cast": "tk_ky,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Chui vào dò trước, bảo anh đứng ngoài",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lách người qua khe hẹp, gõ đá thử từng chỗ. Trần hang vững hơn cô sợ.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            }
+          },
+          "b": 0.3799999999999999,
+          "bad": {
+            "x": "Một mảng đá bên trên rơi xuống đúng lúc cô bước vào, sượt qua vai.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -6
+            }
+          },
+          "_b": [
+            -1,
+            1,
+            0,
+            -6
+          ],
+          "b0": 0.48
+        },
+        {
+          "t": "Để anh đi trước, cô theo sát phía sau",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đi trước từng bước, tay vẫn nắm tay cô. Hang không có gì nguy hiểm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            }
+          },
+          "b": 0.6200000000000001,
+          "bad": {
+            "x": "Anh đi chậm quá, đá nhỏ rơi rào rào, cô phải kéo anh lùi lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Cùng gõ đá thử từng bước, đi song song",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người gõ đá, lắng tiếng vang, chọn từng bước. Lối vào sơn bụng hiện ra.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiếng vang lẫn lộn làm hai người mất phương hướng một lúc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Chân núi, cùng ngày. Khe hang sau bụi cỏ dẫn vào sơn bụng.",
+      "no": 14
+    },
+    {
+      "id": "t15",
+      "scene": "rforest",
+      "place": "Chân núi · Bãi cỏ cao",
+      "kind": "chon",
+      "title": "Tiếng động sau bụi cỏ",
+      "text": "Chiều tối, trên đường về, họ nghe giọng Phương Lạc Nghi, rồi thấy Huyền Lâm, một người Xà tộc cao gầy, dắt cô ta đi. Cô ta cười, nép vào anh, không hề bị ép buộc. Bạch Triệt khẽ hỏi có nên báo Khắc Cang không. Anh nói trước giờ anh chưa nghĩ tới chuyện kết đôi, nhưng giờ thì có. Cô có thể báo Khắc Cang ngay, hoặc để họ tự giải quyết rồi hỏi anh định kết đôi với ai.",
+      "tieu": "Chuyện của họ là chuyện của họ. Chuyện của ngươi và anh mới là chuyện ngươi cần nghe.",
+      "cast": "tk_ky,tk_triet,tk_nghi,tk_lam,tk_cang,tc",
+      "ch": [
+        {
+          "t": "Để họ tự giải quyết, hỏi anh: «Anh định kết đôi với ai?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô thật lâu, rồi quay mặt đi: «Em biết rồi còn hỏi». Tai anh đỏ tới tận cổ.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 9,
+              "sinh": 2
+            },
+            "f": "hoi_ket_doi"
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Cô hỏi hơi sớm, anh nghe thành đùa. Anh đáp «để sau», nhưng ngón tay siết lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "_g": [
+            -3,
+            -2,
+            9,
+            2
+          ],
+          "b0": 0.5
+        },
+        {
+          "t": "Báo Khắc Cang ngay, để anh ta tự quyết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Khắc Cang nghe xong thì sững người, rồi nắm cổ áo Huyền Lâm. Chuyện ầm ĩ nhưng rõ ràng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.39666666666666667,
+          "bad": {
+            "x": "Khắc Cang không tin, lại nổi giận với cô. Cô đứng giữa hai người đang gầm gừ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Lặng lẽ kéo Bạch Triệt đi khuất, không nói gì với ai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người rời bãi cỏ yên lặng. Trên đường về, anh nắm tay cô chặt hơn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5766666666666669,
+          "bad": {
+            "x": "Cô giẫm phải cành khô, tiếng gãy vang cả bãi cỏ. Huyền Lâm quay đầu nhìn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        }
+      ],
+      "ctx": "Bãi cỏ cao ngoài chân núi, chiều tối. Họ thấy Huyền Lâm cùng Phương Lạc Nghi.",
+      "no": 15
+    },
+    {
+      "id": "t16",
+      "scene": "rfire",
+      "place": "Bộ lạc Hà Lâm · Sân bộ lạc, lửa mừng",
+      "kind": "chon",
+      "title": "Tin vui và lửa mừng",
+      "text": "Hôm sau, Bạch Triệt cùng Mặc Hạo công bố sơn bụng và nói người tìm ra là A Kỳ. Cả bộ lạc reo mừng. Đêm đó họ đốt lửa lớn, mặc váy da đẹp nhất, hát những khúc ca cổ quanh đống lửa. Mặc Hạo chuyền cho cô bát nước hoa quả. Cô có thể nhận lời khen để bộ lạc nhớ ơn mình, hoặc đẩy công sang Bạch Triệt.",
+      "tieu": "Ơn thì nhớ, nhưng công cũng gây ghen. Cả hai đều có lợi và hại.",
+      "cast": "tk_ky,tk_triet,tk_hao,tk_lan,tc",
+      "ch": [
+        {
+          "t": "Nhận lời khen: «Đúng, em tìm thấy»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả sân reo lên. Bà lão kéo cô vào lòng: «Con gái thủ lĩnh quả không phụ cha mẹ».",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "nhan_cong"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Tiếng reo lẫn tiếng xì xào. Có người nhìn cô với ánh mắt dò xét.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "nhan_cong"
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Đẩy công sang Bạch Triệt: «Đại Tư Tế cùng em tìm»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn cô lạ lẫm rồi gật đầu. Dân bộ lạc ca ngợi cả hai.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh lúng túng vì bị khen, đỏ tai, trốn ra sau tảng đá.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Chia đều: «Cả hai người tìm, nhờ gió chỉ đường»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả sân cười ồ. Câu đùa vừa vặn, không ai nhớ ai công nhiều hơn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Câu đùa không ai hiểu, sân yên lặng một nhịp.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Sân bộ lạc, tối hôm sau. Bộ lạc đốt lửa mừng sơn bụng.",
+      "no": 16
+    },
+    {
+      "id": "t17",
+      "scene": "rcave",
+      "place": "Sơn bụng · Các hốc mới đục",
+      "kind": "duyen",
+      "title": "Dọn vào sơn bụng",
+      "text": "Mấy ngày sau, sơn bụng đã đục thêm các hốc nhỏ để ở. Cả bộ lạc dọn vào, chia hốc theo từng nhà; cô chọn hốc cạnh Bạch Triệt. Khắc Cang, Phương Lạc Nghi và Huyền Lâm cũng về. Cô đẩy một tấm đá khoét cửa nhỏ giữa hốc mình và hốc anh; anh không bịt, chỉ treo một tấm da. Cô có thể đi qua cửa đó mỗi tối, hoặc chỉ để mở.",
+      "tieu": "Cánh cửa nhỏ này là lời hẹn đầu tiên của hai người. Đừng vội mà cũng đừng chậm.",
+      "cast": "tk_ky,tk_triet,tk_onha,tk_mich,tk_khue,tk_cang,tk_nghi,tk_lam,tc",
+      "ch": [
+        {
+          "t": "Đi qua cửa nhỏ mỗi tối, mang canh sang cho anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mỗi tối, tấm da khẽ lay và có người đặt một bát canh nóng. Anh quen dần với điều đó.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "qua_cua_nho"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Có tối cô sang đúng lúc anh đang ngủ, bát canh nguội ngắt. Cô để lại rồi lẳng lặng về.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Chỉ để cửa mở, chờ anh tự bước sang",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Một tối nọ, tấm da lay nhẹ từ phía bên kia. Anh đứng đó, tay cầm cuộn da thuốc.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Hai đêm trôi qua, không ai bước sang. Cô nằm nhìn tấm da, đợi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Giúp Ô Nhã và các bạn dọn hốc, tối mới sang",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chia việc rõ ràng, hốc nào xong hốc đó. Cuối ngày anh đã đợi sẵn một bát nước ấm.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Cô dọn hốc quá lâu, tới khi sang thì anh đã ngủ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Sơn bụng, mấy ngày sau. Cả bộ lạc dọn vào ở.",
+      "no": 17
+    },
+    {
+      "id": "t18",
+      "scene": "rcave",
+      "place": "Sơn bụng · Họp bàn trước thú triều",
+      "kind": "chon",
+      "title": "Đề nghị của Phương Lạc Nghi",
+      "text": "Vài ngày sau, họp bàn trước thú triều, Phương Lạc Nghi đề nghị cho hai bộ lạc bạn, Thanh Hồ và Phi Ưng, vào ở chung và đục thêm hốc. Mặc Hạo gật đầu. Cô chen vào: đục thêm quá nhiều thì sơn thể sẽ sập. Phương Lạc Nghi xin lỗi, mắt đỏ; vài người nhìn cô như thể cô cản đường. Cuối cùng họ chọn cách dồn người vào chung hốc. Cô có thể giải thích cặn kẽ vì sao sơn thể sẽ sập, hoặc nói gọn một câu.",
+      "tieu": "Nàng không xấu. Nàng chỉ không biết núi. Ngươi biết, nên nói cho đủ mà đừng nói cho gắt.",
+      "cast": "tk_ky,tk_nghi,tk_hao,tc",
+      "ch": [
+        {
+          "t": "Giải thích cặn kẽ: hốc nào chịu lực, hốc nào không",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô vẽ lên đất từng lớp đá. Mặc Hạo nhìn rất lâu rồi gật. Không ai cãi được nữa.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "giai_thich_18"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói dài quá, nhiều người ngáp. Vài ánh mắt nhìn cô như người bới móc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nói gọn một câu: «Đục thêm là sập, dồn người thì an toàn»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Câu nói ngắn mà chắc. Mặc Hạo gật đầu đồng ý ngay, Phương Lạc Nghi cũng thôi đòi.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Câu nói quá cộc, Phương Lạc Nghi khẽ run vai. Ánh mắt bộ lạc đổ về phía cô.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nhờ Bạch Triệt xem mạch núi rồi nói thay cô",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nói ngắn gọn, mọi người nghe. Cô đứng sau anh, nhẹ gánh.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Bạch Triệt đi hái thuốc chưa về, cô phải quay lại một mình, vẫn chưa nói hết ý.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Sơn bụng, vài ngày sau. Họp bàn trước khi hai bộ lạc bạn vào ở.",
+      "no": 18
+    },
+    {
+      "id": "t19",
+      "scene": "rtop",
+      "place": "Đỉnh núi và chân núi",
+      "kind": "duyen",
+      "title": "Hố bẫy và lăn thạch",
+      "text": "Vài ngày sau, cô cùng Bạch Triệt leo núi và thấy đã chất sẵn đá lớn bé. Dưới lớp bùn, cô nhặt được một thanh đại đao rỉ sét vẫn chém đứt được cây gậy. Cô vạch kế hoạch: đào hố sâu quanh chân núi, cắm cọc nhọn gọt bằng đại đao, đẩy lăn thạch từ trên cao xuống. Bạch Triệt khen «A Kỳ thật có trí tuệ». Mặc Hạo cho cả bộ lạc đào hố. Cô có thể đích thân chỉ cách đào, hoặc giao việc cho các dũng sĩ.",
+      "tieu": "Một cái hố đúng chỗ giá trị hơn mười dũng sĩ đứng đúng chỗ. Hố thì không biết sợ.",
+      "cast": "tk_ky,tk_triet,tk_hao,tc",
+      "ch": [
+        {
+          "t": "Đích thân chỉ cách đào: sâu, rộng, cọc hướng nào",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô cầm gậy vẽ từng đường. Các dũng sĩ đào theo, hố nào hố nấy thẳng tắp.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "chi_dao_ho"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô tính nhầm độ sâu, phải đào lại hai hố đầu. Dũng sĩ càu nhàu nhưng làm lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Giao việc cho các dũng sĩ, cô kiểm tra mỗi ngày",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đi dọc chân núi mỗi chiều, khen đúng chỗ, sửa đúng chỗ. Hố đào nhanh hơn dự tính.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Có hai nhóm hiểu nhầm lệnh, đào hố trùng chỗ. Cô mất nửa ngày chỉnh lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Cùng Bạch Triệt gọt cọc, chia việc với bầy giống cái",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người gọt cọc suốt buổi. Các giống cái tới phụ, hố bẫy thành hình nhanh hơn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Đại đao nặng tay, cô gọt lệch cọc. Anh thay cô gọt lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Đỉnh núi và chân núi, vài ngày sau. Cô vạch kế hoạch hố bẫy và lăn thạch.",
+      "learn": {
+        "n": "Đào hố bẫy",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 19
+    },
+    {
+      "id": "t20",
+      "scene": "rfire",
+      "place": "Sơn bụng · Bếp chung",
+      "kind": "chon",
+      "title": "Lời đồn đầu tiên",
+      "text": "Vài ngày sau, ở bếp chung của sơn bụng, Phương Lạc Nghi dạy cả bộ lạc làm giày bằng da và gỗ, ai cũng mến. Thiết Lan lan lời đồn «A Kỳ ghét Phương Lạc Nghi vì cô ta cướp nổi bật», rồi rủ cô đi bảo Phương Lạc Nghi đừng giành hốc với bộ lạc mình. Cô từ chối. Thiết Lan hậm hực bỏ đi, lời đồn lan thêm. Cô có thể lờ đi, hoặc nói rõ trước mọi người rằng không có chuyện đó.",
+      "tieu": "Lời đồn là thứ càng lờ càng lớn, càng cãi càng đúng. Chọn cách ít tệ hơn.",
+      "cast": "tk_ky,tk_lan,tk_nghi,tc",
+      "ch": [
+        {
+          "t": "Lờ đi, tiếp tục làm việc của mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đi qua bếp mỗi ngày, mặt không đổi sắc. Dần dần ít người nhắc lại.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô lờ quá lâu, lời đồn đã mọc thêm vài ngọn mới.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nói rõ trước mọi người: «Tôi chưa từng ghét cô ấy»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nói bình thản, không giận dỗi. Vài người gật đầu. Phương Lạc Nghi nhìn cô, ánh mắt phức tạp.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Cô nói ra thì đúng, mà nghe như biện hộ. Thiết Lan mỉm cười như đã đợi câu này.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Hỏi thẳng Thiết Lan lời đồn từ đâu ra, trước mặt người khác",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thiết Lan đỏ mặt, lắp bắp. Lời đồn mất chỗ đứng chỉ trong một buổi.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.42999999999999994,
+          "bad": {
+            "x": "Thiết Lan khóc, nói cô ép người. Cả bếp quay sang an ủi nàng.",
+            "d": {
+              "ac": 0,
+              "hac": 2,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "_b": [
+            0,
+            2,
+            0,
+            -3
+          ],
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Bếp chung sơn bụng, vài ngày sau. Thiết Lan lan lời đồn về A Kỳ.",
+      "no": 20
+    },
+    {
+      "id": "t21",
+      "scene": "rtop",
+      "place": "Đỉnh núi · Sáng sớm",
+      "kind": "hiem",
+      "title": "Thú triều đầu tiên",
+      "text": "Sáng sớm, đất rung từ xa; một bầy thú cuồng điên lao về phía núi, rơi xuống hố sâu và gục trên cọc. Trước giờ giao chiến, Bạch Triệt nói «người anh muốn kết đôi là em»; cô nhận lời. Mười mấy con còn lại vòng ra sau núi; cô và anh đẩy lăn thạch xuống kịp. Cô có thể đẩy đá ngay, hoặc chờ chúng xông lên gần hơn cho trúng.",
+      "tieu": "Chờ đến lúc đá rơi trúng thì cũng là lúc thú tới sát chân ngươi. Đừng tham.",
+      "cast": "tk_ky,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Đẩy đá ngay khi chúng vừa vòng ra sau núi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đá lăn rầm rập, đè bẹp đường vòng của bầy thú. Cô ngã ngồi, thở hổn hển, tay vẫn nắm tay anh.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.6200000000000001,
+          "bad": {
+            "x": "Đá lăn hơi sớm, một nửa trật đích. Anh phải xông ra chặn đường những con còn lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Chờ chúng xông lên gần hơn rồi mới đẩy",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đá rơi đúng khoảnh khắc. Cả đợt thú ngã xuống, im lặng hẳn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.3799999999999999,
+          "bad": {
+            "x": "Đá lăn muộn một nhịp, bầy thú đã sát sườn. Một con vồ trúng vai cô.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -8
+            }
+          },
+          "_b": [
+            -1,
+            1,
+            0,
+            -8
+          ],
+          "b0": 0.48
+        },
+        {
+          "t": "Gọi Bạch Triệt cùng đẩy, đếm nhịp thật rõ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người đẩy đồng nhịp. Tảng đá thứ nhất rơi, tảng thứ hai theo sau, không sót.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiếng gọi bị tiếng thú gầm át, anh đẩy trước cô một nhịp, một tảng đá lăn lệch.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Đỉnh núi, sáng sớm. Thú triều đầu tiên lao về phía núi.",
+      "no": 21
+    },
+    {
+      "id": "t22",
+      "scene": "rtop",
+      "place": "Đỉnh núi · Cuối nửa tháng thú triều",
+      "kind": "nan",
+      "title": "Bạch Triệt ra đi",
+      "text": "Cuối nửa tháng thú triều, không ai chết. Bạch Triệt kể: cha anh, Bạch Hàn, từng nhận ra thú triều không tự nhiên rồi mất tích. Anh đã theo dấu thú năm năm và lần này phải đi tiếp. Anh hôn lên trán cô, hóa tuyết lang chạy vào rừng. Cô có thể hứa chờ và dặn anh quay về, hoặc đòi theo.",
+      "tieu": "Anh phải đi, và ngươi không giữ được. Nhưng lời ngươi để lại sẽ là thứ anh nắm chặt nhất.",
+      "cast": "tk_ky,tk_triet,tk_han,tc",
+      "ch": [
+        {
+          "t": "Hứa chờ anh, dặn anh nhất định quay về",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô thật lâu, rồi nói rất khẽ: «Anh sẽ về.» Tuyết lang biến vào rừng, lời hứa còn lại trong gió.",
+            "d": {
+              "ac": -3,
+              "hac": 0,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "hua_cho"
+          },
+          "b": 0.5333333333333332,
+          "bad": {
+            "x": "Giọng cô run quá, anh phải ôm cô một lúc mới đi được. Cô nhìn theo cho tới khi hết bóng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "hua_cho"
+          },
+          "_g": [
+            -3,
+            0,
+            4,
+            2
+          ],
+          "_b": [
+            -1,
+            1,
+            0,
+            -3
+          ],
+          "b0": 0.5
+        },
+        {
+          "t": "Đòi đi cùng, nói không muốn bị bỏ lại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh lắc đầu, hôn lên trán cô lần nữa: «Chỗ đó nguy hiểm.» Cô đành đứng nhìn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.3533333333333331,
+          "bad": {
+            "x": "Cô túm áo anh, anh nhẹ nhàng gỡ ra. Cô thấy tay mình trống rỗng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Đưa anh thuốc và lương khô cô chuẩn bị sẵn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhận túi, giữ thật chặt trong tay. «Có em ở đây là đủ rồi», anh nói.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5933333333333333,
+          "bad": {
+            "x": "Cô đưa muộn, anh đã hóa thú, phải đuổi theo mới đặt được túi vào miệng anh.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        }
+      ],
+      "ctx": "Đỉnh núi, cuối nửa tháng thú triều. Bạch Triệt hóa tuyết lang ra đi.",
+      "forced": 1,
+      "no": 22
+    },
+    {
+      "id": "t23",
+      "scene": "rcave",
+      "place": "Sơn bụng · Ba bộ lạc",
+      "kind": "hiem",
+      "title": "Ba bộ lạc dưới một mái núi",
+      "text": "Ít ngày sau, sơn bụng quá chật. Cự Nha, thủ lĩnh Thanh Hồ, bị Phương Lạc Nghi từ chối thì nổi giận, đòi đuổi Hà Lâm ra khỏi hang. Ưng Dực, thủ lĩnh Phi Ưng, quay sang bảo vệ Phương Lạc Nghi, gia nhập Hà Lâm làm phó thủ lĩnh và cùng Mặc Hạo đuổi Cự Nha cùng bộ lạc Thanh Hồ đi. Cô thấy thêm một dũng sĩ nghiêng về phía Phương Lạc Nghi. Cô có thể đứng ngoài, hoặc lên tiếng ủng hộ Mặc Hạo.",
+      "tieu": "Ngươi không cần thắng cuộc cãi này. Ngươi chỉ cần bộ lạc còn nguyên vẹn.",
+      "cast": "tk_ky,tk_nha,tk_duc,tk_hao,tk_nghi,tc",
+      "ch": [
+        {
+          "t": "Đứng ngoài, quan sát và ghi nhớ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhìn ra ai thật sự muốn đánh, ai chỉ muốn dọa. Cuộc cãi tự hạ nhiệt.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô đứng quá gần Cự Nha, bị xô trúng vai, loạng choạng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Lên tiếng ủng hộ Mặc Hạo: «Hà Lâm cho các anh chỗ ở, không phải đất cắm dùi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả sơn bụng im phăng phắc. Mặc Hạo nhìn cô, gật đầu. Cự Nha lầm bầm rồi lùi bước.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Cự Nha quay lại trừng cô, tay đã đặt lên cán rìu. Mặc Hạo phải chắn trước.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -6
+            }
+          },
+          "_b": [
+            -1,
+            1,
+            0,
+            -6
+          ],
+          "b0": 0.49
+        },
+        {
+          "t": "Kéo Ô Nhã và các giống cái ra góc trong, tránh vạ lây",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Các giống cái và trẻ nhỏ lùi vào góc an toàn. Cuộc đối đầu ở ngoài kết thúc không đổ máu.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô chia người chưa kịp thì cãi đã nổ. Một nửa giống cái đứng giữa vòng xung đột.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.51
+        }
+      ],
+      "ctx": "Sơn bụng, ít ngày sau. Cự Nha đòi đuổi Hà Lâm, Ưng Dực quay sang phía Phương Lạc Nghi.",
+      "no": 23
+    },
+    {
+      "id": "t24",
+      "scene": "rcave",
+      "place": "Sơn bụng · Hốc của Ô Nhã",
+      "kind": "chon",
+      "title": "Dặn Ô Nhã đừng ra ngoài",
+      "text": "Tối trước ngày đi hái, Phương Lạc Nghi xin Mặc Hạo cho đoàn đi tìm hương liệu mới; Mặc Hạo, Khắc Cang, Thiết Nham và Ưng Dực cùng đi. Cô sang dặn Ô Nhã: ngày mai ở yên, đừng cho ai ra ngoài. Ô Nhã tin cô. Nếu Ô Nhã đã có Hồ Mịch và Hồ Khuê bên cạnh, hai người nhìn nhau: A Kỳ biết điều gì đó. Cô có thể kể cho Ô Nhã lý do, hoặc chỉ bảo «tin tớ».",
+      "tieu": "Ngươi không thể nói cô biết trước tương lai. Nhưng ngươi có thể nói ngươi lo.",
+      "cast": "tk_ky,tk_onha,tk_mich,tk_khue,tc",
+      "ch": [
+        {
+          "t": "Kể cho Ô Nhã lý do: «Tớ lo cho cả đoàn, đường ngoài kia không yên»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ô Nhã gật chậm. «Tớ hiểu. Cậu không bao giờ lo vu vơ.» Cả nhóm ở yên.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "ke_ly_do_24"
+          },
+          "b": 0.4833333333333335,
+          "bad": {
+            "x": "Ô Nhã hỏi dồn, cô trả lời quanh co. Ô Nhã vẫn tin, nhưng nhìn cô lâu hơn thường.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Chỉ nói «tin tớ», không giải thích",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ô Nhã nắm tay cô: «Được, tớ tin cậu.» Không cần nói gì thêm.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.4833333333333335,
+          "bad": {
+            "x": "Ô Nhã cau mày: «Cậu giấu tớ điều gì?». Cô đành lảng sang chuyện khác.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Rủ Ô Nhã cùng nấu bữa lớn để cả nhóm ở yên trong hang",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả nhóm tụ lại nấu ăn, cười nói cả buổi. Không ai nghĩ đến chuyện ra ngoài.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5433333333333336,
+          "bad": {
+            "x": "Bữa ăn bị cháy khét, nhưng mọi người vẫn cười. Ô Nhã vẫn hơi băn khoăn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        }
+      ],
+      "ctx": "Hốc của Ô Nhã, tối trước ngày đi hái. A Kỳ dặn cô ấy đừng ra ngoài.",
+      "no": 24
+    },
+    {
+      "id": "t25",
+      "scene": "rcave",
+      "place": "Sơn bụng · Chiều hôm sau",
+      "kind": "hiem",
+      "title": "Ngày cả đoàn lạc đường",
+      "text": "Chiều hôm sau, đoàn đi tìm hương liệu quay về chật vật, riêng Khắc Cang và Phương Lạc Nghi chưa về. Cả bộ lạc hoảng. Thiết Lan buột miệng «giá mà cô ta không về nữa». Cô đứng lên, lặp lại từng chữ trước mọi người và nhắc họ Phương Lạc Nghi đã cho bộ lạc những gì. Mọi người quay sang quở Thiết Lan. Cô có thể tha cho Thiết Lan sau khi cô ấy xin lỗi, hoặc để lời đồn tự lan.",
+      "tieu": "Nói đúng chưa chắc có lợi. Nàng sẽ nhớ cái nhục này rất lâu.",
+      "cast": "tk_ky,tk_lan,tk_nghi,tk_cang,tc",
+      "ch": [
+        {
+          "t": "Lặp lại từng chữ của Thiết Lan trước mọi người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả sơn bụng im lặng. Thiết Lan mặt tái đi, cúi gằm. Không ai bênh nàng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "noi_cong_khai_25"
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Cô nói quá cao giọng, vài người nhìn cô như thể cô cũng đang gây chuyện.",
+            "d": {
+              "ac": -1,
+              "hac": 3,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "noi_cong_khai_25"
+          },
+          "_b": [
+            -1,
+            3,
+            0,
+            -5
+          ],
+          "b0": 0.49
+        },
+        {
+          "t": "Chờ Thiết Lan xin lỗi rồi tha, không làm lớn chuyện",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thiết Lan lí nhí xin lỗi. Cô gật đầu, chuyện nhẹ nhàng khép lại. Ô Nhã ôm vai cô.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Thiết Lan xin lỗi bằng giọng chẳng thật lòng. Cô tha, mà biết lời đồn vẫn chưa hết.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Để lời đồn tự lan, ra cổng hang chờ hai người về",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Khi cô tới cổng, tiếng bước chân vang trong rừng. Hai bóng người thấp thoáng đi về.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô đứng chờ thật lâu, trời tối dần. Vẫn chưa thấy ai.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sơn bụng, chiều hôm sau. Khắc Cang và Phương Lạc Nghi chưa về; Thiết Lan lỡ lời.",
+      "no": 25
+    },
+    {
+      "id": "t26",
+      "scene": "rcave",
+      "place": "Sơn bụng · Cổng sơn bụng",
+      "kind": "hiem",
+      "title": "Huyền Lâm trọng thương trở về",
+      "text": "Chiều hôm sau, Khắc Cang cõng Huyền Lâm đầy vết thương về; Phương Lạc Nghi khóc nức nở. Huyền Lâm đã cứu hai người khỏi một bầy thú dữ. Bạch Triệt chưa về nên không ai chữa được. Phương Lạc Nghi quỳ xin cô; các dũng sĩ nhìn cô chờ đợi. Cô biết nếu chữa dở sẽ bị đổ lỗi. Cô có thể nhận chữa, hoặc từ chối vì mình chưa học đủ.",
+      "tieu": "Chữa dở thì bị trách, không chữa thì cũng bị trách. Nhưng chỉ có một lựa chọn cứu được mạng.",
+      "cast": "tk_ky,tk_lam,tk_nghi,tk_cang,tk_hao,tc",
+      "ch": [
+        {
+          "t": "Nhận chữa, bảo mọi người lui ra",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ra lệnh dứt khoát, mọi người lui nhanh. Máu đã ngừng chảy khi cô đặt tay xuống.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "nhan_chua"
+          },
+          "b": 0.5266666666666665,
+          "bad": {
+            "x": "Tay cô run, băng đầu tiên quấn sai chỗ. May Khắc Cang đỡ giúp.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "nhan_chua"
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Từ chối: «Tôi chưa học đủ, chờ Đại Tư Tế về»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô giải thích rõ lý do, nhưng một số dũng sĩ vẫn nhìn cô lạnh lẽo.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "tu_choi_26"
+          },
+          "b": 0.5866666666666666,
+          "bad": {
+            "x": "Cô nói chưa dứt, Phương Lạc Nghi đã bật khóc to hơn. Cả hang nhìn cô như người máu lạnh.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "tu_choi_26"
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Cầm máu tạm thời và cử người đi tìm Bạch Triệt",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cầm máu đúng chỗ. Hai dũng sĩ chạy đi tìm anh, giữ được thời gian.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.4066666666666664,
+          "bad": {
+            "x": "Cầm máu chưa chặt, vết thương rỉ máu suốt đêm. Mọi người hoảng thêm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Cổng sơn bụng, chiều hôm sau. Huyền Lâm trọng thương.",
+      "no": 26
+    },
+    {
+      "id": "t27",
+      "scene": "rcave",
+      "place": "Sơn bụng · Hốc của Phương Lạc Nghi",
+      "kind": "chon",
+      "title": "Chữa cho Huyền Lâm",
+      "text": "Đêm cùng ngày, trong hốc của Phương Lạc Nghi, cô cầm máu, đun nước sôi rồi rửa vết thương, đắp thảo dược. Có sỏi và mẩu cành kẹt trong da, cần cho Huyền Lâm hóa bản thể để lấy ra. Cô có thể làm đúng quy trình dù mất nhiều thời gian và để người đau thêm một lúc, hoặc làm nhanh cho xong.",
+      "tieu": "Đun nước cho sôi là chuyện nhỏ. Bỏ qua nó là chuyện lớn.",
+      "cast": "tk_ky,tk_lam,tk_nghi,tc",
+      "ch": [
+        {
+          "t": "Đun nước sôi, rửa sạch và lấy dị vật đúng quy trình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô làm từng bước, không vội. Huyền Lâm rên khẽ rồi thiếp đi, vết thương sạch.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "chua_ky"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô tính sai thời gian đun, nước nguội phải đun lại. Huyền Lâm đau thêm một lúc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "chua_ky"
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Làm nhanh cho xong, băng ngay khi cầm máu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Vết thương khép lại nhanh, mọi người thở phào. Cô cũng thế.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "lam_nhanh"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Cô băng vội, không để ý bên trong còn vật lạ. Huyền Lâm nhíu mày nhưng không nói.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "lam_nhanh"
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Hỏi Phương Lạc Nghi cách rửa vết thương ở quê cô ta",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Phương Lạc Nghi nói về nước muối loãng, cô bắt chước. Vết thương sạch hơn dự tính.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "lam_nhanh"
+          },
+          "b": 0.42999999999999994,
+          "bad": {
+            "x": "Phương Lạc Nghi nói lan man, cô nghe nửa vời. Cuối cùng vẫn làm theo cách quen.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "lam_nhanh"
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Hốc của Phương Lạc Nghi, đêm cùng ngày. Cô chữa cho Huyền Lâm.",
+      "learn": {
+        "n": "Nấu nước sát trùng",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 27
+    },
+    {
+      "id": "t28",
+      "scene": "rfire",
+      "place": "Sơn bụng · Sân sơn bụng",
+      "kind": "hiem",
+      "title": "Con xà kêu đau",
+      "text": "Mười ngày sau, vết thương của Huyền Lâm khép bề mặt nhưng bên trong còn sỏi và gỗ; anh quằn quại, kêu đau suốt đêm. Mặc Hạo trách cô «không kiểm kỹ»; cô đáp mình đâu phải Đại Tư Tế. Họ tự rạch ra lấy dị vật, Huyền Lâm nằm bất động, từ đó hận cô. Cô có thể giúp lấy dị vật để anh đỡ đau, hoặc để họ tự làm.",
+      "tieu": "Điều này xảy ra vì ngươi vội. Đừng vội thêm lần nữa.",
+      "cast": "tk_ky,tk_lam,tk_hao,tk_nghi,tc",
+      "ch": [
+        {
+          "t": "Giúp lấy dị vật: đun nước, sắp dụng cụ, trấn an anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô làm đủ bước, Huyền Lâm hết kêu. Anh nhìn cô lần đầu không giận.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Dị vật ở sâu hơn cô nghĩ, cô phải nhờ Khắc Cang giữ chặt. Huyền Lâm vẫn nhìn cô lạnh.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Để họ tự làm, cô đứng ngoài trông chừng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ làm xong trong yên lặng. Huyền Lâm thiếp đi, cô thở ra.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Họ rạch lệch, máu chảy nhiều hơn. Cô phải xông vào cầm máu.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "_b": [
+            -1,
+            2,
+            0,
+            -5
+          ],
+          "b0": 0.51
+        },
+        {
+          "t": "Xin lỗi Huyền Lâm: «Tôi chưa kiểm kỹ»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Huyền Lâm im lặng, nhìn đi chỗ khác, nhưng bớt căng. Mặc Hạo không trách nữa.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Huyền Lâm bật cười nhạt: «Xin lỗi thì đau có hết không?». Cô chịu trận.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sân sơn bụng, mười ngày sau. Vết thương của Huyền Lâm hành đau.",
+      "skipWhy": "Cô đã chữa kỹ cho Huyền Lâm ở mốc 27 nên vết thương không hành đau. Huyền Lâm cảm ơn và bớt thù.",
+      "no": 28
+    },
+    {
+      "id": "t29",
+      "scene": "rcave",
+      "place": "Sơn bụng · Cuối thu",
+      "kind": "chon",
+      "title": "Các dũng sĩ nghiêng về một phía",
+      "text": "Cuối thu, mùa lạnh sắp tới, Mặc Hạo, Thiết Nham và Ưng Dực lần lượt nói với Phương Lạc Nghi rằng họ muốn ở bên cô ta, ngoài Khắc Cang và Huyền Lâm; không ai đòi cô ta chọn một người. Cả bộ lạc bàn tán: người có ích cho bộ lạc là Phương Lạc Nghi. Thiết Lan châm: «có người sinh ra để được che chở, có người thì không». Mặc Hạo tránh ánh mắt cô; năm xưa anh từng nói sẽ chờ cô lớn. Cô có thể nhắc anh lời năm xưa, hoặc để anh tự nhớ.",
+      "tieu": "Lời hứa của anh ta là thứ vỡ đầu tiên. Nhắc cũng không giữ được, nhưng nhắc cho ngươi nhẹ lòng.",
+      "cast": "tk_ky,tk_hao,tk_nham,tk_duc,tk_nghi,tk_lan,tc",
+      "ch": [
+        {
+          "t": "Nhắc Mặc Hạo lời năm xưa, bình thản và không trách",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mặc Hạo trầm mặt, dặn «đừng nói với ai». Cô gật. Anh không nhìn thẳng cô được nữa.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "nhac_hao"
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Cô nhắc quá thẳng, Mặc Hạo cau mày, quay đi. Giữa hai người có một khoảng cách mới.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "nhac_hao"
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Để anh tự nhớ, cô không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô cười nhạt, bước đi. Sau lưng, Mặc Hạo nhìn theo rất lâu.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5766666666666669,
+          "bad": {
+            "x": "Cô bước nhanh quá, vấp phải đá, Thiết Lan bật cười.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Đi tìm Bạch Triệt trong rừng thay vì ở lại nghe bàn tán",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ra bìa rừng, ngồi nhìn trời. Đêm đó trăng sáng, cô thấy lòng bớt nặng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.39666666666666667,
+          "bad": {
+            "x": "Cô đi lạc nửa buổi, đêm lạnh. Về tới hang trong tình trạng run bần bật.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "_b": [
+            -1,
+            1,
+            0,
+            -5
+          ],
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Sơn bụng, cuối thu. Ba dũng sĩ cùng nghiêng về Phương Lạc Nghi.",
+      "no": 29
+    },
+    {
+      "id": "t30",
+      "scene": "rhill",
+      "place": "Sơn bụng · Trước cổng",
+      "kind": "nan",
+      "title": "Hắc Thạch quốc đến đòi người",
+      "text": "Giữa trưa, hai trăm dũng sĩ Hắc Thạch cưỡi thú bao vây núi. Quốc vương Hách Lôi nghe tin đồn từ các thương nhân bộ lạc về «cô gái da trắng tên Phương Lạc Nghi», cho ba ngày để giao người; nếu không thì san bằng bộ lạc và bắt các giống cái đi. Đêm đầu Mặc Hạo dẫn bộ lạc rút ra sau núi, bị thú săn của họ chặn: hai thành viên bị thương nặng. Họ rút về và được thêm hai ngày. Cô có thể khuyên đừng chạy nữa, ở lại bàn cách đối phó, hoặc im lặng nghe bộ lạc tự bàn.",
+      "tieu": "Hắc Thạch có sắt, gốm, chữ và vua. Hà Lâm chỉ có đá lăn và hố bẫy. Ngươi biết kết quả.",
+      "cast": "tk_ky,tk_loi,tk_hao,tk_nghi,tc",
+      "ch": [
+        {
+          "t": "Khuyên: «Chạy không thoát, ở lại bàn cách đối phó»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mặc Hạo nhìn cô, đồng ý. Bộ lạc ở lại cùng bàn, ít nhất không thêm người bị thương.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Ý kiến của cô bị gạt đi. Vài người cho rằng cô sợ nên không chịu chạy.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Im lặng nghe bộ lạc tự bàn, đưa ra ý kiến khi được hỏi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mặc Hạo cuối cùng quay sang hỏi cô. Cô nói gọn ba điều.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Không ai hỏi cô. Cô nghe họ cãi nhau cả đêm, không đi tới đâu.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Giúp chăm sóc hai người bị thương, nấu nước sôi cho họ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô túc trực bên giường hai người. Một người tỉnh dậy, nắm tay cô nói cảm ơn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô thức quá khuya, sáng hôm sau chóng mặt, đứng không vững.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Cổng sơn bụng, giữa trưa. Hai trăm dũng sĩ Hắc Thạch đến đòi Phương Lạc Nghi.",
+      "no": 30
+    },
+    {
+      "id": "t31",
+      "scene": "rcave",
+      "place": "Sơn bụng · Đêm cuối hạn",
+      "kind": "nan",
+      "title": "Đêm bị giao đi",
+      "text": "Đêm cuối hạn, cả bộ lạc họp. Thiết Lan nói «A Kỳ nhỏ gầy, da trắng, giống Phương Lạc Nghi»; vài giọng ngập ngừng, rồi Huyền Lâm tuyên bố nên giao A Kỳ đi. Mặc Hạo không phản đối. Ô Nhã gào lên bênh cô; Hồ Mịch và Hồ Khuê chắn trước cô. Nhưng khuya đó Huyền Lâm vào hốc, đưa cô cho dũng sĩ Hắc Thạch, gọi cô là Phương Lạc Nghi. Cô có thể lén để lại chiếc vòng cổ xương của mẹ cho Bạch Triệt dưới gốc cây ở cửa hang, hoặc mang theo bên mình.",
+      "tieu": "Chiếc vòng này là thứ duy nhất anh sẽ tìm thấy. Để lại, và hy vọng nó nói đủ.",
+      "cast": "tk_ky,tk_lan,tk_lam,tk_hao,tk_onha,tk_mich,tk_khue,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Lén để chiếc vòng cổ xương của mẹ dưới gốc cây cửa hang",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhét vòng vào khe rễ, che bằng lá. Dũng sĩ Hắc Thạch không để ý. Cô nhìn gốc cây đến khi khuất.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "de_vong"
+          },
+          "b": 0.4733333333333332,
+          "bad": {
+            "x": "Cô đặt vòng vội, lá che chưa kín. Cô chỉ có thể hy vọng không ai thấy trước anh.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "de_vong"
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Mang chiếc vòng theo bên mình, nắm chặt trong lòng bàn tay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô giữ chặt vòng dưới áo. Nó ấm lên theo hơi cô.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5933333333333333,
+          "bad": {
+            "x": "Dũng sĩ Hắc Thạch giật lấy chiếc vòng xem rồi ném lại. Cô nhặt, giấu sâu hơn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nhìn Ô Nhã lần cuối, dặn nhỏ: «Đợi tớ. Rồi tìm tớ ở Hắc Thạch»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ô Nhã nghẹn lời, nắm tay cô thật chặt. Cô để lại lời đó, và hy vọng cô ấy giữ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "dan_onha"
+          },
+          "b": 0.41333333333333316,
+          "bad": {
+            "x": "Dũng sĩ kéo cô đi giữa chừng câu nói. Ô Nhã chỉ nghe được nửa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Sơn bụng, đêm cuối hạn. Bộ lạc giao A Kỳ cho Hắc Thạch.",
+      "no": 31
+    },
+    {
+      "id": "t32",
+      "scene": "gcarriage",
+      "place": "Đường tới Hắc Thạch · Cỗ xe thú",
+      "kind": "chon",
+      "title": "Trên cỗ xe thú",
+      "text": "Ba ngày đường trên cỗ xe do hai con thú kéo, đoàn dũng sĩ Hắc Thạch đi quanh. Cô tỉnh lại trên xe. Bàng Thích, đệ nhất dũng sĩ của Hách Lôi, lạnh nhạt dặn không được bỏ trốn. Cô xin lửa, nấu canh cho cả đoàn; họ ăn ngon tới quên cả canh chừng. Dần dần họ đối xử tử tế, khoe thành đá, trí giả, quý tộc và nhắc tới Tư Lăng, em trai vua bị đuổi khỏi cung. Bàng Thích vẫn nhìn cô dò xét. Cô có thể nhận lòng tốt của họ để dò tin, hoặc giữ khoảng cách.",
+      "tieu": "Ngươi không phải tù nhân mà là một thứ họ chưa biết cách dùng. Đó là chỗ đứng ngươi cần.",
+      "cast": "tk_ky,tk_thich,tk_loi,tk_lang,tc",
+      "ch": [
+        {
+          "t": "Nhận lòng tốt của họ, hỏi chuyện Hách Lôi và Tư Lăng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Họ nói nhiều hơn dự tính. Cô biết thêm vua thích gì, ghét gì, em vua sợ gì.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "nhan_long_tot"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Họ chỉ cười, kể chuyện nấu nướng. Cô biết ít hơn cô muốn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "nhan_long_tot"
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Giữ khoảng cách, nấu canh nhưng ít nói",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ ăn canh, vẫn kính cẩn với cô. Bàng Thích nhìn cô ít dò xét hơn.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô ít nói quá, đám dũng sĩ cảm thấy cô lạnh nhạt, bớt vồn vã.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Quan sát Bàng Thích, đoán xem ông ta nghĩ gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhận ra ông nhìn cô không phải để canh chừng mà để đánh giá. Cô ghi nhớ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Bàng Thích bắt gặp cô nhìn, nheo mắt. Cô vội cúi xuống.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Cỗ xe thú trên đường tới Hắc Thạch, ba ngày đường. Cô nấu canh cho đoàn.",
+      "no": 32
+    },
+    {
+      "id": "t33",
+      "scene": "vwall",
+      "place": "Hắc Thạch · Cổng thành và vương cung",
+      "kind": "duyen",
+      "title": "Thành đá Hắc Thạch",
+      "text": "Ngày thứ ba, họ tới cổng thành Hắc Thạch: tường đá, nhà đá, bát gốm; bếp của vua vẫn nướng thịt cháy. Hách Lôi gặp cô, hứa phong quý tộc nếu cô đem «tài trí» tới. Cô dạy bếp vua hầm canh xương, rồi học thợ gốm cách nặn và nung bát. Họ cho người đi theo canh chừng. Cô có thể tỏ ra ngoan ngoãn để Hách Lôi chủ quan, hoặc tỏ ra có ích nhưng khó bảo.",
+      "tieu": "Một vị vua thích sự ngoan ngoãn, nhưng chỉ tin người có giá trị. Làm cả hai.",
+      "cast": "tk_ky,tk_loi,tc",
+      "ch": [
+        {
+          "t": "Tỏ ra ngoan ngoãn, nhận mọi việc được giao",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hách Lôi cười hài lòng. Người canh chừng bớt bám sát, cô tự do hơn.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "ngoan_ngoan"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô ngoan quá, người canh chừng cho rằng cô giả vờ, bám sát hơn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Tỏ ra có ích nhưng khó bảo: «Tôi dạy, nhưng tôi chọn việc»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hách Lôi nheo mắt, rồi bật cười. «Ta thích người có cốt cách.» Cô giữ được chỗ đứng.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Hách Lôi nhíu mày. Cô thấy ánh mắt nghi ngờ hiện lên rồi biến mất.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Học thợ gốm thật nhanh, nặn bát ngay trong ngày",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chiếc bát đầu tiên của cô méo, chiếc thứ ba thì tròn. Thợ gốm nể cô.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô nung nhầm lửa, bát nứt. Thợ gốm không cười, chỉ lặng lẽ chỉ cô cách khác.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        }
+      ],
+      "ctx": "Cổng thành và vương cung Hắc Thạch, ngày thứ ba. Hách Lôi gặp cô.",
+      "learn": {
+        "n": "Nung gốm",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 33
+    },
+    {
+      "id": "t34",
+      "scene": "rfair",
+      "place": "Hắc Thạch · Phố thợ rìa thành",
+      "kind": "chon",
+      "title": "Gặp Tư Lăng",
+      "text": "Một tháng sau, ở phố thợ rìa thành, cô biết trước Tư Lăng đang âm thầm gom người chống lại anh trai mình, Hách Lôi. Cô tìm đến, ngồi nói chuyện vài lần; ông không tin. Cô vẽ lại sơ đồ những người trung thành với ông và những người Hách Lôi đã mua chuộc, điều chưa ai biết; ông giật mình. Cô có thể nói điều ông tin nhất, hoặc điều ông sợ nhất.",
+      "tieu": "Ông không cần ai khuyên. Ông cần ai đó biết chuyện ông chưa nói ra.",
+      "cast": "tk_ky,tk_lang,tk_loi,tc",
+      "ch": [
+        {
+          "t": "Nói điều ông tin nhất: «Dân Hắc Thạch cần một vị vua biết lắng nghe»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ông im lặng khá lâu, rồi hạ giọng: «Cô nói tiếp đi.» Ánh mắt ông đã dịu.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "noi_dieu_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lời cô nghe quá lý tưởng, ông cười nhạt: «Ai chẳng nói được thế.»",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nói điều ông sợ nhất: «Hách Lôi sẽ giết ông trước kỳ lễ tế»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ông tái mặt, nắm chặt tay vịn. «Làm sao cô biết?», ông hỏi khẽ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "noi_dieu_so"
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Ông giận dữ, tưởng cô dọa. Cô phải giải thích thêm mãi mới dịu.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Đưa tờ sơ đồ trước, để ông tự đọc và tự hỏi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ông đọc xong, ngồi lặng. Rồi hỏi: «Cô muốn gì?». Cuộc nói chuyện bắt đầu thật sự.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Ông đọc nhanh quá, bỏ qua vài chi tiết. Cô phải giải thích lại từng nhánh.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        }
+      ],
+      "ctx": "Phố thợ rìa thành Hắc Thạch, một tháng sau. Cô tìm Tư Lăng.",
+      "learn": {
+        "n": "Vẽ sơ đồ thế lực",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 34
+    },
+    {
+      "id": "t35",
+      "scene": "vhall",
+      "place": "Hắc Thạch · Sảnh lớn vương cung",
+      "kind": "hiem",
+      "title": "Đêm lễ tế",
+      "text": "Vài tháng sau, đêm lễ tế Thạch Vương. Cô nói với Tư Lăng ngày giờ lễ tế và nơi Hách Lôi chắc chắn lộ diện; theo đúng cốt truyện, ông ra tay. Bàng Thích rút kiếm kịp nhưng Hách Lôi gục trong sảnh; Tư Lăng lên ngôi, tuyên bố trước mọi người cô là «A Kỳ, trí giả đệ nhất của Hắc Thạch». Cô có thể khuyên ông tha những người chưa chống lại, hoặc trừng cả phe vua cũ.",
+      "tieu": "Một vị vua mới sợ nhất là bị kẻ thù cũ báo thù. Nhưng khoan dung cũng cần người dám nói.",
+      "cast": "tk_ky,tk_lang,tk_loi,tk_thich,tc",
+      "ch": [
+        {
+          "t": "Khuyên ông tha những người chưa chống lại, đứng ngoài sảnh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tư Lăng gật đầu. Phần lớn phe vua cũ cúi đầu quy phục, sảnh yên dần.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "khuyen_tha"
+          },
+          "b": 0.5666666666666669,
+          "bad": {
+            "x": "Lời khuyên bị tiếng hò hét át. Một nhóm vẫn kháng cự, ông phải ra tay mạnh hơn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Khuyên ông trừng cả phe vua cũ để dứt hậu họa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tư Lăng ra lệnh dứt khoát, sảnh im phăng phắc. Cô thấy lòng nặng trĩu.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            }
+          },
+          "b": 0.38666666666666666,
+          "bad": {
+            "x": "Ông nghe nhưng ngập ngừng. Cả sảnh nhìn nhau, bầu không khí đặc quánh.",
+            "d": {
+              "ac": 0,
+              "hac": 3,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "_b": [
+            0,
+            3,
+            0,
+            -3
+          ],
+          "b0": 0.47
+        },
+        {
+          "t": "Đứng ngay trong sảnh, tận mắt quan sát từng người",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhìn ra từng gương mặt dao động. Khi ông phán xử, cô thì thầm tên đúng người.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            }
+          },
+          "b": 0.5066666666666668,
+          "bad": {
+            "x": "Một mũi giáo lạc bay sát vai cô, cô loạng choạng ngã sau cột đá.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -10
+            }
+          },
+          "_b": [
+            -1,
+            1,
+            0,
+            -10
+          ],
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Sảnh lớn vương cung Hắc Thạch, vài tháng sau. Đêm lễ tế Thạch Vương.",
+      "no": 35
+    },
+    {
+      "id": "t36",
+      "scene": "vpalace",
+      "place": "Hắc Thạch · Tòa nhà riêng",
+      "kind": "chon",
+      "title": "Trí giả của Hắc Thạch",
+      "text": "Mười ngày sau, Tư Lăng tặng cô nhà riêng, người hầu, và xin cô giúp mở rộng lãnh thổ. Cô từ chối làm vua hay quý tộc, chỉ nhận danh trí giả và quyền ra vào tự do, để chờ một người; ông không hỏi người đó là ai. Dân Hắc Thạch bắt đầu gọi cô bằng giọng như gọi một vị thần. Cô có thể nói thẳng «tôi chờ Đại Tư Tế Bạch Triệt», hoặc giữ bí mật.",
+      "tieu": "Nói tên anh ra, dù chỉ một người nghe, anh cũng sẽ nghe được sớm hơn.",
+      "cast": "tk_ky,tk_lang,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Nói thẳng: «Tôi chờ Đại Tư Tế Bạch Triệt của Hà Lâm»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tư Lăng gật đầu thật chậm. Ông dặn thủ vệ ở cổng thành: nếu thấy người tên ấy, báo ngay.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "noi_ten_36"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Ông im lặng, rồi hỏi lại tên. Cô nhận ra mình nói hơi nhiều.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "noi_ten_36"
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Giữ bí mật: «Một người từ rất xa»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ông không hỏi thêm, chỉ gật đầu tôn trọng. Cô được yên tĩnh.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô nói quá mơ hồ, ông nghi ngờ nhưng vẫn không hỏi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Tập trung việc của trí giả: xin mở xưởng gốm và lớp dạy chữ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tư Lăng đồng ý ngay. Xưởng gốm đầu tiên của Hắc Thạch bắt đầu nung mẻ đầu.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Ông chưa hiểu «lớp dạy chữ» là gì, cô phải giải thích mãi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Tòa nhà riêng của trí giả, mười ngày sau. Tư Lăng ban nhà và danh trí giả.",
+      "no": 36
+    },
+    {
+      "id": "t37",
+      "scene": "vgate",
+      "place": "Hắc Thạch · Cổng thành",
+      "kind": "chon",
+      "title": "Ô Nhã đến Hắc Thạch",
+      "text": "Hai tháng sau, Ô Nhã cùng Hồ Mịch và Hồ Khuê rời Hà Lâm sau trận cãi với Mặc Hạo, đi theo lời cô dặn, tới tận cổng thành. Thủ vệ gọi «Ô Nhã đại nhân» vì nghe nói bạn của trí giả. Ô Nhã ôm cô khóc. Cô giúp Hồ Mịch và Hồ Khuê lập Đoàn Hồ Tộc, đoàn thương nhân đầu tiên của Hắc Thạch. Cô có thể giữ Ô Nhã ở cạnh mình, hoặc để hai người theo chồng đi buôn.",
+      "tieu": "Nàng đã chọn cách rời Hà Lâm theo lời ngươi. Ngươi nợ nàng một chỗ đứng.",
+      "cast": "tk_ky,tk_onha,tk_mich,tk_khue,tc",
+      "ch": [
+        {
+          "t": "Giữ Ô Nhã ở cạnh mình, cùng làm việc ở xưởng gốm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người sống chung một mái, buổi tối ngồi nặn bát và trò chuyện như ngày nhỏ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Ô Nhã không quen việc nặn gốm, tay chai sần. Cô ấy cười, nhưng hơi gượng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Để Ô Nhã theo chồng đi buôn, lập Đoàn Hồ Tộc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đoàn thương nhân đầu tiên xuất hành ngay tuần sau. Ô Nhã vẫy tay từ xe thú, mắt sáng rỡ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tuyến buôn đầu tiên gặp cướp, đoàn phải quay về giữa chừng. Ô Nhã bình tĩnh, nhưng cô lo.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Hỏi Ô Nhã muốn gì, để cô ấy tự chọn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ô Nhã suy nghĩ cả đêm rồi chọn đi buôn cùng chồng, nhưng hứa về mỗi mùa. Cô gật.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Ô Nhã lưỡng lự, sau cùng nói «để tớ nghĩ thêm». Cả ba cùng im lặng một lúc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Cổng thành Hắc Thạch, hai tháng sau. Ô Nhã và hai bạn đời Hồ tộc tới tìm cô.",
+      "no": 37
+    },
+    {
+      "id": "t38",
+      "scene": "vgate",
+      "place": "Hắc Thạch · Cổng thành",
+      "kind": "nan",
+      "title": "Bạch Triệt trở về",
+      "text": "Nửa năm sau, Tiểu Châu chiếu lại: Bạch Triệt về Hà Lâm, nghe bộ lạc kể cô đã bị giao đi, nhìn Mặc Hạo và nói «các người bỏ cô ấy, vậy ta bỏ các người», rồi hóa tuyết lang chạy về phía Hắc Thạch. Ở cổng thành, thủ vệ gọi «Bạch Triệt đại nhân»; anh ôm cô, hôn lên má, hỏi «em có bị thương không». Cô có thể kể hết cho anh nghe, hoặc chỉ nói «em ổn».",
+      "tieu": "Anh chưa nổi giận vì bất cứ điều gì trong đời. Đây là lần đầu. Nắm chặt tay anh.",
+      "cast": "tk_ky,tk_triet,tk_hao,tc",
+      "ch": [
+        {
+          "t": "Kể hết cho anh nghe, từng chuyện từng người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe xong, siết tay cô thật chặt nhưng không nói gì. Lát sau, anh thì thầm: «Cảm ơn em đã nói.»",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "ke_het_38"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Anh nghe đến đoạn Huyền Lâm đưa cô đi thì run lên, phải ôm cô một lúc mới bình tĩnh.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Chỉ nói «em ổn», rồi kéo anh vào trong",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô rất lâu. Cô thấy mắt anh dịu lại, tay anh nắm tay cô như nắm một cánh hoa.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh nhìn ra cô nói dối. Ánh mắt anh tối hẳn lại, nhưng anh không hỏi thêm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đưa anh chiếc vòng cổ xương mà cô đã giữ lại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh cầm vòng, lặng đi. «Em vẫn giữ nó», anh nói, giọng thấp.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.42999999999999994,
+          "bad": {
+            "x": "Chiếc vòng tuột khỏi tay anh, rơi xuống đất. Anh nhặt lên, im lặng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Cổng thành Hắc Thạch, nửa năm sau. Bạch Triệt tìm tới.",
+      "forced": 1,
+      "no": 38
+    },
+    {
+      "id": "t39",
+      "scene": "vpalace",
+      "place": "Hắc Thạch · Hiên nhà trí giả",
+      "kind": "chon",
+      "title": "Kế hoạch báo thù",
+      "text": "Đêm, ở hiên nhà cô trong vương cung, Bạch Triệt hỏi cô muốn báo thù Hà Lâm thế nào. Cô nói không muốn giết ai: cô muốn Hắc Thạch chiếm mọi vùng đất, chỉ chừa lại một khu rừng lớn, để họ không còn chỗ đi và hằng năm vẫn lo thú triều. Anh gật đầu: «anh giúp em». Cô có thể trả thù tới cùng, hoặc dừng ở mức bắt họ nhận lỗi.",
+      "tieu": "Báo thù tới cùng thì anh sẽ đi cùng ngươi tới cùng, kể cả khi ngươi muốn dừng lại.",
+      "cast": "tk_ky,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Trả thù tới cùng: để họ không còn chỗ nào để đi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh gật đầu chậm rãi. Ánh mắt anh tối đi một tầng, nhưng bàn tay vẫn nắm tay cô.",
+            "d": {
+              "ac": -3,
+              "hac": 5,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "toi_cung"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh nghe xong, nhìn đi chỗ khác. Hơi thở anh nặng hơn.",
+            "d": {
+              "ac": -1,
+              "hac": 6,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "toi_cung"
+          },
+          "_g": [
+            -3,
+            5,
+            6,
+            2
+          ],
+          "_b": [
+            -1,
+            6,
+            0,
+            -3
+          ],
+          "b0": 0.51
+        },
+        {
+          "t": "Dừng ở mức bắt họ nhận lỗi, rồi để họ đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh im lặng khá lâu, rồi nói: «Em tốt hơn anh.» Bàn tay anh thả lỏng.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "dung_muc"
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Anh khẽ cau mày: «Họ bỏ em mà em tha dễ vậy sao?». Cô phải giải thích thêm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "dung_muc"
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Chưa quyết, để anh ngủ lại một đêm rồi nói tiếp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Sáng hôm sau, cô đã nghĩ rõ. Anh pha trà, hai người nói chuyện bình tĩnh.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cả đêm cô mất ngủ, sáng hôm sau mắt thâm quầng. Anh nhìn cô lo lắng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Hiên nhà trí giả trong vương cung, đêm. Bạch Triệt hỏi cô muốn trả thù Hà Lâm thế nào.",
+      "no": 39
+    },
+    {
+      "id": "t40",
+      "scene": "rsnow",
+      "place": "Màn Ngăn Lực · Sáu tháng đường",
+      "kind": "hiem",
+      "title": "Màn Ngăn Lực",
+      "text": "Sáu tháng đường, vách đá xa; cô đi cùng một trăm dũng sĩ Hắc Thạch. Bạch Triệt dẫn cô tới nơi đàn thú biến mất: một tấm màn trong suốt dựng giữa núi. Cô nhận ra đây là kết giới do người dựng. Trên đường họ vẽ bản đồ để khỏi lạc. Hai người cùng bước qua; Bạch Triệt thấy huyết mạch thức tỉnh, nóng ran cả người rồi khỏe hẳn lên. Một trăm dũng sĩ vào theo cũng thức tỉnh. Cô có thể cho cả đoàn vào cùng, hoặc chỉ hai người vào trước.",
+      "tieu": "Đàn thú không biến mất. Chúng bị đuổi. Ai dựng bức màn này biết rõ thú nhân.",
+      "cast": "tk_ky,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Chỉ hai người vào trước, đoàn chờ phía ngoài",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người bước qua, cảm giác như đi qua mặt nước lạnh. Phía bên kia yên tĩnh lạ thường.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "hai_nguoi_vao"
+          },
+          "b": 0.5766666666666669,
+          "bad": {
+            "x": "Màn chắn đẩy ngược cô một nhịp, tay cô tê dại. Anh kéo cô vào bằng cả hai tay.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cho cả đoàn vào cùng một lúc để tiết kiệm thời gian",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả đoàn bước qua, tất cả đều thức tỉnh. Tiếng reo vang khắp vách đá.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            }
+          },
+          "b": 0.39666666666666667,
+          "bad": {
+            "x": "Cả đoàn ập vào cùng lúc, màn chấn động dữ dội, cô bị đẩy ngã trên nền đá.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -8
+            }
+          },
+          "_b": [
+            -1,
+            1,
+            0,
+            -8
+          ],
+          "b0": 0.48
+        },
+        {
+          "t": "Cử một dũng sĩ thử trước, cô và anh quan sát",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dũng sĩ bước qua, cả người đỏ ửng rồi mỉm cười. Cô gật đầu cho phần còn lại vào.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            }
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Dũng sĩ ngã gục ngay cạnh màn. Cô phải kéo anh ra, mất hơn nửa buổi cứu chữa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Vách đá phía xa, sau sáu tháng đường. Bạch Triệt dẫn cô tới Màn Ngăn Lực.",
+      "learn": {
+        "n": "Vẽ bản đồ đường đi",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 40
+    },
+    {
+      "id": "t41",
+      "scene": "vstreet",
+      "place": "Nhân giới · Thị trấn nhân loại",
+      "kind": "duyen",
+      "title": "Học nghề ở nhân giới",
+      "text": "Ba năm sau, trong một thị trấn nhân loại, hai người mặc áo vải, trà trộn vào dân thường, lấy quần áo của họ để sống. Bạch Triệt đã ghi đầy giấy những thứ cần mang về. Cô học thợ rèn nhân loại cách nung quặng và rèn sắt thô. Tiểu Châu tóm tắt ba năm: hai người ở trọ nhà thợ, ăn cùng thợ, đổi công việc lấy kiến thức. Cô có thể học rèn sắt cho thật vững, hoặc học thêm một nghề nữa.",
+      "tieu": "Sắt là thứ Hắc Thạch cần nhất. Ba năm này đổi được một thế kỷ.",
+      "cast": "tk_ky,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Học rèn sắt cho thật vững, mỗi ngày bên lò",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô học từng nhiệt độ, từng nhịp búa. Bàn tay chai sần, nhưng thanh sắt cuối cùng thẳng tắp.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô mất kiên nhẫn, rèn lệch mấy lần. Thợ cả thở dài, bắt làm lại từ đầu.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Học thêm một nghề nữa: dệt hoặc làm thuốc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô học thêm nghề dệt trong hai tháng. Ngón tay mềm hơn, đầu óc rộng hơn.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô học dở cả hai nghề, thợ cả nhẹ nhàng nhắc: tham thì thâm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Giúp Bạch Triệt sao chép và phân loại những gì anh đã ghi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người ngồi sắp xếp cả đêm. Sáng ra, mọi thứ ngăn nắp, anh nhìn cô như nhìn một kho báu.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.43999999999999995,
+          "bad": {
+            "x": "Cô viết nhầm hai mục. Anh phát hiện kịp, nhẹ nhàng sửa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Thị trấn nhân loại, ba năm sau. A Kỳ và Bạch Triệt học nghề.",
+      "learn": {
+        "n": "Rèn sắt thô",
+        "s": "van",
+        "v": 2
+      },
+      "no": 41
+    },
+    {
+      "id": "t42",
+      "scene": "vbook",
+      "place": "Nhân giới · Thư viện cũ",
+      "kind": "duyen",
+      "title": "Đọc chữ và bí mật thú triều",
+      "text": "Cô học đọc chữ nhân loại và cùng Bạch Triệt đọc sử cũ ở thư viện: nhân loại và thú nhân từng sống chung; thú nhân mạnh nhưng vụng mưu; một người bán thú nhân dựng Màn Ngăn Lực để đuổi thú nhân đi, mỗi năm cho thú nuôi uống thuốc để tạo thú triều. Giữa đống sách, anh tìm thấy một trang ghi chép tay của cha, dừng giữa chừng. Anh ngồi lặng hồi lâu. Cô có thể nói «chúng ta cùng mang tất cả về», hoặc «mình chỉ lấy điều cần».",
+      "tieu": "Trang giấy dừng giữa chừng. Đừng ép anh đọc tiếp nếu anh chưa muốn.",
+      "cast": "tk_ky,tk_triet,tk_han,tc",
+      "ch": [
+        {
+          "t": "Nói: «Chúng ta cùng mang tất cả về»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô, gật đầu. Hai người ôm sách từng chồng, đêm đó đóng kiện đến tận khuya.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Cô nói quá lạc quan, anh nhìn đống sách chất cao như núi rồi thở dài.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nói: «Mình chỉ lấy điều cần, phần còn lại để lại»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh gật đầu chậm. «Em đúng.» Hai người chọn lọc kỹ, mang đi những gì cốt lõi.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Hai người cãi nhẹ về cuốn nào cần, cuốn nào không, mất hơn nửa ngày.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Ngồi xuống bên anh, đọc to trang ghi chép của cha anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh lắng nghe, tay siết nhẹ tay cô. Giọng cô đều đặn, anh thở chậm dần.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.4566666666666667,
+          "bad": {
+            "x": "Cô đọc vấp một chữ lạ, anh khẽ sửa. Hai người cười rồi lại đọc tiếp.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Thư viện cũ ở nhân giới. A Kỳ đọc chữ nhân loại và tìm ra bí mật thú triều.",
+      "learn": {
+        "n": "Đọc chữ nhân loại",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 42
+    },
+    {
+      "id": "t43",
+      "scene": "vwall",
+      "place": "Vọng Lâm Lâu · Cạnh tường thành",
+      "kind": "nan",
+      "title": "Họ bước ra khỏi rừng",
+      "text": "Mười sáu năm sau, trên Vọng Lâm Lâu, cạnh tường thành, Tiểu Châu tóm: Hắc Thạch thống nhất thú nhân giới nhờ sắt, gốm và chữ; thú triều thành bữa tiệc thịt của các dũng sĩ thức tỉnh; cô cho dựng Vọng Lâm Lâu để ngắm Đại Mê Lâm. Một sáng, người Hà Lâm bước ra khỏi rừng và dừng trước tường thành: Phương Lạc Nghi được cõng, Khắc Cang, Mặc Hạo, Thiết Nham, Ưng Dực, Huyền Lâm theo sau. Bạch Triệt nhìn họ, bàn tay siết lại. Cô có thể nắm tay anh nói «để em lo», hoặc để anh quyết.",
+      "tieu": "Họ đã đến. Anh chờ ngày này lâu hơn ngươi tưởng. Đừng để tay anh siết thêm.",
+      "cast": "tk_ky,tk_triet,tk_nghi,tk_cang,tk_hao,tk_nham,tk_duc,tk_lam,tc",
+      "ch": [
+        {
+          "t": "Nắm tay anh, nói: «Để em lo»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô, hơi thở chậm lại. Bàn tay anh dần mở ra trong tay cô.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "de_em_lo"
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Cô nói quá nhẹ, anh không nghe rõ. Bàn tay anh vẫn siết, đầu ngón trắng bệch.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Để anh quyết, đứng sát cạnh anh, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh im lặng, rồi nói rất khẽ: «Anh muốn nghe em nghĩ gì.» Cô đáp, anh gật đầu.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Anh đứng bất động, không nói gì. Cô đứng cạnh, bàn tay lạnh toát.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhìn thẳng xuống đoàn người, quan sát từng người một",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô thấy dáng họ già đi, mệt mỏi, không còn như năm xưa. Cơn giận của cô dịu đi một chút.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.4566666666666667,
+          "bad": {
+            "x": "Cô nhìn quá lâu, ánh mắt vô tình chạm ánh mắt Phương Lạc Nghi. Cô quay đi, tim đập nhanh.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Vọng Lâm Lâu, mười sáu năm sau. Người Hà Lâm bước ra khỏi rừng.",
+      "forced": 1,
+      "no": 43
+    },
+    {
+      "id": "t44",
+      "scene": "vwall",
+      "place": "Hắc Thạch · Cổng thành phía rừng",
+      "kind": "chon",
+      "title": "Điều kiện ở cổng thành",
+      "text": "Mấy ngày sau, theo lệnh cô, thủ vệ ở cổng thành phía rừng nói với từng người xin vào: muốn vào thì phải bỏ thân nhân sau lưng; mỗi người có hai lần trả lời. Từng thành viên Hà Lâm lần lượt bỏ bạn bè, rồi bỏ cả người thân; con cái của Phương Lạc Nghi vào thành, các dũng sĩ cũng từng người rời đi. Huyền Lâm cuối cùng lặng lẽ quay về hang. Phương Lạc Nghi đứng một mình dưới tường, đã không còn trẻ. Thiết Lan vào thành nhưng không còn nhìn ai. Cô có thể nhìn đến cùng, hoặc quay đi và nắm tay anh.",
+      "tieu": "Ngươi đặt điều kiện này, nên ngươi phải nhìn. Nhưng nhìn xong thì đừng nhìn lại nữa.",
+      "cast": "tk_ky,tk_triet,tk_nghi,tk_cang,tk_hao,tk_nham,tk_duc,tk_lam,tk_lan,tc",
+      "ch": [
+        {
+          "t": "Nhìn đến cùng, ghi nhớ từng người bước qua",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhìn từng gương mặt, không giận cũng không thương. Lòng cô bình thản kỳ lạ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "nhin_den_cung"
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Cô nhìn mãi, thấy mắt cay xè. Cô không biết mình đang khóc vì ai.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Quay đi, nắm tay anh, nói «ta vào trong thôi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nắm tay cô thật nhẹ, hai người rời Vọng Lâm Lâu, bỏ lại tiếng bước chân sau lưng.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "quay_di"
+          },
+          "b": 0.5166666666666668,
+          "bad": {
+            "x": "Anh không đi ngay mà quay lại nhìn họ một lúc. Cô phải kéo tay anh mới chịu đi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Ra lệnh cho thủ vệ cho Ô Nhã gặp từng người trước khi họ vào",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ô Nhã đứng giữa cổng, nói với từng người những lời cô không nói được. Mọi thứ bớt nặng nề.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.4566666666666667,
+          "bad": {
+            "x": "Ô Nhã run giọng, khóc trước khi nói được hết câu. Buổi gặp kết thúc dở dang.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Cổng thành phía rừng Hắc Thạch, mấy ngày sau. Người Hà Lâm lần lượt xin vào thành.",
+      "no": 44
+    },
+    {
+      "id": "t45",
+      "scene": "vdawn",
+      "place": "Vọng Lâm Lâu · Căn phòng trên cao",
+      "kind": "nan",
+      "title": "Lời kết",
+      "text": "Một sáng, trong căn phòng trên Vọng Lâm Lâu, trời vừa lên. Cô đã già; Tiểu Châu báo nhiệm vụ ở thế giới này đã xong. Bạch Triệt nắm tay cô, hỏi «em đi đâu, anh đi cùng được không?». Cô nói không biết nên không mang được. Anh xin ở bên cô tới phút cuối, và cô đồng ý, hẹn «kiếp sau gặp». Ngoài cửa sổ, Đại Mê Lâm xanh một màu, tường thành sáng lên dưới nắng. Anh nắm tay cô, và tay anh run.",
+      "tieu": "Anh sẽ siết hay buông, còn tùy chuyện anh học được suốt những năm qua.",
+      "cast": "tk_ky,tk_triet,tc",
+      "ch": [
+        {
+          "t": "Nói thật: «Em sẽ đi, nhưng em đã sống trọn ở đây»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh gật rất chậm, rồi nở nụ cười đã quá quen thuộc. «Vậy là đủ.»",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "noi_that_45"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Anh gật mà nước mắt rơi trước. Cô đưa tay lau cho anh.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nắm tay anh, nhắc lại những ngày đầu ở cửa hang",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai bàn tay không rời nhau. Anh lẩm bẩm theo từng chữ, mắt dịu dần.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "nhac_ngay_dau"
+          },
+          "b": 0.42999999999999994,
+          "bad": {
+            "x": "Anh nghe tới câu thứ hai thì ôm chặt cô, không cho nói tiếp.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Pha trà thuốc như mọi sáng, ngồi cạnh anh nhìn rừng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người uống trà trong yên lặng. Anh tựa vào vai cô, nhẹ như hơi thở.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Ấm trà nguội trước khi cô rót xong. Anh bật cười, nắm lấy tay cô thay cho tách trà.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Căn phòng trên Vọng Lâm Lâu, một sáng. Tiểu Châu báo nhiệm vụ ở thế giới này đã xong.",
+      "no": 45
+    }
+  ]
+}

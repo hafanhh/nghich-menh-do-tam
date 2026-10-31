@@ -1,0 +1,3108 @@
+{
+  "id": "w4",
+  "no": 4,
+  "chapEnd": [
+    11,
+    19,
+    25,
+    30,
+    39
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": -0.0125,
+  "p0": {
+    "mi": 60,
+    "tri": 58,
+    "van": 54
+  },
+  "params": {
+    "ac": 1,
+    "hac": 1.3,
+    "hao": 1,
+    "bad": 2
+  },
+  "names": {
+    "av": "A Vân",
+    "ad": "A Dã",
+    "lti": "Lâm Tình",
+    "ak": "A Kiên",
+    "amo": "A Mộc",
+    "ltt": "Lão tộc trưởng",
+    "al": "A Lang",
+    "ami": "A Mị",
+    "ali": "A Liên",
+    "ang": "A Ngạc",
+    "bui": "Bụi",
+    "mun": "Mun"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 4 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh là hình vẽ tạm bằng mã.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Mười mùa lá xanh",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của A Dã đã về không. Hắn vẫn là thợ săn giỏi nhất rừng, nhưng chỉ săn đủ ăn. Ngọn đồi hoa chuông xanh mãi, hai người già đi cùng nhau dưới giàn nho dại.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "rgreen"
+    },
+    "near": {
+      "n": "Gần như trọn vẹn",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Thỉnh thoảng hắn vẫn cầm giáo đứng nhìn về phía bộ lạc cũ. Nhưng tối nào hắn cũng về, ngồi tựa lưng cô giữ trận.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "rgreen"
+    },
+    "half": {
+      "n": "Ở lại bên nhau",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hắn vẫn giết khi thấy cần, vẫn coi người ngoài như cỏ. Cô ở lại, giữ trận, và dạy hắn từng ngày.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "rhill"
+    },
+    "black": {
+      "n": "Dã thú giữa tro tàn",
+      "c": "Hắc hóa chạm 100. A Dã cầm giáo quay về bộ lạc cũ, rồi đến từng bộ lạc từng ghét cô. Tiểu Châu kéo linh hồn cô đi trước khi hắn quay lại khu rừng.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "rburn"
+    },
+    "bdead": {
+      "n": "Rừng mất thợ săn",
+      "c": "Sinh mệnh của A Dã về 0. Thợ săn mạnh nhất rừng ngã xuống, tay vẫn nắm lấy tay cô.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "rforest"
+    },
+    "dead": {
+      "n": "A Vân vẫn chết",
+      "c": "Sinh mệnh cạn kiệt. Tiểu Châu kéo linh hồn cô đi khi A Dã còn đang gào tên cô giữa rừng.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "rforest"
+    }
+  },
+  "events": [
+    {
+      "id": "r01",
+      "scene": "rcave",
+      "place": "Hang đá bộ lạc Bờ Sông · Đầu hè",
+      "kind": "chon",
+      "title": "Tỉnh dậy sau cú va đầu",
+      "text": "A Vân, con gái tộc trưởng bộ lạc Bờ Sông, tỉnh dậy trên tấm da báo trong hang đá, trán còn sưng. Tiểu Châu kể: mấy hôm trước cô kiêu căng trốn việc, rủ người đi chơi xa, gặp sói và bị đập đầu vào đá; cả tộc tưởng cô đã hóa ngốc. Ở bộ lạc này, ai không làm việc thì bị coi thường. Tiểu Châu còn dò thấy, đâu đó rất gần, có một người mang Ác niệm gần chạm trần.",
+      "tieu": "Rừng này linh khí dày lắm, ta dạy ngươi được vài bí thuật. Nhưng trước hết, ra khỏi hang mà làm việc như người ta đi đã.",
+      "cast": "av,tc",
+      "ch": [
+        {
+          "t": "Ra suối gánh nước cùng các cô gái",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô gánh đủ ba chuyến. Một bà lão nhìn theo, lẩm bẩm: con bé không ngốc nữa rồi.",
+            "d": {
+              "ac": -2,
+              "sinh": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Thùng nước đổ ướt cả người, mấy cô gái cười khúc khích.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Hỏi Tiểu Châu về người mang Ác niệm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu nói: Ác niệm của người ấy không đến từ thù hận; người ấy coi mạng người nhẹ như cỏ. Cô ghi nhớ: phải gặp người ấy trước khi quá muộn.",
+            "d": {
+              "ac": -3
+            },
+            "f": "biet_an"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Tiểu Châu dò mãi không ra. Cô chỉ biết người đó đang ở rất gần.",
+            "d": {
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Đi xin lỗi những người cô từng sai bảo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Vài người ngạc nhiên, một cô gái còn chia cho cô nắm quả dại. Tiếng xấu của A Vân bắt đầu nhạt đi.",
+            "d": {
+              "ac": -2,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Họ nhìn nhau rồi quay lưng. Cô đứng giữa sân, mặt nóng ran.",
+            "d": {
+              "sinh": -3,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Đầu hè, bộ lạc Bờ Sông. A Vân tỉnh lại sau cú đập đầu, cả tộc tưởng cô đã ngốc; Tiểu Châu báo gần đây có một người mang Ác niệm rất cao.",
+      "no": 1
+    },
+    {
+      "id": "r02",
+      "scene": "rforest",
+      "place": "Rừng phía Nam · Ngày thứ ba",
+      "kind": "hiem",
+      "title": "Người lạ dưới tán cây",
+      "text": "Cô vào rừng một mình hái quả, leo lên một cành cao. Dưới gốc bỗng có tiếng hét, cô giật mình trượt chân. Một đôi tay đỡ gọn lấy cô: người đàn ông cao lớn, da màu đồng, quấn khố da hổ, không phải người bộ lạc Bờ Sông. Bên chân hắn là con lợn rừng vừa săn. Tiểu Châu kêu lên: Ác niệm 95, chính là hắn. Hắn nhìn cô chằm chằm rồi tuyên bố: hắn chọn cô, cô phải về với hắn. Nói rồi hắn định vác cô lên vai.",
+      "tieu": "Hắn tên A Dã. Ta nhét vào tay ngươi một nhúm bột hoa mê đây. Đừng để hắn mang ngươi đi khi ngươi còn chưa biết hắn là ai.",
+      "cast": "av,ad,tc",
+      "ch": [
+        {
+          "t": "Thổi bột hoa mê, trói hắn treo lên cây",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn lảo đảo ngã xuống. Cô bện dây leo trói tay chân hắn, kéo lên một chạc cây. Đi được một đoạn, sau lưng vang lên tiếng cười: A Dã muốn thứ gì thì chưa từng để mất. Hắn đã tỉnh, và đang cười.",
+            "d": {
+              "ac": -4,
+              "hao": 6
+            },
+            "f": "treo_cay"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Gió thổi bột ngược vào mặt cô. Cô ngã vật xuống, tỉnh dậy dưới gốc cây, thấy hắn ngồi bên gặm quả, cười cô ngốc.",
+            "d": {
+              "sinh": -6,
+              "hao": 3
+            }
+          },
+          "learn": {
+            "n": "Pha bột hoa mê",
+            "s": "tri",
+            "v": 1
+          }
+        },
+        {
+          "t": "Nói thẳng: muốn đưa ta đi thì hỏi ta trước",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn khựng lại như lần đầu nghe con mồi nói chuyện. Hắn đặt cô xuống: được, ta hỏi, cô đi theo ta không. Cô nói không. Hắn cười to, bỏ đi, để lại con lợn: quà cho cô gái dám trả lời A Dã.",
+            "d": {
+              "ac": -6,
+              "hac": -2,
+              "hao": 5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn không nghe, vác cô lên vai chạy một quãng dài. Cô cào cấu mãi hắn mới thả xuống, tay chân trầy xước.",
+            "d": {
+              "sinh": -10,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Vùng chạy về phía bộ lạc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lách qua bụi dương xỉ, chạy thục mạng. Hắn không đuổi, chỉ gọi với: ta sẽ tìm được cô. Con lợn rừng hắn bỏ lại nằm giữa đường.",
+            "d": {
+              "hac": 2,
+              "hao": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô vấp rễ cây, ngã dập gối. Hắn bế cô lên, đặt lại ngay bìa rừng rồi biến mất.",
+            "d": {
+              "sinh": -6,
+              "hac": 2,
+              "hao": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày thứ ba, rừng phía Nam bộ lạc Bờ Sông. A Vân ngã khỏi cây và được A Dã, một thợ săn ngoại tộc, đỡ lấy; Tiểu Châu báo hắn chính là người mang Ác niệm 95. Hắn đòi vác cô về làm vợ.",
+      "no": 2
+    },
+    {
+      "id": "r03",
+      "scene": "rfire",
+      "place": "Bộ lạc Bờ Sông · Tối ngày thứ ba",
+      "kind": "duyen",
+      "title": "Con lợn rừng tự đâm vào đá",
+      "text": "Cô bện lưới dây leo, kéo con lợn rừng A Dã bỏ lại về bộ lạc. Giữa đường gặp anh trai A Mộc dẫn người đi tìm. Cả tộc sửng sốt: con thú này mấy người đàn ông mới hạ được. Tối đó quanh đống lửa, lão tộc trưởng, cha cô, đưa cho cô vỏ dừa đựng máu hươu, thứ chỉ dũng sĩ mới được uống, và hỏi cô đã bắt nó thế nào.",
+      "tieu": "Ngươi định kể thật là một gã lạ mặt cho ngươi con lợn à? Cả tộc sẽ hỏi gã là ai đấy.",
+      "cast": "av,amo,ltt",
+      "ch": [
+        {
+          "t": "Kể lợn tự đâm đầu vào tảng đá",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả tộc cười vang, tin sái cổ. Lão tộc trưởng xoa đầu cô, gọi cô là nữ dũng sĩ. A Mộc tự hào ra mặt.",
+            "d": {
+              "ac": -3,
+              "sinh": 4
+            },
+            "f": "nu_dung_si"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "A Mộc nhíu mày: lợn đâm đá thì đầu nó phải vỡ. Cô ấp úng cả buổi.",
+            "d": {
+              "sinh": -2,
+              "nn": 4
+            }
+          }
+        },
+        {
+          "t": "Uống cạn máu hươu một hơi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Máu tanh nồng, cô vẫn uống cạn. Đám dũng sĩ hò reo. Từ nay không ai gọi cô là đứa ngốc nữa.",
+            "d": {
+              "ac": -2,
+              "sinh": 5
+            },
+            "f": "nu_dung_si"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô sặc, phun cả ra đất. Vài người lắc đầu.",
+            "d": {
+              "sinh": -4
+            }
+          },
+          "learn": {
+            "n": "Bện lưới dây leo",
+            "s": "van",
+            "v": 1
+          }
+        },
+        {
+          "t": "Kể thật về người thợ săn lạ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lão tộc trưởng trầm ngâm: thợ săn ngoại tộc mà mạnh vậy thì phải canh rừng phía Nam. Cả tộc nể cô vì dám nói thật.",
+            "d": {
+              "ac": -2,
+              "hac": -2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Người ta xì xào cô bị thần rừng bỏ bùa. Lão tộc trưởng cấm cô vào rừng một mình.",
+            "d": {
+              "nn": 8,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Tối ngày thứ ba, bên đống lửa bộ lạc Bờ Sông. A Vân mang về con lợn rừng A Dã bỏ lại; anh trai A Mộc và cha cô, lão tộc trưởng, muốn biết cô bắt nó thế nào.",
+      "no": 3
+    },
+    {
+      "id": "r04",
+      "scene": "rfire",
+      "place": "Bộ lạc Bờ Sông · Cùng đêm tiệc lửa",
+      "kind": "chon",
+      "title": "Cô gái mặc đồ lạ",
+      "text": "Giữa tiệc, dũng sĩ đệ nhất A Kiên trở về, kéo theo một cô gái anh vừa bắt được ở bìa rừng: gầy, da trắng, mặc quần áo bằng thứ vải lạ, run như cầy sấy. Cả tộc vẫn ngầm định A Kiên sẽ là chồng A Vân, nên ai cũng liếc sang cô. Tiểu Châu nói nhỏ: cô gái tên Lâm Tình, lạc từ một thế giới khác tới, là người được trời chọn của nơi này, sau này sẽ đưa các bộ lạc đi lên.",
+      "tieu": "Người được trời chọn thì đừng dại mà làm khó. Ngươi tốt với cô ấy, cả thế giới này sẽ tốt lại với ngươi.",
+      "cast": "av,ak,lti,tc",
+      "ch": [
+        {
+          "t": "Kéo Lâm Tình vào vòng nhảy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lâm Tình rụt rè rồi bật cười khi cô dẫn từng bước. Cô ấy chỉ vào mình, nói: Lâm Tình. Từ đêm đó, cô gái lạ có một người bạn.",
+            "d": {
+              "ac": -3,
+              "hao": 2
+            },
+            "f": "ban_lt"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Lâm Tình hoảng sợ giật tay ra, trốn sau lưng A Kiên.",
+            "d": {
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Mang cho cô ấy miếng thịt mềm nhất",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lâm Tình ăn ngấu nghiến, mắt rưng rưng. A Kiên nhìn A Vân, lần đầu có vẻ biết ơn.",
+            "d": {
+              "ac": -2,
+              "sinh": 2
+            },
+            "f": "ban_lt"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Lâm Tình không dám nhận. Miếng thịt nguội ngắt trên lá.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Đứng xa quan sát A Kiên",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "A Kiên không rời mắt khỏi cô gái lạ. A Vân hiểu: người tộc định gả cho cô đã chọn người khác, và cô thấy nhẹ nhõm.",
+            "d": {
+              "ac": -2,
+              "hac": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nhìn lâu quá, mấy người phụ nữ bắt đầu xì xào là cô ghen.",
+            "d": {
+              "nn": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng đêm tiệc lửa ở bộ lạc Bờ Sông. Dũng sĩ đệ nhất A Kiên, người cả tộc định gả A Vân, bắt về Lâm Tình, một cô gái lạc từ thế giới khác; Tiểu Châu báo cô ấy là người được trời chọn.",
+      "no": 4
+    },
+    {
+      "id": "r05",
+      "scene": "rfire",
+      "place": "Bộ lạc Bờ Sông · Cuối đêm tiệc",
+      "kind": "chon",
+      "title": "Lễ chọn chồng",
+      "text": "Cuối tiệc, lão tộc trưởng gõ gậy: năm dũng sĩ đến tuổi lập gia đình đứng ra, các cô gái tự chọn. Trước khi A Vân kịp mở miệng, A Kiên kéo Lâm Tình ra sau lưng mình: tộc trưởng, tôi không muốn A Vân, tôi muốn cô gái này. Cả sân lặng ngắt. A Mộc nắm chặt cây giáo.",
+      "tieu": "Hắn chọn người được trời chọn, chuyện đó không đổi được đâu. Cái ngươi chọn được là bộ lạc sẽ nhìn ngươi thế nào.",
+      "cast": "av,ak,lti,amo,ltt",
+      "ch": [
+        {
+          "t": "Chúc phúc, nói mình muốn đi săn chứ chưa muốn lấy chồng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả sân im lặng rồi vỡ òa. Đàn ông lẫn đàn bà đều hô tên cô. Lão tộc trưởng gật đầu. Chỉ có A Mộc vẫn nghĩ em gái đang gồng.",
+            "d": {
+              "ac": -5,
+              "hac": -2
+            },
+            "f": "chuc_phuc"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Giọng cô run. Người ta nhìn cô thương hại, còn khó chịu hơn bị từ chối.",
+            "d": {
+              "sinh": -3,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Giữ A Mộc lại, không cho anh gây sự",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nắm tay anh trai. A Mộc thở hắt ra, buông giáo. Một trận đánh giữa hai dũng sĩ mạnh nhất tộc đã không xảy ra.",
+            "d": {
+              "ac": -3,
+              "sinh": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "A Mộc gạt tay cô, xông tới. Hai người đàn ông vật nhau, cô bị xô ngã vào đống củi.",
+            "d": {
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Đòi A Kiên đấu với anh trai để giữ thể diện",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "A Kiên thắng. Tộc nhân bảo A Vân vẫn kiêu căng như xưa, còn Lâm Tình nhìn cô đầy sợ hãi.",
+            "d": {
+              "hac": 3,
+              "nn": 4
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cả hai đều bị thương. Lão tộc trưởng phạt A Vân ba ngày không được ăn thịt.",
+            "d": {
+              "sinh": -8,
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối đêm tiệc, lễ chọn chồng của bộ lạc Bờ Sông. A Kiên từ chối A Vân trước cả tộc để chọn Lâm Tình; anh trai A Mộc nổi giận.",
+      "no": 5
+    },
+    {
+      "id": "r06",
+      "scene": "rcave",
+      "place": "Hang đá của A Vân · Nửa đêm",
+      "kind": "hiem",
+      "title": "Kẻ lẻn vào hang đêm",
+      "tieu": "Trên người hắn không có sát khí. Hắn đến vì tò mò về ngươi. Đừng làm hắn thấy nhàm.",
+      "cast": "av,ad",
+      "ch": [
+        {
+          "t": "Thổi bột mê vào mặt hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lần này cô nhanh hơn. Hắn lảo đảo, cười khẽ trước khi gục: cô gái này thú vị thật. Sáng ra hắn đã đi, cạnh gối cô có chiếc nanh hổ xỏ dây.",
+            "d": {
+              "ac": -5,
+              "hao": 6
+            },
+            "f": "nanh"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Hắn nín thở, gạt tay cô; bột hắt ngược vào mặt cô, cô ngủ thiếp đi. Sáng ra cô vẫn bình an, cạnh gối có chiếc nanh hổ xỏ dây và lời nhắn vạch trên đất: còn quay lại.",
+            "d": {
+              "sinh": -4,
+              "hao": 5
+            },
+            "f": "nanh"
+          }
+        },
+        {
+          "t": "Gỡ tay hắn ra, hỏi chuyện như người bình thường",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngồi xổm bên bếp lửa tàn, kể đã đứng ngoài bộ lạc ba đêm. Trước khi đi, hắn để lại chiếc nanh hổ xỏ dây: thứ quý nhất hắn có.",
+            "d": {
+              "ac": -6,
+              "hac": -2,
+              "hao": 7
+            },
+            "f": "nanh"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn cười, bảo cô lắm lời, đặt chiếc nanh hổ cạnh gối rồi biến mất trước khi cô hỏi được gì.",
+            "d": {
+              "hao": 2,
+              "hac": 1
+            },
+            "f": "nanh"
+          }
+        },
+        {
+          "t": "Hét lên gọi A Mộc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "A Mộc lao vào thì hang đã trống, chỉ còn chiếc nanh hổ trên gối. Cả tộc canh gác mấy đêm liền.",
+            "d": {
+              "hac": 3,
+              "nn": 3
+            },
+            "f": "nanh"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô chưa kịp hét đã bị bịt miệng. Hắn thì thầm: đừng để họ đánh ta, ta không muốn giết anh cô. Rồi đi, để lại chiếc nanh hổ.",
+            "d": {
+              "hac": 2,
+              "hao": 2
+            },
+            "f": "nanh"
+          }
+        }
+      ],
+      "no": 6
+    },
+    {
+      "id": "r07",
+      "scene": "rriver",
+      "place": "Bờ suối bộ lạc Bờ Sông · Những ngày sau",
+      "kind": "duyen",
+      "title": "Dạy tiếng cho Lâm Tình",
+      "text": "Lâm Tình sống với A Kiên nhưng bị cả tộc xa lánh vì quá gầy, quá trắng, không gánh nổi, không vác nổi. Ngày nào A Vân cũng ngồi dạy cô ấy tiếng bộ lạc, Tiểu Châu dịch lại cho cô nghe. Đổi lại, Lâm Tình chỉ cho cô khoai nào ăn được, cách chẻ trúc đan sọt, bện giày cỏ. Người ta bắt đầu xì xào: A Vân lấy lòng cô gái lạ để được làm vợ hai của A Kiên.",
+      "tieu": "Cô gái này biết nhiều cây cỏ lắm. Nhớ lấy, sau này có lúc ngươi cần đến.",
+      "cast": "av,lti",
+      "ch": [
+        {
+          "t": "Học Lâm Tình chẻ trúc đan sọt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chiếc sọt đầu tiên méo mó, chiếc thứ ba đã đựng được quả. Các cô gái tới xem, rồi ngồi xuống học cùng.",
+            "d": {
+              "ac": -3,
+              "sinh": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Nan trúc cứa đứt tay cô. Lâm Tình cuống quýt nhai lá đắp vào.",
+            "d": {
+              "sinh": -5
+            }
+          },
+          "learn": {
+            "n": "Đan sọt trúc",
+            "s": "van",
+            "v": 1
+          }
+        },
+        {
+          "t": "Dẫn Lâm Tình đi giới thiệu khắp tộc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lâm Tình nói được vài câu tiếng bộ lạc, mấy bà lão bật cười. Từ hôm ấy người ta chịu cho cô ấy ngồi cạnh bếp lửa.",
+            "d": {
+              "ac": -4,
+              "hac": -1
+            },
+            "f": "ban_lt"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Có người giật tóc Lâm Tình, bảo cô ấy là ma da trắng. A Vân phải đứng chắn.",
+            "d": {
+              "sinh": -4,
+              "nn": 3
+            }
+          }
+        },
+        {
+          "t": "Nói rõ với mọi người mình không muốn làm vợ hai",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nói rõ ràng trước cả nhóm phụ nữ. Lời xì xào tắt dần.",
+            "d": {
+              "ac": -2,
+              "nn": -3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Càng thanh minh, người ta càng tin là thật.",
+            "d": {
+              "nn": 4,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Những ngày sau lễ chọn chồng, bộ lạc Bờ Sông. A Vân kết bạn với Lâm Tình đang bị tộc xa lánh, dạy cô ấy tiếng bộ lạc và học lại cách đan trúc.",
+      "no": 7
+    },
+    {
+      "id": "r08",
+      "scene": "rforest",
+      "place": "Rừng phía Nam · Giữa hè",
+      "kind": "hiem",
+      "title": "Rắn độc ở rừng phía Nam",
+      "text": "Lâm Tình rủ A Vân đi xa hơn tìm thứ ăn mới. Lâm Tình cạo thử một vỉa đá màu vàng nhạt: có vị mặn, là đá muối. Trên đường về, một con rắn đen to bằng cổ tay lao xuống từ cành cây, nhắm thẳng vào hai người.",
+      "tieu": "Đầu tam giác, có độc đấy. Đâm vào chỗ bảy tấc, đừng đâm đầu. Và nhớ: rắn chết rồi vẫn cắn được.",
+      "cast": "av,lti,tc",
+      "ch": [
+        {
+          "t": "Phóng giáo vào chỗ bảy tấc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mũi giáo ghim chặt con rắn xuống đất. Lúc cô quay lại cười với Lâm Tình, cái xác giật lên cắn vào đùi cô. Lâm Tình nhai lá đắp vết thương rồi chạy về gọi người.",
+            "d": {
+              "ac": -3,
+              "sinh": -8
+            },
+            "f": "ran_can"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Giáo trượt. Con rắn cắn trúng đùi cô. Lâm Tình đâm chết nó, nhai lá đắp rồi chạy về gọi người.",
+            "d": {
+              "sinh": -14
+            },
+            "f": "ran_can"
+          },
+          "learn": {
+            "n": "Phóng giáo",
+            "s": "van",
+            "v": 2
+          }
+        },
+        {
+          "t": "Kéo Lâm Tình lùi lại, quất nó bằng gậy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Con rắn văng vào bụi, nhưng lúc cô bước tới nó bật lên cắn vào đùi. Lâm Tình đắp lá rồi chạy về gọi người.",
+            "d": {
+              "ac": -2,
+              "sinh": -10
+            },
+            "f": "ran_can"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Con rắn quấn lấy gậy, cắn trúng đùi cô. Lâm Tình khóc, đắp lá rồi chạy về gọi người.",
+            "d": {
+              "sinh": -14
+            },
+            "f": "ran_can"
+          }
+        },
+        {
+          "t": "Ném sọt đá muối chắn trước người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Con rắn mổ vào sọt rồi quay đầu. Lúc hai người chạy, nó lao theo cắn một nhát nông vào gót cô. Lâm Tình đắp lá rồi chạy về gọi người.",
+            "d": {
+              "ac": -2,
+              "sinh": -6
+            },
+            "f": "ran_can"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Sọt rơi, đá muối văng tung tóe. Con rắn cắn vào đùi cô. Lâm Tình đắp lá rồi chạy về gọi người.",
+            "d": {
+              "sinh": -14
+            },
+            "f": "ran_can"
+          }
+        }
+      ],
+      "ctx": "Giữa hè, rừng phía Nam. A Vân và Lâm Tình đi tìm thứ ăn mới, tìm ra đá muối, rồi bị một con rắn độc lớn tấn công.",
+      "no": 8
+    },
+    {
+      "id": "r09",
+      "scene": "rcave",
+      "place": "Hang săn tạm trong rừng · Cùng chiều",
+      "kind": "duyen",
+      "title": "Người hút nọc",
+      "text": "Chân cô tê dại, Lâm Tình chưa về tới. A Dã, người thợ săn từng hai lần tìm cô, nhảy xuống từ tán lá. Hắn bế cô vào một hang săn tạm, cúi xuống hút nọc ở vết rắn cắn, nhổ ra từng ngụm máu đen, rồi xách luôn xác con rắn. Xong việc hắn nói thẳng: theo ta về làm người phụ nữ của ta.",
+      "tieu": "Ác niệm của hắn không đến từ hận ai. Hắn chỉ coi mọi thứ ngoài điều mình muốn là vô nghĩa, kể cả mạng người. Dạy hắn rằng điều ngươi muốn cũng quan trọng.",
+      "cast": "av,ad,tc",
+      "ch": [
+        {
+          "t": "Muốn cưới thì phải hỏi cha và anh ta",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhíu mày: ai bắt đàn bà mà phải hỏi bộ lạc nó. Cô nhìn thẳng hắn, không nói thêm. Hắn im rất lâu, rồi gật: được, ta sẽ có cách khiến họ đồng ý.",
+            "d": {
+              "ac": -8,
+              "hac": -3,
+              "hao": 7
+            },
+            "f": "hen_hoi"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn bật cười, bảo cô nói chuyện lạ, rồi bỏ đi trước khi tộc nhân đến. Cô không biết hắn có nghe lọt câu nào.",
+            "d": {
+              "hac": 2,
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Cảm ơn hắn, băng vết rách trên môi hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Môi hắn rách vì hút nọc. Cô xé dải da váy buộc lại. Hắn nhìn tay cô như nhìn thứ chưa từng thấy: chưa ai băng cho A Dã.",
+            "d": {
+              "ac": -6,
+              "hac": -2,
+              "hao": 8
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn gạt tay cô: A Dã không cần. Nhưng hắn vẫn ngồi lại đến khi nghe tiếng người.",
+            "d": {
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Hỏi hắn thuộc bộ lạc nào",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn chỉ nói: một bộ lạc mà cô sẽ sợ. Rồi cười, bảo cô sẽ biết vào cuối hè.",
+            "d": {
+              "ac": -3,
+              "hao": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn không trả lời, mắt tối lại. Cô vừa chạm vào thứ hắn không muốn nói.",
+            "d": {
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng chiều, hang săn tạm trong rừng phía Nam. Đùi A Vân trúng nọc rắn; A Dã tìm đến, hút nọc cứu cô rồi đòi cô theo hắn về.",
+      "no": 9
+    },
+    {
+      "id": "r10",
+      "scene": "rfire",
+      "place": "Bộ lạc Bờ Sông · Tối hôm bị rắn cắn",
+      "kind": "chon",
+      "title": "Lời đề nghị của A Kiên",
+      "text": "A Kiên chạy tới trước cả đoàn, bế cô về. Tối đó, trước mặt lão tộc trưởng, A Kiên xin nhận A Vân làm vợ thứ, coi như trả ơn cô đã che cho Lâm Tình khỏi con rắn. Lâm Tình đứng sau, cúi đầu đồng ý, mắt đỏ hoe. Lão tộc trưởng chờ con gái trả lời.",
+      "tieu": "A Kiên không xấu, chỉ là nghĩ theo kiểu bộ lạc. Nhưng nhận lời thì vừa phụ Lâm Tình, vừa phụ cái gã thợ săn đang đợi ngươi đấy.",
+      "cast": "av,ak,lti,ltt",
+      "ch": [
+        {
+          "t": "Từ chối thẳng trước mặt cha",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nói: A Vân không làm vợ ai để được trả ơn. Lão tộc trưởng sững người rồi phá lên cười. A Kiên đỏ mặt rút lời.",
+            "d": {
+              "ac": -5,
+              "hac": -2,
+              "hao": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Lời cô cứng quá, A Kiên tưởng cô hận Lâm Tình. Cả nhà im lặng nặng nề.",
+            "d": {
+              "nn": 3,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Kéo Lâm Tình ra ngoài, bảo cô ấy nói thật lòng với A Kiên",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lâm Tình khóc, nói cô ấy không chịu chia chồng. Đêm đó A Kiên tự đến xin lỗi A Vân. Hai người phụ nữ thành chị em thật sự.",
+            "d": {
+              "ac": -6,
+              "hac": -2
+            },
+            "f": "ban_lt"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lâm Tình sợ mất chỗ dựa, không dám nói. Mọi chuyện treo lơ lửng.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Nói mình đã có người trong lòng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả nhà sững sờ. A Kiên thở phào. Lâm Tình nắm tay cô, thì thầm sẽ giữ bí mật.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            },
+            "f": "ban_lt"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cha cô tra hỏi người đó là ai. Cô không trả lời được, bị cấm ra khỏi bộ lạc mười ngày.",
+            "d": {
+              "nn": 5,
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Tối hôm A Vân bị rắn cắn, hang của lão tộc trưởng. A Kiên xin nhận A Vân làm vợ thứ để trả ơn cô đã che cho Lâm Tình; Lâm Tình miễn cưỡng đồng ý.",
+      "no": 10
+    },
+    {
+      "id": "r11",
+      "scene": "rriver",
+      "place": "Khúc sông vắng · Đêm trăng khuyết",
+      "kind": "duyen",
+      "title": "Đêm sao bên sông",
+      "text": "Cô lén ra khúc sông vắng tắm đêm. Một tiếng bùm, A Dã nhảy xuống nước ngay cạnh, đưa cho cô chiếc váy may từ da con rắn hôm trước. Hắn nói hắn đã có cách khiến tộc cô đồng ý, dặn cô cuối hè nhất định phải đến Hội Lá Vàng ở núi Xích Thạch. Cô vẫn chưa biết hắn thuộc bộ lạc nào.",
+      "tieu": "Hội Lá Vàng là nơi các bộ lạc đổi hàng và mang sính lễ hỏi cưới. Hắn định làm gì đó lớn đây.",
+      "cast": "av,ad",
+      "ch": [
+        {
+          "t": "Đổi lại, dạy hắn chải răng bằng cành cây",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn bắt chước rất nghiêm túc, rồi cười: cô gái này luôn cho A Dã thứ mới. Trước khi đi, hắn hứa lần sau sẽ hỏi cô muốn gì trước.",
+            "d": {
+              "ac": -7,
+              "hac": -3,
+              "hao": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cành cây gãy trong miệng hắn. Hắn nhổ phì phì, càu nhàu bỏ đi.",
+            "d": {
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Hỏi hắn đã giết bao nhiêu người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đếm trên ngón tay rồi dừng, lần đầu thấy con số đó nặng. Hắn hỏi: cô sợ ta à. Cô nói: ta sợ ngươi không biết lúc nào thì dừng.",
+            "d": {
+              "ac": -9,
+              "hac": -2,
+              "hao": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn nhún vai: không nhớ. Câu trả lời làm cô lạnh người.",
+            "d": {
+              "hac": 2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Nhận váy, hứa sẽ đến hội",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn cười như trẻ con, bế cô xoay một vòng giữa sông rồi biến vào rừng.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn nghe tiếng người gần đó, bỏ đi vội, chưa kịp nghe cô hứa.",
+            "d": {
+              "hao": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm trăng khuyết, khúc sông vắng gần bộ lạc Bờ Sông. A Dã tặng A Vân chiếc váy da rắn và hẹn cô cuối hè đến Hội Lá Vàng ở núi Xích Thạch.",
+      "no": 11
+    },
+    {
+      "id": "r12",
+      "scene": "rfair",
+      "place": "Đường lên núi Xích Thạch · Cuối hè",
+      "kind": "chon",
+      "title": "Đường đến núi Xích Thạch",
+      "text": "Hết mùa hè, A Dã không quay lại lần nào. Lâm Tình đã dạy cả tộc ướp thịt muối, đào hầm chứa đồ ăn. Lá rừng bắt đầu ngả vàng: mùa Hội Lá Vàng. A Kiên và A Mộc dẫn đoàn mang gốm, muối, sọt trúc lên núi Xích Thạch đổi hàng; Lâm Tình đi cùng để kể công dụng, A Vân xin theo. Mười hai ngày đường. Ở hội, ai cũng bàn về Tộc Người Đá, bị các bộ lạc gọi là Tộc Ăn Thịt Người, đáng sợ nhất vùng, vừa có tộc trưởng mới.",
+      "tieu": "Nghe đồn thôi, chưa ai tận mắt thấy họ ăn ai. Ngươi để ý nghe xem họ sợ điều gì.",
+      "cast": "av,ak,amo,lti",
+      "ch": [
+        {
+          "t": "Xin anh trai cho đi bằng cách gánh hàng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô gánh nặng không kém đàn ông. A Mộc gật đầu; mười hai ngày đường cô không than một câu.",
+            "d": {
+              "ac": -3,
+              "sinh": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Đến ngày thứ năm cô bong gân, phải để A Mộc cõng một quãng.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Giúp Lâm Tình mời khách nếm thịt rắc muối",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người nướng thịt rắc muối cho khách nếm. Hàng đổi hết sạch, đoàn được nhiều da thú.",
+            "d": {
+              "ac": -4,
+              "sinh": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Khách chê muối đắng. Lâm Tình buồn cả buổi.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Hỏi khắp hội về Tộc Người Đá",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Một bà lão kể: tộc ấy ăn sống thịt con thú đã giết dũng sĩ của họ, ngay bên xác người chết; người ngoài trông thấy nên đồn là ăn thịt người. Cô ghi nhớ.",
+            "d": {
+              "ac": -4,
+              "hac": -2
+            },
+            "f": "biet_le"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Người ta kể toàn chuyện rùng rợn. Đêm đó cô mơ thấy lửa.",
+            "d": {
+              "sinh": -3,
+              "nn": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối hè, ba tháng A Dã không quay lại. A Vân theo đoàn của A Kiên, A Mộc và Lâm Tình đến Hội Lá Vàng ở núi Xích Thạch, nơi các bộ lạc đang sợ Tộc Người Đá, bị đồn là ăn thịt người.",
+      "no": 12
+    },
+    {
+      "id": "r13",
+      "scene": "rfair",
+      "place": "Núi Xích Thạch · Ngày giữa hội",
+      "kind": "nan",
+      "title": "Tộc Người Đá đến hội",
+      "text": "Giữa hội, người canh gác hớt hải chạy vào: Tộc Ăn Thịt Người đến. Ba mươi dũng sĩ cầm giáo đầu đá tiến vào. Người dẫn đầu quấn khố da hổ răng kiếm, tóc buộc gọn, cười nửa miệng. A Vân chết lặng: đó là A Dã. Hắn là tộc trưởng mới của Tộc Người Đá. Đi sát sau hắn là một gã vai rộng, mặt có sẹo: A Lang, bạn thân của hắn. Các bộ lạc siết chặt vũ khí.",
+      "tieu": "Ác niệm 95 mà làm tộc trưởng của bộ lạc bị sợ nhất vùng. Giờ ngươi hiểu vì sao hắn bảo ngươi sẽ sợ rồi đấy.",
+      "cast": "av,ad,al,ak",
+      "ch": [
+        {
+          "t": "Đứng yên, nhìn thẳng vào hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ánh mắt hai người gặp nhau giữa đám đông. Hắn cười, như muốn nói: thấy chưa, ta đã đến. Đám dũng sĩ sau lưng hắn hạ giáo xuống một chút.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô quay mặt đi. Hắn nhíu mày, nụ cười tắt.",
+            "d": {
+              "hac": 3,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Kéo Lâm Tình lùi vào giữa đoàn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lâm Tình run lẩy bẩy nhưng an toàn. A Kiên gật đầu cảm ơn cô.",
+            "d": {
+              "ac": -2
+            },
+            "f": "ban_lt"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Đám đông xô đẩy, cô bị giẫm vào chân.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Quan sát A Lang",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "A Lang nhìn mọi người như nhìn con mồi, nhưng nhìn A Dã như nhìn anh ruột. Cô hiểu: muốn chạm tới A Dã thì phải qua được người này.",
+            "d": {
+              "ac": -3
+            },
+            "f": "biet_al"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "A Lang bắt gặp cô nhìn, nhếch mép khinh miệt.",
+            "d": {
+              "nn": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày giữa Hội Lá Vàng, núi Xích Thạch. Tộc Người Đá đến với ba mươi ngọn giáo; người dẫn đầu là tộc trưởng mới A Dã, đi cùng bạn thân A Lang. Cả hội căng thẳng.",
+      "no": 13
+    },
+    {
+      "id": "r14",
+      "scene": "rfair",
+      "place": "Núi Xích Thạch · Cùng ngày",
+      "kind": "nan",
+      "title": "Hai mươi tấm da lông dài",
+      "text": "A Dã dừng trước đoàn bộ lạc Bờ Sông, chỉ vào Lâm Tình: hắn muốn hỏi cưới cô gái này bằng hai mươi tấm da lông dài, đủ cho hai mươi người qua mùa đông. A Kiên từ chối. Không khí căng như dây cung, các bộ lạc sợ một trận đánh. Đúng lúc ấy hắn làm như miễn cưỡng: thôi được, đổi cô kia vậy, và chỉ vào A Vân. A Mộc gầm lên: em ta là con gái tộc trưởng.",
+      "tieu": "Hắn cố ý đấy. Hỏi Lâm Tình trước để bộ lạc ngươi không còn cớ từ chối lần hai. Quyết định là của ngươi.",
+      "cast": "av,ad,amo,ak,lti",
+      "ch": [
+        {
+          "t": "Tự nhận lời, kèm ba điều kiện",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nói trước cả hội: được về thăm nhà; hắn chỉ có một mình cô; không ai khác được chạm vào cô. Hắn đồng ý cả ba, mặc đám dũng sĩ phía sau càu nhàu. A Mộc bất đắc dĩ gật đầu.",
+            "d": {
+              "ac": -10,
+              "hac": -4,
+              "hao": 8
+            },
+            "f": "dieu_kien"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói lộn xộn, đám dũng sĩ Tộc Người Đá cười ồ. A Dã vẫn đồng ý, nhưng A Mộc nhìn em gái như nhìn người sắp bị đưa đi.",
+            "d": {
+              "hac": 2,
+              "hao": 3
+            }
+          }
+        },
+        {
+          "t": "Bắt hắn nói trước cả hội vì sao chọn cô",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng hắn vang khắp núi: cô gái này dám đối mặt A Dã, và A Dã muốn ở cạnh cô cả đời. Cả hội cười ồ, căng thẳng tan biến. A Mộc đành nhận da.",
+            "d": {
+              "ac": -8,
+              "hac": -5,
+              "hao": 10
+            },
+            "f": "dieu_kien"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn chỉ nói: vì ta muốn. Các bộ lạc nhìn cô thương hại.",
+            "d": {
+              "hac": 3,
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Để anh trai quyết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "A Mộc nhìn hai mươi tấm da, nhìn ba mươi ngọn giáo, rồi gật. Cô theo hắn đi mà không đặt được điều kiện nào.",
+            "d": {
+              "hac": 4,
+              "hao": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "A Mộc từ chối. Ba mươi ngọn giáo giơ lên. Cô phải tự bước ra chắn giữa hai bên, bị cán giáo quệt rách vai rồi mới nhận lời.",
+            "d": {
+              "sinh": -10,
+              "hac": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng ngày ở Hội Lá Vàng. A Dã giả vờ hỏi cưới Lâm Tình rồi đổi sang hỏi cưới A Vân bằng hai mươi tấm da lông dài; A Mộc không muốn gả em gái cho Tộc Người Đá.",
+      "no": 14
+    },
+    {
+      "id": "r15",
+      "scene": "rstone",
+      "place": "Bộ lạc Người Đá · Sáu ngày sau hội",
+      "kind": "chon",
+      "title": "Về bộ lạc Người Đá",
+      "text": "Sáu ngày đường, hắn vừa đi vừa kể: suốt mùa hè hắn săn không nghỉ để đủ hai mươi tấm da, một lần suýt bị hai con báo cắn mất chân. Bộ lạc Người Đá ở trong thung lũng đá đỏ, hơn trăm người. Người phụ nữ đầu tiên ra đón là A Liên, hiền lành, mang cho cô bát nước. Người thứ hai là A Mị, người phụ nữ của A Lang, xinh đẹp, nói thẳng vào mặt cô: chỉ là đàn bà ngoại tộc mua bằng da thú.",
+      "tieu": "A Mị nhìn A Dã bằng con mắt không phải của người đã có chồng. Cẩn thận.",
+      "cast": "av,ad,ali,ami",
+      "ch": [
+        {
+          "t": "Cười, nói A Vân đáng giá hơn hai mươi tấm da",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đám phụ nữ cười rộ. A Mị tím mặt. A Dã ôm vai cô, nói lớn: đúng, đáng giá hơn.",
+            "d": {
+              "ac": -5,
+              "hac": -2,
+              "hao": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "A Mị cười khẩy, nhiều người hùa theo. Cô đành im lặng.",
+            "d": {
+              "nn": 4,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Đỡ bát nước của A Liên, hỏi chuyện bộ lạc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "A Liên kể nhỏ: A Dã ghét làm tộc trưởng, chỉ nhận ngôi mùa hè này; A Lang là người duy nhất hắn nghe lời; A Ngạc, dũng sĩ lớn tuổi, vẫn hậm hực vì không được chọn.",
+            "d": {
+              "ac": -3
+            },
+            "f": "ban_ali"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "A Liên sợ A Mị trông thấy, chỉ cười rồi đi.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Hỏi A Dã về những lần suýt chết",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn chìa cánh tay đầy sẹo cào, kể như kể chuyện cười. Cô lấy lá đắp vào vết mới nhất. Hắn im lặng rất lâu.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn bảo chuyện nhỏ, đừng hỏi. Cô thấy hắn coi mạng mình cũng rẻ như mạng người khác.",
+            "d": {
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Sáu ngày sau Hội Lá Vàng, bộ lạc Người Đá. A Vân về làm người của A Dã; cô gặp A Liên, người phụ nữ hiền, và A Mị, người phụ nữ của A Lang nhưng vẫn để ý A Dã.",
+      "no": 15
+    },
+    {
+      "id": "r16",
+      "scene": "rstone",
+      "place": "Bộ lạc Người Đá · Đầu thu",
+      "kind": "duyen",
+      "title": "Lò gốm đầu tiên",
+      "text": "Cô dẫn phụ nữ và trẻ con đi tìm đất sét, cho bọn trẻ xây lò, phụ nữ nặn bát, người già đan sọt như Lâm Tình đã dạy. Lần đầu mở lò, mấy cái bát còn nguyên vẹn. A Dã vui như trẻ con, đòi cô nặn cho hắn một cái vại thật to. Đứng ở rìa là A Ngạc, dũng sĩ lớn tuổi từng muốn làm tộc trưởng, càu nhàu: đàn bà ngoại tộc đang dạy đời cả bộ lạc.",
+      "tieu": "A Ngạc thèm ngôi tộc trưởng lâu rồi. Những gì ngươi làm cho bộ lạc này, trong mắt hắn là thêm công cho A Dã.",
+      "cast": "av,ad,ang,ali",
+      "ch": [
+        {
+          "t": "Nặn vại cho A Dã",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cái vại méo xệch nhưng không nứt. A Dã khiêng nó đi khắp bộ lạc khoe. Lần đầu cô thấy hắn tự hào về một thứ không phải do giết mà có.",
+            "d": {
+              "ac": -7,
+              "hac": -3,
+              "hao": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Vại nứt toác trong lò. Hắn vẫn nhặt mảnh vỡ giữ lại.",
+            "d": {
+              "hao": 2
+            }
+          },
+          "learn": {
+            "n": "Nặn gốm",
+            "s": "tri",
+            "v": 1
+          }
+        },
+        {
+          "t": "Mời A Ngạc dạy bọn trẻ xây lò",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "A Ngạc bất ngờ, càu nhàu nhưng vẫn làm. Bọn trẻ quây lấy ông ta. A Dã nhìn cô lâu, không nói gì.",
+            "d": {
+              "ac": -3,
+              "nn": -3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "A Ngạc nhổ nước bọt: ta không nhận lệnh đàn bà.",
+            "d": {
+              "nn": 4,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Để A Dã ra lệnh cả tộc phải làm gốm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả tộc làm theo, lò đỏ suốt ngày. Nhưng người ta làm vì sợ, và A Ngạc có thêm chuyện để nói.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "nn": 4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Mấy người phụ nữ bỏ về giữa chừng. A Dã nổi giận, quát cả tộc.",
+            "d": {
+              "hac": 4,
+              "nn": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Đầu thu, bộ lạc Người Đá. A Vân dạy cả tộc làm gốm và đan sọt; A Ngạc, dũng sĩ lớn tuổi thèm ngôi tộc trưởng, khó chịu ra mặt.",
+      "no": 16
+    },
+    {
+      "id": "r17",
+      "scene": "rfire",
+      "place": "Cổng bộ lạc Bờ Sông · Giữa thu",
+      "kind": "chon",
+      "title": "Lần về thăm nhà",
+      "tieu": "Bộ lạc thời này coi người đã gả đi là người ngoài. Không phải họ hết thương ngươi đâu.",
+      "cast": "av,ad,amo,lti",
+      "ch": [
+        {
+          "t": "Nhờ A Mộc gửi lời cho cha",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "A Mộc nghẹn giọng hứa sẽ nói. Trên đường về, cô tựa vào vai A Dã: giờ em chỉ còn anh. Hắn siết tay cô, không đùa câu nào.",
+            "d": {
+              "ac": -7,
+              "hac": -4,
+              "hao": 8
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "A Mộc quay lưng vào trong. Cô khóc suốt đường về, A Dã không biết dỗ thế nào.",
+            "d": {
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Dặn Lâm Tình cẩn thận với người lạ đến xin nương nhờ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người thì thầm bằng thứ tiếng chỉ họ hiểu. Lâm Tình hứa sẽ để ý những ai đến xin ở nhờ bộ lạc.",
+            "d": {
+              "ac": -3
+            },
+            "f": "dan_lt"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lâm Tình chỉ khóc, không nghe được gì.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Để A Dã đứng chắn cổng, đòi gặp tộc trưởng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đứng đến tối, lão tộc trưởng mới ló ra nhìn con gái một lần, rồi vào. Cũng đủ.",
+            "d": {
+              "hac": 2,
+              "hao": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Dũng sĩ Bờ Sông giơ giáo đuổi. A Dã suýt đánh nhau, cô phải kéo hắn đi.",
+            "d": {
+              "hac": 5,
+              "bs": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Giữa thu, cổng bộ lạc Bờ Sông. A Dã đưa A Vân về thăm nhà; cha cô không ra gặp, A Mộc bảo cô đừng về nữa, chỉ Lâm Tình ra tiễn.",
+      "no": 17
+    },
+    {
+      "id": "r18",
+      "scene": "rfire",
+      "place": "Bộ lạc Người Đá · Đêm lửa trại",
+      "kind": "chon",
+      "title": "Áo da hổ, điệu múa bên lửa",
+      "text": "Cô may cho A Dã một bộ áo và đôi ủng bằng da hổ, kim xương đâm nát cả mười đầu ngón tay. Đêm lửa trại, A Mị đứng dậy múa, mắt liếc A Dã không giấu giếm. Cả tộc nhìn sang A Vân. Ở góc tối, A Lang ngồi uống, nhìn cô rất lâu, mặt khó đoán.",
+      "tieu": "A Mị muốn ngươi xấu hổ trước cả tộc. Còn A Lang... ta không đọc được hắn đang nghĩ gì.",
+      "cast": "av,ad,ami,al",
+      "ch": [
+        {
+          "t": "Đứng dậy múa đáp lại",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Điệu múa của cô làm cả bãi lửa im phăng phắc. A Dã đứng phắt dậy, vác cô về hang: từ nay chỉ múa cho mình hắn xem. A Mị ném vỡ bát.",
+            "d": {
+              "ac": -5,
+              "hac": -2,
+              "hao": 8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô vấp chân, ngã giữa vòng. A Mị cười to nhất.",
+            "d": {
+              "sinh": -3,
+              "nn": 3
+            }
+          }
+        },
+        {
+          "t": "Khoác áo da hổ cho A Dã trước cả tộc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn mặc vào, xoay một vòng khoe với cả tộc như đứa trẻ. A Mị ngồi xuống, mặt tái.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 6
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Áo chật ở vai, đám đàn ông cười. Hắn vẫn mặc suốt đêm.",
+            "d": {
+              "hao": 2
+            }
+          },
+          "learn": {
+            "n": "May da thú",
+            "s": "tri",
+            "v": 1
+          }
+        },
+        {
+          "t": "Mời A Lang một bát rượu quả",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "A Lang uống cạn, nói: cô làm A Dã thay đổi; ta chưa biết đó là chuyện tốt hay xấu. Ít ra hắn đã chịu nói chuyện với cô.",
+            "d": {
+              "ac": -3
+            },
+            "f": "moi_al"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "A Lang hất bát rượu xuống đất: đàn bà ngoại tộc đừng giả làm người trong nhà.",
+            "d": {
+              "nn": 4,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm lửa trại ở bộ lạc Người Đá. A Mị múa khiêu khích, liếc A Dã trước mặt A Vân; A Lang, bạn thân của A Dã, ngồi trong góc nhìn cô.",
+      "no": 18
+    },
+    {
+      "id": "r19",
+      "scene": "rstone",
+      "place": "Bộ lạc Người Đá · Cuối thu",
+      "kind": "nan",
+      "title": "Lễ Tiễn Dũng Sĩ",
+      "text": "Dũng sĩ A Sấm bị hổ răng kiếm cắn chết. Theo lễ của tộc, người ta xẻ con hổ ngay bên xác anh, mỗi người ăn một miếng thịt sống để nhận lại sức mạnh của người đã chết, rồi thiêu xác. A Mị đẩy miếng thịt sống đến trước mặt A Vân: người của tộc thì phải ăn, hay cô khinh dũng sĩ của chúng tôi.",
+      "tieu": "Đây là cái lễ người ngoài nhìn thấy rồi đồn thành ăn thịt người đấy. Ngươi nuốt không nổi thì cũng đừng để họ thấy ngươi khinh.",
+      "cast": "av,ad,ami,ang",
+      "ch": [
+        {
+          "t": "Cúi đầu trước xác A Sấm rồi mới nhận miếng thịt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả tộc lặng đi khi thấy người ngoại tộc cúi đầu đúng lễ. A Dã cầm miếng thịt nhét vào miệng cô, mặt lạnh tanh, nhưng đó là thịt đã nướng chín. Đêm ấy hắn kể: lời đồn ăn thịt người sinh ra từ chính cái lễ này.",
+            "d": {
+              "ac": -8,
+              "hac": -4,
+              "hao": 6
+            },
+            "f": "hieu_le"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô run tay làm rơi miếng thịt. A Mị hét lên: nó khinh A Sấm. A Dã đành ép cô ăn, lén đổi thành thịt chín.",
+            "d": {
+              "nn": 8,
+              "hac": 3,
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng mình không ăn được thịt sống",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng cô run mà rõ: A Vân sẽ tiễn A Sấm bằng cách khác. Rồi cô xếp đá quanh giàn thiêu. A Dã gật đầu, không ai dám cãi.",
+            "d": {
+              "ac": -6,
+              "hac": -2,
+              "hao": 4
+            },
+            "f": "hieu_le"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "A Ngạc gầm lên: ngoại tộc làm nhục dũng sĩ. Cả tộc nhìn cô như kẻ thù.",
+            "d": {
+              "nn": 10,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Nhắm mắt ăn cho xong",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nuốt được, rồi chạy ra sau hang nôn thốc. Cả tộc gật gù, A Mị cụt hứng.",
+            "d": {
+              "sinh": -6,
+              "nn": -2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô nôn ngay giữa lễ. A Mị kể khắp nơi.",
+            "d": {
+              "sinh": -8,
+              "nn": 8,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối thu, Lễ Tiễn Dũng Sĩ cho A Sấm, người vừa bị hổ cắn chết. Cả tộc ăn sống thịt con hổ bên xác anh; A Mị ép A Vân phải ăn trước mặt mọi người.",
+      "no": 19
+    },
+    {
+      "id": "r20",
+      "scene": "rriver",
+      "place": "Bờ sông bộ lạc Người Đá · Vài ngày sau lễ",
+      "kind": "hiem",
+      "title": "Con trăn ở bờ sông",
+      "text": "A Dã đi săn con hổ răng kiếm đã giết A Sấm, nhiều ngày chưa về. Ở lại bộ lạc, cô nghe A Mị thì thầm với ai đó sau lưng mình. Muốn đi cho khuây, cô ra bờ sông nhặt đá ấm để làm túi sưởi mùa đông. Một tiếng xì xì: con trăn đen dài hơn mười sải tay quấn trên cành cây, đầu to bằng đầu người, đang nhìn cô.",
+      "tieu": "Trăn không có độc, nó quấn. Nằm sát đất, khép chân, hai tay ôm đầu thành hình tam giác. Đừng chạy.",
+      "cast": "av,tc",
+      "ch": [
+        {
+          "t": "Nằm sát đất, ôm đầu đúng như Tiểu Châu dặn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Con trăn trườn tới, ngửi quanh cô rất lâu, rồi quay đầu bỏ vào bụi. Tiểu Châu lẩm bẩm: lạ thật, nó như không muốn ăn ngươi.",
+            "d": {
+              "ac": -2,
+              "sinh": 2
+            },
+            "f": "gap_tran"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Tim cô đập loạn. Con trăn dí mũi vào tóc cô rồi mới bỏ đi. Cô run đến tối.",
+            "d": {
+              "sinh": -5
+            },
+            "f": "gap_tran"
+          }
+        },
+        {
+          "t": "Lùi từng bước, không quay lưng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nó nhìn theo, không đuổi. Lúc cô ra khỏi bờ sông, nó vẫn nằm im trên cành.",
+            "d": {
+              "ac": -2
+            },
+            "f": "gap_tran"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô vấp đá, ngã. Con trăn trườn xuống, dừng cách cô một sải tay rồi quay đi.",
+            "d": {
+              "sinh": -6
+            },
+            "f": "gap_tran"
+          }
+        },
+        {
+          "t": "Thử nói chuyện với nó",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nó nghiêng đầu như nghe được, rồi trườn đi, vẫn ngoái lại nhìn.",
+            "d": {
+              "ac": -2,
+              "nn": 2
+            },
+            "f": "gap_tran"
+          },
+          "b": 0.35,
+          "bad": {
+            "x": "Nó rít lên. Cô sợ hãi bỏ chạy, ngã xây xát.",
+            "d": {
+              "sinh": -8
+            },
+            "f": "gap_tran"
+          }
+        }
+      ],
+      "ctx": "Cuối thu, A Dã đi săn chưa về. Bị A Mị nói xấu sau lưng, A Vân ra bờ sông nhặt đá ấm cho khuây và gặp một con trăn đen khổng lồ.",
+      "no": 20
+    },
+    {
+      "id": "r21",
+      "scene": "rriver",
+      "place": "Bờ sông bộ lạc Người Đá · Cùng chiều",
+      "kind": "nan",
+      "title": "A Lang chặn đường",
+      "text": "Trên đường về, A Lang, bạn thân của A Dã, đứng chắn giữa lối. Hắn nói: A Mị bảo cô bỏ bùa A Dã; từ khi có cô, A Dã bỏ anh em, bỏ săn, quên cả mùa đông. Dìm cô xuống sông thì A Dã sẽ tỉnh. Hắn bước tới.",
+      "cast": "av,al",
+      "ch": [
+        {
+          "t": "Đâm giáo vào ngực hắn khi hắn lao tới",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mũi giáo cắm vào ngực A Lang. Hắn gầm lên, bẻ gãy cán giáo, đuổi theo cô. Đúng lúc ấy con trăn đen ban nãy lao ra khỏi bụi, chắn trước cô, quấn lấy A Lang kéo xuống sông. Mặt nước khép lại.",
+            "d": {
+              "ac": -2,
+              "sinh": -4
+            },
+            "f": "dam_al"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Giáo trượt qua vai hắn. Hắn túm tóc cô lôi xuống nước. Con trăn đen ban nãy lao ra, quấn lấy A Lang kéo xuống sông. Cô bò lên bờ, ho ra nước.",
+            "d": {
+              "sinh": -14
+            }
+          }
+        },
+        {
+          "t": "Nói rõ A Mị đang mượn tay hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "A Lang khựng lại một nhịp, ngờ vực. Chỉ một nhịp, nhưng đủ để con trăn đen ban nãy lao ra quấn lấy hắn, kéo xuống sông. Cô nghe hắn gọi tên A Dã trước khi chìm.",
+            "d": {
+              "ac": -3,
+              "sinh": -2
+            },
+            "f": "noi_ami"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Hắn không nghe, xô cô xuống nước. Con trăn đen ban nãy lao ra quấn lấy A Lang kéo đi. Cô bò lên bờ, tay chân rướm máu.",
+            "d": {
+              "sinh": -12
+            }
+          }
+        },
+        {
+          "t": "Vung bột hoa mê",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nín thở kịp nhưng mắt cay xè, chậm lại. Con trăn đen ban nãy lao ra quấn hắn kéo xuống sông.",
+            "d": {
+              "sinh": -4
+            },
+            "f": "dam_al"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Gió hắt bột vào chính cô. Cô lả đi bên bờ; khi tỉnh, chỉ thấy mặt sông đang khép lại và con trăn biến mất.",
+            "d": {
+              "sinh": -10
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng chiều, bờ sông bộ lạc Người Đá. A Lang, bạn thân của A Dã, tin lời A Mị rằng A Vân bỏ bùa A Dã, nên chặn đường định dìm chết cô.",
+      "no": 21
+    },
+    {
+      "id": "r22",
+      "scene": "rstone",
+      "place": "Bộ lạc Người Đá · Chạng vạng",
+      "kind": "nan",
+      "title": "Lời tố cáo vu sử",
+      "text": "A Mị và A Liên ra bờ sông tìm A Lang, đúng lúc thấy con trăn kéo hắn xuống nước, còn A Vân đứng nhìn. A Mị chạy về trước, gào lên giữa bộ lạc: A Vân là vu sử, sứ giả của Vu Ma, vị thần mang bệnh tật và rét buốt; nó sai trăn giết A Lang. Mọi người quay sang A Liên. A Liên run run gật đầu: cô thấy con trăn không đụng vào A Vân. A Ngạc hô: thiêu chết vu sử. A Dã vẫn chưa về.",
+      "tieu": "Ở đây không ai cần bằng chứng đâu. Ngươi càng bị nghi từ trước thì giờ càng khó thoát. Muốn sống thì phải đi ngay, hoặc phải có người tin ngươi.",
+      "cast": "av,ami,ali,ang",
+      "ch": [
+        {
+          "t": "Chạy ngay vào rừng đêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lao qua hàng rào trước khi đám đàn ông kịp cầm giáo. Tiếng hò đuổi nhỏ dần sau lưng.",
+            "d": {
+              "ac": -1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Một ngọn giáo sượt qua bắp chân. Cô vẫn chạy được vào rừng, máu chảy dọc đường.",
+            "d": {
+              "sinh": -10
+            }
+          }
+        },
+        {
+          "t": "Đứng lại kể A Lang định dìm mình",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Vài người phụ nữ ngập ngừng. A Liên òa khóc, nói nhỏ: cô ấy có thể nói thật. Lửa giận chùng xuống đủ để cô lùi ra cổng rồi chạy vào rừng.",
+            "d": {
+              "ac": -3,
+              "nn": -8
+            }
+          },
+          "b": 0.35,
+          "bad": {
+            "x": "Không ai nghe. Họ trói cô vào cọc; nửa đêm cô cắn đứt dây, trốn vào rừng.",
+            "d": {
+              "sinh": -14,
+              "nn": 6
+            }
+          }
+        },
+        {
+          "t": "Nhìn thẳng A Liên, hỏi cô ấy thấy gì thật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "A Liên lí nhí: tôi thấy A Lang đi tìm cô trước. Cả tộc ồn lên. Trong lúc họ cãi nhau, cô lặng lẽ ra cổng, chạy vào rừng.",
+            "d": {
+              "ac": -2,
+              "nn": -6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "A Liên cúi gằm, không nói. A Mị cười. Cô phải phá rào mà chạy.",
+            "d": {
+              "sinh": -10
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Chạng vạng cùng ngày, bộ lạc Người Đá. A Mị tố A Vân là vu sử đã sai trăn giết A Lang; A Liên xác nhận con trăn không đụng tới cô. A Ngạc hô thiêu; A Dã đang đi săn chưa về.",
+      "no": 22
+    },
+    {
+      "id": "r23",
+      "scene": "rcave",
+      "place": "Hang đá trong rừng · Gần sáng",
+      "kind": "nan",
+      "title": "Hang đá trong đêm",
+      "text": "Cô trốn trong một hang đá, kiệt sức, ôm con dao đá nhỏ. Gần sáng, một bóng người cao lớn chắn cửa hang. Cô vung dao: bàn tay quen thuộc bắt lấy cổ tay cô. Là A Dã. Hắn về đến bộ lạc thì nghe A Mị kể A Lang đã chết, cô là vu sử, rồi lần theo vết chân cô vào rừng. Hắn không nói gì, chỉ ôm cô rất chặt.",
+      "tieu": "Hắn vừa mất người bạn thân nhất, và những người hắn nuôi đang đòi thiêu người của hắn. Ác niệm đang dao động mạnh lắm. Nói thật với hắn.",
+      "cast": "av,ad,tc",
+      "ch": [
+        {
+          "t": "Kể hết: A Lang muốn dìm em, con trăn đã cứu em",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn im lặng rất lâu. Rồi nói: em làm rất tốt. Giọng hắn vỡ ra ở chữ cuối. Lần đầu tiên hắn khóc cho một người đã chết.",
+            "d": {
+              "ac": -10,
+              "hao": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn bỏ ra ngoài, đấm vào thân cây đến bật máu tay. Rất lâu sau mới quay vào.",
+            "d": {
+              "bs": -6,
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Nói xin lỗi vì A Lang",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn lắc đầu: không phải lỗi em; A Lang chọn tin A Mị. Rồi hắn hỏi em có bị thương ở đâu không, như thể chỉ chuyện đó quan trọng.",
+            "d": {
+              "ac": -8,
+              "hao": 5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn tưởng cô nhận tội. Mắt hắn tối lại.",
+            "d": {
+              "hao": -4
+            }
+          }
+        },
+        {
+          "t": "Im lặng, để hắn ôm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người ngồi đến khi trời sáng. Hắn không hỏi gì, cô cũng không kể gì.",
+            "d": {
+              "ac": -3,
+              "hao": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn ôm cô mà người cứng như đá. Cô biết hắn đang nghĩ đến chuyện trả thù.",
+            "d": {}
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Gần sáng, một hang đá trong rừng. A Dã đi săn về, nghe tin A Lang chết và A Vân bị buộc là vu sử, lần theo vết chân tìm thấy cô. Hắc hóa của hắn vọt lên.",
+      "no": 23
+    },
+    {
+      "id": "r24",
+      "scene": "rstone",
+      "place": "Bộ lạc Người Đá · Sáng hôm sau",
+      "kind": "nan",
+      "title": "Đập vỡ những thứ vu sử làm ra",
+      "text": "Hắn dắt cô về. Giữa bộ lạc, cọc gỗ đã dựng, củi đã chất. Cả tộc giơ giáo: thiêu chết vu sử. A Dã hỏi: vì sao chắc nó là vu sử. A Mị nói: chỉ vu sử mới sai được thú dữ. A Ngạc thêm: nó dạy cả tộc làm những thứ lạ, là để nguyền rủa cả tộc. A Dã nhìn những chồng bát gốm, những chiếc sọt trúc cô đã dạy làm.",
+      "tieu": "Hắn đang chọn giữa ngươi và cả bộ lạc. Hắn sẽ chọn ngươi. Cái ngươi quyết được là hắn chọn bằng máu hay không.",
+      "cast": "av,ad,ami,ang",
+      "ch": [
+        {
+          "t": "Giữ tay hắn, xin hắn đừng giết ai",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn giơ giáo đập vỡ từng chồng bát, ném sọt trúc vào lửa: đồ của vu sử thì cũng bị nguyền, giữ làm gì. Rồi nói: ta mang vu sử đi, không về nữa, ngôi tộc trưởng các người chọn ai thì chọn. Không một ai đổ máu.",
+            "d": {
+              "ac": -10,
+              "hac": -5,
+              "hao": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn gạt tay cô. Ngọn giáo của hắn đập gãy tay một dũng sĩ cản đường. Rồi hắn mới đập vỡ gốm và đưa cô đi.",
+            "d": {
+              "ac": 2,
+              "hac": 5
+            }
+          }
+        },
+        {
+          "t": "Tự nói với cả tộc: ta đi, các người giữ lại những gì đã học",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lời cô làm vài người phụ nữ khóc. A Dã đập vỡ hết gốm, đốt sọt trúc, nhưng để lại chiếc lò nguyên vẹn. Hắn khiêng con hổ răng kiếm vừa săn, từ bỏ ngôi tộc trưởng, dẫn cô đi.",
+            "d": {
+              "ac": -8,
+              "hac": -4,
+              "hao": 5,
+              "nn": -5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "A Ngạc cười: vu sử còn dám dạy đời. Đám đông xô tới, A Dã phải đánh ngã ba người mới mở được đường.",
+            "d": {
+              "hac": 4,
+              "bs": -6
+            }
+          }
+        },
+        {
+          "t": "Đứng sau lưng hắn, để hắn làm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đập vỡ mọi thứ, từ bỏ ngôi tộc trưởng, khiêng hổ dẫn cô đi. A Mị lao ra chặn, hắn ném dao đá sượt qua mặt cô ta.",
+            "d": {
+              "ac": -2,
+              "hac": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "A Mị lao ra chặn, hắn ném dao đá trúng vai cô ta. Cả tộc sững sờ nhìn họ đi.",
+            "d": {
+              "ac": 2,
+              "hac": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, giữa bộ lạc Người Đá, cọc thiêu đã dựng. A Dã đưa A Vân về đối mặt cả tộc; A Mị và A Ngạc đòi thiêu vu sử.",
+      "no": 24
+    },
+    {
+      "id": "r25",
+      "scene": "rforest",
+      "place": "Giữa rừng · Đêm đầu tiên rời bộ lạc",
+      "kind": "duyen",
+      "title": "Lý do thật",
+      "text": "Bên đống lửa giữa rừng, hắn nướng chân hổ, đưa cô ăn trước. Rồi hắn kể: hắn chưa bao giờ muốn làm tộc trưởng. Đầu hè, khi tộc trưởng cũ sắp chết, hắn trốn vào rừng phía Nam để khỏi bị chọn, và gặp cô ngã từ trên cây. Hắn quay về nhận ngôi chỉ để có đủ người, đủ da, đường hoàng hỏi cưới cô như cô muốn. Giờ chỉ còn hai người, hắn nói hắn thấy nhẹ.",
+      "tieu": "Hai câu hỏi treo từ đầu hè đã có lời đáp: vì sao hắn ở gần bộ lạc ngươi, vì sao hắn thành tộc trưởng. Đừng để hắn giấu nốt nỗi đau vì A Lang.",
+      "cast": "av,ad",
+      "ch": [
+        {
+          "t": "Hỏi hắn nhớ A Lang thế nào",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn kể A Lang từng suýt mất tay vì cứu hắn khỏi con báo. Kể xong hắn nói: ta không giận A Lang, ta giận vì không kịp cho nó biết em là người thế nào.",
+            "d": {
+              "ac": -9,
+              "hac": -6,
+              "hao": 6
+            },
+            "f": "noi_al"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn quay mặt đi: đừng nhắc. Cả đêm hắn không ngủ.",
+            "d": {
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Hứa sẽ dựng một nơi chỉ có hai người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn cười, bảo cô vẽ đi. Cô vạch lên đất một ngôi nhà trên cây và một cây cầu treo. Hắn nhìn mãi không chán.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 6
+            },
+            "f": "ve_nha"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô vẽ mãi không ra. Hắn bảo: không sao, mai ta tìm hang.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Nói: anh đã bỏ cả bộ lạc vì em, em nợ anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhíu mày: không ai nợ ai. Câu ấy làm cô bất ngờ, và làm chính hắn bất ngờ hơn.",
+            "d": {
+              "ac": -5,
+              "hao": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn gật: phải, em nợ. Câu trả lời làm cô lạnh gáy.",
+            "d": {
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm đầu tiên sau khi rời bộ lạc Người Đá, giữa rừng. A Dã kể vì sao đầu hè hắn có mặt ở rừng phía Nam và vì sao hắn từng nhận ngôi tộc trưởng.",
+      "no": 25
+    },
+    {
+      "id": "r26",
+      "scene": "rhill",
+      "place": "Ngọn đồi hoa chuông · Sáu ngày sau, sắp vào đông",
+      "kind": "duyen",
+      "title": "Ngọn đồi hoa chuông",
+      "tieu": "Hang đá này có mùi chim lớn. Nhưng chim đã bay đi tránh rét rồi. Cứ dựng nhà đi.",
+      "cast": "av,ad,tc",
+      "ch": [
+        {
+          "t": "Thiết kế nhà trên cây và cầu treo",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Năm ngày sau, căn nhà trúc trên cây đã có hành lang, cầu treo dài chín sải nối sang hang. Hắn đứng giữa cầu, cười như vừa săn được hổ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cầu treo đứt một lần, hắn rơi xuống bụi cỏ, xước khắp người. Làm lại mất thêm ba ngày.",
+            "d": {
+              "bs": -6,
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Cùng hắn khiêng từng cây trúc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Vai cô sưng tấy nhưng căn nhà xong trước tuyết. Hắn xoa vai cho cô suốt tối.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5,
+              "sinh": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Trúc trượt, đập vào chân cô.",
+            "d": {
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Để hắn dựng, mình đi kiếm thức ăn dự trữ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô mang về khoai và quả khô. Hắn ăn và bảo: đúng là có nhà thì phải có người đợi.",
+            "d": {
+              "ac": -4,
+              "hao": 4,
+              "sinh": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô đi lạc, đến tối hắn phải đi tìm.",
+            "d": {
+              "sinh": -5,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Đầu đông, sau sáu ngày đi về hướng Tây Nam. A Vân và A Dã tìm thấy ngọn đồi hoa chuông có hang đá và cây đại thụ, dựng nhà trước mùa tuyết.",
+      "no": 26
+    },
+    {
+      "id": "r27",
+      "scene": "rtop",
+      "place": "Ngọn cây cao nhất rừng · Hoàng hôn",
+      "kind": "duyen",
+      "title": "Đỉnh cây cao nhất",
+      "text": "Hai người đi tìm đá muối để ướp thịt cho mùa đông. Giữa đường, A Dã cởi áo, leo lên cây cao nhất rừng, biến mất trong tán lá. Đó là thói quen bị cả tộc cũ cho là kỳ quặc: mỗi khi vui, hắn leo lên chỗ cao nhất để nhìn xa.",
+      "tieu": "Hắn chưa từng có ai leo cùng. Ngươi leo nổi không đấy?",
+      "cast": "av,ad",
+      "ch": [
+        {
+          "t": "Leo theo hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô leo đến khi tay run. Hắn đỡ cô lên cành cuối. Dưới chân là cả cánh rừng nhuộm hoàng hôn. Hắn nói: em là người đầu tiên leo lên đây cùng ta.",
+            "d": {
+              "ac": -8,
+              "hac": -5,
+              "hao": 8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô trượt chân ở lưng chừng. Hắn lao xuống đỡ, hai người treo trên một cành, tim đập thình thịch.",
+            "d": {
+              "sinh": -8,
+              "hao": 3
+            }
+          },
+          "learn": {
+            "n": "Leo cây cao",
+            "s": "van",
+            "v": 1
+          }
+        },
+        {
+          "t": "Đứng dưới gốc, gọi hắn kể thấy gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn kể từng ngọn núi, từng con sông như đứa trẻ. Rồi hắn trèo xuống, chỉ đường đến bãi đá có muối.",
+            "d": {
+              "ac": -4,
+              "hao": 4
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn không nghe thấy, mãi đến tối mới xuống.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Tự đi tìm đá muối trong rừng đá",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô tìm ra muối, còn nhặt được đá đánh lửa. Hắn xuống, mắt sáng rực khi thấy tia lửa bắn ra.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô tìm cả buổi chỉ thấy đá thường.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối thu, khu rừng quanh ngọn đồi hoa chuông. Đi tìm đá muối, A Dã leo lên ngọn cây cao nhất theo thói quen bị tộc cũ cho là kỳ quặc.",
+      "no": 27
+    },
+    {
+      "id": "r28",
+      "scene": "rsnow",
+      "place": "Ngọn đồi hoa chuông · Mùa đông",
+      "kind": "chon",
+      "title": "Mùa đông đầu tiên",
+      "text": "Tuyết đầu mùa phủ trắng ngọn đồi. A Dã vẫn săn được mồi, nhưng ngày ngắn, hai người ở trong hang nhiều hơn. Thấy tay cô rướm máu vì kim xương, hắn giật lấy kim tự khâu thay. Ngoài kia, mặt sông đã đóng băng dày.",
+      "tieu": "Mùa đông là lúc người ta nói những chuyện không nói được lúc bận. Hỏi hắn đi.",
+      "cast": "av,ad",
+      "ch": [
+        {
+          "t": "Đục băng câu cá",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cá sông nhiều xương, nhưng đầu cá nướng lại ngon. Hắn ăn thử rồi mê luôn, đòi ăn đầu mọi thứ, bị cô cấm.",
+            "d": {
+              "ac": -5,
+              "hao": 5,
+              "sinh": 4
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Băng nứt dưới chân, cô sụt xuống tới gối. Hắn kéo lên kịp.",
+            "d": {
+              "sinh": -8,
+              "hao": 2
+            }
+          },
+          "learn": {
+            "n": "Câu cá dưới băng",
+            "s": "van",
+            "v": 1
+          }
+        },
+        {
+          "t": "Để hắn kéo mình trượt trên sông băng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn chạy kéo cô lao vun vút, suýt ngã sấp mặt. Hai người cười đến hết hơi.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn trượt ngã, đập vai xuống băng.",
+            "d": {
+              "bs": -6
+            }
+          }
+        },
+        {
+          "t": "Hỏi hắn có muốn quay về bộ lạc không",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghĩ rất lâu: không. Ở đó ta phải nuôi trăm người. Ở đây ta chỉ cần nuôi em, và học cách không giết khi không cần.",
+            "d": {
+              "ac": -9,
+              "hac": -4,
+              "hao": 4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn hỏi lại: em muốn về à. Cả tối hắn im lặng.",
+            "d": {
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Mùa đông, ngọn đồi hoa chuông. Lần đầu A Vân và A Dã sống riêng hai người; tuyết phủ kín rừng, sông đóng băng.",
+      "no": 28
+    },
+    {
+      "id": "r29",
+      "scene": "rhill",
+      "place": "Ngọn đồi hoa chuông · Đầu xuân",
+      "kind": "hiem",
+      "title": "Chủ cũ của hang",
+      "text": "Tuyết tan, A Dã đi săn xa. Một tiếng xoẹt: tấm rèm da cửa hang bị xé toạc. Một con chim xám khổng lồ, móng to gấp đôi bàn tay người, chen vào hang rồi phun ra một quả cầu lửa. Đây là hang của nó; nó vừa bay về từ phương Nam sau mùa tránh rét.",
+      "tieu": "Nó đã có chút linh trí. Ta dạy ngươi cách dùng tinh thần nói chuyện với thú. Gọi nó là ngài cho nó vui.",
+      "cast": "av,bui,tc",
+      "ch": [
+        {
+          "t": "Dùng cách Tiểu Châu dạy để thương lượng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Con chim khựng lại khi nghe tiếng cô vang trong đầu nó. Cô hứa dựng cho nó một tổ có mái, cửa thật rộng. Nó đồng ý, xưng tên: Bụi. A Dã về, nghe cô kể nói chuyện được với thú. Cô nhận mình là vu sử tốt. Hắn chỉ ôm cô cười: người của A Dã thì phải khác người.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 6,
+              "nn": 3
+            },
+            "f": "bui"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói lắp bắp, con chim phun thêm một quả lửa làm cháy tóc cô rồi mới chịu nghe. Nó xưng tên: Bụi.",
+            "d": {
+              "sinh": -10,
+              "nn": 3
+            },
+            "f": "bui"
+          },
+          "learn": {
+            "n": "Thú ngữ",
+            "s": "mi",
+            "v": 2
+          }
+        },
+        {
+          "t": "Lăn tránh, ném thịt nướng cho nó",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nó mổ miếng thịt, mắt sáng lên: thịt nướng ngon thế. Cô nhân lúc đó dùng cách Tiểu Châu dạy để thương lượng. Nó tên Bụi, từ nay là hàng xóm.",
+            "d": {
+              "ac": -4,
+              "hao": 4,
+              "nn": 2
+            },
+            "f": "bui"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lửa sém vai cô. Mãi khi cô ném thịt, nó mới dịu lại. Nó tên Bụi.",
+            "d": {
+              "sinh": -12
+            },
+            "f": "bui"
+          }
+        },
+        {
+          "t": "Chạy sang nhà trên cây, đợi A Dã về",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Con chim không đuổi. Tối A Dã về định đâm nó, cô cản lại và thử nói chuyện với nó. Nó tên Bụi.",
+            "d": {
+              "hac": 2,
+              "nn": 2
+            },
+            "f": "bui"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Nó đuổi theo đốt cháy một góc nhà trên cây. Mãi tối mới chịu nói tên: Bụi.",
+            "d": {
+              "sinh": -6,
+              "hac": 2
+            },
+            "f": "bui"
+          }
+        }
+      ],
+      "ctx": "Đầu xuân, trong hang trên ngọn đồi hoa chuông. A Dã đi săn xa; một con chim lửa khổng lồ, chủ cũ của hang vừa bay về, tấn công A Vân.",
+      "no": 29
+    },
+    {
+      "id": "r30",
+      "scene": "rhill",
+      "place": "Ngọn đồi hoa chuông · Đầu xuân, vài ngày sau",
+      "kind": "duyen",
+      "title": "Con trăn già tìm đến",
+      "text": "Một buổi chiều, có tiếng sột soạt dưới chân đồi. A Dã nắm chặt giáo. Bụi trên tổ rướn cổ. Con trăn đen trườn ra: chính là con trăn ở bờ sông bộ lạc Người Đá, con đã kéo A Lang xuống nước. Nó đã lần theo mùi cô suốt mùa đông.",
+      "tieu": "Hỏi nó vì sao chọn cứu ngươi đi. Câu đó ta cũng muốn biết.",
+      "cast": "av,ad,mun,bui",
+      "ch": [
+        {
+          "t": "Hỏi nó vì sao đã cứu mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nó nói: cô có mùi loài rắn thích, còn người đàn ông kia có mùi loài rắn sợ; hôm ấy kẻ có máu trên ngực mới là kẻ đáng ăn. A Dã nghe cô dịch lại, cúi đầu cảm ơn nó. Nó tên Mun.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 5
+            },
+            "f": "mun"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Nó chỉ thè lưỡi, cuộn dưới gốc cây không đi. Cô gọi nó là Mun.",
+            "d": {},
+            "f": "mun"
+          }
+        },
+        {
+          "t": "Bảo A Dã hạ giáo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn hạ giáo, lần đầu không giết một con mồi đang đứng trước mặt. Con trăn cuộn dưới gốc cây, từ đó ở luôn. Cô gọi nó là Mun.",
+            "d": {
+              "ac": -7,
+              "hac": -3,
+              "hao": 4
+            },
+            "f": "mun"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn vẫn đâm một nhát sượt qua da nó. Nó rít lên, nhưng vẫn ở lại. Cô gọi nó là Mun.",
+            "d": {
+              "hac": 2
+            },
+            "f": "mun"
+          }
+        },
+        {
+          "t": "Cho nó ăn thịt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nó ăn rồi ngủ ngay dưới gốc cây. Bụi càu nhàu có thêm hàng xóm. Cô gọi nó là Mun.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "mun"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Nó không ăn đồ chín, chỉ nằm nhìn cô. Cô gọi nó là Mun.",
+            "d": {},
+            "f": "mun"
+          }
+        }
+      ],
+      "ctx": "Đầu xuân, chân đồi hoa chuông. Con trăn đen từng kéo A Lang xuống sông lần theo mùi A Vân tìm đến.",
+      "no": 30
+    },
+    {
+      "id": "r31",
+      "scene": "rhill",
+      "place": "Ngọn đồi hoa chuông · Giữa xuân",
+      "kind": "chon",
+      "title": "Bảy người tìm đến",
+      "text": "A Liên dẫn sáu người của Tộc Người Đá tìm đến, gầy rộc, mặt lấm lem. Họ kể: sau khi A Dã đi, A Ngạc lên làm tộc trưởng, ăn phung phí lương thực, mùa đông đuổi người ốm và người bị thương ra tuyết. Rất nhiều người sốt, ho rồi chết. A Mị bỏ bộ lạc đi từ đầu đông. Họ xin A Dã về. Hắn nói ngay: không.",
+      "tieu": "Họ từng đứng nhìn người ta dựng cọc thiêu ngươi. Nhưng A Liên cũng là người đã nói thật cho ngươi. Muốn làm gì với họ, ngươi quyết.",
+      "cast": "av,ad,ali",
+      "ch": [
+        {
+          "t": "Cho họ ngủ lại, rồi dẫn đến hang cách nửa ngày đường",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô chia rượu quả, A Dã chia thịt. Sáng ra hắn dẫn họ tới hai hang đá cách nửa ngày đường. A Liên ôm cô khóc.",
+            "d": {
+              "ac": -6,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "cuu_bay"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Họ ở lại, nhưng một người trong nhóm cứ nhìn chằm chằm kho thịt của hai người cả tối.",
+            "d": {
+              "hao": 2
+            },
+            "f": "cuu_bay"
+          }
+        },
+        {
+          "t": "Hỏi kỹ về bệnh trong bộ lạc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sốt, ho, nổi ban, người lành nằm cạnh người bệnh. Cô biết đây là dịch, và nó sẽ còn lan. Cô ghi nhớ từng dấu hiệu.",
+            "d": {
+              "ac": -3
+            },
+            "f": "biet_dich"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Họ kể lộn xộn, cô chỉ biết là có bệnh.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Cho họ thịt rồi bảo đi ngay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ đi, mang theo thịt. Một người ngoái lại nhìn rất lâu con đường lên đồi.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Họ không chịu đi, A Dã phải giơ giáo đuổi.",
+            "d": {
+              "hac": 4,
+              "nn": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Giữa xuân, ngọn đồi hoa chuông. A Liên và sáu người bỏ Tộc Người Đá đi tìm A Dã, kể A Ngạc làm tộc trưởng tàn nhẫn và bộ lạc đang có người ốm chết.",
+      "no": 31
+    },
+    {
+      "id": "r32",
+      "scene": "rhill",
+      "place": "Chân đồi hoa chuông · Mười ngày sau",
+      "kind": "nan",
+      "title": "Ba mươi ngọn giáo",
+      "text": "Một người trong nhóm bảy người đã quay về, khai chỗ ở của A Dã để được A Ngạc chia thức ăn. Mười ngày sau, Bụi lao xuống báo: gần ba mươi dũng sĩ Tộc Người Đá đang kéo tới. A Ngạc dẫn đầu, hô: chính hai vu sử đã gieo dịch bệnh xuống bộ lạc, giết chúng thì hết bệnh. A Dã đưa cô vào hang, chặt đứt cầu treo, rồi nhảy xuống đất, một tay giáo, một tay dao đá.",
+      "tieu": "Hắn đánh được cả ba mươi người đấy. Câu hỏi là sau trận này hắn còn là ai. Ngươi gọi hắn từ trên này được.",
+      "cast": "av,ad,ang,bui,mun",
+      "ch": [
+        {
+          "t": "Gọi hắn: đánh lui thôi, đừng giết người bỏ chạy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe. Bụi phun lửa chặn đường, Mun quấn ngã từng người. Ai bỏ giáo chạy, hắn để đi. Trận đánh kết thúc với nhiều người bị thương, không ai đuổi theo kẻ chạy.",
+            "d": {
+              "ac": -10,
+              "hac": -6,
+              "hao": 6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Tiếng cô bị tiếng hò át mất. Hắn giết hơn chục người trước khi đám còn lại tháo chạy.",
+            "d": {
+              "ac": 6,
+              "hac": 4,
+              "bs": -10
+            }
+          }
+        },
+        {
+          "t": "Bảo hắn bắt sống A Ngạc để tộc tự xử",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn quật ngã A Ngạc, trói lại, ném trả về phía đám dũng sĩ: tội của nó, các người tự xử. Đám đông lặng đi, rồi quay về, kéo theo A Ngạc.",
+            "d": {
+              "ac": -12,
+              "hac": -6,
+              "hao": 7
+            },
+            "f": "bat_ang"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "A Ngạc vùng ra, đâm hắn một nhát vào sườn. Hắn giết A Ngạc tại chỗ, trận đánh thành tàn sát.",
+            "d": {
+              "ac": 4,
+              "hac": 4,
+              "bs": -14
+            }
+          }
+        },
+        {
+          "t": "Để hắn tự quyết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đánh tan đám người, rồi tự dừng tay khi A Ngạc quỳ xuống van xin. Hắn trèo lên hang, máu đầy người, hỏi cô có sợ hắn không.",
+            "d": {
+              "ac": 2,
+              "hac": 2
+            }
+          },
+          "b": 0.35,
+          "bad": {
+            "x": "Hắn giết sạch, không chừa ai. Bụi đốt xác. Hắn trèo lên hang, máu đầy người, hỏi cô có sợ hắn không.",
+            "d": {
+              "ac": 8,
+              "hac": 5
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Mười ngày sau, chân đồi hoa chuông. Một người trong nhóm bảy người đã khai chỗ ở để đổi thức ăn; A Ngạc dẫn gần ba mươi dũng sĩ đến giết hai người mà hắn đổ tội gieo dịch. Hắc hóa của A Dã vọt lên khi phải cầm giáo đánh người cũ.",
+      "no": 32
+    },
+    {
+      "id": "r33",
+      "scene": "rplague",
+      "place": "Bộ lạc Người Đá · Vài ngày sau trận đánh",
+      "kind": "nan",
+      "title": "Bộ lạc đang chết",
+      "text": "Sau trận, cô đun nước sôi lau người cho hắn và cho Mun, giặt mọi thứ bằng nước sôi vì sợ lây bệnh. Rồi cô xin Bụi chở hai người về Tộc Người Đá. Bộ lạc chỉ còn chưa tới năm mươi người, hơn hai mươi người sốt nặng. Xác chôn ngay sau bộ lạc, người bệnh nằm lẫn người lành. Thấy A Dã từ lưng chim lửa bước xuống, cả tộc sợ hãi lùi lại.",
+      "tieu": "Thiêu xác, tách người bệnh, đun nước sôi. Ngươi biết chừng đó. Nhưng ngươi chưa có thuốc.",
+      "cast": "av,ad,ali,bui",
+      "ch": [
+        {
+          "t": "Bắt đào mộ thiêu xác, tách người bệnh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Họ khóc, nhưng làm theo. Bụi phun lửa thiêu xác. Người bệnh hận cô, người lành bắt đầu tin cô. Đêm đó A Dã nói nhỏ: hay ta lén giết hết người bệnh cho xong. Cô nắm tay hắn: không. Hắn gật.",
+            "d": {
+              "ac": -10,
+              "hac": -4,
+              "hao": 5,
+              "nn": -4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Không ai nghe. Cô phải tự cầm cuốc đào. A Dã đứng sau, ai cản thì hắn đánh.",
+            "d": {
+              "hac": 4,
+              "nn": 5,
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Nhờ A Liên nói với mọi người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "A Liên đứng ra, kể cô đã cứu bảy người trên đồi. Người ta chịu nghe. Việc thiêu xác, tách người bệnh xong trong một ngày.",
+            "d": {
+              "ac": -8,
+              "hac": -3,
+              "hao": 4,
+              "nn": -6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "A Liên nói không ai nghe. Một người bệnh nhổ vào mặt cô.",
+            "d": {
+              "nn": 5,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Để A Dã ra lệnh bằng giáo",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ làm theo vì sợ. Xác được thiêu, người bệnh bị tách ra. Nhưng ai cũng nhìn hai người như nhìn dã thú.",
+            "d": {
+              "ac": -2,
+              "hac": 3,
+              "nn": 6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn đánh gãy tay một người cãi lại. Cả tộc im thin thít.",
+            "d": {
+              "ac": 3,
+              "hac": 6
+            }
+          }
+        }
+      ],
+      "no": 33
+    },
+    {
+      "id": "r34",
+      "scene": "rfire",
+      "place": "Bộ lạc Bờ Sông · Hai ngày sau",
+      "kind": "chon",
+      "title": "Cỏ thuốc của Lâm Tình",
+      "tieu": "Người cần cứu đang chết ở bên kia núi. Nhưng để A Mị ở lại đây thì Lâm Tình không yên đâu.",
+      "cast": "av,lti,ak,ami",
+      "ch": [
+        {
+          "t": "Kể với A Kiên chuyện A Mị xúi A Lang",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô kể từng việc, A Dã đứng sau làm chứng. A Kiên đuổi A Mị ra khỏi bộ lạc ngay trong ngày. Lâm Tình đưa cho cô cả bó cỏ thuốc.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 4
+            },
+            "f": "vach_mat"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "A Mị khóc lóc, A Kiên do dự. Cô chỉ kịp nhận cỏ thuốc rồi đi.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Lấy cỏ thuốc rồi đi ngay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lâm Tình chỉ cách nhận ra cỏ, cách sắc. Hai người bay đi trước khi trời tối.",
+            "d": {
+              "ac": -3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Bụi bị một mũi tên sượt cánh, bay chệch mất nửa ngày.",
+            "d": {
+              "bs": -4,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Ở lại một đêm học Lâm Tình mọi cách dùng cỏ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lâm Tình dạy cả đêm: cỏ hạ sốt, cỏ cầm máu, cỏ trị ho. Sáng ra cô ôm chặt bạn: lần này là chị nợ em.",
+            "d": {
+              "ac": -4,
+              "sinh": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô ngủ gục giữa chừng. Lâm Tình đắp da thú cho cô.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "learn": {
+            "n": "Nhận biết cỏ thuốc",
+            "s": "tri",
+            "v": 1
+          }
+        }
+      ],
+      "ctx": "Hai ngày sau, bộ lạc Bờ Sông. A Vân đến xin Lâm Tình cỏ chữa dịch; A Kiên nay là tộc trưởng, và A Mị, kẻ đã tố cô là vu sử, đang nương nhờ ở đây, tìm cách hại Lâm Tình.",
+      "no": 34
+    },
+    {
+      "id": "r35",
+      "scene": "rplague",
+      "place": "Các bộ lạc quanh vùng · Cuối xuân",
+      "kind": "duyen",
+      "title": "Sứ giả thần Hạt Mầm",
+      "text": "Hai người hái cỏ thuốc khắp rừng, cưỡi Bụi đi hết bộ lạc này đến bộ lạc khác, sắc thuốc, dạy cách tách người bệnh. Ở Tộc Người Đá, người bệnh lần lượt hạ sốt. Người ta không gọi cô là vu sử nữa. Họ quỳ xuống gọi cô là sứ giả của thần Hạt Mầm, vị thần mang mùa màng.",
+      "tieu": "Họ quỳ vì sợ hay vì biết ơn thì cũng thế thôi. Nhưng A Dã... ngươi nhìn hắn kìa, hắn sợ ngươi bay đi mất.",
+      "cast": "av,ad,ali,bui",
+      "ch": [
+        {
+          "t": "Sắc thuốc cho từng người bệnh ở Tộc Người Đá",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Người cuối cùng hạ sốt là đứa con của A Liên. Cả tộc mời A Dã về làm tộc trưởng. Hắn lắc đầu, nhưng lần này cảm ơn họ.",
+            "d": {
+              "ac": -10,
+              "hac": -5,
+              "hao": 5,
+              "nn": -10
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Thuốc đắng, nhiều người không chịu uống. Mất thêm nửa tháng.",
+            "d": {
+              "sinh": -6,
+              "nn": -2
+            }
+          }
+        },
+        {
+          "t": "Dạy mọi người tự hái và sắc thuốc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đến tháng sau, bộ lạc nào cũng có người biết sắc cỏ. Cô không cần đi nữa.",
+            "d": {
+              "ac": -8,
+              "hac": -4,
+              "hao": 4,
+              "nn": -8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Người ta hái nhầm cỏ, vài người nôn mửa.",
+            "d": {
+              "nn": 3
+            }
+          }
+        },
+        {
+          "t": "Đêm ấy ôm hắn, nói em không đi đâu cả",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn siết cô thật chặt, thì thầm: thần nào cũng không được lấy em. Hắn ngủ say lần đầu sau nhiều đêm.",
+            "d": {
+              "ac": -7,
+              "hac": -6,
+              "hao": 7
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn không tin, cả đêm không ngủ.",
+            "d": {
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối xuân, các bộ lạc quanh vùng. A Vân và A Dã mang cỏ thuốc của Lâm Tình đi chữa dịch, được các bộ lạc tôn là sứ giả thần Hạt Mầm.",
+      "no": 35
+    },
+    {
+      "id": "r36",
+      "scene": "rburn",
+      "place": "Ngọn đồi hoa chuông · Đầu hè, trời hạn",
+      "kind": "nan",
+      "title": "Cháy rừng",
+      "text": "Trời hạn suốt một tháng. Một đêm, chân trời phía Bắc đỏ rực: rừng cháy. Ngọn lửa ăn dần về phía ngọn đồi. Cô định dùng bí thuật gọi mưa, nhưng Tiểu Châu cấm: trận cháy này là bước ngoặt của thế giới, Lâm Tình sẽ dẫn các bộ lạc xuống phương Nam. Chỉ được giữ một vùng nhỏ.",
+      "tieu": "Ta dạy ngươi một trận cách lửa. Lấy máu ngươi hòa với máu thú, rải quanh nhà mười bước một giọt. Nhanh lên.",
+      "cast": "av,ad,bui,mun,tc",
+      "ch": [
+        {
+          "t": "Nhỏ máu vào bát máu hươu, nhờ A Dã rải quanh nhà",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn chạy một vòng lớn, mười bước một giọt. Khi lửa đến, nó như vấp phải bức tường vô hình, rẽ sang hai bên. Hắn đứng ở ranh lửa, nhìn cô như nhìn thần.",
+            "d": {
+              "ac": -8,
+              "hac": -4,
+              "hao": 5,
+              "sinh": -4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Vòng máu hở một khúc. Lửa liếm cháy chân nhà trên cây, Bụi phải dập bằng cánh.",
+            "d": {
+              "sinh": -10,
+              "bs": -6
+            }
+          },
+          "learn": {
+            "n": "Bày trận cách lửa",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Cùng A Dã đào rãnh, chặt cây quanh nhà",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Rãnh đất chặn được một phía, phía còn lại cô bày trận giữ. Hai người đen nhẻm khói, nhìn nhau bật cười.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 4,
+              "bs": -4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Một cây cháy đổ sập ngay cạnh, A Dã đỡ cho cô, bỏng cả lưng.",
+            "d": {
+              "bs": -12,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Bảo Bụi chở cả hai bay đi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bụi chở hai người bay vòng trên lửa. Đợi lửa qua mới về: nhà trên cây cháy mất một nửa, hang đá còn nguyên.",
+            "d": {
+              "hac": 2,
+              "sinh": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Khói dày, Bụi chao đảo. Hai người suýt rơi vào biển lửa.",
+            "d": {
+              "sinh": -10,
+              "bs": -8
+            }
+          }
+        }
+      ],
+      "ctx": "Đầu hè, trời hạn, rừng bốc cháy về phía ngọn đồi hoa chuông. Tiểu Châu cấm gọi mưa vì trận cháy là bước ngoặt của thế giới, chỉ cho bày trận giữ một vùng nhỏ.",
+      "no": 36
+    },
+    {
+      "id": "r37",
+      "scene": "rash",
+      "place": "Rừng cháy đen · Mấy ngày sau",
+      "kind": "chon",
+      "title": "Rừng cháy đen, người ra đi",
+      "text": "Lửa tắt. Quanh ngọn đồi chỉ còn một vùng nhỏ xanh, ngoài kia là tro đen tới chân trời. Từng đoàn người và thú kéo nhau xuống phương Nam. Lâm Tình và A Kiên dẫn bộ lạc Bờ Sông đi ngang. Lâm Tình khóc, rủ cô đi cùng: không có rừng thì không có thức ăn.",
+      "tieu": "Đi với họ là đường dễ. Ở lại thì phải làm cho rừng sống lại. Ta có cách, nhưng nó đắt.",
+      "cast": "av,ad,lti,ak",
+      "ch": [
+        {
+          "t": "Ở lại, hỏi A Dã có muốn đi không",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cười: em ở đâu thì ta ở đó. Bụi không nỡ bỏ tổ, Mun đã già. Lâm Tình ôm cô thật lâu rồi đi theo đoàn người.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn im lặng rất lâu mới gật. Cô biết hắn sợ cô chết đói.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Chia cho đoàn người số thịt khô dự trữ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mấy đứa trẻ được ăn no trước đường xa. A Kiên cúi đầu cảm ơn A Dã, hai người đàn ông nắm tay nhau.",
+            "d": {
+              "ac": -7,
+              "hac": -3,
+              "hao": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Thịt hết sớm hơn cô tưởng. Hai người phải đi săn thật xa.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Hứa với Lâm Tình sẽ gặp lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lâm Tình cười trong nước mắt: em sẽ để dành cho chị một chỗ bên lửa ở phương Nam.",
+            "d": {
+              "ac": -3,
+              "sinh": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Lời hứa nghẹn lại. Hai người chỉ ôm nhau.",
+            "d": {}
+          }
+        }
+      ],
+      "ctx": "Mấy ngày sau trận cháy, rừng thành tro đen; các bộ lạc kéo nhau xuống phương Nam. Lâm Tình rủ A Vân đi cùng.",
+      "no": 37
+    },
+    {
+      "id": "r38",
+      "scene": "rhill",
+      "place": "Ngọn đồi hoa chuông · Năm đầu sau trận cháy",
+      "kind": "nan",
+      "title": "Tụ Linh Trận",
+      "text": "Cô bày một trận lớn lấy ngọn đồi làm tâm, gom linh khí trong trăm dặm về để rừng tái sinh. Tiểu Châu cảnh báo: phải giữ trận ít nhất mười năm, và trận hút sức người bày. Mỗi đêm cô ngồi giữa trận, A Dã ngồi sau lưng cô, không ngủ.",
+      "tieu": "Ngươi muốn chia sức với hắn không? Hắn chịu được, nhưng hắn phải hiểu vì sao.",
+      "cast": "av,ad,tc",
+      "ch": [
+        {
+          "t": "Dạy A Dã cách cùng giữ trận",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn học chậm nhưng kiên nhẫn. Đêm nào hai người cũng ngồi tựa lưng vào nhau. Hắn nói: lần đầu ta dùng sức mạnh để làm một thứ sống lại.",
+            "d": {
+              "ac": -12,
+              "hac": -8,
+              "hao": 6,
+              "sinh": -4,
+              "bs": -4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn mất kiên nhẫn, đòi tự mình đi săn bù cho cô. Cô kiệt sức một mình.",
+            "d": {
+              "sinh": -12,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Một mình giữ trận, không cho hắn biết cái giá",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Rừng bắt đầu đâm chồi. Cô gầy rộc. Hắn không biết vì sao, chỉ săn nhiều hơn, nướng thịt cho cô mỗi ngày.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 4,
+              "sinh": -14
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô ngất giữa trận. Hắn bế cô dậy, gào tên cô suốt đêm.",
+            "d": {
+              "sinh": -16,
+              "hac": 5
+            }
+          }
+        },
+        {
+          "t": "Nói thật cái giá, để hắn chọn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe xong im lâu, rồi nói: ta sẽ săn cho em, giữ trận cùng em, và không bao giờ giết thứ gì không cần giết nữa. Đó là lời hứa của A Dã.",
+            "d": {
+              "ac": -14,
+              "hac": -8,
+              "hao": 8,
+              "sinh": -6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nổi giận: không cần rừng, chỉ cần em. Hai người giận nhau ba ngày.",
+            "d": {
+              "hac": 4,
+              "hao": -3,
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "ctx": "Năm đầu sau trận cháy, ngọn đồi hoa chuông. A Vân bày Tụ Linh Trận để rừng sống lại; trận phải giữ mười năm và hút sức người bày.",
+      "no": 38
+    },
+    {
+      "id": "r39",
+      "scene": "rgreen",
+      "place": "Ngọn đồi hoa chuông · Mười năm sau",
+      "kind": "duyen",
+      "title": "Mười mùa lá xanh",
+      "text": "Mười năm sau, rừng đã xanh lại. Bên nhà trên cây có giàn nho dại trĩu quả, Bụi vẫn ở tổ, Mun ngủ dưới gốc cây già. Chiều nay hai người nằm trên chiếc ghế bập bênh A Dã đóng. Hắn hứa kiếp sau cô vẫn phải là của hắn.",
+      "tieu": "Mười năm rồi. Nói với hắn điều ngươi chưa từng nói đi.",
+      "cast": "av,ad,bui,mun",
+      "ch": [
+        {
+          "t": "Bảo hắn: vậy kiếp sau anh phải theo đuổi em",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cười: được. Cô tựa vào ngực hắn, lần đầu tiên nói: A Dã, em thích anh. Hắn ôm cô đến khi trời tối.",
+            "d": {
+              "ac": -14,
+              "hac": -10,
+              "hao": 10,
+              "bs": 6
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn bảo: kiếp sau ta bắt em về luôn, theo đuổi làm gì. Cô véo tai hắn.",
+            "d": {
+              "hac": 3
+            }
+          },
+          "final": 1
+        },
+        {
+          "t": "Hỏi hắn có hối tiếc gì không",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghĩ rất lâu: chỉ tiếc A Lang không kịp thấy rừng xanh lại. Rồi hắn nói: còn lại, không gì cả.",
+            "d": {
+              "ac": -12,
+              "hac": -8,
+              "hao": 8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nói tiếc vì chưa đi hết mọi khu rừng. Cô im lặng.",
+            "d": {
+              "hao": -2
+            }
+          },
+          "final": 1
+        },
+        {
+          "t": "Kéo hắn leo lên ngọn cây cao nhất ngắm hoàng hôn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người không còn leo nhanh như xưa, nhưng vẫn lên được. Hắn nói: em là người đầu tiên, và duy nhất.",
+            "d": {
+              "ac": -10,
+              "hac": -10,
+              "hao": 8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Leo được nửa chừng thì phải xuống. Hai người cười vì đã già.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "final": 1
+        }
+      ],
+      "ctx": "Mười năm sau, ngọn đồi hoa chuông. Rừng đã sống lại; A Vân và A Dã ngồi bên nhau trên chiếc ghế bập bênh.",
+      "no": 39
+    }
+  ]
+}

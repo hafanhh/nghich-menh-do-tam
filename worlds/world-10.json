@@ -1,0 +1,3654 @@
+{
+  "id": "w10",
+  "no": 10,
+  "chapEnd": [
+    9,
+    19,
+    29,
+    37,
+    44
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": 0.072,
+  "p0": {
+    "mi": 56,
+    "tri": 64,
+    "van": 52
+  },
+  "params": {
+    "b1": 2.5,
+    "b2": 3.6,
+    "bad": 6.8,
+    "ac": 0.9,
+    "hac": 1.27,
+    "hao": 0.8,
+    "h0": 63
+  },
+  "names": {
+    "qv": "Phù Tư Vi",
+    "qh": "Doãn Hiên Dật",
+    "qm": "Phù Mộ Dao",
+    "qd": "Diêu Tố Nga",
+    "qc": "Phù Chính Hoằng",
+    "qk": "Hạ Vân Khanh",
+    "qp": "Hạ Thừa Phong",
+    "ql": "Hạ Linh Lung",
+    "qt": "Doãn Vĩnh Trác",
+    "qs": "Doãn Cảnh Dục",
+    "qg": "Giang Tụng",
+    "qn": "Nghiêm Nguyên",
+    "qz": "Phù Chấn Sơn"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 10 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh dùng lại hình vẽ tạm của các thế giới trước.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Dấu phượng chạm nhau",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Doãn Hiên Dật đã về không. Sau cánh cổng, hai người dựng một gian đan phòng nhỏ dưới tán cây lạ; mỗi sáng hắn nhóm lửa, mỗi chiều cô luyện một lò đan. Con phượng nhỏ đậu trên vai hắn, tu vi hắn nhích lên từng bậc một, không còn vì chấp niệm mà đứng yên. Họ già đi như người thường, và hắn chưa lần nào bỏ lỡ chuyện chờ cô ra khỏi đan phòng.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "gdream"
+    },
+    "near": {
+      "n": "Dấu phượng chưa tan",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người sang được thế giới mới, hắn đã tìm ra cô. Hiên Dật không còn trốn, không còn ép, nhưng thỉnh thoảng giữa đêm hắn vẫn tỉnh dậy ngồi ngoài sân đan phòng, như để chắc cô còn ở đó. Vệt đỏ trong mắt hắn nhạt dần theo từng năm; cô biết rồi nó sẽ tan.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "glake"
+    },
+    "half": {
+      "n": "Hai bóng chờ nhau",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hai người vẫn bước qua cánh cổng, vẫn tìm thấy nhau, nhưng lời hứa ở đỉnh núi còn lửng lơ. Hiên Dật vẫn giữ khoảng cách vừa đủ, như sợ mình lại làm cô tổn thương lần nữa. Cô vẫn ở cạnh hắn những lúc hắn im lặng, hy vọng một ngày hắn tin rằng mình đã được tha thứ.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "rtop"
+    },
+    "black": {
+      "n": "Chấp niệm không cửa ra",
+      "c": "Hắc hóa chạm 100. Chấp niệm của Hiên Dật nuốt hết những gì còn lại: hắn không nghe thấy tên mình, không nghe thấy lời cô, tu vi đứng yên giữa vòng lửa đỏ do chính hắn dựng lên. Đan lô bên cạnh tắt từng ngọn lửa một. Tiểu Châu kéo cô đi trước khi vòng lửa khép lại.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "rcave"
+    },
+    "bdead": {
+      "n": "Tàn lửa cuối cùng",
+      "c": "Sinh mệnh của Doãn Hiên Dật về 0. Hắn dốc cạn linh lực che chắn cho cô và không còn giữ được gì cho mình. Đan lô trên đỉnh núi còn ấm, nhưng lửa đã tàn. Cô giữ chiếc nhẫn của hắn rất lâu, cho đến khi Tiểu Châu khẽ gọi cô về.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "rfire"
+    },
+    "dead": {
+      "n": "Thọ nguyên chưa kịp",
+      "c": "Sinh mệnh của cô cạn kiệt trước ngày hẹn. Linh lực tản dần trên đỉnh núi, nơi bầu trời còn chưa kịp mỏng. Tiểu Châu kéo linh hồn cô đi, khi ở đâu đó Hiên Dật vẫn đang chạy lên triền núi, tay vươn ra giữa làn sương lạnh.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "rtop"
+    }
+  },
+  "events": [
+    {
+      "id": "q01",
+      "scene": "rforest",
+      "place": "Rừng núi ngoài kinh thành Ninh An · Chiều tối",
+      "kind": "duyen",
+      "title": "Tỉnh dậy giữa lúc chạy yêu thú",
+      "text": "Tư Vi mở mắt trên nền đất ẩm, mắt cá sưng đau. Phía trước, đoàn rèn luyện nhà Phù đang bỏ chạy khỏi một bầy yêu thú, không ai ngoái lại tìm cô. Một quả cầu ngọc xanh nhỏ xíu lơ lửng cạnh tai: «Ta là Tiểu Châu». Nó đưa hồ sơ: cô 18 tuổi, đích nữ nhà Phù, thiên phú tốt nhưng bị cha mẹ bỏ rơi; quỹ đạo gốc là bị phế tu vi rồi bị gả đi làm người luyện đan không công. Kẻ đứng sau là người em cùng cha khác mẹ Phù Mộ Dao, đã trọng sinh và cướp mất Hồi Xuân Hoa trước cô. Còn người cần cảm hóa là vị hôn phu cũ Doãn Hiên Dật, tiểu vương gia 20 tuổi, từng trốn cô suốt mười năm.",
+      "tieu": "Dậy rồi hả? Nghe ta nhanh đây, yêu thú còn vài chục bước. Người ngươi phải cứu là Hiên Dật, nhưng việc trước mắt là giữ cái mạng của ngươi.",
+      "cast": "qv,qm,qh,tc",
+      "ch": [
+        {
+          "t": "Hỏi Tiểu Châu thật kỹ quỹ đạo gốc của nguyên chủ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nghe hết, hiểu ra mình đang đứng đúng ngã rẽ của cả một đời bị sắp đặt. Đầu óc tỉnh táo hẳn.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "biet_quydao"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô nghe được nửa chừng thì tiếng gầm của yêu thú vang tới. Cô chỉ kịp nhớ mang máng.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nhìn hướng đoàn bỏ chạy, ghi nhớ ai là người chạy sau cùng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô thấy rõ một bóng người đang chạy sát cô lúc nãy, ống tay áo xanh nhạt. Cô khắc nó vào trí nhớ.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "nho_bong"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Khói bụi che hết tầm mắt, cô chẳng nhìn rõ ai. Chân càng đau hơn vì cố đứng.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Cắn răng chống tay đứng dậy, hỏi sau",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô loạng choạng đứng lên, ép chân đau chịu sức nặng. Lòng dạ cô nguội đi một nửa, cũng đủ tỉnh để tính tiếp.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều tối, rừng núi ngoài kinh thành Ninh An. Tư Vi, 18 tuổi, đích nữ nhà Phù, tỉnh dậy giữa lúc đoàn rèn luyện bỏ chạy khỏi yêu thú và để cô lại.",
+      "no": 1
+    },
+    {
+      "id": "q02",
+      "scene": "rforest",
+      "place": "Rừng núi ngoài kinh thành · Cùng lúc",
+      "kind": "chon",
+      "title": "Cú vướng chân và hai món trong kho",
+      "text": "Yêu thú chỉ còn vài chục bước. Tiểu Châu cho cô mở kho một lần duy nhất, chọn hai món trong bốn: phù ẩn khí, phù tốc hành, thuốc cầm máu, đan chữa thương. Tư Vi nhớ rất rõ vừa rồi có một bàn chân đã vướng vào chân mình trong lúc cả đoàn chạy. Không phải tình cờ, và cô nhớ cả cái lạnh của nó.",
+      "tieu": "Chọn nhanh! Ẩn khí giấu hơi thở, tốc hành thì chạy xa, nhưng cứ chọn thì phải bỏ hai món còn lại. Không có đường lui đâu.",
+      "cast": "qv,qm,tc",
+      "ch": [
+        {
+          "t": "Lấy phù ẩn khí và thuốc cầm máu, lẻn theo hướng ngược với đoàn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ẩn khí phủ lên người, bầy yêu thú ào qua cô mà chạy theo đoàn kia. Cô ngồi xuống, băng chân, thở ra thật nhẹ.",
+            "d": {
+              "sinh": 3
+            },
+            "f": "giau_hoi"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Phù dán lệch, hơi thở của cô lộ một nhịp. Một con yêu thú quay đầu, cô phải lăn xuống triền dốc mới thoát.",
+            "d": {
+              "sinh": -4
+            },
+            "f": "giau_hoi"
+          }
+        },
+        {
+          "t": "Lấy phù tốc hành và đan chữa thương, chạy thẳng ra xa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tốc hành đưa cô vượt qua hẻm núi trong chớp mắt. Đan chữa thương làm mắt cá bớt buốt. Cô thoát hẳn.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Phù cháy hết ngay giữa đường, cô ngã sấp xuống bụi cây. Yêu thú chỉ ngửi quanh rồi bỏ đi.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Quay lại nhìn kỹ bàn chân vừa vướng mình, rồi mới lấy đồ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô kịp thấy giày thêu chỉ bạc, lẫn vào bóng đoàn người. Rồi cô rút phù ẩn khí và lẻn đi. Cô giữ được manh mối.",
+            "d": {
+              "sinh": 0
+            },
+            "f": "nho_chan"
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Cô chỉ thấy một bóng người rồi bị yêu thú ép lùi. Cô phải liều mạng mới thoát, chẳng nhớ thêm gì.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng lúc, trong rừng. Yêu thú còn vài chục bước; Tiểu Châu cho cô chọn hai món trong kho, và cô nhớ có người vướng chân mình.",
+      "learn": {
+        "n": "Ẩn khí",
+        "s": "van",
+        "v": 1
+      },
+      "no": 2
+    },
+    {
+      "id": "q03",
+      "scene": "rcave",
+      "place": "Hang kín trong núi · Vài hôm sau",
+      "kind": "duyen",
+      "title": "Ba tháng trong hang",
+      "text": "Tư Vi tìm được một hang kín trong núi, nơi hơi thở của yêu thú không với tới. Chân vẫn đau, tu vi chỉ ở mức của một người bị bỏ rơi, trong khi Mộ Dao đã đi trước cô một bước. Tiểu Châu báo tin: nhà Phù đã coi cô là người chết hoặc bỏ trốn. Cô quyết định dùng ba tháng để chữa chân, bù tu vi bằng số đan nguyên chủ mang theo.",
+      "tieu": "Ba tháng là dài với người phàm, nhưng với kẻ tu luyện chỉ là một cái chớp mắt. Đừng sốt ruột, và cũng đừng lười.",
+      "cast": "qv,tc",
+      "ch": [
+        {
+          "t": "Bày một trận nhỏ che hang, bế quan an tâm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Trận hình thành đúng nhịp. Ba tháng trôi qua, cô bước ra với tu vi vượt hẳn lên Thanh tướng sơ kỳ.",
+            "d": {
+              "sinh": 5
+            },
+            "f": "tien_cap"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Trận hỏng một góc, cô phải sửa lại hai lần. Ba tháng trôi qua, nhưng cô chỉ đạt Thanh sĩ đỉnh kỳ.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "tien_cap"
+          }
+        },
+        {
+          "t": "Dùng hết số đan nguyên chủ mang theo, luyện thẳng một mạch",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đan dược hợp ý trời, linh lực chảy thông kinh mạch. Cô tiến nhanh mà không bị phản phệ.",
+            "d": {
+              "sinh": 4
+            },
+            "f": "tien_cap"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Linh lực bốc lên quá mạnh, cô phải ngừng một tuần để ổn định. Sức chưa hồi đủ.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Vừa chữa chân vừa luyện lại bài cơ bản, đi chậm mà chắc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba tháng sau, chân lành, nền tảng chắc như đá. Cô thấy lòng bình yên lạ thường.",
+            "d": {
+              "sinh": 5
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô lơ là giữa chừng, nền tảng chưa chắc. Cô đành bế quan thêm vài ngày.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Vài hôm sau, hang kín trong núi. Tư Vi chữa chân và bù tu vi trong lúc nhà Phù tưởng cô đã chết hoặc bỏ trốn.",
+      "no": 3
+    },
+    {
+      "id": "q04",
+      "scene": "gcarriage",
+      "place": "Đường về Ninh An · Sáng sớm",
+      "kind": "chon",
+      "title": "Hiên Dật xin đi nhờ xe",
+      "text": "Sáng sớm, trên đường về Ninh An, Tư Vi thuê một cỗ xe ngựa. Một thiếu niên áo gấm chặn xe, nói ngựa của hắn chết giữa đường, xin đi nhờ một đoạn. Hắn cười, nhìn cô bằng ánh mắt ranh mãnh, trêu «tú sắc khả xan». Tiểu Châu thì thào: đó chính là Doãn Hiên Dật, tiểu vương gia, vị hôn phu cũ từng trốn cô suốt mười năm, và hắn không nhận ra cô.",
+      "tieu": "Đây là hắn đấy, kẻ cần được cảm hóa. Hắn tưởng cô là người xa lạ. Muốn biết hắn nghĩ gì thì cứ nói chuyện, nhưng nói cho khôn.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Cho đi nhờ, rồi nói thẳng: «Hôm nay xuống xe thì sau này đừng lên xe của tôi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn khựng lại, cười gượng rồi im hẳn. Lần đầu tiên hắn không biết đáp thế nào. Hắn ngồi nghiêng người, ngoảnh ra cửa sổ.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "cho_xe"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Câu nói lỡ giọng, nghe cứng nhắc như đang dỗi. Hắn cười khẩy, chẳng buồn đáp.",
+            "d": {
+              "hao": -1,
+              "hac": 1
+            },
+            "f": "cho_xe"
+          }
+        },
+        {
+          "t": "Từ chối thẳng, bảo hắn tìm xe khác",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhún vai, tự bỏ đi trước khi cô nói hết câu. Cô thở ra nhẹ nhõm, nhưng ánh mắt hắn ngoái lại thì cô không đoán được.",
+            "d": {
+              "ac": 0,
+              "hao": 0
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn không đi, đứng chặn trước xe, bắt chuyện thêm một lúc. Cô đành cho hắn lên xe vì quá phiền.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            },
+            "f": "cho_xe"
+          }
+        },
+        {
+          "t": "Im lặng cho hắn lên xe, chờ xem hắn nói gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn kể một mạch về chuyện đi lạc, về con ngựa, về hoàng đế. Cô chỉ nghe, và nhận ra hắn không biết cô là ai thật.",
+            "d": {
+              "ac": -1,
+              "hao": 2
+            },
+            "f": "cho_xe"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Hắn nói ba câu thì bắt đầu nhìn cô hơi lâu hơn. Cô thấy khó chịu, quay mặt đi.",
+            "d": {
+              "hao": 0
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng sớm, đường về kinh thành Ninh An. Ngựa của Hiên Dật chết giữa đường; hắn chặn xe Tư Vi xin đi nhờ mà không nhận ra cô là vị hôn thê cũ.",
+      "no": 4
+    },
+    {
+      "id": "q05",
+      "scene": "gtown",
+      "place": "Cổng kinh thành Ninh An · Ba ngày sau",
+      "kind": "nan",
+      "title": "Hắn đi theo xe, kinh thành đồn đại",
+      "text": "Ba ngày sau, xe đến cổng kinh thành Ninh An. Dân phố bàn tán xôn xao về nhà Phù: đại tiểu thư biến mất, Phù phủ lại giấu chuyện Mộ Dao bị trọng thương. Người ta đồn cô chết ngoài thành, hoặc trốn đi vì không chịu nổi chuyện. Hiên Dật vẫn còn đi theo xe dù bị từ chối, vì hắn tò mò vì sao cô nhắc đến hôn ước bằng giọng nhẹ như gió thoảng.",
+      "tieu": "Tin đồn đầy kinh thành rồi. Đừng bực mình, ghi lại xem ai đang đổ nước bẩn lên ngươi.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Dừng xe nghe ngóng tin đồn, ghi lại ai nói gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nghe được ba lời đồn lặp lại, lần theo thì hóa ra cùng một nguồn từ phủ Phù. Cô ghi nhớ đúng cách.",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            },
+            "f": "nguon_don"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Tin đồn lộn xộn, cô nghe mãi chẳng ghép được thành nguồn nào. Mất cả buổi sáng.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Quay lại bảo Hiên Dật đừng theo nữa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng lại giữa phố, vẻ mặt khó đoán. «Cô nương nói thật à?» Cô gật, hắn dừng bước.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn lại thích thú hơn: «Càng đuổi càng muốn theo.» Cô thở dài.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Cho xe đi thẳng, không đáp lời ai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Xe chạy lướt qua đám đông. Người ta nhìn theo, nhưng không ai dám chặn.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Xe bị chặn bởi đám người tò mò. Cô phải xuống nói đôi câu mới được đi tiếp.",
+            "d": {
+              "sinh": -1,
+              "hao": 0
+            }
+          }
+        }
+      ],
+      "ctx": "Ba ngày sau, cổng kinh thành Ninh An. Dân phố bàn tán nhà Phù giấu chuyện Mộ Dao trọng thương; Hiên Dật vẫn đi theo xe dù bị từ chối.",
+      "no": 5
+    },
+    {
+      "id": "q06",
+      "scene": "vhall",
+      "place": "Sảnh Phù phủ · Chiều muộn",
+      "kind": "chon",
+      "title": "Về phủ, Diêu di nương đối đầu",
+      "text": "Người hầu ở Phù phủ hoảng hồn như gặp ma khi cô bước vào sảnh. Trên ghế chủ mẫu là một phụ nhân trang điểm như chính thất: Diêu Tố Nga, thị thiếp được cha sủng ái, mẹ ruột của Phù Mộ Dao. Bà trách cô «chạy loạn làm Mộ Dao lo». Tiểu Châu nhắc: Mộ Dao là người em trọng sinh, người đã cướp cơ duyên của cô.",
+      "tieu": "Bà ta mặc áo chủ mẫu đấy, để ý đi. Đừng nổi nóng, hỏi những câu khiến bà ta tự lộ ra.",
+      "cast": "qv,qd,qm,tc",
+      "ch": [
+        {
+          "t": "Hỏi thẳng ba tháng nay ai đã đi tìm mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Diêu di nương cứng họng, mắt đảo sang chỗ khác. Người hầu cúi đầu, không ai dám đáp. Cô nhận ra mình đúng.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "vach_dd"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Bà đáp trơn tru rằng cả nhà đã đi tìm, hỏi lại thì cô không có bằng chứng phản bác. Cô đành chịu.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng Mộ Dao đã lên Thanh tướng sơ kỳ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bà biến sắc hẳn. Cô chỉ nói một câu mà bà không dám lên tiếng thêm, chính bà cũng không ngờ cô đoán đúng.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "vach_dd"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Bà phản bác thật nhanh, giọng gay gắt. Cô thấy ngực nhói vì bị mắng ngay giữa sảnh.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Lặng lẽ nhìn bà, không đáp, chờ bà tự nói hết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bà ta nói liền ba câu mâu thuẫn nhau. Người hầu nghe được, thì thầm. Cô lặng lẽ ghi nhớ.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bà cười khẩy rồi bỏ vào nội viện. Cô đứng đó, chẳng có thêm gì.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều muộn, sảnh Phù phủ. Diêu Tố Nga, thị thiếp của cha và mẹ của Mộ Dao, ăn mặc như chủ mẫu và trách Tư Vi «chạy loạn».",
+      "no": 6
+    },
+    {
+      "id": "q07",
+      "scene": "vstudy",
+      "place": "Thư phòng của Phù Chính Hoằng · Tối",
+      "kind": "chon",
+      "title": "Cha không cho từ hôn",
+      "text": "Tối cùng ngày, Tư Vi vào thư phòng. Cha cô, gia chủ Phù Chính Hoằng, ngồi sau án thư, thấy cô trở về mà không hỏi một lời han hỏi. Cô báo sẽ từ hôn với Doãn Hiên Dật. Ông giận dữ đập bàn: «Không được!» và đòi cô nói lý do. Tiểu Châu lặng lẽ nhắc: ông chưa bao giờ hỏi cô có bị thương hay không.",
+      "tieu": "Ông ta chẳng quan tâm ngươi sống hay chết, chỉ quan tâm cái hôn ước. Đừng nuốt cục tức này, nhưng cũng đừng ở lại cãi.",
+      "cast": "qv,qc,tc",
+      "ch": [
+        {
+          "t": "Chỉ nói «con đến để thông báo» rồi bỏ đi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ông sững lại, quát theo sau nhưng cô đã khuất cửa. Lần đầu tiên cô thấy ông không biết làm gì với đứa con này.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "cha_lanh"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Ông giận hơn, ném chén trà vỡ dưới chân cô. Cô vẫn đi, nhưng vai run lên.",
+            "d": {
+              "sinh": -3
+            },
+            "f": "cha_lanh"
+          }
+        },
+        {
+          "t": "Giải thích ngắn gọn lý do, giọng điềm tĩnh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ông nghe được hai câu thì lặng thinh. Cô xin phép lui, ông không ngăn. Cô nhận ra ông cũng đang tính toán điều gì đó.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "cha_lanh"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Ông cắt ngang, quát cô «dám nói với cha như vậy». Cuộc nói chuyện kết thúc dở dang.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Đặt lệnh bài đích nữ xuống bàn, không nói gì thêm",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Ông nhìn lệnh bài rất lâu. Cô đi ra khỏi thư phòng mà lưng thẳng tắp. Đó là lần đầu cô không cúi đầu trước ông.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "cha_lanh"
+          }
+        }
+      ],
+      "ctx": "Tối cùng ngày, thư phòng Phù Chính Hoằng. Cha cô không hỏi han gì mà chỉ phản đối việc từ hôn với Hiên Dật.",
+      "no": 7
+    },
+    {
+      "id": "q08",
+      "scene": "gcourt",
+      "place": "Thiên điện hoàng cung · Sáng hôm sau",
+      "kind": "chon",
+      "title": "Từ hôn trong cung",
+      "text": "Sáng hôm sau, Tư Vi vào thiên điện hoàng cung. Hoàng đế Doãn Vĩnh Trác, anh ruột của Hiên Dật, ngồi trên ghế rồng, hỏi cô vì sao muốn từ hôn. Hiên Dật đứng cạnh, vẻ mặt hờ hững. Cô nói thẳng rằng hắn không thích cô thì cô cũng không đuổi theo nữa. Hiên Dật khựng lại, nhận ra cô nói thật.",
+      "tieu": "Hoàng đế đấy, nói năng cho cẩn thận. Nhưng chuyện này ngươi đúng, nói thật thì hợp nhất.",
+      "cast": "qv,qh,qt,tc",
+      "ch": [
+        {
+          "t": "Trình bày thật bình tĩnh: hắn không thích mình, mình cũng không ép",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hoàng đế gật đầu chậm rãi. Hiên Dật nhìn cô, môi mấp máy rồi thôi. Hôn ước hủy ngay, êm gọn.",
+            "d": {
+              "ac": -3,
+              "hao": 3
+            },
+            "f": "tu_hon"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô nói lộn xộn vài chỗ, hoàng đế hỏi lại hai lần mới hiểu ý. Hôn ước vẫn hủy nhưng cô thấy mất mặt.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -2
+            },
+            "f": "tu_hon"
+          }
+        },
+        {
+          "t": "Cúi đầu cảm tạ ơn trên, xin phép được rút lui",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hoàng đế nhìn cô thêm một lúc rồi chuẩn. Hiên Dật im lặng suốt buổi, ánh mắt lạc lõng như vừa mất thứ gì.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "tu_hon"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô cúi quá sâu, giọng run. Hoàng đế mỉm cười nhẹ, nhưng Hiên Dật nhìn có vẻ thương hại, khiến cô khó chịu.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            },
+            "f": "tu_hon"
+          }
+        },
+        {
+          "t": "Nhìn thẳng Hiên Dật và nói rõ: «Thế này là xong hết»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đứng như trời trồng. Hoàng đế ngạc nhiên nhìn em trai, rồi gật đầu. Hôn ước hủy, hắn thấy một cái gì đó đổ xuống trong lòng.",
+            "d": {
+              "ac": -4,
+              "hao": 3
+            },
+            "f": "tu_hon"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Hắn quay mặt đi, tỏ vẻ chẳng bận tâm. Hôn ước hủy, nhưng cô thoáng thấy tay hắn siết lại.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            },
+            "f": "tu_hon"
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, thiên điện hoàng cung. Hoàng đế Doãn Vĩnh Trác và Hiên Dật có mặt; Tư Vi trình bày việc từ hôn.",
+      "no": 8
+    },
+    {
+      "id": "q09",
+      "scene": "ggarden",
+      "place": "Viện của Hạ Vân Khanh · Chiều",
+      "kind": "nan",
+      "title": "Mẹ lạnh nhạt",
+      "text": "Chiều đó, Tư Vi ghé viện của mẹ, Hạ Vân Khanh, người vừa nghe tin hôn ước bị hủy. Bà không hỏi cô có bị thương hay không, chỉ trách: «Con thua Mộ Dao nên mới bị hắn bỏ. Không biết tiến thủ.» Nỗi đau cũ của nguyên chủ chợt dội về, nhưng cô tự trấn tĩnh. Hai chuyện còn dở: Mộ Dao đã đi trước một bước, và ánh mắt Hiên Dật khi cô rời cung.",
+      "tieu": "Mẹ ngươi chưa bao giờ nghe ngươi nói. Cú đau này là của nguyên chủ, đừng nhận hết về mình. Mốc này khó, ta ở đây.",
+      "cast": "qv,qk,tc",
+      "ch": [
+        {
+          "t": "Nghe bà mắng hết, không cãi, rồi lễ phép cáo lui",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bà nói xong thì ngưng, ngạc nhiên vì cô không đáp. Cô cúi chào và đi, lưng thẳng.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Bà càng nói càng nặng lời, nhắc đến cả những chuyện hồi nhỏ. Cô bước ra mà tay run.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhắc mẹ rằng ba tháng nay cô một mình trong núi, chưa ai hỏi cô còn sống không",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bà sững người, tay siết chặt tấm khăn. Cô không đợi bà đáp, lặng lẽ ra khỏi viện. Cô biết lời đó đã vào tai bà.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "me_nghe"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Bà đáp lạnh lùng: «Mới đi vài tháng đã học thói trách móc.» Cô thấy đau hơn trước.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Ra vườn, ngồi lặng một lúc cho nguôi, nhờ Tiểu Châu kể việc cần làm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu kể lại từng bước cần làm. Cô lấy lại bình tĩnh, nghĩ tới đại hội luyện dược sắp tới.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô ngồi lâu quá, gió lạnh làm cô cảm. Đêm đó cô khò khè cả giấc.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, viện của Hạ Vân Khanh. Bà vừa nghe tin hủy hôn, mắng Tư Vi «thua Mộ Dao» và «không biết tiến thủ».",
+      "no": 9
+    },
+    {
+      "id": "q10",
+      "scene": "gtown",
+      "place": "Phố Ninh An · Vài ngày sau",
+      "kind": "chon",
+      "title": "Lời đồn và Hiên Dật bênh vực",
+      "text": "Vài ngày sau, dân phố Ninh An bàn tán đủ điều: cô hại đại tiểu thư rồi bỏ trốn, hoặc cô bị bỏ vì tính xấu. Hiên Dật nghe thấy, nổi giận, tuyên bố ngay giữa đám đông rằng chính Tư Vi là người từ hôn, bắt những kẻ đồn bậy phải đính chính. Dân phố sững sờ. Tư Vi đứng ở góc quán trà, nhìn hắn bênh vực mình.",
+      "tieu": "Hắn tự đứng ra bênh ngươi đấy. Muốn để hắn lo, tự lo, hay mặc kệ đều được. Mỗi cách một giá.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Mặc kệ, để lời đồn tự tan theo thời gian",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai ngày sau, một vụ lùm xùm khác che mất chuyện này. Cô khỏi phải giải thích với ai.",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Lời đồn lan rộng thêm vài phần, cô bị dân phố liếc xéo suốt cả tuần.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Hiên Dật đứng ra đính chính lần nữa trước đám đông",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn mỉm cười, gật đầu. Đám đông im bặt rồi xin lỗi cô từng người. Hắn thấy mình có ích, lòng nhẹ đi.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nhận lời nhưng vẻ mặt thoáng khó xử vì phải nói chuyện nhiều. Cô thấy hơi áy náy.",
+            "d": {
+              "ac": -1,
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Tự bước ra nói một câu rõ ràng trước đám đông",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nói gọn một câu về vụ việc, giọng không cao. Đám đông lặng đi. Hiên Dật nhìn cô như thấy lần đầu.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô nói thiếu chắc, một người trong đám đông vặn lại. Cô phải lui vào quán, mặt nóng ran.",
+            "d": {
+              "hao": 1,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Vài ngày sau, phố Ninh An. Tin đồn đổ lỗi cho Tư Vi; Hiên Dật nghe thấy và tuyên bố chính cô mới là người từ hôn.",
+      "no": 10
+    },
+    {
+      "id": "q11",
+      "scene": "ggarden",
+      "place": "Cửa viện của Tư Vi · Nhiều ngày liền",
+      "kind": "duyen",
+      "title": "Quà bồi thường",
+      "text": "Mấy ngày liền, Hiên Dật mang quà tới cửa viện của cô: đan dược, ngọc dịch và bộ áo phòng ngự. Hắn nghe hoàng đế kể rõ hoàn cảnh nhà Phù nên áy náy, hứa sẽ che chở cô như một người biểu ca. Cô nhận quà nhưng không quên nhắc hắn nhớ lời hứa hôm nay. Tiểu Châu nhẹ nhàng ghi thêm chỉ số vào hồ sơ.",
+      "tieu": "Hắn áy náy thật rồi đấy. Nhận quà không sao, nhưng cân nhắc kẻo mang nợ.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Nhận quà, đồng thời nhắc hắn nhớ lời hứa hôm nay",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn gật đầu rất nghiêm túc. «Ta nhớ.» Cô thấy hắn lần đầu nói câu này mà không cười.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "loi_hua"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn nghe mà không để tâm, đáp qua loa «biết rồi, biết rồi». Cô chẳng chắc hắn thực sự nghe.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Chỉ nhận áo phòng ngự, trả lại đan dược và ngọc dịch",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngạc nhiên rồi mỉm cười: «Cô nương biết chừng mực.» Hắn mang đồ về, nhưng lần sau tặng thứ khác ý nghĩa hơn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4
+            },
+            "f": "loi_hua"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn tưởng cô chê quà, mặt thoáng buồn. Cô phải giải thích mãi mới yên.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Nhận hết, ghi vào sổ nợ để sau này đền",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bật cười: «Sổ nợ? Thú vị đấy.» Hắn mong cô còn nợ thêm vài lần nữa.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nhìn sổ nợ, hơi nhíu mày vì thấy cô quá xa cách. Cô thấy hơi tiếc.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Nhiều ngày liền, cửa viện của Tư Vi. Hiên Dật biết hoàn cảnh cô từ hoàng đế nên mang quà bồi thường và hứa che chở như biểu ca.",
+      "no": 11
+    },
+    {
+      "id": "q12",
+      "scene": "vhall",
+      "place": "Sảnh Phù phủ · Trưa",
+      "kind": "hiem",
+      "title": "Thất hoàng tử tới phủ",
+      "text": "Một buổi trưa, Thất hoàng tử Doãn Cảnh Dục đến thăm Mộ Dao. Cha và Diêu di nương cũng có mặt trong sảnh. Tư Vi bước vào, hỏi thẳng ai đã vướng chân mình lúc ở trong rừng. Mộ Dao chối, Cảnh Dục bênh nàng và đòi cô nhường Hồi Xuân Hoa. Đúng lúc đó, Hiên Dật bước vào, đặt Hàn Sương Tiên Chi trước mặt cô. Cả sảnh nín lặng.",
+      "tieu": "Thất hoàng tử là người của Mộ Dao, nhớ lấy. Hiên Dật đặt linh dược trước mặt ngươi giữa sảnh, hắn đang ra mặt thay ngươi đấy.",
+      "cast": "qv,qm,qs,qh,qd,qc,tc",
+      "ch": [
+        {
+          "t": "Nhìn thẳng Mộ Dao, nhắc lại câu hỏi và chờ nàng đáp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mộ Dao tái mặt, giọng lạc đi, không đáp được. Cảnh Dục quát lên nhưng cả sảnh đã nhìn thấy.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3
+            },
+            "f": "mo_dao_lo"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Mộ Dao khóc ngay lập tức, cả sảnh quay sang trách cô nói nặng lời. Cô thấy bất lực.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhận Hàn Sương Tiên Chi trước mặt mọi người rồi cảm tạ Hiên Dật",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhận linh dược, cúi nhẹ. Cảnh Dục mất mặt, rút lời đòi Hồi Xuân Hoa. Hiên Dật nhìn cô, môi cong nhẹ.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cảnh Dục cười nhạt: «Quà của biểu ca thì cứ giữ.» Không khí gượng gạo, cô thấy mình lọt vào bẫy ngôn từ.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nói rõ Hồi Xuân Hoa là của mình, không nhường cho ai",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô trích rõ ra khế ước nhận Hồi Xuân Hoa, giọng chắc nịch. Cảnh Dục á khẩu. Cha cô ngồi như tượng.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 4
+            },
+            "f": "mo_dao_lo"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Cô nói đúng nhưng giọng quá gắt, Cảnh Dục chộp lấy kẽ hở để bêu cô là ngạo mạn.",
+            "d": {
+              "hao": -1,
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Trưa, sảnh Phù phủ. Doãn Cảnh Dục tới thăm Mộ Dao, đòi Tư Vi nhường Hồi Xuân Hoa; Hiên Dật bước vào đặt Hàn Sương Tiên Chi trước mặt cô.",
+      "no": 12
+    },
+    {
+      "id": "q13",
+      "scene": "ggarden",
+      "place": "Viện của Tư Vi · Hôm sau",
+      "kind": "duyen",
+      "title": "Hẹn đại hội luyện dược",
+      "text": "Hôm sau, Mộ Dao hỏi cô có dự đại hội luyện dược ba ngày nữa hay không; giải nhất là một đan lô. Tư Vi đáp: «Đệ nhất sẽ là tôi.» Hiên Dật mang dược liệu cao cấp tới giúp cô tập luyện. Cô thử luyện hai lò đan trong viện, tập cách điều lửa cho đều tay. Tiểu Châu nhắc: kỹ năng này sẽ theo cô đến cuối.",
+      "tieu": "Điều lửa là nền của luyện đan. Học cho kỹ, sau này khỏi bị lò phản.",
+      "cast": "qv,qm,qh,tc",
+      "ch": [
+        {
+          "t": "Luyện lò đầu thật chậm, canh từng nhịp lửa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lò đầu thành đan đúng như tính. Cô nhận ra nhịp lửa như một nhịp thở, và tay cô thuộc lòng nó.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "lua_deu"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Lửa lên quá một nhịp, đan cháy khét. Cô mất nửa canh giờ để dọn lò.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Hiên Dật đứng canh quanh viện để mình tập trung",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng ngoài cửa, không dám lên tiếng. Cô luyện hai lò liền mạch, đan thành cả hai.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "lua_deu"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn lo cô mệt nên cứ hỏi han, làm cô phân tâm. Lò thứ hai hỏng.",
+            "d": {
+              "hao": 2,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Chọn dược liệu bình thường trước, để dành loại cao cấp cho ngày thi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô luyện hai lò đan thường, tay quen dần. Dược liệu cao cấp còn nguyên cho ngày thi.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "lua_deu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Dược liệu thường có tạp chất, lò đan ra đục. Cô mất công lọc lại.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Hôm sau, viện của Tư Vi. Mộ Dao hỏi cô có dự đại hội luyện dược hay không; Hiên Dật mang dược liệu tới giúp cô tập luyện.",
+      "learn": {
+        "n": "Điều lửa luyện đan",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 13
+    },
+    {
+      "id": "q14",
+      "scene": "gcourt",
+      "place": "Sân đại hội luyện dược Ninh An · Sáng",
+      "kind": "hiem",
+      "title": "Vòng một và vòng hai",
+      "text": "Sáng hôm thi, hơn trăm người dự thi tụ họp ở sân đại hội, ba vị giám khảo ngồi trên cao. Mộ Dao cũng dự thi, ánh mắt nhìn cô đầy khiêu khích. Vòng một, Tư Vi luyện ba lò đều thành. Mộ Dao hỏng một lò vì giật mình. Vòng hai, cô luyện thành hai lò nữa, còn Mộ Dao nổ lò, bị đồn thất thế.",
+      "tieu": "Sân đấu hơn trăm người đấy, giữ tay vững. Đừng để Mộ Dao làm ngươi phân tâm.",
+      "cast": "qv,qm,tc",
+      "ch": [
+        {
+          "t": "Bình tĩnh luyện từng lò theo nhịp lửa đã tập",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba lò vòng một đều thành, hai lò vòng hai cũng vậy. Giám khảo gật đầu liên tục.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "qua_vong"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Lò thứ hai vòng hai hơi lệch, đan thành nhưng phẩm chất kém. Cô vẫn qua vòng, tim đập mạnh.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -2
+            },
+            "f": "qua_vong"
+          }
+        },
+        {
+          "t": "Quan sát Mộ Dao, đề phòng nàng giở trò",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô thấy Mộ Dao hơi run tay, đoán trước được nàng sẽ hỏng lò. Cô giữ nhịp, vượt qua dễ dàng.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "qua_vong"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô nhìn nàng quá nhiều, mất nhịp lửa của chính mình. Một lò hỏng, may vẫn qua vòng.",
+            "d": {
+              "ac": -1,
+              "sinh": -3
+            },
+            "f": "qua_vong"
+          }
+        },
+        {
+          "t": "Cắt đứt mọi ý nghĩ, chỉ nhìn lò lửa trước mặt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tập trung đến mức tai không còn nghe ồn ào. Hai vòng trôi qua như một giấc mơ.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "qua_vong"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô sơ ý ở lò cuối, đan thành nhưng không đạt độ tròn. Cô qua vòng sát nút.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "qua_vong"
+          }
+        }
+      ],
+      "ctx": "Sáng, sân đại hội luyện dược Ninh An. Có ba giám khảo, hơn trăm người dự thi; Mộ Dao cũng dự thi và hỏng lò.",
+      "no": 14
+    },
+    {
+      "id": "q15",
+      "scene": "gcourt",
+      "place": "Sân đại hội · Cuối ngày thi",
+      "kind": "chon",
+      "title": "Vòng ba: Dưỡng Hồn Đan",
+      "text": "Cuối ngày, chín người còn lại bốc thăm đề cho vòng ba. Ngọc bài của Tư Vi bị Cảnh Dục nhờ người đổi sang đề khó nhất: Dưỡng Hồn Đan. Lò rung lên nửa canh giờ làm cả sân tưởng sắp nổ. Cô phải chọn: giữ nhịp, làm dịu lò hay dừng chờ lò lặng. Cuối cùng đan thành, giám khảo hô lên. Cô thắng.",
+      "tieu": "Cảnh Dục đổi đề của ngươi đấy, ta thấy rõ. Lò sắp nổ, quyết đi, nhưng phối phương mới là chìa khóa.",
+      "cast": "qv,qs,tc",
+      "ch": [
+        {
+          "t": "Giữ nhịp lửa, chỉnh phối phương ngay trong lò",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đổi thứ tự hai vị thuốc ngay giữa lúc lò rung. Lò dần lặng. Đan thành, ánh vàng bốc lên cả sân.",
+            "d": {
+              "ac": -4,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "thang_dai_hoi"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô chỉnh sai một vị, lò rung mạnh hơn. May cô kịp giữ lò, đan thành nhưng chỉ vừa đủ qua.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -4
+            },
+            "f": "thang_dai_hoi"
+          }
+        },
+        {
+          "t": "Làm dịu lò bằng linh khí, từng chút một",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lò dịu dần như thú được vỗ về. Đan thành đẹp, giám khảo ngạc nhiên nhìn cô.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "thang_dai_hoi"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Linh khí cô không đủ, lò rung kéo dài. Cô thấy mồ hôi đẫm lưng áo trước khi lò lặng.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            },
+            "f": "thang_dai_hoi"
+          }
+        },
+        {
+          "t": "Dừng tay, chờ lò tự lặng rồi mới tiếp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lò lặng xuống đúng nhịp tự nhiên. Cô tiếp tục, đan thành nguyên vẹn. Cả sân lặng đi vì táo bạo.",
+            "d": {
+              "ac": -4,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "thang_dai_hoi"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Chờ quá lâu, lửa nguội đi. Cô phải nhóm lại, đan thành nhưng kém phẩm.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "thang_dai_hoi"
+          }
+        }
+      ],
+      "ctx": "Cuối ngày thi, sân đại hội. Chín người còn lại bốc thăm đề; ngọc bài của Tư Vi bị Cảnh Dục nhờ người đổi sang đề khó nhất là Dưỡng Hồn Đan.",
+      "learn": {
+        "n": "Phối phương đan",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 15
+    },
+    {
+      "id": "q16",
+      "scene": "gpalace",
+      "place": "Hậu đài sân đại hội · Sau khi thi",
+      "kind": "hiem",
+      "title": "Đan lô là Thần Khí",
+      "text": "Sau đại hội, ở hậu đài, giám khảo trao giải nhất là một chiếc đan lô cổ. Tư Vi nhận ra ngay: đó không phải đan lô thường mà là Thần Khí. Mộ Dao, Cảnh Dục và Hiên Dật có mặt. Cảnh Dục lập tức đề nghị đổi một đan lô cực phẩm cùng nhiều điều kiện, nghe như cướp. Hiên Dật chặn ngay trước cả hậu đài.",
+      "tieu": "Thần Khí đấy! Mọi người đang nhìn chằm chằm vào nó. Kiểm tra cho chắc rồi hãy quyết, đừng để bị lừa bằng giọng ngọt.",
+      "cast": "qv,qs,qm,qh,tc",
+      "ch": [
+        {
+          "t": "Xem xét kỹ khắc văn trên đan lô để xác nhận phẩm cấp",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đọc ra từng đường khắc cổ, xác nhận lò đúng là Thần Khí của Cửu Tiêu. Cô đã nắm trong tay giá trị thật.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "biet_than_khi"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nhìn nhầm một đường khắc, tưởng lò chỉ là bảo khí hạng cao. Tiểu Châu phải chỉnh lại trong tai.",
+            "d": {
+              "ac": 0,
+              "sinh": -1
+            },
+            "f": "biet_than_khi"
+          }
+        },
+        {
+          "t": "Từ chối thẳng lời đổi lò của Cảnh Dục trước mặt mọi người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cảnh Dục nghẹn lời. Hiên Dật mỉm cười đứng sau lưng cô, tay đặt lên chuôi kiếm. Không ai dám đáp.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cảnh Dục dồn thêm, giọng đầy ép buộc. Hiên Dật phải đứng chắn trước cô, cô thấy mình bị động.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Hiên Dật ở lại làm chứng, rút đan lô về viện trước",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hiên Dật dẫn cô ra cổng sau, đan lô được đưa về viện kín đáo. Cảnh Dục đứng trơ ra.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Một người của Cảnh Dục theo sát cổng sau, khiến cô phải đi đường vòng mất cả canh giờ.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Sau đại hội, hậu đài. Tư Vi nhận ra đan lô giải nhất là Thần Khí; Cảnh Dục đề nghị đổi bằng một đan lô cực phẩm và Hiên Dật chặn ngay.",
+      "learn": {
+        "n": "Giám định đan lô",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 16
+    },
+    {
+      "id": "q17",
+      "scene": "gtown",
+      "place": "Ngoài nhà đấu giá Thiên Bảo · Hôm sau",
+      "kind": "chon",
+      "title": "Quyết định bán đấu giá",
+      "text": "Hôm sau, tin Cảnh Dục muốn cướp lò đã lan khắp kinh thành. Ngoài cửa nhà đấu giá Thiên Bảo, Tư Vi nói thẳng trước đám đông rằng cô sẽ bán Thần Khí để khỏi bị ép, rồi hỏi ai dám tranh. Cảnh Dục lúng túng, không dám lên tiếng. Cô phải chọn: giữ lại hay bán.",
+      "tieu": "Cô nói công khai thì không ai dám làm lén. Giữ hay bán đều có lý, nhưng đã nói ra rồi thì cân nhắc kỹ.",
+      "cast": "qv,qs,tc",
+      "ch": [
+        {
+          "t": "Công khai bán, để giá tự định",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đám đông bàn tán xôn xao. Cô thấy mình đã chọn đúng: không ai ép nổi cô nữa.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3
+            },
+            "f": "ban_lo"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nói hơi vội, vài người nghĩ cô túng tiền. Nhưng quyết định vẫn giữ được.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "ban_lo"
+          }
+        },
+        {
+          "t": "Nói rõ sẽ giữ lò, chỉ cho mượn khi cần",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đám đông nhìn cô bằng ánh mắt khác, nể phục. Cảnh Dục nhận ra mình đã mất thế.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "giu_lo"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô nói giữ lò, nhưng đám đông tưởng cô tham. Tin đồn mới lại nổi lên.",
+            "d": {
+              "hao": -1,
+              "sinh": -3
+            },
+            "f": "giu_lo"
+          }
+        },
+        {
+          "t": "Hỏi Hiên Dật nên chọn cách nào",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhìn cô lâu: «Cô tự quyết, ta ủng hộ.» Cô hiểu hắn đang học cách tin cô.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "ban_lo"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nói loanh quanh, cô chẳng biết hắn nghĩ gì. Cô tự quyết, hơi trống trải.",
+            "d": {
+              "hao": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Hôm sau, ngoài nhà đấu giá Thiên Bảo. Tin Cảnh Dục muốn cướp lò đã lan khắp kinh thành; Tư Vi tuyên bố bán Thần Khí để khỏi bị ép.",
+      "no": 17
+    },
+    {
+      "id": "q18",
+      "scene": "gbanquet",
+      "place": "Phòng đấu giá Thiên Bảo · Chiều",
+      "kind": "duyen",
+      "title": "Đấu giá Thần Khí",
+      "text": "Phòng đấu giá Thiên Bảo đông nghịt người. Giá Thần Khí tăng dần. Tư Vi học cách đọc nhịp ra giá để biết lúc nào phe nào còn tiền. Cha và Cảnh Dục ngầm hợp lực nâng giá. Cuối cùng họ chụp được lò với giá một tỷ để dâng cho Mộ Dao. Cô thu linh thạch, định chia cho Hiên Dật nhưng hắn từ chối.",
+      "tieu": "Nghe nhịp tay giơ biển mà đoán, đó là kỹ năng cho cả đời. Hắn từ chối chia là vì hắn đang áy náy, đừng ép.",
+      "cast": "qv,qc,qs,qm,qh,tc",
+      "ch": [
+        {
+          "t": "Ngồi yên lắng nghe nhịp ra giá của từng phe",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đoán đúng lúc phe cha cạn tiền, đẩy giá thêm một nhịp. Con số lên tới một tỷ, cô thu linh thạch mà lòng bình thản.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "nhip_dau_gia"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô đoán lệch một nhịp, giá nhích ít hơn dự tính. Cô vẫn bán được nhưng kém hơn mong đợi.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -1
+            },
+            "f": "nhip_dau_gia"
+          }
+        },
+        {
+          "t": "Đưa mắt ra hiệu cho người quen trong phòng nâng giá hộ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Một vị thương gia quen cô nhận ra, ngầm nâng giá thêm mấy lần. Cô thu về món linh thạch lớn.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "nhip_dau_gia"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Người quen hiểu nhầm, giơ biển trễ. Cô mất cơ hội nâng giá một lượt.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Mời Hiên Dật chia một phần linh thạch để đền đáp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhìn túi linh thạch, lắc đầu nhẹ: «Ta chưa xứng.» Câu nói ấy làm cô chạm vào nỗi áy náy của hắn.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn từ chối thẳng thừng, quay đi. Cô thấy hơi ngượng nhưng không trách hắn.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, phòng đấu giá Thiên Bảo. Giá Thần Khí tăng dần; cha và Cảnh Dục hợp lực chụp với giá một tỷ cho Mộ Dao.",
+      "learn": {
+        "n": "Đọc nhịp đấu giá",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 18
+    },
+    {
+      "id": "q19",
+      "scene": "vstudy",
+      "place": "Thư phòng của Phù Chính Hoằng · Tối cùng ngày",
+      "kind": "nan",
+      "title": "Hôn sự hầu phủ",
+      "text": "Tối cùng ngày, Tư Vi đi ngang thư phòng cha, nghe qua cửa sổ tiếng Diêu di nương: «Gả cô ta cho Giang Tụng, nhị công tử hầu phủ Trấn Viễn họ Giang.» Bà nói hắn tiếng là ôn nhu nhưng hay bắt nạt người yếu thế dựa vào quyền thế. Thật ra hầu phủ cần một người luyện đan giỏi để giữ cô trọn đời, và họ hứa tiền cho Diêu di nương. Cha cô đồng ý ngay.",
+      "tieu": "Họ bán ngươi đấy. Thư hứa tiền chắc chắn có, tìm ra thì ngươi có bằng chứng. Nhưng giờ cứ nghe cho đủ đã.",
+      "cast": "qv,qd,qc,qg,tc",
+      "ch": [
+        {
+          "t": "Ghi nhớ từng câu, không để lộ hơi thở ngoài cửa sổ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nghe rõ cả tên người đại diện hầu phủ và cách họ định mang lễ tới. Cô chuồn đi mà không ai biết.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "nghe_len"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Một người hầu bước ngang, cô phải ẩn nấp, bỏ lỡ nửa phần sau của cuộc nói chuyện.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Bước vào sảnh ngay, hỏi thẳng cha có định gả mình không",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cha và Diêu di nương chết lặng. Họ không chối, cô biết sự thật chắc như đinh. Tim cô lạnh đi nhưng đầu óc tỉnh táo.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "nghe_len"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Cha quát cô nghe lén. Diêu di nương cười gằn. Cô bị đuổi ra khỏi thư phòng trong nhục nhã.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Quay về viện, nhờ Tiểu Châu ghi nhớ lại mọi lời vừa nghe",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu đọc lại từng câu, cô viết ra giấy cất kỹ. Một bằng chứng nho nhỏ nhưng đủ dùng.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "nghe_len"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiểu Châu bỏ sót vài đoạn vì cô đứng quá xa. Cô chỉ nhớ lờ mờ.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Tối cùng ngày, thư phòng Phù Chính Hoằng. Diêu di nương đề nghị gả Tư Vi cho Giang Tụng, nhị công tử hầu phủ họ Giang, thực ra hầu phủ cần người luyện đan giỏi.",
+      "no": 19
+    },
+    {
+      "id": "q20",
+      "scene": "vyard",
+      "place": "Viện của Diêu di nương · Đêm",
+      "kind": "hiem",
+      "title": "Bằng chứng trong đêm",
+      "text": "Đêm đó, Tư Vi dùng Ẩn khí lẻn vào viện của Diêu di nương. Tiểu Châu cảnh báo: có người canh ngoài hành lang. Cô lục ngăn bàn và lấy được một bức thư: hầu phủ hứa trả bạc cho Diêu di nương nếu gả được cô sang. Cầm bức thư trong tay, cô phải quyết nên gửi tông tộc, đưa thẳng cho cha hay giữ lại để dùng sau.",
+      "tieu": "Có thư rồi! Bằng chứng này nặng đấy. Gửi ai thì còn tùy ngươi tính xa tính gần.",
+      "cast": "qv,qd,tc",
+      "ch": [
+        {
+          "t": "Gửi bức thư cho tộc trưởng tông tộc qua một người đáng tin",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bức thư tới tay tộc trưởng trong đêm. Cô biết mình vừa đặt một quân cờ vào bàn lớn.",
+            "d": {
+              "ac": -2,
+              "sinh": 2
+            },
+            "f": "thu_tong_toc"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Người đưa thư chậm một ngày, Diêu di nương kịp phát hiện thư mất. Cô phải đề phòng thêm.",
+            "d": {
+              "sinh": -3
+            },
+            "f": "thu_tong_toc"
+          }
+        },
+        {
+          "t": "Đưa thẳng cho cha, để xem ông phản ứng ra sao",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cha cô đọc xong tái mặt, rồi quát bảo Diêu di nương quỳ xuống. Lần đầu cô thấy ông phải khó xử trước chính mình.",
+            "d": {
+              "ac": -2,
+              "sinh": 1
+            },
+            "f": "thu_cha"
+          },
+          "b": 0.38,
+          "bad": {
+            "x": "Cha đọc xong vứt vào lò sưởi: «Chuyện nhỏ.» Cô nhìn bức thư cháy thành tro mà không nói được gì.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Giữ lại bức thư, giấu kỹ để dùng khi cần",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô cất thư vào ngọc bội. Thư nằm im, chờ một ngày thích hợp hơn.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "thu_giu"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Diêu di nương sục sạo cả đêm tìm thư. Cô phải chuyển chỗ giấu ba lần.",
+            "d": {
+              "sinh": -3
+            },
+            "f": "thu_giu"
+          }
+        }
+      ],
+      "ctx": "Đêm đó, viện của Diêu di nương. Tư Vi dùng Ẩn khí lẻn vào và lấy được thư hầu phủ hứa trả bạc nếu gả được cô.",
+      "no": 20
+    },
+    {
+      "id": "q21",
+      "scene": "ggarden",
+      "place": "Vườn viện của Tư Vi · Sáng",
+      "kind": "chon",
+      "title": "Lời tỏ tình bị từ chối",
+      "text": "Sáng hôm sau, Hiên Dật đứng chờ ngoài vườn viện cô cả đêm vì đã nghe chuyện hôn sự hầu phủ. Hắn nói thẳng: hắn hối hận, hắn xin nối lại hôn ước. Tư Vi từ chối: «Tôi mang thù, tôi không ăn cỏ quay đầu.» Hắn đáp, mắt đỏ lên: «Vậy ta cố gắng tiếp.» Tiểu Châu im lặng, rồi thì thầm: đây là chỗ then chốt của hắn.",
+      "tieu": "Đây là mốc quan trọng. Hắn nói thật, ngươi cũng nói thật, và nói cho cẩn thận. Hắn đứng cả đêm đấy.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Nhắc lại thẳng thắn: «Tôi chưa quên mười năm hắn trốn tôi»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đứng im như tượng, rồi cúi đầu: «Ta biết. Ta không đòi cô quên.» Hắn nói lời đầu tiên mang chút hối lỗi thật sự.",
+            "d": {
+              "ac": -5,
+              "hac": -2,
+              "hao": 7
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói lời quá nặng, hắn tái mặt, quay đi. Cô thấy mình đã đâm một nhát không cần thiết.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Cảm ơn hắn đã canh cả đêm nhưng giữ khoảng cách",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn mỉm cười buồn: «Có chút khoảng cách cũng được.» Ánh mắt hắn nhẹ hẳn đi.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 5
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn tưởng cô dỗi, gắng giải thích mãi một tràng. Cô nghe mà thấy rối.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Chỉ gật đầu, mời hắn uống một chén trà rồi tiễn ra cổng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn uống trà rất chậm, như sợ cạn chén. Khi ra cổng, hắn ngoái lại ba lần.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Trà quá nóng làm hắn bỏng lưỡi, khung cảnh gượng gạo. Cô thấy tiếc cho khoảnh khắc ấy.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng sau, vườn viện của Tư Vi. Hiên Dật đã nghe chuyện hôn sự hầu phủ và đứng canh ngoài cả đêm; hắn xin nối lại hôn ước và bị từ chối.",
+      "no": 21
+    },
+    {
+      "id": "q22",
+      "scene": "vgate",
+      "place": "Cổng viện của Tư Vi · Sáng hôm sau",
+      "kind": "chon",
+      "title": "Mộ Dao đòi lục soát sân",
+      "text": "Sáng hôm sau, Diêu di nương phát hiện thư mất và nghi cô, bèn sai Mộ Dao dẫn người tới cổng viện đòi lục soát. Hàng xóm đứng nghe. Tư Vi không cho vào: cô là đích nữ, không ai có quyền lục soát viện của cô. Cô hỏi lại: mấy tháng trước, ai vướng chân mình? Mộ Dao nhìn Hiên Dật rồi nhượng bộ, hứa sẽ trả lời.",
+      "tieu": "Người đứng nghe đông lắm, nói trước đám đông thì phải có lý. Mộ Dao đang sợ đấy.",
+      "cast": "qv,qm,qd,qh,tc",
+      "ch": [
+        {
+          "t": "Chặn cổng, nói rõ thân phận đích nữ và quyền của mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đám hầu của Mộ Dao chùn bước, không dám bước thêm. Cô nói gọn, đúng luật nhà, và không ai cãi được.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3
+            },
+            "f": "chan_cong"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói thiếu một điều luật, Mộ Dao bắt bẻ ngay. Cô phải chuyển sang cách khác để giữ cổng.",
+            "d": {
+              "ac": -1,
+              "sinh": -3
+            },
+            "f": "chan_cong"
+          }
+        },
+        {
+          "t": "Hỏi thẳng Mộ Dao trước mặt hàng xóm: «Ai vướng chân tôi?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mộ Dao tái mặt, quay nhìn Hiên Dật cầu cứu. Hiên Dật chỉ lặng im. Nàng đành hứa trả lời, mắt đảo loạn.",
+            "d": {
+              "ac": -4,
+              "hac": -1,
+              "hao": 3
+            },
+            "f": "mo_dao_lo"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Mộ Dao khóc lóc kêu oan. Hàng xóm quay sang bênh nàng, cô bị mang tiếng bắt nạt em.",
+            "d": {
+              "hao": -1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Mời Hiên Dật đứng bên cạnh, chứng kiến cuộc đối thoại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hiên Dật bước tới, đứng cạnh cô không nói một lời. Chỉ riêng sự có mặt của hắn khiến Mộ Dao chùn hẳn.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hiên Dật đang bận việc nên không tới kịp. Cô phải tự đối phó với cả đám người.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, cổng viện của Tư Vi. Diêu di nương phát hiện thư mất và nghi cô; Mộ Dao dẫn người đến đòi lục soát.",
+      "learn": {
+        "n": "Biện luận trước đám đông",
+        "s": "mi",
+        "v": 1
+      },
+      "no": 22
+    },
+    {
+      "id": "q23",
+      "scene": "vgate",
+      "place": "Cổng viện của Tư Vi · Cùng lúc",
+      "kind": "nan",
+      "title": "Lời khai về Hạ Linh Lung",
+      "text": "Mộ Dao nhìn đám hàng xóm, rồi bất ngờ khai: người vướng chân là Hạ Linh Lung, chị họ bên ngoại của hai người. Tin lan khắp kinh thành trong buổi trưa; Linh Lung bị chỉ trích dữ dội. Anh họ Hạ Thừa Phong chạy đến cầu tình cho Mộ Dao. Linh Lung thì hiểu mình bị đẩy ra làm bia, bắt đầu hận Mộ Dao.",
+      "tieu": "Mộ Dao đổ tội cho người khác để thoát thân. Linh Lung là người đã bị đẩy ra làm bia, ghi nhớ cô ấy.",
+      "cast": "qv,qm,ql,qp,tc",
+      "ch": [
+        {
+          "t": "Âm thầm nhờ người dò xem Linh Lung có thật là kẻ vướng chân",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô biết Linh Lung hôm đó ở tận phía bắc, không thể có mặt trong rừng. Mộ Dao đã nói dối trắng trợn.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "biet_oan"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tin tức dò được còn lẫn lộn. Cô chỉ chắc một điều: lời khai của Mộ Dao có kẽ hở.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Gặp Thừa Phong, hỏi vì sao anh ta lại bênh Mộ Dao",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thừa Phong bối rối, ấp úng không đáp. Cô nhận ra anh ta bị Mộ Dao dắt mũi.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2
+            },
+            "f": "biet_oan"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Thừa Phong nổi nóng, quát cô «nhỏ nhen». Cô bị mang tiếng, lui về viện.",
+            "d": {
+              "hao": -1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Đứng ngoài, để Mộ Dao và Hạ gia tự lục đục với nhau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hạ gia cãi nhau ầm ĩ suốt ba ngày. Cô không phải ra mặt, lặng lẽ thủ lợi.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hạ gia cãi nhau lan sang cả phủ Phù, cô bị vạ lây vài lời gièm pha.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng lúc, cổng viện. Mộ Dao khai người vướng chân là Hạ Linh Lung; Linh Lung bị chỉ trích, Hạ Thừa Phong đến cầu tình cho Mộ Dao.",
+      "no": 23
+    },
+    {
+      "id": "q24",
+      "scene": "ggarden",
+      "place": "Quán trà Ninh An · Hai ngày sau",
+      "kind": "duyen",
+      "title": "Gia tộc cầu luyện đan",
+      "text": "Hai ngày sau, mấy gia tộc lớn ở Ninh An bắt đầu tránh nhà Hạ và tìm đến cầu Tư Vi luyện đan. Cô ngồi ở quán trà, nhận linh dược của họ, luyện đủ bộ đan, mỗi lò đều đủ mười viên. Các gia tộc biết ơn, đưa cô nhà ở riêng nếu muốn dọn đi. Tiểu Châu nhẹ nhàng nói: đó là danh tiếng đầu tiên của cô.",
+      "tieu": "Mười viên một lò! Họ nhớ ơn ngươi đấy. Giữ lấy uy tín này.",
+      "cast": "qv,tc",
+      "ch": [
+        {
+          "t": "Nhận linh dược, luyện từng lò thật chuẩn rồi gửi tận tay",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mỗi lò đều đủ mười viên. Cô nhận một lời cảm ơn thật lòng từ ba nhà liền.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 3
+            },
+            "f": "co_danh"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Có hai lò chỉ được tám viên. Cô thành thật nhận lỗi và bù thêm, họ vẫn tôn trọng.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            },
+            "f": "co_danh"
+          }
+        },
+        {
+          "t": "Nhận lời đưa nhà ở riêng, dọn khỏi Phù phủ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô chọn một căn nhà nhỏ yên tĩnh gần phố. Lần đầu cô thấy mình có chỗ đứng của riêng mình.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 3
+            },
+            "f": "co_nha"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Căn nhà ồn ào vì ở gần chợ. Cô vẫn dọn nhưng mất thời gian chỉnh lại.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Từ chối nhà, chỉ nhận linh dược để dùng sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ nể cô thêm vài phần. Cô giữ được linh dược và sự tự chủ.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Họ hơi phật ý vì cô từ chối. Cô phải giải thích khéo.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Hai ngày sau, quán trà Ninh An. Nhiều gia tộc tránh nhà Hạ và đến cầu Tư Vi luyện đan.",
+      "no": 24
+    },
+    {
+      "id": "q25",
+      "scene": "gtemple",
+      "place": "Từ đường Phù thị · Ba ngày sau",
+      "kind": "duyen",
+      "title": "Tông tộc ra mặt",
+      "text": "Ba ngày sau, Tư Vi được gọi tới từ đường Phù thị. Tộc trưởng Phù Chấn Sơn đã nghe chuyện cha và Diêu di nương định gả cô đi. Ông nhìn cô rất lâu rồi phong cô làm trưởng lão, cho hai hộ vệ Thanh quân và quyền tự định hôn sự. Cha bị cảnh cáo trước từ đường. Diêu di nương bị phạt ra trang viên ngoại thành.",
+      "tieu": "Tộc trưởng ra mặt vì ngươi có giá trị. Nhận quyền tự định hôn sự, nó là lá chắn rất tốt.",
+      "cast": "qv,qz,qc,qd,tc",
+      "ch": [
+        {
+          "t": "Nhận chức trưởng lão, cảm tạ tộc trưởng bằng lễ nghi đàng hoàng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tộc trưởng gật đầu hài lòng. Các trưởng lão khác nhìn cô với ánh mắt thay đổi. Chiếc ghế mới đã thuộc về cô.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 3
+            },
+            "f": "truong_lao"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô quên một nghi thức nhỏ, một trưởng lão khẽ nhíu mày. Nhưng chức trưởng lão vẫn thuộc về cô.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            },
+            "f": "truong_lao"
+          }
+        },
+        {
+          "t": "Xin tộc trưởng ghi rõ quyền tự định hôn sự vào gia phả",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tộc trưởng sai người ghi ngay. Cô cầm bản sao mà thấy tim nhẹ đi một nửa.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "quyen_hon"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Chuyện ghi gia phả bị trì hoãn vì thủ tục. Cô phải chờ thêm mấy hôm mới nhận được bản sao.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Xin tộc trưởng đừng phạt Diêu di nương quá nặng, chỉ cần bà tránh xa mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tộc trưởng lặng lẽ gật. Cô có tiếng khoan dung mà không mất lá chắn nào.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tộc trưởng nhíu mày vì thấy cô mềm lòng. Một vài trưởng lão khác chê cô yếu đuối.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Ba ngày sau, từ đường Phù thị. Tộc trưởng Phù Chấn Sơn nghe tin cha và Diêu di nương định gả cô; ông phong cô làm trưởng lão và phạt Diêu di nương ra trang viên.",
+      "no": 25
+    },
+    {
+      "id": "q26",
+      "scene": "vcourt",
+      "place": "Sân hầu phủ Giang · Tuần sau",
+      "kind": "nan",
+      "title": "Mộ Dao đẩy ngã công tử hầu phủ",
+      "text": "Tuần sau, cha đưa Mộ Dao sang hầu phủ Giang để ra mắt thay Tư Vi. Giang Tụng chặn đường, ép Mộ Dao đi cùng hắn vào nội viện. Mộ Dao tức giận, đẩy hắn ngã xuống bậc đá. Đan điền của Tụng vỡ. Hầu phủ ầm ĩ, đòi Phù gia bồi thường. Tiểu Châu báo tin này cho cô qua tiếng thì thầm.",
+      "tieu": "Chuyện này ngoài tay ngươi, nhưng hậu quả sẽ rơi vào ngươi. Nghe tin trước, nghĩ kỹ rồi mới ra mặt.",
+      "cast": "qv,qm,qg,qc,tc",
+      "ch": [
+        {
+          "t": "Dò hỏi kỹ chi tiết vụ việc qua người quen ở hầu phủ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô biết đúng sự thật: Tụng ép trước, Mộ Dao đẩy sau. Hai bên đều sai nhưng nghiêng về hầu phủ.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            },
+            "f": "biet_vu_ngan"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Người quen kể thiên lệch về hầu phủ. Cô phải kiểm lại bằng nguồn khác mất một ngày.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Cho người đưa lễ xin lỗi, nhưng không nhận bồi thường thay Mộ Dao",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hầu phủ nhận lễ xin lỗi với vẻ hơi nể. Họ biết Tư Vi không dễ ép.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hầu phủ đòi thêm, nói cô nhỏ nhen. Cô đành tiếp chuyện đến khuya.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Để cha và Mộ Dao tự đối phó với hầu phủ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cha sốt ruột tới mức cãi nhau với Diêu di nương vọng cả phủ. Cô thản nhiên đứng ngoài.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cha ép cô ra mặt thay Mộ Dao, nói «không thì cắt tiền viện». Cô phải khéo từ chối.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Tuần sau, sân hầu phủ Giang. Giang Tụng ép Mộ Dao đi cùng; Mộ Dao đẩy hắn ngã xuống bậc đá khiến đan điền hắn vỡ, hầu phủ đòi Phù gia bồi thường.",
+      "no": 26
+    },
+    {
+      "id": "q27",
+      "scene": "vyard",
+      "place": "Viện của Tư Vi · Trưa hôm sau",
+      "kind": "chon",
+      "title": "Cha đòi cô thay Mộ Dao",
+      "text": "Trưa hôm sau, cha cô và Diêu di nương (lén từ trang viên về) đến viện, cầu cô sang hầu phủ luyện đan năm năm để đền cho vụ Mộ Dao. Diêu di nương quỳ khóc ngay giữa sân. Tư Vi từ chối. Cô nhờ hộ vệ Thanh quân đưa cả hai ra khỏi sân. Cô phải chọn tự mình ra tay hay để hộ vệ làm.",
+      "tieu": "Hộ vệ là lá chắn của ngươi, dùng không sao. Nhưng nhớ ai đang quỳ trước mặt, mọi người đang nhìn.",
+      "cast": "qv,qc,qd,tc",
+      "ch": [
+        {
+          "t": "Tự mình ra mặt, nói rõ lý do từ chối",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nói gọn ba câu, không cao giọng. Diêu di nương nghẹn khóc không đáp được. Cha cô quay đi, thôi.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 2
+            },
+            "f": "tu_ra_tay"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Diêu di nương lăn ra đất, ôm chân cô khóc. Hộ vệ phải can, cảnh tượng khó coi.",
+            "d": {
+              "hao": -1,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Để hộ vệ lễ phép tiễn hai người ra khỏi sân",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hộ vệ làm đúng phép, hai người không kịp phản ứng. Cô ngồi yên, tay vẫn đều đều pha trà.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 2
+            },
+            "f": "ho_ve_ra_tay"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hộ vệ ra tay hơi mạnh, Diêu di nương la lối. Tiếng đồn lại nổi lên: Tư Vi bất hiếu.",
+            "d": {
+              "hao": -1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Đưa bản sao quyền tự định hôn sự cho cha xem rồi mời ông rời",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ông đọc, mặt biến sắc. Không nói gì thêm, ông kéo Diêu di nương đứng dậy. Lần đầu cô thấy ông không dám quát.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 2
+            },
+            "f": "ho_ve_ra_tay"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Ông không đọc, hất bản sao xuống đất, quát tháo. Hộ vệ phải đưa ông ra, cô thấy nghẹn.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Trưa hôm sau, viện của Tư Vi. Cha và Diêu di nương (lén từ trang viên về) cầu cô sang hầu phủ luyện đan năm năm thay Mộ Dao.",
+      "no": 27
+    },
+    {
+      "id": "q28",
+      "scene": "gpalace",
+      "place": "Hoàng cung · Chiều",
+      "kind": "duyen",
+      "title": "Vào cung ở",
+      "text": "Chiều, Hiên Dật mời Tư Vi vào cung ở vài hôm cho thanh tĩnh. Hoàng đế Doãn Vĩnh Trác kể rõ hoàn cảnh nhà Phù cho em trai hiểu thêm. Đại tổng quản Nghiêm Nguyên đứng hầu bên cạnh, ánh mắt lặng lẽ. Tư Vi bày trận phòng thủ quanh viện trong cung. Hiên Dật ngồi canh ngoài cửa mỗi tối, không nói gì.",
+      "tieu": "Cung là chỗ an toàn nhất, nhưng trận thì tự bày vẫn hơn. Hiên Dật canh cửa mỗi tối đấy, ghi nhớ.",
+      "cast": "qv,qh,qt,qn,tc",
+      "ch": [
+        {
+          "t": "Bày trận phòng thủ ba tầng quanh viện, tính từng nhịp trận nhãn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Trận thành vững như bức tường. Cô ngủ một giấc dài đầu tiên sau nhiều ngày.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 4
+            },
+            "f": "tran_phong_thu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Một trận nhãn nghiêng nhẹ, cô phải sửa lại hai lần. Đêm đó cô vẫn thức nửa chừng.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "tran_phong_thu"
+          }
+        },
+        {
+          "t": "Mời Hiên Dật vào trong ngồi, đừng canh ngoài cửa lạnh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngồi xuống ghế, tay cầm tách trà cô rót. Hắn không nói gì, nhưng thở ra như người vừa đặt gánh.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn từ chối: «Ngồi đây là được.» Cô thấy khoảng cách vẫn còn y nguyên.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Nghe hoàng đế kể thêm về Hiên Dật hồi nhỏ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hoàng đế kể hắn từng nhốt mình trong phòng cả tháng để tu luyện, mặc cho ai gọi. Cô hiểu thêm chấp niệm của hắn.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "biet_chap_niem"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hoàng đế kể dở rồi bị gọi đi việc. Cô chỉ nghe nửa câu chuyện.",
+            "d": {
+              "hao": 0
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, hoàng cung. Hiên Dật mời Tư Vi ở vài hôm cho thanh tĩnh; hoàng đế và đại tổng quản Nghiêm Nguyên có mặt.",
+      "learn": {
+        "n": "Bố trận phòng thủ",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 28
+    },
+    {
+      "id": "q29",
+      "scene": "gbanquet",
+      "place": "Bữa tối trong cung · Hôm sau",
+      "kind": "duyen",
+      "title": "Chữa vết thương cũ cho đại tổng quản",
+      "text": "Bữa tối hôm sau, đại tổng quản Nghiêm Nguyên ngồi cạnh, thỉnh thoảng đưa tay xoa bụng dưới. Hoàng đế nói ông mang vết thương cũ ở đan điền từ lần chắn đao cho ông. Tư Vi nói cô có thể chữa. Hoàng đế hứa đáp mọi yêu cầu của cô. Cô chỉ nhờ họ giúp loan tin sau khi thành công. Nghiêm Nguyên bình phục, được phong tước.",
+      "tieu": "Đan điền bị vỡ cũ là khó chữa nhất. Ngươi tự tin thì cứ làm, nhưng phải cẩn thận từng bước.",
+      "cast": "qv,qt,qn,qh,tc",
+      "ch": [
+        {
+          "t": "Dùng đan Dưỡng Hồn và châm linh khí từng đợt mỗi ngày",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sau bảy ngày, đan điền cũ liền lại. Nghiêm Nguyên quỳ xuống tạ, cô vội đỡ. Cả cung đều biết.",
+            "d": {
+              "ac": -4,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "chua_nguyen"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bảy ngày trôi qua mà chưa hiệu quả. Cô điều chỉnh liều và kéo dài thêm ba ngày mới xong.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -3
+            },
+            "f": "chua_nguyen"
+          }
+        },
+        {
+          "t": "Nhờ Hiên Dật hộ pháp, tự tay chữa trong một đêm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiên Dật đứng gác ngoài cửa suốt đêm. Sáng ra, Nghiêm Nguyên tỉnh dậy, đan điền đã lành. Hiên Dật chạm khẽ vào tay áo cô.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "chua_nguyen"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Giữa đêm cô hơi kiệt sức, phải nghỉ nửa canh giờ. Chữa được nhưng cô mệt rã người.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -4
+            },
+            "f": "chua_nguyen"
+          }
+        },
+        {
+          "t": "Nói rõ chỉ xin hoàng đế giúp loan tin, không xin chức tước hay lợi lộc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hoàng đế ngạc nhiên rồi mỉm cười. Danh tiếng của cô lan khắp triều mà không dính một mảy tham lam.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hoàng đế hơi chưng hửng vì cô quá thanh đạm. Nhưng ông vẫn giữ lời.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Bữa tối hôm sau, trong cung. Nghiêm Nguyên mang vết thương cũ ở đan điền vì chắn đao cho hoàng đế; Tư Vi nói có thể chữa.",
+      "no": 29
+    },
+    {
+      "id": "q30",
+      "scene": "gpalace",
+      "place": "Hoàng cung · Sáng",
+      "kind": "chon",
+      "title": "Mẹ cầu cô cứu hầu phủ",
+      "text": "Sáng, Hạ Vân Khanh lần đầu vào cung vì hầu phủ chặn hết mọi đường. Bà bảo cô cứu Giang Tụng để giữ tiếng cho nhà. Tư Vi đáp: «Muốn tôi giúp thì cầu tôi.» Mẹ bỏ đi, mắng cô bất hiếu. Hiên Dật đứng cạnh đỡ lời, rồi không nói thêm.",
+      "tieu": "Mẹ ngươi chỉ đến khi cần. Nhưng bà vẫn là mẹ. Quyết định thế nào là chuyện của ngươi.",
+      "cast": "qv,qk,qh,tc",
+      "ch": [
+        {
+          "t": "Nhắc lại: «Con sẵn lòng giúp nếu mẹ đưa ra điều kiện công bằng»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mẹ lặng thinh, rồi thở dài. Bà đi, nhưng bước chân chậm hơn so với lúc đến.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "me_nghe"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Mẹ nghe thành lời trách móc, càng giận hơn. Cô thấy tim nặng như đá.",
+            "d": {
+              "hao": 0,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Im lặng nhìn mẹ, rồi cúi chào như một người xa lạ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mẹ sững lại một thoáng. Cô tự nhủ đó là cú đau cuối cùng của nguyên chủ.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Mẹ cho đó là sự khinh miệt, mắng thêm vài câu trước cung nhân. Cô nghẹn giọng, lui vào.",
+            "d": {
+              "hao": -1,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Quay sang Hiên Dật, hỏi hắn vừa định nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nói: «Ta chỉ muốn nói ta tin cô.» Câu nói nhỏ nhưng làm cô thấy ấm hơn lời mẹ mắng.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 5,
+              "sinh": 1
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn lúng túng, nói loanh quanh. Cô nhận ra hắn chưa biết cách nói cho vừa lòng.",
+            "d": {
+              "hao": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, hoàng cung. Hạ Vân Khanh vào cung cầu Tư Vi cứu Giang Tụng; cô đáp muốn giúp thì phải cầu cô, mẹ bỏ đi và Hiên Dật đỡ lời.",
+      "no": 30
+    },
+    {
+      "id": "q31",
+      "scene": "gwall",
+      "place": "Cổng cung · Chiều",
+      "kind": "chon",
+      "title": "Hầu phu nhân quỳ cửa cung",
+      "text": "Chiều, hầu phu nhân dẫn nữ quyến quỳ giữa nắng trước cổng cung, dân phố vây xem. Bà nói cô muốn gì cũng chịu. Tư Vi ra điều kiện: hầu phủ công khai tội trạng và trả khế thân cho các thị nữ bị giữ. Bà từ chối, bỏ đi. Cô quyết không chữa cho Giang Tụng.",
+      "tieu": "Điều kiện của ngươi công bằng. Họ không nhận thì đành thôi. Đừng mềm lòng.",
+      "cast": "qv,qg,tc",
+      "ch": [
+        {
+          "t": "Đứng trên bậc thềm cung, nêu rõ hai điều kiện trước dân chúng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dân chúng lặng nghe, rồi có tiếng đồng tình. Hầu phu nhân tái mặt, bỏ đi trong im lặng.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4
+            },
+            "f": "dieu_kien"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Giọng cô lẫn trong tiếng ồn, nhiều người nghe không rõ. Hầu phu nhân nhân cơ hội kêu ca.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Nghiêm Nguyên tiếp đón nữ quyến vào trong nghỉ mát, nói chuyện riêng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Trong phòng riêng, cô nói rõ từng điều. Hầu phu nhân biết cô không nói đùa, nhưng vẫn không chịu.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3
+            },
+            "f": "dieu_kien"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cuộc nói chuyện riêng lại thành màn than khóc, cô thấy mệt mà không tiến triển.",
+            "d": {
+              "hao": 0,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Quay về viện, để dân phố tự thấy rồi phán xét",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tin lan nhanh. Tối đó cả kinh thành bàn tán về hầu phủ bắt thị nữ làm tôi tớ trọn đời.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tin đồn lan lệch lạc, có kẻ bảo cô tàn nhẫn. Cô đành chờ nó nguội.",
+            "d": {
+              "hao": -1,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, cổng cung. Hầu phu nhân dẫn nữ quyến quỳ giữa nắng; Tư Vi ra điều kiện hầu phủ công khai tội trạng và trả khế thân cho thị nữ.",
+      "no": 31
+    },
+    {
+      "id": "q32",
+      "scene": "ggarden",
+      "place": "Sân trong cung · Cùng chiều",
+      "kind": "chon",
+      "title": "«Ta sẽ cố gắng»",
+      "text": "Cùng chiều, sau khi hầu phu nhân đi, Hiên Dật nắm tay Tư Vi trong sân cung. Hắn nói hắn thích cô và xin hôn ước lại. Cô đáp: «Ngoan, đừng lòng tham.» Hắn không giận, chỉ hứa cố gắng mỗi ngày và không ép. Tay hắn run, nhưng giọng hắn vững.",
+      "tieu": "Hắn nói là hắn sẽ không ép. Ngươi không cần trả lời gấp, nhưng đừng đẩy hắn đi quá xa.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Để yên tay trong tay hắn một lúc rồi rút lại nhẹ nhàng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn không nói, chỉ nắm tay cô thêm một nhịp. Cô nghe được nhịp tim rất nhanh ở bàn tay hắn.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 6
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô rút tay hơi vội, hắn thoáng buồn rồi giấu đi. Cô thấy lòng nặng một chút.",
+            "d": {
+              "hao": 1,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Hỏi hắn: «Ngươi định cố gắng thế nào?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghĩ lâu rồi đáp: «Ta sẽ không trốn nữa.» Câu đơn giản ấy chạm vào nỗi đau cũ của nguyên chủ.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 7
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn không biết đáp, nghẹn một lúc rồi nói: «Ta chưa nghĩ ra.» Cô thấy hơi tiếc.",
+            "d": {
+              "hao": 1,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Nói: «Ta không hứa gì, nhưng ta không ghét ngươi»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bật cười, rất khẽ, mắt đỏ. «Thế là đủ.» Hắn mang nụ cười ấy về cung suốt cả đêm.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 6
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Câu nói làm hắn lúng túng, đánh rơi chén trà. Cô cười thầm, nhưng hắn thì đỏ mặt.",
+            "d": {
+              "hao": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng chiều, sân cung. Hiên Dật nắm tay Tư Vi, xin hôn ước lại; cô đáp «ngoan, đừng lòng tham» và hắn hứa cố gắng mỗi ngày mà không ép.",
+      "no": 32
+    },
+    {
+      "id": "q33",
+      "scene": "gtown",
+      "place": "Cổng thành Ninh An · Hai tháng sau",
+      "kind": "duyen",
+      "title": "Rời cung đi rèn luyện",
+      "text": "Hai tháng sau, Tư Vi đứng ở cổng thành Ninh An, chuẩn bị lên đường đi tìm cơ duyên vốn thuộc về nguyên chủ. Hiên Dật xin đi cùng, hắn nói không ép, chỉ muốn hộ tống. Tiểu Châu tóm tắt mười năm sau: hai người đi hết các bí cảnh, thu hết cơ duyên của nguyên chủ, cô lên Thanh Vương, Mộ Dao theo sau nhưng luôn chậm một bước.",
+      "tieu": "Mười năm ngắn lắm. Có hắn đi cùng thì cũng đỡ vất vả. Học cách đọc địa mạch đi, nó dẫn đường tốt nhất.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Nhận lời cho Hiên Dật đi cùng, chia đều mọi cơ duyên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn mừng đến nỗi không nói được. Từ đó hai người cùng nhau đi qua mọi bí cảnh, và hắn luôn nhường cô lên trước.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 6,
+              "sinh": 3
+            },
+            "f": "di_cung"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn chia lệch phần của mình sang phần cô nhiều quá. Cô phải nhắc ba lần mới chịu chia đều.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "di_cung"
+          }
+        },
+        {
+          "t": "Học Tiểu Châu cách đọc địa mạch để tìm cơ duyên chính xác",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Địa mạch hiện ra như dòng sông trong đầu cô. Cô dẫn đường, hắn che chở. Họ không đi một bước oan.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 4
+            },
+            "f": "doc_dia_mach"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô đọc sai hai mạch, đi vòng một tuần. Hắn không trách, chỉ cười: «Đi chậm cũng tốt.»",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "doc_dia_mach"
+          }
+        },
+        {
+          "t": "Hẹn đi riêng từng chặng, gặp nhau ở cổng bí cảnh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người tách ra rồi hội ngộ ở mỗi cổng bí cảnh. Cô nhận ra hắn luôn đến sớm một ngày để chờ.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "sinh": 3
+            },
+            "f": "di_cung"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn lạc đường hai lần, cô phải quay lại tìm. Chuyến đi chậm mất nửa năm.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            },
+            "f": "di_cung"
+          }
+        }
+      ],
+      "ctx": "Hai tháng sau, cổng thành Ninh An. Tư Vi lên đường rèn luyện và Hiên Dật xin đi cùng; Tiểu Châu tóm tắt mười năm.",
+      "learn": {
+        "n": "Đọc địa mạch",
+        "s": "van",
+        "v": 1
+      },
+      "no": 33
+    },
+    {
+      "id": "q34",
+      "scene": "rhill",
+      "place": "Giữa đường rèn luyện · Một ngày nọ",
+      "kind": "chon",
+      "title": "Linh Lung bỏ trốn",
+      "text": "Giữa đường rèn luyện, một lá thư từ kinh thành đến: Mộ Dao vu cáo Hạ Linh Lung trộm đan, khiến danh tiếng nàng sụp đổ. Linh Lung bỏ trốn khỏi kinh thành, thề báo thù. Hiên Dật âm thầm cho người xóa dấu vết để cả Hạ gia lẫn Mộ Dao không tìm thấy nàng. Tư Vi nghe tin, phải chọn để nàng tự lớn lên hay gửi lời nhắn.",
+      "tieu": "Linh Lung là người vô tội bị kéo vào. Hiên Dật xóa dấu vết là việc tốt, đừng quên cảm ơn hắn.",
+      "cast": "qv,qh,ql,qm,tc",
+      "ch": [
+        {
+          "t": "Để Linh Lung tự lớn lên, không can thiệp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tin Linh Lung đủ mạnh để vượt qua. Sau nhiều năm, nàng sẽ quay lại với tư cách khác.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3
+            },
+            "f": "ll_tu_lon"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô lo đến mức mất ngủ vài đêm, nhưng vẫn giữ quyết định của mình.",
+            "d": {
+              "hao": 0,
+              "sinh": -2
+            },
+            "f": "ll_tu_lon"
+          }
+        },
+        {
+          "t": "Nhờ Hiên Dật chuyển một lời nhắn: «Có một nơi để về khi cô muốn»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiên Dật nhận lời, im lặng lo liệu. Một năm sau, họ nhận được thư ngắn từ Linh Lung: «Cảm ơn.»",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "ll_nhan_tin"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Lời nhắn đến muộn, Linh Lung đã đi xa. Cô thấy tiếc nhưng vẫn giữ ý định.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            },
+            "f": "ll_nhan_tin"
+          }
+        },
+        {
+          "t": "Cảm ơn Hiên Dật vì đã giúp Linh Lung trước khi cô kịp nhờ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhún vai: «Ta chỉ không muốn có thêm người bị Mộ Dao hại.» Cô nhận ra hắn đang học thế nào là bù đắp.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn ngượng, nói «không có gì» rồi lảng chuyện. Cô để yên, nhưng nhớ mãi.",
+            "d": {
+              "hao": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Giữa đường rèn luyện. Tin từ kinh thành: Mộ Dao vu cáo Linh Lung trộm đan, nàng bỏ trốn khỏi kinh thành và Hiên Dật âm thầm xóa dấu vết.",
+      "no": 34
+    },
+    {
+      "id": "q35",
+      "scene": "rcave",
+      "place": "Hang trứng phượng hoàng · Mười năm sau",
+      "kind": "hiem",
+      "title": "Hang trứng phượng hoàng",
+      "text": "Mười năm sau, trên đường rèn luyện, hai người tới hang cổ nơi giấu trứng phượng hoàng. Mộ Dao dẫn Cảnh Dục tới vì biết trước. Nhưng Tư Vi đã đến trước, nướng ăn một quả trứng thường giống hệt, còn quả trứng thật cô đã giao cho Hiên Dật khế ước. Mộ Dao hét lên rằng đó là thần thú.",
+      "tieu": "Mộ Dao biết trước cơ duyên, nhưng ngươi tới trước. Đây là lúc ngươi nói rõ với hắn mọi điều.",
+      "cast": "qv,qh,qm,qs,tc",
+      "ch": [
+        {
+          "t": "Chặn Mộ Dao ngoài cửa hang, không cho nàng vào",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô dựng một vòng trận chặn cửa hang. Mộ Dao la hét, nhưng Cảnh Dục không đủ sức phá. Trứng thật đã ở trong tay Hiên Dật.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "giu_trung"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Mộ Dao lách qua kẽ trận, lao vào hang. Hiên Dật phải đẩy nàng ra, cô bị vạ lây.",
+            "d": {
+              "hao": 1,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Giao trứng thật cho Hiên Dật khế ước ngay trước mắt Mộ Dao",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hiên Dật nhận trứng, trứng nở ra một con phượng nhỏ đậu trên vai hắn. Mộ Dao sững người, mặt tái nhợt.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "giu_trung"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Khế ước bị gián đoạn vì tiếng la hét của Mộ Dao. Hắn phải khế ước lại, mất mười lăm phút.",
+            "d": {
+              "hao": 2,
+              "sinh": -2
+            },
+            "f": "giu_trung"
+          }
+        },
+        {
+          "t": "Rút lui khỏi hang, để Mộ Dao và Cảnh Dục tìm hoài trong hang trống",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người lục tung hang, chỉ thấy vỏ trứng cũ. Mộ Dao hét lên giận dữ, nhưng cô và Hiên Dật đã đi xa.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": 3
+            },
+            "f": "giu_trung"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Mộ Dao đuổi theo, mắt đỏ ngầu. Cô phải liều chạy mới thoát.",
+            "d": {
+              "hao": 1,
+              "sinh": -5
+            }
+          }
+        }
+      ],
+      "ctx": "Mười năm sau, hang trứng phượng hoàng. Mộ Dao dẫn Cảnh Dục tới vì biết trước, nhưng Tư Vi đã đến trước và đưa quả trứng thật cho Hiên Dật khế ước.",
+      "no": 35
+    },
+    {
+      "id": "q36",
+      "scene": "rcave",
+      "place": "Cuối hang · Ngay sau đó",
+      "kind": "nan",
+      "title": "Lời nguyền của Mộ Dao",
+      "text": "Cuối hang, Mộ Dao mất lý trí. Nàng hét lên rằng nếu không có nàng, hắn sẽ không bao giờ nhìn cô; chính nàng đã đưa nguyên chủ đến chỗ này. Hiên Dật nghe rõ từng chữ và hiểu ra mình đã khiến nguyên chủ đuổi theo mười năm. Hối hận chồng lên hối hận, đôi mắt hắn đỏ lên. Cảnh Dục đánh ngất Mộ Dao mang đi.",
+      "tieu": "Đây là mốc nặng. Hắn đang vỡ ra trước mắt ngươi. Hãy ở lại bên cạnh hắn và nói thật cho khéo.",
+      "cast": "qv,qh,qm,qs,tc",
+      "ch": [
+        {
+          "t": "Nắm tay hắn thật chặt, nói: «Chuyện cũ không còn là lỗi của một mình ngươi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng như người hóa đá, rồi hơi thở dịu đi. Cô giữ tay hắn đến khi mắt hắn bớt đỏ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": -2
+            },
+            "f": "giu_hd"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Hắn quay mặt đi, siết tay thật mạnh. Cô nhận ra lời nói không đủ nhưng vẫn ở lại.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -4
+            },
+            "f": "giu_hd"
+          }
+        },
+        {
+          "t": "Cho hắn im lặng, ngồi cạnh bên canh giữ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn ngồi cả đêm không nói, nhưng đôi vai hắn dần thôi run. Sáng ra hắn nhìn cô và gật đầu.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": -1
+            },
+            "f": "giu_hd"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn tự nhốt mình vào một góc hang không chịu nhìn cô. Cô không dám động đến.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng với hắn: «Ngươi có lỗi, nhưng ngươi đã sửa mười năm rồi»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe xong, mắt sáng hẳn, rồi cúi đầu thật sâu. «Cảm ơn cô.» Lần đầu hắn thật sự để cô thấy nước mắt.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": -2
+            },
+            "f": "giu_hd"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn nghe thấy từng chữ nhưng không chịu thừa nhận mình đã sửa. Cô thấy lòng nặng trĩu.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -3
+            },
+            "f": "giu_hd"
+          }
+        }
+      ],
+      "ctx": "Cuối hang, ngay sau đó. Mộ Dao mất lý trí và hét lên chuyện trọng sinh; Hiên Dật nghe rõ và hối hận sâu hơn. Cảnh Dục đánh ngất Mộ Dao mang đi.",
+      "forced": 1,
+      "no": 36
+    },
+    {
+      "id": "q37",
+      "scene": "rfire",
+      "place": "Hang · Đêm đó",
+      "kind": "chon",
+      "title": "Lời thề của hắn",
+      "text": "Đêm đó, trong hang, Hiên Dật ôm Tư Vi rất khẽ. Hắn thề sẽ không bao giờ ép hôn, chỉ canh giữ bên cô. Tiểu Châu nhắc: thọ mệnh của nguyên chủ còn không quá năm trăm năm. Cô phải chọn tin ngay lời thề hay hỏi thêm cho rõ.",
+      "tieu": "Hắn thề thật lòng. Nhưng thọ mệnh của ngươi vẫn là chuyện hắn chưa biết. Hãy nghĩ lúc nào nói.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Tin ngay lời thề, tựa đầu vào vai hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngồi im, thở rất nhẹ như sợ làm cô thức. Đó là đêm cô ngủ yên nhất kể từ lúc tới thế giới này.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 7,
+              "sinh": 3
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô tựa hơi sớm, hắn giật mình làm đổ đống củi. Cả hai bật cười nhưng chưa đủ yên.",
+            "d": {
+              "ac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          }
+        },
+        {
+          "t": "Hỏi thêm: «Ngươi định giữ lời thề ấy bao lâu?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đáp: «Đến khi ta không còn thở.» Lời đơn giản, nhưng cô nghe ra cả chấp niệm của hắn.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "hoi_them"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn không hiểu ý, hỏi lại: «Ý cô là sao?» Cô đành bỏ qua, giữ trong lòng.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Im lặng ôm lại hắn, để lời thề lặng lẽ qua đêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người không nói gì thêm. Củi cháy lách tách, trời sáng lúc nào không hay.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 3
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô thiếp đi, đến sáng thì lạnh. Hắn đã gác củi suốt đêm, không ngủ.",
+            "d": {
+              "hao": 2,
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm đó, trong hang. Hiên Dật ôm Tư Vi, thề không bao giờ ép hôn; Tiểu Châu nhắc thọ mệnh nguyên chủ còn không quá năm trăm năm.",
+      "no": 37
+    },
+    {
+      "id": "q38",
+      "scene": "gtemple",
+      "place": "Từ đường Phù thị · Một ngày thu",
+      "kind": "duyen",
+      "title": "Về kinh, trả ơn tông tộc",
+      "text": "Một ngày thu, Tư Vi đã là Thanh Vương, cùng Hiên Dật về từ đường Phù thị. Cô trao tộc trưởng một chiếc nhẫn chứa đan dược và tâm đắc luyện đan, dặn không để lọt vào tay cha hay mẹ. Nghe tin: cha bị cách chức gia chủ, Mộ Dao sa sút, Diêu di nương già yếu ở trang viên. Cô nhận ra mình không còn giận nữa.",
+      "tieu": "Họ đã nhận quả của mình. Ngươi không cần làm gì thêm. Nhẫn này sẽ giúp tông tộc sống tốt hơn.",
+      "cast": "qv,qh,qz,qc,qm,qd,tc",
+      "ch": [
+        {
+          "t": "Trao nhẫn và dặn tộc trưởng chia đan cho cả nhà, trừ hai người nhắc đến",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tộc trưởng cúi đầu nhận, mắt đỏ. Cô thấy lòng nhẹ hẳn như cất đi một gánh đá.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 3
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Tộc trưởng từ chối vài lần vì lễ nghi, cô phải khuyên mãi mới nhận.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ tộc trưởng chăm nom Diêu di nương cho đủ ăn ở, đừng hành hạ bà",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tộc trưởng gật đầu: «Tộc ta không làm chuyện đó.» Hiên Dật nhìn cô, hiểu cô đã buông xong chuyện cũ.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "buong_xong"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Tộc trưởng nhíu mày vì thấy cô quá khoan dung. Nhưng ông vẫn ghi nhớ lời cô.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Đứng trước từ đường lặng lẽ thắp nén hương cho nguyên chủ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Khói hương bay thẳng lên trời. Cô thì thầm: «Ta đã sống thay ngươi, sống tốt hơn ngươi mong.»",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 4
+            },
+            "f": "buong_xong"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Gió thổi tắt nén hương. Cô thắp lại hai lần, lòng hơi bồn chồn.",
+            "d": {
+              "hao": 0,
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "ctx": "Một ngày thu, từ đường Phù thị. Tư Vi đã là Thanh Vương, cùng Hiên Dật về trao nhẫn đan dược cho tộc trưởng; cha bị cách chức, Mộ Dao sa sút.",
+      "no": 38
+    },
+    {
+      "id": "q39",
+      "scene": "rtop",
+      "place": "Đại lục · Năm trăm năm sau",
+      "kind": "nan",
+      "title": "Năm trăm năm",
+      "text": "Tiểu Châu tóm tắt năm trăm năm trôi qua: hai người đi hết đại lục và mọi bí cảnh. Tư Vi lên Thanh Đế viên mãn, nhưng Hiên Dật chỉ ở Thanh Đế hậu kỳ, tu vi đứng yên mấy trăm năm. Cô nhận ra thọ mệnh nguyên chủ chỉ còn mười năm, mà hắn vẫn chưa biết.",
+      "tieu": "Năm trăm năm trôi qua rồi. Đã đến lúc cho hắn biết sự thật. Bình tĩnh nghĩ cách nói.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Ngồi một mình nghĩ cách nói, nhờ Tiểu Châu chỉ chỗ nên dừng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô sắp xếp lời nói thành ba câu ngắn. Tiểu Châu bảo: «Đủ rồi.» Cô thấy yên tâm.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 2
+            },
+            "f": "chuan_bi_noi"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nghĩ quá nhiều, mất ngủ ba đêm. Lời cô chuẩn bị bị rối mất một phần.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Hỏi thẳng Hiên Dật vì sao tu vi của hắn đứng yên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn lặng im thật lâu, rồi nói: «Ta chưa muốn rời cô.» Cô hiểu ra chấp niệm của hắn.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "biet_chap_niem"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn lảng đi: «Chuyện nhỏ thôi.» Cô biết hắn nói dối, nhưng chưa dám hỏi sâu.",
+            "d": {
+              "hao": 0,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Cùng hắn đi dạo một vòng cuối quanh các bí cảnh cũ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người đứng trước từng bí cảnh cũ, kể lại những lần suýt chết. Cô nghe hắn cười lần đầu tiên sau nhiều thập kỷ.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "sinh": 3
+            },
+            "f": "hd_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cơn mưa ập xuống giữa đường, hai người chạy mỗi người một hướng. Chuyến đi dạo bị phá bĩnh.",
+            "d": {
+              "hao": 1,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Năm trăm năm sau, đại lục. Tiểu Châu tóm tắt: Tư Vi đã lên Thanh Đế viên mãn, Hiên Dật chỉ ở Thanh Đế hậu kỳ, và cô nhận ra thọ mệnh nguyên chủ chỉ còn mười năm.",
+      "no": 39
+    },
+    {
+      "id": "q40",
+      "scene": "rtop",
+      "place": "Đỉnh núi · Một buổi chiều",
+      "kind": "nan",
+      "title": "Mười năm còn lại",
+      "text": "Trên đỉnh núi, một buổi chiều, Hiên Dật hỏi vì sao cô trầm xuống. Tư Vi nói thẳng: thọ nguyên của cô chỉ còn mười năm. Hắn nghe xong, im lặng thật lâu, rồi kể ra chấp niệm: hắn sợ tu luyện nhanh sẽ phải xé hư không rời đi và để cô lại. Đôi mắt hắn đỏ lên, hơi thở trở nên dồn dập.",
+      "tieu": "Mốc này là cú đánh mạnh. Hắn không phải giận ngươi, hắn sợ. Đừng bỏ tay hắn.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Nắm tay hắn, nói thật rằng mình cũng không muốn rời hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn cô, mắt đỏ nhưng ánh lên chút sáng. Gió trên đỉnh núi thổi qua, nhẹ hơn nhiều so với lúc nãy.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": -2
+            },
+            "f": "noi_thang"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Hắn nghe mà lòng càng rối, không biết đáp sao. Cô ôm hắn cho tới khi tim hắn bớt đập loạn.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -4
+            },
+            "f": "noi_thang"
+          }
+        },
+        {
+          "t": "Cùng hắn nhìn mặt trời lặn, không nói gì cho tới khi hắn lên tiếng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn lên tiếng sau cả canh giờ: «Cho ta nghĩ cách.» Cô gật, và thấy bờ vai hắn buông xuống.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": -1
+            },
+            "f": "noi_thang"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Mặt trời lặn, hắn vẫn im, tay siết chặt chuôi kiếm. Cô thấy mình không giúp được gì.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Hỏi hắn: «Ngươi muốn gì? Nói đi, ta nghe»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nói liền một tràng về mong muốn, nỗi sợ, tất cả những gì chưa dám nói trong năm trăm năm. Cô lắng nghe từng chữ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": -2
+            },
+            "f": "noi_thang"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hắn không nói được hết, giọng nghẹn. Cô đành để hắn im lặng, ở cạnh hắn.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -3
+            },
+            "f": "noi_thang"
+          }
+        }
+      ],
+      "ctx": "Đỉnh núi, một buổi chiều. Tư Vi nói thọ nguyên chỉ còn mười năm; Hiên Dật kể chấp niệm sợ tu luyện nhanh sẽ phải xé hư không rời cô.",
+      "forced": 1,
+      "no": 40
+    },
+    {
+      "id": "q41",
+      "scene": "rtop",
+      "place": "Đỉnh núi · Ngay sau đó",
+      "kind": "chon",
+      "title": "Lời hứa cùng xé hư không",
+      "text": "Cùng đỉnh núi, ngay sau đó, Tư Vi nghĩ tới lời hứa cần cho hắn một lối ra. Cô nói: nếu hắn cùng cô xé hư không và tới một thế giới mới, hai người sẽ thành thân. Hắn bừng sáng, nguyên khí cuồn cuộn đổ vào người hắn. Cô phải chọn: giữ nguyên lời hứa, hay nói rõ quy tắc rời thế giới của Tiểu Châu.",
+      "tieu": "Đó chỉ là lời hứa, chưa thành thân thật. Nói rõ hay giữ nguyên là tùy ngươi, nhưng đừng để hắn hiểu sai.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Giữ nguyên lời hứa, thêm một câu: «Ta nhớ rất lâu»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nắm tay cô, cười như trẻ con. Tu vi hắn nhích lên một bậc ngay trong đêm.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 7,
+              "sinh": 2
+            },
+            "f": "loi_hua_xe"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn quá mừng, nói vấp vài lần rồi ngượng. Nhưng ánh mắt hắn vẫn sáng như đèn.",
+            "d": {
+              "ac": -1,
+              "hao": 3,
+              "sinh": 1
+            },
+            "f": "loi_hua_xe"
+          }
+        },
+        {
+          "t": "Nói rõ quy tắc: Tiểu Châu chỉ cho ta đi tới thế giới kế, không chắc ta nhớ hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe xong im lặng, rồi nói: «Ta sẽ tìm cô, dù cô không nhớ.» Câu trả lời khiến cô nghẹn.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 8,
+              "sinh": -1
+            },
+            "f": "noi_ro_quy_tac"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Hắn nghe xong tái mặt, không tin. Cô phải giải thích thêm ba lần, mệt cả hai.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -4
+            },
+            "f": "noi_ro_quy_tac"
+          }
+        },
+        {
+          "t": "Chỉ cười và gật, để lời hứa tự lớn lên theo năm tháng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn ôm cô thật nhẹ, không hỏi gì thêm. Đêm đó mười năm còn lại bắt đầu có ý nghĩa mới.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "loi_hua_xe"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn tưởng cô chưa nghiêm túc, hơi buồn. Cô phải nhắc lại một lần nữa mới yên.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            },
+            "f": "loi_hua_xe"
+          }
+        }
+      ],
+      "ctx": "Cùng đỉnh núi, ngay sau đó. Tư Vi hứa nếu hắn cùng cô xé hư không đến thế giới mới thì hai người sẽ thành thân; hắn bừng sáng, nguyên khí đổ vào người hắn.",
+      "no": 41
+    },
+    {
+      "id": "q42",
+      "scene": "gwall",
+      "place": "Đại lục · Mười năm cuối",
+      "kind": "hiem",
+      "title": "Chuẩn bị ngày xé hư không",
+      "text": "Mười năm cuối, Tư Vi sắp xếp tông tộc và những người thân tín, dặn Hiên Dật mọi điều cần nhớ. Hiên Dật đã tăng tu vi lên Thanh Đế đỉnh kỳ. Nhưng Mộ Dao cùng Cảnh Dục lại mò tới, tìm cách phá trận hòng cướp nốt cơ duyên cuối cùng. Cô phải chặn họ trước ngày hẹn.",
+      "tieu": "Họ đến phá ngày trọng đại đấy. Chuẩn bị kỹ trận, đừng khinh địch. Hiên Dật đứng ngay cạnh ngươi.",
+      "cast": "qv,qh,qm,qs,tc",
+      "ch": [
+        {
+          "t": "Bày trận phòng thủ đa tầng, giữ chặt cơ duyên cuối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Trận vững như thành. Mộ Dao và Cảnh Dục loay hoay ngoài vòng trận, rồi bỏ đi trong thất vọng.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 3
+            },
+            "f": "chan_mo_dao"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Một tầng trận bị phá, nhưng cô và Hiên Dật kịp vá. Cuối cùng họ cũng đẩy lùi được hai người.",
+            "d": {
+              "hao": 2,
+              "sinh": -4
+            },
+            "f": "chan_mo_dao"
+          }
+        },
+        {
+          "t": "Nhờ Hiên Dật dẫn tông tộc chặn đường, mình giữ cơ duyên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiên Dật dẫn tông tộc đứng thành vòng người. Mộ Dao nhìn cảnh ấy, hiểu mình không còn đường nào.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "chan_mo_dao"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Vòng người còn lộn xộn, Cảnh Dục lách qua được một lối. Cô phải ra tay giữ cơ duyên.",
+            "d": {
+              "hao": 1,
+              "sinh": -4
+            },
+            "f": "chan_mo_dao"
+          }
+        },
+        {
+          "t": "Gặp riêng Mộ Dao, khuyên nàng dừng tay trước khi quá muộn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mộ Dao lặng người, ánh mắt thoáng lay động. Nàng quay đi, không đáp, nhưng cũng không tấn công nữa.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 1
+            },
+            "f": "chan_mo_dao"
+          },
+          "b": 0.38,
+          "bad": {
+            "x": "Mộ Dao cười gằn, không nghe. Cô phải dùng đến trận mới ngăn nổi nàng, tốn nhiều sức.",
+            "d": {
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "chan_mo_dao"
+          }
+        }
+      ],
+      "ctx": "Mười năm cuối, tông tộc và đại lục. Hiên Dật đã tăng tu vi; Mộ Dao cùng Cảnh Dục mò đến cướp cơ duyên cuối và Tư Vi chặn họ.",
+      "no": 42
+    },
+    {
+      "id": "q43",
+      "scene": "rtop",
+      "place": "Bầu trời nơi mỏng nhất · Ngày hẹn",
+      "kind": "chon",
+      "title": "Ngày xé hư không",
+      "text": "Đến ngày hẹn, ở nơi bầu trời mỏng nhất, Hiên Dật nắm tay Tư Vi. Hai người cùng xé hư không. Lực hút của thế giới mới kéo họ rời nhau, như hai con thuyền bị sóng chia. Cô phải chọn: nắm chặt tay hắn, hay tin vào lời hứa tìm nhau. Hắc hóa của hắn bị giữ ở mức tối đa 99 bởi sức mạnh của lời hứa.",
+      "tieu": "Đây rồi, thời khắc cuối cùng. Dù tách hay nắm tay, hắn sẽ đi tìm ngươi. Chọn cách mà ngươi thấy đúng nhất.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Nắm chặt tay hắn, không buông dù lực kéo mạnh thế nào",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả hai cùng cắn răng giữ chặt. Lực kéo dần yếu đi. Họ rơi qua cánh cổng hư không trong cùng một vòng tay.",
+            "d": {
+              "ac": -5,
+              "hac": -5,
+              "hao": 7,
+              "sinh": -3
+            },
+            "f": "ban_tay"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Tay cô tuột đi nửa chừng, Hiên Dật phải vươn người nắm lại. Cả hai cùng bị kéo vào cổng, đầu óc quay cuồng.",
+            "d": {
+              "ac": -2,
+              "hac": -2,
+              "hao": 3,
+              "sinh": -6
+            },
+            "f": "ban_tay"
+          }
+        },
+        {
+          "t": "Buông nhẹ tay, nói: «Ta sẽ chờ ngươi tìm»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhìn cô, nước mắt rơi ra giữa không trung. «Ta sẽ tìm cô.» Giọng hắn biến mất trong tiếng gió hư không.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 7,
+              "sinh": -2
+            },
+            "f": "loi_tim"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Hắn không chịu buông tay, mãi tới khi lực kéo xé bàn tay cô khỏi tay hắn. Cô thấy nhói tận tim.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -5
+            },
+            "f": "loi_tim"
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu mở đường bằng một dải sáng nhỏ cho cả hai",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Dải sáng mềm ôm lấy hai người, giữ cho tay không rời. Cô nghe tiếng Tiểu Châu: «Cố lên.»",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": -2
+            },
+            "f": "ban_tay"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Dải sáng chập chờn rồi tắt giữa chừng. Cô chỉ còn một tay giữ được hắn, một tay cào vào hư không.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -5
+            },
+            "f": "ban_tay"
+          }
+        }
+      ],
+      "ctx": "Ngày hẹn, nơi bầu trời mỏng nhất. Tư Vi và Hiên Dật cùng xé hư không; lực hút của thế giới mới kéo họ rời nhau.",
+      "no": 43
+    },
+    {
+      "id": "q44",
+      "scene": "gdream",
+      "place": "Thế giới mới · Sau cánh cổng",
+      "kind": "nan",
+      "title": "Cánh cổng bên kia",
+      "text": "Tiểu Châu tóm tắt những gì xảy ra sau đó. Dù tách ra hay nắm tay tới được, Hiên Dật vẫn đang tìm cô. Hắn đi qua từng thành, từng núi, từng bờ sông của thế giới mới, mỗi nơi để lại một dấu phượng hoàng nhỏ. Tư Vi đứng nơi cuối con đường, nghe tiếng chuông bên kia cánh cổng ngân lên.",
+      "tieu": "Đây là mốc cuối: ngươi đã đi cùng hắn một chặng rất dài. Kết cục thế nào, các con số của ngươi sẽ nói.",
+      "cast": "qv,qh,tc",
+      "ch": [
+        {
+          "t": "Nhìn về phía cánh cổng, gọi tên hắn thật khẽ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiếng gọi ấy bay qua cổng, và tiếng chuông đáp lại ngay lập tức. Hắn xuất hiện ở bên kia, thở dốc, mắt đỏ.",
+            "d": {
+              "ac": -5,
+              "hac": -5,
+              "hao": 6,
+              "sinh": -2
+            },
+            "f": "goi_ten"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Giọng cô khẽ quá, gió thổi mất. Cô gọi thêm lần nữa, mỏi cả họng.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Để lại một dấu hiệu trên cổng, rồi bước đến chỗ hắn đang tìm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô khắc dấu phượng nhỏ lên cổng, rồi theo con đường hắn vừa đi. Hai dấu phượng chạm nhau ở giữa đường.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": -1
+            },
+            "f": "dau_phuong"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô khắc nhầm hướng dấu, phải quay lại sửa. Nhưng hắn vẫn tìm ra cô.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Ngồi xuống ở ngay chỗ cũ, tin rằng hắn sẽ tự tìm đến",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đến vào lúc hoàng hôn, thở hổn hển, quỳ một chân trước mặt cô. «Ta tìm được rồi.»",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 6,
+              "sinh": -1
+            },
+            "f": "cho_hang"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Trời tối mà hắn vẫn chưa tới. Cô thức suốt đêm trong gió lạnh, chưa chắc hắn đang ở đâu.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -5
+            }
+          }
+        }
+      ],
+      "ctx": "Thế giới mới, sau cánh cổng. Tiểu Châu tóm tắt: dù tách ra hay nắm tay tới được, Hiên Dật vẫn đang tìm Tư Vi.",
+      "no": 44
+    }
+  ]
+}

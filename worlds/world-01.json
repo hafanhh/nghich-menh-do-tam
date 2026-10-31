@@ -1,0 +1,3893 @@
+{
+  "id": "w1",
+  "no": 1,
+  "chapEnd": [
+    7,
+    16,
+    20,
+    30
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": 0,
+      "hao": 1
+    },
+    {
+      "ac": -1,
+      "hac": 0,
+      "hao": 1
+    },
+    {
+      "ac": -2,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -1,
+      "hao": 2
+    }
+  ],
+  "pbias": 0.02,
+  "p0": {
+    "mi": 62,
+    "tri": 55,
+    "van": 48
+  },
+  "names": {
+    "lt": "Lăng Tuyết",
+    "td": "Thương Dạ",
+    "bong": "Thỏ trắng",
+    "mtt": "Mạc Thanh Tuấn",
+    "mk": "Mặc Khuê",
+    "lmv": "Liễu Mộng Vy",
+    "nl": "Ngô Lạc",
+    "cl": "Chu Linh",
+    "sd": "Lăng Doanh",
+    "hn": "Đại trưởng lão",
+    "me": "Mẹ Lăng Tuyết"
+  },
+  "base": "hills",
+  "canonReason": "Bẫy mồi nhử không bị phá, nên Ác niệm bật ngược lên 100.",
+  "note": "Chân dung là ảnh nhân vật thật. Cảnh vẫn là hình vẽ tạm bằng mã, sẽ thay bằng ảnh theo từng sự kiện.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Tinh lọc trọn vẹn",
+      "c": "Đôi mắt hắn không còn đỏ nữa. Tiểu Châu đọc kết quả: đạt, trọn vẹn. Sáng nào hắn cũng nấu cháo, vẫn vụng về, vẫn mặn, và cô ăn hết.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "field"
+    },
+    "near": {
+      "n": "Gần như trọn vẹn",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Trong mắt hắn thỉnh thoảng vẫn lóe một vệt đỏ nhạt, kèm tiếng nhiễu rất khẽ. Hắn sợ nó, nên bám lấy tay cô mỗi lần nó hiện ra. Cô ở lại, và hai người cùng chờ nó tan.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "field"
+    },
+    "half": {
+      "n": "Ở lại bên nhau",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt... nhưng ngươi còn ở đây, và hắn cũng vậy. Đêm nào cô cũng giật mình thức dậy kiểm tra hơi thở của hắn. Có hôm hắn tự dọn ra xa để cô được an toàn, rồi lại im lặng quay về. Con đường còn dài, và họ vẫn đi cùng nhau.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "field"
+    },
+    "canon": {
+      "n": "Còn lại giữa tro tàn",
+      "c": "Chiến trường đã thành tro, và ác niệm của hắn chưa từng buông. Nhưng hắn vẫn bế cô đi, vẫn không đẩy cô ra. Tiểu Châu không đọc kết quả. Nó chỉ nói: nhiệm vụ chưa xong, và hai người vẫn còn ở cạnh nhau.",
+      "gain": 30,
+      "piece": 0,
+      "heat": 1,
+      "scene": "field"
+    },
+    "black": {
+      "n": "Ma hóa hoàn toàn",
+      "c": "Hắc hóa chạm 100. Hắn không còn nghe thấy ai nữa. Tiểu Châu kéo cô rời đi trước khi mọi thứ sụp đổ.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "field"
+    },
+    "bdead": {
+      "n": "Hắn gục xuống",
+      "c": "Sinh mệnh của Thương Dạ về 0. Nhiệm vụ thất bại, và người cô muốn cứu đã không còn ở đây.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "field"
+    },
+    "dead": {
+      "n": "Lăng Tuyết vẫn chết",
+      "c": "Sinh mệnh cạn kiệt, cô không qua nổi. Tiểu Châu thở dài và kéo linh hồn cô về không gian của nó.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "palace"
+    }
+  },
+  "events": [
+    {
+      "id": "b01",
+      "scene": "forest",
+      "place": "Ngoài hoang, giữa trận đánh",
+      "kind": "hiem",
+      "title": "Nhập vai trong tiếng đánh nhau",
+      "text": "Lăng Tuyết mở mắt giữa tiếng gầm của quái thú. Một chàng trai kéo cô nép sau tảng đá, che chắn bằng cả tấm lưng. Đó là người anh họ của cô. Trong đầu cô vang lên một giọng nói nhỏ xíu, vui vẻ lạ thường.",
+      "tieu": "Chào mừng đến thế giới cao cấp. Ngươi là Lăng Tuyết, và ba ngày nữa ngươi bị ăn.",
+      "cast": "lt,mtt,tc",
+      "ch": [
+        {
+          "t": "Nép sau lưng anh họ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh họ siết tay cô, che kín hơn nữa. Cô kịp nhìn rõ cả bãi chiến trường.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b": 0.65,
+          "bad": {
+            "x": "Một mảnh đá văng trúng vai cô.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Quan sát từng con thú để tìm lối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhận ra thú nào bị đau ở chân trước. Một lối thoát hiện ra.",
+            "d": {
+              "se": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nhìn quá lâu, suýt bị thú đuôi gai quất trúng.",
+            "d": {
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Cắn răng chạy ra khỏi trận",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô chạy trúng đúng khoảng trống giữa hai đợt tấn công.",
+            "d": {}
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô vấp chân, lăn mấy vòng xuống sườn dốc.",
+            "d": {
+              "sinh": -10
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Quan sát chiến trường",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 1
+    },
+    {
+      "id": "b02",
+      "scene": "forest",
+      "place": "Ngoài hoang, sau trận đánh",
+      "kind": "chon",
+      "title": "Ba ngày để sống",
+      "text": "Khi tiếng đánh nhau lắng xuống, Tiểu Châu giải thích: theo số mệnh, cô sẽ bị Xà Vương ăn thịt trong ba ngày nữa. Nhiệm vụ là độ hóa hắn, và công đức của chính Tiểu Châu cũng đang treo trên cô.",
+      "tieu": "Ba ngày. Ta nói rồi nhé, ba ngày. Đừng nhìn ta như thế.",
+      "cast": "lt,tc",
+      "ch": [
+        {
+          "t": "Hỏi Tiểu Châu mọi điều về hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu kể: hắn là rắn đỏ bốn móng, thích sạch sẽ và ghét tiếng ồn. Cô ghi hết vào đầu.",
+            "d": {
+              "ac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Tiểu Châu ấp úng, nói quá nhiều thứ không liên quan.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Tự vạch kế hoạch ba ngày",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chia ba ngày thành ba việc cần làm. Đầu óc nhẹ đi hẳn.",
+            "d": {
+              "se": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Kế hoạch có lỗ hổng, và cô chỉ nhận ra khi đã lỡ nói với anh họ.",
+            "d": {
+              "nn": 3
+            }
+          }
+        },
+        {
+          "t": "Quyết định cứ sống vui rồi tính",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Tiểu Châu thở dài, nhưng lần này nó thở dài rất khẽ.",
+            "d": {
+              "hao": 1
+            }
+          }
+        }
+      ],
+      "no": 2
+    },
+    {
+      "scene": "forest",
+      "place": "Suối Lạc Mai",
+      "kind": "duyen",
+      "title": "Con thỏ bên suối",
+      "learn": {
+        "n": "Dỗ thú",
+        "s": "van",
+        "v": 2
+      },
+      "text": "Lăng Tuyết vừa trốn khỏi nhà cùng người anh họ. Bên suối, cô gội tóc và nhặt được một con thỏ tai dài, mắt đỏ như hạt lựu chín. Nó nhìn cô hơi lâu so với một con thỏ.",
+      "tieu": "Ba ngày nữa ngươi bị ăn. Đừng ôm bất cứ thứ gì có mắt đỏ.",
+      "ch": [
+        {
+          "t": "Ôm con thỏ vào lòng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.6,
+          "ok": {
+            "x": "Con thỏ nằm yên trong tay cô, mắt đỏ nheo lại như sắp ngủ.",
+            "d": {
+              "ac": -2,
+              "hao": 6
+            },
+            "f": "tho"
+          },
+          "bad": {
+            "x": "Nó cắn nhẹ vào ngón tay cô rồi vẫn không chịu rời.",
+            "d": {
+              "sinh": -5,
+              "hac": 2
+            },
+            "f": "tho"
+          }
+        },
+        {
+          "t": "Thả thỏ đi rồi quay về nhà",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "b": 0.5,
+          "ok": {
+            "x": "Con thỏ đứng nhìn theo rất lâu rồi mới khuất sau gốc cây.",
+            "d": {
+              "hao": 2
+            }
+          },
+          "bad": {
+            "x": "Thỏ không đi. Nó lặng lẽ theo sau cô suốt dọc đường.",
+            "d": {
+              "hao": -2
+            },
+            "f": "tho"
+          }
+        }
+      ],
+      "id": "b03",
+      "cast": "lt,bong",
+      "no": 3
+    },
+    {
+      "id": "b04",
+      "scene": "forest",
+      "place": "Bờ suối Lạc Mai",
+      "kind": "hiem",
+      "title": "Thỏ uống máu người",
+      "text": "Người anh họ bất ngờ đổi sắc mặt, lộ ý đồ đen tối và giữ chặt cổ tay cô. Con thỏ nhảy lên cắn vào tay hắn. Máu chảy, hắn ngã lăn bất tỉnh. Mắt thỏ đỏ rực như vừa uống thứ gì ngọt.",
+      "tieu": "Chim thanh loan ở gần đây. Đi thôi trước khi hắn tỉnh.",
+      "cast": "lt,mtt,bong",
+      "ch": [
+        {
+          "t": "Gọi chim thanh loan chở về gia tộc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Con chim to lao xuống đúng lúc. Cô ôm thỏ nhảy lên lưng nó.",
+            "d": {}
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Chim đến chậm, cô phải chạy bộ nửa quãng đường.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Cố gắng đánh thức anh họ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh họ choàng tỉnh, lắp bắp xin lỗi. Cô thở ra, dù không tin.",
+            "d": {
+              "hao": -2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh họ tỉnh dậy và gào lên gọi người.",
+            "d": {
+              "nn": 10
+            }
+          }
+        },
+        {
+          "t": "Kéo anh họ về gia tộc làm ngơ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô kéo hắn về, bịa một cái cớ đủ hợp lý.",
+            "d": {}
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô vụng về đến mức gia nhân nhìn là biết có chuyện.",
+            "d": {
+              "nn": 6
+            }
+          }
+        }
+      ],
+      "setf": "bite",
+      "no": 4
+    },
+    {
+      "scene": "court",
+      "place": "Sân viện bị phong kết giới",
+      "kind": "hiem",
+      "title": "Rượu cuối cùng",
+      "learn": {
+        "n": "Giọng hát ru",
+        "s": "mi",
+        "v": 1
+      },
+      "text": "Trưởng lão nhốt cô trong sân với ba lớp kết giới và một bầu rượu. Cô nâng bầu, rót cho con thỏ một ngụm, rồi bắt đầu múa. Đồng tử nó dựng thành khe hẹp, nhưng cô chỉ thấy rượu ngon.",
+      "tieu": "Ngươi đang nhảy múa trước mặt boss mà không biết. Tuyệt vời.",
+      "ch": [
+        {
+          "t": "Uống thật say và múa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.55,
+          "ok": {
+            "x": "Tiếng hát vu vơ của cô vang khắp sân. Hắn nhìn không chớp mắt.",
+            "d": {
+              "ac": -4,
+              "hao": 8
+            }
+          },
+          "bad": {
+            "x": "Cô gục xuống giữa chừng, trưởng lão phải khiêng về phòng.",
+            "d": {
+              "sinh": -8,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Nói thật lòng với con thỏ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "b": 0.5,
+          "ok": {
+            "x": "Cô kể hết nỗi sợ ngày mai. Con thỏ không nhúc nhích suốt đêm.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            }
+          },
+          "bad": {
+            "x": "Cô nói nửa chừng thì thiếp đi, nước mắt còn ướt trên má.",
+            "d": {
+              "hao": 1
+            }
+          }
+        }
+      ],
+      "id": "b05",
+      "cast": "lt,bong",
+      "no": 5
+    },
+    {
+      "id": "b06",
+      "scene": "palace",
+      "place": "Phủ gia tộc, đêm kết giới nứt",
+      "kind": "nan",
+      "title": "Xà Vương xé kết giới",
+      "text": "Một tiếng nổ chặn ngang đêm. Con thỏ biến mất, thay vào đó là một bóng cao lớn đứng giữa sân. Thương Dạ hiện thân, xé kết giới nhà Lăng bằng một cái vẫy tay. Tiểu Châu im bặt suốt mấy ngày.",
+      "tieu": "Đừng nhìn hắn. Ta không có ở đây.",
+      "cast": "lt,td,tc",
+      "ch": [
+        {
+          "t": "Đứng yên nhìn thẳng vào mắt hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn dừng lại giữa sân rất lâu, mắt đỏ nhìn cô không rời.",
+            "d": {
+              "ac": -2,
+              "hao": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Mắt hắn quét qua cô, lạnh lẽo như kim loại.",
+            "d": {
+              "sinh": -10,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Rút lui vào bóng tối của hành lang",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lùi khéo, không ai nhận ra.",
+            "d": {}
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô vấp phải bậc cửa, tiếng động đủ làm hắn quay đầu.",
+            "d": {
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Gọi tên con thỏ thêm một lần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn khựng lại như vừa nghe thấy điều lạ lùng.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Hắn nhíu mày, và cô hiểu mình vừa nói điều dại dột.",
+            "d": {
+              "sinh": -12
+            }
+          }
+        }
+      ],
+      "no": 6
+    },
+    {
+      "scene": "road",
+      "place": "Đường đón dâu",
+      "kind": "chon",
+      "title": "Kiệu hoa màu trắng",
+      "learn": {
+        "n": "Diễn kịch",
+        "s": "mi",
+        "v": 2
+      },
+      "text": "Trưởng lão ép cô phải hy sinh vì gia tộc. Đêm đó, váy cưới đỏ được đưa vào phòng. Sáng ra, chiếc kiệu đến đón lại trắng toát, dệt bằng tơ tuyết vạn năm.",
+      "tieu": "Hắn chọn màu trắng vì thấy hợp với ngươi. Ta nói thật đấy.",
+      "ch": [
+        {
+          "t": "Diễn tròn vai bạch liên hoa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.6,
+          "ok": {
+            "x": "Họ tin cô ngoan ngoãn và nới lỏng canh gác suốt chặng đường.",
+            "d": {
+              "hao": 2,
+              "ac": -1
+            }
+          },
+          "bad": {
+            "x": "Một trưởng lão nheo mắt nhìn quá lâu, cô phải gồng nụ cười đến mỏi má.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Đàm phán điều kiện trước khi đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "b": 0.45,
+          "ok": {
+            "x": "Họ miễn cưỡng đồng ý để cô mang theo vài món đồ riêng.",
+            "d": {
+              "hao": 3
+            }
+          },
+          "bad": {
+            "x": "Họ cười nhạt, tước luôn món trâm cô định giữ.",
+            "d": {
+              "sinh": -6,
+              "hao": -1
+            }
+          }
+        }
+      ],
+      "id": "b07",
+      "cast": "lt,td",
+      "no": 7
+    },
+    {
+      "scene": "palace",
+      "place": "Vực Xích Hà, cung điện đen",
+      "kind": "duyen",
+      "title": "Bốn tỳ nữ",
+      "learn": {
+        "n": "Kết giao",
+        "s": "tri",
+        "v": 1
+      },
+      "text": "Hắn không xuất hiện. Cô thức dậy giữa bốn cô tỳ nữ xinh đẹp, thái độ lười nhác như chẳng để ý tân nương loài người. Trong chưa đầy một canh giờ, tiếng cười đã vang khắp điện.",
+      "tieu": "Không có hắn thì không có điểm công đức. Hãy nghĩ cách đi.",
+      "ch": [
+        {
+          "t": "Kết bạn với cả bốn người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.65,
+          "ok": {
+            "x": "Họ kể hết thói quen của hắn mà không nhận ra mình đang kể.",
+            "d": {
+              "hao": 3,
+              "ac": -2
+            },
+            "f": "allies"
+          },
+          "bad": {
+            "x": "Họ cười theo nhưng vẫn giữ khoảng cách.",
+            "d": {
+              "hao": 0
+            }
+          }
+        },
+        {
+          "t": "Chỉ thân với tỳ nữ hiền nhất",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "b": 0.6,
+          "ok": {
+            "x": "Thanh Dao lén dặn cô những điều không nên làm trong điện.",
+            "d": {
+              "hao": 2,
+              "sinh": 3
+            }
+          },
+          "bad": {
+            "x": "Hai tỳ nữ còn lại bắt đầu xì xào sau lưng.",
+            "d": {
+              "hao": -1
+            }
+          }
+        }
+      ],
+      "id": "b08",
+      "cast": "lt,tc",
+      "no": 8
+    },
+    {
+      "scene": "palace",
+      "place": "Vực Xích Hà, tẩm cung",
+      "kind": "hiem",
+      "title": "Đêm bịt mắt",
+      "learn": null,
+      "text": "Chơi trò bịt mắt với đám tỳ nữ, cô ôm chầm lấy một người cao lớn và hôn lên môi hắn trước khi kịp hiểu ra. Kéo dải lụa xuống, cô thấy đôi mắt đỏ sẫm quen thuộc. Hắn nói đã nghe hết mọi câu đùa của cô suốt một tháng.",
+      "tieu": "Nhiệm vụ thất bại! Đùa thôi, hắn chưa ăn ngươi. Chưa.",
+      "ch": [
+        {
+          "t": "Khen hắn đẹp, nói thật lòng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.55,
+          "ok": {
+            "x": "Hắn im lặng rất lâu rồi khóe môi khẽ nhếch lên. Ác niệm tụt mạnh.",
+            "d": {
+              "ac": -10,
+              "hac": -5,
+              "hao": 8
+            }
+          },
+          "bad": {
+            "x": "Tay hắn siết quanh eo cô thêm một nhịp. Cô nghẹt thở.",
+            "d": {
+              "ac": -3,
+              "sinh": -12
+            }
+          }
+        },
+        {
+          "t": "Xin hắn tha mạng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "b": 0.5,
+          "ok": {
+            "x": "Hắn nhìn cô như nhìn một con thú nhỏ lạc đường, rồi buông ra.",
+            "d": {
+              "ac": -4,
+              "hao": 3
+            }
+          },
+          "bad": {
+            "x": "Lời xin xỏ khiến hắn nhíu mày, cả điện lạnh đi.",
+            "d": {
+              "sinh": -15,
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "id": "b09",
+      "cast": "lt,td",
+      "no": 9
+    },
+    {
+      "id": "b10",
+      "scene": "palace",
+      "place": "Vực Xích Hà, tẩm cung",
+      "kind": "chon",
+      "title": "Vượt cám dỗ huyết nhục",
+      "text": "Đêm đó hắn nhìn cô lâu hơn mọi khi, và Tiểu Châu thì thầm: Hắn đang đói. Muốn hắn đừng ăn thịt ngươi thì hãy làm hắn thấy dễ chịu cả thân lẫn tâm. Cô thấy tim đập mạnh.",
+      "tieu": "Làm hắn dễ chịu. Đúng như tên gọi, nhẹ thôi, nghe chưa.",
+      "cast": "lt,td,tc",
+      "ch": [
+        {
+          "t": "Nấu cho hắn một bữa chín, thơm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngồi im ăn hết, rồi không nói gì. Đêm hôm đó hắn không còn nhìn cô như thức ăn nữa.",
+            "d": {
+              "ac": -5,
+              "hao": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn nếm một miếng rồi đặt đũa xuống. Mắt hắn vẫn dán vào cổ cô.",
+            "d": {
+              "sinh": -8,
+              "ac": -1
+            }
+          }
+        },
+        {
+          "t": "Hát ru cho hắn nghe",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngủ thiếp đi trên đùi cô lần đầu tiên. Hắc khí tản dần.",
+            "d": {
+              "ac": -5,
+              "hao": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nhăn mặt vì tiếng hát lạc điệu.",
+            "d": {
+              "ac": -1,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Kể chuyện đời thường của con người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn hỏi thêm, rồi hỏi thêm. Cô kể đến khi trời sáng.",
+            "d": {
+              "ac": -4,
+              "hao": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn nghe hai câu rồi đứng dậy bỏ đi.",
+            "d": {
+              "hao": -2
+            }
+          }
+        }
+      ],
+      "no": 10
+    },
+    {
+      "id": "b11",
+      "scene": "palace",
+      "place": "Vực Xích Hà, tẩm cung",
+      "kind": "chon",
+      "title": "Giảm từng điểm một",
+      "text": "Con số trong đầu cô giảm chậm như nước nhỏ giọt: 94, rồi 93. Tiểu Châu tính toán suốt ngày. Có ngày cô nản đến mức muốn bỏ cuộc, rồi lại nhớ ra mình không có lựa chọn nào khác.",
+      "tieu": "Chậm thì chậm, miễn là xuống. Ngươi đừng nhìn ta kiểu đó.",
+      "cast": "lt,tc",
+      "ch": [
+        {
+          "t": "Kiên nhẫn mỗi ngày một việc nhỏ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô lập một thói quen nhỏ mỗi ngày, và con số đi xuống đều như đồng hồ.",
+            "d": {
+              "ac": -5,
+              "hao": 2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô quên mất hai hôm, và con số nhích ngược lên.",
+            "d": {
+              "ac": 0
+            }
+          }
+        },
+        {
+          "t": "Tìm cách làm nhanh hơn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô tình cờ gặp đúng lúc hắn cần một người bên cạnh.",
+            "d": {
+              "ac": -6,
+              "hao": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô vội quá, và hắn nhìn cô lạnh lùng cả buổi.",
+            "d": {
+              "ac": 2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Nghỉ một ngày để lấy lại tinh thần",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô ngủ đến trưa, ăn ba bữa. Tiểu Châu giận nhưng không nói.",
+            "d": {
+              "sinh": 5,
+              "ac": -1
+            }
+          }
+        }
+      ],
+      "learn": null,
+      "no": 11
+    },
+    {
+      "id": "b12",
+      "scene": "palace",
+      "place": "Vực Xích Hà, tẩm cung",
+      "kind": "nan",
+      "title": "Chén thuốc đen",
+      "text": "Hắn đặt trước mặt cô một chén thuốc đen và nói cô đang mang thai, thứ này sẽ giúp cô bỏ đi. Cô biết mình không có thai. Hắn đứng nhìn, không chớp mắt, chờ xem cô sẽ làm gì.",
+      "tieu": "Hắn đang thử ngươi. Chén thuốc thì không độc, nhưng câu trả lời thì có.",
+      "cast": "lt,td",
+      "ch": [
+        {
+          "t": "Uống cạn rồi đập vỡ chén",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiếng vỡ vang khắp điện. Hắn siết tay cô thật chặt, và không nói gì. Về sau, ác niệm của hắn tụt mạnh.",
+            "d": {
+              "ac": -10,
+              "hao": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô sặc thuốc, ho nghẹt thở. Hắn nhìn đầy nghi hoặc.",
+            "d": {
+              "sinh": -10,
+              "ac": -2
+            }
+          }
+        },
+        {
+          "t": "Nhìn thẳng vào mắt hắn và hỏi thật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn dừng lại, rồi chậm rãi cất chén đi. Cô vừa vượt qua một phép thử.",
+            "d": {
+              "ac": -8,
+              "hao": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn không trả lời, chỉ nhìn cô như nhìn một câu đố chưa giải.",
+            "d": {
+              "ac": -1
+            }
+          }
+        },
+        {
+          "t": "Từ chối, nói chưa tin lời hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bật cười lần đầu tiên, tiếng cười khàn.",
+            "d": {
+              "ac": -6,
+              "hao": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn nheo mắt, và cả điện lạnh đi mấy phần.",
+            "d": {
+              "sinh": -12,
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "no": 12
+    },
+    {
+      "scene": "palace",
+      "place": "Vực Xích Hà, hành lang",
+      "kind": "duyen",
+      "title": "Tin đồn trong điện",
+      "learn": {
+        "n": "Nghe ngóng",
+        "s": "tri",
+        "v": 1
+      },
+      "text": "Vài tháng liền hắn không đến phòng cô. Cả điện đồn rằng hắn đang sủng ái các nữ yêu. Cô ngồi cắn hạt dưa, hát một bài vu vơ.",
+      "tieu": "Ác niệm của hắn vừa tụt mười điểm! Ta không hiểu tại sao.",
+      "ch": [
+        {
+          "t": "Mặc kệ, cứ tiếp tục sống vui",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "b": 0.5,
+          "ok": {
+            "x": "Cô không hề biết hắn lén vào phòng mỗi đêm khi cô đã ngủ.",
+            "d": {
+              "ac": -10,
+              "hao": 2
+            }
+          },
+          "bad": {
+            "x": "Một chuyện nhỏ làm cô tỉnh dậy giữa đêm, thấy cửa vừa khép lại.",
+            "d": {
+              "ac": -4,
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Âm thầm tìm hiểu tin đồn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "b": 0.55,
+          "ok": {
+            "x": "Cô phát hiện những nữ yêu kia chưa từng được hắn chạm tới.",
+            "d": {
+              "ac": -6,
+              "hao": 6
+            },
+            "f": "knows"
+          },
+          "bad": {
+            "x": "Cô hỏi nhầm người, một tỳ nữ nhìn cô thật lạ.",
+            "d": {
+              "hao": -2,
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "id": "b13",
+      "cast": "lt,td",
+      "no": 13
+    },
+    {
+      "id": "b14",
+      "scene": "palace",
+      "place": "Vực Xích Hà, tẩm cung",
+      "kind": "chon",
+      "title": "Cánh và điểm yếu",
+      "text": "Hắn nói muốn hiện thú thể trước mặt cô. Nghe vậy, tim cô suýt rơi khỏi lồng ngực. Cô xin thêm thời gian, và hắn đồng ý. Đêm đó hắn tự để lộ đôi cánh, thứ hắn chưa từng cho ai thấy.",
+      "tieu": "Cánh. Điểm yếu của hắn. Ngươi vừa được trao nó như một món quà.",
+      "cast": "lt,td",
+      "ch": [
+        {
+          "t": "Chạm vào cánh hắn thật nhẹ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn run lên, rồi không rút lại. Ác niệm giảm hẳn.",
+            "d": {
+              "ac": -10,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn giật mình lùi lại. Đêm đó họ không nói gì thêm.",
+            "d": {
+              "ac": -2,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Hứa giữ bí mật này mãi mãi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhìn cô lâu. Hắc hóa dịu xuống một phần.",
+            "d": {
+              "ac": -8,
+              "hac": -3,
+              "hao": 4
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn nghe nhưng không tin. Hắn chỉ gật đầu.",
+            "d": {
+              "ac": -1
+            }
+          }
+        },
+        {
+          "t": "Hỏi cánh có đau không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bật cười rất khẽ, lần đầu tiên không cố gắng che đi.",
+            "d": {
+              "ac": -8,
+              "hao": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nhìn cô như nhìn kẻ đã đi quá xa.",
+            "d": {
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "no": 14
+    },
+    {
+      "scene": "palace",
+      "place": "Vực Xích Hà, tẩm cung",
+      "kind": "hiem",
+      "title": "Lò nướng và lòng ghen",
+      "learn": {
+        "n": "Ứng xử khéo",
+        "s": "mi",
+        "v": 1
+      },
+      "text": "Cô mang một chiếc lò nướng nhỏ vào tẩm cung vì muốn nướng thịt cho hắn ăn. Chu Linh, tỳ nữ vẫn cười dịu dàng mỗi sáng, bỗng đổi sắc mặt: vương không ăn thứ đồ chín dơ bẩn ấy.",
+      "tieu": "Ta ngửi thấy mùi ghen tuông. Chạy đi hoặc dỗ ngọt, tùy ngươi.",
+      "ch": [
+        {
+          "t": "Dỗ Chu Linh, nhờ nàng chỉ bảo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.6,
+          "ok": {
+            "x": "Chu Linh hừ một tiếng nhưng vẫn mách cô vài sở thích của hắn.",
+            "d": {
+              "hao": 2,
+              "sinh": 2
+            }
+          },
+          "bad": {
+            "x": "Nàng cười nhạt, giấu một gói thuốc lạ vào tay áo.",
+            "d": {
+              "sinh": -12,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng với hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "b": 0.5,
+          "ok": {
+            "x": "Hắn nghe xong chỉ nói một câu. Hôm sau Chu Linh không còn hầu cận nữa.",
+            "d": {
+              "ac": -5,
+              "hao": 5
+            }
+          },
+          "bad": {
+            "x": "Hắn thấy cô mách lẻo, ánh mắt chợt lạnh.",
+            "d": {
+              "hac": 4,
+              "hao": -4
+            }
+          }
+        }
+      ],
+      "id": "b15",
+      "cast": "lt,td",
+      "no": 15
+    },
+    {
+      "scene": "cage",
+      "place": "Ngục Chín Tâm Trói Ma",
+      "kind": "nan",
+      "title": "Vu độc phát tác",
+      "setf": "vu",
+      "text": "Long thú và Dực Xà liên thủ bắt hắn, nhờ một loại vu độc đã nằm sẵn trong người cô từ trước khi gả mà chính cô cũng không biết. Hắn bị nhốt trong lồng, máu loang khắp sàn. Tiểu Châu gào lên: Hắc hóa 100, Ác niệm 99.",
+      "tieu": "Chuyện lớn rồi. Thoát thân trước đã.",
+      "forced": true,
+      "ch": [
+        {
+          "t": "Chạy theo tỳ nữ ra khỏi Vực",
+          "h": "Chắc chắn thoát",
+          "s": null,
+          "ok": {
+            "x": "Cô chạy được, nhưng chưa biết chính mình là con đường vu độc đã đi qua.",
+            "d": {
+              "set": {
+                "hac": 95,
+                "ac": 99
+              }
+            }
+          }
+        },
+        {
+          "t": "Ở lại và tìm cách cứu hắn",
+          "h": "Thử bằng Trí, rất nguy hiểm",
+          "s": "tri",
+          "b": 0.35,
+          "ok": {
+            "x": "Cô lẻn tới sát lồng và kịp thấy hắn nhìn cô qua song sắt.",
+            "d": {
+              "set": {
+                "hac": 95,
+                "ac": 99
+              },
+              "hao": 6,
+              "sinh": -10
+            },
+            "f": "saw"
+          },
+          "bad": {
+            "x": "Lính canh phát hiện, cô bị đẩy ra ngoài với vết bầm khắp người.",
+            "d": {
+              "set": {
+                "hac": 95,
+                "ac": 99
+              },
+              "sinh": -30
+            }
+          }
+        }
+      ],
+      "id": "b16",
+      "cast": "lt,td",
+      "no": 16
+    },
+    {
+      "id": "b17",
+      "scene": "clan",
+      "place": "Phủ Lăng gia, đại sảnh",
+      "kind": "chon",
+      "title": "Anh hùng không mong muốn",
+      "text": "Cô trở về phủ Lăng và bị cả nhà đứng chờ ở cổng, hoa tung đầy trời. Họ tôn cô là nữ anh hùng, vì tin rằng chính cô đã hạ vu độc của tộc Ngự thú lên Xà Vương. Cô không hiểu họ đang nói gì.",
+      "tieu": "Họ gọi ngươi là anh hùng. Ta nghĩ ngươi nên lo lắng thì hơn.",
+      "cast": "lt,hn,mtt",
+      "ch": [
+        {
+          "t": "Nhận lời khen, mỉm cười khiêm tốn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Họ vỗ tay lớn hơn nữa. Cô biết mình vừa vay thêm một khoản nợ.",
+            "d": {
+              "nn": -5,
+              "se": 5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Nụ cười của cô hơi cứng, và có người để ý.",
+            "d": {
+              "nn": 5
+            }
+          }
+        },
+        {
+          "t": "Hỏi thẳng họ nói gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô khéo léo moi được vài mảnh sự thật về vu độc.",
+            "d": {
+              "se": -3
+            },
+            "f": "biet_vu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Họ nhìn nhau, đổi giọng đầy cảnh giác.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Lẳng lặng quan sát ai vui, ai không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhận ra hai người chẳng cười chút nào. Cô ghi nhớ khuôn mặt họ.",
+            "d": {
+              "se": -2
+            },
+            "f": "biet_ke_thu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nhìn nhầm người, và một bàn tay nắm vai cô thật chặt.",
+            "d": {
+              "nn": 4
+            }
+          }
+        }
+      ],
+      "no": 17
+    },
+    {
+      "id": "b18",
+      "scene": "clan",
+      "place": "Phủ Lăng gia, sân hạnh",
+      "kind": "nan",
+      "title": "Bị làm nhục và xem phát sóng",
+      "text": "Mạc Thanh Tuấn và Lăng Doanh dắt cô ra sân, rồi bày một tấm gương đá ra giữa đất. Họ muốn cô xem cảnh Xà Vương bị nhốt, như xem một vở kịch. Cô bắt Tiểu Châu mở thiên lý nhãn, và nhìn thấy hắn.",
+      "tieu": "Ta mở thiên lý nhãn là phạm quy. Nhưng ngươi cứ nhìn đi.",
+      "cast": "lt,mtt,sd,tc",
+      "ch": [
+        {
+          "t": "Bắt Tiểu Châu mở thiên lý nhãn, nhìn đến cùng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô thấy hắn qua song sắt, và hắn dường như cũng nhìn thấy cô. Tim cô đau.",
+            "d": {
+              "hao": 6,
+              "hac": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô bị cảnh tượng làm choáng váng, ngã xuống đất.",
+            "d": {
+              "sinh": -10
+            }
+          }
+        },
+        {
+          "t": "Quay mặt đi, không xem",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Họ bật cười, và cô lau mặt, không nói gì. Nhưng cô đã ghi nhớ từng gương mặt.",
+            "d": {
+              "nn": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Họ ép cô nhìn. Cô cắn môi đến bật máu.",
+            "d": {
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng với Lăng Doanh rằng cô sẽ nhớ chuyện này",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lăng Doanh hơi lùi lại. Có điều gì đó trong mắt nàng dao động.",
+            "d": {
+              "se": -3
+            },
+            "f": "doanh_dao_dong"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Lăng Doanh cười lạnh, và anh họ đứng nhìn không nói.",
+            "d": {
+              "nn": 6
+            }
+          }
+        }
+      ],
+      "no": 18
+    },
+    {
+      "scene": "clan",
+      "place": "Phủ gia tộc, đêm chuông reo",
+      "kind": "chon",
+      "title": "Hắn đến phủ",
+      "text": "Chuông cảm ứng yêu vang lên giữa phủ. Hắn vừa thoát khỏi hai tháng bị giam, đẫm máu thuấn di tới. Hắn tin cô đã hạ vu độc và suýt cắn chết cô, cho tới khi nhận ra chính cô cũng bị hạ độc từ trước. Năm trưởng lão đã thành tro.",
+      "tieu": "Khoảnh khắc quyết định. Hảo cảm càng cao, hắn càng dễ tin ngươi.",
+      "ch": [
+        {
+          "t": "Ngăn hắn giết thêm người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.5,
+          "ok": {
+            "x": "Cô đặt tay lên vết thương trên mặt hắn. Hắn dừng lại.",
+            "d": {}
+          },
+          "bad": {
+            "x": "Hắn không nghe. Cô bị hất ngã nhưng vẫn kịp nắm tay hắn.",
+            "d": {
+              "sinh": -20
+            }
+          }
+        },
+        {
+          "t": "Giả bất tỉnh để hắn mang đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "b": 0.55,
+          "ok": {
+            "x": "Hắn bế cô đi, giọng nói run lên lần đầu tiên.",
+            "d": {}
+          },
+          "bad": {
+            "x": "Cô ngất thật. Khi tỉnh dậy, hắn đã ngồi cạnh từ rất lâu.",
+            "d": {
+              "sinh": -15
+            }
+          }
+        },
+        {
+          "t": "Gọi cha mẹ chạy khỏi phủ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "b": 0.5,
+          "ok": {
+            "x": "Họ kịp thoát. Hắn nhìn theo, tay buông lỏng.",
+            "d": {
+              "hao": 5
+            }
+          },
+          "bad": {
+            "x": "Cha cô đứng chết lặng. Hắn thuấn di rời đi, mang cô theo.",
+            "d": {
+              "sinh": -18
+            }
+          }
+        }
+      ],
+      "id": "b19",
+      "cast": "lt,td,mtt",
+      "no": 19
+    },
+    {
+      "id": "b20",
+      "scene": "palace",
+      "place": "Phủ Lăng, phòng đêm",
+      "kind": "chon",
+      "title": "Đoàn tụ",
+      "text": "Hắn mang cô về, đặt cô xuống giường. Thú đan của hắn dịu dịu phát sáng, khống chế thứ vu độc trong người cô. Chỉ trong một đêm, ác niệm của hắn tụt từ 99 xuống rất thấp.",
+      "tieu": "Tuyệt vời! Ác niệm xuống như thác. Ta không hiểu tại sao nhưng ta thích.",
+      "cast": "lt,td,tc",
+      "ch": [
+        {
+          "t": "Đặt tay lên ngực hắn, nhận thú đan",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thú đan ấm lên trong tay cô. Hắn nhắm mắt, như người vừa gỡ được thứ gì nặng nề.",
+            "d": {}
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thú đan quá nóng, cô rụt tay lại. Hắn vẫn ngồi đó, không rời.",
+            "d": {
+              "sinh": -12
+            }
+          },
+          "R": 1
+        },
+        {
+          "t": "Kể hết mọi điều cô đã giấu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe đến hết, không ngắt lời. Bàn tay hắn siết lấy tay cô.",
+            "d": {}
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói nửa chừng thì hắn đặt ngón tay lên môi cô, lắc đầu.",
+            "d": {
+              "sinh": -8
+            }
+          },
+          "R": 1
+        },
+        {
+          "t": "Ngủ yên để hắn lo hết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ngủ một giấc dài, và hắn ngồi canh đến sáng.",
+            "d": {}
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô ngủ quên cả đêm, tỉnh dậy thấy hắn đã ngồi bên từ rất lâu.",
+            "d": {
+              "sinh": -6
+            }
+          },
+          "R": 1
+        }
+      ],
+      "no": 20
+    },
+    {
+      "id": "b21",
+      "scene": "palace",
+      "place": "Phủ riêng, sau mười năm",
+      "kind": "chon",
+      "title": "Mười năm không ra khỏi cửa",
+      "text": "Mười năm trôi qua trong sân vườn kín. Cô sống như một tình nhân giấu mặt, và hắn đến mỗi tối, mỗi tối. Hắn trao cho cô chiếc vòng tay vảy đỏ và hứa không một cọng lông nào của hắn sẽ về gặp cô nếu cô không cho phép. Ác niệm còn năm, rồi một.",
+      "tieu": "Mười năm, một cánh cổng, một vòng tay. Ta ghét chuyện tình cảm, nhưng đây thì ta chịu.",
+      "cast": "lt,td,tc",
+      "ch": [
+        {
+          "t": "Đeo vòng và hứa không rời nhau",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn chiếc vòng trên tay cô lâu thật lâu. Ác niệm xuống như tuyết tan.",
+            "d": {
+              "ac": -6,
+              "hao": 6
+            },
+            "f": "vong_tay"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô lúng túng, và hắn cười, kiên nhẫn đeo lại cho cô.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "vong_tay"
+          }
+        },
+        {
+          "t": "Hỏi hắn về những năm tháng ở Vực",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn kể, và cô lắng nghe đến khi trời sáng.",
+            "d": {
+              "ac": -5,
+              "hao": 4
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn im lặng rất lâu, và cô không hỏi thêm.",
+            "d": {
+              "ac": -1
+            }
+          }
+        },
+        {
+          "t": "Xin được ra khỏi sân một ngày",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn cho phép, và cả ngày hôm đó hắn đi ngay sau cô như chiếc bóng.",
+            "d": {
+              "ac": -4,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nhíu mày, nhưng rồi gật đầu. Lòng cô thấy nặng.",
+            "d": {
+              "hao": -2
+            }
+          }
+        }
+      ],
+      "learn": null,
+      "no": 21
+    },
+    {
+      "id": "b22",
+      "scene": "palace",
+      "place": "Phủ riêng, đêm mưa",
+      "kind": "chon",
+      "title": "Vì sao hắn hắc hóa",
+      "text": "Một đêm mưa, hắn kể cho cô nghe: hồi nhỏ, chính anh ruột hắn đã dựng bẫy hại hắn. Giọng hắn đều đều như kể chuyện của người khác. Nghe xong, cô không còn nhìn các tộc Dực Xà và Thanh Long bằng đôi mắt cũ.",
+      "tieu": "Hắn kể hết rồi. Câu chuyện này đáng tiền hơn mọi điểm công đức.",
+      "cast": "lt,td",
+      "ch": [
+        {
+          "t": "Nắm tay hắn và nghe đến hết",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn không rút tay lại. Hắc hóa dịu xuống, như một vết thương cũ được băng lại.",
+            "d": {
+              "hac": -8,
+              "ac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn rút tay, và cô hiểu mình đã đi nhanh quá.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Hỏi thật kỹ về kẻ đã dựng bẫy",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi nhớ từng chi tiết, và hắn nhìn cô vừa lạ vừa mừng.",
+            "d": {
+              "hac": -5,
+              "ac": -3,
+              "hao": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nói thêm một câu rồi lặng thinh.",
+            "d": {
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Chỉ ngồi cạnh, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mưa rơi đến sáng. Hắn ngủ gục trên vai cô.",
+            "d": {
+              "hac": -6,
+              "hao": 5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn thức trắng đêm, và cô cũng vậy.",
+            "d": {
+              "hac": 0
+            }
+          }
+        }
+      ],
+      "no": 22
+    },
+    {
+      "id": "b23",
+      "scene": "clan",
+      "place": "Phủ Lăng gia, đại sảnh",
+      "kind": "nan",
+      "title": "Cha tát, cô bị bắt",
+      "text": "Gia chủ tưởng cô đã cấu kết với quái vật và tát cô một cái giữa đại sảnh. Chưa kịp giải thích, Mặc Khuê và Mạc Thanh Tuấn đã mang cô đi. Họ cần dùng cô làm mồi.",
+      "tieu": "Cha ngươi vừa tát ngươi. Ta không biết nên an ủi thế nào.",
+      "cast": "lt,mk,mtt,hn",
+      "ch": [
+        {
+          "t": "Nhìn cha và nói thật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Gia chủ khựng lại. Bàn tay ông run, nhưng ông không nói gì.",
+            "d": {
+              "w": "par"
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Ông quay mặt đi, không nghe cô nói hết.",
+            "d": {
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Giãy giụa chống lại họ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô thoát được cái nắm tay của Mặc Khuê một thoáng, đủ để cắn rách tay hắn.",
+            "d": {
+              "sinh": -5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Họ siết chặt hơn, đến mức cổ tay cô bầm đen.",
+            "d": {
+              "sinh": -12
+            }
+          }
+        },
+        {
+          "t": "Ngoan ngoãn đi theo để tìm cơ hội",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Họ nới lỏng canh gác. Cô ghi nhớ đường đi từng bước.",
+            "d": {
+              "nn": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Một người canh nhìn cô lâu, dường như không tin.",
+            "d": {
+              "nn": 6
+            }
+          }
+        }
+      ],
+      "no": 23
+    },
+    {
+      "scene": "field",
+      "place": "Cánh đồng hoang, trận đại chiến",
+      "kind": "nan",
+      "title": "Mồi nhử",
+      "text": "Ác niệm của hắn đã xuống rất thấp. Nhưng kẻ đã dựng bẫy từ thuở ấu thơ giữ trong tay chiếc áo dính máu của cô và vòng tay vảy đỏ cô đang đeo. Chỉ cần một khoảnh khắc hắn tin cô đã chết.",
+      "tieu": "Nếu hắn nổ thú đan, ta mất sạch công đức. Làm gì đó, nhanh lên.",
+      "ch": [
+        {
+          "t": "Lắc vòng vảy, gọi tên hắn ba lần",
+          "h": "Cần vòng vảy của hắn",
+          "s": "flag",
+          "b": 0.85,
+          "final": 1,
+          "ok": {
+            "x": "Tiếng gọi xuyên qua cả chiến trường. Hắn dừng lại giữa trận, quay đầu.",
+            "d": {
+              "bs": -5,
+              "ac": -14,
+              "hac": -12
+            },
+            "f": "broken"
+          },
+          "bad": {
+            "x": "Vòng không phản ứng. Hắn nhìn thấy chiếc áo đẫm máu trước tiên.",
+            "d": {
+              "set": {
+                "hac": 95,
+                "ac": 100
+              },
+              "bs": -40
+            },
+            "f": "failed"
+          }
+        },
+        {
+          "t": "Triệu bầy linh thú đến cứu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "b": 0.45,
+          "final": 1,
+          "ok": {
+            "x": "Chim bay, thú chạy đổ về từ bốn phương. Cô thoát khỏi bẫy kịp lúc.",
+            "d": {
+              "bs": -5,
+              "ac": -8,
+              "hac": -6
+            },
+            "f": "broken"
+          },
+          "bad": {
+            "x": "Bầy thú đến chậm một nhịp.",
+            "d": {
+              "set": {
+                "hac": 95,
+                "ac": 100
+              },
+              "bs": -40
+            },
+            "f": "failed"
+          }
+        },
+        {
+          "t": "Chạy thẳng ra giữa chiến trường",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.35,
+          "final": 1,
+          "ok": {
+            "x": "Hắn thấy cô còn sống ngay trước khi vung tay.",
+            "d": {
+              "bs": -5,
+              "ac": -6,
+              "hac": -4
+            },
+            "f": "broken"
+          },
+          "bad": {
+            "x": "Cô đến muộn. Ánh sáng trắng nuốt trọn chiến trường.",
+            "d": {
+              "set": {
+                "hac": 95,
+                "ac": 100
+              },
+              "bs": -40
+            },
+            "f": "failed"
+          }
+        }
+      ],
+      "id": "b24",
+      "cast": "lt,td,mk,mtt",
+      "no": 24
+    },
+    {
+      "scene": "field",
+      "place": "Cánh đồng hoang, giữa tàn tro",
+      "kind": "nan",
+      "title": "Sau tiếng nổ",
+      "aft": true,
+      "ch": [
+        {
+          "t": "Che cho hắn, nhận đòn thay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.5,
+          "ok": {
+            "x": "Cô chắn trước hắn, ánh mắt hắn chấn động. Đòn đánh trượt qua vai cô.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 6,
+              "sinh": -8
+            }
+          },
+          "bad": {
+            "x": "Cô đỡ không nổi. Máu của cô rơi xuống tay hắn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "bs": -15,
+              "hao": 3,
+              "sinh": -28
+            }
+          }
+        },
+        {
+          "t": "Gọi bầy thú dẫn mọi người đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "b": 0.5,
+          "ok": {
+            "x": "Chim bay, thú chạy đổ về từ bốn phương. Binh sĩ tán loạn.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "sinh": -4
+            }
+          },
+          "bad": {
+            "x": "Bầy thú đến lộn xộn, làm cô bị cuốn vào giữa.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "bs": -15,
+              "sinh": -22
+            }
+          }
+        },
+        {
+          "t": "Nói với hắn: em còn sống",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "b": 0.5,
+          "ok": {
+            "x": "Giọng cô khàn nhưng rõ. Hắn quay lại, buông thõng tay.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 5,
+              "sinh": -6
+            }
+          },
+          "bad": {
+            "x": "Hắn không nghe thấy, hay không dám nghe.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "bs": -15,
+              "sinh": -18
+            }
+          }
+        }
+      ],
+      "id": "b25",
+      "cast": "lt,td,mk",
+      "no": 25
+    },
+    {
+      "id": "b26",
+      "scene": "field",
+      "place": "Cánh đồng hoang, sau tiếng nổ",
+      "kind": "nan",
+      "title": "Bầy thú đến giúp",
+      "text": "Giữa cánh đồng cháy sém, cô nghe thấy tiếng cánh vỗ từ bốn phía. Chim bay, thú chạy, tất cả đổ về như nước xuôi dòng, đáp lại tiếng gọi mà chính cô cũng không biết mình đã phát ra.",
+      "tieu": "Ngươi gọi cả bầy thú về. Ngươi biết không, ngươi ngầu lắm.",
+      "cast": "lt,mk,mtt",
+      "ch": [
+        {
+          "t": "Chỉ huy bầy thú bảo vệ đường rút",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bầy thú xếp thành hàng rào sống. Không binh sĩ nào dám tới gần.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Bầy thú xô nhau loạn xạ, cô bị cuốn vào giữa.",
+            "d": {
+              "sinh": -14
+            }
+          }
+        },
+        {
+          "t": "Cưỡi một con thú lớn lao thẳng vào chiến trường",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Con thú gầm lên, mở đường qua đám loạn quân.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Con thú trượt chân, cô văng xuống bùn.",
+            "d": {
+              "sinh": -16
+            }
+          }
+        },
+        {
+          "t": "Xin các thú tha cho những kẻ bỏ chạy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bầy thú dừng lại, đứng im như nghe hiểu. Binh sĩ tán loạn.",
+            "d": {
+              "ac": -1,
+              "hao": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Thú không hiểu, và vài kẻ bị thương.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "aft": true,
+      "no": 26
+    },
+    {
+      "scene": "field",
+      "place": "Cánh đồng hoang, bên gò đá",
+      "kind": "chon",
+      "title": "Trả giá cho kẻ đầu sỏ",
+      "aft": true,
+      "ch": [
+        {
+          "t": "Đạp ngã hắn, nhưng không giết",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "b": 0.5,
+          "ok": {
+            "x": "Cô đạp xuống ngực hắn và nói: sống đi, và đừng bao giờ đến gần nữa.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 6,
+              "sinh": -4
+            }
+          },
+          "bad": {
+            "x": "Chân cô trượt trong bùn, Mặc Khuê bật dậy chém một nhát vào vai cô.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "bs": -22,
+              "sinh": -24
+            }
+          }
+        },
+        {
+          "t": "Giao hắn cho Thương Dạ quyết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "b": 0.5,
+          "ok": {
+            "x": "Thương Dạ nhìn cô thật lâu, rồi chỉ nói: nghe em.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 8,
+              "sinh": -2
+            }
+          },
+          "bad": {
+            "x": "Hắn nhìn cô như thể cô đã đẩy việc khó về phía hắn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "bs": -22,
+              "hao": -3,
+              "sinh": -10
+            }
+          }
+        },
+        {
+          "t": "Bỏ đi, không nhìn lại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "b": 0.55,
+          "ok": {
+            "x": "Cô quay lưng, kéo tay Thương Dạ đi. Không ai ngăn.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "sinh": 0
+            }
+          },
+          "bad": {
+            "x": "Mặc Khuê chộp được cổ chân cô trước khi cô kịp bước.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "bs": -22,
+              "sinh": -20
+            }
+          }
+        }
+      ],
+      "id": "b27",
+      "cast": "lt,td,mk",
+      "no": 27
+    },
+    {
+      "id": "b28",
+      "scene": "field",
+      "place": "Cánh đồng hoang, lúc hoàng hôn",
+      "kind": "chon",
+      "title": "Hắn bế cô rời chiến trường",
+      "cast": "lt,td,tc",
+      "ch": [
+        {
+          "t": "Dựa đầu vào vai hắn, nói em mệt rồi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn siết tay, bước chậm lại để cô ngủ.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 6
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô ngủ gục giữa chừng, hắn lặng lẽ bế thêm một đoạn dài.",
+            "d": {
+              "hao": 2,
+              "sinh": 3
+            }
+          }
+        },
+        {
+          "t": "Bảo hắn đặt xuống, muốn tự đi cùng hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn buông cô xuống, nắm tay thay vì bế. Hai bóng đi song song.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô đi được vài bước thì lảo đảo, hắn đỡ lấy mà không nói gì.",
+            "d": {
+              "hao": 1,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Chỉ lặng lẽ đi bên cạnh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Gió thổi qua bãi tro, hắn khe khẽ gọi tên cô lần đầu tiên, như để chắc chắn cô còn đó.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Đường dài, cả hai im lặng suốt chặng.",
+            "d": {
+              "ac": -1,
+              "hao": 2
+            }
+          }
+        }
+      ],
+      "aft": true,
+      "no": 28
+    },
+    {
+      "id": "b29",
+      "scene": "field",
+      "place": "Chân núi phương Bắc, bình minh",
+      "kind": "duyen",
+      "title": "Căn nhà dưới chân núi",
+      "text": "Họ dừng lại ở một căn nhà gỗ bỏ hoang dưới chân núi. Thương Dạ nhóm lửa, nấu nồi cháo đầu tiên trong đời, và nhìn cô như hỏi đã đúng chưa. Tiểu Châu ngồi trên bậu cửa, giả vờ không nhìn.",
+      "tieu": "Hắn nấu cháo. Ta sống ngàn năm chưa thấy cảnh này.",
+      "cast": "lt,td,tc",
+      "ch": [
+        {
+          "t": "Nếm cháo và khen ngon",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cười, nụ cười rất vụng, và đôi mắt không còn đỏ.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 8,
+              "sinh": 8
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cháo mặn chát, cô cố nuốt, hắn nhận ra rồi cười khẽ.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 4
+            }
+          }
+        },
+        {
+          "t": "Dạy hắn nấu lại cho đúng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô cầm tay hắn chỉ từng bước. Hắn ghi nhớ hết.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn làm cháy nồi, hai người cười rũ.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 4
+            }
+          }
+        },
+        {
+          "t": "Kéo hắn ra ngồi ngắm bình minh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mặt trời lên đúng lúc hắn quay sang nhìn cô.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 8,
+              "sinh": 8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Trời mưa. Hai người ngồi trú trong nhà, im lặng mà không thấy lạc lõng.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 4
+            }
+          }
+        }
+      ],
+      "aft": true,
+      "no": 29
+    },
+    {
+      "id": "b30",
+      "scene": "field",
+      "place": "Chân núi phương Bắc, hoàng hôn",
+      "kind": "chon",
+      "title": "Lời hứa ở lại",
+      "tieu": "Nói đi, nhanh lên. Ta còn bận khóc.",
+      "cast": "lt,td,tc",
+      "ch": [
+        {
+          "t": "Hứa ở lại bên hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cúi xuống cho cô thấy đôi mắt đã không còn đỏ.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 8,
+              "sinh": 8
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nói quá nhanh, hắn nghi cô nói để dỗ, nhưng vẫn nắm tay cô.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 4
+            }
+          }
+        },
+        {
+          "t": "Hứa dạy hắn sống như người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô kể cho hắn một danh sách dài những việc thường ngày. Hắn ghi nhớ tất cả.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Danh sách dài quá, hắn nghe nửa chừng đã ngủ gục trên vai cô.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 2,
+              "sinh": 6
+            }
+          }
+        },
+        {
+          "t": "Nói thẳng là cô thích hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bật cười lần đầu tiên, tiếng cười khàn nhưng thật.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 8,
+              "sinh": 8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nghe, không nói gì, chỉ nắm tay cô chặt hơn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 4,
+              "sinh": 4
+            }
+          }
+        }
+      ],
+      "aft": true,
+      "no": 30
+    }
+  ],
+  "unused": [
+    {
+      "id": "x01",
+      "scene": "forest",
+      "place": "Ngoài hoang, giữa trận đánh",
+      "kind": "chon",
+      "title": "Người lạ giữa trận đánh",
+      "text": "Một cô gái váy lục kéo giật cô sang bên, né một mũi tên bay sượt qua tóc. Nàng gọi đúng tên cô, và nhìn cô như thể đã biết trước mọi chuyện sắp xảy ra. Cô gái ấy là Liễu Mộng Vy.",
+      "tieu": "Cẩn thận. Cô ta không nhìn ngươi như người xa lạ.",
+      "cast": "lt,lmv,mtt",
+      "ch": [
+        {
+          "t": "Cảm ơn rồi dò hỏi nàng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nàng chớp mắt nhanh, và cô ghi nhớ điều đó.",
+            "d": {
+              "nn": 0
+            },
+            "f": "biet_vy"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Nàng cười rất tươi, nhưng ánh mắt thì không.",
+            "d": {
+              "nn": 5
+            }
+          }
+        },
+        {
+          "t": "Giả vờ mất trí nhớ sau cú ngã",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nàng thả lỏng thấy rõ. Cô vừa mua được chút thời gian.",
+            "d": {
+              "nn": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Nàng nghiêng đầu, chậm rãi nhìn cô từ đầu đến chân.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Lờ đi, quay về phía anh họ",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Nàng đứng yên nhìn theo, rất lâu.",
+            "d": {
+              "se": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x23",
+      "scene": "forest",
+      "place": "Bên suối, một mình",
+      "kind": "chon",
+      "title": "Ba điều chưa kịp ước",
+      "text": "Lăng Tuyết có ba điều ước chưa từng nói thành lời: được sống, cha mẹ bình an, và không còn là nỗi nhục của gia tộc. Cô chỉ có thể đặt một điều lên đầu.",
+      "tieu": "Ba điều ước dở dang. Ngươi chọn điều nào thì cái đó nặng hơn hai cái kia.",
+      "cast": "lt,tc",
+      "ch": [
+        {
+          "t": "Được sống",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nắm chặt tay. Ít nhất điều này cô chắc làm được.",
+            "d": {
+              "hao": 3,
+              "w": "live"
+            }
+          }
+        },
+        {
+          "t": "Cha mẹ bình an",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nhớ khuôn mặt hai người trong ký ức và thấy sống mũi cay.",
+            "d": {
+              "w": "par"
+            },
+            "f": "muon_par"
+          }
+        },
+        {
+          "t": "Không còn là nỗi nhục của gia tộc",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nghe thấy tiếng cười khinh bỉ vẳng lại trong ký ức. Và quyết tâm xóa nó.",
+            "d": {
+              "w": "sh"
+            },
+            "f": "muon_sh"
+          }
+        }
+      ]
+    },
+    {
+      "id": "x02",
+      "scene": "forest",
+      "place": "Bờ suối Lạc Mai",
+      "kind": "hiem",
+      "title": "Con thỏ bị nhìn thấy",
+      "text": "Liễu Mộng Vy đi ngang bờ suối, thấy mắt đỏ của con thỏ trên tay cô và bật cười: Thú này đáng giá. Anh họ đứng ngay cạnh, không nói gì.",
+      "tieu": "Mắt đỏ đang bị nhìn thấy. Hay lắm.",
+      "cast": "lt,lmv,bong",
+      "ch": [
+        {
+          "t": "Nói đó chỉ là thỏ thường",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nàng mất hứng, vẫy tay bỏ đi.",
+            "d": {}
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Nàng nhướng mày, quay sang báo với quản sự.",
+            "d": {
+              "nn": 10
+            }
+          }
+        },
+        {
+          "t": "Tặng nàng một món nhỏ để chặn miệng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nàng nhận món đồ, nụ cười mềm đi. Con thỏ trong tay cô cứng lại.",
+            "d": {
+              "hao": -3,
+              "it": -1
+            }
+          },
+          "b": 0.75,
+          "bad": {
+            "x": "Nàng nhận quà nhưng vẫn lắc đầu cười khẽ.",
+            "d": {
+              "hao": -3,
+              "it": -1,
+              "nn": 4
+            }
+          },
+          "needT": "Cần ít nhất 1 vật phẩm"
+        },
+        {
+          "t": "Giấu thỏ vào áo rồi bỏ đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Con thỏ chui yên trong áo. Chẳng ai nhận ra.",
+            "d": {}
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Một cái tai ló ra khỏi cổ áo. Mộng Vy nhìn thấy.",
+            "d": {
+              "nn": 6
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x03",
+      "scene": "forest",
+      "place": "Bờ suối Lạc Mai",
+      "kind": "chon",
+      "title": "Câu hỏi thử",
+      "text": "Mộng Vy hỏi bâng quơ, tay vẫn vê một cánh hoa: Cô còn nhớ mình sẽ chết vào ngày thứ ba không?",
+      "tieu": "Cô ta vừa thử ngươi. Trả lời cho cẩn thận.",
+      "cast": "lt,lmv",
+      "ch": [
+        {
+          "t": "Thừa nhận nửa lời để kết liên minh giả",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người nhìn nhau rất lâu, rồi cùng mỉm cười. Ván cờ mới bắt đầu.",
+            "d": {},
+            "f": "biet_vy"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Nàng đề phòng thấy rõ. Cơ duyên sau này sẽ khó giữ hơn.",
+            "d": {},
+            "f": "vy_phong"
+          }
+        },
+        {
+          "t": "Phủ nhận cứng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nàng nhún vai, như thể cô vừa nói điều hiển nhiên.",
+            "d": {}
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Nàng không tin, và để lộ điều đó bằng một nụ cười.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Phản hỏi để bắt lỗi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nàng ngập ngừng nửa nhịp, đủ để cô nhận ra nàng cũng biết cốt truyện.",
+            "d": {
+              "ct": 1
+            },
+            "f": "biet_vy"
+          },
+          "b": 0.65,
+          "bad": {
+            "x": "Nàng bật cười lớn, và ánh mắt trở nên lạnh.",
+            "d": {
+              "nn": 10
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x04",
+      "scene": "court",
+      "place": "Chấp pháp đường",
+      "kind": "nan",
+      "title": "Lời tố giác",
+      "text": "Mộng Vy chỉ vào vết răng trên tay anh họ: Chỉ yêu vật mới có răng như thế. Đại trưởng lão cho gọi cô đến Chấp pháp đường ngay trong đêm.",
+      "tieu": "Cô ta tố giác rồi. Chuyện phiền phức rồi đấy.",
+      "cast": "lt,lmv,hn",
+      "ch": [
+        {
+          "t": "Nhận mình nuôi thú, xin lập ước thúc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đại trưởng lão cho hoãn phiên xử một ngày.",
+            "d": {
+              "nn": 10
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Họ giam cô ngay trong đêm.",
+            "d": {
+              "hao": -5
+            }
+          }
+        },
+        {
+          "t": "Đổ cho thú hoang",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Vài người gật gù. Vừa đủ cứu một phần.",
+            "d": {
+              "nn": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Vết răng quá rõ để chối. Họ càng nghi.",
+            "d": {
+              "nn": 15,
+              "hao": -10
+            }
+          }
+        },
+        {
+          "t": "Kéo Mộng Vy ra làm chứng cùng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mộng Vy ấp úng, và một điều lạ lọt vào tai cô.",
+            "d": {
+              "ct": 1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Mộng Vy khéo léo gạt đi, nụ cười không tan.",
+            "d": {
+              "nn": 8
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x05",
+      "scene": "court",
+      "place": "Sân viện bị phong kết giới",
+      "kind": "chon",
+      "title": "Tờ giấy dưới đáy chén",
+      "text": "Mộng Vy mang rượu và thuốc an thần tới thăm, tay lần tìm thứ gì đó dưới đất. Trong đáy chén, cô thấy một tờ giấy gấp nhỏ.",
+      "tieu": "Rượu của người tốt không có giấy dưới đáy. Cẩn thận.",
+      "cast": "lt,lmv,bong",
+      "ch": [
+        {
+          "t": "Giả ngủ để nghe lén",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nghe lọt mấy câu nàng thì thầm và nhớ hết.",
+            "d": {
+              "ct": 1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Nàng quay phắt lại. Cô bị bắt gặp.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Mở lòng đổi tin lấy tin",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nàng nói ra một sự kiện sắp tới, và cô lập tức ghi lại.",
+            "d": {
+              "ct": 1
+            },
+            "f": "biet_su_kien"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Nàng dắt mũi cô dễ như trở bàn tay.",
+            "d": {
+              "cd": 1
+            }
+          }
+        },
+        {
+          "t": "Từ chối gặp nàng",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Nàng đứng ngoài cổng thêm một lúc rồi bỏ đi.",
+            "d": {
+              "se": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x06",
+      "scene": "court",
+      "place": "Sân viện bị phong kết giới",
+      "kind": "chon",
+      "title": "Đêm trước phiên xử",
+      "text": "Một đêm cuối để chuẩn bị. Con thỏ nằm cuộn ở chân giường, thỉnh thoảng nhìn cô bằng đôi mắt đỏ sẫm, thật lâu.",
+      "tieu": "Một đêm. Dùng nó cho khéo.",
+      "cast": "lt,bong",
+      "ch": [
+        {
+          "t": "Học thuộc luật Chấp pháp đường",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô thức đến sáng và nhớ gần hết điều luật.",
+            "d": {},
+            "f": "hoc_luat"
+          }
+        },
+        {
+          "t": "Viết thư nhờ mẹ giúp",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Bức thư đến tay mẹ trước bình minh.",
+            "d": {
+              "w": "par"
+            },
+            "f": "me_giup"
+          }
+        },
+        {
+          "t": "Cho thỏ ăn và nói chuyện với nó",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô kể hết những điều không dám nói với ai. Thỏ nghe không chớp mắt.",
+            "d": {
+              "hao": 6,
+              "ac": -2,
+              "nn": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x08",
+      "scene": "court",
+      "place": "Chấp pháp đường",
+      "kind": "nan",
+      "title": "Chấp pháp đường mở phiên",
+      "text": "Đại trưởng lão Lăng Cảnh Hàn chủ tọa trong áo trắng viền vàng, tay chống trượng ngọc. Tội danh được đọc lên: giao du với yêu vật, làm hại đồng tộc.",
+      "tieu": "Phiên xử bắt đầu. Ta đã nói ngươi ăn mặc quá hiền chưa nhỉ.",
+      "cast": "lt,hn,lmv",
+      "ch": [
+        {
+          "t": "Phản bác bằng luật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô viện từng điều khoản. Vài trưởng lão nhìn nhau.",
+            "d": {
+              "nn": -5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô trích sai một điều, và đại trưởng lão ghi nhớ.",
+            "d": {
+              "nn": 10
+            }
+          }
+        },
+        {
+          "t": "Khóc kể oan",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nước mắt rơi đúng nhịp. Vài ánh nhìn dịu lại.",
+            "d": {
+              "nn": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô khóc quá lố, có người nhăn mặt.",
+            "d": {
+              "nn": 6
+            }
+          }
+        },
+        {
+          "t": "Im lặng chờ",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cả phòng nín thở chờ cô nói. Cô không nói gì.",
+            "d": {
+              "se": 8
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x09",
+      "scene": "court",
+      "place": "Chấp pháp đường",
+      "kind": "nan",
+      "title": "Nhân chứng ngược",
+      "text": "Anh họ khai bịa rằng con thỏ chủ động tấn công. Mộng Vy làm chứng giả bằng giọng run rẩy, tay còn che miệng.",
+      "tieu": "Hai người nói dối cùng lúc nghe hay lắm. Tìm khe hở đi.",
+      "cast": "lt,mtt,lmv,hn",
+      "ch": [
+        {
+          "t": "Chất vấn mâu thuẫn trong lời khai",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chỉ ra hai chỗ hai lời khai lệch nhau.",
+            "d": {
+              "ct": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô hỏi dồn nhưng bị chặn lại.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Xin giải thích vết cắn trên tay anh họ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh họ lúng túng, nói ngược với lời khai ban đầu.",
+            "d": {
+              "ct": 1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô bị gạt đi, nhưng không mất nhiều.",
+            "d": {
+              "nn": 5
+            }
+          }
+        },
+        {
+          "t": "Đòi đối chất với Mộng Vy ngay",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mộng Vy bị hỏi dồn, mặt tái đi trước cả phòng.",
+            "d": {
+              "nn": -8
+            },
+            "f": "vay_lo"
+          },
+          "b": 0.7,
+          "bad": {
+            "x": "Cô nôn nóng quá, và nàng nhân đó bật khóc thật.",
+            "d": {
+              "nn": 15,
+              "cd": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "scene": "court",
+      "place": "Phòng giam",
+      "kind": "chon",
+      "title": "Mặc Khuê gặp riêng",
+      "text": "Mặc Khuê tới nhà giam sau giờ xử. Hắn mỉm cười lịch thiệp, đề nghị nhẹ tội nếu cô khai con thỏ từ đâu đến. Hắn nhìn cô như nhìn một món hàng.",
+      "tieu": "Người này mà cười dịu dàng thì cứ coi như đang rót độc vào chén.",
+      "cast": "lt,mk",
+      "ch": [
+        {
+          "t": "Từ chối, nói chỉ nuôi một con thỏ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn bỏ đi với nụ cười không đổi. Hắn đã ghi nhớ cô.",
+            "d": {}
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Hắn nhướng mày, ghi vài chữ lên sổ.",
+            "d": {
+              "nn": 10
+            }
+          }
+        },
+        {
+          "t": "Khai nửa thật nửa giả",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nói đủ để hắn tin, không đủ để hắn tìm ra. Hắn biết thêm về Vực Xích Hà.",
+            "d": {
+              "nn": -5,
+              "se": 5
+            }
+          }
+        },
+        {
+          "t": "Giả điên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhăn mặt rồi rời đi sớm. Nhưng cô cũng mất đi chút thể diện.",
+            "d": {
+              "nn": -5,
+              "w": "sh-"
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn nhìn cô đầy nghi ngờ, rồi gật đầu như đã hiểu ra điều gì.",
+            "d": {
+              "nn": 12
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "scene": "court",
+      "place": "Chấp pháp đường",
+      "kind": "nan",
+      "title": "Phán quyết",
+      "text": "Đại trưởng lão nhìn lên tập chứng cứ. Dù cô chọn gì, ông vẫn sẽ tuyên một câu: Hiến tế để chuộc tội.",
+      "tieu": "Phán quyết nào cũng dẫn tới kiệu hoa. Chọn cách bước vào nó.",
+      "cast": "lt,hn,lmv",
+      "ch": [
+        {
+          "t": "Nộp chứng cứ đã gom",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Mộng Vy bị phạt quỳ từ đường. Cô nghe thấy tiếng thở phì phì của nàng sau lưng.",
+            "d": {
+              "nn": -10
+            },
+            "f": "vay_lo,chung_cu_tra"
+          },
+          "needT": "Cần ít nhất 2 chứng cứ"
+        },
+        {
+          "t": "Nhận tội để đổi lấy kiệu hoa tự nguyện",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô cúi đầu thật thấp, và ghi nhớ cảm giác nhục nhã này.",
+            "d": {
+              "nn": -5,
+              "w": "sh"
+            }
+          }
+        },
+        {
+          "t": "Chống án",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô gây áp lực, và họ phải nghe cô đến cùng.",
+            "d": {
+              "se": 10,
+              "hao": -5
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Lời cô chỉ khiến họ cau mày hơn.",
+            "d": {
+              "se": 10,
+              "hao": -5
+            },
+            "f": "khac_nghiet"
+          }
+        }
+      ]
+    },
+    {
+      "id": "x07",
+      "scene": "palace",
+      "place": "Bảo khố Lăng tộc",
+      "kind": "duyen",
+      "title": "Cơ duyên đầu tiên",
+      "text": "Giữa cơn hỗn loạn khi kết giới vỡ, Mộng Vy lẻn vào bảo khố lấy bí kíp trấn tộc. Cô thấy bóng váy lục lách qua cửa phụ.",
+      "tieu": "Cơ duyên đầu tiên của ngươi đang bị người khác nhặt. Ta thấy xót.",
+      "cast": "lt,lmv",
+      "ch": [
+        {
+          "t": "Chặn nàng lại trước cửa kho",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô chạm vào bí kíp trước nàng một nhịp.",
+            "d": {
+              "ac": -1
+            },
+            "f": "co_duyen1"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Nàng nhanh hơn, và vui vẻ bỏ đi với thứ lẽ ra thuộc về cô.",
+            "d": {
+              "cd": 1
+            }
+          }
+        },
+        {
+          "t": "Đổi lấy một món an toàn hơn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô lấy được một món nhỏ mà ít ai để ý.",
+            "d": {
+              "it": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Nàng chọn phần tốt hơn, cô chỉ còn nhìn theo.",
+            "d": {
+              "cd": 1
+            }
+          }
+        },
+        {
+          "t": "Mặc kệ nàng",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Nàng cầm bí kíp đi qua cô, không nói một lời.",
+            "d": {
+              "cd": 1,
+              "se": -5
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Bí thuật Lăng tộc",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x17",
+      "scene": "palace",
+      "place": "Vực Xích Hà, điện chính",
+      "kind": "chon",
+      "title": "Lão thần dâng lễ",
+      "text": "Ngô Lạc, lão thượng thần áo tím sẫm thêu vảy rắn, dâng lễ mừng tân phủ nhân. Nụ cười ông ta hiền lành, nhưng mắt dò xét từng cử chỉ của cô.",
+      "tieu": "Lão già này mà tốt bụng thì ta là phượng hoàng.",
+      "cast": "lt,nl,td",
+      "ch": [
+        {
+          "t": "Nhận lễ và nói khéo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lão cười, và danh tiếng của cô trong Vực tăng lên một bậc.",
+            "d": {
+              "tl": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lão cười nhạt, ghi nhớ từng chữ cô vừa nói.",
+            "d": {
+              "tl": 0,
+              "nn": 3
+            }
+          }
+        },
+        {
+          "t": "Từ chối lễ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả điện thì thầm khen cô biết giữ mình. Thương Dạ liếc nhìn.",
+            "d": {
+              "tl": 3,
+              "hao": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lão ghi hận, vẻ mặt vẫn hiền như cũ.",
+            "d": {
+              "tl": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu soi kỹ món lễ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu tìm thấy một lá bùa theo dõi giấu dưới đáy hộp.",
+            "d": {},
+            "f": "goi_y_x19"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Tiểu Châu không tìm ra gì, và cô mất thời gian.",
+            "d": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "x18",
+      "scene": "palace",
+      "place": "Vực Xích Hà, điện lớn",
+      "kind": "hiem",
+      "title": "Yến tiệc rắn",
+      "text": "Trong yến mừng ở điện lớn, một chén rượu được đặt riêng trước mặt cô. Chu Linh ngồi đối diện, nụ cười không đều.",
+      "tieu": "Chén rượu đó đáng ngờ nhất cả bữa tiệc. Ngươi đoán đúng rồi đấy.",
+      "cast": "lt,cl,td",
+      "ch": [
+        {
+          "t": "Giả bệnh để tránh rượu",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô che miệng ho khẽ. Mọi người tin.",
+            "d": {
+              "tl": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Họ nhìn cô như nhìn kẻ sợ hãi. Cô mất thể diện.",
+            "d": {
+              "tl": -3
+            }
+          }
+        },
+        {
+          "t": "Đổi chén với Chu Linh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chu Linh nâng chén lên uống, rồi ôm bụng. Cô cố nhịn cười.",
+            "d": {
+              "tl": 8,
+              "hao": -2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Chu Linh bắt gặp bàn tay cô. Nụ cười nàng tắt hẳn.",
+            "d": {
+              "tl": -5
+            }
+          }
+        },
+        {
+          "t": "Uống rồi nhờ Tiểu Châu giải độc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn thấy cô liều mình uống vì lời mời của hắn. Mắt hắn lóe lên.",
+            "d": {
+              "hao": 5,
+              "ac": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Độc phát nhanh hơn dự tính. Hắn nhìn thấy, và hắc khí của hắn dâng lên.",
+            "d": {
+              "hac": 3,
+              "sinh": -12
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x19",
+      "scene": "palace",
+      "place": "Vực Xích Hà, tẩm cung",
+      "kind": "chon",
+      "title": "Mật thư trong lò sưởi",
+      "text": "Cô nhặt được một mẩu thư cháy dở trong lò sưởi. Trên đó vẫn còn đọc được mấy chữ về Long thú và ngày lão sẽ hành động.",
+      "tieu": "Thư bị đốt dở thường là thứ người ta muốn giấu nhất.",
+      "cast": "lt,tc",
+      "ch": [
+        {
+          "t": "Chép lại nội dung",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chép lại gần hết, từng chữ một.",
+            "d": {},
+            "f": "co_mat_thu"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô chép thiếu, chỉ giữ được một nửa.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Lấy nguyên bản",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lấy được nguyên bản, nhưng Ngô Lạc sẽ nhận ra mất thứ gì đó.",
+            "d": {},
+            "f": "co_mat_thu,mat_ban"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Một người hầu bắt gặp cô, và chuyện đến tai lão thần.",
+            "d": {
+              "tl": -8
+            }
+          }
+        },
+        {
+          "t": "Đưa thẳng cho Thương Dạ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đọc xong, im lặng rất lâu. Lão thần sẽ cảnh giác hơn.",
+            "d": {
+              "hao": 8,
+              "se": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nghi cô dàn dựng để lấy lòng. Mắt hắn lạnh đi.",
+            "d": {
+              "hao": -5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x20",
+      "scene": "palace",
+      "place": "Phố yêu dưới Vực Xích Hà",
+      "kind": "duyen",
+      "title": "Phiên chợ yêu",
+      "text": "Sau chuyện chén thuốc đen, hắn cho cô ra phố yêu để nguôi giận. Tiểu yêu bán tin tức như bán bánh, và chẳng ai thèm kiêng dè cô.",
+      "tieu": "Chợ là nơi tin tức rẻ nhất cả Vực. Mua nhiều vào.",
+      "cast": "lt,tc",
+      "ch": [
+        {
+          "t": "Mua chuộc tiểu yêu bằng một vật phẩm",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Chúng vây quanh kể hết những gì chúng biết.",
+            "d": {
+              "tl": 10,
+              "it": -1
+            }
+          },
+          "needT": "Cần ít nhất 1 vật phẩm"
+        },
+        {
+          "t": "Cứu một tiểu yêu bị bắt nạt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu yêu nhỏ xíu rưng rưng. Từ nay cô có thêm một đồng minh trong chợ.",
+            "d": {
+              "tl": 6
+            },
+            "f": "dong_minh"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô bước ra quá muộn, tiểu yêu đã bị lôi đi.",
+            "d": {
+              "tl": 0
+            }
+          }
+        },
+        {
+          "t": "Đứng ngoài xem",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nhìn đủ để thấy chợ này sống bằng gì.",
+            "d": {
+              "ac": -1
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Mặc cả",
+        "s": "van",
+        "v": 1
+      }
+    },
+    {
+      "id": "x21",
+      "scene": "palace",
+      "place": "Vực Xích Hà, phòng tắm",
+      "kind": "hiem",
+      "title": "Giọt độc trong nước tắm",
+      "text": "Nước tắm đêm đó có mùi lạ. Ngô Lạc cho người nhỏ dầu độc vào bồn, định đổ tội cho cô.",
+      "tieu": "Mùi nước này không phải mùi hoa. Đừng nhúng chân vào.",
+      "cast": "lt,nl,tc",
+      "ch": [
+        {
+          "t": "Báo ngay cho Thương Dạ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn dò ra thủ phạm trong nửa canh giờ. Ngô Lạc ghi hận.",
+            "d": {
+              "hao": 5,
+              "tl": 5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn không tin hẳn, và nhíu mày nhìn cô.",
+            "d": {
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Tự giải độc rồi im lặng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô tự xử lý gọn gàng. Chẳng ai biết có chuyện.",
+            "d": {
+              "tl": 3,
+              "ac": -1
+            }
+          },
+          "b": 0.65,
+          "bad": {
+            "x": "Độc ngấm chậm hơn cô nghĩ. Hắn thấy cô tái mặt.",
+            "d": {
+              "hac": 5
+            }
+          }
+        },
+        {
+          "t": "Bỏ qua chuyện này",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô lau khô tóc, ngủ một giấc dài.",
+            "d": {
+              "hac": 5,
+              "hao": -3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x22",
+      "scene": "palace",
+      "place": "Vực Xích Hà, điện chính",
+      "kind": "nan",
+      "title": "Lão thần lộ mặt",
+      "text": "Ngô Lạc dò ra điểm yếu đôi cánh của Thương Dạ. Đêm nay lão sẽ mở cửa cho Long thú. Cô biết điều đó từ trước, nhưng chưa biết nên nói với ai.",
+      "tieu": "Lão sắp mở cửa. Đây là lần cuối ngươi còn có thể ngăn.",
+      "cast": "lt,nl,td",
+      "ch": [
+        {
+          "t": "Vạch trần lão ngay giữa triều",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả điện nín thở. Lão thần tái mặt. Cô vừa lấy lại một nước cờ.",
+            "d": {},
+            "f": "thanh_long_bi_mat"
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Lão trở mặt trước cả điện, vu cho cô tội phản.",
+            "d": {
+              "hac": 3,
+              "hao": -10
+            }
+          },
+          "needT": "Cần mật thư và Thế lực từ 40"
+        },
+        {
+          "t": "Cảnh báo riêng cho Thương Dạ",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Hắn nghe xong, im lặng. Cô nghe thấy tiếng hắn nghiến răng.",
+            "d": {
+              "hao": 5
+            },
+            "f": "canh_bao"
+          }
+        },
+        {
+          "t": "Không làm gì",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nhìn trời tối dần mà không nói gì.",
+            "d": {
+              "se": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "scene": "clan",
+      "place": "Phủ Lăng gia, từ đường",
+      "kind": "hiem",
+      "title": "Lời đồn về hầm đá",
+      "text": "Ở phủ này, ai cũng có một nơi không được đến. Tiểu Châu ngửi thấy mùi máu cũ rất nhạt, bốc lên từ dưới từ đường.",
+      "tieu": "Mùi máu cũ dưới từ đường. Ta nói thật, ngươi không nên đi.",
+      "cast": "lt,tc",
+      "ch": [
+        {
+          "t": "Lén xuống xem lúc đêm khuya",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhận ra một cánh cửa đá giấu sau bức bình phong.",
+            "d": {},
+            "f": "biet_ham"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Một người gác đêm chiếu đèn thẳng vào mặt cô.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Hỏi mẹ chuyện dưới từ đường",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mẹ nhìn cô thật lâu, rồi thì thầm vài câu. Cô hiểu mẹ đang sợ.",
+            "d": {
+              "w": "par"
+            },
+            "f": "biet_ham"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Mẹ giật mình, và cả hai bị nhìn chú ý.",
+            "d": {
+              "nn": 5
+            }
+          }
+        },
+        {
+          "t": "Phớt lờ, coi như không nghe thấy gì",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô quay vào, đóng cửa. Tiểu Châu im lặng cả buổi tối.",
+            "d": {
+              "se": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "scene": "clan",
+      "place": "Cửa đá dưới từ đường",
+      "kind": "hiem",
+      "title": "Cánh cửa đá",
+      "text": "Cánh cửa đá khắc ấn gia tộc đứng sừng sững trước mặt. Nếu Mộng Vy chưa bị vạch trần, nàng cũng đang đứng ở đó, im lặng chờ.",
+      "tieu": "Cửa đá khắc ấn Lăng tộc. Ngươi là con gái gia chủ, ấn này của ngươi.",
+      "cast": "lt,lmv",
+      "ch": [
+        {
+          "t": "Mở bằng ấn hiệu của mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ấn sáng lên, cánh cửa mở ra. Cô bước vào.",
+            "d": {},
+            "f": "vao_ham"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Chuông báo động vang lên khắp từ đường.",
+            "d": {
+              "nn": 12
+            }
+          }
+        },
+        {
+          "t": "Cùng Mộng Vy vào hầm",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Hai người vào cùng nhau. Nụ cười của nàng không đổi, nhưng ánh mắt thì khác.",
+            "d": {
+              "cd": 1
+            },
+            "f": "vao_ham"
+          },
+          "needT": "Chỉ khi Mộng Vy chưa bị vạch trần"
+        },
+        {
+          "t": "Canh cửa rồi gọi người đến",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô đứng ngoài, và không biết gì thêm về hầm đá.",
+            "d": {
+              "nn": -5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "scene": "clan",
+      "place": "Hầm đá dưới từ đường",
+      "kind": "hiem",
+      "title": "Pháp trận khắc tên cô",
+      "text": "Trên sàn đá khắc một pháp trận cải mệnh, và tên Lăng Tuyết được viết ngay chính giữa. Tiểu Châu cảnh báo rằng thứ gì cũng có giá phải trả.",
+      "tieu": "Cải mệnh. Nghe thì hay, nhưng có giá. Luôn có giá.",
+      "cast": "lt,tc",
+      "ch": [
+        {
+          "t": "Đọc kỹ cách vận hành",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô hiểu ra cái giá thật: máu từ thú đan của Thương Dạ.",
+            "d": {},
+            "f": "hieu_gia"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô đọc sai, chỉ thấy lợi mà không thấy hại.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Chạm tay vào pháp trận",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Khói xanh bốc lên, và cô thấy bóng hình của chính mình trong một kiếp khác. Phần tiếp theo sẽ trọn vẹn hơn.",
+            "d": {},
+            "f": "thay_bong"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Pháp trận phản đòn, hất cô ra xa.",
+            "d": {
+              "nn": 10,
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Bỏ đi, không đụng vào thứ gì",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô quay lưng, không ngoái lại. Tiểu Châu thở phào.",
+            "d": {
+              "se": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "scene": "clan",
+      "place": "Hầm đá dưới từ đường",
+      "kind": "chon",
+      "title": "Bóng của kiếp khác",
+      "text": "Hình bóng một Lăng Tuyết khác hiện lên trong khói xanh, gầy gò và lặng lẽ, như người chưa từng được sống trọn. Nàng không trách móc, chỉ hỏi cô sẽ giữ được điều nào trong ba điều ước dang dở.",
+      "tieu": "Nàng hỏi ngươi sẽ giữ được điều nào. Đừng trả lời vội.",
+      "cast": "lt,tc",
+      "ch": [
+        {
+          "t": "Hứa giữ cho cha mẹ bình an",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Bóng nàng khẽ gật. Cô thấy ngực mình ấm lên.",
+            "d": {
+              "hao": 3,
+              "w": "par"
+            }
+          }
+        },
+        {
+          "t": "Hứa xóa nỗi nhục của Lăng tộc",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Bóng nàng nhìn cô rất lâu, như muốn nhớ gương mặt này.",
+            "d": {
+              "nn": -5,
+              "w": "sh"
+            }
+          }
+        },
+        {
+          "t": "Hỏi xin bóng chỉ đường",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bóng nàng chỉ về phía màn đêm, như đang nhắc điều gì sắp tới.",
+            "d": {},
+            "f": "goi_y_x28"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bóng nàng tan trong gió.",
+            "d": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "x16",
+      "scene": "clan",
+      "place": "Hầm đá dưới từ đường",
+      "kind": "nan",
+      "title": "Lời cám dỗ phục sinh",
+      "text": "Đại trưởng lão, hoặc Mộng Vy, thì thầm bên tai cô: Chỉ cần một giọt máu, số mệnh của cô được viết lại, cả nhà có kết cục tốt. Giọng nói dịu dàng như rót mật vào tai.",
+      "tieu": "Một giọt máu. Máu của ai thì họ không nói. Ngươi biết đấy.",
+      "cast": "lt,hn,lmv",
+      "ch": [
+        {
+          "t": "Từ chối và phá trận",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Pháp trận nứt ra, ánh sáng lụi tắt. Cô thở hắt, như vừa ném đi một gánh nặng.",
+            "d": {
+              "ac": -2,
+              "hao": 5,
+              "w": "live"
+            },
+            "f": "res_refused"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Sương độc bốc lên mù mịt. Trận không vỡ, và cô bị ép lùi.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Cho trận chạy bằng máu mình, rồi xin thêm máu hắn",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cả ba điều ước đều được đáp ứng ngay lập tức. Nhưng ở nơi nào đó, Thương Dạ đau đớn thét lên.",
+            "d": {
+              "hac": 30,
+              "ac": 10,
+              "w": "all"
+            },
+            "f": "res_taken"
+          },
+          "hold": 1
+        },
+        {
+          "t": "Trì hoãn, nói cần suy nghĩ",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Họ nhìn nhau và không ép thêm. Cô biết mình chỉ mua thêm một chút thời gian.",
+            "d": {
+              "se": 10
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x24",
+      "scene": "clan",
+      "place": "Phủ riêng, hàng rào kết giới",
+      "kind": "chon",
+      "title": "Thư của mẹ",
+      "text": "Sau mười năm không ra cửa, một phong thư của mẹ luồn qua hàng rào kết giới. Chữ run run: Cha con vẫn giận, nhưng mẹ vẫn nhớ.",
+      "tieu": "Một lá thư của mẹ. Cầm lấy, cẩn thận kẻ rình.",
+      "cast": "lt,me",
+      "ch": [
+        {
+          "t": "Xin Thương Dạ cho hồi âm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn lặng lẽ gật đầu. Thư hồi âm bay đi ngay trong đêm.",
+            "d": {
+              "hao": 3,
+              "w": "par"
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn ngần ngại, và cô thôi không hỏi nữa.",
+            "d": {
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Lén gửi thư mà không báo hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thư đến tay mẹ bình yên.",
+            "d": {
+              "w": "par"
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Có người chặn thư, và hắn phát hiện ra.",
+            "d": {
+              "nn": 10,
+              "hac": 5
+            }
+          }
+        },
+        {
+          "t": "Không hồi âm",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô gấp thư lại, cất vào ngực áo.",
+            "d": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "x25",
+      "scene": "clan",
+      "place": "Phủ Lăng gia, bảng đá đen",
+      "kind": "hiem",
+      "title": "Nỗi nhục được nhắc lại",
+      "text": "Tin từ Lăng tộc truyền đến: cô là thứ đã đối với yêu vật. Lão đại trưởng cho khắc tên cô vào bảng đá đen của từ đường, nơi dành cho những kẻ bị gia tộc ruồng bỏ.",
+      "tieu": "Tên ngươi bị khắc lên bảng đá đen. Nghe thì ghê, nhưng đá cũng chỉ là đá.",
+      "cast": "lt,hn",
+      "ch": [
+        {
+          "t": "Viết văn bản công khai phủ nhận",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Văn bản được dán khắp thành. Nhiều người đọc xong im lặng.",
+            "d": {
+              "nn": -5,
+              "w": "sh"
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Văn bản bị gỡ xuống ngay trong đêm.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Đứng trước đám đông cùng Thương Dạ ở dạng người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả đám đông nín thở. Cô nắm tay hắn thật chặt, và hắn không rút lại.",
+            "d": {
+              "se": 5,
+              "w": "sh"
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Đám đông hoảng sợ bỏ chạy, và hắc khí của hắn dâng lên.",
+            "d": {
+              "hac": 8,
+              "nn": 10
+            }
+          }
+        },
+        {
+          "t": "Mặc kệ",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô quay vào trong, không nhìn bảng đá thêm lần nào.",
+            "d": {
+              "se": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "x26",
+      "scene": "cage",
+      "place": "Ngục dưới phủ Lăng",
+      "kind": "chon",
+      "title": "Mạc Thanh Tuấn trong ngục",
+      "text": "Mạc Thanh Tuấn, võ phục chàm viền bạc, mắt đào hoa, ghé thăm cô trong ngục bằng nụ cười dịu dàng. Anh chính là người nghĩ ra kế mồi nhử.",
+      "tieu": "Anh ta mà cười thì ta cũng thấy ớn. Nhưng đây là nhân vật chính của truyện gốc, nhớ chưa.",
+      "cast": "lt,mtt",
+      "ch": [
+        {
+          "t": "Thuyết phục bằng lợi ích",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh im lặng rất lâu, rồi gật đầu. Có điều gì đó trong mắt anh đã đổi.",
+            "d": {},
+            "f": "mtt_doi_phe"
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Anh mỉm cười và mọi lời của cô đều lọt vào tai kẻ khác.",
+            "d": {
+              "nn": 10
+            }
+          }
+        },
+        {
+          "t": "Dùng tình xưa để lay động",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh dao động, và vô tình để lộ giờ mồi nhử sẽ ra tay.",
+            "d": {},
+            "f": "biet_gio"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh nhìn cô như nhìn một quân cờ.",
+            "d": {
+              "se": 10
+            }
+          }
+        },
+        {
+          "t": "Im lặng",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Anh tự thuật lại kế hoạch, như thể cô không còn quan trọng nữa.",
+            "d": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "x27",
+      "scene": "clan",
+      "place": "Phủ Lăng gia, dưới cây hạnh",
+      "kind": "chon",
+      "title": "Lăng Doanh trong sân",
+      "text": "Lăng Doanh đứng dưới cây hạnh, ánh mắt vừa ghét vừa lo. Nàng còn nhớ những năm hai người cùng lớn lên. Sau này, nàng sẽ kết hôn với Mạc Thanh Tuấn.",
+      "tieu": "Cô ta đứng dưới cây hạnh. Cái cây thì vô tội.",
+      "cast": "lt,sd",
+      "ch": [
+        {
+          "t": "Nói chuyện thật lòng với nàng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nàng nhìn cô rất lâu rồi hứa sẽ báo tin trước khi mồi nhử ra tay.",
+            "d": {
+              "se": -5
+            },
+            "f": "doanh_bao"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Nàng quay đi, và mách lại với các trưởng lão.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Đe dọa nhẹ để nàng sợ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nàng tái mặt, và đề phòng cô từ đó về sau.",
+            "d": {
+              "hac": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Nàng cười nhạt, và đề phòng cô.",
+            "d": {
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Không nói gì",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nhìn nàng bước đi, lòng thấy nặng.",
+            "d": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "x28",
+      "scene": "cage",
+      "place": "Ngục dưới phủ Lăng, đêm trước mồi nhử",
+      "kind": "chon",
+      "title": "Đêm trước mồi nhử",
+      "text": "Đêm trước khi di vật của cô được đem ra làm mồi, cô chỉ có chiếc vòng tay của hắn để gửi đi một tín hiệu duy nhất. Hắn sẽ phải hiểu.",
+      "tieu": "Chỉ một tín hiệu thôi. Ngươi chọn cho khéo.",
+      "cast": "lt,tc",
+      "ch": [
+        {
+          "t": "Gửi tín hiệu: Cô an toàn, đây là mồi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Vòng tay lóe sáng nhẹ giữa đêm. Hắn sẽ hiểu, và cô tin điều đó.",
+            "d": {},
+            "f": "tin_hieu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tín hiệu bị méo, và cô không biết hắn nhận được gì.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Giữ nguyên vòng, không gửi gì",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô nắm chặt vòng tay trong lòng bàn tay, rất lâu.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Gửi tín hiệu giả để lừa người canh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Người canh bị lừa, và tín hiệu thật vẫn đến được tay hắn.",
+            "d": {
+              "nn": -5
+            },
+            "f": "tin_hieu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô bị bắt quả tang. Họ siết chặt canh gác hơn.",
+            "d": {
+              "nn": 15
+            },
+            "f": "khac_nghiet"
+          }
+        }
+      ]
+    },
+    {
+      "id": "x29",
+      "scene": "field",
+      "place": "Cánh đồng hoang, giữa tàn tro",
+      "kind": "chon",
+      "title": "Phán quyết của đại trưởng lão",
+      "text": "Giữa chiến trường đổ nát, Lăng Cảnh Hàn chống trượng ngọc, vẫn điềm tĩnh như chưa từng bày mưu. Ông đã đứng đó từ trước khi tiếng nổ vang lên.",
+      "tieu": "Ông ta vẫn điềm tĩnh. Cứ coi như trận bão này không đến từ ông.",
+      "cast": "lt,hn,td",
+      "ch": [
+        {
+          "t": "Công khai chứng cứ trước mặt mọi người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả bãi chiến trường im phăng phắc. Nghi ngờ về cô tan thành mây khói.",
+            "d": {
+              "nn": -100,
+              "w": "sh"
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Lời cô bị gạt đi, và ông chỉ mỉm cười.",
+            "d": {
+              "nn": 10
+            }
+          },
+          "needT": "Cần mật thư hoặc chứng cứ"
+        },
+        {
+          "t": "Giữ chứng cứ làm con bài",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Cô giữ lại tập thư trong áo, không nói gì.",
+            "d": {
+              "se": -5
+            }
+          }
+        },
+        {
+          "t": "Giao ông cho Thương Dạ",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Hắn nhìn ông một lúc, rồi đẩy cô ra sau lưng. Hắn nghĩ cô đã chọn bên hắn.",
+            "d": {
+              "hac": 10,
+              "ac": -3
+            }
+          }
+        }
+      ],
+      "aft": true
+    }
+  ]
+}

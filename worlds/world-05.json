@@ -1,0 +1,3400 @@
+{
+  "id": "w5",
+  "no": 5,
+  "chapEnd": [
+    6,
+    15,
+    24,
+    31,
+    43
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": 0,
+  "p0": {
+    "mi": 58,
+    "tri": 60,
+    "van": 55
+  },
+  "params": {
+    "ac": 0.8,
+    "hac": 1.3,
+    "hao": 1,
+    "bad": 2,
+    "h0": 75
+  },
+  "names": {
+    "ns": "Ninh Sương",
+    "kl": "Kỷ Liệt",
+    "kmi": "Kỷ Miên",
+    "dki": "Dư Kính",
+    "pc": "Đội trưởng Phương",
+    "ret": "Rết",
+    "lcb": "Lôi Chấn Bằng",
+    "ado": "Anh Đồng",
+    "mti": "Mã Tiềm",
+    "lta": "Lão Tam",
+    "mbu": "Mạnh Bưu",
+    "cvi": "Chú Viên",
+    "ndd": "Ngưu Đại Đầu",
+    "tta": "Tôn Tam",
+    "lkh": "Lý Kha",
+    "tbi": "Tạ Bình",
+    "cba": "Cù Bá"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 5 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh là hình vẽ tạm bằng mã.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Ngủ một giấc không cần súng",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Kỷ Liệt đã về không. Công ty mới thuê hết anh em cũ làm bảo vệ; Kỷ Miên học xong đại học; Dư Kính được phục chức, có lần ghé qua văn phòng và hai người đàn ông đã nâng ly với nhau. Đêm nào hắn cũng ngủ một giấc dài, dưới gối không còn khẩu súng nào.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "jdawn"
+    },
+    "near": {
+      "n": "Gần như trọn vẹn",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hắn đã rửa tay, nhưng thỉnh thoảng vẫn đứng bên cửa sổ nhìn về phía những sòng bạc cũ. Mỗi lần thế, cô kéo tay hắn về, và hắn để yên cho cô kéo.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "jdawn"
+    },
+    "half": {
+      "n": "Ở lại bên nhau",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hắn vẫn là Tu La của Tân Dương, vẫn đặt luật bằng nắm đấm. Nhưng hắn không giấu cô điều gì nữa, và cô ở lại, từng ngày kéo hắn ra khỏi bóng tối.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "jcity"
+    },
+    "black": {
+      "n": "Tu La trọn kiếp",
+      "c": "Hắc hóa chạm 100. Kỷ Liệt không còn nghe thấy ai. Đêm đó cả Tân Dương chìm trong tiếng còi xe cảnh sát. Tiểu Châu kéo linh hồn cô đi trước khi hắn kịp quay lại.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "jcity"
+    },
+    "bdead": {
+      "n": "Tu La ngã xuống",
+      "c": "Sinh mệnh của Kỷ Liệt về 0. Người đàn ông đầy sẹo ấy ngã xuống, trong túi áo ngực vẫn còn cành liễu khô hôm kết nghĩa.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "jfactory"
+    },
+    "dead": {
+      "n": "Ninh Sương vẫn chết",
+      "c": "Sinh mệnh cạn kiệt. Tiểu Châu kéo linh hồn cô đi, khi ở đâu đó Kỷ Liệt vẫn đang phá từng cánh cửa đi tìm cô.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "jfactory"
+    }
+  },
+  "events": [
+    {
+      "id": "j01",
+      "scene": "jinter",
+      "place": "Đồn cảnh sát quận Đông · Ngày thứ nhất",
+      "kind": "hiem",
+      "title": "Phòng thẩm vấn",
+      "text": "Ninh Sương mở mắt dưới ánh đèn chói. Hai tay, hai chân cô bị còng vào ghế sắt. Đối diện, cảnh sát Mạnh Bưu gõ dùi cui xuống bàn, bắt cô ký vào bản khai “cố ý giết người”. Ký ức ùa về: ở tiệc lớp, Lôi Tuấn, con trai ông trùm bất động sản Lôi Chấn Bằng, lôi bạn cùng phòng của cô là Nhan Mẫn ra ngoài; cô đẩy hắn ra, hắn ngã đập đầu vào cạnh bàn rồi không dậy nữa. Nhan Mẫn đã nhận tiền nhà họ Lôi nên không chịu làm chứng. Bà nội cô mất vì sốc khi nghe tin.",
+      "tieu": "Zzz... chào ngươi... ta là Tiểu Châu, xuyên tới đây hết sạch sức rồi. Nghe này: nếu ngươi nhận án chung thân, ba năm sau ngươi bị đánh chết trong trại. Ở thế giới này có một kẻ Ác niệm 100... ta phải ngủ để hồi sức đã... đừng ký gì hết...",
+      "cast": "ns,mbu,tc",
+      "ch": [
+        {
+          "t": "Hỏi thẳng: nhà họ Lôi trả ông bao nhiêu",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mạnh Bưu đỏ mặt, giơ dùi cui lên rồi khựng lại, liếc chiếc camera trên góc trần. Hắn không dám đánh.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "camera"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn đập dùi cui xuống mép bàn sát tay cô. Cổ tay cô bầm tím.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Im lặng, nhìn thẳng vào camera",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô không nói một lời suốt hai tiếng. Ai đó bên kia tấm kính đang xem rất kỹ.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "camera"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Mạnh Bưu cười khẩy: vào trại rồi mày sẽ biết. Cô run tay suốt buổi.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Kể lại sự việc từng chi tiết cho biên bản",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô kể rõ giờ, chỗ đứng, ai đẩy ai. Mạnh Bưu không ghi chữ nào, nhưng camera đã ghi đủ.",
+            "d": {},
+            "f": "camera"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn xé biên bản ngay trước mặt cô.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày thứ nhất, đồn cảnh sát quận Đông, thành phố Tân Dương. Ninh Sương, sinh viên năm nhất 19 tuổi, bị thẩm vấn vì vô ý làm chết Lôi Tuấn; cảnh sát Mạnh Bưu nhận tiền nhà họ Lôi để ép cô nhận tội cố ý giết người.",
+      "no": 1
+    },
+    {
+      "id": "j02",
+      "scene": "jinter",
+      "place": "Đồn cảnh sát quận Đông · Chiều ngày thứ nhất",
+      "kind": "chon",
+      "title": "Lời đề nghị của đội Phương",
+      "text": "Cửa mở. Một người đàn ông trung niên mặc thường phục bước vào, đuổi Mạnh Bưu ra ngoài. Ông là Phương Chính, đội trưởng cục Đặc án, vừa xem hết đoạn camera. Ông tin cô vô ý, nhưng một mình ông không lật được án. Ông đề nghị: hồ sơ của cô được đưa ra tái thẩm, cô được tại ngoại; đổi lại, cô vào trại giam Thiết Sơn làm nhân viên thời vụ, tiếp cận Kỷ Liệt, trùm hắc đạo biệt hiệu Tu La. Hắn đang thụ án một năm vì một tội nhẹ, còn chừng sáu tháng nữa là ra; cảnh sát chưa từng tìm được chứng cứ nào khác của hắn.",
+      "tieu": "Zzz... Kỷ Liệt... đó, đó chính là kẻ Ác niệm 100. Mục tiêu của ngươi. Nhận lời đi, ngươi có sáu tháng trước ngày hắn ra trại... zzz",
+      "cast": "ns,pc,tc",
+      "ch": [
+        {
+          "t": "Nhận lời, nhưng nói rõ: tôi không gài bẫy ai",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Phương Chính nhìn cô rất lâu rồi gật đầu: được, cô chỉ cần quan sát. Cô ghi nhớ giới hạn mình vừa đặt ra.",
+            "d": {
+              "ac": -2
+            },
+            "f": "gioi_han"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Ông cười nhạt: ở chỗ đó, không gài người thì người gài cô. Cô vẫn phải ký.",
+            "d": {
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Đòi xem hồ sơ của Kỷ Liệt trước khi ký",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hồ sơ mỏng đến lạ: mười hai tuổi lang thang, hai mươi tuổi đã có tên trong mọi vụ lớn mà chưa vụ nào kết tội được. Dưới cùng có một dòng viết tay: không buôn ma túy.",
+            "d": {
+              "ac": -1
+            },
+            "f": "biet_kl"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Phương Chính gấp tập hồ sơ lại: cô biết càng ít càng an toàn.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Ký ngay cho xong",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ký. Phương Chính bảo ba tháng ông đến thăm một lần. Cô thở ra lần đầu tiên từ sáng.",
+            "d": {
+              "sinh": 4,
+              "hac": 1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô ký vội đến mức quên hỏi bao giờ được tái thẩm.",
+            "d": {
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều ngày thứ nhất, phòng thẩm vấn. Đội trưởng Phương Chính của cục Đặc án đuổi Mạnh Bưu ra, đề nghị cho Ninh Sương tái thẩm nếu cô vào trại giam Thiết Sơn tiếp cận trùm hắc đạo Kỷ Liệt.",
+      "no": 2
+    },
+    {
+      "id": "j03",
+      "scene": "jmess",
+      "place": "Nhà ăn trại giam Thiết Sơn · Ngày thứ ba",
+      "kind": "duyen",
+      "title": "Bàn của người ngồi một mình",
+      "text": "Trại Thiết Sơn giam toàn tù án nặng; cai ngục chỉ quản được cổng, bên trong thì kẻ mạnh đặt luật. Cô được xếp ghi điểm tích phân và phụ trạm y tế, làm cùng tổ lao động bếp: anh Đồng, tổ trưởng đầu trọc, ít nói mà nghĩa khí; Mã Tiềm, gã lừa đảo được gọi là Cáo mặt trắng; và Lão Tam, người cứ thấy sinh viên là kính nể. Mã Tiềm bảo cô sáu giờ mới phát cơm chiều. Cô đến đúng sáu giờ thì cơm đã gần hết, cả nhà ăn chỉ còn một bàn trống ghế, giữa bàn có một người đàn ông ngồi ăn một mình. Cả nhà ăn đang nín thở nhìn cô.",
+      "tieu": "Zzz... ngồi xa xa thôi... người kia trông không giống người thường...",
+      "cast": "ns,ado,mti,kl",
+      "ch": [
+        {
+          "t": "Ngồi quay lưng ở đầu bàn xa nhất",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ăn hết bát canh mà không ngoảnh lại. Lúc đứng dậy, người đàn ông nhìn gáy cô vài giây rồi mới đi.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "ngoi_ban"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô làm đổ canh ra bàn. Hắn đứng dậy bỏ đi, không nhìn lấy một lần.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Hỏi anh ta có ai ngồi chỗ này không",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngẩng lên, mắt sắc như dao, rồi hất cằm về phía ghế trống. Cả nhà ăn ồ lên khe khẽ.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            },
+            "f": "ngoi_ban"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn không trả lời. Cô đứng cầm khay đến khi hắn ăn xong.",
+            "d": {
+              "hac": 1,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Đứng ăn ở góc tường cho yên chuyện",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ăn vội ở góc tường. Không ai để ý đến cô, kể cả người đàn ông ấy.",
+            "d": {
+              "hac": 1
+            }
+          },
+          "b": 0.65,
+          "bad": {
+            "x": "Đám tù bàn bên cố tình xô cô ngã, khay cơm đổ đầy sàn.",
+            "d": {
+              "sinh": -5,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày thứ ba, nhà ăn trại giam Thiết Sơn. Ninh Sương bắt đầu làm nhân viên thời vụ cùng tổ lao động bếp (anh Đồng, Mã Tiềm, Lão Tam); Mã Tiềm cố ý báo sai giờ cơm để cô đến muộn.",
+      "no": 3
+    },
+    {
+      "id": "j04",
+      "scene": "jhall",
+      "place": "Phòng ghi điểm khu A · Ngày thứ tư",
+      "kind": "hiem",
+      "title": "Rết đòi phần",
+      "text": "Sáng hôm sau, một gã lực lưỡng có vết sẹo dài từ trán xuống má chặn cửa phòng ghi điểm. Hắn là Bành Lực, biệt hiệu Rết, phó ngục bá khu A, nghe nói buôn ma túy từ hồi còn ở ngoài. Hắn ném xấp danh sách lên bàn: ghi khống điểm tích phân cho đàn em hắn, mỗi đứa mười điểm một ngày. Cô từ chối. Rết cười, bảo tối nay ở đại sảnh hắn sẽ “dạy luật” cho cô. Anh Đồng kéo cô ra sau, khuyên nhịn cho qua.",
+      "tieu": "Zzz... sẹo dài thế kia... không phải mục tiêu đâu... nhưng cẩn thận...",
+      "cast": "ns,ret,ado",
+      "ch": [
+        {
+          "t": "Ghi khống một nửa để giữ yên",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Rết cầm danh sách đi, không cảm ơn. Cô biết hắn sẽ còn quay lại đòi thêm.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn thấy cô sợ, đòi luôn phần còn lại.",
+            "d": {
+              "sinh": -4,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Từ chối, nói rõ cai ngục kiểm từng con số",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Rết nghiến răng nhưng không làm gì được trong giờ làm việc. Hắn chỉ nói: tối nay.",
+            "d": {
+              "ac": -2
+            },
+            "f": "cung_ran"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn hất đổ cả bàn sổ, cô phải ngồi chép lại đến trưa.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Hỏi anh Đồng về Rết",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh Đồng kể: Rết từng đánh chết người trong trại mà không ai dám khai, và cả trại chỉ có một người hắn sợ.",
+            "d": {
+              "ac": -1
+            },
+            "f": "biet_ret"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh Đồng chỉ lắc đầu: đừng hỏi.",
+            "d": {}
+          }
+        }
+      ],
+      "ctx": "Ngày thứ tư, phòng ghi điểm khu A. Bành Lực, biệt hiệu Rết, phó ngục bá khu A, ép Ninh Sương ghi khống điểm cho đàn em và hẹn trả đũa ở đại sảnh tối nay.",
+      "no": 4
+    },
+    {
+      "id": "j05",
+      "scene": "jhall",
+      "place": "Đại sảnh khu A · Tối ngày thứ tư",
+      "kind": "nan",
+      "title": "Đêm ở đại sảnh",
+      "text": "Tối đó, hai mươi đàn em của Rết đứng kín sân tầng một; bốn tầng hành lang chật người xem. Rết đổ khay cơm thừa xuống chân cô, bắt cô cúi đầu xin lỗi trước cả trại. Đúng lúc ấy, cả sảnh im bặt. Trên hành lang tầng bốn, người đàn ông ở bàn ăn hôm trước thong thả đi qua, một tay đút túi quần. Rết cũng nín thở. Người kia dừng lại một giây, chỉ nói: các ngươi, tùy ý. Rồi đi tiếp. Rết cười to, lao vào cô.",
+      "tieu": "Tỉnh rồi tỉnh rồi! Hắn khinh địch lắm, cứ nhắm khớp tay mà khóa! Zzz...",
+      "cast": "ns,ret,kl",
+      "ch": [
+        {
+          "t": "Né cú đấm đầu, khóa tay quật ngã hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn lao quá đà. Cô xoay người khóa tay, quật hắn xuống nền xi măng; trán hắn rách một đường dài. Rết bị khiêng vào bệnh xá, cả bốn tầng lặng đi rồi nổ tung.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            },
+            "f": "ha_ret"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô né được hai cú, cú thứ ba trúng vai. Cô vẫn kịp khóa tay quật hắn ngã rách trán, Rết bị khiêng vào bệnh xá, nhưng vai cô sưng vù.",
+            "d": {
+              "sinh": -12
+            },
+            "f": "ha_ret"
+          },
+          "learn": {
+            "n": "Vật khóa khớp",
+            "s": "van",
+            "v": 2
+          }
+        },
+        {
+          "t": "Lùi về dưới mắt camera rồi mới đánh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô lùi đến dưới camera. Rết lao theo, cô mượn đà khóa tay quật hắn ngã. Cai ngục ghi rõ: hắn ra tay trước. Rết bị khiêng vào bệnh xá.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            },
+            "f": "ha_ret"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Đàn em Rết đứng chắn camera. Cô vẫn quật được Rết ngã rách trán, nhưng lãnh mấy cú đá. Rết bị khiêng vào bệnh xá.",
+            "d": {
+              "sinh": -10
+            },
+            "f": "ha_ret"
+          },
+          "learn": {
+            "n": "Vật khóa khớp",
+            "s": "van",
+            "v": 2
+          }
+        },
+        {
+          "t": "Ngẩng lên nhìn thẳng người ở tầng bốn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ánh mắt hai người chạm nhau một giây. Cô quay lại khóa tay Rết, quật hắn ngã rách trán. Trên tầng bốn, người ấy khẽ nhếch môi. Rết bị khiêng vào bệnh xá.",
+            "d": {
+              "ac": -4,
+              "hao": 6
+            },
+            "f": "ha_ret"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn đã quay đi. Rết đấm trúng mặt cô trước khi cô kịp quật hắn ngã. Rết bị khiêng vào bệnh xá, còn cô ôm má cả đêm.",
+            "d": {
+              "sinh": -12,
+              "hac": 1
+            },
+            "f": "ha_ret"
+          },
+          "learn": {
+            "n": "Vật khóa khớp",
+            "s": "van",
+            "v": 2
+          }
+        }
+      ],
+      "ctx": "Tối ngày thứ tư, đại sảnh khu A. Rết cùng hai mươi đàn em vây Ninh Sương giữa sân để trả đũa vì cô không chịu ghi khống điểm; người đàn ông từng ngồi một mình ở nhà ăn đi ngang hành lang tầng bốn.",
+      "no": 5
+    },
+    {
+      "id": "j06",
+      "scene": "jmess",
+      "place": "Phòng nghỉ tổ bếp · Đêm ngày thứ tư",
+      "kind": "duyen",
+      "title": "Biệt hiệu Tu La",
+      "text": "Về tới phòng nghỉ, cả tổ bếp nhìn cô như nhìn một người khác. Lão Tam rót nước, Mã Tiềm lí nhí xin lỗi vụ báo sai giờ. Anh Đồng hạ giọng: người ở tầng bốn là Kỷ Liệt, cả trại gọi là Tu La. Ngày đầu hắn vào trại, Rết thử thách và bị đánh gần chết; vệt máu trên tường đến giờ không ai dám lau. Hắn làm đủ nghề, trừ ma túy, mà cảnh sát không bắt được gì. Khu B có Dư Kính, tay đấm bị anh em bán đứng, án mười năm, gặp Kỷ Liệt cũng nhường ba phần. Mã Tiềm chốt: thấy hai người đó thì đi đường vòng.",
+      "tieu": "Zzz... Tu La... chính là Kỷ Liệt đấy... ngươi phải đến gần hắn, không phải đi đường vòng đâu...",
+      "cast": "ns,ado,mti,lta",
+      "ch": [
+        {
+          "t": "Tha cho Mã Tiềm, nhờ anh ta chỉ giờ giấc của trại",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mã Tiềm thở phào, kể hết giờ cơm, giờ tắm, giờ trực. Từ nay anh ta nợ cô một lần.",
+            "d": {
+              "ac": -1
+            },
+            "f": "ma_no"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Mã Tiềm gật đầu lia lịa, nhưng cô biết anh ta vẫn đang tính toán.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Hỏi kỹ về Kỷ Liệt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lão Tam kể: hắn bệnh sạch sẽ, không ai được ngồi gần; tối nào cũng đến trạm y tế thay băng vết thương cũ ở vai lúc tám giờ rưỡi.",
+            "d": {
+              "ac": -2
+            },
+            "f": "biet_gio"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Không ai dám kể thêm. Anh Đồng tắt đèn đi ngủ.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Tuyên bố sẽ tránh xa hai người đó",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả tổ gật gù khen cô biết điều.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Mã Tiềm cười: tránh được mới lạ.",
+            "d": {
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm ngày thứ tư, phòng nghỉ của tổ bếp. Sau khi Ninh Sương đánh ngã Rết, anh Đồng, Mã Tiềm và Lão Tam kể cho cô nghe về Kỷ Liệt (biệt hiệu Tu La) và ngục bá khu B Dư Kính.",
+      "no": 6
+    },
+    {
+      "id": "j07",
+      "scene": "jclinic",
+      "place": "Trạm y tế khu A · Tối ngày thứ năm",
+      "kind": "chon",
+      "title": "Ca trực vắng nhất",
+      "text": "Tám giờ rưỡi tối, cô nhận ca trực ở trạm y tế. Ở cửa, cô gặp một người đàn ông trẻ, mặt lạnh, lưng đầy sẹo, vừa thay băng xong đi ra. Anh tự giới thiệu là Dư Kính ở khu B, dặn: Tu La sắp tới, ngay cả tôi cũng ngại đụng mặt hắn. Cửa vừa khép, Kỷ Liệt bước vào, ngồi xuống giường bệnh, cởi áo: vai trái có vết thương cũ đang rỉ máu. Hắn không nhìn cô, chỉ nói: thay băng. Cô vừa chạm vào, hắn đã túm cổ áo nhấc bổng cô lên.",
+      "tieu": "Zzz... hắn thử ngươi đấy... đừng để bị ném xuống đất...",
+      "cast": "ns,dki,kl",
+      "ch": [
+        {
+          "t": "Quặp chân khóa cổ hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô quặp hai chân quanh cổ hắn, treo người như kẹo dính. Hắn khựng lại rồi bật cười: chiêu này học ở đâu? Hắn đặt cô xuống, chìa vai ra cho cô thay băng, hỏi tên cô.",
+            "d": {
+              "ac": -5,
+              "hao": 8
+            },
+            "f": "khoa_co"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn gạt chân cô ra như gạt cành cây, đặt cô ngồi xuống ghế. Không đau, nhưng mất mặt. Hắn tự quấn băng, đi ra còn liếc bảng tên trên áo cô.",
+            "d": {
+              "sinh": -4,
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Nói bình thản: thả tôi xuống thì mới thay băng được",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhướng mày, thả tay. Cô thay băng nhanh và nhẹ. Hắn không nói gì, nhưng ngồi lại thêm một lúc, hỏi tên cô.",
+            "d": {
+              "ac": -4,
+              "hao": 6
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn ném cô lên giường bệnh bên cạnh, tự quấn băng rồi bỏ đi.",
+            "d": {
+              "sinh": -6,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Hô to gọi cai ngục",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cai ngục chạy đến, thấy Kỷ Liệt thì quay lưng đi thẳng. Hắn thả cô xuống, ánh mắt chán chường.",
+            "d": {
+              "hac": 3
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Không ai đến. Hắn ném cô xuống sàn rồi bỏ đi.",
+            "d": {
+              "sinh": -8,
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Tối ngày thứ năm, trạm y tế khu A. Ninh Sương trực ca tám giờ rưỡi, giờ Kỷ Liệt vẫn đến thay băng vết thương cũ; cô gặp Dư Kính, ngục bá khu B, ở cửa.",
+      "no": 7
+    },
+    {
+      "id": "j08",
+      "scene": "jyard",
+      "place": "Sân chạy trại Thiết Sơn · Sáng ngày thứ sáu",
+      "kind": "chon",
+      "title": "Năm nghìn mét",
+      "text": "Sáng hôm sau, chuông chạy sáng vang. Ai chạy hết năm nghìn mét được năm điểm tích phân, nhân viên ghi điểm phải chạy cùng. Kỷ Liệt đứng một mình giữa sân, ba vòng xung quanh không ai dám bước vào. Thấy cô, hắn gọi: Tiểu Sương, lại đây, chạy với ta. Ở hàng khu B, Dư Kính liếc sang rồi quay đi.",
+      "tieu": "Zzz... hắn nhớ tên ngươi rồi kìa... chạy đi...",
+      "cast": "ns,kl,dki",
+      "ch": [
+        {
+          "t": "Bám theo nhịp của hắn đến hết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô thở như kéo bễ nhưng không tụt lại. Đến vòng thứ chín hắn mới bứt lên, bỏ lại một câu: không tệ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Đến vòng thứ năm cô tụt lại. Hắn chạy chậm chờ một vòng, rồi bỏ đi trước.",
+            "d": {
+              "sinh": -5,
+              "hao": 2
+            }
+          },
+          "learn": {
+            "n": "Chạy bền",
+            "s": "van",
+            "v": 2
+          }
+        },
+        {
+          "t": "Chạy theo sức mình, không cố đuổi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chạy đều, về đích sau hắn ba vòng. Hắn đứng chờ ở vạch, ném cho cô chai nước.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô về cuối. Hắn đã đi từ lâu.",
+            "d": {
+              "hac": 1
+            }
+          },
+          "learn": {
+            "n": "Chạy bền",
+            "s": "van",
+            "v": 2
+          }
+        },
+        {
+          "t": "Từ chối: tôi còn phải đứng ghi điểm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn cô một lúc rồi chạy một mình. Cuối buổi hắn tự đến bàn cô ký tên.",
+            "d": {
+              "hac": 1,
+              "hao": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn quay đi, mặt lạnh tanh.",
+            "d": {
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng ngày thứ sáu, sân chạy trại Thiết Sơn. Sau đêm ở trạm y tế, Kỷ Liệt gọi Ninh Sương chạy năm nghìn mét cùng mình; Dư Kính ở khu B để ý hai người.",
+      "no": 8
+    },
+    {
+      "id": "j09",
+      "scene": "jmess",
+      "place": "Nhà ăn trại giam · Trưa ngày thứ sáu",
+      "kind": "duyen",
+      "title": "Bàn ăn bên cửa sổ",
+      "text": "Giờ cơm, cả nhà ăn đang xếp hàng thì Kỷ Liệt gọi to: Tiểu Sương, lại đây. Cả nhà ăn im phăng phắc. Hắn đã lấy sẵn hai suất, đẩy sang cho cô hai cái bánh bao và một quả trứng bóc sẵn vỏ. Hắn hỏi vì sao một cô sinh viên lại vào làm ở chỗ này.",
+      "tieu": "Zzz... bánh bao... ăn đi, ngươi gầy lắm...",
+      "cast": "ns,kl",
+      "ch": [
+        {
+          "t": "Kể thật chuyện tiệc lớp và bà nội",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe hết, rồi nói: ngã ở đâu thì đứng lên ở đó. Đi theo anh, anh dạy em. Lần đầu hắn xưng anh.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 7
+            },
+            "f": "anh_em"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nghẹn giọng, không kể tiếp được. Hắn đẩy thêm cái bánh bao, không nói gì.",
+            "d": {
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Kể vắn tắt rồi hỏi ngược về hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn cười: ít ai dám hỏi ta. Hắn kể mười hai tuổi đã ngủ dưới gầm cầu. Câu chuyện dừng ở đó, nhưng hôm ấy hắn ăn hết suất cơm, chuyện hiếm thấy.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn lạnh mặt: chuyện của ta không phải chuyện em hỏi.",
+            "d": {
+              "hac": 2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Từ chối bánh bao, tự đi xếp hàng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô xếp hàng như mọi người. Hắn nhìn theo, khóe môi nhếch lên: cứng đầu.",
+            "d": {
+              "hac": 2,
+              "hao": 1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Đến lượt cô thì hết bánh bao.",
+            "d": {
+              "sinh": -2,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Trưa ngày thứ sáu, nhà ăn trại Thiết Sơn. Kỷ Liệt gọi Ninh Sương ngồi cùng bàn trước cả trại và hỏi vì sao cô vào làm ở đây.",
+      "no": 9
+    },
+    {
+      "id": "j10",
+      "scene": "jshop",
+      "place": "Xưởng mạch điện · Sáng ngày thứ bảy",
+      "kind": "duyen",
+      "title": "Xưởng mạch điện",
+      "text": "Buổi sáng tù nhân lao động ở xưởng. Cô tưởng Kỷ Liệt sẽ sang bên mài đá, ai ngờ hắn chọn bên hàn bản mạch điện, ngồi ngay cạnh bàn ghi điểm của cô. Đôi tay đầy sẹo ấy hàn từng mối nhỏ như sợi tóc, nhanh và đều hơn cả thợ. Cai ngục đánh dấu cho hắn năm điểm. Hắn đẩy bản mạch sang cho cô: thử đi.",
+      "tieu": "Zzz... hắn thích dạy người khác đấy... học đi...",
+      "cast": "ns,kl",
+      "ch": [
+        {
+          "t": "Xin hắn chỉ từng mối hàn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn cầm tay cô chỉnh mũi hàn. Hết buổi, cô hàn được ba bản lành lặn. Hắn đưa thêm năm bản của mình: vì em gọi anh một tiếng anh.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 6
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô làm cháy hai bản. Hắn thở dài, làm lại cho cô.",
+            "d": {
+              "sinh": -3,
+              "hao": 2
+            }
+          },
+          "learn": {
+            "n": "Hàn mạch điện",
+            "s": "tri",
+            "v": 1
+          }
+        },
+        {
+          "t": "Tự mày mò, không nhờ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đến trưa cô tự hàn được bản đầu tiên. Hắn gõ ngón tay lên bàn: được.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Mỏ hàn bỏng ngón tay cô. Hắn lấy lọ thuốc trong túi áo bôi cho cô, cau mày.",
+            "d": {
+              "sinh": -5,
+              "hao": 3
+            }
+          },
+          "learn": {
+            "n": "Hàn mạch điện",
+            "s": "tri",
+            "v": 1
+          }
+        },
+        {
+          "t": "Đùa: anh hàn giỏi thế sao không đi làm thợ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn bật cười thành tiếng, lần đầu cả xưởng nghe thấy. Hắn nói: hồi mười ba tuổi anh sửa radio thuê ở chợ.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn không cười. Cả xưởng nín thở.",
+            "d": {
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng ngày thứ bảy, xưởng mạch điện của trại. Kỷ Liệt chọn ngồi hàn bản mạch cạnh bàn ghi điểm của Ninh Sương.",
+      "no": 10
+    },
+    {
+      "id": "j11",
+      "scene": "jhill",
+      "place": "Sườn đồi cây cổ thụ · Giờ nghỉ ngày thứ mười",
+      "kind": "chon",
+      "title": "Sườn đồi cây cổ thụ",
+      "text": "Giờ nghỉ, cả trại tranh nhau hai cái sân bóng. Kỷ Liệt dắt cô đi qua xưởng, tới góc tây nam có mấy cây cổ thụ trên sườn đồi, chỗ người ngoài nhìn vào không thấy. Hắn nằm xuống, mặt trong bóng râm, người ngoài nắng. Một lúc sau, hắn hỏi: ra ngoài rồi em muốn làm gì?",
+      "tieu": "Zzz... chỗ này yên quá... ta ngủ ké nhé...",
+      "cast": "ns,kl",
+      "ch": [
+        {
+          "t": "Nói thật: em chẳng còn tương lai gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn im lặng rất lâu, như định nói điều gì. Hắn hỏi: nếu có ai lo được cho em ra thì sao. Cô chưa kịp trả lời.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 6
+            },
+            "f": "tuong_lai"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn bảo: tuổi này đã nói chuyện dưỡng già. Cô quay lưng giận dỗi.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Hỏi lại: còn anh, ra ngoài muốn làm gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nói: ngủ một giấc mà không cần để súng dưới gối. Rồi tự cười, như vừa lỡ miệng.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn nhắm mắt, coi như không nghe thấy.",
+            "d": {
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Chọc vào eo hắn xem có nhột không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn giật nảy người, cô cười đến chảy nước mắt. Tu La hóa ra sợ nhột.",
+            "d": {
+              "ac": -3,
+              "hao": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn tóm cổ tay cô, mắt lạnh đi một giây rồi mới buông.",
+            "d": {
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Giờ nghỉ sáng ngày thứ mười, sườn đồi có cây cổ thụ ở góc tây nam trại. Kỷ Liệt dẫn Ninh Sương tới chỗ phơi nắng kín đáo của riêng hắn.",
+      "no": 11
+    },
+    {
+      "id": "j12",
+      "scene": "jyard",
+      "place": "Sân bóng rổ · Cùng buổi sáng",
+      "kind": "hiem",
+      "title": "Vũng máu ở sân bóng",
+      "text": "Còi báo động rít lên từng hồi gấp. Chạy qua sân bóng, cô thấy cai ngục vây kín: giữa sân là một tù nhân nằm trong vũng máu, bụng cắm con dao mài từ xưởng đá. Anh ta chỉ còn ba tuần nữa là mãn hạn. Hai mươi người đã đứng vây che camera trước khi ra tay. Kỷ Liệt đứng sau lưng cô, giọng đều đều: kẻ cả đời không ra được thì ghét người sắp ra. Chuyện này thỉnh thoảng lại có. Nhìn mãi sẽ quen.",
+      "tieu": "Zzz... Ác niệm của hắn... vẫn gần 100 đấy. Đừng quên.",
+      "cast": "ns,kl",
+      "ch": [
+        {
+          "t": "Nói thẳng: em không muốn quen",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn cô rất lâu rồi nói: được, đừng quen. Lần đầu có người cãi hắn mà hắn không giận.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 4
+            },
+            "f": "khong_quen"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô quay đi, bỏ về một mình. Hắn đứng nhìn vũng máu, mặt không cảm xúc.",
+            "d": {
+              "hac": 2,
+              "hao": -2
+            },
+            "f": "gian_kl"
+          }
+        },
+        {
+          "t": "Giúp cai ngục ghi số những người có mặt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi đủ hai mươi số. Không ai bị xử, nhưng Kỷ Liệt nhìn bảng ghi rồi lấy móng tay gạch dưới một cái số.",
+            "d": {
+              "ac": -3
+            },
+            "f": "ghi_so"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Một gã giật sổ của cô xé làm đôi.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Im lặng, theo hắn về xưởng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô theo hắn về. Suốt buổi không ai nói câu nào.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô run tay đến mức làm hỏng hai bản mạch.",
+            "d": {
+              "sinh": -3,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng buổi sáng, sân bóng rổ. Một tù nhân sắp mãn hạn bị hai mươi người vây che camera rồi đâm chết; Kỷ Liệt nói với Ninh Sương rằng kẻ không bao giờ được ra thì hận người sắp ra.",
+      "no": 12
+    },
+    {
+      "id": "j13",
+      "scene": "jmess",
+      "place": "Nhà ăn trại giam · Trưa ngày thứ mười",
+      "kind": "duyen",
+      "title": "Đũa và cà rốt",
+      "text": "Trưa ấy, cô ngồi cùng bàn hắn mà không nói câu nào. Hắn kể: trước kia nhà ăn không ai xếp hàng, kẻ mạnh ăn trước, kẻ yếu ăn thừa. Hôm đầu tới, hắn đặt luật xếp hàng; hơn hai mươi người phản đối đều bị hắn đánh gục. Vừa nói, hắn vừa gom hết thịt sang hộp cô, rồi cau mày nhặt từng sợi cà rốt ra mép hộp mình. Cả trại biết hắn bệnh sạch sẽ, không ai được chạm vào đồ của hắn.",
+      "tieu": "Zzz... hắn ghét cà rốt... ngươi biết làm gì rồi đấy...",
+      "cast": "ns,kl",
+      "ch": [
+        {
+          "t": "Thò đũa gắp hết cà rốt trong hộp hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn đôi đũa của cô chọc vào hộp mình, cứng người một giây, rồi cúi xuống ăn tiếp như không có gì. Cả nhà ăn há hốc mồm.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 8
+            },
+            "f": "dua"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn đẩy cả hộp cơm ra xa, không ăn nữa.",
+            "d": {
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Nói: luật xếp hàng là điều tốt nhất em thấy ở đây",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn khựng lại, như chưa ai từng nói với hắn câu đó. Rồi hắn bảo: cũng chỉ vì anh ngứa mắt.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn nhún vai: tốt hay không thì cũng bằng nắm đấm.",
+            "d": {
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Làm lành trước: em xin lỗi vì sáng nay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn khẽ gật: không phải lỗi em. Hắn đẩy quả trứng sang hộp cô.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn chỉ ừ một tiếng.",
+            "d": {
+              "hao": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Trưa ngày thứ mười, nhà ăn. Sau vụ đâm chết người ở sân bóng, Ninh Sương ngồi cùng bàn Kỷ Liệt; hắn kể chuyện chính mình đặt ra luật xếp hàng ở nhà ăn.",
+      "no": 13
+    },
+    {
+      "id": "j14",
+      "scene": "jhall",
+      "place": "Hội trường giáo dục cải tạo · Chiều ngày thứ mười bốn",
+      "kind": "chon",
+      "title": "Cô em gái mười tám tuổi",
+      "text": "Chiều thứ năm có lớp giáo dục cải tạo. Ba hàng ghế quanh Kỷ Liệt trống trơn. Hắn nghe giảng nghiêm túc đến lạ, còn ghi chép, rồi nói nhỏ: bài này về giảng lại cho con bé nhà anh. Năm mười lăm tuổi, hắn nhặt được một bé gái năm tuổi bên đường, đặt tên là Kỷ Miên; giờ nó mười tám, đang tuổi cãi anh. Hắn nói về em gái lâu hơn mọi chuyện hắn từng kể.",
+      "tieu": "Ta tỉnh được một lúc thôi... Ác niệm của hắn đã nhích xuống rồi đấy. Giữ đà nhé... zzz...",
+      "cast": "ns,kl,tc",
+      "ch": [
+        {
+          "t": "Hỏi thêm về Kỷ Miên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn kể con bé thích hoa hướng dương, ghét ăn hành, và sợ sấm. Mắt hắn dịu hẳn.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5
+            },
+            "f": "biet_km"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn kể vài câu rồi thôi, như tiếc vì đã nói nhiều.",
+            "d": {
+              "hao": 1
+            }
+          }
+        },
+        {
+          "t": "Lặng đi vì nhớ bà nội",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn để ý, không hỏi, chỉ đặt bàn tay lên đầu cô xoa nhẹ, như xoa đầu em gái.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 7
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn tưởng cô chán nghe, chuyển sang chuyện khác.",
+            "d": {
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Đùa: anh nói như ông bố già",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn cốc đầu cô: anh mới hai tám. Cả hàng ghế phía trước run lên vì nín cười.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn im, mặt sầm lại.",
+            "d": {
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều ngày thứ mười bốn, hội trường giáo dục cải tạo. Kỷ Liệt kể cho Ninh Sương về em gái nuôi Kỷ Miên, cô bé hắn nhặt về từ năm năm tuổi.",
+      "no": 14
+    },
+    {
+      "id": "j15",
+      "scene": "jhill",
+      "place": "Đường ra sườn đồi · Tháng thứ hai",
+      "kind": "chon",
+      "title": "Lời cầu xin của chú Viên",
+      "text": "Trên đường ra sườn đồi, một người đàn ông tóc hoa râm quỳ sụp xuống trước mặt hai người, dập đầu xuống đất. Ông là chú Viên, ngoài năm mươi, còn hai tháng nữa mãn hạn. Ông xin Kỷ gia che chở: mẹ già và hai đứa con nhỏ đang chờ ông về. Cô nhớ vũng máu ở sân bóng.",
+      "tieu": "Người sắp ra trại... ngươi nhớ chuyện sân bóng mà.",
+      "cast": "ns,kl,cvi",
+      "ch": [
+        {
+          "t": "Kéo tay hắn: anh giúp chú ấy đi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn cô, hơi ngạc nhiên vì lần đầu cô xin hắn điều gì. Hắn bảo chú Viên: từ tháng sau, đi theo ta và cô ấy.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 5
+            },
+            "f": "cuu_vien"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn bảo: không phải chuyện của em. Chú Viên quỳ mãi rồi lặng lẽ đi.",
+            "d": {
+              "hac": 2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Đề nghị xếp chú Viên vào tổ bếp với mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn gật: được, để anh nói với cai ngục. Chú Viên khóc như trẻ con.",
+            "d": {
+              "ac": -5,
+              "hac": -2,
+              "hao": 4
+            },
+            "f": "cuu_vien"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cai ngục không cho đổi tổ giữa chừng.",
+            "d": {
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Báo cai ngục để chú được giam riêng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cai ngục hứa sẽ xem xét. Kỷ Liệt nhíu mày: ở đây báo cai ngục chẳng khác gì báo cho kẻ giết.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Cai ngục gạt đi: chuyện đó không ai quản.",
+            "d": {
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Tháng thứ hai, đường ra sườn đồi. Chú Viên, tù nhân còn hai tháng nữa mãn hạn, quỳ xin Kỷ Liệt che chở vì sợ bị giết như người ở sân bóng.",
+      "no": 15
+    },
+    {
+      "id": "j16",
+      "scene": "jquarry",
+      "place": "Mỏ đá phía tây · Tháng thứ ba",
+      "kind": "duyen",
+      "title": "Chiếc xe đẩy ở mỏ đá",
+      "tieu": "Hắn định làm gì vậy... AAA, dốc kìa!",
+      "cast": "ns,kl,cvi",
+      "ch": [
+        {
+          "t": "Hét lên rồi cười theo hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Xe lao vun vút xuống dốc, cô hét, hắn cười lớn, lần đầu cười đến thế. Cả tổ đứng trên dốc nhìn như thấy ma.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 7
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Xe xóc mạnh, cô đập tay vào thành xe.",
+            "d": {
+              "sinh": -5,
+              "hao": 3
+            }
+          }
+        },
+        {
+          "t": "Đòi xuống tự đi bộ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đặt cô xuống, đẩy xe một mình, mặt hơi tiu nghỉu.",
+            "d": {
+              "hac": 2,
+              "hao": 1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô trượt chân trên đá vụn, xiềng chân của người bên cạnh quấn vào chân cô.",
+            "d": {
+              "sinh": -6,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Chỉ hắn cách ghìm xe ở khúc cua",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn làm theo, xe xuống êm như trượt. Hắn nói: em tính đường hay hơn anh.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn ghìm quá tay, xe lật, đá đổ một nửa.",
+            "d": {
+              "bs": -4,
+              "hao": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Tháng thứ ba, mỏ đá phía tây trại. Khu A lao động ở mỏ; Kỷ Liệt kéo Ninh Sương vào tổ mình và nhận việc đẩy xe đá xuống dốc.",
+      "no": 16
+    },
+    {
+      "id": "j17",
+      "scene": "jquarry",
+      "place": "Góc mỏ đá · Cùng ngày",
+      "kind": "nan",
+      "title": "Bạo loạn ở mỏ đá",
+      "tieu": "Sau lưng hắn! Nhanh!",
+      "cast": "ns,kl,cvi",
+      "ch": [
+        {
+          "t": "Lao tới đạp ngã tên cầm đá",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhảy lên, đạp thẳng vào lưng gã. Tảng đá rơi trúng chân hắn. Gã quay lại đấm cô một cú vào mặt, một cú vào eo, rồi bị Kỷ Liệt quật gục.",
+            "d": {
+              "ac": -8,
+              "hac": -4,
+              "hao": 8,
+              "sinh": -6
+            },
+            "f": "do_don"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô đạp hụt; tảng đá sượt qua vai Kỷ Liệt. Gã đấm cô ngã vào đống đá trước khi bị hắn quật gục.",
+            "d": {
+              "sinh": -12,
+              "bs": -6,
+              "hao": 4
+            },
+            "f": "do_don"
+          }
+        },
+        {
+          "t": "Hét lên báo hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn xoay người đúng lúc, tảng đá rơi xuống đất. Gã kia gục sau một cú đấm.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Tiếng cô lẫn trong tiếng la. Tảng đá đập vào lưng hắn.",
+            "d": {
+              "bs": -12,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Ném hòn đá trong tay vào gã",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hòn đá trúng cổ tay gã, tảng đá lớn rơi xuống. Kỷ Liệt quay lại, nhìn cô một cái rồi xử nốt.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Ném trượt. Tảng đá sượt đầu hắn, máu chảy xuống mắt.",
+            "d": {
+              "bs": -10,
+              "hac": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng ngày, góc mỏ đá. Chú Viên bị đập đá chết dù chỉ còn ba tuần nữa là mãn hạn; Kỷ Liệt truy kẻ ra tay và bị tám tù nhân vây đánh.",
+      "no": 17
+    },
+    {
+      "id": "j18",
+      "scene": "jcell",
+      "place": "Phòng 419 · Tối hôm ấy",
+      "kind": "chon",
+      "title": "Lọ thuốc trong phòng 419",
+      "tieu": "Ngươi có sợ không? Hắn vừa đánh người ra máu ngay trước mặt ngươi đấy.",
+      "cast": "ns,kl",
+      "ch": [
+        {
+          "t": "Nói thật: em sợ, nhưng không sợ anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn im lặng rất lâu. Rồi bảo: lần sau anh đánh nhau, em đứng xa ra. Giọng hắn không còn giận.",
+            "d": {
+              "ac": -10,
+              "hac": -6,
+              "hao": 9
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Câu nói vấp váp. Hắn nghĩ cô đang cố nói cho hắn vui.",
+            "d": {
+              "hac": 1,
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Mắng lại: anh còn liều hơn em",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn sững lại rồi bật cười: Tu La mà bị một con nhóc mắng. Hắn để cô bôi thuốc lên tay mình.",
+            "d": {
+              "ac": -8,
+              "hac": -5,
+              "hao": 8
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn lạnh giọng: anh không cần ai lo.",
+            "d": {
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Im lặng, cứ để mọi việc như thế",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Không ai nói gì. Tiếng quạt trần kêu rì rì. Lúc cô về, hắn đứng ở cửa nhìn theo đến cuối hành lang.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Sự im lặng của cô làm hắn tưởng cô đang sợ hắn.",
+            "d": {
+              "hac": 4,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Tối ngày xảy ra bạo loạn ở mỏ đá, phòng 419 của Kỷ Liệt. Hắn kéo Ninh Sương lên phòng riêng để bôi thuốc sau trận đánh.",
+      "no": 18
+    },
+    {
+      "id": "j19",
+      "scene": "jhall",
+      "place": "Đại sảnh khu A · Chủ nhật tháng thứ ba",
+      "kind": "hiem",
+      "title": "Ván cược của Dư Kính",
+      "text": "Sáng hôm sau, Dư Kính chặn cô ở hành lang, đưa một lọ thuốc mỡ: nghe nói hôm qua cô bị thương. Tối đến Kỷ Liệt thấy lọ thuốc, dẫm nát ngay giữa sàn: hắn có ý đồ với em. Chủ nhật, Dư Kính một mình sang đại sảnh khu A đòi đánh tay đôi, kèm một tiền cược: nếu anh thắng, cô chuyển sang làm ở khu B. Anh nhìn cô một thoáng, như đang đo xem cô thật ra là ai. Bốn tầng hành lang lại chật người.",
+      "tieu": "Dư Kính... có gì đó ở người này ta đọc không ra. Hắn đang nghi ngươi đấy.",
+      "cast": "ns,kl,dki",
+      "ch": [
+        {
+          "t": "Xin Kỷ Liệt đừng ra tay quá nặng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Kỷ Liệt đánh một trận dài, cuối cùng quật Dư Kính ngã, bẻ trật khớp tay anh rồi buông: vì em xin. Dư Kính không kêu một tiếng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 5,
+              "bs": -6
+            },
+            "f": "tha_dk"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Kỷ Liệt không nghe, đánh đến khi Dư Kính không đứng dậy nổi.",
+            "d": {
+              "ac": 2,
+              "hac": 3,
+              "bs": -8
+            }
+          }
+        },
+        {
+          "t": "Tự trả lời Dư Kính: tôi không phải món cược",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả sảnh ồ lên. Dư Kính cười: được, vậy cược danh dự. Kỷ Liệt thắng, chỉ bẻ trật khớp tay anh rồi đỡ anh dậy.",
+            "d": {
+              "ac": -7,
+              "hac": -4,
+              "hao": 6,
+              "bs": -6
+            },
+            "f": "tha_dk"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Không ai nghe cô giữa tiếng hò. Trận đánh kéo dài đến khi cả hai đều đổ máu.",
+            "d": {
+              "bs": -12,
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Đứng xem, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Kỷ Liệt thắng, bẻ trật khớp tay Dư Kính. Hắn quay sang nhìn cô như đợi cô nói gì đó.",
+            "d": {
+              "hac": 2,
+              "bs": -6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Kỷ Liệt thắng sau một trận dài, mặt tím bầm một bên.",
+            "d": {
+              "bs": -10,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Chủ nhật tháng thứ ba, đại sảnh khu A. Dư Kính, ngục bá khu B, đưa thuốc cho Ninh Sương rồi sang thách Kỷ Liệt đánh tay đôi, cược rằng nếu thắng thì cô phải chuyển sang khu B.",
+      "no": 19
+    },
+    {
+      "id": "j20",
+      "scene": "jvisit",
+      "place": "Phòng thăm trại Thiết Sơn · Cuối tháng thứ ba",
+      "kind": "chon",
+      "title": "Lần thăm của đội Phương",
+      "text": "Phương Chính đến phòng thăm, ngồi sau tấm kính. Cai ngục đã báo cô thành người thân cận nhất của Kỷ Liệt; ông rất hài lòng, hỏi cô biết được gì rồi: sổ sách, tên người, chỗ cất hàng. Ông dặn thêm hai chuyện: Rết sắp ra bệnh xá, và có người nhà Lôi Chấn Bằng vừa gửi tiền vào trại cho đàn em của Rết.",
+      "tieu": "Ngươi thật sự định khai gì về hắn à? Nghĩ kỹ đi.",
+      "cast": "ns,pc",
+      "ch": [
+        {
+          "t": "Nói dối rằng Kỷ Liệt đã bắt đầu nghi mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Phương Chính chau mày: vậy cô giữ khoảng cách, đừng hỏi gì cả. Ông tin. Cô vừa che cho hắn mà hắn không hề biết.",
+            "d": {
+              "ac": -6,
+              "hac": -3
+            },
+            "f": "noi_doi"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Phương Chính nhìn cô lâu, ghi một dòng vào sổ: đối tượng có thể đã bị lôi kéo. Nhưng ông không ép thêm.",
+            "d": {
+              "sinh": -3
+            },
+            "f": "noi_doi"
+          }
+        },
+        {
+          "t": "Kể vài chuyện vụn vặt vô hại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô kể chuyện cà rốt, chuyện chạy sáng. Phương Chính cười gượng, bảo cô cứ tiếp tục.",
+            "d": {
+              "ac": -2
+            },
+            "f": "noi_doi"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Ông hỏi dồn về sổ sách, cô ấp úng mãi.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Kể thật những gì đã thấy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Phương Chính ghi kín hai trang: giờ giấc, người thân cận, cái tên Kỷ Miên. Lúc cô đi ra, Kỷ Liệt đang đứng cuối hành lang chờ cô.",
+            "d": {
+              "ac": 4,
+              "hac": 2
+            },
+            "f": "khai"
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Ông ghi hết, còn hỏi thêm. Lúc cô đi ra, Kỷ Liệt đang đứng cuối hành lang chờ cô.",
+            "d": {
+              "ac": 4,
+              "hac": 3
+            },
+            "f": "khai"
+          }
+        }
+      ],
+      "ctx": "Cuối tháng thứ ba, phòng thăm trại Thiết Sơn. Đội trưởng Phương Chính đến hỏi Ninh Sương đã lấy được tin gì về Kỷ Liệt, và báo Rết sắp ra bệnh xá, đàn em Rết vừa nhận tiền của nhà Lôi Chấn Bằng.",
+      "no": 20
+    },
+    {
+      "id": "j21",
+      "scene": "jwash",
+      "place": "Phòng giặt khu A · Đầu tháng thứ tư",
+      "kind": "nan",
+      "title": "Rết trở lại",
+      "text": "Tối đó Kỷ Liệt đưa cô một con búp bê sứ, bảo Kỷ Miên gửi vào cho cô. Hai hôm sau, Rết ra bệnh xá, trán còn vết khâu. Cô vào phòng giặt lấy đồ thì cửa sập lại sau lưng: Rết và ba đàn em đứng chặn, tay hắn cầm con dao mài lén từ xưởng đá. Hắn cười: có người trả tiền để mày không bao giờ ra khỏi đây.",
+      "tieu": "Dao thật đấy! Giữ khoảng cách, cầm cự đến khi có người tới!",
+      "cast": "ns,ret,kl,dki",
+      "ch": [
+        {
+          "t": "Khóa tay cầm dao của hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô bẻ ngược cổ tay hắn, con dao rơi xuống sàn. Cửa bật tung: Kỷ Liệt và Dư Kính cùng lao vào.",
+            "d": {
+              "ac": -5,
+              "hac": -2,
+              "hao": 4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Lưỡi dao sượt qua cánh tay cô. Cửa bật tung đúng lúc: Kỷ Liệt và Dư Kính cùng lao vào.",
+            "d": {
+              "sinh": -14,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Đẩy máy giặt chắn giữa, la thật to",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô cầm cự được ba phút. Kỷ Liệt đạp tung cửa, Dư Kính theo sát sau.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 3
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Máy giặt không nhúc nhích. Rết rạch vào vai cô trước khi cửa bật tung.",
+            "d": {
+              "sinh": -12,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Hỏi: ai trả tiền cho anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Rết đắc ý khoe: nhà họ Lôi. Cô vừa nghe xong thì Kỷ Liệt và Dư Kính phá cửa xông vào.",
+            "d": {
+              "ac": -4,
+              "hao": 3
+            },
+            "f": "biet_loi"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Hắn không đáp, lao tới. Cô bị rạch một đường trên tay thì cửa bật tung.",
+            "d": {
+              "sinh": -12,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Đầu tháng thứ tư, phòng giặt khu A. Rết vừa ra bệnh xá, cầm dao chặn Ninh Sương để trả thù và lấy tiền của nhà Lôi Chấn Bằng.",
+      "no": 21
+    },
+    {
+      "id": "j22",
+      "scene": "jhill",
+      "place": "Sườn đồi cây cổ thụ · Đầu tháng thứ tư",
+      "kind": "duyen",
+      "title": "Kết nghĩa dưới nắng sớm",
+      "text": "Hôm ở phòng giặt, một đàn em của Rết định hô cai ngục để gài cho Kỷ Liệt tội đánh người; Dư Kính bịt miệng gã lại. Cai ngục đến chỉ thấy Rết cầm dao, chuyển hắn sang trại kỷ luật. Từ đó Kỷ Liệt nhìn Dư Kính khác hẳn. Sáng nay Dư Kính sang sườn đồi tìm hai người. Cô bẻ ba cành liễu, đưa mỗi người một cành: hay mình kết nghĩa đi.",
+      "tieu": "Kết nghĩa... rồi sẽ có ngày tất cả vỡ đấy. Nhưng sáng nay đẹp thật.",
+      "cast": "ns,kl,dki",
+      "ch": [
+        {
+          "t": "Đề nghị Kỷ Liệt làm anh cả",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Kỷ Liệt cười nhạt nhưng vẫn cầm cành liễu. Ba người nhìn mặt trời mọc: anh cả, anh hai, em út.",
+            "d": {
+              "ac": -7,
+              "hac": -5,
+              "hao": 6
+            },
+            "f": "ket_nghia"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Kỷ Liệt bảo trò trẻ con, nhưng không vứt cành liễu đi.",
+            "d": {
+              "hao": 2
+            },
+            "f": "ket_nghia"
+          }
+        },
+        {
+          "t": "Hỏi Dư Kính vì sao lại cứu đại ca",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Dư Kính đáp: vì nó là việc đúng. Câu trả lời ngắn quá, cô ghi nhớ trong lòng. Rồi ba người vẫn kết nghĩa.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 4
+            },
+            "f": "ket_nghia,nghi_dk"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Dư Kính chỉ cười. Kỷ Liệt bảo: người cứu ta thì là anh em ta. Ba người kết nghĩa.",
+            "d": {
+              "hao": 2
+            },
+            "f": "ket_nghia"
+          }
+        },
+        {
+          "t": "Chỉ thề với Kỷ Liệt thôi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dư Kính nhún vai, ném cành liễu đi. Kỷ Liệt nhìn theo anh, rồi nhìn cô, hơi tiếc.",
+            "d": {
+              "hac": 2,
+              "hao": 2
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Kỷ Liệt cau mày: người vừa cứu em mà em gạt ra ngoài.",
+            "d": {
+              "hac": 3,
+              "hao": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Đầu tháng thứ tư, sườn đồi cây cổ thụ. Sau khi Dư Kính giúp Kỷ Liệt tránh bị gài án trong vụ Rết, Ninh Sương đề nghị ba người kết nghĩa.",
+      "no": 22
+    },
+    {
+      "id": "j23",
+      "scene": "jgate",
+      "place": "Cổng trại Thiết Sơn · Tháng thứ năm",
+      "kind": "chon",
+      "title": "Ngày Tu La ra trại",
+      "text": "Nhờ cải tạo tốt, Kỷ Liệt được ra trại sớm một tháng. Sáng ấy có mấy con chim khách đậu trên hàng rào. Cả khu A ra tiễn, vui như được giải thoát. Hắn đứng trước cô rất lâu, như có nhiều điều muốn nói mà không biết bắt đầu từ đâu.",
+      "tieu": "Hắn đi rồi thì ngươi tiếp cận kiểu gì? Nói gì đó đi chứ!",
+      "cast": "ns,kl,dki",
+      "ch": [
+        {
+          "t": "Nói: ra rồi thì đừng quay lại nữa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ôm cô thật chặt, rồi đi thẳng qua hai lớp cửa sắt, không quay đầu.",
+            "d": {
+              "ac": -7,
+              "hac": -4,
+              "hao": 7
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn chỉ gật đầu, xoa đầu cô rồi đi.",
+            "d": {
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Dúi vào tay hắn cành liễu khô hôm kết nghĩa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhìn cành liễu, cất vào túi áo ngực, rồi ôm cô thật lâu trước khi đi.",
+            "d": {
+              "ac": -8,
+              "hac": -5,
+              "hao": 7
+            },
+            "f": "canh_lieu"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Cành liễu gãy vụn trong tay hắn. Hắn ngượng ngùng gói lại, bỏ túi.",
+            "d": {
+              "hao": 2
+            }
+          }
+        },
+        {
+          "t": "Không ra tiễn, ở lại phòng ghi điểm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đứng chờ ở cổng rất lâu. Cô chỉ nhìn qua cửa sổ.",
+            "d": {
+              "hac": 3,
+              "hao": -2
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Hắn đi. Cai ngục kể hắn cứ ngoái về phía phòng ghi điểm.",
+            "d": {
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Tháng thứ năm, cổng trại Thiết Sơn. Kỷ Liệt được ra trại sớm một tháng; Ninh Sương và Dư Kính ra tiễn.",
+      "no": 23
+    },
+    {
+      "id": "j24",
+      "scene": "jhill",
+      "place": "Sườn đồi cây cổ thụ · Cuối tháng thứ năm",
+      "kind": "chon",
+      "title": "Lời của anh hai",
+      "text": "Thiếu Kỷ Liệt, khu A lại xao động, nhưng Dư Kính ngày nào cũng ghé qua trạm y tế. Một hôm, ngồi trên sườn đồi, anh nói: Kỷ Liệt sẽ lo cho em được tái thẩm. Trước khi đi, hắn cố ý để anh che chở em; những buổi ba người đi cùng nhau là để hắn xem anh có đáng tin không. Rồi anh hỏi một câu lạ: em với hắn có quen nhau từ trước không? Trông anh như đang đọc cô.",
+      "tieu": "Người này nhìn ngươi như nhìn bản cung khai. Ngươi đọc lại hắn đi.",
+      "cast": "ns,dki",
+      "ch": [
+        {
+          "t": "Quan sát nét mặt Dư Kính mỗi khi anh nhắc Kỷ Liệt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mỗi lần nhắc tên Kỷ Liệt, mắt anh thoáng tính toán rồi mới dịu lại. Cô ghi nhớ: người này đang tìm một thứ gì đó.",
+            "d": {
+              "ac": -3
+            },
+            "f": "nghi_dk"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Gương mặt anh kín như bưng.",
+            "d": {}
+          },
+          "learn": {
+            "n": "Đọc nét mặt",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Hỏi thẳng: anh tiếp cận đại ca có mục đích không",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đáp: ai trong trại này cũng muốn ra sớm. Câu trả lời không sai, nhưng không đủ. Cô nhận ra anh chỉ nói thật một nửa.",
+            "d": {
+              "ac": -3
+            },
+            "f": "nghi_dk"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Anh cười, chuyển sang chuyện khác.",
+            "d": {}
+          },
+          "learn": {
+            "n": "Đọc nét mặt",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Cảm ơn anh, không hỏi gì thêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dư Kính gật đầu, như nhẹ nhõm.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh im lặng nhìn cô rất lâu.",
+            "d": {}
+          }
+        }
+      ],
+      "ctx": "Cuối tháng thứ năm, sườn đồi cây cổ thụ. Sau khi Kỷ Liệt ra trại, Dư Kính thay hắn che chở Ninh Sương và kể rằng Kỷ Liệt đang lo tái thẩm cho cô.",
+      "no": 24
+    },
+    {
+      "id": "j25",
+      "scene": "jbar",
+      "place": "Phòng riêng quán bar Hồng Ngọc · Tháng thứ sáu",
+      "kind": "hiem",
+      "title": "Tiệc đón gió",
+      "tieu": "Ta tỉnh hẳn rồi! Ngủ mấy tháng, ngươi đã thành em gái kết nghĩa của boss. Ác niệm của hắn giảm khá đấy. Nhưng gã Tôn Tam kia đang nhìn ngươi như nhìn kẻ phản bội. Từ giờ ta theo dõi cả chỉ số Nghi ngờ của bang dành cho ngươi.",
+      "cast": "ns,kl,ndd,tta,tc",
+      "ch": [
+        {
+          "t": "Cụng ly với Tôn Tam, uống cạn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Rượu trắng cay xé cổ. Cô uống cạn, úp ly xuống bàn. Ngưu Đại Đầu vỗ đùi khen. Tôn Tam không nói thêm câu nào.",
+            "d": {
+              "ac": -4,
+              "hao": 4,
+              "nn": -4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô sặc. Kỷ Liệt giật ly khỏi tay cô: con bé còn nhỏ. Tôn Tam cười khẩy.",
+            "d": {
+              "hac": 2,
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Trả lời: tôi theo anh ấy vì anh ấy đối tốt với tôi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Kỷ Liệt bật cười, cụng ly với cô. Ngưu Đại Đầu bảo: thế là đủ. Tôn Tam cụp mắt xuống.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 6,
+              "nn": -3
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Câu nói nghe như học thuộc. Vài người liếc nhau.",
+            "d": {
+              "nn": 6
+            }
+          }
+        },
+        {
+          "t": "Để Kỷ Liệt tự trả lời thay mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Kỷ Liệt đặt ly xuống: ai nghi con bé là nghi ta. Không ai dám nói gì nữa, nhưng Tôn Tam đã nhớ mặt cô.",
+            "d": {
+              "hac": 2,
+              "nn": 4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Kỷ Liệt đập bàn. Bữa tiệc lạnh hẳn đi.",
+            "d": {
+              "hac": 4,
+              "nn": 6
+            }
+          }
+        }
+      ],
+      "ctx": "Tháng thứ sáu, phòng riêng một quán bar ở Tân Dương. Ninh Sương được tái thẩm thành án treo; Kỷ Liệt đón cô và mở tiệc đón gió, giới thiệu anh em lâu năm Ngưu Đại Đầu và Tôn Tam.",
+      "no": 25
+    },
+    {
+      "id": "j26",
+      "scene": "jvilla",
+      "place": "Biệt thự của Kỷ Liệt · Tháng thứ sáu",
+      "kind": "duyen",
+      "title": "Căn biệt thự và tủ đồ cổ",
+      "text": "Kỷ Liệt đưa cô về căn biệt thự nhỏ, đồ gỗ thường thôi, trừ một kệ ô vuông kín đồ sứ cổ. Kỷ Miên, mười tám tuổi, mau miệng, kéo cô đi khắp nhà, kể anh mình là ông cụ non: không xem ti vi, chỉ đọc báo giấy, mê đồ sứ đến mức có cả cuốn sổ ghi cách phân biệt thật giả. Hai vệ sĩ thân cận của hắn, Lý Kha trầm tính và Tạ Bình hay cười, được giao dạy cô đánh nhau và lái xe. Tối đó Kỷ Miên thì thầm: em thích kiểu đàn ông lớn tuổi, chín chắn cơ.",
+      "tieu": "Cuốn sổ thẩm định đồ sứ kia hay đấy. Học đi, biết đâu có ngày dùng đến.",
+      "cast": "ns,kmi,lkh,tbi",
+      "ch": [
+        {
+          "t": "Mượn cuốn sổ thẩm định, đọc hết trong một tuần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô thuộc từng màu men, từng vết chân đế. Kỷ Liệt thử cô bằng ba chiếc bát, cô nói đúng cả ba. Hắn cười hài lòng.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô đoán sai hai chiếc. Hắn bảo: không sao, từ từ.",
+            "d": {
+              "hao": 2
+            }
+          },
+          "learn": {
+            "n": "Giám định đồ sứ",
+            "s": "tri",
+            "v": 2
+          }
+        },
+        {
+          "t": "Đấu tập với Lý Kha và Tạ Bình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô quật ngã Tạ Bình một lần; anh cười ha hả, gọi cô là tiểu sư muội. Lý Kha gật đầu, điều hiếm khi anh làm với ai.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "nn": -3
+            },
+            "f": "than_lkh"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô bị Lý Kha vật ngã ba lần liền.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Giúp Kỷ Miên làm bài tập",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Kỷ Miên quấn lấy cô cả tối, gọi cô là chị Sương. Kỷ Liệt đứng ở cầu thang nhìn hai người rất lâu.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "than_km"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Kỷ Miên chán, bỏ đi chơi điện thoại.",
+            "d": {}
+          }
+        }
+      ],
+      "ctx": "Tháng thứ sáu, biệt thự của Kỷ Liệt. Ninh Sương gặp em gái hắn là Kỷ Miên, và hai vệ sĩ thân cận Lý Kha, Tạ Bình.",
+      "no": 26
+    },
+    {
+      "id": "j27",
+      "scene": "jcity",
+      "place": "Các cơ sở của Kỷ Liệt ở Tân Dương · Tháng thứ bảy",
+      "kind": "chon",
+      "title": "Đi tuần địa bàn",
+      "text": "Kỷ Liệt dẫn cô đi tuần: sòng bạc ngầm, quán bar, mấy chỗ cho vay nặng lãi. Một con bạc nợ quá hạn, đã bán cả nhà, bị lôi ra phía sau. Kỷ Liệt bảo: anh không bán ma túy, vì thứ đó người ta không tự dừng được; cờ bạc thì người ta tự chọn. Xe đi qua rìa thành phố, hắn chỉ một dãy xưởng bỏ hoang: chỗ trốn của tàn dư bang Hắc Ưng. Mấy năm trước hắn diệt cả bang, lão đại Cù Bá trốn thoát, thề sẽ trả thù.",
+      "tieu": "Hắn nói nghe như có lý, nhưng ngươi vừa thấy người ta bị lôi đi đấy.",
+      "cast": "ns,kl",
+      "ch": [
+        {
+          "t": "Xin xem sổ sách các cơ sở",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ngồi cả đêm với ba quyển sổ, chỉ ra hai chỗ quản lý ăn bớt. Kỷ Liệt nhìn cô rất lạ: em làm được việc này à?",
+            "d": {
+              "ac": -5,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "so_sach"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô đọc mãi không ra đầu đuôi. Tôn Tam cười: sinh viên thì biết gì.",
+            "d": {
+              "nn": 4
+            }
+          },
+          "learn": {
+            "n": "Kế toán sổ sách",
+            "s": "tri",
+            "v": 1
+          }
+        },
+        {
+          "t": "Xin hắn giãn nợ cho con bạc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn cô, rồi phẩy tay: giãn ba tháng. Con bạc quỳ lạy. Tôn Tam nhíu mày.",
+            "d": {
+              "ac": -7,
+              "hac": -3,
+              "hao": 4,
+              "nn": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn bảo: luật là luật. Con bạc vẫn bị lôi đi.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Im lặng, ghi nhớ đường tới khu Hắc Ưng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhớ từng ngã rẽ ra dãy xưởng bỏ hoang.",
+            "d": {
+              "ac": -1
+            },
+            "f": "nho_duong"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô ngủ gật trên xe, không nhớ gì.",
+            "d": {}
+          }
+        }
+      ],
+      "ctx": "Tháng thứ bảy, các cơ sở của Kỷ Liệt ở Tân Dương. Hắn dẫn Ninh Sương đi tuần sòng bạc, chỗ cho vay, và chỉ khu xưởng bỏ hoang của tàn dư bang Hắc Ưng, nơi lão đại Cù Bá đang trốn và thề trả thù hắn.",
+      "no": 27
+    },
+    {
+      "id": "j28",
+      "scene": "jcity",
+      "place": "Một con phố ở Tân Dương · Tháng thứ chín",
+      "kind": "chon",
+      "title": "Nhà họ Lôi sụp đổ",
+      "text": "Trong ba tháng, Kỷ Liệt đánh sập từng dự án của tập đoàn nhà họ Lôi; Lôi Chấn Bằng phá sản. Một chiều, Lý Kha đang dạy cô lái xe thì một chiếc xe đen chặn đầu. Lôi Chấn Bằng bước xuống, mắt đỏ ngầu: mày giết con tao, giờ mày cướp cả nhà tao. Đám người của ông ta bắt đầu vây quanh xe.",
+      "tieu": "Ngươi cầm lái đi! Lý Kha dạy ngươi rồi mà.",
+      "cast": "ns,lcb,lkh",
+      "ch": [
+        {
+          "t": "Cầm lái lùi xe thoát ra",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lùi một mạch qua con hẻm. Lý Kha ngồi ghế phụ, lần đầu bật cười. Về nhà, cô xin Kỷ Liệt dừng tay: nhà họ Lôi đã trả giá rồi. Hắn đồng ý.",
+            "d": {
+              "ac": -8,
+              "hac": -4,
+              "hao": 5
+            },
+            "f": "dung_tay"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Xe quệt vào tường, Lý Kha phải giành lái.",
+            "d": {
+              "sinh": -6
+            }
+          },
+          "learn": {
+            "n": "Lái xe",
+            "s": "van",
+            "v": 1
+          }
+        },
+        {
+          "t": "Ghi biển số, mang chứng cứ hối lộ cho đội Phương",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lôi Chấn Bằng bị bắt vì tội hối lộ Mạnh Bưu năm xưa, Mạnh Bưu bị đình chỉ. Nhưng người trong bang thấy cô bước ra từ đồn cảnh sát.",
+            "d": {
+              "ac": -4,
+              "nn": 10
+            },
+            "f": "bat_loi"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Đội Phương bảo chứng cứ chưa đủ. Người trong bang vẫn thấy cô bước ra từ đồn cảnh sát.",
+            "d": {
+              "nn": 10
+            },
+            "f": "bat_loi"
+          }
+        },
+        {
+          "t": "Mặc kệ, để Lý Kha xử lý",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Lý Kha xuống xe, đám người tản đi. Tối đó Kỷ Liệt cho người đánh gãy tay Lôi Chấn Bằng.",
+            "d": {
+              "ac": 3,
+              "hac": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Lý Kha đánh nhau một mình, xe bị đập vỡ kính.",
+            "d": {
+              "sinh": -5,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Tháng thứ chín, một con phố ở Tân Dương. Kỷ Liệt đã làm tập đoàn nhà Lôi phá sản để trả thù cho Ninh Sương; Lôi Chấn Bằng chặn xe cô khi vệ sĩ Lý Kha đang dạy cô lái.",
+      "no": 28
+    },
+    {
+      "id": "j29",
+      "scene": "jcafe",
+      "place": "Quán cà phê phố Tây · Tháng thứ mười",
+      "kind": "hiem",
+      "title": "Buổi xem mắt",
+      "text": "Tôn Tam và Ngưu Đại Đầu gán ghép cô với một người quen buôn vải, bảo để bên đại ca bớt lời ra tiếng vào. Kỷ Liệt nghe xong, bảo cô cứ đi cho biết. Cô đến quán cà phê. Qua cửa kính, cô thấy xe của hắn đỗ bên kia đường, máy vẫn nổ.",
+      "tieu": "Hắn bảo ngươi đi rồi tự ngồi chờ ngoài kia. Đàn ông.",
+      "cast": "ns,kl,tta,ndd",
+      "ch": [
+        {
+          "t": "Ngồi mười phút rồi xin về, đi thẳng tới xe hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô gõ cửa kính xe. Hắn giật mình như bị bắt quả tang, rồi mở cửa. Cả đường về hắn không nói gì, nhưng khóe môi cứ cong lên.",
+            "d": {
+              "ac": -7,
+              "hac": -5,
+              "hao": 8,
+              "nn": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô ra đến nơi thì xe đã đi. Tối đó hắn tắm nước lạnh rất lâu.",
+            "d": {
+              "hac": 5,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Nói thật với người kia rằng mình chưa định yêu ai",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh ta cười, bảo không sao. Hai người uống hết ly nước như bạn. Kỷ Liệt về nhà trước cô, ngồi đọc báo, tờ báo cầm ngược.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh ta mời đi ăn tối. Cô từ chối hơi vụng; Tôn Tam nghe kể lại cười cả buổi.",
+            "d": {
+              "hac": 3,
+              "nn": 3
+            }
+          }
+        },
+        {
+          "t": "Ngồi hết buổi cho trọn lễ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Buổi xem mắt êm đẹp. Về nhà, cô thấy hắn tắm nước lạnh rất lâu. Tiểu Châu báo Hắc hóa vừa nhích lên.",
+            "d": {
+              "hac": 5,
+              "nn": -4
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Người kia nói nhiều đến mức cô ngủ gật. Hắn chờ cả tiếng ngoài xe.",
+            "d": {
+              "hac": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Tháng thứ mười, một quán cà phê ở Tân Dương. Tôn Tam và Ngưu Đại Đầu gán ghép Ninh Sương với người khác để tránh lời đồn cô là người của đại ca; Kỷ Liệt bảo cô đi rồi tự ngồi xe chờ bên ngoài.",
+      "no": 29
+    },
+    {
+      "id": "j30",
+      "scene": "jbar",
+      "place": "Quán bar Hồng Ngọc · Tháng thứ mười một",
+      "kind": "duyen",
+      "title": "Anh hai ra trại",
+      "text": "Kỷ Liệt lo cho Dư Kính ra trại, giao cho anh một sòng bạc. Ở tiệc đón anh, Kỷ Miên lẻn vào quán, ngồi cạnh Dư Kính cả buổi, cười rất nhiều; anh không biết cô bé là em gái đại ca. Rồi một năm trôi qua. Dư Kính thành tay chân đắc lực nhất, quản ngày càng nhiều địa bàn. Cô đi đâu cũng theo Kỷ Liệt; anh em trong bang bảo đại ca thương em út còn hơn thương người yêu.",
+      "tieu": "Một năm rồi. Ác niệm của hắn tụt đều. Nhưng sao ta thấy con bé Kỷ Miên cứ nhìn Dư Kính mãi thế nhỉ.",
+      "cast": "ns,dki,kmi,kl",
+      "ch": [
+        {
+          "t": "Kéo Kỷ Miên về sớm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Kỷ Miên phụng phịu nhưng chịu về. Trên xe, cô bé hỏi chị có thấy anh Kính đẹp trai không.",
+            "d": {
+              "ac": -3,
+              "hao": 2
+            },
+            "f": "keo_km"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Kỷ Miên lách đi mất, cô không tìm thấy.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Chúc mừng Dư Kính, hỏi anh định làm gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nói: làm cho tốt việc đại ca giao. Ánh mắt anh lại thoáng tính toán; cô đã quen đọc nó.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 4
+            },
+            "f": "nghi_dk"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Anh cười, nâng ly, không nói gì.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Ngồi với Kỷ Liệt ở góc quán cả buổi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn kể chuyện năm mười bảy tuổi bị chém ba nhát ở bến cảng. Cô nghe, tay khẽ chạm vết sẹo trên cổ tay hắn.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn bận tiếp khách cả buổi.",
+            "d": {
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Tháng thứ mười một, quán bar của Kỷ Liệt. Dư Kính được Kỷ Liệt lo cho ra trại; ở tiệc đón anh, Kỷ Miên gặp Dư Kính lần đầu. Sau đó một năm trôi qua.",
+      "no": 30
+    },
+    {
+      "id": "j31",
+      "scene": "jvilla",
+      "place": "Biệt thự của Kỷ Liệt · Đêm cuối năm thứ nhất",
+      "kind": "chon",
+      "title": "Bí mật của anh hai",
+      "text": "Một đêm, Tiểu Châu đánh thức cô: có chuyện nó giấu cô từ đầu. Dư Kính là cảnh sát nằm vùng, đã sáu năm, từ hồi mới tốt nghiệp trường cảnh sát. Anh còn là “khí vận tử” của thế giới này: anh chết thì cả thế giới sụp, cô và Tiểu Châu cũng hết đường về. Còn nữa: Kỷ Miên đang lén hẹn hò với anh. Ở số phận gốc, cô bé cãi nhau với anh trai, bỏ nhà đi, rồi rơi vào tay bang Hắc Ưng và không bao giờ trở về.",
+      "tieu": "Ngươi không được vạch mặt Dư Kính. Nhưng cũng đừng để đại ca ngươi rơi vào bẫy. Khó đấy.",
+      "cast": "ns,tc",
+      "ch": [
+        {
+          "t": "Giữ bí mật, tìm cách khuyên Kỷ Liệt rút dần khỏi bóng tối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô bắt đầu kể với hắn về những công ty làm ăn đàng hoàng, những người từng rửa tay gác kiếm. Hắn nghe, chưa nói gì.",
+            "d": {
+              "ac": -7,
+              "hac": -3,
+              "hao": 4
+            },
+            "f": "khuyen_rut"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn bảo: em nghe ai nói gì à? Cô phải lấp liếm.",
+            "d": {
+              "hac": 3,
+              "nn": 3
+            }
+          }
+        },
+        {
+          "t": "Quyết định canh chừng Kỷ Miên",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô thuộc giờ đi học, giờ về, cả mật khẩu điện thoại của con bé.",
+            "d": {
+              "ac": -3
+            },
+            "f": "canh_km"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Kỷ Miên phát hiện bị theo dõi, giận cô cả tuần.",
+            "d": {
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Hỏi Tiểu Châu: có cách nào giữ được cả ba người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Châu im lặng lâu, rồi nói: có, nếu đến lúc mọi chuyện bị lộ, hắn tin ngươi hơn tin cơn giận của hắn. Hãy để hắn tin ngươi đến mức đó.",
+            "d": {
+              "ac": -4,
+              "hao": 4
+            },
+            "f": "hoi_tc"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiểu Châu chỉ thở dài: ta không biết.",
+            "d": {}
+          }
+        }
+      ],
+      "ctx": "Cuối năm thứ nhất, biệt thự của Kỷ Liệt. Tiểu Châu nói thật với Ninh Sương: Dư Kính là cảnh sát nằm vùng sáu năm và là khí vận tử của thế giới này; Kỷ Miên đang lén hẹn hò với anh.",
+      "no": 31
+    },
+    {
+      "id": "j32",
+      "scene": "jvilla",
+      "place": "Phòng ăn biệt thự · Đầu năm thứ hai",
+      "kind": "chon",
+      "title": "Cãi nhau trong phòng khách",
+      "text": "Trong bữa tối, Kỷ Miên tuyên bố: em yêu anh Kính, em đã hứa hôn với anh ấy. Kỷ Liệt đặt đũa xuống: không hợp. Con bé khóc, hỏi vì sao người anh kết nghĩa của anh lại không được. Hắn nói: vì anh bảo không. Kỷ Miên chạy lên lầu, đóng sầm cửa. Lúc chỉ còn hai người, hắn nói với cô, giọng rất bình thản: năm đó anh nhặt nó về vì cô đơn. Nó không có quyền nói không.",
+      "tieu": "Đây rồi. Ở số phận gốc, sáng mai con bé bỏ nhà đi.",
+      "cast": "ns,kl,kmi",
+      "ch": [
+        {
+          "t": "Nói đỡ cho Kỷ Miên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn im lặng rất lâu rồi nói: để anh nghĩ. Đêm đó hắn đứng trước cửa phòng em gái, không gõ.",
+            "d": {
+              "ac": -8,
+              "hac": -4,
+              "hao": 5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn lạnh mặt: em cũng đứng về phía nó?",
+            "d": {
+              "hac": 4,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Thức canh cửa phòng Kỷ Miên",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ba giờ sáng, cô nghe tiếng kéo khóa vali. Cô gõ cửa, nhưng con bé đã trèo ra lối ban công.",
+            "d": {
+              "ac": -3
+            },
+            "f": "canh_cua"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Cô ngủ gục lúc gần sáng.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Im lặng, để hai anh em tự giải quyết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bữa tối nguội ngắt. Không ai nói gì.",
+            "d": {
+              "hac": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn ném đũa, bỏ lên lầu.",
+            "d": {
+              "hac": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Đầu năm thứ hai, phòng ăn biệt thự. Kỷ Miên đòi lấy Dư Kính; Kỷ Liệt cấm, rồi nói với Ninh Sương rằng hắn nhận nuôi em gái chỉ vì cô đơn.",
+      "no": 32
+    },
+    {
+      "id": "j33",
+      "scene": "jfactory",
+      "place": "Dãy xưởng bỏ hoang ở rìa thành phố · Rạng sáng",
+      "kind": "nan",
+      "title": "Rạng sáng bỏ nhà",
+      "tieu": "Trong xưởng còn người! Hạ gã này thật nhanh rồi chạy!",
+      "cast": "ns,kmi,lkh,tbi",
+      "ch": [
+        {
+          "t": "Lao tới siết cổ gã từ phía sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Gã ngã sấp, Kỷ Miên rơi xuống bãi cỏ. Cô siết đến khi gã lịm đi, rồi cõng con bé chạy.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 4
+            },
+            "f": "cuu_km"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Gã vùng ra, đánh trúng thái dương cô. Cô vẫn đập được hòn đá vào đầu gã, cõng Kỷ Miên chạy, đầu ong ong.",
+            "d": {
+              "sinh": -12
+            },
+            "f": "cuu_km"
+          }
+        },
+        {
+          "t": "Cắt ngang đầu xe ở ngã rẽ cuối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô phóng xe chặn đầu ở ngã rẽ cuối, gã tài xế phải phanh gấp. Cô kéo Kỷ Miên ra khỏi ghế sau rồi cõng chạy.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 4
+            },
+            "f": "cuu_km"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô đến chậm một nhịp, xe đã vào sân xưởng. Cô phải xông vào giành người.",
+            "d": {
+              "sinh": -14
+            },
+            "f": "cuu_km"
+          }
+        },
+        {
+          "t": "Gọi Kỷ Liệt rồi bám theo từ xa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe xong, giọng lạc đi: anh tới ngay. Cô bám theo, chờ gã đặt con bé xuống thì lao ra giành người.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5
+            },
+            "f": "cuu_km,goi_kl"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Điện thoại mất sóng. Cô phải một mình lao vào giành người.",
+            "d": {
+              "sinh": -10
+            },
+            "f": "cuu_km"
+          }
+        }
+      ],
+      "ctx": "Rạng sáng đầu năm thứ hai, rìa thành phố Tân Dương. Kỷ Miên bỏ nhà đi sau trận cãi nhau; tài xế taxi, người cũ của bang Hắc Ưng, đánh ngất cô bé và chở về dãy xưởng bỏ hoang.",
+      "no": 33
+    },
+    {
+      "id": "j34",
+      "scene": "jfactory",
+      "place": "Sân xưởng bỏ hoang · Cùng buổi sáng",
+      "kind": "nan",
+      "title": "Mưa mã tấu",
+      "text": "Chưa chạy được mười bước, cô bị vây. Cù Bá, lão đại bang Hắc Ưng, xăm kín hai cánh tay, dẫn gần bốn mươi tên cầm mã tấu bước ra: hôm nay đòi nợ cho cả bang. Lý Kha và Tạ Bình kịp tới, rút súng mở đường. Đạn sắp hết, xe ở ngay trước mặt, thì đám người phía sau đồng loạt ném mã tấu. Tạ Bình đứng chắn sau lưng cô.",
+      "tieu": "Chạy! Đừng ngoái lại! Ngươi còn phải sống để gặp hắn!",
+      "cast": "ns,cba,lkh,tbi,kmi",
+      "ch": [
+        {
+          "t": "Đẩy Kỷ Miên lên xe trước",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Kỷ Miên lọt vào ghế sau. Một lưỡi mã tấu chém vào đùi cô. Tạ Bình ngã xuống ngay cạnh cửa xe. Xe lao đi, rồi bị một chiếc taxi đâm đuôi; cô đập đầu vào kính và ngất đi.",
+            "d": {
+              "ac": -6,
+              "hao": 6,
+              "sinh": -10
+            },
+            "f": "che_km"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Cô ngã cùng Kỷ Miên trước cửa xe. Lý Kha kéo cả hai vào, Tạ Bình nằm lại phía sau. Xe bị đâm đuôi, cô ngất.",
+            "d": {
+              "sinh": -18,
+              "hao": 3
+            }
+          }
+        },
+        {
+          "t": "Kéo Tạ Bình theo",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô túm được tay áo Tạ Bình, nhưng anh đã trúng một nhát sau lưng. Anh đẩy cô vào xe: đi đi. Xe lao đi rồi bị đâm đuôi; cô ngất.",
+            "d": {
+              "ac": -5,
+              "hao": 5,
+              "sinh": -12
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Một lưỡi mã tấu cắm vào đùi cô. Lý Kha lôi cô vào xe. Xe bị đâm đuôi; cô ngất.",
+            "d": {
+              "sinh": -20
+            }
+          }
+        },
+        {
+          "t": "Hô Lý Kha bắn vào chân đám đi đầu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba tên ngã, đám phía sau khựng lại một nhịp. Nhịp ấy đủ để cô lên xe, nhưng không đủ cho Tạ Bình. Xe bị đâm đuôi; cô ngất.",
+            "d": {
+              "ac": -5,
+              "hao": 4,
+              "sinh": -8
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Lý Kha hết đạn. Cô bị chém vào đùi trước khi lên xe; xe bị đâm đuôi, cô ngất.",
+            "d": {
+              "sinh": -16
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Cùng buổi sáng, sân dãy xưởng bỏ hoang. Ninh Sương cõng Kỷ Miên chạy ra thì bị Cù Bá, lão đại bang Hắc Ưng, cùng gần bốn mươi tên vây kín; Lý Kha và Tạ Bình đến kịp. Hắc hóa của Kỷ Liệt vọt lên khi nghe tin.",
+      "no": 34
+    },
+    {
+      "id": "j35",
+      "scene": "jroom",
+      "place": "Phòng của Ninh Sương trong biệt thự · Ngày hôm sau",
+      "kind": "chon",
+      "title": "Một ngày bên giường bệnh",
+      "text": "Cô tỉnh dậy trong phòng mình, đầu quấn băng, đùi phải bó chặt. Tiểu Châu kể: hôm đó Kỷ Liệt dẫn người tới, bang Hắc Ưng không còn ai đứng dậy được; rồi hắn bế cô về, ngồi bên giường một ngày một đêm, không ăn, không ngủ. Thấy cô mở mắt, hắn thở ra như người vừa được trả lại hơi thở, tự tay đút cháo cho cô. Kỷ Miên đứng ở cửa, mắt sưng húp. Hắn quay sang nó, giọng lạnh tanh: anh hối hận vì đã nhận nuôi em.",
+      "tieu": "Tạ Bình không về được nữa. Kỷ Miên thì sống. Ngươi định để con bé gánh câu nói đó cả đời à?",
+      "cast": "ns,kl,kmi",
+      "ch": [
+        {
+          "t": "Xin hắn tha cho Kỷ Miên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn im rất lâu, rồi nói với em gái: ngồi xuống đây. Kỷ Miên ôm cô khóc. Hắn đưa tay xoa đầu cả hai.",
+            "d": {
+              "ac": -10,
+              "hac": -6,
+              "hao": 8
+            },
+            "f": "xin_km"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn bảo: chuyện này em đừng xen vào. Kỷ Miên lặng lẽ đi.",
+            "d": {
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Hỏi về Tạ Bình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn kể đã lo hậu sự, nhận nuôi mẹ già của Tạ Bình. Rồi hắn cúi đầu: lẽ ra người nằm đó là anh.",
+            "d": {
+              "ac": -8,
+              "hac": -5,
+              "hao": 6
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn đứng bật dậy đi ra ngoài, rất lâu sau mới quay vào.",
+            "d": {
+              "hac": 3,
+              "bs": -4
+            }
+          }
+        },
+        {
+          "t": "Ăn hết bát cháo, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đút từng thìa, chậm và cẩn thận. Bát cháo hết, mặt hắn mới bớt tái.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nôn ra hết. Hắn hoảng, gọi bác sĩ ầm ĩ.",
+            "d": {
+              "sinh": -4,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày hôm sau trận ở xưởng bỏ hoang, phòng của Ninh Sương trong biệt thự. Kỷ Liệt đã xóa sổ bang Hắc Ưng; vệ sĩ Tạ Bình chết khi che cho cô. Hắn trách Kỷ Miên là nguyên nhân.",
+      "no": 35
+    },
+    {
+      "id": "j36",
+      "scene": "jbar",
+      "place": "Sòng bạc do Dư Kính quản · Nửa năm sau",
+      "kind": "chon",
+      "title": "Thật hay thách",
+      "text": "Nửa năm nay, Kỷ Liệt không cho cô ra khỏi thành phố một mình. Cũng trong nửa năm ấy, hàng của Ngưu Đại Đầu bị chặn, sòng bạc của hai anh em khác bị niêm phong. Cô đến sòng bạc của Dư Kính, đặt ly rượu xuống bàn: chơi thật hay thách không, anh hai. Anh nhìn cô, cho người ra ngoài, khóa cửa.",
+      "tieu": "Hỏi thẳng hắn đi. Nhưng nhớ: không được để hắn chết.",
+      "cast": "ns,dki",
+      "ch": [
+        {
+          "t": "Hỏi thẳng: anh là cảnh sát phải không",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh không chối. Anh còn biết cô là người đội Phương cài vào trại. Anh kể sáu năm làm tay đấm, từng chắn đạn cho kẻ mình định bắt, từng thấy người anh em thân nhất bị bắn giữa trán. Anh khuyên cô rút sớm. Cô nói: em không vạch mặt anh, nhưng em không để anh hại anh ấy.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 4
+            },
+            "f": "thach_dk"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Anh cười, bảo cô say rồi, gọi người đưa cô về.",
+            "d": {
+              "nn": 4
+            }
+          }
+        },
+        {
+          "t": "Xin anh đừng dùng tin gì có được từ em",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh im lặng rồi gật: anh hứa. Từ hôm đó, gặp cô, anh không hỏi gì về Kỷ Liệt nữa.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 3
+            },
+            "f": "thach_dk,dk_hua"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh bảo: em nói gì anh không hiểu.",
+            "d": {
+              "nn": 3
+            }
+          }
+        },
+        {
+          "t": "Thôi, uống một ly rồi về",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người uống một ly, nói chuyện trại giam như người cũ.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô say, Lý Kha phải đến đón; Tôn Tam biết chuyện.",
+            "d": {
+              "hac": 2,
+              "nn": 6
+            }
+          }
+        }
+      ],
+      "ctx": "Nửa năm sau vụ bắt cóc, sòng bạc do Dư Kính quản. Anh em trong bang bị cảnh sát bắt liên tiếp; Ninh Sương, người biết Dư Kính là cảnh sát nằm vùng, đến hỏi thẳng anh.",
+      "no": 36
+    },
+    {
+      "id": "j37",
+      "scene": "jbar",
+      "place": "Phòng họp sau quán bar Hồng Ngọc · Hai tháng sau",
+      "kind": "hiem",
+      "title": "Nghi ngờ đổ về phía cô",
+      "tieu": "Nghi ngờ đang lên rất nhanh. Phải làm gì đó, không thì đến lúc hắn cũng không che nổi.",
+      "cast": "ns,kl,tta",
+      "ch": [
+        {
+          "t": "Mở sổ sách ra chứng minh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chỉ ra: mọi chỗ bị lộ đều là chỗ cô chưa từng đến, chưa từng xem sổ. Tôn Tam cứng họng. Kỷ Liệt nhìn danh sách rất lâu.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 4,
+              "nn": -12
+            },
+            "f": "chung_minh"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô lật sổ mãi không ra. Tôn Tam cười: diễn hay lắm.",
+            "d": {
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Khuyên Kỷ Liệt chuyển sang làm ăn đàng hoàng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn không trả lời trước mặt mọi người, nhưng đêm đó hỏi cô: nếu anh rửa tay thì anh em sống bằng gì. Lần đầu hắn không gạt đi.",
+            "d": {
+              "ac": -10,
+              "hac": -4,
+              "hao": 5,
+              "nn": 4
+            },
+            "f": "nghe_rut"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Hắn gạt đi: em không hiểu thế giới này. Cả phòng xì xào: nó muốn đại ca bỏ nghề.",
+            "d": {
+              "hac": 2,
+              "nn": 8
+            }
+          }
+        },
+        {
+          "t": "Để Kỷ Liệt đứng ra bảo vệ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Không ai dám nói thêm. Nhưng cô thấy Tôn Tam nhìn mình như nhìn người chết.",
+            "d": {
+              "hac": 3,
+              "nn": 5
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Kỷ Liệt đấm Tôn Tam một cú. Phe cực đoan càng hận cô.",
+            "d": {
+              "hac": 4,
+              "nn": 8
+            }
+          }
+        }
+      ],
+      "ctx": "Hai tháng sau, buổi họp của bang. Ngưu Đại Đầu bị cảnh sát bắn chết khi chống trả; Tôn Tam đổ tội làm nội gián cho Ninh Sương trước mặt anh em.",
+      "no": 37
+    },
+    {
+      "id": "j38",
+      "scene": "jsite",
+      "place": "Công trường bỏ dở phía bắc · Tháng thứ hai mươi",
+      "kind": "nan",
+      "title": "Lô sứ men xanh",
+      "tieu": "Ông Phương vừa nói ra trước mặt tất cả mọi người... Hắc hóa của hắn đang vọt lên!",
+      "cast": "ns,kl,pc",
+      "ch": [
+        {
+          "t": "Nói ngay với hắn: không phải em",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn cô, mắt đỏ ngầu, rồi quay sang Phương Chính, cười nhạt: sĩ quan, đây là đồ sứ mô phỏng, buôn đồ giả không phạm luật. Lúc được tháo còng, hắn không nhìn cô nữa.",
+            "d": {
+              "ac": -4,
+              "hao": 2,
+              "nn": 20
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn không nghe. Cả bang nhìn cô như nhìn kẻ thù.",
+            "d": {
+              "hao": -8,
+              "nn": 25
+            }
+          }
+        },
+        {
+          "t": "Đứng chắn giữa hắn và họng súng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đứng chắn trước hắn. Phương Chính hạ súng. Kỷ Liệt nhìn lưng cô, tay siết chặt, nhưng không nói gì.",
+            "d": {
+              "ac": -6,
+              "hao": 4,
+              "nn": 15
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Một cảnh sát kéo cô ra. Cô ngã, trầy cả hai tay.",
+            "d": {
+              "sinh": -6,
+              "nn": 20
+            }
+          }
+        },
+        {
+          "t": "Bảo đội Phương kiểm lại lô hàng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chỉ vào chân đế: đồ mô phỏng. Phương Chính tái mặt, phải tháo còng cho cả bọn. Kỷ Liệt nhìn cô, ánh mắt khó đọc.",
+            "d": {
+              "ac": -5,
+              "hao": 3,
+              "nn": 15
+            },
+            "f": "thao_cong"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Không ai nghe cô. Mãi sau cảnh sát mới tự phát hiện là đồ giả.",
+            "d": {
+              "nn": 20
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Tháng thứ hai mươi, một công trường bỏ dở. Kỷ Liệt tự đi giao lô sứ men xanh; cảnh sát ập vào bắt, và đội trưởng Phương Chính công khai trước mọi người rằng Ninh Sương là người của ông. Hắc hóa của Kỷ Liệt vọt lên.",
+      "no": 38
+    },
+    {
+      "id": "j39",
+      "scene": "jflat",
+      "place": "Nhà riêng đội trưởng Phương · Những ngày sau",
+      "kind": "hiem",
+      "title": "Hai phát súng",
+      "text": "Phương Chính đưa cô về nhà mình, nhờ vợ trông nom, vì người nằm vùng bị lộ thường bị trả thù. Tiểu Châu kể những gì nó dò được: tin về lô hàng, Kỷ Liệt chỉ nói cho một mình Dư Kính. Hắn đã biết ai là nội gián thật. Hắn bắn Dư Kính hai phát, vào vai và chân, rồi tha mạng, vì Dư Kính từng che chở cô trong trại. Dư Kính được khôi phục thân phận cảnh sát. Còn phe của Tôn Tam đang đi tìm cô.",
+      "tieu": "Hắn biết ngươi không phải kẻ báo tin. Nhưng hắn chưa biết ngươi có lừa hắn từ đầu hay không. Giờ làm gì đây?",
+      "cast": "ns,pc,tc",
+      "ch": [
+        {
+          "t": "Nhắn cho hắn: em bị ép vào trại, em chưa từng khai gì về anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tin nhắn hiện đã xem. Không có trả lời. Nhưng đêm đó Tiểu Châu báo Hắc hóa của hắn nhích xuống lần đầu tiên từ hôm ở công trường.",
+            "d": {
+              "ac": -6,
+              "hac": -6,
+              "hao": 5
+            }
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Tin nhắn không gửi được: hắn đã chặn số.",
+            "d": {
+              "hac": 2
+            }
+          }
+        },
+        {
+          "t": "Ở yên dưới sự bảo vệ của cảnh sát",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ở yên. Ba ngày trôi qua chậm như ba năm.",
+            "d": {
+              "hac": 3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô thấy một chiếc xe lạ đỗ dưới nhà suốt đêm.",
+            "d": {
+              "hac": 3,
+              "nn": 4
+            }
+          }
+        },
+        {
+          "t": "Lẻn ra ngoài đi tìm hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đến biệt thự, thấy đèn phòng hắn còn sáng. Cô không vào, chỉ để lại trước cổng một cành liễu khô như hôm kết nghĩa.",
+            "d": {
+              "ac": -7,
+              "hac": -5,
+              "hao": 6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Người của Tôn Tam bám theo cô; cô phải chạy vào đồn cảnh sát gần nhất.",
+            "d": {
+              "sinh": -6,
+              "nn": 6
+            }
+          }
+        }
+      ],
+      "ctx": "Những ngày sau vụ lô sứ, nhà riêng đội trưởng Phương Chính. Ninh Sương được cảnh sát bảo vệ; Tiểu Châu kể Kỷ Liệt đã bắn Dư Kính hai phát nhưng tha mạng, và phe Tôn Tam đang tìm cô.",
+      "no": 39
+    },
+    {
+      "id": "j40",
+      "scene": "jsafe",
+      "place": "Phòng dưới hầm một sòng bạc · Đêm thứ ba",
+      "kind": "chon",
+      "title": "Phòng an toàn",
+      "text": "Đêm thứ ba, Kỷ Liệt đứng dưới cổng nhà Phương Chính, một mình. Cô tự mở cửa đi xuống. Hắn chỉ hỏi: đi với anh không. Cô gật. Hắn đưa cô xuống một căn phòng dưới tầng hầm một sòng bạc, có giường, có bếp, có cửa thoát hiểm, rồi bỏ chìa khóa vào tay cô: ở đây anh em không tìm ra em. Ngày nào hắn cũng mang cơm đến, ngồi ăn cùng, nhưng chưa nói một câu tha thứ.",
+      "tieu": "Hắn giấu ngươi khỏi chính người của hắn. Nói điều ngươi muốn nói đi, đừng để lỡ.",
+      "cast": "ns,kl",
+      "ch": [
+        {
+          "t": "Nói: em thật lòng thích anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đũa trong tay hắn dừng lại. Hắn không trả lời, nhưng trước khi đi, hắn đặt tay lên đầu cô, xoa nhẹ, như ngày ở trại.",
+            "d": {
+              "ac": -12,
+              "hac": -8,
+              "hao": 10
+            },
+            "f": "to_tinh"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn đứng dậy: đừng nói những lời đó lúc này. Rồi đi.",
+            "d": {
+              "hac": 3,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Kể lại từ đầu: đội Phương, bản án, những lần nói dối để che cho hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe hết, không ngắt lời. Rồi hỏi: lần ở mỏ đá em lao vào là thật hay diễn. Cô nói: thật. Hắn gật đầu.",
+            "d": {
+              "ac": -10,
+              "hac": -7,
+              "hao": 8
+            },
+            "f": "ke_het"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn ngắt lời: đủ rồi. Chiều nay anh còn việc.",
+            "d": {
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Hỏi chìa khóa này có mở được từ bên trong không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bảo: mở được. Em muốn đi lúc nào cũng được. Anh chỉ mong em đừng đi.",
+            "d": {
+              "ac": -6,
+              "hac": -5,
+              "hao": 6
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn sầm mặt, tưởng cô đang tính đường trốn.",
+            "d": {
+              "hac": 3,
+              "hao": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm thứ ba sau vụ lô sứ. Kỷ Liệt đến đón Ninh Sương và cô tự chọn đi theo; hắn giấu cô trong một phòng an toàn dưới hầm sòng bạc để phe cực đoan trong bang không tìm thấy, chìa khóa để trong tay cô.",
+      "no": 40
+    },
+    {
+      "id": "j41",
+      "scene": "jfactory",
+      "place": "Dãy xưởng bỏ hoang · Trưa tháng thứ hai mươi mốt",
+      "kind": "nan",
+      "title": "Xưởng bỏ hoang",
+      "text": "Lý Kha để ý thấy ngày nào đại ca cũng ghé một sòng bạc, và lỡ miệng nói với Tôn Tam. Một trưa, lúc Kỷ Liệt đang họp, Tôn Tam dẫn năm người phá cửa hầm, trói cô đưa về dãy xưởng bỏ hoang, nơi bang Hắc Ưng đã bị xóa sổ. Một máy quay dựng sẵn: hắn muốn quay cô “thú tội” gửi cho đội Phương rồi mới xử. Lý Kha đứng ở cửa, tay cầm súng, mặt không cảm xúc.",
+      "tieu": "Ta không cứu ngươi bằng phép được đâu. Cởi dây trước đã. Và nhớ: Lý Kha từng cùng ngươi cứu Kỷ Miên.",
+      "cast": "ns,tta,lkh",
+      "ch": [
+        {
+          "t": "Cắt dây bằng mảnh kính giấu trong tay áo rồi đánh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô cắt đứt dây, quật ngã hai tên gần nhất. Đám còn lại xông vào; cô lãnh mấy nhát dao nhưng không gục. Lý Kha giơ súng nhắm vào cô, tay run.",
+            "d": {
+              "ac": -4,
+              "hao": 3,
+              "sinh": -10
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Dây đứt chậm, cô bị đánh ngã mấy lần trước khi đứng dậy được.",
+            "d": {
+              "sinh": -18
+            }
+          }
+        },
+        {
+          "t": "Nói với Lý Kha về Tạ Bình",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nói: Tạ Bình chết để che cho em và Kỷ Miên, anh ở đó mà. Lý Kha cụp mắt, hạ súng, quay lưng bỏ ra ngoài. Cô nghe tiếng anh bấm điện thoại.",
+            "d": {
+              "ac": -6,
+              "hao": 4,
+              "sinh": -6
+            },
+            "f": "lkh_bao"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Tôn Tam đá vào mặt cô, bắt im.",
+            "d": {
+              "sinh": -14
+            }
+          }
+        },
+        {
+          "t": "Nhìn thẳng máy quay, nói rõ mình chưa từng khai gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nói từng câu chậm rãi vào ống kính. Tôn Tam đập máy quay, nhưng thẻ nhớ đã ghi đủ.",
+            "d": {
+              "ac": -5,
+              "hao": 3,
+              "sinh": -8
+            },
+            "f": "the_nho"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Tôn Tam tắt máy, cho người đánh cô.",
+            "d": {
+              "sinh": -16
+            }
+          }
+        }
+      ],
+      "ctx": "Trưa tháng thứ hai mươi mốt, dãy xưởng bỏ hoang ở rìa Tân Dương. Tôn Tam và năm người trong phe cực đoan tìm ra chỗ Kỷ Liệt giấu Ninh Sương, bắt cô về để quay “lời thú tội” rồi xử; vệ sĩ Lý Kha cầm súng đứng canh. Nghi ngờ của bang càng cao, cô càng bị đánh nặng.",
+      "no": 41
+    },
+    {
+      "id": "j42",
+      "scene": "jfactory",
+      "place": "Dãy xưởng bỏ hoang · Mười lăm phút sau",
+      "kind": "chon",
+      "title": "Anh đến rồi",
+      "text": "Lý Kha hạ súng, bỏ ra ngoài, nhắn cho Kỷ Liệt một dòng: xưởng phía tây. Mười lăm phút sau, cửa xưởng bị đạp tung. Hắn thấy cô ngồi tựa cột, máu loang đầy áo, và Tôn Tam đang cầm dao. Mắt hắn đỏ rực. Cô cố giơ tay nắm lấy vạt áo hắn: anh, em không trách anh. Anh phải sống cho tốt.",
+      "tieu": "Hắc hóa của hắn sắp vỡ. Chọn cho cẩn thận, đây là lần cuối ngươi kịp kéo hắn lại.",
+      "cast": "ns,kl,tta",
+      "ch": [
+        {
+          "t": "Xin hắn giao Tôn Tam cho cảnh sát",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng im rất lâu, mã tấu trong tay run lên. Rồi hắn ném dao xuống, bẻ tay Tôn Tam, gọi cho Phương Chính. Lần đầu tiên Tu La tự giao người cho cảnh sát.",
+            "d": {
+              "ac": -14,
+              "hac": -10,
+              "hao": 8
+            },
+            "f": "giao_cs"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn không nghe, xông vào đánh Tôn Tam gục rồi mới quay lại ôm cô.",
+            "d": {
+              "ac": 4,
+              "hac": 4,
+              "bs": -6
+            }
+          }
+        },
+        {
+          "t": "Chỉ xin hắn đưa mình đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bế cô lên, đi thẳng ra xe, để đám Tôn Tam lại cho Lý Kha trói giao cảnh sát.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn bế cô đi nhưng ra lệnh cho anh em không tha một ai.",
+            "d": {
+              "ac": 3,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Để hắn tự quyết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đánh Tôn Tam gục, rồi khựng lại khi thấy cô lắc đầu. Hắn để Tôn Tam sống, giao cho cảnh sát.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn đánh đến khi không còn ai đứng dậy.",
+            "d": {
+              "ac": 6,
+              "hac": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Mười lăm phút sau, cùng xưởng bỏ hoang. Lý Kha hạ súng và nhắn cho Kỷ Liệt; hắn phá cửa xông vào, thấy Ninh Sương đầy máu và Tôn Tam đang cầm dao.",
+      "no": 42
+    },
+    {
+      "id": "j43",
+      "scene": "jdawn",
+      "place": "Phòng bệnh nhìn ra thành phố · Mấy ngày sau",
+      "kind": "duyen",
+      "title": "Lời chưa kịp nói",
+      "text": "Cô tỉnh dậy ở bệnh viện, tay hắn vẫn nắm tay cô. Hắn nói chậm, như sợ không kịp: anh định đợi mọi chuyện yên ổn mới nói. Anh định chuyển hết sang làm ăn đàng hoàng, mở công ty, để em làm trợ lý, rồi đưa em đi khắp nơi, đến khi em quá tuổi lấy chồng thì bảo em ở lại với anh luôn. Anh thích em, Tiểu Sương. Từ ngày em ngồi quay lưng ăn cơm ở bàn anh.",
+      "tieu": "Câu này ta đợi hai năm rồi đấy. Trả lời hắn cho đàng hoàng!",
+      "cast": "ns,kl,kmi",
+      "ch": [
+        {
+          "t": "Nói: vậy anh phải giữ lời, từng chữ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cười, cúi xuống áp trán vào tay cô: anh giữ. Ngoài cửa, Kỷ Miên khóc òa.",
+            "d": {
+              "ac": -14,
+              "hac": -10,
+              "hao": 10
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nói chưa hết câu đã ngủ thiếp đi. Lúc tỉnh, hắn vẫn ngồi đó.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "final": 1
+        },
+        {
+          "t": "Hỏi hắn đã thật sự rửa tay chưa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đưa cô xem giấy đăng ký công ty, tên ghép từ chữ đầu tên hai người. Anh em cũ sẽ làm bảo vệ. Hắn nói: anh không muốn em phải nói dối ai nữa.",
+            "d": {
+              "ac": -14,
+              "hac": -8,
+              "hao": 8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn bảo: đang làm. Câu trả lời chưa đủ, nhưng hắn không nói dối.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "final": 1
+        },
+        {
+          "t": "Kéo hắn lại gần, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn để yên cho cô ôm. Lần đầu tiên, trên mặt Tu La có nước mắt.",
+            "d": {
+              "ac": -12,
+              "hac": -10,
+              "hao": 9
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô với không tới. Hắn cúi xuống, cười: để anh.",
+            "d": {
+              "hac": 2
+            }
+          },
+          "final": 1
+        }
+      ],
+      "ctx": "Mấy ngày sau trận ở xưởng bỏ hoang, phòng bệnh. Ninh Sương tỉnh lại; Kỷ Liệt ngồi bên giường và nói ra điều hắn đã giấu từ lâu.",
+      "no": 43
+    }
+  ]
+}

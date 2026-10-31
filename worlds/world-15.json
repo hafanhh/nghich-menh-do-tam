@@ -1,0 +1,4600 @@
+{
+  "id": "w15",
+  "no": 15,
+  "chapEnd": [
+    8,
+    15,
+    21,
+    33,
+    48
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": -0.073,
+  "p0": {
+    "mi": 60,
+    "tri": 58,
+    "van": 52
+  },
+  "params": {
+    "pb": -0.073,
+    "b1": 1,
+    "b2": 2.747,
+    "bad": 5.033,
+    "ac": 1.055,
+    "hac": 1.129,
+    "hao": 0.505,
+    "h0": 71.886,
+    "sp": 2.924,
+    "sd": 1.792,
+    "s32b": 7.581,
+    "s32s": 3.791,
+    "s47b": 8.968,
+    "s47s": 4.125
+  },
+  "names": {
+    "u_mach": "Hạ Tiểu Mạch",
+    "u_ngon": "Quan Hạc Ngôn",
+    "u_yen": "Thích Hồng Yên",
+    "u_hanh": "Lệ Dạ Hành",
+    "u_dung": "Cát Tử Dung",
+    "u_hai": "Đồng Vân Hải",
+    "u_thanh": "Từ Thanh chân nhân",
+    "u_hao": "Xích Hạo chân quân",
+    "u_tieuhanh": "Từ Tiểu Hạnh",
+    "u_he": "Doãn Hề",
+    "u_khanh": "Tống Tiểu Khanh",
+    "u_tinh": "Chu Lạc Tinh",
+    "u_hien": "Phương Thừa Hiên",
+    "u_vi": "Mạnh Thanh Vi",
+    "u_vu": "Thạch Vũ",
+    "u_cot": "Hắc Cốt"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 15 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh dùng lại hình vẽ tạm của các thế giới trước.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Một mùa nữa, rồi thêm một mùa",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Quan Hạc Ngôn về không. Hắn không còn đứng cách cô vài bước như một cái bóng, cũng thôi tính trước mọi ngày cô sẽ đi. Cô không phi thăng. Cô ở lại Thiên Ma Tông, trồng cây, dạy đệ tử, và cứ mỗi mùa lại nói «thêm một mùa nữa». Hạc Ngôn học cách buông bớt tự trách, đặt cuốc xuống đúng luống, rót trà đúng vị. Dạ Hành mỗi năm gửi một lá thư từ chân núi. Linh thực viên xanh quanh năm.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "rgreen"
+    },
+    "near": {
+      "n": "Hắn vẫn giữ tay cô hơi chặt",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Cô ở lại bên Hạc Ngôn, Thiên Ma Tông yên ổn, các đệ tử lần lượt đỗ kiếp. Chỉ có điều những buổi chiều cô ra vườn, hắn vẫn đi theo cách vài bước, và đôi khi vô thức nắm tay cô hơi chặt, như sợ gió cuốn đi. Cô không giận. Cô biết hắn đang học cách tin rằng lần này không ai bị vu oan, không ai bị bỏ lại, và vết lo trong mắt hắn nhạt dần theo từng mùa.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "vyard"
+    },
+    "half": {
+      "n": "Không có thuốc hối hận",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hồng Yên đã ngã, Thiên Ma Tông yên ổn, cô vẫn ở bên Hạc Ngôn. Nhưng hắn vẫn đi theo cô như một cái bóng, ánh mắt lúc nào cũng lo mất. Cô ngồi cạnh hắn những lúc hắn im lặng, hy vọng một ngày hắn tin rằng không cần canh giữ ai. Trong vườn có đủ loại thuốc, duy chỉ không có thuốc hối hận, và cả hai đều biết điều đó.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "vlou"
+    },
+    "black": {
+      "n": "Kiếm rút khỏi vỏ trên bãi hoang",
+      "c": "Hắc hóa chạm 100. Nỗi sợ mất cô và cơn giận với những kẻ từng hại cô nuốt trọn Hạc Ngôn. Hắn không nghe tên mình, không nghe tiếng cô, chỉ còn tiếng sấm xa và thanh kiếm đã rời khỏi vỏ. Tiểu Châu khẽ gọi cô đi trước khi kiếp vân khép lại phía sau lưng.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "vfire"
+    },
+    "bdead": {
+      "n": "Chiếc áo trắng trên luống thuốc",
+      "c": "Sinh mệnh của Quan Hạc Ngôn về 0. Hắn kiệt sức vì đi theo cô khắp nơi, vì những đêm không ngủ canh cho cô, vì nỗi hối hận hắn không có chỗ đặt xuống. Chiếc áo trắng vẫn nằm trên luống thuốc, và thanh kiếm vẫn tựa vào hiên. Tiểu Châu khẽ gọi cô về.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "vdawn"
+    },
+    "dead": {
+      "n": "Linh căn không kịp mọc lại",
+      "c": "Sinh mệnh của cô cạn kiệt. Phục Sinh Quyển chưa đủ để cứu một thân thể đã bị phế, và đêm ấy không ai kịp tới ngồi bên giường. Tiểu Châu kéo linh hồn cô đi trước khi Hạc Ngôn chạm tay vào cửa.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "rcave"
+    }
+  },
+  "events": [
+    {
+      "id": "u01",
+      "scene": "vhall",
+      "place": "Lưu Nguyệt Môn · Sảnh phán xử",
+      "kind": "chon",
+      "title": "Sảnh phán xử",
+      "text": "Tiểu Mạch mở mắt giữa một sảnh đá lạnh, linh căn trong người trống rỗng như giếng cạn. Một quả cầu ngọc xanh nhỏ lơ lửng cạnh tai: «Ta là Tiểu Châu». Nó đọc hồ sơ rất nhanh: nguyên chủ Hạ Tiểu Mạch, 22 tuổi, Kim Đan của Lưu Nguyệt Môn, bị buộc tội hại sư muội Thích Hồng Yên và trộm chí bảo Trấn Linh Ngọc. Ảnh Tượng Thạch đã ghi hình. Trong sảnh có chưởng môn Cát Tử Dung, Hồng Yên áo đỏ đứng sau lưng ông, Lệ Dạ Hành áo huyền, thiếu tông chủ Thiên Ma Tông, người vừa ra tay phế linh căn của cô, và sư muội Từ Tiểu Hạnh đứng thu mình ở góc sảnh. Người đứng lạnh nhạt ở giữa, áo trắng, là Quan Hạc Ngôn, sư phụ của nguyên chủ. Dạ Hành đòi trục xuất cô. Cô chưa có chút ký ức nào, không biết mình có trộm thật hay không.",
+      "tieu": "Ngươi vừa tỉnh dậy giữa phiên xử. Đừng nhận bừa, cũng đừng cãi bừa. Nhìn xem ai không dám nhìn ngươi.",
+      "cast": "u_mach,u_ngon,u_yen,u_hanh,u_dung,u_tieuhanh,tc",
+      "ch": [
+        {
+          "t": "Nhìn từng người trong sảnh, ghi nhớ ai tránh ánh mắt mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Hạnh vội cúi đầu, Hồng Yên mím môi cười, Hạc Ngôn thì nhìn thẳng cô rồi quay đi. Cô nhớ cả ba cái nhìn ấy.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "nho_anh_mat"
+          },
+          "b": 0.6241333333333334,
+          "bad": {
+            "x": "Cô nhìn quá nhiều người cùng lúc, lẫn hết cả. Chỉ còn nhớ mang máng Hồng Yên đang cười.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.56
+        },
+        {
+          "t": "Giữ im lặng, đứng thẳng lưng, không để ai thấy mình run",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đứng thẳng như một cây trúc. Vài đệ tử ở cuối sảnh thôi xì xào.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5071733333333333,
+          "bad": {
+            "x": "Chân cô run nhẹ khi gió thổi qua, Hồng Yên thấy rõ và khẽ cười.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Hỏi Tiểu Châu xem nguyên chủ có thật làm chuyện đó không",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "«Nguyên chủ không nhớ mình đã trộm. Cái đó mới đáng ngờ», Tiểu Châu thì thầm. Cô giữ câu ấy trong đầu.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "nghi_nguyen_chu"
+          },
+          "b": 0.4486933333333332,
+          "bad": {
+            "x": "Tiểu Châu ấp úng, nói «để ta tra thêm». Cô vẫn chưa biết gì thêm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sảnh phán xử của Lưu Nguyệt Môn, ngay khi linh căn bị phế. Tiểu Mạch nhận nhiệm vụ cảm hóa Quan Hạc Ngôn và đọc hồ sơ nguyên chủ.",
+      "no": 1
+    },
+    {
+      "id": "u02",
+      "scene": "vhall",
+      "place": "Lưu Nguyệt Môn · Ngay sau đó",
+      "kind": "chon",
+      "title": "Quan Hạc Ngôn dò hồn",
+      "text": "Cát Tử Dung hỏi ý Hạc Ngôn vì Tiểu Mạch là đệ tử thân truyền của hắn. Hạc Ngôn hỏi vì sao cô lại trộm chí bảo. Cô đáp «không biết», và đó đúng là sự thật. Hắn đặt tay lên trán cô dò linh hồn, xác nhận vẫn là hồn cũ, không bị đoạt xá. Thần sắc hắn dịu đi một nhịp rồi lại lạnh như cũ, hắn xin chưởng môn điều tra thêm. Cô có thể trả lời thẳng hoặc hỏi ngược hắn có từng nghĩ vì sao cô «không biết».",
+      "tieu": "Hắn không ưa người có tâm cơ. Nói thật là cách dễ nhất để hắn nghe, nhưng chưa chắc là cách hắn nhớ lâu.",
+      "cast": "u_mach,u_ngon,u_dung,tc",
+      "ch": [
+        {
+          "t": "Đáp thẳng: «Con thật sự không biết», nhìn vào mắt hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhìn cô lâu hơn bình thường. Ngón tay hắn siết nhẹ trong tay áo.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "hoi_that"
+          },
+          "b": 0.5584800000000001,
+          "bad": {
+            "x": "Giọng cô khô và vỡ ở cuối câu. Hắn nhíu mày, không rõ vì nghi hay vì lo.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Hỏi ngược: «Sư phụ đã bao giờ nghĩ vì sao con không biết chưa?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn khựng lại. Đó là câu hỏi hắn chưa dám tự hỏi mình.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "hoi_nguoc"
+          },
+          "b": 0.44151999999999997,
+          "bad": {
+            "x": "Câu hỏi nghe như trách móc. Hắn quay mặt đi, và cô thấy mình đã nói sai chỗ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Cúi đầu, không nói thêm gì để dành sức cho lúc cần",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Sự im lặng của cô khiến cả sảnh chùng xuống. Hạc Ngôn vẫn chưa buông tay khỏi trán cô.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô cúi quá lâu, Hồng Yên nhân lúc đó mở miệng trước.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sảnh phán xử, ngay sau đó. Hạc Ngôn dò hồn, xác nhận vẫn là hồn cũ.",
+      "no": 2
+    },
+    {
+      "id": "u03",
+      "scene": "vhall",
+      "place": "Lưu Nguyệt Môn · Cùng buổi",
+      "kind": "nan",
+      "title": "Tối hậu thư của Hồng Yên",
+      "text": "Hồng Yên bước ra, nói chứng cứ đã đủ. Nếu Tiểu Mạch còn ở lại thì nàng sẽ rời tông, rồi nhìn thẳng chưởng môn mà chờ. Cát Tử Dung, người thầm yêu nàng, tuyên bố tước thân phận đệ tử Lưu Nguyệt Môn của cô và đuổi khỏi tông. Hạc Ngôn đứng im. Tiểu Châu nhắc nhỏ: từ lúc này, cô không còn là đệ tử của hắn nữa.",
+      "tieu": "Chưởng môn bị nàng giật dây như con rối, mà ông còn tưởng đó là tình. Đừng cãi ông. Giữ sức.",
+      "cast": "u_mach,u_yen,u_dung,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Quỳ một gối xuống cúi chào chưởng môn, giữ thể diện đến phút cuối",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cúi chào đúng lễ nghi. Vài vị trưởng lão thoáng lúng túng, tránh ánh mắt cô.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            }
+          },
+          "b": 0.5128266666666667,
+          "bad": {
+            "x": "Giọng cô khàn đi khi cúi chào. Hồng Yên nghiêng đầu như thương hại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhìn thẳng Hồng Yên, chỉ nói một câu: «Ta nhớ ngươi, sư muội»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nụ cười trên môi Hồng Yên chợt cứng lại nửa nhịp. Cô ghi nhớ khoảnh khắc ấy.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            },
+            "f": "nhin_hong_yen"
+          },
+          "b": 0.45434666666666657,
+          "bad": {
+            "x": "Hồng Yên đáp lại bằng một cái thở dài thương hại. Cả sảnh nghe thành lời trách móc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Quay sang Hạc Ngôn lần cuối, chờ xem hắn có mở miệng không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn mấp máy môi nhưng rồi im lặng. Cô thấy bàn tay hắn siết chặt chuôi kiếm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 0
+            }
+          },
+          "b": 0.5128266666666667,
+          "bad": {
+            "x": "Hắn nhìn đi chỗ khác trước khi cô kịp nhìn thẳng. Cô đứng nhìn khoảng không ấy một lúc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sảnh phán xử, cùng buổi. Cát Tử Dung tước thân phận đệ tử của Tiểu Mạch và đuổi khỏi tông.",
+      "no": 3
+    },
+    {
+      "id": "u04",
+      "scene": "vgate",
+      "place": "Lưu Nguyệt Môn · Sơn đạo",
+      "kind": "chon",
+      "title": "Lời cuối và bước xuống núi",
+      "text": "Trước khi đi, Tiểu Mạch hỏi Hạc Ngôn vì sao không cản. Đệ tử cần người thân nhất mở lời giúp, dù chỉ hai câu. Cô nói nguyên chủ từng yêu hắn, từ nay thu hồi, và thì thầm rằng muốn thấy hắn nếm mùi sa chân. Hắn thoáng mất tự nhiên, rõ ràng đã nghe ra điều gì. Cô gọi thẳng tên hắn rồi tự bước xuống núi. Hắn thoáng nghĩ tới việc giữ cô lại, nhưng rồi đứng im. Hồng Yên mỉm cười, kéo Dạ Hành đi.",
+      "tieu": "Lời cuối là thứ người ta nhớ lâu nhất. Lạnh hay buồn, hắn đều sẽ nghe.",
+      "cast": "u_mach,u_ngon,u_yen,u_hanh,tc",
+      "ch": [
+        {
+          "t": "Nói thẳng và lạnh: «Ta không còn nợ ngươi điều gì»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng chết lặng. Cô quay lưng đi mà không cần nghe câu đáp.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "loi_cuoi_lanh"
+          },
+          "b": 0.5128266666666667,
+          "bad": {
+            "x": "Lời nói của cô nghe như giận dỗi hơn là dứt khoát. Hắn nhìn cô, không biết nên tin hay không.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nói nhẹ và buồn: «Con đã rất cố gắng, sư phụ»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn khựng lại, như vừa nhận một nhát kiếm mềm. Cô đã đi xa mà hắn vẫn chưa nhúc nhích.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "loi_cuoi_buon"
+          },
+          "b": 0.45434666666666657,
+          "bad": {
+            "x": "Lời nhẹ quá, gió núi cuốn mất nửa câu. Hắn chỉ nghe được tiếng cô bước.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Không nói thêm gì, chỉ cúi chào đúng lễ rồi đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô cúi chào rất thẳng, như thể buông hết. Hắn nhìn theo bóng cô đến khi khuất.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5128266666666667,
+          "bad": {
+            "x": "Cô vấp một bậc đá trên sơn đạo, phải vịn tay vào vách để khỏi ngã.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sảnh phán xử và sơn đạo. Tiểu Mạch hỏi Hạc Ngôn vì sao không cản, rồi tự bước xuống núi.",
+      "no": 4
+    },
+    {
+      "id": "u05",
+      "scene": "rcave",
+      "place": "Sơn động dưới chân núi · Chiều",
+      "kind": "chon",
+      "title": "Cốt truyện trong sơn động",
+      "text": "Chiều ấy, Tiểu Mạch tìm được một sơn động ẩn dưới chân núi để tránh mưa. Tiểu Châu đưa cho cô toàn bộ cốt truyện: Hồng Yên là người trọng sinh. Kiếp trước nàng bị Hạc Ngôn chê trước mặt mọi người rồi chết trong tay ma tu, nên kiếp này trở lại để trả thù tất cả những ai từng cao cao tại thượng với nàng, nhất là các thiên tài. Nàng đã dùng bí pháp khống chế thần trí nguyên chủ để đi trộm Trấn Linh Ngọc, cái giá là tu vi nàng đứng yên ba năm, rồi dàn cảnh cho Dạ Hành phế linh căn cô. Nàng còn định giết Đồng Vân Hải và Từ Thanh chân nhân, và ép Dạ Hành chết dưới thiên kiếp. Sư muội Từ Tiểu Hạnh là người duy nhất hay tới chỗ nguyên chủ, hay đưa lời khuyên cách tiếp cận Hạc Ngôn.",
+      "tieu": "Đây là cả một bộ truyện. Ngươi tin hết hay ghi lại từng chi tiết để kiểm chứng? Ta khuyên cái sau.",
+      "cast": "u_mach,u_yen,u_hanh,u_tieuhanh,tc",
+      "ch": [
+        {
+          "t": "Tin hết lời Tiểu Châu và bắt đầu lập kế hoạch ngay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô dựng sẵn trong đầu năm cái tên cần cứu và ba nơi phải đến trước. Đầu óc nhẹ đi hẳn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "tin_tieu_chau"
+          },
+          "b": 0.41586666666666666,
+          "bad": {
+            "x": "Cô vội nên nhầm thứ tự vài chi tiết. Phải ngồi lại từ đầu mới sửa được.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Ghi lại từng chi tiết trên vách động, rồi đối chiếu với điều mình thấy ở sảnh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi đủ ngày, tên, nơi chốn. Cả bức vách đầy chữ, nhưng đầu cô thì thông suốt.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "ghi_chi_tiet"
+          },
+          "b": 0.6497866666666668,
+          "bad": {
+            "x": "Cô ghi sót một mốc quan trọng, phải xóa đi viết lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.56
+        },
+        {
+          "t": "Hỏi Tiểu Châu vì sao nàng phải trả thù cả thế giới",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Châu im một lúc rồi nói: «Kiếp trước nàng chết trong tay ma tu. Ta chỉ nói gọn thế.» Cô gật, không hỏi thêm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.4743466666666667,
+          "bad": {
+            "x": "Tiểu Châu lảng sang chuyện khác. Cô nhận ra mình mới chạm vào một vết thương không thuộc về mình.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sơn động dưới chân núi, chiều cùng ngày. Tiểu Châu đưa cốt truyện; cô biết Hồng Yên là người trọng sinh.",
+      "no": 5
+    },
+    {
+      "id": "u06",
+      "scene": "rcave",
+      "place": "Sơn động · Sáng hôm sau",
+      "kind": "duyen",
+      "title": "Phục Sinh Quyển",
+      "text": "Sáng hôm sau, vết thương nặng, linh căn đã mất. Tiểu Châu lôi ra một công pháp dành riêng cho người bị phế linh căn, tên Phục Sinh Quyển. Bị phế càng triệt để thì tu càng nhanh, và thân thể này lại là linh thể bẩm sinh. Cô vận công cả ngày và hồi phục về Kim Đan. Cô có thể dồn hết sức chữa thương hoặc giữ lại một phần để thử công pháp.",
+      "tieu": "Đây là lối đi duy nhất còn lại. Đừng tham, đừng vội, đừng bỏ dở.",
+      "cast": "u_mach,tc",
+      "ch": [
+        {
+          "t": "Dồn hết sức chữa thương trước, tu vi tính sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Vết thương lành nhanh hơn dự tính. Cô thở ra một hơi dài, như vừa trút được một tảng đá.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5584800000000001,
+          "bad": {
+            "x": "Vết thương lành chậm, cô phải nằm thêm nửa ngày. Tiểu Châu thở dài.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Giữ lại một phần sức để thử luôn công pháp",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Linh khí tràn vào kinh mạch trống rỗng như nước vào đất khô. Cô cảm nhận rõ từng nhịp vận chuyển.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.44151999999999997,
+          "bad": {
+            "x": "Cô thử quá sớm, linh khí loạn trong kinh mạch. Cô phải dừng lại thở dốc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Chia đều: ban ngày chữa thương, ban đêm luyện công",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Một ngày trôi qua, cô mở mắt và thấy mình đã trở lại Kim Đan.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô ngủ quên giữa chừng, bỏ lỡ nửa giờ vận công quý giá.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sơn động, sáng hôm sau. Tiểu Mạch dùng Phục Sinh Quyển để hồi phục.",
+      "learn": {
+        "n": "Điều tức hồi khí",
+        "s": "van",
+        "v": 1
+      },
+      "no": 6
+    },
+    {
+      "id": "u07",
+      "scene": "rcave",
+      "place": "Sơn động · Hai ngày sau",
+      "kind": "chon",
+      "title": "Gửi lời cho ba vị tiền bối",
+      "text": "Hai ngày sau, Tiểu Châu giới thiệu ba người sẽ bị Hồng Yên hại nếu không ai cảnh báo. Đồng Vân Hải là tông chủ Thiên Ma Tông, mặt lạnh nhưng vốn là người thành thật, sư phụ của Dạ Hành. Từ Thanh chân nhân luyện đan ở Đan Hoa Môn. Xích Hạo chân quân ở Thanh Phong Tông, hào sảng, bạn của hai người kia. Mỗi người có một bí mật chỉ họ biết mà Tiểu Châu đọc được trong cốt truyện; cô dùng chúng để chứng tỏ lời mình. Cô viết ba lá thư truyền âm, và phải chọn gửi lá nào trước, nói thẳng chuyện Hồng Yên hay chỉ đưa bí mật.",
+      "tieu": "Ba lá thư, ba tính nết. Đồng Vân Hải khó tin, hai người kia dễ hơn. Gửi lá nào trước là một canh bạc nhỏ.",
+      "cast": "u_mach,u_hai,u_thanh,u_hao,tc",
+      "ch": [
+        {
+          "t": "Gửi cho Đồng Vân Hải trước, kèm bí mật chỉ ông biết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lá thư chưa kịp nguội thì hồi âm đã tới: «Ngươi là ai? Hẹn gặp.» Cô ghi nhớ giọng điệu gấp gáp ấy.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "thu_hai_truoc"
+          },
+          "b": 0.43151999999999996,
+          "bad": {
+            "x": "Ông đọc xong lập tức ngắt truyền âm. Cô phải gửi thêm một lá nữa mới lay chuyển được ông.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Gửi cho Từ Thanh chân nhân trước, vì ông dễ tin người hơn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Từ Thanh đáp ngay trong nửa nén hương, còn chủ động hỏi thêm hai câu về Hồng Yên.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "thu_thanh_truoc"
+          },
+          "b": 0.57772,
+          "bad": {
+            "x": "Từ Thanh đáp ngập ngừng, hỏi lại ba lần mới tin một nửa. Cô phải kiên nhẫn trả lời.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.52
+        },
+        {
+          "t": "Chỉ đưa bí mật, không nhắc gì đến Hồng Yên, để họ tự đoán",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả ba người nhận thư đều yên lặng rất lâu, rồi tự tìm đến cô.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.46075999999999995,
+          "bad": {
+            "x": "Có người hiểu ngược ý cô, tưởng đó là lời đe dọa. Cô phải gửi thêm thư giải thích.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Sơn động, hai ngày sau. Tiểu Mạch viết ba lá thư truyền âm gửi ba vị tiền bối.",
+      "no": 7
+    },
+    {
+      "id": "u08",
+      "scene": "vlou",
+      "place": "Tửu lầu trong thành · Chiều",
+      "kind": "chon",
+      "title": "Ba vị tới tửu lầu",
+      "text": "Từ Thanh, Xích Hạo và Đồng Vân Hải lần lượt tới, ngỡ ngàng vì cô đã trở về Kim Đan chỉ sau một ngày. Cô mời họ gà ăn mày làm quà gặp mặt. Ở tửu lầu cô kể: Hồng Yên là người trọng sinh, người như vậy khiến thiên cơ rối loạn và nhiều người bị đổi vận; Dạ Hành đã bị nàng mê. Đồng Vân Hải sốt ruột hỏi cô định làm gì. Từ Thanh và Xích Hạo mỗi người đều muốn mời cô về tông mình. Cô có thể kể hết sự thật về Hồng Yên hoặc chỉ nói điều họ cần biết.",
+      "tieu": "Ba người này đang nhìn ngươi bằng ba cách khác nhau. Một người nghi, một người tò mò, một người mừng. Kể bao nhiêu cũng được, miễn đừng thừa.",
+      "cast": "u_mach,u_hai,u_thanh,u_hao,tc",
+      "ch": [
+        {
+          "t": "Kể hết sự thật về Hồng Yên, kể cả chuyện người trọng sinh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba người im lặng suốt một tuần trà. Rồi Xích Hạo đập bàn: «Hèn gì năm đó ta thấy nàng kỳ lạ.»",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "ke_het_su_that"
+          },
+          "b": 0.46075999999999995,
+          "bad": {
+            "x": "Cô kể quá nhanh, họ nghe không kịp và hỏi dồn. Cô phải kể lại từ đầu.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Chỉ nói điều họ cần biết: ai sẽ bị hại, khi nào, và cách tránh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba người ghi chép kỹ càng, không ai hỏi thêm chuyện gì ngoài lề.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Cô nói thiếu chỗ, họ nghi cô giấu điều gì. Phải bù thêm vài chi tiết mới yên.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Gọi thêm một vò rượu rồi mới kể, để họ thả lỏng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Sau hai chén rượu, giọng điệu của cả bàn mềm hẳn. Câu chuyện trôi như nước.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Xích Hạo uống say trước, nói quá lời làm Đồng Vân Hải khó chịu. Cô phải dàn hòa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Tửu lầu trong thành, chiều. Ba vị tiền bối lần lượt tới gặp cô.",
+      "no": 8
+    },
+    {
+      "id": "u09",
+      "scene": "vlou",
+      "place": "Tửu lầu · Phòng riêng",
+      "kind": "chon",
+      "title": "Kết nghĩa kim lan",
+      "text": "Trong phòng riêng, cô đề nghị cùng Thiên Ma Tông đi chiếm địa bàn các môn phái chính đạo và xin làm Thánh Nữ, đứng dưới Đồng Vân Hải, trên thiếu tông chủ Dạ Hành. Vân Hải mừng rỡ, đề nghị kết nghĩa huynh muội. Từ Thanh và Xích Hạo xin kết bái chung dù miễn cưỡng xưng huynh đệ với một ma đầu. Cô dặn Vân Hải: gặp Dạ Hành thì bảo hắn gọi cô là cô cô. Cô còn phải chọn nên xin quyền «nói một câu cả tông phải nghe» hay quyền chia tài nguyên.",
+      "tieu": "Một câu nói và một cái kho. Quyền nào cũng là sức mạnh, nhưng ngươi chỉ xin được một.",
+      "cast": "u_mach,u_hai,u_thanh,u_hao,tc",
+      "ch": [
+        {
+          "t": "Xin quyền nói một câu cả tông phải nghe",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Vân Hải gật không chút chần chừ: «Từ nay lời của muội là lời của ta.» Cả bàn nâng chén.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "quyen_mot_cau"
+          },
+          "b": 0.4835866666666666,
+          "bad": {
+            "x": "Ông cân nhắc quá lâu, cuối cùng chỉ hứa «khi nào cần thì ta làm». Cô nhận, chưa trọn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Xin quyền chia tài nguyên cho toàn tông",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Vân Hải trao cô lệnh bài kho. Hai người còn lại cười, nói «muội lo xa hơn cả bọn ta».",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "quyen_chia_kho"
+          },
+          "b": 0.5420666666666667,
+          "bad": {
+            "x": "Cô tính sai một khoản, Vân Hải phải nhắc lại. Cuối cùng lệnh bài vẫn về tay cô.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Không xin gì cả, chỉ xin làm bạn đồng hành",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Vân Hải sửng sốt rồi cười lớn. «Chưa ai xin ít như vậy.» Ông tự thêm hai quyền cho cô.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.45434666666666657,
+          "bad": {
+            "x": "Câu nói của cô bị coi là xã giao. Ông vẫn trao cho cô một ghế, nhưng chưa thật sự nghe cô.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Phòng riêng trong tửu lầu, cùng buổi. Tiểu Mạch kết nghĩa với ba vị tiền bối và xin làm Thánh Nữ Thiên Ma Tông.",
+      "no": 9
+    },
+    {
+      "id": "u10",
+      "scene": "vgate",
+      "place": "Ngoài tửu lầu · Ngay sau đó",
+      "kind": "chon",
+      "title": "Hạc Ngôn chặn đường",
+      "text": "Ngay khi chia tay hai vị kia, Hạc Ngôn đứng chặn trước mặt cô. Hắn hỏi cô đi đâu. Cô đáp chuyện này không liên quan đến hắn vì cô không còn là đệ tử, rồi đi cùng Vân Hải. Hắn lặng lẽ đi theo suốt nửa canh giờ. Đến biên giới Thiên Ma Tông, cô quay lại hỏi «ngươi là tiểu cẩu sao?». Hắn khuyên cô theo hắn đi, cô nhắc hắn đã trơ mắt nhìn cô bị phạt. Hắn nắm tay cô, cô nói «buông tay», hắn buông và không cản cô vào địa bàn.",
+      "tieu": "Hắn là người của chính đạo đang đứng trước cổng ma tông. Chuyện này sẽ lan nhanh hơn cả gió.",
+      "cast": "u_mach,u_ngon,u_hai,tc",
+      "ch": [
+        {
+          "t": "Lạnh lùng đuổi hắn đi, nói thẳng không muốn thấy mặt",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng nguyên chỗ, vai cứng lại, nhưng không nói gì. Cô quay lưng bước vào địa bàn.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "duoi_han"
+          },
+          "b": 0.4735866666666666,
+          "bad": {
+            "x": "Cô nói hơi lạc giọng, hắn nghe ra tiếng run. Hắn vẫn đứng đó, không rời.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Mặc kệ, coi hắn như không khí, cứ thế đi tiếp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô không ngoái đầu lại lần nào. Hắn đứng ở biên giới nhìn theo, hồi lâu mới quay đi.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "mac_ke_han"
+          },
+          "b": 0.5320666666666667,
+          "bad": {
+            "x": "Cô bước quá nhanh, giày vướng vào rễ cây. Hắn bước tới một bước rồi tự dừng lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhắc hắn một câu: «Lần này sư phụ đừng đứng nhìn nữa»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhìn cô như thể nhận một lời hứa nặng hơn mọi lời xin lỗi. Hắn gật đầu rất chậm.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "nhac_han"
+          },
+          "b": 0.44434666666666656,
+          "bad": {
+            "x": "Hắn không hiểu hết ý, chỉ đáp «ta không còn là sư phụ ngươi». Cô lắc đầu, bỏ đi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Ngoài tửu lầu rồi biên giới Thiên Ma Tông. Hạc Ngôn chặn đường và đi theo cô suốt nửa canh giờ.",
+      "no": 10
+    },
+    {
+      "id": "u11",
+      "scene": "vyard",
+      "place": "Cổng Thiên Ma Tông · Ngay sau đó",
+      "kind": "chon",
+      "title": "Chỗ ngồi ngoài cổng tông",
+      "text": "Trong Thiên Ma Tông, Đồng Vân Hải đưa cô bản đồ các môn phái chính đạo và giới thiệu tông: khoảng ba nghìn đệ tử dưới Nguyên Anh, vài trăm người từ Phân Thần trở lên, hơn hai mươi người Độ Kiếp; nhưng chỗ đóng tông nghèo, linh khí loãng. Tiểu Châu giải thích: các ma tu khác trong thế giới này hút tu vi của tu sĩ, riêng Thiên Ma Tông không làm vậy nên chính đạo không quá bài xích. Cô quyết định không đánh chiếm vội vì sẽ đẩy cả tông vào nguy; việc trước mắt là tài nguyên. Thám tử báo Hạc Ngôn đang ngồi trên một tảng đá sạch ngoài cổng tông.",
+      "tieu": "Hắn ngồi ngoài đó không phải để canh. Hắn chưa biết đi đâu. Cho nước hay không, ngươi quyết.",
+      "cast": "u_mach,u_hai,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Cho người mang một ấm nước ra cho hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhận ấm nước, im lặng rất lâu rồi uống cạn. Cả buổi chiều hắn không nhúc nhích.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "cho_nuoc_han"
+          },
+          "b": 0.5064133333333334,
+          "bad": {
+            "x": "Đệ tử mang nhầm ấm trà nguội. Hắn cầm lấy, khẽ gật, rồi vẫn uống.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Để mặc hắn, tập trung vào bản đồ và kế hoạch tài nguyên",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô vạch ra ba nơi cần đến trước, tính xong cả đường đi. Ngoài cổng, trời tối dần.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5356533333333334,
+          "bad": {
+            "x": "Cô tính trùng một tuyến, phải vẽ lại. Mất cả buổi chiều.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Hỏi Đồng Vân Hải chuyện gì ngoài cổng, nghe ông giải thích về quy tắc của tông",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ông kể: tông có quy tắc không ai được xua đuổi người ngồi ngoài cổng quá ba ngày. Cô gật.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.4479333333333333,
+          "bad": {
+            "x": "Ông trả lời ậm ờ, cô không hỏi được gì thêm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Cổng Thiên Ma Tông. Đồng Vân Hải giới thiệu tông; Hạc Ngôn ngồi ngoài cổng.",
+      "no": 11
+    },
+    {
+      "id": "u12",
+      "scene": "vpalace",
+      "place": "Đại điện Thiên Ma Tông · Hôm sau",
+      "kind": "chon",
+      "title": "Thánh Nữ cô cô và kế hoạch tài nguyên",
+      "text": "Hôm sau Vân Hải tuyên bố trước cả tông: cô là Thánh Nữ cô cô, đứng thứ hai sau ông, trên cả thiếu tông chủ, và sẽ dẫn họ đi lấy tài nguyên. Các đệ tử hào hứng, nhất là vì thiếu tông chủ cả ngày chỉ quanh quẩn bên một người nữ khác. Cô giải thích: Hồng Yên sắp đi chiếm các cơ duyên, ta phải tới trước nàng. Vân Hải chọn 50 đệ tử cùng hai cao thủ Độ Kiếp. Cô phải chọn dẫn đệ tử thường hay thêm vài người giỏi thám thính.",
+      "tieu": "Cả tông đang nhìn vào ngươi. Đừng cho họ thấy ngươi nghi ngờ. Cũng đừng cho họ thấy ngươi quá chắc chắn.",
+      "cast": "u_mach,u_hai,tc",
+      "ch": [
+        {
+          "t": "Dẫn đệ tử thường, ai cũng có phần để họ thấy mình công bằng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả tông ghi nhớ cô như người chia phần không thiên vị. Tiếng reo vang dội đại điện.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "dan_de_tu_thuong"
+          },
+          "b": 0.5064133333333334,
+          "bad": {
+            "x": "Vài người khá hơn thấy bị xếp ngang hàng thì bĩu môi. Cô phải đi từng người nói chuyện.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Chọn thêm vài người giỏi thám thính để đi trước dò đường",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nhóm thám tử về báo trước ba ngày. Cô tới nơi chưa đầy một khắc đã nắm rõ địa hình.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "nhom_tham_tu"
+          },
+          "b": 0.5356533333333334,
+          "bad": {
+            "x": "Một thám tử đi lạc, cả nhóm mất thêm nửa ngày tìm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Hỏi thẳng Vân Hải ai trong tông đáng tin nhất để đi cùng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ông gật, chỉ ra mười người chưa từng phản bội ông lần nào. Cô nhớ rõ tên từng người.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.4479333333333333,
+          "bad": {
+            "x": "Ông ngập ngừng, cuối cùng chọn người theo cảm tính. Cô chưa yên tâm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Đại điện Thiên Ma Tông, hôm sau. Đồng Vân Hải tuyên bố Tiểu Mạch là Thánh Nữ cô cô.",
+      "no": 12
+    },
+    {
+      "id": "u13",
+      "scene": "rhill",
+      "place": "Sơn mạch hoang · Vài ngày sau",
+      "kind": "duyen",
+      "title": "Mỏ linh thạch trên núi trụi",
+      "text": "Vài ngày sau, giữa sơn mạch hoang, linh khí loãng, cô đội nón lụa mỏng che thần thức và chỉ một vị trí trên sườn núi. Cô giao hạn ba ngày để đào hết linh thạch trước khi người khác tới. Đệ tử đào sâu vài chục trượng thì thấy linh thạch trắng cả một mảng. Vân Hải ngạc nhiên nhưng vẫn tin cô. Từ xa, Hạc Ngôn đứng nhìn mà không nói gì. Đào xong, cô cho lấp lại bằng đá vụn quanh đó để núi không sập.",
+      "tieu": "Núi này nghèo nhưng lòng nó thì giàu. Đào nhanh thì kịp, đào kỹ thì lâu. Hồng Yên cũng đang đếm ngày.",
+      "cast": "u_mach,u_hai,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Đào nhanh, bỏ vài mạch phụ để kịp trước khi Hồng Yên tới",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mạch chính được lấy sạch trong hai ngày rưỡi. Cô cho lấp lại, núi không sụt một viên đá.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "dao_nhanh"
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Đào vội làm vỡ một mạch giữa, mất gần một phần linh thạch. Cô tiếc nhưng vẫn kịp hạn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Đào kỹ từng mạch, không bỏ sót, chấp nhận cược vào hạn ba ngày",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đệ tử đào từng lớp, linh thạch nguyên vẹn. Lúc cuối cùng, họ vừa kịp lấp lại.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "dao_ky"
+          },
+          "b": 0.4379333333333333,
+          "bad": {
+            "x": "Đến ngày thứ ba vẫn còn nửa mạch chưa lấy. Cô đành bỏ lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Chia đệ tử thành ba nhóm đào song song từ ba hướng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba nhóm gặp nhau ở giữa, hạ gọn linh thạch trong hai ngày. Vân Hải cười: «Chia người thế mà hay.»",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5256533333333334,
+          "bad": {
+            "x": "Hai nhóm đào đụng nhau, mất một buổi dàn xếp lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Sơn mạch hoang, vài ngày sau. Thánh Nữ cô cô dẫn đệ tử đào mỏ linh thạch trước Hồng Yên.",
+      "learn": {
+        "n": "Dò mạch quặng linh",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 13
+    },
+    {
+      "id": "u14",
+      "scene": "rhill",
+      "place": "Sơn mạch hoang · Một ngày sau",
+      "kind": "duyen",
+      "title": "Hồng Yên đến muộn",
+      "text": "Một ngày sau khi họ đi, Hồng Yên cùng Dạ Hành và đệ tử Lưu Nguyệt Môn đào đúng chỗ ấy và chỉ thấy một đống đá hình thù kỳ lạ, không còn linh thạch. Nàng sầm mặt. Dạ Hành an ủi, nàng thì nghi có kẻ tới trước. Tiểu Châu chiếu lại cảnh và nhắc: nàng vẫn chưa nghĩ tới việc có ai khác cũng biết trước cốt truyện. Cô phải chọn để lại dấu vết giả đánh lạc hướng nàng hay không để lại gì.",
+      "tieu": "Nàng sẽ lần theo bất cứ dấu vết nào. Để lại hay không, cũng phải tính đến lúc nàng nhận ra.",
+      "cast": "u_mach,u_yen,u_hanh,tc",
+      "ch": [
+        {
+          "t": "Để lại dấu vết giả: một lá bùa của môn phái chính đạo bị đổ vỡ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hồng Yên cầm lá bùa, nheo mắt nghi ngờ Chân Võ Môn. Nàng đi sai hướng ba ngày.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "dau_vet_gia"
+          },
+          "b": 0.4835866666666666,
+          "bad": {
+            "x": "Dấu vết giả lộ ra là hàng làm vội. Hồng Yên nhìn lá bùa một lúc rồi bỏ vào tay áo, cười nhạt.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Không để lại gì, để nàng tự nghi ngờ trời",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hồng Yên đứng giữa bãi đá một mình hồi lâu. Cuối cùng nàng chỉ lẩm bẩm rồi bỏ đi.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.5420666666666667,
+          "bad": {
+            "x": "Nàng ngồi lại thêm một ngày, đào thêm vài chỗ, may mà không đào ra điều gì.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cho người theo dõi nàng từ xa, ghi chép từng bước",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thám tử ghi lại nàng đi đâu, nghi ai, nói gì với Dạ Hành. Những ghi chép ấy sẽ hữu ích về sau.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            }
+          },
+          "b": 0.45434666666666657,
+          "bad": {
+            "x": "Thám tử bị Dạ Hành phát hiện, phải rút lui sớm. Cô chỉ thu được nửa số tin.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Sơn mạch hoang, một ngày sau. Hồng Yên và Dạ Hành đào đúng chỗ nhưng chỉ thấy đống đá.",
+      "no": 14
+    },
+    {
+      "id": "u15",
+      "scene": "rgreen",
+      "place": "Linh thực viên Thiên Ma Tông · Mười ngày",
+      "kind": "chon",
+      "title": "Vườn linh dược và lớp trồng linh thực",
+      "text": "Vài ngày sau, cô tìm thấy một bãi linh dược còn non và hiếm. Cô cho đào cả cây lẫn bùn mang về. Hạc Ngôn hỏi có định rải gì cho đỡ trụi không; cô cười rồi rải hạt cỏ dại để bãi đất trông xanh mượt. Về tông, cô dạy đệ tử di thực và trồng linh thực suốt mười ngày; hơn nửa số cây sống là do chính họ trồng. Hạc Ngôn đứng nhìn trong đám đông, mắt không rời cô; các đệ tử cho rằng hắn là người ái mộ Thánh Nữ cô cô. Cô phải chọn dạy hết từng bước hay để họ tự thử rồi sửa.",
+      "tieu": "Dạy kiểu nào thì họ học kiểu đó. Còn hắn thì cứ đứng đó. Ngươi mặc kệ hay để ý?",
+      "cast": "u_mach,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Dạy hết từng bước, cầm tay chỉ việc cho từng người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Sau mười ngày, gần như mọi cây đều bén rễ. Đệ tử gọi cô là «sư tỷ dạy trồng cây» trước cả «cô cô».",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "day_het_tung_buoc"
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Cô dạy tỉ mỉ quá, đến ngày thứ tám vẫn còn nửa lớp chưa hiểu. Cô phải thêm hai buổi nữa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Để họ tự thử rồi sửa lỗi, chỉ nhắc khi sai nặng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lỗi sai sớm hóa kinh nghiệm. Đến cuối, cả lớp tự cãi nhau về cách trồng, và cây vẫn sống.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "de_tu_tu_thu"
+          },
+          "b": 0.5256533333333334,
+          "bad": {
+            "x": "Có người bỏ cuộc giữa chừng, nhìn cây héo rồi nản. Cô phải khích lệ từng người.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Cho Hạc Ngôn đứng ra trông giúp một góc vườn, vì hắn cứ đứng đó",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn cầm cuốc như cầm kiếm, nhưng rất nghiêm túc. Một góc vườn xanh nhất lớp.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2
+            },
+            "f": "han_trong_vuon"
+          },
+          "b": 0.4379333333333333,
+          "bad": {
+            "x": "Hắn đào hỏng một luống, ngượng ngùng lùi lại. Đệ tử lén cười.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -2
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Linh thực viên Thiên Ma Tông, mười ngày sau khi tìm thấy bãi linh dược. Tiểu Mạch dạy đệ tử di thực linh thực.",
+      "learn": {
+        "n": "Di thực linh dược",
+        "s": "van",
+        "v": 2
+      },
+      "no": 15
+    },
+    {
+      "id": "u16",
+      "scene": "rgreen",
+      "place": "Bãi cỏ dại · Gần một tháng sau",
+      "kind": "duyen",
+      "title": "Hồng Yên nghĩ ông trời nhằm vào mình",
+      "text": "Gần một tháng sau, Hồng Yên tới bãi linh dược và chỉ thấy cỏ dại tươi tốt. Đệ tử Lưu Nguyệt Môn than một tháng mà chẳng tìm được gì. Nàng nghi có người lấy trước, hoặc trời nhằm vào nàng. Tiểu Châu chiếu lại cảnh và đính chính: không phải trời, mà là Tiểu Mạch. Hồng Yên dừng cuộc tìm. Dạ Hành nói muốn về Thiên Ma Tông một chuyến, và cô phải chọn chuẩn bị đón hắn hay làm như không biết.",
+      "tieu": "Hắn về không phải để thăm. Hắn về để tìm xem ai đang cản đường người hắn thương.",
+      "cast": "u_mach,u_yen,u_hanh,tc",
+      "ch": [
+        {
+          "t": "Chuẩn bị đón: dặn Vân Hải sắp xếp, dọn sảnh, đặt sẵn lời nói",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Khi Dạ Hành bước vào, mọi thứ đã sẵn sàng. Hắn thoáng khựng vì không bắt được sơ hở nào.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "don_da_hanh"
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Cô sắp xếp quá cầu kỳ, đệ tử lúng túng. Dạ Hành nhìn qua là biết có chuyện.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Làm như không biết, cứ sống một ngày như mọi ngày",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô vẫn trồng cây, vẫn dạy đệ tử như mọi hôm. Đến lúc hắn tới, chẳng ai thấy gì khác lạ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Cô quên mất lịch hắn về, hắn bước vào thấy cô đang lấm lem bùn đất. Một cảnh tượng khó giải thích.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhờ Hạc Ngôn ở lại tông trong ngày hắn tới, vì hắn quen mặt Dạ Hành",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hạc Ngôn gật đầu không hỏi lý do. Hắn ở lại, đứng ở góc sảnh như một cái bóng im lặng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "nho_han"
+          },
+          "b": 0.43151999999999996,
+          "bad": {
+            "x": "Hạc Ngôn đáp «ta không thích bị sai bảo». Nhưng đến ngày hôm đó hắn vẫn có mặt.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Bãi cỏ dại và Thiên Ma Tông, gần một tháng sau. Hồng Yên tìm không ra gì; Dạ Hành đòi về tông.",
+      "no": 16
+    },
+    {
+      "id": "u17",
+      "scene": "vpalace",
+      "place": "Đại sảnh Thiên Ma Tông · Một tháng sau",
+      "kind": "chon",
+      "title": "Dạ Hành gặp cô cô",
+      "text": "Dạ Hành về, nghe đệ tử khoe «Thánh Nữ cô cô» và những đổi thay của tông; hắn chờ Vân Hải để hỏi rõ. Vân Hải trở về cùng cô, bảo hắn gọi cô là cô cô. Dạ Hành nhận ra Hạ Tiểu Mạch, hỏi «sao ngươi ở đây», rồi từ chối gọi. Hạc Ngôn đang uống trà trong sảnh nói «nên», Dạ Hành quát hắn «lăn». Cô phải chọn nhắc lại «ta là cô cô của ngươi» hay để Vân Hải xử.",
+      "tieu": "Hắn là người đã phế linh căn ngươi. Nhưng cũng là người đang bị lừa. Giữ cái đầu lạnh.",
+      "cast": "u_mach,u_hanh,u_hai,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Nhắc lại: «Ta là cô cô của ngươi», giọng bình thản",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dạ Hành nghẹn họng, cắn môi. Các đệ tử im thin thít, rồi có người khẽ bật cười.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "goi_co_co"
+          },
+          "b": 0.46075999999999995,
+          "bad": {
+            "x": "Giọng cô hơi cao, nghe như trêu. Hắn nổi giận, suýt rút kiếm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Im lặng nhìn Vân Hải, để ông xử theo quy tắc tông",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Vân Hải nghiêm giọng nhắc quy tắc của tông. Dạ Hành mím môi, nhưng không dám cãi.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Vân Hải bị hỏi dồn, ngập ngừng. Dạ Hành lợi dụng sự ngập ngừng ấy mà cãi lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Cười và mời hắn một chén trà, như thể chưa từng có chuyện gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhìn chén trà như nhìn con rắn, nhưng cuối cùng vẫn không đổ nó đi.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "moi_tra_da_hanh"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Hắn hất chén trà xuống đất. Mảnh sứ vỡ văng tới chân cô, Hạc Ngôn bước chắn ngang.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Đại sảnh Thiên Ma Tông, khoảng một tháng sau. Dạ Hành gặp Tiểu Mạch với danh xưng cô cô.",
+      "no": 17
+    },
+    {
+      "id": "u18",
+      "scene": "rgreen",
+      "place": "Linh thực viên và sân tông · Vài ngày sau",
+      "kind": "chon",
+      "title": "Dạ Hành chất vấn",
+      "text": "Các đệ tử bênh cô, Dạ Hành càng bực. Hắn tìm lúc Vân Hải vắng để chất vấn: nếu muốn trả thù thì tìm hắn, đừng quấy Thiên Ma Tông. Cô hỏi thẳng hắn vì sao phế linh căn của mình. Hắn nhận «là ta làm» rồi đòi cô rời tông. Cô phải chọn nói chuyện bình tĩnh hay trào phúng.",
+      "tieu": "Hắn nhận ngay, không chối. Hắn không biết mình bị lừa. Một câu đúng có thể gieo hạt, một câu sai sẽ đẩy hắn về phía nàng.",
+      "cast": "u_mach,u_hanh,tc",
+      "ch": [
+        {
+          "t": "Bình tĩnh nói: «Ta không trả thù ngươi. Ta chỉ muốn hỏi ai dạy ngươi làm vậy»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn khựng lại. Câu hỏi ấy không có trong kịch bản hắn đã chuẩn bị.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "hoi_ai_day"
+          },
+          "b": 0.4735866666666666,
+          "bad": {
+            "x": "Câu hỏi nghe như đang cố moi tin. Hắn giận dữ quát cô đừng hòng chia rẽ hắn với Hồng Yên.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Trào phúng: «Ngươi phế ta xong còn dám chạy tới chất vấn ta?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đỏ mặt, không đáp được. Các đệ tử đứng nghe đã lén cười.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.44434666666666656,
+          "bad": {
+            "x": "Giọng cô sắc quá, hắn coi đó là khiêu khích. Hắn rút kiếm nửa chừng trước khi bị Vân Hải ngăn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Im lặng nhìn hắn một lúc, rồi bỏ đi, để câu hỏi lơ lửng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đứng lại một mình giữa sân, mặt tối sầm. Cô nghe tiếng hắn thở dốc phía sau.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5320666666666667,
+          "bad": {
+            "x": "Hắn cho là cô khinh thường, đuổi theo vài bước. Hạc Ngôn xuất hiện cản đường.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Linh thực viên và sân tông, vài ngày sau. Dạ Hành tìm lúc Vân Hải vắng để chất vấn.",
+      "no": 18
+    },
+    {
+      "id": "u19",
+      "scene": "rgreen",
+      "place": "Sân tông · Ngay sau đó",
+      "kind": "hiem",
+      "title": "«Ta phế ngươi vô số lần»",
+      "text": "Dạ Hành dọa: «Ta đã phế ngươi một lần thì phế ngươi vô số lần được». Hạc Ngôn từ bên cạnh bước lên chắn trước cô: «Lần này ta sẽ không cho phép». Dạ Hành hỏi hắn có còn là chính đạo không; hắn đáp làm gì không cần lý do. Dạ Hành bỏ đi, sát ý chưa tan. Cô phải chọn đứng sau Hạc Ngôn hay bước ra trước.",
+      "tieu": "Hắn nói «lần này», nghĩa là hắn nhớ lần trước. Đừng bỏ qua hai chữ ấy.",
+      "cast": "u_mach,u_ngon,u_hanh,tc",
+      "ch": [
+        {
+          "t": "Đứng yên sau lưng hắn, để hắn chắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đứng ngay sau, thấy rõ vai hắn căng cứng và tay hắn đã chạm chuôi kiếm. Hắn không rút, nhưng sát khí đủ làm Dạ Hành lùi.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "dung_sau_han"
+          },
+          "b": 0.5256533333333334,
+          "bad": {
+            "x": "Cô lùi quá xa, Dạ Hành nghĩ cô sợ. Hắn nhếch mép trước khi quay đi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Bước ra ngang hàng, nhìn thẳng Dạ Hành",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đứng ngang hàng với Hạc Ngôn, ánh mắt không né. Dạ Hành là người cúi đầu trước.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "dung_ngang_han"
+          },
+          "b": 0.4379333333333333,
+          "bad": {
+            "x": "Cô bước ra quá nhanh, kiếm của Dạ Hành rung nhẹ trong vỏ. Hạc Ngôn vội kéo cô lùi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nhắc Hạc Ngôn: «Đừng vì ta mà phá giới», giọng khẽ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghiêng đầu, rất khẽ: «Ta không phá giới. Ta chỉ giữ một lời.» Cô không hỏi thêm.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Hắn không nghe rõ, quay lại hỏi «ngươi nói gì?» ngay lúc Dạ Hành đang nhìn. Cô lúng túng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Sân tông, ngay sau đó. Dạ Hành dọa phế cô lần nữa; Hạc Ngôn chắn trước cô.",
+      "no": 19
+    },
+    {
+      "id": "u20",
+      "scene": "rgreen",
+      "place": "Linh thực viên · Tối cùng ngày",
+      "kind": "chon",
+      "title": "Ly trà nóng",
+      "text": "Tối cùng ngày, cô xem bản đồ trong linh thực viên, Hạc Ngôn ngồi đối diện. Hắn hỏi «Tiểu Mạch hận ta?». Cô đáp «có điểm», nói mình ghi hận mọi người từng làm tổn thương mình. Hắn nói hận là đúng, rót cho cô một ly trà nóng đúng vị cô từng pha cho hắn, và cô nhận. Hắn nhận ra cô trở nên yên tĩnh; cô nói «trang đáng yêu, nghe nói ngươi thích». Hắn lặng người: hắn chưa từng thích điều đó. Cô phải chọn uống trà cùng hắn hay đứng dậy đi.",
+      "tieu": "Trà đúng vị cũ. Hắn nhớ cả điều đó. Ngươi uống hay không, hắn cũng sẽ nhớ.",
+      "cast": "u_mach,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Uống cạn ly trà, hỏi thêm: «Ngươi nghe ai nói ta nghịch ngợm?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn kể: có người nói trong tông, cô nghịch ngợm đáng yêu thì ai cũng thích. Hắn hỏi lại: «Ai nói với ngươi như vậy?» Một sợi dây được nối lại.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "hoi_nghich_ngom"
+          },
+          "b": 0.46075999999999995,
+          "bad": {
+            "x": "Hắn trả lời không đầu không đuôi, cô chỉ lờ mờ nhận ra một cái tên. Chưa chắc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Cầm ly trà nhưng không uống, nói «để nguội một chút»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn không cố ép. Hơi nước từ ly trà bay lên giữa hai người, đủ làm khoảng cách bớt lạnh.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "tra_nguoi"
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Cô cầm ly quá lâu, trà nguội ngắt. Hắn lặng lẽ rót lại ly khác.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đứng dậy, nói «trà ngon, nhưng ta còn việc», rồi rời đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhìn theo cô, cầm ly trà còn nguyên trong tay đến khi nguội hẳn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "bo_tra"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Cô vấp bậc cửa khi đi, hắn đứng bật dậy định đỡ, rồi tự dừng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Linh thực viên, tối cùng ngày. Hạc Ngôn rót trà cho cô đúng vị cũ.",
+      "no": 20
+    },
+    {
+      "id": "u21",
+      "scene": "vyard",
+      "place": "Thiên Ma Tông · Một năm sau",
+      "kind": "duyen",
+      "title": "Một năm sau",
+      "text": "Một năm trôi qua. Tiểu Châu tóm lại: Thiên Ma Tông đổi thay hoàn toàn, linh thực viên đầy cây; Dạ Hành về thăm vài lần rồi lại đi tìm Hồng Yên; Hạc Ngôn vẫn ở lại và đi theo cô cách vài bước. Cô nói với Vân Hải: «đi cứu các môn phái sắp diệt, đưa họ vào dưới sự bảo vệ của ta», và bảo họ sẽ rất sẵn lòng. Cô phải chọn dẫn nhiều người hay mang ít người.",
+      "tieu": "Một năm mà quen như đã mười năm. Đi cứu người thì đừng đi một mình.",
+      "cast": "u_mach,u_hai,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Dẫn nhiều người, để môn phái nhìn thấy sức mạnh của tông",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đoàn người dài hơn nửa dặm, cờ bay phấp phới. Các môn phái hoảng sợ chuyển thành kính trọng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "dan_nhieu_nguoi"
+          },
+          "b": 0.4835866666666666,
+          "bad": {
+            "x": "Đoàn quá đông, bị một trưởng lão cho là đến gây hấn. Cô phải giải thích mất một canh giờ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Mang ít người, đi nhẹ, để môn phái không thấy bị đe dọa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chỉ vài người đến. Các môn phái mở cửa ra đón, chẳng ai rút kiếm.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "mang_it_nguoi"
+          },
+          "b": 0.5420666666666667,
+          "bad": {
+            "x": "Đoàn nhỏ quá, có kẻ khinh thường. Phải mất hai buổi mới tạo được niềm tin.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Đi cùng Hạc Ngôn, vì hắn quen mặt chính đạo và các môn phái",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hạc Ngôn xuất hiện, các trưởng lão môn phái đứng thẳng người lại. Cuộc đàm phán trơn tru đến lạ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "di_cung_han"
+          },
+          "b": 0.45434666666666657,
+          "bad": {
+            "x": "Có người nhận ra Hạc Ngôn và hỏi vì sao một trưởng lão chính đạo đi cùng ma tông. Hắn lặng im.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Thiên Ma Tông, một năm sau. Tiểu Mạch bàn với Vân Hải việc cứu các môn phái sắp diệt.",
+      "no": 21
+    },
+    {
+      "id": "u22",
+      "scene": "vcamp",
+      "place": "Tán Sa Môn và Hà Phong Môn · Giữa trận",
+      "kind": "chon",
+      "title": "Tán Sa Môn và Hà Phong Môn",
+      "text": "Ngày cô tới, Tán Sa Môn và Hà Phong Môn đang giao chiến, đất đầy máu; trong đám có một thiếu niên 19 tuổi tên Doãn Hề. Cô cùng Vân Hải và Hạc Ngôn đến giữa trận. Cô nói họ đánh thế này thì cả hai cùng diệt môn; hai bên ngừng tay, hỏi mục đích. Cô đề nghị Thiên Ma Tông nhận cả hai vào dưới sự bảo vệ, đổi tên thành phân đà Tán Sa. Hai bên cãi nhau về người đã chết; cô cho biết kẻ giết đệ tử hạch tâm không phải bên nào mà là một người thứ ba. Cô phải chọn hòa giải hay áp chế bằng thực lực.",
+      "tieu": "Hai môn phái đang tự đâm nhau vì một kẻ đứng ngoài. Dùng lời trước, lưỡi kiếm sau.",
+      "cast": "u_mach,u_hai,u_ngon,u_he,tc",
+      "ch": [
+        {
+          "t": "Hòa giải: ngồi xuống giữa hai bên, nghe từng bên kể",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nghe cả hai kể xong, rồi chỉ ra kẽ hở trong câu chuyện của mỗi bên. Họ nhìn nhau, im lặng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "hoa_giai"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Cô nghe quá lâu, hai bên bắt đầu nghi ngờ nhau thêm. Phải mất cả buổi chiều dàn xếp.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Áp chế: để Vân Hải và Hạc Ngôn đứng hai bên, cho họ biết sức mạnh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Khí thế của hai người lan ra khắp trận. Hai bên cùng hạ vũ khí và nhìn cô.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "ap_che"
+          },
+          "b": 0.45075999999999994,
+          "bad": {
+            "x": "Hạc Ngôn khí thế quá lớn, hai bên hoảng sợ bỏ chạy. Cô phải cho người đuổi theo khuyên về.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Chỉ ra ngay kẻ thứ ba, nói rõ kẻ giết đệ tử hạch tâm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nói tên và dấu vết kẻ giết. Cả hai bên ngẩn người, rồi cùng quay sang nhìn nhau.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "chi_ke_thu_ba"
+          },
+          "b": 0.50924,
+          "bad": {
+            "x": "Cô nói thiếu chứng cứ, hai bên không tin. Phải thu thập thêm vài ngày.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Giữa trận Tán Sa Môn và Hà Phong Môn. Tiểu Mạch ngăn hai bên đánh nhau.",
+      "learn": {
+        "n": "Hòa giải tranh chấp",
+        "s": "mi",
+        "v": 1
+      },
+      "no": 22
+    },
+    {
+      "id": "u23",
+      "scene": "vhall",
+      "place": "Đại sảnh Tán Sa Môn · Ngay sau đó",
+      "kind": "chon",
+      "title": "Doãn Hề",
+      "text": "Cô gọi Doãn Hề tới. Tiểu Châu giải thích: cậu vốn sẽ thành người mạnh nhất tu luyện giới, nhưng cơ duyên đã bị Hồng Yên cướp, sư phụ cậu bị hại, và cậu sẽ chết trong trận này. Cô bảo cậu theo mình; Vân Hải từ chối nhận đồ đệ vì đã khổ vì Dạ Hành, nên cô nhận. Hạc Ngôn nhìn cậu bằng ánh mắt lạnh. Cậu run vì sợ ma tu ăn người rồi bái sư. Cô ban công pháp, phòng ở, tài nguyên. Cô phải chọn nói thẳng thân phận mình với cậu hay để cậu tự nhận ra sau.",
+      "tieu": "Cậu bé ấy sợ ma tu. Ngươi là ma tu. Chuyện này có thể nói thẳng, có thể để thời gian nói thay.",
+      "cast": "u_mach,u_he,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Nói thẳng: «Ta là Thánh Nữ Thiên Ma Tông, nhưng ta không hút tu vi ai cả»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cậu nghe xong ngẩng đầu, đôi mắt đỏ hoe. «Con biết... nhưng con vẫn sợ.» Cô gật. «Sợ cũng được.»",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "noi_than_phan"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Cậu nghe xong tái mặt, lùi một bước. Phải đợi thêm vài ngày cậu mới chịu nhìn thẳng cô.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Để cậu tự nhận ra, chỉ ban công pháp và cho ở phòng tốt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cậu cầm công pháp trong tay, nhìn lâu. Ngày thứ ba, cậu tự tới xin ở lại.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "de_tu_nhan"
+          },
+          "b": 0.5484800000000001,
+          "bad": {
+            "x": "Cậu nghi ngờ cái tốt quá mức, tự khóa cửa suốt hai ngày. Cô để cậu yên.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cho cậu gặp Tiểu Khanh, người cùng cảnh, để cậu thấy mình không cô độc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai đứa nhỏ nhìn nhau rồi bật cười. Cậu bắt đầu thôi nghĩ mình là kẻ duy nhất sợ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.43151999999999996,
+          "bad": {
+            "x": "Tiểu Khanh còn nhỏ, nói năng vụng. Cậu vẫn thấy lạc lõng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Đại sảnh Tán Sa Môn, ngay sau đó. Tiểu Mạch nhận Doãn Hề làm đồ đệ.",
+      "no": 23
+    },
+    {
+      "id": "u24",
+      "scene": "rgreen",
+      "place": "Linh thực viên · Vài ngày sau",
+      "kind": "chon",
+      "title": "Dạy kiếm",
+      "text": "Hạc Ngôn đề nghị chỉ kiếm thuật cho Doãn Hề. Cô gật nhưng nhắc: ngày trước cô xin nhiều lần mà hắn chỉ ném cho một quyển kiếm phổ. Hắn nói cô muốn luyện lúc nào cũng được; cô đáp không còn hứng thú. Doãn Hề nhận ra hai người có quá khứ chưa nói. Cô phải chọn nhận lời hắn chỉ cho mình một buổi hay từ chối hẳn.",
+      "tieu": "Ngày xưa ngươi cầu mà hắn không cho. Giờ hắn đưa tận tay. Đừng để lòng tự ái quyết định thay ngươi, nhưng cũng đừng để nó mềm đi quá nhanh.",
+      "cast": "u_mach,u_ngon,u_he,tc",
+      "ch": [
+        {
+          "t": "Nhận lời một buổi, xem hắn dạy ra sao",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đứng sau lưng, chỉnh từng thế một, giọng thấp và kiên nhẫn. Cô nhận ra hắn nhớ cả những thế nguyên chủ từng cầu xin.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "hoc_kiem_han"
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Hắn dạy quá chi li, cô học không kịp. Đến cuối buổi tay cô run lên vì mỏi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Từ chối thẳng: «Cứ dạy Doãn Hề là đủ»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn gật, quay sang Doãn Hề, không nói thêm. Nhưng sống lưng hắn thẳng hơn bình thường.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "tu_choi_kiem"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Cô từ chối nghe cộc lốc. Hắn sững người, bàn tay buông thõng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Đề nghị ngược lại: hắn dạy Doãn Hề, cô đứng xem để tự học",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đứng quan sát, học cả những chi tiết hắn không dạy ra miệng. Hắn nhận ra mà không nói.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.46075999999999995,
+          "bad": {
+            "x": "Doãn Hề vụng về, hắn bực, cô không học được gì mới.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Linh thực viên, vài ngày sau. Hạc Ngôn đề nghị chỉ kiếm thuật cho Doãn Hề.",
+      "learn": {
+        "n": "Kiếm thuật nhập môn",
+        "s": "van",
+        "v": 1
+      },
+      "no": 24
+    },
+    {
+      "id": "u25",
+      "scene": "vcamp",
+      "place": "Liệt Hỏa Tông · Mấy ngày sau",
+      "kind": "hiem",
+      "title": "Liệt Hỏa Tông tranh ngọc giản",
+      "text": "Mấy ngày sau, Liệt Hỏa Tông, một môn phái cỡ trung, hai trưởng lão vừa tranh một khối ngọc giản. Tiểu Châu báo: Hồng Yên đã biết Tán Sa Môn thuộc Thiên Ma Tông nhưng tưởng là trùng hợp, và đã tới trước cài ảo thuật lên ngọc giản. Cô cùng Vân Hải tới đúng lúc đệ tử bắt đầu đánh giết lẫn nhau. Đệ tử Thiên Ma Tông trói cả hai phe. Cô tháo cấm chế trên ngọc giản, thấy nó trống và còn dấu ảo thuật; cô ném cho hai trưởng lão xem, họ tỉnh lại. Cô để ý một cô bé 10 tuổi gầy yếu tên Tống Tiểu Khanh. Cô phải chọn giải ảo thuật rồi mới trói hay trói trước.",
+      "tieu": "Ảo thuật khiến người ta tưởng đồng môn là kẻ thù. Giải trước hay trói trước là chuyện của một nhịp thở.",
+      "cast": "u_mach,u_hai,u_khanh,tc",
+      "ch": [
+        {
+          "t": "Giải ảo thuật trước, rồi mới trói những ai còn đánh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ảo thuật tan như khói. Hai bên ngơ ngác nhìn nhau, không ai bị thương thêm.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "giai_ao_truoc"
+          },
+          "b": 0.4735866666666666,
+          "bad": {
+            "x": "Cô giải chậm một nhịp, vài đệ tử bị thương nhẹ. Nhưng ảo thuật cuối cùng cũng tan.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Trói trước để dừng cuộc đánh, rồi mới tính cách giải",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hàng chục sợi dây pháp khí quấn gọn mọi người. Cô thong thả giải ảo thuật.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "troi_truoc"
+          },
+          "b": 0.5613066666666667,
+          "bad": {
+            "x": "Một số đệ tử bị trói giãy giụa, có người bị trật tay. Cô phải chữa ngay.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Đưa ngọc giản cho Vân Hải giữ, rồi tự mình lội vào giữa hai nhóm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đứng giữa hai nhóm, giơ cao ngọc giản trống. Cả hai nhìn thấy mình đang đánh nhau vì một thứ rỗng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            }
+          },
+          "b": 0.41510666666666673,
+          "bad": {
+            "x": "Cô bị một đệ tử vung kiếm sượt qua tay áo. May mà Vân Hải kéo kịp.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Liệt Hỏa Tông, mấy ngày sau. Hai trưởng lão tranh ngọc giản đã bị cài ảo thuật.",
+      "learn": {
+        "n": "Giải ảo thuật",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 25
+    },
+    {
+      "id": "u26",
+      "scene": "vhall",
+      "place": "Đại sảnh Liệt Hỏa Tông · Ngay sau đó",
+      "kind": "chon",
+      "title": "Tống Tiểu Khanh",
+      "text": "Tiểu Châu giới thiệu: Tiểu Khanh có ngũ hành linh căn, thứ bị coi là phế căn nhưng thật ra là tư chất thiên tài; Hồng Yên đã lấy và hủy công pháp hợp với cô bé. Cô gọi Doãn Hề: «sư huynh của con» và bảo cậu dắt cô bé tới. Tiểu Khanh hỏi «con thiên phú kém, người không chê sao?» rồi quỳ lạy ba cái gọi «sư phụ». Cô nói cô bé không kém, chỉ chưa có công pháp hợp. Cô phải chọn đưa công pháp ngay hay cho cô bé tự chọn.",
+      "tieu": "Cô bé tin rằng mình kém. Một câu sai có thể khiến nó tin cả đời.",
+      "cast": "u_mach,u_khanh,u_he,tc",
+      "ch": [
+        {
+          "t": "Đưa công pháp ngay, cầm tay chỉ ba thức đầu",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô bé tập theo từng thức, mắt sáng như sao. Đến thức thứ ba, linh khí đã chạy trong người nó.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "dua_cong_phap"
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Cô bé ngã sấp xuống ở thức thứ hai. Cô đỡ dậy, bảo «không sao, ta nhớ lại từ đầu».",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Cho cô bé tự chọn trong ba cuốn, quan sát nó đọc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô bé lật ba cuốn, dừng ở cuốn thứ hai. Cô nhận ra nó đã chọn đúng cuốn hợp mình nhất.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "cho_tu_chon"
+          },
+          "b": 0.5256533333333334,
+          "bad": {
+            "x": "Cô bé chọn nhầm cuốn quá khó, đọc không hiểu. Cô phải đổi cuốn khác.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhờ Doãn Hề kể cho cô bé nghe về sư phụ, rồi mới tính chuyện công pháp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Doãn Hề kể về Thánh Nữ cô cô trồng cây, bắt gà ăn mày. Cô bé bật cười lần đầu, hết sợ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.4379333333333333,
+          "bad": {
+            "x": "Doãn Hề kể vụng, lỡ nhắc chuyện ma tu. Cô bé lại co người.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Đại sảnh Liệt Hỏa Tông, ngay sau đó. Tống Tiểu Khanh quỳ bái sư.",
+      "no": 26
+    },
+    {
+      "id": "u27",
+      "scene": "rriver",
+      "place": "Bờ sông Kim Toàn · Vài tháng sau",
+      "kind": "chon",
+      "title": "Bờ sông Kim Toàn và Chu Lạc Tinh",
+      "text": "Vài tháng sau, bên bờ sông chảy xiết, Tiểu Châu báo nửa canh giờ nữa lốc xoáy vàng sẽ xuất hiện. Cô dặn đệ tử «cái gì trôi tới thì vớt». Họ vớt lên một người bị thương nặng, Chu Lạc Tinh: bị bạn thân tính kế, người thương phản bội, gia tộc không dám giúp. Cô mời hắn vào Thiên Ma Tông, hứa chuyện báo thù không ai cản; hắn nhận. Lốc xoáy vàng xuất hiện, cô bảo hắn nhảy vào, đệ tử đá hắn xuống. Cô phải chọn cho hắn uống thêm đan trước khi nhảy hay để hắn tự lo.",
+      "tieu": "Hắn tưởng mình sắp chết. Hắn không tưởng mình sắp được một con phượng. Nhìn cái đan trong tay ngươi đi.",
+      "cast": "u_mach,u_tinh,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Cho hắn uống thêm đan hồi sinh trước khi nhảy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Sắc mặt hắn hồng trở lại. Hắn nhìn cô đầy ngạc nhiên rồi mới chịu nhảy.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "cho_dan_lac_tinh"
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Đan vừa vào miệng hắn đã sặc, ho dữ dội. Cô phải vỗ lưng cho hắn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Để hắn tự lo, chỉ dặn: «nhảy là sống, sợ là chết»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhìn lốc xoáy, nhắm mắt, nhảy. Chỉ một nhịp sau, ánh vàng sáng rực khắp sông.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "de_lac_tinh_tu_lo"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Hắn chần chừ, đệ tử phải đá mạnh hơn. Hắn rơi xuống với một tiếng kêu thảm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Hỏi hắn muốn báo thù ai trước, rồi hứa đưa tin",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn kể tên ba người, mỗi tên nặng như đá. Cô ghi lại, hắn mới chịu nhảy.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.46075999999999995,
+          "bad": {
+            "x": "Hắn nói tên rối loạn, cô ghi không rõ. Phải hỏi lại sau.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Bờ sông Kim Toàn, vài tháng sau. Đệ tử vớt lên Chu Lạc Tinh, người bị bạn thân hại.",
+      "no": 27
+    },
+    {
+      "id": "u28",
+      "scene": "rriver",
+      "place": "Bờ sông · Một canh giờ sau",
+      "kind": "duyen",
+      "title": "Con bồ câu trong tổ phượng hoàng",
+      "text": "Một canh giờ sau, Hạc Ngôn vừa bắt một con bồ câu cho cô. Cô nhờ hắn tìm gà rừng, hắn nghiêm túc bắt về một con bồ câu. Cô nói «cũng được» rồi giao cho Lạc Tinh, bảo đặt vào tổ phượng hoàng sau khi truyền hơi phượng vào nó; Lạc Tinh đoán ra sẽ có người tới. Hồng Yên và Dạ Hành đến sau, chỉ thấy tổ có con bồ câu, nàng ném nó đi và lại nghi trời nhằm vào mình. Cô phải chọn để Lạc Tinh khế ước phượng hoàng ngay hay cất phượng hoàng trong tông.",
+      "tieu": "Một con bồ câu thay cho cả một con phượng. Nàng sẽ nghi, nhưng nàng sẽ không nghĩ ra cách nhìn khác.",
+      "cast": "u_mach,u_tinh,u_ngon,u_yen,u_hanh,tc",
+      "ch": [
+        {
+          "t": "Cho Lạc Tinh khế ước phượng hoàng ngay tại bờ sông",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ánh sáng đỏ vàng bao trùm cả bờ sông. Lạc Tinh quỳ xuống, tay run: «Ta... ta sống rồi.»",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "khe_uoc_ngay"
+          },
+          "b": 0.45434666666666657,
+          "bad": {
+            "x": "Khế ước chậm một nhịp, phượng hoàng cào nhẹ tay hắn. Hắn la lên rồi cười.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Cất phượng hoàng vào trong tông, khế ước sau khi hắn khỏe hơn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Con phượng non được bọc vải mềm, mang về tông nằm nghỉ. Lạc Tinh ngủ ba ngày liền.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "cat_phuong"
+          },
+          "b": 0.5420666666666667,
+          "bad": {
+            "x": "Con phượng nhỏ giãy giụa không chịu, cô mất cả buổi dỗ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nhờ Hạc Ngôn bắt thêm một con gà rừng thật, để bù lại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn lại nghiêm túc đi bắt, mất cả buổi chiều, mang về một con gà béo. Cô cười, lần đầu cười thật với hắn sau bao lâu.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "ga_rung_han"
+          },
+          "b": 0.4835866666666666,
+          "bad": {
+            "x": "Hắn bắt về một con chim sẻ. Cô cười nghiêng ngả, hắn đỏ tai.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Bờ sông Kim Toàn, một canh giờ sau. Con bồ câu được đặt vào tổ phượng hoàng.",
+      "no": 28
+    },
+    {
+      "id": "u29",
+      "scene": "vyard",
+      "place": "Thiên Ma Tông · Nửa năm sau",
+      "kind": "chon",
+      "title": "Những đệ tử bị bỏ rơi",
+      "text": "Nửa năm sau, cô liên tục mang về những người bị Hồng Yên hại: người bị phế tu vi, người đứt kinh mạch, người gãy tay chân. Cô giao họ cho Doãn Hề và Tiểu Khanh chăm. Đệ tử đồn Thánh Nữ cô cô có sở thích «nhặt người tàn tật». Vân Hải hỏi có phải Hồng Yên làm; cô đáp Hồng Yên bày mưu còn Dạ Hành ra tay. Cô dùng Phục Sinh Quyển và đan thuốc để họ hồi phục. Cô phải chọn dạy phương pháp ngay hay để họ tự mò.",
+      "tieu": "Có người cần tay, có người cần cả lòng tin. Chữa thân dễ hơn chữa tâm.",
+      "cast": "u_mach,u_hai,u_he,u_khanh,tc",
+      "ch": [
+        {
+          "t": "Dạy phương pháp ngay: nắn xương, bó thuốc, cách vận khí từng bước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Các đệ tử bị thương học rất nhanh, vì họ thật sự muốn đứng lên lại. Nhiều người đi lại được sau hai tháng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "day_ngay"
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Phương pháp phức tạp quá, nhiều người nản. Cô phải chia nhỏ thành từng bước đơn giản.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Để họ tự mò, chỉ giữ chăm sóc nền tảng và lắng nghe",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Có người mò ra cách riêng, hiệu quả hơn cả sách. Cô ghi lại để dạy cho người sau.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "de_tu_mo"
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Có người mò sai, làm tổn thương thêm. Cô phải xử lý lại từ đầu.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Giao việc chăm sóc nhẹ cho chính những người đã khá hơn, kèm cặp người mới",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Một vòng tròn nhỏ tự hình thành: người khá hơn dìu người yếu hơn. Linh thực viên thêm ấm áp.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.46717333333333333,
+          "bad": {
+            "x": "Vài người kiêu, coi việc chăm sóc là hạ thấp mình. Cô phải đổi người.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Thiên Ma Tông, nửa năm sau. Những người bị Hồng Yên hại lần lượt được đưa về.",
+      "learn": {
+        "n": "Nắn xương bó thuốc",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 29
+    },
+    {
+      "id": "u30",
+      "scene": "vyard",
+      "place": "Sân luyện công · Vài tháng sau",
+      "kind": "chon",
+      "title": "Giờ đi rèn luyện",
+      "text": "Vài tháng sau, trong sân luyện công, khoảng hai mươi đệ tử, đứa nhỏ nhất bảy tuổi. Cô phát cho mỗi người áo trắng, nón lụa mỏng che thần thức và một ngọc giản kế hoạch rèn luyện riêng; không được lộ mặt hay thân phận ngoài tông. Tiểu Khanh hào hứng. Hạc Ngôn hỏi cô có yên tâm cho họ đi không; cô đáp họ phải trưởng thành, nếu họ chết thì cô sẽ báo thù cho họ. Cô nói thật: tất cả là để trả thù Hồng Yên. Cô phải chọn nói hết kế hoạch với hắn hay chỉ một phần.",
+      "tieu": "Hắn đi theo ngươi cả năm nay. Hắn hỏi, ngươi đáp. Nhưng đáp bao nhiêu, đó là quyết định.",
+      "cast": "u_mach,u_ngon,u_khanh,tc",
+      "ch": [
+        {
+          "t": "Nói hết kế hoạch với Hạc Ngôn, từ đầu đến cuối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe xong im lặng rất lâu. Rồi hắn nói: «Ta sẽ không để ngươi một mình.» Cô cảm thấy mình bớt nặng một bên vai.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "noi_het_ke"
+          },
+          "b": 0.43151999999999996,
+          "bad": {
+            "x": "Cô nói quá nhanh, hắn nghe lẫn lộn. Hắn lặng im, và cô không biết hắn nghe hiểu được bao nhiêu.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "noi_het_ke"
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Chỉ nói một phần: các đệ tử là để bảo vệ tông, không nhắc Hồng Yên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn gật, không hỏi thêm. Nhưng ánh mắt hắn nhìn các đệ tử mặc áo trắng thật lâu.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5484800000000001,
+          "bad": {
+            "x": "Cô nói vòng vo, hắn nhìn cô rồi nhìn các đệ tử, như đã đoán ra điều gì.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Hỏi ngược: «Ngươi nghĩ ta định làm gì?» để xem hắn đoán",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn đoán trúng gần hết. Cô cười: «Ngươi nhìn người đúng hơn ta tưởng.»",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Hắn đoán sai hoàn toàn. Cô phải giải thích lại từ đầu.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Sân luyện công Thiên Ma Tông, vài tháng sau. Tiểu Mạch phát áo trắng và nón lụa cho các đệ tử.",
+      "no": 30
+    },
+    {
+      "id": "u31",
+      "scene": "rgreen",
+      "place": "Linh thực viên · Ngay sau đó",
+      "kind": "chon",
+      "title": "«Ngươi có thể đi»",
+      "text": "Hạc Ngôn hỏi cô định làm gì; cô nói thẳng: phá mọi thứ Hồng Yên muốn có. Hắn hỏi «ngươi không sợ ta nói cho nàng sao?», cô mỉm cười «ngươi thử xem». Hắn vội đáp sẽ không nói; cô bảo hắn có thể về Lưu Nguyệt Môn. Hắn nói chỉ tạm về và sẽ quay lại. Cô phải chọn dặn hắn mang tin tức về hay để hắn đi tự do.",
+      "tieu": "Hắn là mắt của ngươi trong Lưu Nguyệt Môn nếu ngươi cần. Nhưng cũng có thể chỉ là một người đang đi.",
+      "cast": "u_mach,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Dặn hắn mang tin tức về: ai thân với Hồng Yên, ai nghi ngờ nàng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn gật nghiêm túc như nhận lệnh. Cô thấy hắn thoáng vui vì có việc để làm cho cô.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "dan_tin_tuc"
+          },
+          "b": 0.4835866666666666,
+          "bad": {
+            "x": "Hắn ngập ngừng: «Ta không giỏi nghe lén.» Cô phải dặn lại từng điều.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Để hắn đi tự do, không dặn thêm gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn cúi đầu thật sâu rồi biến mất trong sương chiều. Cô thấy lòng nhẹ đi một chút, và trống đi một chút.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "de_han_di"
+          },
+          "b": 0.5420666666666667,
+          "bad": {
+            "x": "Hắn đi chưa xa đã quay lại, nói quên mất một việc. Cô phải đuổi hắn đi lần nữa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Đưa hắn một túi thuốc: «Mang theo. Đừng bị thương vô ích»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cầm túi thuốc, mặt nghiêm lại như cầm cả một thanh bảo kiếm. Hắn không nói gì, chỉ cúi đầu.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.45434666666666657,
+          "bad": {
+            "x": "Túi thuốc rơi xuống đất, thuốc vãi ra. Hắn cúi xuống nhặt từng viên, cẩn thận như nhặt ngọc.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Linh thực viên Thiên Ma Tông, ngay sau đó. Tiểu Mạch cho Hạc Ngôn về Lưu Nguyệt Môn.",
+      "no": 31
+    },
+    {
+      "id": "u32",
+      "scene": "vhall",
+      "place": "Lưu Nguyệt Môn · Vài ngày sau",
+      "kind": "nan",
+      "title": "Hạc Ngôn điều tra Lưu Nguyệt Môn",
+      "text": "Vài ngày sau, Tiểu Châu bật màn hình cho cô xem Lưu Nguyệt Môn. Hạc Ngôn gọi sư muội Từ Tiểu Hạnh tới. Nàng quỳ xuống thú nhận: Hồng Yên cho lợi ích, dặn nàng bảo nguyên chủ rằng hắn thích cô gái nghịch ngợm đáng yêu, và rải tin đồn về nguyên chủ. Trước khi Hồng Yên tới, nguyên chủ vốn ít nói và chuyên tâm tu luyện. Hắn xem lại hình ảnh Ảnh Tượng Thạch: ánh mắt nguyên chủ lúc trộm ngọc đờ đẫn như bị khống chế. Hắn nhận ra mình đã đẩy cô đi vì sợ chính tình cảm của mình. Cô nhìn qua màn hình mà thấy hơi lạnh chạy dọc sống lưng.",
+      "tieu": "Hắn vừa hiểu ra, mà hiểu ra thì chẳng ai dễ chịu. Hắn đang giận chính hắn, và giận cả những người từng làm hại ngươi.",
+      "cast": "u_mach,u_ngon,u_tieuhanh,tc",
+      "ch": [
+        {
+          "t": "Gọi truyền âm: «Đừng làm gì vội, về đây với ta»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe tiếng cô, hơi thở hắn chậm lại. Kiếm trong tay hắn hạ xuống từng chút một.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "goi_han_ve"
+          },
+          "b": 0.45075999999999994,
+          "bad": {
+            "x": "Truyền âm bị nhiễu giữa chừng, hắn chỉ nghe được nửa câu. Hắn siết kiếm chặt hơn.",
+            "d": {
+              "ac": 0,
+              "hac": 3,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "han_gian"
+          },
+          "_b": [
+            0,
+            3,
+            0,
+            -5
+          ],
+          "b0": 0.47
+        },
+        {
+          "t": "Im lặng quan sát, để hắn tự thở hết cơn giận",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ngồi đó nhìn màn hình tới khi hắn gục xuống chiếc ghế. Một lúc sau, hắn tự đứng dậy.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "de_han_binh"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Cô nhìn quá lâu, hắn tưởng không ai quan tâm, xoay người rời sảnh mà không nói một lời.",
+            "d": {
+              "ac": 0,
+              "hac": 3,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "han_gian"
+          },
+          "_b": [
+            0,
+            3,
+            0,
+            -5
+          ],
+          "b0": 0.48
+        },
+        {
+          "t": "Nhờ Tiểu Châu ghi lại toàn bộ lời Tiểu Hạnh, để dùng sau",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu ghi đủ từng chữ. Cô cất lại, như cất một sợi chỉ để kéo sau này.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 0
+            },
+            "f": "ghi_loi_tieu_hanh"
+          },
+          "b": 0.50924,
+          "bad": {
+            "x": "Tiểu Châu ghi thiếu một đoạn ngắn. Cô đành chấp nhận.",
+            "d": {
+              "ac": 0,
+              "hac": 3,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "han_gian"
+          },
+          "_b": [
+            0,
+            3,
+            0,
+            -5
+          ],
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Lưu Nguyệt Môn, vài ngày sau. Hạc Ngôn điều tra và biết chân tướng.",
+      "forced": 1,
+      "no": 32
+    },
+    {
+      "id": "u33",
+      "scene": "rgreen",
+      "place": "Linh thực viên · Một tối ngay sau đó",
+      "kind": "chon",
+      "title": "Lời thổ lộ",
+      "text": "Hạc Ngôn quay về, kể cho cô những gì hắn tra được. Hắn nói hắn không thích người tính kế, nhưng nếu người đó là cô thì hắn không thể không thích, và xin làm lại từ đầu. Cô nhìn vườn rồi đáp: trong vườn này thuốc gì cũng có, duy chỉ không có thuốc hối hận. Hắn lặng đi rồi nói hai chân hắn không nghe lời, cứ đi theo cô. Cô để mặc. Cô phải chọn cho hắn một cơ hội nhỏ (cho đi cùng chuyến sau) hay giữ nguyên khoảng cách.",
+      "tieu": "Hắn đã nói điều khó nhất. Cho hắn một cơ hội nhỏ hay không, đó là lựa chọn của ngươi. Nhưng đừng quên: hắn sẽ nhớ.",
+      "cast": "u_mach,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Cho hắn đi cùng chuyến sau, như một đồng hành bình thường",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngẩng đầu, ánh mắt sáng lên như người vừa được cầm lại thanh kiếm đã mất. «Ta sẽ không làm ngươi thất vọng.»",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "co_hoi_nho"
+          },
+          "b": 0.46717333333333333,
+          "bad": {
+            "x": "Cô nói hơi muộn, hắn đã quay lưng bước đi. Phải gọi giật lại. Hắn dừng, ngập ngừng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            },
+            "f": "co_hoi_nho"
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Giữ nguyên khoảng cách: hắn vẫn đi theo, cô vẫn không đáp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn gật, như thể đã sẵn sàng với câu trả lời đó. Nhưng cô thấy vai hắn chùng xuống một chút.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            }
+          },
+          "b": 0.5548933333333335,
+          "bad": {
+            "x": "Khoảng cách giữa hai người đã quá xa, hắn không đoán được cô nghĩ gì. Hắn đứng im.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Nói thật: «Ta chưa tha thứ được, nhưng ta cũng chưa muốn ngươi đi»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe xong lặng người, rồi thở ra một hơi rất dài. «Vậy là đủ.»",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 2
+            },
+            "f": "noi_that_chua_tha"
+          },
+          "b": 0.4379333333333333,
+          "bad": {
+            "x": "Cô nói lúng túng, hắn nghe thành lời từ chối. Cô phải nhắc lại câu cuối cho rõ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Linh thực viên, một tối ngay sau đó. Hạc Ngôn quay về, xin làm lại từ đầu.",
+      "no": 33
+    },
+    {
+      "id": "u34",
+      "scene": "vcourt",
+      "place": "Thái Nguyên Tông · Một năm sau",
+      "kind": "chon",
+      "title": "Sinh tử đài ở Thái Nguyên Tông",
+      "text": "Một năm sau mốc trước, Tiểu Châu báo Hồng Yên sắp giết một thiên tài trên sinh tử đài. Phương Thừa Hiên, thiên tài Thái Nguyên Tông, 20 tuổi. Mạnh Thanh Vi, tiểu thư Mạnh gia, không tu luyện được nhưng nhìn một quyển công pháp là hiểu bản chất, từng giúp Hồng Yên phá bình cảnh. Hồng Yên tố Thừa Hiên bắt cóc và hại chết Thanh Vi, bạn thân của nàng, và thách đấu sinh tử; nhiều «chứng nhân» làm chứng. Thừa Hiên không làm nhưng không chứng minh được; tông chủ khuyên hắn nhận tội tự phế tu vi, hắn từ chối và bước lên đài. Tiểu Châu chỉ ra nơi ở của kẻ đã hại Thanh Vi. Cô phải chọn đi cùng Hạc Ngôn một mình hay mang theo Vân Hải và vài đệ tử.",
+      "tieu": "Có một cái đài và một kẻ thật sự ra tay ở nơi khác. Chia thời gian cho đúng, đừng chia người.",
+      "cast": "u_mach,u_ngon,u_hien,u_vi,u_yen,u_hai,tc",
+      "ch": [
+        {
+          "t": "Đi cùng Hạc Ngôn, hai người, nhanh và gọn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người đến nơi trước khi mặt trời lên đỉnh. Không ai kịp nhận ra họ đã tới.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "di_hai_nguoi"
+          },
+          "b": 0.5028266666666666,
+          "bad": {
+            "x": "Đường núi bị mưa làm trơn, hai người chậm mất một canh giờ. Sinh tử đài đã bắt đầu.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Mang theo Vân Hải và vài đệ tử áo trắng để có người chứng kiến",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đội hình áo trắng bước vào như một đám mây. Dân chúng quanh đài lặng đi.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "di_dong"
+          },
+          "b": 0.5028266666666666,
+          "bad": {
+            "x": "Đội hình đông làm chậm cả đoàn. Cô đến nơi muộn hơn dự tính.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Chia đôi: cô đi tìm kẻ ra tay, Hạc Ngôn và Vân Hải lên đài kéo dài thời gian",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hạc Ngôn đứng chắn giữa đài, Vân Hải nói chuyện cứng. Cô có thêm cả buổi để tìm nơi ở của gã ma tu.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "chia_doi"
+          },
+          "b": 0.44434666666666656,
+          "bad": {
+            "x": "Cô tìm sai khách điếm đầu tiên, mất nửa canh giờ. Trên đài, Hạc Ngôn phải giữ chân lâu hơn.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Thái Nguyên Tông, một năm sau mốc 33. Hồng Yên thách đấu sinh tử Phương Thừa Hiên vì tội bắt cóc và hại chết Mạnh Thanh Vi.",
+      "no": 34
+    },
+    {
+      "id": "u35",
+      "scene": "vlou",
+      "place": "Trấn nhỏ của ma tu · Khách điếm",
+      "kind": "hiem",
+      "title": "Gã ma tu và viên đan",
+      "text": "Cùng ngày, trong một khách điếm ở trấn nhỏ của ma tu, Hắc Cốt, ma tu hút tu vi tu sĩ, kẻ Hồng Yên thuê, đang định nuốt viên đan Hồng Yên đưa để đột phá. Cô đạp cửa vào, đoạt bình ngọc; hắn nhận ra cô biết chuyện. Cô phế tu vi hắn, Hạc Ngôn khóa kiếm hắn lại trước khi hắn kịp tự bạo. Cô thử đan trên một con chuột: nó nổ tung. Hắc Cốt biến sắc, nghiến răng nguyền Hồng Yên vì bị lừa, và để lộ một viên Ảnh Tượng Thạch hắn đã lén giữ. Cô phải chọn tha mạng cho hắn đổi lấy việc hắn tự ra làm chứng, hay giao hắn cho Vân Hải.",
+      "tieu": "Viên đan nổ trên chuột. Nó đã nổ trên tay hắn nếu hắn nuốt. Hắn vừa hiểu ra mình bị lừa. Đây là lúc hắn nghe được lời mời.",
+      "cast": "u_mach,u_cot,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Tha mạng, đổi lấy việc hắn tự ra làm chứng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn viên Ảnh Tượng Thạch trong tay rất lâu, rồi gật. «Ta sẽ nói.» Giọng hắn khàn đặc.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "tha_hac_cot"
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Hắn gật nhưng mắt vẫn ranh mãnh. Cô biết mình phải theo dõi hắn từng bước.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Giao hắn cho Vân Hải, đổi Ảnh Tượng Thạch lấy tự do cho gia đình hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Vân Hải nhận người, gật đầu. Hắc Cốt cúi đầu giao viên đá, lần đầu không nhìn ai.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "giao_hac_cot"
+          },
+          "b": 0.50924,
+          "bad": {
+            "x": "Hắn gào lên đòi gặp cô lần nữa, Vân Hải phải bịt miệng hắn. Nhưng đá vẫn nằm trong tay.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Khám lại viên đan trước khi quyết định: xem trong đan có gì ngoài thuốc nổ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhận ra dấu pháp chú Hồng Yên cài sẵn: viên đan có thể điều khiển người uống. Cô cất làm chứng cứ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "kham_dan"
+          },
+          "b": 0.45075999999999994,
+          "bad": {
+            "x": "Cô khám đan lâu quá, Hắc Cốt kịp lấy lại bình tĩnh. Mọi chuyện trở nên chậm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Khách điếm của Hắc Cốt trong trấn ma tu, cùng ngày. Tiểu Mạch đoạt viên đan và thử trên một con chuột.",
+      "learn": {
+        "n": "Nhận biết đan độc",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 35
+    },
+    {
+      "id": "u36",
+      "scene": "vcourt",
+      "place": "Sinh tử đài · Cùng ngày",
+      "kind": "chon",
+      "title": "Cô chặn nhát kiếm",
+      "text": "Cùng ngày, trên sinh tử đài Thái Nguyên Tông, Hồng Yên sắp chém Thừa Hiên. Cô nhảy lên đài đánh rơi kiếm của Hồng Yên, tự xưng Thánh Nữ cô cô của Thiên Ma Tông. Dạ Hành lao lên chất vấn và buột miệng gọi «Hạ Tiểu Mạch», khiến Hồng Yên biết cô còn sống, mạnh hơn nàng tưởng và đang ở Thiên Ma Tông. Hồng Yên đứng ra nói Tiểu Mạch từng trộm bảo vật, hại nàng, nay lại muốn cản nàng báo thù cho bạn. Cô tháo nón lụa lộ mặt. Cô phải chọn thừa nhận thẳng thân phận hay trả lời lấp lửng để giữ bài tẩy.",
+      "tieu": "Cả Thái Nguyên Tông nhìn lên đài. Nàng vừa biết ngươi còn sống. Còn lại là cách ngươi nói cho mọi người nghe.",
+      "cast": "u_mach,u_yen,u_hanh,u_hien,tc",
+      "ch": [
+        {
+          "t": "Thừa nhận thẳng: «Ta là Hạ Tiểu Mạch, đệ tử cũ của Lưu Nguyệt Môn»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả đài lặng đi. Vài tu sĩ già của Lưu Nguyệt Môn tái mặt, vài người khác nhìn Hồng Yên bằng ánh mắt khác.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "thua_nhan_ten"
+          },
+          "b": 0.4571733333333333,
+          "bad": {
+            "x": "Giọng cô khô và nhỏ hơn dự tính. Một số người ở dưới nghe không rõ, hỏi nhau.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Trả lời lấp lửng: «Thánh Nữ Thiên Ma Tông, đủ để làm việc ta làm»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô giữ bài tẩy, để mọi người tự đoán. Hồng Yên nghiến răng, không dám đoán sai.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "lap_lung"
+          },
+          "b": 0.5448933333333335,
+          "bad": {
+            "x": "Cô trả lời quá lấp lửng, Hồng Yên bỗng bật cười: «Ngươi sợ nói tên mình?»",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Nhìn thẳng Hồng Yên, nói chậm: «Ngươi muốn giết thiên tài. Ta muốn nhặt chúng về»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Câu nói rơi xuống đài như một viên đá. Hồng Yên thoáng biến sắc, nhưng nàng lập tức che lại.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.4279333333333335,
+          "bad": {
+            "x": "Câu nói bị gió cuốn mất nửa, Hồng Yên tiếp tục cười nhạt. Cô phải nhắc lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.46
+        }
+      ],
+      "ctx": "Sinh tử đài Thái Nguyên Tông, cùng ngày. Tiểu Mạch nhảy lên đài chặn nhát kiếm của Hồng Yên.",
+      "no": 36
+    },
+    {
+      "id": "u37",
+      "scene": "vcourt",
+      "place": "Sinh tử đài · Ngay sau đó",
+      "kind": "chon",
+      "title": "Ảnh Tượng Thạch và lời biện hộ",
+      "text": "Vân Hải đưa Hắc Cốt lên đài. Hắc Cốt tố Hồng Yên và mở Ảnh Tượng Thạch trước mọi người: Hồng Yên đưa đan để nhờ bắt Mạnh Thanh Vi đi và đừng để cô ta về. Mạnh gia hoảng, Cát Tử Dung ngớ người, Lệ Dạ Hành lùi một bước. Hồng Yên nhận, rồi đổi cớ: Thanh Vi đã định cướp Dạ Hành khỏi nàng nên chết là xứng đáng. Cát Tử Dung nhận bồi thường cho Mạnh gia; Mạnh gia chưa gật. Cô phải chọn nói tiếp để chứng minh Hồng Yên nói dối hay rút lui để đưa Thanh Vi ra mặt sau.",
+      "tieu": "Nàng vừa tự mở nắp quan tài của mình. Ngươi nói thêm một câu hay im, đều phải tính tới Mạnh gia.",
+      "cast": "u_mach,u_cot,u_yen,u_dung,u_hanh,tc",
+      "ch": [
+        {
+          "t": "Nói tiếp: vạch từng chỗ mâu thuẫn trong lời Hồng Yên",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nêu ba chỗ lệch, Hồng Yên cứng họng ở chỗ thứ hai. Mạnh gia bắt đầu lùi khỏi tay Cát Tử Dung.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "vach_loi"
+          },
+          "b": 0.4735866666666666,
+          "bad": {
+            "x": "Cô nói nhanh, bỏ sót một chỗ then chốt. Hồng Yên tận dụng lỗ hổng đó để biện bạch.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Rút lui, để nói với Mạnh gia riêng, đợi đưa Thanh Vi ra mặt sau",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô gật đầu với Vân Hải rồi lui khỏi đài. Mạnh gia theo dõi từng bước chân cô.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "rut_lui_dung_luc"
+          },
+          "b": 0.5320666666666667,
+          "bad": {
+            "x": "Cô rút lui quá nhanh, nhiều người tưởng cô thua lý. Phải gỡ lại sau.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Hỏi Cát Tử Dung: «Ngài định bồi thường bằng gì cho một mạng người?»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ông đứng chết lặng, miệng mấp máy không thành tiếng. Mạnh gia nhìn ông như nhìn một người xa lạ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.44434666666666656,
+          "bad": {
+            "x": "Ông đáp quanh co, nhắc đến linh thạch. Mạnh gia gầm lên, cả đài ồn ào.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Sinh tử đài, ngay sau đó. Hắc Cốt mở Ảnh Tượng Thạch tố cáo Hồng Yên.",
+      "no": 37
+    },
+    {
+      "id": "u38",
+      "scene": "rcave",
+      "place": "Nơi Hắc Cốt chỉ · Đêm cùng ngày",
+      "kind": "chon",
+      "title": "Tụ Hồn Phù",
+      "text": "Đêm cùng ngày, tại nơi Hắc Cốt chỉ, Hạc Ngôn đi theo cô. Cô dùng Tụ Hồn Phù, món hiếm Tiểu Châu giữ sẵn, gom lại hồn Mạnh Thanh Vi, hồn thể còn yếu. Nàng khóc khi biết kẻ hại mình là Hồng Yên và Mạnh gia đã nhận bồi thường để bỏ qua. Nàng hỏi cô muốn gì; cô nói chỉ cần nàng sống tốt, dưới hình dạng nào cũng được, để làm Hồng Yên tức. Cô đưa nàng một công pháp dành riêng cho hồn tu. Cô phải chọn chữa hồn cho nàng trước hay đưa công pháp trước.",
+      "tieu": "Một linh hồn rất mong manh. Nàng cần lành trước, hay cần có việc làm trước? Hai điều đều đúng.",
+      "cast": "u_mach,u_vi,u_ngon,tc",
+      "ch": [
+        {
+          "t": "Chữa hồn trước, cho nàng ngủ đủ rồi mới nói tiếp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hồn thể của nàng sáng dần theo từng nhịp thở. Sáng hôm sau, nàng mở mắt và mỉm cười lần đầu.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "chua_hon_truoc"
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Hồn thể nàng hơi mờ đi khi cô chưa kịp ổn định. Cô phải dùng thêm một lá bùa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Đưa công pháp trước, để nàng có thứ để bám lấy",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nàng cầm công pháp, mắt đỏ hoe nhưng sáng rực. Nàng đọc suốt đêm, hồn thể mạnh lên thấy rõ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "dua_cong_phap_truoc"
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Nàng đọc quá sức, hồn thể rung lên. Cô phải đóng sách lại, bắt nàng nghỉ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Để Hạc Ngôn đứng gác ngoài cửa, còn cô ngồi lại nghe nàng kể hết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nàng kể cho đến khi hết nước mắt, rồi thiếp đi trên vai cô. Hạc Ngôn đứng ngoài cửa suốt đêm không nhúc nhích.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.46717333333333333,
+          "bad": {
+            "x": "Nàng kể được nửa chừng thì ngất đi. Cô phải ngồi canh suốt đêm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Nơi Hắc Cốt chỉ, đêm cùng ngày. Tiểu Mạch dùng Tụ Hồn Phù gom lại hồn Mạnh Thanh Vi.",
+      "no": 38
+    },
+    {
+      "id": "u39",
+      "scene": "vyard",
+      "place": "Thiên Ma Tông · Vài tháng sau",
+      "kind": "chon",
+      "title": "Mạnh Thanh Vi giảng công pháp",
+      "text": "Vài tháng sau, Tiểu Châu tóm lại chuyện đã xảy ra: Thanh Vi tu hồn thể rất nhanh và ngày nào cũng giảng công pháp cho các đệ tử; ai nghe cũng tiến bộ. Phương Thừa Hiên rời Thái Nguyên Tông vì họ từng bỏ mặc hắn và đến Thiên Ma Tông; hai người nên duyên. Thừa Hiên hỏi cô một đoạn công pháp khó, cô nhờ Thanh Vi chỉ giúp. Cô phải chọn hỏi thẳng nàng cách tách một công pháp thành các bước hay chỉ nghe và ghi lại.",
+      "tieu": "Nàng nhìn một cuốn sách là thấy gốc rễ. Học cách đó khó hơn học cuốn sách.",
+      "cast": "u_mach,u_vi,u_hien,tc",
+      "ch": [
+        {
+          "t": "Hỏi thẳng nàng cách tách công pháp thành các bước nhỏ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nàng giảng bằng ví dụ nấu ăn, rồi bằng ví dụ làm vườn. Cô hiểu đến tận gốc.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "hoi_thang_vi"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Nàng giảng nhanh quá, cô theo không kịp. Phải nhờ nàng nói chậm lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Chỉ nghe và ghi lại, về sau tự phân tích",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô chép suốt ba buổi, rồi một đêm bỗng thấy mọi mảnh ghép khớp lại với nhau.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Cô chép nhiều nhưng không đọc lại, ghi chép chất đống chưa hiểu gì.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Mời Thừa Hiên cùng nghe, để hai người cùng hỏi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thừa Hiên hỏi thẳng những câu cô không dám hỏi. Hai người tiến bộ song song.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "moi_thua_hien"
+          },
+          "b": 0.46075999999999995,
+          "bad": {
+            "x": "Thừa Hiên hỏi quá gắt, Thanh Vi ngập ngừng. Cô phải xoa dịu không khí.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Thiên Ma Tông, vài tháng sau. Thanh Vi giảng công pháp mỗi ngày; Thừa Hiên đã gia nhập tông.",
+      "learn": {
+        "n": "Phân tích công pháp",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 39
+    },
+    {
+      "id": "u40",
+      "scene": "vcamp",
+      "place": "Chính Vũ Môn · Mấy tuần sau",
+      "kind": "hiem",
+      "title": "Chính Vũ Môn và Thạch Vũ",
+      "text": "Mấy tuần sau, Tiểu Châu báo: Thạch Vũ, thiếu môn chủ Chính Vũ Môn, 24 tuổi, là người cuối cùng trong danh sách Hồng Yên muốn hủy. Hồng Yên vu Thạch Vũ khinh bạc nàng, và Cát Tử Dung dẫn cả Lưu Nguyệt Môn đến đòi công đạo, phá đại trận. Cô cùng đám đệ tử áo trắng đội nón lụa xuất hiện; Thạch Vũ nhanh trí xin đưa Chính Vũ Môn gia nhập Thiên Ma Tông. Hồng Yên bị đánh lùi. Dạ Hành chất vấn Vân Hải vì để cô vào chuyện này; Vân Hải cho hắn mất vị trí thiếu tông chủ và nói duyên thầy trò đến đây là hết. Cô phải chọn nhận Chính Vũ Môn ngay hay hỏi ý các đệ tử trước.",
+      "tieu": "Hồng Yên vừa mất thêm một quân cờ. Đệ tử của ngươi đang nhìn xem ngươi nhận người thế nào.",
+      "cast": "u_mach,u_vu,u_yen,u_dung,u_hanh,u_hai,tc",
+      "ch": [
+        {
+          "t": "Nhận Chính Vũ Môn ngay, không để Hồng Yên có thời gian cài thêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thạch Vũ cúi đầu thật sâu. Cả Chính Vũ Môn quỳ xuống, tiếng đồng thanh vang cả sườn núi.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "nhan_chinh_vu"
+          },
+          "b": 0.46075999999999995,
+          "bad": {
+            "x": "Cô nhận quá nhanh, vài đệ tử Thiên Ma Tông thấy bị bỏ qua. Cô phải giải thích sau.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Hỏi ý các đệ tử trước, để cả tông cùng quyết",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Các đệ tử áo trắng giơ tay đồng ý, ai cũng thấy mình có phần. Tình đồng môn càng chặt.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "hoi_de_tu"
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Có người dè dặt hỏi lại nhiều lần, cô mất cả buổi giải thích mới yên.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Nhận có điều kiện: Thạch Vũ phải cho cô xem sổ sách Chính Vũ Môn trước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đọc sổ sách và nhận ra vài chỗ Hồng Yên đã cài mồi. Chính Vũ Môn gia nhập sạch sẽ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            }
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Sổ sách quá rối, cô không kịp xem hết. Phải nhờ Thanh Vi giúp.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        }
+      ],
+      "ctx": "Chính Vũ Môn, mấy tuần sau. Hồng Yên vu Thạch Vũ; Cát Tử Dung dẫn Lưu Nguyệt Môn tới đòi công đạo.",
+      "no": 40
+    },
+    {
+      "id": "u41",
+      "scene": "vlou",
+      "place": "Trà lâu Thiên Ma Tông · Vài tháng sau",
+      "kind": "chon",
+      "title": "«Ta không độ kiếp»",
+      "text": "Vài tháng sau, trong trà lâu Thiên Ma Tông, ba vị huynh trưởng cũng có mặt. Các đệ tử sắp tới ngưỡng độ kiếp; Hạc Ngôn hỏi sao cô chưa độ dù tu vi đủ. Cô đáp «không muốn bị sét đánh»; Tiểu Châu nhắc riêng với cô: khi nhiệm vụ ở thế giới này xong, cô sẽ phải rời đi, phi thăng hay không đều vậy. Hạc Ngôn lặng đi rồi nói vậy hắn cũng không độ. Cô phải chọn khuyên hắn cứ độ hay mặc kệ.",
+      "tieu": "Hắn nghe thấy một điều ngươi chưa nói. Hắn sẽ không hỏi. Hắn sẽ nhớ.",
+      "cast": "u_mach,u_ngon,u_hai,u_thanh,u_hao,tc",
+      "ch": [
+        {
+          "t": "Khuyên hắn cứ độ: «Đừng vì ta mà chậm bước»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn chén trà rất lâu. «Ta sẽ nghĩ.» Cô biết hắn chưa nghe lọt.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "khuyen_do_kiep"
+          },
+          "b": 0.46075999999999995,
+          "bad": {
+            "x": "Câu khuyên nghe như đẩy hắn đi. Hắn đặt chén xuống, im lặng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Mặc kệ: «Ngươi muốn làm gì thì làm»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn gật như đã nhận một mệnh lệnh. Ba vị huynh trưởng nhìn nhau, không nói gì.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "mac_ke_do_kiep"
+          },
+          "b": 0.51924,
+          "bad": {
+            "x": "Giọng cô nghe lạnh hơn cô định. Hắn ngẩng lên rồi lại cúi xuống.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Đổi chuyện sang đệ tử, hỏi ai đã sẵn sàng độ trước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Các huynh trưởng nhận lời đổi chuyện, danh sách đệ tử hiện ra trên bàn. Hạc Ngôn im lặng ngồi nghe.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.49,
+          "bad": {
+            "x": "Chủ đề đổi quá gượng, Xích Hạo nhìn cô rồi nhìn hắn, cười ngượng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Trà lâu Thiên Ma Tông, vài tháng sau. Hạc Ngôn hỏi sao cô chưa độ kiếp.",
+      "no": 41
+    },
+    {
+      "id": "u42",
+      "scene": "rhill",
+      "place": "Bãi hoang · Vài ngày sau",
+      "kind": "duyen",
+      "title": "Cột thu lôi",
+      "text": "Vài ngày sau, ở một bãi hoang, khoảng năm mươi thiên tài sắp độ kiếp cùng lúc. Cô phát cho mỗi người một cây cột thu lôi nhỏ và dặn giơ lên đỉnh đầu khi lôi kiếp tới; ba vị huynh trưởng tò mò đến xem và xin vài cây. Chín đạo lôi kiếp rơi xuống, cột thu lôi chặn chín phần, mọi người chỉ phải chịu một phần. Họ ngơ ngác vì quá nhẹ. Cô dặn họ chuẩn bị phi thăng nhưng chỉ đi khi Hồng Yên độ kiếp, và phải đi trước mặt nàng. Cô phải chọn dạy cách dùng chi tiết hay để họ tự thử.",
+      "tieu": "Một cây cột nhỏ chặn chín phần sét. Nó nhẹ quá nên ai cũng ngờ. Dạy họ thật kỹ, đừng để ai chủ quan.",
+      "cast": "u_mach,u_he,u_khanh,u_hai,u_thanh,u_hao,tc",
+      "ch": [
+        {
+          "t": "Dạy chi tiết từng bước: cách đặt cột, cách giơ, góc nghiêng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả năm mươi người đều dựng cột đúng chỗ. Chín đạo lôi kiếp đi qua như mưa rào.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "day_cot_chi_tiet"
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Một vài người nhớ nhầm góc nghiêng, bị cháy sém tay áo. Cô phải đi từng người sửa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Để họ tự thử trước một đạo nhỏ, rồi sửa lỗi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ tự cãi nhau, tự sửa nhau. Khi đạo thật rơi xuống, ai cũng đã quen tay.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "cot_tu_thu"
+          },
+          "b": 0.46717333333333333,
+          "bad": {
+            "x": "Một người thử sai, bị lôi kiếp nhỏ đánh xéo. May mà cô kịp chữa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Nhờ ba vị huynh trưởng đứng làm mẫu một lần cho cả bãi hoang xem",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba vị mỗi người dựng một cây theo ba kiểu khác nhau. Mọi người nhìn và học được cả ba.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.4964133333333334,
+          "bad": {
+            "x": "Xích Hạo dựng cây quá cao, lôi kiếp suýt đánh chệch. Cả bãi cười ồ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        }
+      ],
+      "ctx": "Bãi hoang, vài ngày sau. Năm mươi thiên tài sắp độ kiếp cùng lúc.",
+      "learn": {
+        "n": "Dựng cột thu lôi",
+        "s": "van",
+        "v": 2
+      },
+      "no": 42
+    },
+    {
+      "id": "u43",
+      "scene": "rhill",
+      "place": "Bãi hoang độ kiếp · Ba năm sau",
+      "kind": "chon",
+      "title": "Ngày Hồng Yên độ kiếp",
+      "text": "Ba năm sau. Tiểu Châu tóm lại: Hồng Yên nhập ma, hút tu vi tu sĩ, Lưu Nguyệt Môn thành môn phái ma tu; kiếp vân tụ trên đỉnh nàng. Hồng Yên dẫn kiếp vân sang đầu Lệ Dạ Hành rồi nói «chúng ta cùng độ kiếp». Dạ Hành mừng rỡ ôm nàng che chở và chịu phần lớn lôi kiếp từ đạo năm tới đạo bảy. Vân Hải đứng gần, tay cầm sẵn cột thu lôi. Cô và Hạc Ngôn núp ở chỗ tối. Cô phải chọn can thiệp sớm bằng cột thu lôi hay chờ tới lúc Hồng Yên nói ra bí mật.",
+      "tieu": "Hắn đang ôm nàng chịu sét. Hắn vẫn tin nàng. Can thiệp sớm thì cứu hắn, chờ thì lộ nàng.",
+      "cast": "u_mach,u_ngon,u_yen,u_hanh,u_hai,tc",
+      "ch": [
+        {
+          "t": "Can thiệp sớm: nhờ Vân Hải ném cột thu lôi lên đầu Dạ Hành",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cột thu lôi vút lên đúng lúc đạo sáu giáng xuống. Dạ Hành ngẩng đầu ngơ ngác, nhưng sống.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "can_thiep_som"
+          },
+          "b": 0.4735866666666666,
+          "bad": {
+            "x": "Cây cột lệch nửa tấc, lôi kiếp sượt qua vai hắn. Hắn gào lên, nhưng vẫn đứng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Chờ tới lúc Hồng Yên nói ra bí mật, để Dạ Hành tự nghe",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hạc Ngôn khẽ siết tay cô trong bóng tối. Cả hai nín thở chờ.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "cho_bi_mat"
+          },
+          "b": 0.5320666666666667,
+          "bad": {
+            "x": "Hồng Yên im lặng lâu hơn dự đoán. Cô sốt ruột nhưng vẫn kìm.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Cùng Hạc Ngôn đổi chỗ, tới gần hơn để sẵn sàng cả hai hướng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người lách qua bóng cây, chỉ cách hiện trường mười trượng. Không ai thấy.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "den_gan"
+          },
+          "b": 0.44434666666666656,
+          "bad": {
+            "x": "Một cành khô gãy dưới chân cô. Hạc Ngôn lập tức kéo cô nép xuống.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Bãi hoang độ kiếp, ba năm sau. Hồng Yên dẫn kiếp vân sang đầu Dạ Hành.",
+      "no": 43
+    },
+    {
+      "id": "u44",
+      "scene": "rhill",
+      "place": "Bãi hoang · Giữa đạo tám và chín",
+      "kind": "nan",
+      "title": "Bí mật dưới tia chớp",
+      "text": "Giữa đạo thứ tám và thứ chín, Hồng Yên thì thầm cho Dạ Hành: người đưa hắn từ ngoài cổng Lệ gia vào sơn động năm xưa là Hạ Tiểu Mạch chứ không phải nàng, rồi đẩy hắn ra. Đạo thứ tám đánh trúng nhưng hắn còn sống nhờ cột thu lôi Vân Hải ném lên. Hắn hỏi cô có phải không; cô đáp «không nhớ». Hồng Yên nghiến răng vì hắn chưa chết, và thừa nhận muốn hắn chết. Cô phải chọn nói thật hay giữ im lặng.",
+      "tieu": "Nàng vừa nói ra điều nàng giấu cả đời. Hắn cũng vừa nghe thấy. Câu «không nhớ» của ngươi là thật, nhưng nó có thể nghe ra nhiều cách.",
+      "cast": "u_mach,u_hanh,u_yen,u_hai,tc",
+      "ch": [
+        {
+          "t": "Nói thật: «Ta không nhớ, nhưng nếu đúng thì ta không hối hận»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Dạ Hành nhìn cô rất lâu. Nước mắt trào ra mà hắn không biết. «Ngươi... cứu ta.»",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "noi_that_44"
+          },
+          "b": 0.4735866666666666,
+          "bad": {
+            "x": "Cô nói quá thẳng, hắn nghe thành lời trách. Hắn lùi lại một bước, tay run.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "han_gian_44"
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Giữ im lặng, để Hồng Yên tự nói hết những gì nàng định nói",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hồng Yên đứng sững, nhận ra mình vừa tự lộ hết. Không ai cần cô nói thêm lời nào.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "im_lang_44"
+          },
+          "b": 0.5320666666666667,
+          "bad": {
+            "x": "Cô im lặng quá lâu, Dạ Hành tưởng cô thừa nhận. Hắn gào lên một tiếng.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.5
+        },
+        {
+          "t": "Quay sang Hạc Ngôn khẽ hỏi: «Ngươi có nhớ chuyện này không?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hạc Ngôn lắc đầu. Trong khoảnh khắc đó, cô thấy hắn thật sự không biết gì.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            }
+          },
+          "b": 0.44434666666666656,
+          "bad": {
+            "x": "Hạc Ngôn lúng túng, không nói gì. Cô nhận ra mình hỏi sai chỗ.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Bãi hoang độ kiếp, giữa đạo thứ tám và thứ chín. Hồng Yên nói ra bí mật cho Dạ Hành nghe.",
+      "no": 44
+    },
+    {
+      "id": "u45",
+      "scene": "rhill",
+      "place": "Bãi hoang · Ngay sau đó",
+      "kind": "chon",
+      "title": "«Mượn ngươi dùng»",
+      "text": "Cô gọi Hồng Yên: «để chúc mừng ngươi độ kiếp, ta mất mười mấy năm chuẩn bị đại lễ». Các thiên tài lần lượt tháo nón: Mạnh Thanh Vi, người nàng tưởng đã diệt hồn, Tiểu Khanh, Doãn Hề, Lạc Tinh và nhiều người khác, rồi cùng phi thăng. Hồng Yên phun máu; cô nhắc thẳng «ngươi là người trọng sinh» khiến nàng biến sắc. Cô nói «Hạc Ngôn, mượn ngươi dùng»; hắn bước ra, đáp «vì người đó là Tiểu Mạch». Cô hỏi hắn có ý với cô từ lúc nào: «trước khi cô rời Lưu Nguyệt Môn». Cô phải chọn đáp bằng một câu trêu hay một câu thật.",
+      "tieu": "Cả đoàn thiên tài bay lên ngay trước mặt nàng. Còn hắn thì bước ra, nói một câu không phải cho nàng nghe.",
+      "cast": "u_mach,u_ngon,u_yen,u_vi,u_khanh,u_he,u_tinh,tc",
+      "ch": [
+        {
+          "t": "Đáp bằng một câu trêu: «Thì ra tiểu cẩu biết nói»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn bật cười, tiếng cười ngắn và lạ lẫm. Các thiên tài đang bay lên cũng bật cười theo.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "dap_treu"
+          },
+          "b": 0.50924,
+          "bad": {
+            "x": "Câu đùa nghe hơi chua, hắn cúi đầu. Nhưng khóe môi vẫn nhếch lên.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Đáp một câu thật: «Ta cũng không biết từ lúc nào ta thôi hận ngươi»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn đứng sững, hơi thở nghẹn lại. Ánh trăng trên vai hắn như run lên.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "dap_that"
+          },
+          "b": 0.45075999999999994,
+          "bad": {
+            "x": "Câu nói lạc vào tiếng sét, hắn chỉ nghe được nửa. Cô phải nhắc lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        },
+        {
+          "t": "Nhìn thẳng Hồng Yên, không đáp hắn: «Ngươi đang nhìn người của ta bay đi»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hồng Yên cắn môi tới bật máu. Hạc Ngôn đứng lặng, nhưng lưng hắn thẳng như cây kiếm.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            }
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Hồng Yên bật cười điên dại, cả bãi hoang lạnh người. Cô phải nắm tay Hạc Ngôn để giữ bình tĩnh.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        }
+      ],
+      "ctx": "Bãi hoang, ngay sau đó. Các thiên tài tháo nón lụa rồi phi thăng ngay trước mặt Hồng Yên.",
+      "no": 45
+    },
+    {
+      "id": "u46",
+      "scene": "rhill",
+      "place": "Bãi hoang và Thiên Ma Tông · Một tuần",
+      "kind": "chon",
+      "title": "Hồng Yên ngã xuống và hậu quả",
+      "text": "Hồng Yên mất bình tĩnh, gục dưới thiên kiếp, lời cuối với Dạ Hành: «sớm biết nên chém ngươi ở sơn động». Dạ Hành sống sót. Một tuần sau, Cát Tử Dung tỉnh lại khỏi bí pháp khống chế, mất chức chưởng môn và Lưu Nguyệt Môn tan rã. Vân Hải đặt người khác làm thiếu tông chủ; Dạ Hành nhốt mình trong phòng rồi xuống núi tự chuộc lỗi. Cô phải chọn gặp Dạ Hành một lần cuối hay không.",
+      "tieu": "Một người thua cuộc, một người tỉnh dậy trễ, một người xuống núi. Không ai trong số họ là đồng minh của ngươi, nhưng ai cũng đang chịu phần của họ.",
+      "cast": "u_mach,u_hanh,u_dung,u_hai,tc",
+      "ch": [
+        {
+          "t": "Gặp Dạ Hành một lần cuối, nói rõ những gì cô biết",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe hết, không cãi. Khi cô quay đi, hắn khẽ nói «cô cô» lần đầu, giọng nhỏ như gió.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "gap_da_hanh"
+          },
+          "b": 0.46717333333333333,
+          "bad": {
+            "x": "Hắn không chịu mở cửa, cô đứng ngoài cửa nói một lúc rồi bỏ đi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Không gặp, nhờ Vân Hải gửi một lời nhắn ngắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lời nhắn đến tay hắn kèm một ly trà. Hắn nhận, uống cạn, rồi lẳng lặng xuống núi.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "khong_gap"
+          },
+          "b": 0.5548933333333335,
+          "bad": {
+            "x": "Lời nhắn bị chuyển sai chữ, Dạ Hành hiểu ngược ý. Vân Hải phải sửa.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.51
+        },
+        {
+          "t": "Cho Hạc Ngôn đi thay, vì hắn hiểu cảm giác hối hận hơn ai hết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hạc Ngôn đi một mình, về sau không kể gì. Nhưng Dạ Hành xuống núi trong yên lặng.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 2
+            },
+            "f": "han_di_thay"
+          },
+          "b": 0.4379333333333333,
+          "bad": {
+            "x": "Hạc Ngôn đi rồi về ngay, mặt tối sầm, không nói lời nào. Cô không hỏi.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -3
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Bãi hoang và Thiên Ma Tông, ngay sau đó và một tuần sau. Hồng Yên gục dưới thiên kiếp; Lưu Nguyệt Môn tan rã.",
+      "no": 46
+    },
+    {
+      "id": "u47",
+      "scene": "vlou",
+      "place": "Trà lâu và vườn · Vài ngày sau",
+      "kind": "nan",
+      "title": "Cáo biệt và linh cảm của Hạc Ngôn",
+      "text": "Vài ngày sau, ở trà lâu rồi vườn, cô báo ba vị huynh trưởng sắp rời đi; họ ăn uống chia tay và tính chuyện phi thăng sau. Hạc Ngôn linh cảm cô sắp biến mất, hỏi «ngươi đi đâu, mang ta theo được không?»; cô đáp không biết nên không mang được. Hắn xin ở bên cô tới lúc cô đi; cô đồng ý. Cô phải chọn nói rõ đây không phải lỗi hắn hay không nói gì.",
+      "tieu": "Hắn sắp nghe điều hắn sợ nhất. Lời nào thì cũng đau, chỉ khác ở chỗ lời ấy có hứa gì không.",
+      "cast": "u_mach,u_ngon,u_hai,u_thanh,u_hao,tc",
+      "ch": [
+        {
+          "t": "Nói rõ: «Đây không phải lỗi ngươi. Dù ta đi hay ở, không ai phải chịu thay ai»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nghe xong lặng người, rồi thở ra một hơi rất dài. «Vậy ta sẽ ở bên ngươi tới lúc đó.»",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "noi_ro_47"
+          },
+          "b": 0.4635866666666666,
+          "bad": {
+            "x": "Cô nói lạc ý, hắn nghe thành lời từ biệt. Hắn quay mặt đi, vai run.",
+            "d": {
+              "ac": 0,
+              "hac": 3,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "han_so_47"
+          },
+          "_b": [
+            0,
+            3,
+            0,
+            -5
+          ],
+          "b0": 0.47
+        },
+        {
+          "t": "Không nói gì, chỉ rót cho hắn một ly trà",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cầm ly trà, uống chậm từng ngụm. Không ai nói, nhưng khoảng im lặng ấy không lạnh.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "im_lang_47"
+          },
+          "b": 0.49282666666666664,
+          "bad": {
+            "x": "Trà quá nóng, hắn bỏng môi mà không kêu. Cô vội đổi ly khác.",
+            "d": {
+              "ac": 0,
+              "hac": 3,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "han_so_47"
+          },
+          "_b": [
+            0,
+            3,
+            0,
+            -5
+          ],
+          "b0": 0.48
+        },
+        {
+          "t": "Nắm tay hắn một lần, khẽ nói: «Còn bao nhiêu ngày, ta ở đây bấy nhiêu»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bàn tay hắn run, rồi dần dần ấm. Hắn không buông, và cô cũng không rút ra.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            },
+            "f": "nam_tay_47"
+          },
+          "b": 0.4635866666666666,
+          "bad": {
+            "x": "Cô nắm không đúng lúc, hắn tưởng cô đang trấn an người sắp mất. Hắn siết tay chặt hơn.",
+            "d": {
+              "ac": 0,
+              "hac": 3,
+              "hao": 0,
+              "sinh": -5
+            },
+            "f": "han_so_47"
+          },
+          "_b": [
+            0,
+            3,
+            0,
+            -5
+          ],
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Trà lâu Thiên Ma Tông rồi linh thực viên, vài ngày sau. Hạc Ngôn linh cảm cô sắp rời đi.",
+      "forced": 1,
+      "no": 47
+    },
+    {
+      "id": "u48",
+      "scene": "rgreen",
+      "place": "Linh thực viên · Một buổi sáng",
+      "kind": "nan",
+      "title": "Lời kết",
+      "text": "Một buổi sáng ở linh thực viên, Tiểu Châu báo nhiệm vụ ở thế giới này đã xong. Hạc Ngôn nói điều hắn muốn giữ: ở bên cô tới phút cuối. Một người quen mang tới một lá thư của Lệ Dạ Hành, kể giấc mơ hai kiếp hắn thấy: cô bị phế rồi chết trong tay ma tu, Hạc Ngôn và Vân Hải cũng không còn. Cô đọc xong, gấp thư lại. Trong vườn, cây vẫn xanh, và bóng một người áo trắng vẫn đứng cách cô vài bước.",
+      "tieu": "Mọi thứ đã xong. Còn lại là quyết định cuối: ngươi đi hay ở, và hắn học được bao nhiêu.",
+      "cast": "u_mach,u_ngon,u_hanh,tc",
+      "ch": [
+        {
+          "t": "Gấp thư, đặt cạnh luống thuốc rồi nói: «Ta ở lại thêm một mùa nữa»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ngẩng lên, đôi mắt sáng như ngày đầu. «Một mùa cũng được.»",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            }
+          },
+          "b": 0.48,
+          "bad": {
+            "x": "Cô nói nhẹ quá, hắn không chắc mình nghe đúng. Cô phải nhắc lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.48
+        },
+        {
+          "t": "Nhìn hắn rất lâu rồi nói: «Ngươi tính toán gì cho ngày ta đi?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn lắc đầu. «Không tính nữa. Ta chỉ muốn ở đây.» Cô gật, như vừa nghe một lời hứa.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            }
+          },
+          "b": 0.50924,
+          "bad": {
+            "x": "Hắn ấp úng, nói về vài điều hắn đã chuẩn bị. Cô nhận ra hắn vẫn chưa buông hết.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.49
+        },
+        {
+          "t": "Rót ly trà cuối buổi sáng, đưa cho hắn: «Đừng giữ tay ta quá chặt»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhận ly trà bằng cả hai tay, rồi khẽ mỉm cười: «Ta sẽ học.»",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 0
+            }
+          },
+          "b": 0.45075999999999994,
+          "bad": {
+            "x": "Ly trà tràn nhẹ ra mu bàn tay hắn. Hắn không buông, nhưng tay hắn khẽ siết lại.",
+            "d": {
+              "ac": -1,
+              "hac": 1,
+              "hao": 0,
+              "sinh": -5
+            }
+          },
+          "b0": 0.47
+        }
+      ],
+      "ctx": "Linh thực viên Thiên Ma Tông, một buổi sáng. Nhiệm vụ ở thế giới này đã xong.",
+      "no": 48
+    }
+  ]
+}

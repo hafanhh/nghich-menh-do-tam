@@ -1,0 +1,3146 @@
+{
+  "id": "w7",
+  "no": 7,
+  "chapEnd": [
+    7,
+    15,
+    24,
+    31,
+    38
+  ],
+  "prog": [
+    {
+      "ac": 0,
+      "hac": 0,
+      "hao": 0
+    },
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": 0.01,
+  "p0": {
+    "mi": 55,
+    "tri": 60,
+    "van": 55
+  },
+  "params": {
+    "ac": 1,
+    "hac": 1.9,
+    "hao": 0.8,
+    "bad": 3,
+    "h0": 80,
+    "sn": 0.7
+  },
+  "names": {
+    "xtd": "Tô Tiểu Đường",
+    "xtl": "Diệp Tẫn Ly",
+    "xdi": "Tần Dịch",
+    "xmc": "Hoắc Minh Châu",
+    "xhh": "Vương hoàng hậu",
+    "xcd": "Chiêu Đế",
+    "xhd": "Hoắc Diễn",
+    "xn1": "Huyền Nhất",
+    "xn2": "Huyền Nhị",
+    "xl6": "Huyền Lục",
+    "xt7": "Huyền Thập Thất",
+    "xt8": "Huyền Thập Bát",
+    "xpm": "Phùng ma ma",
+    "xdd": "Thược Dược",
+    "xkl": "Khâu lão"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 7 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh là hình vẽ tạm bằng mã.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Mười năm ở đất cũ",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Diệp Tẫn Ly đã về không. Mười năm sau, ở đất cũ của Vu tộc, hắn không còn đau vào đêm trăng tròn, tóc đen dần trở lại, và hai người già đi như người thường. Cây trâm ngọc vẫn cài trên tóc cô, còn hắn vẫn xuống bếp nấu mì mỗi khi cô đòi.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "vdawn"
+    },
+    "near": {
+      "n": "Còn một lọn tóc bạc",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người ở lại đất cũ của Vu tộc, sống như người thường. Hắn không còn dùng vu thuật, nhưng thỉnh thoảng đêm trăng tròn vẫn giật mình tỉnh dậy, và một lọn tóc bạc không bao giờ đen lại. Cô ngồi bên cạnh, hát cho hắn nghe cho đến khi hắn ngủ.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "vdawn"
+    },
+    "half": {
+      "n": "Hai người, một mái hiên",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hắn rời triều đình và đi cùng cô, nhưng lòng hắn vẫn chưa buông thù. Mỗi đêm trăng tròn hắn vẫn đau, và cô vẫn ngồi canh ngoài cửa như ngày đầu. Cây trâm vẫn cài trên tóc cô; mì thì hắn vẫn nấu, dù không nói một câu nào.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "vstudy"
+    },
+    "black": {
+      "n": "Mưa lửa không dứt",
+      "c": "Hắc hóa chạm 100. Phẫn Thiên Trận không dừng ở hoàng cung mà lan ra cả kinh thành. Diệp Tẫn Ly không còn nghe thấy ai gọi tên mình. Tiểu Châu kéo cô đi trước khi cổng thành khép lại sau lưng.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "vfire"
+    },
+    "bdead": {
+      "n": "Cây trâm nằm lại",
+      "c": "Sinh mệnh của Diệp Tẫn Ly về 0. Giữa tro tàn hoàng cung, cây trâm ngọc nằm trên nền đá, không còn ai cài lại. Cô giữ nó trong tay rất lâu, trước khi Tiểu Châu khẽ gọi cô về.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "vfire"
+    },
+    "dead": {
+      "n": "Đóa hoa cuối cùng",
+      "c": "Sinh mệnh cạn kiệt. Trận hộ tâm trên lưng cô sáng lên lần cuối rồi tắt. Tiểu Châu kéo linh hồn cô đi, khi ở đâu đó Quốc sư vẫn đứng trước hoàng cung đã cháy, tay nắm một cây trâm ngọc.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "vfire"
+    }
+  },
+  "events": [
+    {
+      "id": "x01",
+      "scene": "vfarm",
+      "place": "Chuồng lợn ngoại thành Nam Chiêu · Sáng sớm",
+      "kind": "chon",
+      "title": "Đói giữa chuồng lợn",
+      "text": "Tiểu Đường tỉnh dậy giữa đống rơm trong một chuồng lợn bỏ hoang, bụng réo đến choáng váng. Cô mười tám tuổi, từ Bắc Lương chạy hạn đến Nam Chiêu; cha mẹ cô bị sơn tặc giết trên đường, chỉ còn cô sống sót. Tiểu Châu giải thích: thân thể này là «thùng cơm», ăn gấp ba người thường, không có gì lót dạ thì chưa đi nổi nửa dặm. Ngoài ruộng, một nhà nông đang cuống quýt vì người vợ bụng to sắp lâm bồn. Xa xa, tường kinh thành hiện lên mờ mờ: người ta nói Nam Chiêu giàu có nhờ một vị Quốc sư.",
+      "tieu": "Zzz... chào ngươi... ta là Tiểu Châu. Việc đầu tiên của ngươi là ăn đã. Đừng nhìn ta, ta cũng chẳng có gì cho ngươi ăn đâu...",
+      "cast": "xtd,tc",
+      "ch": [
+        {
+          "t": "Nhìn bụng bà ta, đoán chiều nay sẽ sinh, đổi lấy hai củ khoai",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đếm nhịp thở của người vợ, nói chắc chiều nay sẽ sinh. Chiều đến, đứa bé quả nhiên cất tiếng khóc; nhà nông ra tạ ơn bằng hai củ khoai nướng nóng hổi. Cô ăn hết rồi hỏi đường vào kinh.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô đoán lệch cả buổi, nhà nông nghi ngờ rồi xua cô đi. Cô phải nhịn đến tối mới bẻ được vài củ khoai ngoài ruộng.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Phụ nhà nông nhóm lửa nấu nước, xin một bữa ăn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nhóm lửa nhanh nhẹn, nói chuyện ngọt ngào. Nhà nông thương tình chia cho cô một bát cháo đặc.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Lửa ẩm không cháy, cô làm nhà nông sốt ruột. Cô bị đuổi ra với nửa bát cháo loãng.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Đi thẳng vào kinh, kiếm ăn dọc đường",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dọc đường cô nhặt được một túi bánh bao đổ ven chợ, không ai nhận. Cô ăn đến no.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô đi nhanh quá, cơn đói quật cô ngã giữa đường. Mãi sau mới có người cho nước.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng sớm, ngoại thành Nam Chiêu. Tô Tiểu Đường, 18 tuổi, mồ côi chạy hạn từ Bắc Lương, tỉnh dậy trong chuồng lợn bỏ hoang với cái bụng «thùng cơm».",
+      "no": 1
+    },
+    {
+      "id": "x02",
+      "scene": "vstreet",
+      "place": "Phố chính kinh thành Nam Chiêu · Giữa trưa",
+      "kind": "duyen",
+      "title": "Kiệu trắng tám người khiêng",
+      "text": "Vào đến kinh thành thì phố xá bỗng im bặt. Một bà bán trống bỏi kéo tay cô quỳ xuống bên đường: kiệu Quốc sư đi qua, phải cúi đầu, tuyệt đối không được nhìn. Tiểu Châu thì thào bảo cứ nhìn một cái, nó cho mượn giác quan sắc gấp bội. Qua tấm rèm trắng, cô thấy một người đàn ông áo trắng đang nhắm mắt, rồi đôi mắt ấy mở ra, nhìn thẳng về phía cô. Tiểu Châu bật dậy: đây chính là mục tiêu, Quốc sư Diệp Tẫn Ly, Ác niệm 100. Kiệu đi xa; một gã say bên đường buông lời bẩn thỉu về Quốc sư, ngã gục ngay giữa phố vì cổ độc.",
+      "tieu": "Là hắn! Diệp Tẫn Ly, Quốc sư của Nam Chiêu, Ác niệm 100! ... Ngươi thấy gã say kia chưa? Đừng bao giờ nói bậy về hắn nơi đông người.",
+      "cast": "xtd,xtl,tc",
+      "ch": [
+        {
+          "t": "Quỳ theo bà bán trống bỏi, chỉ liếc qua khe rèm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô liếc đúng lúc gió thổi tung một góc rèm. Người trong kiệu nhìn cô thêm một khắc rồi buông rèm xuống.",
+            "d": {
+              "hao": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô liếc đúng lúc lính hộ vệ quay lại, bị quát một tiếng. Cô cúi đầu thật thấp cho qua chuyện.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nhìn thẳng vào rèm trắng, không tránh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nhìn thẳng. Ánh mắt hai người chạm nhau thật ngắn, rồi hắn khẽ nghiêng đầu như tò mò điều gì.",
+            "d": {
+              "hao": 2,
+              "ac": -1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Một tên lính hộ vệ nhận ra cô nhìn quá lâu và quát cô cúi xuống. Cô ngã dúi dụi.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Dùng giác quan mượn từ Tiểu Châu để nhìn cả đoàn kiệu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô thấy trong đoàn có tám người khiêng, bốn lính hộ vệ, ai cũng cầm vật nhỏ trấn cổ. Cô hiểu người này đáng sợ đến mức nào.",
+            "d": {
+              "sinh": 1,
+              "hao": 1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Giác quan sắc quá làm đầu cô ong ong, cô loạng choạng.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Giữa trưa, phố chính kinh thành Nam Chiêu. Tiểu Đường vừa vào kinh thì gặp kiệu trắng của Quốc sư đi qua; dân chúng phải quỳ cúi đầu, không được nhìn.",
+      "no": 2
+    },
+    {
+      "id": "x03",
+      "scene": "vstreet",
+      "place": "Quán nước ven phố · Cùng chiều",
+      "kind": "chon",
+      "title": "Quốc sư ba trăm năm",
+      "text": "Ngồi trong quán nước, Tiểu Châu kể tiếp. Diệp Tẫn Ly đã phò mười đời vua Nam Chiêu, từng lập huyết thệ không bao giờ đoạt ngôi. Hắn lập Huyền Vu Các, thu mười tám đệ tử giỏi vu thuật và cổ thuật, ai cũng sợ hắn. Ba năm nữa, Các sẽ tuyển «cổ người»: những người tự nguyện nhận thử cổ cho các đệ tử luyện tay, trả công một trăm lượng, được chăm sóc cẩn thận. Đó là cách duy nhất để một kẻ ăn mày đến gần được hắn. Vấn đề là cô cần sống tròn ba năm đã.",
+      "tieu": "Ba năm không dài đâu. Nhưng ngươi ăn gấp ba người thường, nên tính trước cách kiếm cơm đi...",
+      "cast": "xtd,tc",
+      "ch": [
+        {
+          "t": "Hỏi kỹ cổ người phải làm gì, chịu những gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu giải thích rõ: cổ nhẹ thôi, có đệ tử trông chừng và không ai chết. Cô thở ra, lòng yên hơn.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "hieu_co"
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Tiểu Châu ngủ gật giữa câu. Cô chỉ nhớ có một trăm lượng, còn lại mơ hồ.",
+            "d": {}
+          }
+        },
+        {
+          "t": "Hỏi cách kiếm sống ba năm này",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu chỉ một nhạc lâu ngoài chợ đang cần người chơi nhạc sau rèm, ăn ở đủ đầy. Cô ghi nhớ địa chỉ.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiểu Châu chỉ kịp nói tên một chỗ rồi lịm đi. Cô phải tự dò đường cả buổi chiều.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Hứa sẽ kiên nhẫn, không vội",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cười, nói ba năm sẽ trôi nhanh. Tiểu Châu yên tâm hẳn, dặn thêm vài điều cần tránh ở kinh thành.",
+            "d": {
+              "sinh": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô hứa quá dễ nên Tiểu Châu không dặn gì thêm.",
+            "d": {}
+          }
+        }
+      ],
+      "ctx": "Chiều hôm đó, quán nước ven phố. Tiểu Châu báo: Quốc sư Diệp Tẫn Ly phò mười đời vua, lập Huyền Vu Các; ba năm nữa Các sẽ tuyển «cổ người» tự nguyện, trả công một trăm lượng.",
+      "no": 3
+    },
+    {
+      "id": "x04",
+      "scene": "vlou",
+      "place": "Nhạc lâu Thính Vũ · Hôm sau",
+      "kind": "chon",
+      "title": "Khế ước ở nhạc lâu Thính Vũ",
+      "text": "Nhạc lâu Thính Vũ là nơi các nhạc sư chơi đàn sau rèm cho khách thưởng thức, nổi tiếng khắp phố. Phùng ma ma, bà chủ nhạc lâu, đang cần một nhạc sư tỳ bà mới. Cô xin ký khế ba năm: chơi tỳ bà sau rèm với nghệ danh Tường Vi, không tiếp khách, không lộ mặt, được ăn no mỗi bữa; đổi lại, cô phải kiếm đủ năm trăm lượng để chuộc khế. Phùng ma ma nhìn cô từ đầu đến chân, rồi nhìn bụng cô, thở dài hỏi: «Ngươi ăn thế nào mà khế còn sống nổi?»",
+      "tieu": "Nhớ nhé, đây là chỗ ngươi sống ba năm. Học đàn cho đàng hoàng, đừng chỉ nhớ đến ăn.",
+      "cast": "xtd,xpm,tc",
+      "ch": [
+        {
+          "t": "Thương lượng từng điều khoản, ghi rõ bằng văn bản",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đọc kỹ từng điều khoản, đòi thêm quyền tự do sau giờ biểu diễn. Phùng ma ma gật gù, thấy cô đáng giá hơn vẻ ngoài.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô đòi quá nhiều, Phùng ma ma cau mày rút bớt một điều. Cô vẫn ký.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Gảy thử một khúc để Phùng ma ma tin tay đàn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiếng tỳ bà của cô lẫn chút gió Bắc Lương, lạ tai mà dễ chịu. Phùng ma ma nghe xong, tự đưa thêm hai chiếc bánh bao.",
+            "d": {
+              "sinh": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tay đàn của cô còn ngượng, Phùng ma ma lắc đầu, hẹn cô tập thêm một tháng rồi mới được ra rèm.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Ký ngay không đòi hỏi, sợ mất chỗ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Phùng ma ma ngạc nhiên rồi vui lòng, xếp cho cô phòng riêng ở tầng ba.",
+            "d": {
+              "sinh": 2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô ký vội, đến lúc đọc lại mới thấy có điều khoản bất lợi. Cô đành chịu.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Đàn tỳ bà",
+        "s": "mi",
+        "v": 2
+      },
+      "ctx": "Hôm sau, nhạc lâu Thính Vũ. Tiểu Đường cần ba năm chờ đến ngày tuyển cổ người nên xin Phùng ma ma, bà chủ nhạc lâu, cho làm nhạc sư tỳ bà sau rèm.",
+      "no": 4
+    },
+    {
+      "id": "x05",
+      "scene": "vlou",
+      "place": "Nhạc lâu Thính Vũ · Gần ba năm sau",
+      "kind": "chon",
+      "title": "Vị khách họ Tần",
+      "text": "Gần ba năm trôi qua, nghệ danh Tường Vi nổi khắp kinh thành, cô đã dành dụm được gần đủ năm trăm lượng. Trong lúc đó, có một vị khách họ Tần hào phóng, tuần nào cũng đặt riêng cô gảy đàn, nhưng chỉ ngồi nghe và hỏi chuyện. Tiểu Châu nhận ra hắn: Tần Dịch, Thất hoàng tử nước Đông Hạ cải trang, được gọi là «người được trời chọn», sau này sẽ nuốt cả Nam Chiêu. Ở số phận cũ của thân thể này, cô mê hắn, làm tai mắt cho hắn rồi chết dưới cổ độc của Quốc sư. Hắn nhìn cô, ngỏ lời mời cô «giúp hắn một việc».",
+      "tieu": "Hắn chính là kẻ sẽ khiến Quốc sư chết dưới vạn mũi tên, ở kết cục gốc. Đừng cho hắn cơ hội dắt ngươi đi...",
+      "cast": "xtd,xdi,xpm,tc",
+      "ch": [
+        {
+          "t": "Từ chối khéo: tôi chỉ giỏi đàn, không giỏi việc khác",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô trả lời bằng nụ cười lịch sự, không cho hắn mở lời lần hai. Hắn chỉ gật đầu, vẫn đặt cô vào tuần sau, như chưa từng bị từ chối.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "tan_kinh"
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Hắn hơi nhíu mày, nhìn cô lâu hơn mọi lần. Cô thấy lạnh sống lưng.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "tan_nghi"
+          }
+        },
+        {
+          "t": "Nhận quà nhưng không nhận lời, cười cho qua",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn thích cách cô khéo léo, bật cười rồi thôi. Cô giữ được cả quà lẫn khoảng cách.",
+            "d": {
+              "sinh": 2
+            },
+            "f": "tan_kinh"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn tưởng cô đang thả câu, đặt cô thường xuyên hơn. Cô càng khó tránh.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "tan_nghi"
+          }
+        },
+        {
+          "t": "Nhờ Phùng ma ma lấy cớ khế ước không cho tiếp riêng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Phùng ma ma đứng ra, nói khế không cho tiếp riêng. Tần Dịch ngạc nhiên rồi đành thôi.",
+            "d": {
+              "sinh": 1
+            },
+            "f": "tan_kinh"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Phùng ma ma lỡ lời, vô tình để lộ rằng cô rất cần tiền. Hắn mỉm cười ý nhị.",
+            "d": {
+              "sinh": -1
+            },
+            "f": "tan_nghi"
+          }
+        }
+      ],
+      "ctx": "Gần ba năm sau, nhạc lâu Thính Vũ. Nghệ danh Tường Vi của Tiểu Đường nổi tiếng kinh thành; một vị khách họ Tần, thật ra là Thất hoàng tử Đông Hạ Tần Dịch cải trang, ngỏ lời mời cô làm việc cho hắn.",
+      "no": 5
+    },
+    {
+      "id": "x06",
+      "scene": "vlou",
+      "place": "Cửa sổ lầu hai nhạc lâu Thính Vũ · Cuối ba năm",
+      "kind": "hiem",
+      "title": "Cú đẩy từ lầu hai",
+      "text": "Đủ ba năm, đủ năm trăm lượng. Thược Dược, cô đào cùng lầu, từ lâu đã ghen vì Tần Dịch chỉ để ý mỗi Tường Vi. Hôm ấy, Thược Dược vui vẻ rủ cô ra cửa sổ xem kiệu Quốc sư đi qua, rồi nhân lúc cô nghiêng người ra ngoài, đẩy mạnh một cái. Cô rơi từ lầu hai xuống đúng lúc kiệu trắng đang ngang cửa.",
+      "tieu": "Ngươi ngã đấy! Mau làm gì đi! Kiệu hắn ngay bên dưới... Ta đang chuẩn bị đỡ rồi nhưng ta mệt lắm...",
+      "cast": "xtd,xdd,xtl,tc",
+      "ch": [
+        {
+          "t": "Xoay người trên không, tìm hướng rơi xuống chỗ mềm nhất",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô tính hướng gió, xoay người đúng lúc. Một luồng gió lạ đỡ cô lơ lửng ngay trước kiệu trắng. Người trong kiệu cứu cô mà không hề vén rèm.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "sinh": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô tính sai hướng và va vào mái hiên trước khi gió kịp đỡ. Người trong kiệu vẫn cứu cô, không vén rèm.",
+            "d": {
+              "hao": 1,
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Níu vào mái hiên rồi buông tay đúng chỗ kiệu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô níu được mái hiên, buông tay đúng lúc. Luồng gió đỡ cô nhẹ như bông ngay trước kiệu trắng.",
+            "d": {
+              "hao": 3,
+              "ac": -1,
+              "sinh": -3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Mái hiên gãy giữa chừng. Gió đỡ cô, nhưng cô xây xát cả hai tay.",
+            "d": {
+              "hao": 1,
+              "sinh": -9
+            }
+          }
+        },
+        {
+          "t": "Gọi thật to «Quốc sư cứu mạng»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiếng gọi vang khắp phố. Kiệu trắng khẽ dừng, một luồng gió đỡ cô xuống. Lần đầu có người dám gọi Quốc sư như thế.",
+            "d": {
+              "hao": 4,
+              "ac": -2,
+              "sinh": -2
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Phố xá sững lại vì cô dám gọi tên Quốc sư. Gió vẫn đỡ cô, nhưng dân chúng nhìn cô đầy sợ hãi.",
+            "d": {
+              "hao": 1,
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối ba năm, cửa sổ lầu hai nhạc lâu Thính Vũ. Tiểu Đường đã đủ năm trăm lượng chuộc khế; Thược Dược, cô đào ghen tị vì Tần Dịch chỉ để ý cô, rủ cô ra cửa sổ xem kiệu Quốc sư rồi đẩy xuống.",
+      "no": 6
+    },
+    {
+      "id": "x07",
+      "scene": "vgate",
+      "place": "Cổng Huyền Vu Các · Sáng hôm tuyển cổ người",
+      "kind": "chon",
+      "title": "Bố cáo tuyển cổ người",
+      "text": "Cô chuộc khế, rời nhạc lâu. Bố cáo dán khắp phố: Huyền Vu Các tuyển cổ người, đủ hai mươi lăm người là thôi. Cô bôi bùn lên mặt, mặc áo ăn mày, giả trai để tránh bị nhận ra. Khi cô đến nơi thì cổng đã đóng, hai mươi lăm người vừa được xếp lên xe. Cô chạy theo, xin được nhận. Huyền Nhị, đệ tử thứ hai của Quốc sư, nhìn «thằng nhóc» không đòi tiền trước, không sợ cổ, bật cười và đồng ý.",
+      "tieu": "Ngươi làm được rồi! Đừng cười lộ ra. Từ đây trở đi, nhìn thấy gì cũng đừng nói vội.",
+      "cast": "xtd,xn2,tc",
+      "ch": [
+        {
+          "t": "Chạy theo xe, nói thẳng: không đòi tiền trước, không sợ chết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Huyền Nhị thích thú: tên nhóc này lạ thật. Hắn kéo cô lên xe làm người thứ hai mươi sáu.",
+            "d": {
+              "sinh": 2,
+              "hao": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nói quá thẳng, Huyền Nhị nhăn mặt. Hắn nhận cô nhưng ghi nhớ giọng điệu này.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Giả giọng nhóc ăn mày, vừa chạy vừa kể khổ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô kể bi thảm đến nỗi hai tên lính cũng cười. Huyền Nhị bật cười, đồng ý cho cô lên xe.",
+            "d": {
+              "sinh": 2,
+              "hao": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô diễn quá, Huyền Nhị nghi ngờ nhìn kỹ mặt. Cô vội cúi xuống.",
+            "d": {
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Bám vào bánh xe cho đến khi xe dừng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô bám bánh xe suốt đoạn đường. Xe dừng, Huyền Nhị thấy cô mệt lử mà vẫn cười, liền nhận.",
+            "d": {
+              "sinh": 1,
+              "hao": 1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Bánh xe kẹp tay cô. Huyền Nhị thương tình nhận, nhưng cô sẽ đau tay mấy ngày.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm tuyển cổ người, cổng Huyền Vu Các. Tiểu Đường đã chuộc khế, giả trai ăn mày để xin làm người thứ hai mươi sáu; Huyền Nhị, đệ tử thứ hai của Quốc sư, là người quyết định.",
+      "no": 7
+    },
+    {
+      "id": "x08",
+      "scene": "vhall",
+      "place": "Chính điện Huyền Vu Các · Ngày đầu",
+      "kind": "hiem",
+      "title": "Cổ trùng giữa trán",
+      "text": "Trong Huyền Vu Các, cô lần lượt gặp các đệ tử: Huyền Nhất, đại đệ tử, tôn Quốc sư như thần; Huyền Lục, đệ tử giỏi nhất; Huyền Thập Thất, miệng độc, hay bắt nạt người mới; và Huyền Thập Bát, nhỏ nhất, hiền lành. Quốc sư trở về, nhận ra cô gái rơi lầu hôm nọ. Cô quỳ xuống xin làm cổ người riêng của hắn. Hắn búng nhẹ một con cổ trùng vào giữa trán cô. Tiểu Châu thì thào: nó có thể che bớt cơn đau, nhưng che nhiều thì sẽ hỏng mắt và tai của cô sau này. Hắn giữ cô ngủ ở gian ngoài chính điện.",
+      "tieu": "Đau lắm đúng không? Ta che giúp được một chút... nhưng nghe cho kỹ: càng che nhiều, về sau mắt tai ngươi càng phải trả giá. Ngươi tự chọn đi.",
+      "cast": "xtd,xtl,xn1,xl6,xt7,xt8,tc",
+      "ch": [
+        {
+          "t": "Để Tiểu Châu che bớt cơn đau",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cơn đau dịu đi trông thấy. Cô đứng thẳng, nhìn hắn bình tĩnh. Hắn thoáng ngạc nhiên rồi không nói gì.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "co": 8
+            },
+            "f": "che_dau"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cơn đau nhẹ đi nhưng đầu cô choáng váng, cô lảo đảo một bước. Hắn thấy cả, lặng lẽ quay đi.",
+            "d": {
+              "hao": 1,
+              "co": 10,
+              "sinh": -3
+            },
+            "f": "che_dau"
+          }
+        },
+        {
+          "t": "Tự chịu đau, nhìn thẳng vào mắt hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cắn răng, mắt không chớp. Hắn nhìn cô lâu hơn người thường, rồi khẽ gật đầu: lần đầu có người không khóc.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "co": 14,
+              "sinh": -5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cô gục xuống, mồ hôi lạnh ướt cả lưng. Hắn đứng nhìn, không nói gì, nhưng cho người mang chăn tới.",
+            "d": {
+              "hao": 1,
+              "co": 16,
+              "sinh": -9
+            }
+          }
+        },
+        {
+          "t": "Xin hắn cho biết con cổ này làm gì trước khi búng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn khựng lại. Cả điện im phăng phắc. Hắn đáp ngắn gọn: «Làm đau.» Rồi hắn búng. Cô biết trước nên chịu được dễ hơn.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "co": 9,
+              "sinh": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Huyền Nhất quát: «Người thử cổ không có quyền hỏi!» Hắn vẫn búng, cô chịu đau mà tai còn nghe tiếng quát.",
+            "d": {
+              "hao": 0,
+              "co": 12,
+              "sinh": -6,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày đầu ở Huyền Vu Các. Tiểu Đường được nhận làm cổ người thứ 26, gặp bốn đệ tử đầu tiên; Quốc sư nhận ra cô gái rơi lầu và búng cổ trùng vào giữa trán cô.",
+      "no": 8
+    },
+    {
+      "id": "x09",
+      "scene": "vhall",
+      "place": "Gian ngoài chính điện · Những ngày sau",
+      "kind": "duyen",
+      "title": "Trà nguội ngoài điện",
+      "text": "Ngày nào cô cũng dâng trà và bánh vào điện, ngày nào hắn cũng không động tới; trà nguội, bánh khô lại. Huyền Thập Thất sai cô đủ việc, cãi lại thì bị thả cổ nhỏ lên người. Huyền Thập Bát thương cô, lén dạy cô cách nhận biết con cổ nhỏ và nuôi một con để tự vệ. Tiểu Châu nhắc: những người che đau quá nhiều sẽ trả giá về sau, đừng quên. Thập Thất còn cười nhạo cô: ăn khỏe như thế, trèo tường bếp lấy đồ thừa chắc nhanh lắm.",
+      "tieu": "Ngươi không cần nịnh hắn đâu. Hắn chưa ăn bánh nào của ngươi, nhưng hắn thấy hết. Giữ sức đi.",
+      "cast": "xtd,xt7,xt8,tc",
+      "ch": [
+        {
+          "t": "Học Thập Bát nuôi một con cổ nhỏ để tự vệ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thập Bát dạy cô cách giữ cổ bằng hơi ấm tay, cho ăn đúng giờ. Từ nay cô nhận biết cổ lạ rất nhanh.",
+            "d": {
+              "sinh": 2,
+              "co": -4
+            },
+            "f": "co_nho"
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Con cổ nhỏ chết sau hai ngày vì cô quên cho ăn. Thập Bát an ủi, hứa dạy lại.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Mặc kệ Thập Thất, cứ làm tròn việc dâng trà",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô không đáp lại lời châm chọc nào. Dần dần Thập Thất thấy chán, bớt sai cô.",
+            "d": {
+              "sinh": 2,
+              "hao": 1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thập Thất càng bực vì bị phớt lờ, thả thêm cổ nhỏ lên người cô.",
+            "d": {
+              "sinh": -4,
+              "co": 5
+            }
+          }
+        },
+        {
+          "t": "Mỗi ngày đổi món bánh khác, quan sát xem hắn thích gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bánh hạt dẻ để nguyên, bánh đậu xanh thiếu một góc. Cô mỉm cười: hắn thích ngọt thanh.",
+            "d": {
+              "sinh": 1,
+              "hao": 2,
+              "ac": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cả ba món bánh đều nguội khô. Cô hơi nản.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Nuôi cổ",
+        "s": "tri",
+        "v": 2
+      },
+      "ctx": "Những ngày sau ở Huyền Vu Các. Tiểu Đường làm cổ người riêng của Quốc sư, ngày nào cũng dâng trà bánh mà hắn không động tới; Huyền Thập Thất hay bắt nạt, Huyền Thập Bát thì hiền.",
+      "no": 9
+    },
+    {
+      "id": "x10",
+      "scene": "vhall",
+      "place": "Ngoài cửa điện chính · Đêm trăng tròn đầu tiên",
+      "kind": "chon",
+      "title": "Đêm trăng tròn đầu tiên",
+      "text": "Nửa đêm, trong điện vọng ra tiếng thở đau đớn nặng nhọc. Tiểu Châu giải thích: đó là bệnh cũ của hắn, không chết được. Cô nằm ngay ngoài cửa điện, nghe rõ từng nhịp thở của người bên trong. Cô có thể xông vào hỏi han, có thể bỏ đi, hoặc cứ ở nguyên đó. Các đệ tử đều biết đêm trăng tròn không ai được lại gần chính điện.",
+      "tieu": "Đêm trăng tròn hắn đau lắm. Chưa ai dám tới gần. Ngươi chọn đi, nhưng nhớ hắn không thích bị nhìn thấy khi yếu đuối.",
+      "cast": "xtd,xtl,tc",
+      "ch": [
+        {
+          "t": "Ngồi yên ngoài cửa, không hỏi han, không xông vào",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ngồi yên suốt đêm, không nói một lời. Sáng ra hắn mở cửa, nhìn cô lâu hơn mọi lần và ăn chiếc bánh cô để sẵn.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô ngủ gật giữa đêm. Hắn bước qua người cô mà không đánh thức. Cô tỉnh dậy với cái áo khoác vắt ngang người, không biết của ai.",
+            "d": {
+              "hao": 2,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Khẽ hát một khúc tỳ bà không lời cho hắn nghe",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô gảy nhẹ dây tỳ bà đã cất trong bọc. Tiếng thở bên trong chậm lại. Sáng ra hắn không hỏi một câu nào, chỉ ăn bánh cô làm.",
+            "d": {
+              "hao": 6,
+              "ac": -3,
+              "hac": -2
+            },
+            "f": "dan_dem"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Tiếng đàn làm hắn đau hơn. Có tiếng đồ vật vỡ trong điện; cô vội dừng tay.",
+            "d": {
+              "hao": -2,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Rời khỏi cửa điện, về chỗ ngủ như mọi đệ tử",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lùi ra xa, tôn trọng không gian của hắn. Sáng ra hắn gật đầu như xác nhận điều gì đó.",
+            "d": {
+              "hao": 3,
+              "ac": -1
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Cô về chỗ ngủ nhưng không ngủ được. Sáng ra cô mệt rã rời.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm trăng tròn đầu tiên ở Huyền Vu Các. Tiểu Đường ngủ ngoài cửa điện chính; Tiểu Châu bảo bệnh cũ của Quốc sư tái phát vào đêm trăng tròn, không chết được nhưng rất đau.",
+      "no": 10
+    },
+    {
+      "id": "x11",
+      "scene": "vyard",
+      "place": "Sân Huyền Vu Các · Tháng thứ ba",
+      "kind": "chon",
+      "title": "Đại hội khảo giáo",
+      "text": "Tháng thứ ba ở Các, Quốc sư mở đại hội khảo giáo: các đệ tử thi cổ và thi thuật gọi mưa. Hắn gọi cô bước ra, ôm cô vào lòng một khắc để mượn máu vẽ bùa, vẽ Tụ Linh trận quanh người cô. Mây đen tụ lại, sấm nổ, mưa đổ xuống đúng ngay đầu cô, không rơi giọt nào ra ngoài. Huyền Thập Thất chỉ gọi được mưa phùn, bị cô chê thẳng mặt. Hắn sai mua cho cô một chiếc váy trắng. Cả Các sững sờ vì Quốc sư vốn không cho ai chạm vào.",
+      "tieu": "Hắn vừa ôm ngươi trước mặt cả Các đấy. Học lấy cách vẽ bùa trong trận này, sau này dùng được.",
+      "cast": "xtd,xtl,xt7,xl6,tc",
+      "ch": [
+        {
+          "t": "Đứng yên trong trận, quan sát nét bút hắn vẽ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi nhớ từng nét vẽ, từng chỗ ngắt tay. Mưa rơi đúng đầu mà cô không chớp mắt.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Mưa rơi quá nặng, cô mất tập trung và bỏ lỡ nét giữa. Hắn khẽ liếc cô.",
+            "d": {
+              "hao": 2,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Chê Thập Thất gọi mưa phùn một cách vô tư",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả sân bật cười, Thập Thất đỏ mặt. Quốc sư khẽ nhếch môi, lần đầu cô thấy hắn gần như cười.",
+            "d": {
+              "hao": 5,
+              "ac": -2,
+              "hac": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thập Thất tức giận ra mặt, thề không tha cô. Quốc sư không nói gì nhưng cô cảm thấy mình lỡ lời.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Nhận váy trắng, cúi đầu cảm ơn, không nói thừa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhận váy bằng hai tay, cúi đầu thật thấp. Hắn gật nhẹ như đã đoán trước.",
+            "d": {
+              "hao": 4,
+              "ac": -2
+            }
+          },
+          "b": 0.6,
+          "bad": {
+            "x": "Váy hơi rộng, cô vấp vạt áo ngay giữa sân. Cả Các nín cười.",
+            "d": {
+              "hao": 1,
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Vẽ bùa",
+        "s": "tri",
+        "v": 2
+      },
+      "ctx": "Tháng thứ ba ở Huyền Vu Các. Quốc sư mở đại hội khảo giáo các đệ tử; hắn dùng Tiểu Đường làm điểm tựa vẽ Tụ Linh trận rồi gọi mưa xuống đúng đầu cô, trước cả Các.",
+      "no": 11
+    },
+    {
+      "id": "x12",
+      "scene": "vpalace",
+      "place": "Hoàng cung Nam Chiêu · Ngoài tẩm cung vua",
+      "kind": "chon",
+      "title": "Lấy mệnh tục mệnh",
+      "text": "Tháng sau, Quốc sư vào cung chữa bệnh cho vua Chiêu Đế và mang theo cô theo hầu. Trên đường, Hoắc Minh Châu, công chúa Nam Chiêu, say mê Quốc sư từ lâu, nhìn cô đầy ghen ghét. Ngoài tẩm cung, cô đứng nghe qua khe cửa: Quốc sư đề nghị lấy thọ của các hoàng tử, trong đó có Ngũ hoàng tử Hoắc Diễn, nối cho vua. Chiêu Đế gật đầu. Tiểu Châu run run: đây là cấm thuật, và ở số phận cũ, Quốc sư chết dưới vạn mũi tên của Tần Dịch.",
+      "tieu": "Ngươi vừa nghe một chuyện không nên nghe. Hắn không giết vua, hắn chỉ giúp vua tự rước họa. Hãy cẩn thận, ánh mắt công chúa kia không thân thiện đâu.",
+      "cast": "xtd,xtl,xcd,xmc,tc",
+      "ch": [
+        {
+          "t": "Lặng lẽ lùi ra, giả như chưa nghe gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô lùi ba bước, không phát ra tiếng động nào. Khi hắn bước ra, cô cúi đầu đúng chỗ như mọi khi.",
+            "d": {
+              "hao": 2,
+              "ac": -1,
+              "sinh": 1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô giẫm lên một cành khô. Hắn liếc về phía cô, cô vội cúi đầu giả vờ bận rộn.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -2
+            }
+          }
+        },
+        {
+          "t": "Quan sát công chúa Minh Châu để hiểu vì sao bà ta ghét mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhận ra ánh mắt bà ta không nhìn cô mà nhìn chiếc trâm trên tóc hắn. Hóa ra bà ta ghen vì tưởng cô được hắn ưu ái.",
+            "d": {
+              "hao": 2,
+              "ac": -1
+            },
+            "f": "hieu_minh_chau"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Công chúa bắt gặp cô nhìn mình. Bà ta nhướng mày, ghi nhớ vào lòng.",
+            "d": {
+              "hac": 1,
+              "sinh": -1
+            }
+          }
+        },
+        {
+          "t": "Bước lên dâng khăn lau tay cho hắn như một đệ tử mẫn cán",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhận khăn, hơi dừng tay một nhịp. Công chúa Minh Châu nghiến răng nhìn từ xa.",
+            "d": {
+              "hao": 3,
+              "ac": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Khăn rơi xuống đất. Công chúa cười lạnh: «Đồ vụng về.»",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Một tháng sau đại hội, hoàng cung Nam Chiêu. Tiểu Đường theo hầu Quốc sư vào cung chữa bệnh cho vua Chiêu Đế; công chúa Hoắc Minh Châu, người say mê Quốc sư, nhìn cô với ánh mắt ghen ghét.",
+      "no": 12
+    },
+    {
+      "id": "x13",
+      "scene": "vhall",
+      "place": "Chính điện Huyền Vu Các · Vài ngày sau",
+      "kind": "duyen",
+      "title": "Đệ tử thứ mười chín",
+      "text": "Vua khỏi bệnh, lễ tế thiên sắp đến. Để cô được đứng bên cạnh trong lễ, Quốc sư nhận cô làm đệ tử thứ mười chín, ban tên Huyền Thập Cửu; mỗi đời vua hắn chỉ nhận hai đệ tử, đây là lần phá lệ. Hắn cho cô ăn bao nhiêu tùy thích, gọi cô là «Đường Đường», dẫn cô xem kho riêng dưới đất và cài lên tóc cô một cây trâm ngọc. Huyền Nhất tức giận ra mặt. Huyền Lục, đệ tử giỏi nhất, được giao dạy cô vài chiêu roi lụa tự vệ, vì hắn không muốn thấy cô bị thương nữa.",
+      "tieu": "Đệ tử thứ mười chín! Ngươi hiểu không, hắn phá lệ vì ngươi. Cây trâm ấy đừng đánh mất, ta có cảm giác nó sẽ quan trọng.",
+      "cast": "xtd,xtl,xn1,xl6,tc",
+      "ch": [
+        {
+          "t": "Cúi đầu bái sư, nhận trâm bằng hai tay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đứng im nhìn cô cài trâm lên tóc, khóe mắt thoáng ấm. Huyền Nhất quay mặt đi.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -1
+            },
+            "f": "nhan_tram"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô run tay làm trâm rơi xuống đất, may mà không vỡ. Hắn nhặt lên, cài hộ cô.",
+            "d": {
+              "hao": 3,
+              "ac": -1
+            },
+            "f": "nhan_tram"
+          }
+        },
+        {
+          "t": "Chăm chỉ học roi lụa với Huyền Lục, không than mệt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Huyền Lục gật gù: thùng cơm này học nhanh thật. Cô quật được cành liễu đứt đôi sau nửa ngày.",
+            "d": {
+              "sinh": 2,
+              "hao": 2,
+              "ac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô quật nhầm vào chân mình, ngã nhào. Huyền Lục cố nhịn cười.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Xin ăn thêm một bữa trước khi bái sư",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn nhìn cô rất lâu rồi sai dọn thêm hai món. Cả Các nín thở nhìn Quốc sư phá lệ lần nữa.",
+            "d": {
+              "sinh": 4,
+              "hao": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Huyền Nhất quát cô vô lễ giữa nghi thức. Hắn không trách nhưng cô thấy mình hơi quá đà.",
+            "d": {
+              "sinh": -1,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Roi lụa",
+        "s": "tri",
+        "v": 2
+      },
+      "ctx": "Vài ngày sau khi vua khỏi bệnh, chính điện Huyền Vu Các. Quốc sư nhận Tiểu Đường làm đệ tử thứ mười chín để cô được đứng cạnh hắn trong lễ tế thiên; Huyền Nhất tức giận vì hắn phá lệ.",
+      "no": 13
+    },
+    {
+      "id": "x14",
+      "scene": "vtemple",
+      "place": "Đàn tế thiên ngoại thành · Ngày đại điển",
+      "kind": "hiem",
+      "title": "Đại điển tế thiên",
+      "text": "Ngày tế thiên, sứ thần ba nước Đông Hạ, Tây Sa, Bắc Lương cùng đến. Tần Dịch dẫn đoàn Đông Hạ, dâng núi ngọc và khéo gài vào tai vua câu «Quốc sư có thuật trường sinh». Trên đường du hành, kiệu bị ám sát giữa phố; Quốc sư ôm cô bay ra khỏi kiệu, hạ hết thích khách. Tiểu Châu nhận ra binh khí của chúng là của Đông Hạ: Tần Dịch đang thử sức Quốc sư. Trong lễ, cô được giao cầm hộ thanh kiếm Đằng Xà, và cảm thấy một trận pháp khát máu khắc trên thân rắn. Từ xa, Tần Dịch nhìn cô, nhận ra Tường Vi.",
+      "tieu": "Là người của Tần Dịch! Chúng thử sức hắn để tính đường nuốt Nam Chiêu. ... Ngươi cầm kiếm Đằng Xà đó, nhớ cảm giác ấy, về sau sẽ có lúc ngươi cần.",
+      "cast": "xtd,xtl,xdi,xcd,tc",
+      "ch": [
+        {
+          "t": "Quan sát binh khí thích khách, nhận ra đó là của Đông Hạ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhận ra hoa văn trên đao thích khách, kéo tay áo Quốc sư thì thầm. Hắn gật đầu: «Ta biết.» Rồi nhìn cô lâu hơn.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -1
+            },
+            "f": "biet_dong_ha"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô nhìn chưa kịp thì đã loạn cả lên. Hắn nắm cổ tay cô kéo đi, không nói gì.",
+            "d": {
+              "hao": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Bám sát Quốc sư, theo hắn né mũi tên",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô bám theo bước chân hắn không lệch nửa tấc. Hắn ôm cô bay lên mái nhà, hạ gọn từng người.",
+            "d": {
+              "hao": 5,
+              "ac": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô vấp chân giữa lúc nguy cấp, hắn phải ôm cô nhảy ngược lại, mất một nhịp.",
+            "d": {
+              "hao": 2,
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Giữ chặt thanh kiếm Đằng Xà, cảm nhận trận pháp khắc trên thân",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lòng bàn tay cô nóng ran theo từng vết khắc. Cô nhớ rõ vòng xoắn cuối cùng, nơi trận pháp đòi máu.",
+            "d": {
+              "hao": 3,
+              "ac": -1,
+              "sinh": -2
+            },
+            "f": "dang_xa"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thanh kiếm lạnh buốt làm cô choáng một khắc. Cô chỉ nhớ mơ hồ mình đã thấy gì.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày đại điển tế thiên. Tần Dịch dẫn đoàn sứ thần Đông Hạ dâng núi ngọc; kiệu du hành bị ám sát bằng binh khí của chính Đông Hạ, và Tiểu Đường cầm hộ kiếm Đằng Xà của Quốc sư.",
+      "no": 14
+    },
+    {
+      "id": "x15",
+      "scene": "vlake",
+      "place": "Hồ sen cạnh cung yến · Tối cùng ngày",
+      "kind": "hiem",
+      "title": "Hồ sen trong yến tiệc",
+      "text": "Tối đó, cô ngồi sát Quốc sư ở yến tiệc. Hắn nói thẳng với cô: Tần Dịch đã nhìn cô bảy lần, là người quen cũ; hắn không hỏi quá khứ của cô. Khi cô ra hành lang hóng gió, bốn cung nữ của công chúa Minh Châu chặn đường. Công chúa ghen vì thấy cô ngồi sát Quốc sư, ra lệnh cho họ dạy dỗ cô. Cô còn roi lụa trong tay áo. Sau lưng, Minh Châu đứng bên mép hồ sen chờ sẵn.",
+      "tieu": "Bốn người một lúc, nhưng ngươi có roi lụa rồi. Cẩn thận cái hồ phía sau lưng đấy.",
+      "cast": "xtd,xtl,xmc,tc",
+      "ch": [
+        {
+          "t": "Dùng roi lụa quật ngã bốn cung nữ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Roi lụa quấn mắt cá chân hai người, cô xoay một vòng hạ gọn cả bốn. Minh Châu sững người.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": -4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Roi lụa vướng vào hàng cột, hai cung nữ xông đến giữ tay cô. Minh Châu đứng sau cười lạnh.",
+            "d": {
+              "sinh": -9,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Né người, tìm đường đi vòng về phía yến tiệc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô luồn qua hàng cột, đi vòng đến sát chỗ ngồi của Quốc sư. Cung nữ không dám theo vào.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Đường vòng bị chặn. Cô bị dồn đến sát mép hồ.",
+            "d": {
+              "sinh": -6,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Nói khéo để bốn cung nữ tự lui, kể rằng công chúa sẽ bị trách",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô khéo léo gợi ý: nếu Quốc sư biết, người bị trách sẽ là công chúa. Bốn cung nữ nhìn nhau rồi lùi.",
+            "d": {
+              "ac": -3,
+              "hao": 4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Lời cô làm công chúa nổi giận hơn. Bà ta tự tay xô cô về phía hồ.",
+            "d": {
+              "sinh": -7,
+              "hac": 1
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Tối cùng ngày, hồ sen cạnh cung yến. Quốc sư nói thẳng Tần Dịch nhìn Tiểu Đường bảy lần và hắn không hỏi quá khứ của cô; công chúa Minh Châu sai bốn cung nữ chặn cô ở hành lang, rồi tự đẩy cô xuống hồ. Quốc sư nhảy xuống cứu trước mặt cả triều.",
+      "no": 15
+    },
+    {
+      "id": "x16",
+      "scene": "vroom",
+      "place": "Chính điện Huyền Vu Các · Ba ngày trước trăng tròn",
+      "kind": "hiem",
+      "title": "Phệ tâm cổ",
+      "text": "Ba ngày trước trăng tròn, Tiểu Đường đoán ra điều hắn giấu: đêm trăng tròn là lúc cấm thuật lấy thọ phản phệ vào hắn, và con Phệ tâm cổ hắn nuôi chỉ để đỡ bớt cơn đau. Dù đã là đệ tử, cô vẫn xin được thử cổ để hắn bớt đau một phần. Hắn từ chối nhiều lần, rồi miễn cưỡng đồng ý với con cổ nhỏ nhất. Cô đau lả đi, hắn đỡ lấy; cô ngẩng lên đúng lúc hắn cúi xuống, môi chạm môi trong một khắc vô tình.",
+      "tieu": "Ngươi làm thật à... Cổ này không đùa được, đau gấp mấy lần cổ nhỏ ngươi từng thử. Ta che được chút ít, nhưng ngươi nhớ cái giá nhé.",
+      "cast": "xtd,xtl,tc",
+      "ch": [
+        {
+          "t": "Xin hắn cho thử Phệ tâm cổ, nói rõ muốn chia bớt đau",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhìn cô thật lâu rồi đồng ý. Cô gồng mình chịu trọn cơn đau; hắn đỡ lấy cô trước khi cô ngã. Môi hai người chạm nhau trong một khắc rồi hắn quay đi.",
+            "d": {
+              "hao": 6,
+              "ac": -4,
+              "hac": -1,
+              "co": 14,
+              "sinh": -6
+            },
+            "f": "biet_phan_phe"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói chưa hết câu đã gục. Hắn đỡ cô và vô tình cúi xuống rất gần. Lần này hắn quay đi nhanh hơn.",
+            "d": {
+              "hao": 2,
+              "co": 16,
+              "sinh": -10
+            },
+            "f": "biet_phan_phe"
+          }
+        },
+        {
+          "t": "Thử con cổ nhỏ do chính mình nuôi trước, làm quen cơn đau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô thả cổ nhỏ ra trước, cho nó thích ứng với Phệ tâm cổ. Cơn đau nhẹ hơn nhiều; hắn gật đầu thán phục.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "co": 8,
+              "sinh": -3
+            },
+            "f": "biet_phan_phe"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Con cổ nhỏ của cô không chịu nổi, chết ngay trong lòng bàn tay. Cô vẫn phải chịu trọn cơn đau.",
+            "d": {
+              "hao": 1,
+              "co": 14,
+              "sinh": -9
+            },
+            "f": "biet_phan_phe"
+          },
+          "needT": "Cần kỹ năng Nuôi cổ"
+        },
+        {
+          "t": "Nhờ Tiểu Châu che đau thêm một lần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cơn đau dịu đi, nhưng mắt cô mờ đi trong chốc lát. Hắn đỡ cô, không biết cô vừa nhận thêm một khoản nợ.",
+            "d": {
+              "hao": 4,
+              "ac": -2,
+              "co": 8,
+              "sinh": -2
+            },
+            "f": "che_2,biet_phan_phe"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Che đau không đủ, cô vẫn ngất. Mắt cô mờ hẳn, tai ù đi cả ngày.",
+            "d": {
+              "hao": 1,
+              "co": 12,
+              "sinh": -6
+            },
+            "f": "che_2,biet_phan_phe"
+          }
+        }
+      ],
+      "ctx": "Ba ngày trước đêm trăng tròn tiếp theo, chính điện Huyền Vu Các. Tiểu Đường là đệ tử thứ mười chín nhưng vẫn xin thử Phệ tâm cổ để giúp Quốc sư bớt đau.",
+      "no": 16
+    },
+    {
+      "id": "x17",
+      "scene": "vkitchen",
+      "place": "Bếp Huyền Vu Các · Nửa đêm",
+      "kind": "duyen",
+      "title": "Nồi canh nửa đêm",
+      "text": "Nửa đêm đói cồn cào, Tiểu Đường lẻn xuống bếp nấu nồi canh thập cẩm. Huyền Thập Thất, nghe tiếng động, tưởng có trộm xông vào và bị cô đá một cước vào đầu gối. Hai người nhìn nhau rồi cùng ngồi xuống ăn chung, cãi nhau om sòm. Hắn mỉa mai cô trèo tường bếp vụng về rồi chỉ cô cách lấy đà, nhún chân, bám mái ngói. Cuối bữa, hắn đẩy bát canh cho cô và khuyên nhỏ: cẩn thận Huyền Nhất, đại sư huynh không ưa cô đâu.",
+      "tieu": "Hắn mồm độc nhưng không xấu. Chơi thân được với hắn, ngươi sẽ có thêm một đôi mắt trong Các này.",
+      "cast": "xtd,xt7,tc",
+      "ch": [
+        {
+          "t": "Mời hắn múc thêm canh, vừa ăn vừa cãi lại",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người cãi nhau đến sáng, nồi canh vơi sạch. Từ đó Thập Thất không còn gọi cô là «thùng cơm» nữa mà gọi là «đồng bọn».",
+            "d": {
+              "hao": 1,
+              "sinh": 3
+            },
+            "f": "ban_thap_that"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô cãi hơi quá, Thập Thất sa sầm mặt. Hắn vẫn ăn hết canh, nhưng đi một mình.",
+            "d": {
+              "sinh": 1
+            }
+          }
+        },
+        {
+          "t": "Học hắn cách lấy đà bám mái ngói, rồi tập lại ngay đêm đó",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô tập đến lúc trăng lặn thì bám được mái ngói không sót một viên. Thập Thất gật gù: cũng được đấy.",
+            "d": {
+              "hao": 1,
+              "sinh": 2
+            },
+            "f": "ban_thap_that"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô trượt chân khỏi mái ngói, ngã vào đống rơm. Thập Thất bật cười đến mức quên cả mỉa mai.",
+            "d": {
+              "sinh": -3
+            },
+            "f": "ban_thap_that"
+          }
+        },
+        {
+          "t": "Thành thật kể mình chỉ đói, không có ý gì khác",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thập Thất sững người rồi bật cười: «Ngươi còn thật thà hơn ta tưởng.» Hắn múc cho cô nửa nồi.",
+            "d": {
+              "hao": 1,
+              "sinh": 3
+            },
+            "f": "ban_thap_that"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Thập Thất nghi ngờ, hỏi thêm vài câu. Cô trả lời vụng về, nhưng hắn vẫn để cô ăn.",
+            "d": {
+              "sinh": -1
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Khinh công",
+        "s": "van",
+        "v": 2
+      },
+      "ctx": "Nửa đêm sau đêm trăng tròn, bếp Huyền Vu Các. Tiểu Đường vừa là đệ tử thứ mười chín; Huyền Thập Thất, miệng độc, từng sai cô đủ việc, bắt gặp cô lẻn xuống bếp.",
+      "no": 17
+    },
+    {
+      "id": "x18",
+      "scene": "vpalace",
+      "place": "Tẩm cung Vương hoàng hậu · Vài ngày sau",
+      "kind": "chon",
+      "title": "Bị đẩy ra xa",
+      "text": "Sau nụ hôn vô tình, hắn đột ngột lạnh nhạt, khóa điện đêm trăng tròn và quát cô cút đi. Cô lủi thủi về chỗ ngủ thì bị Vương hoàng hậu, mẹ công chúa Minh Châu, triệu vào cung. Bà ta mỉm cười hứa phẩm vị trắc phi của Ngũ hoàng tử Hoắc Diễn nếu cô chịu giúp bà kéo Quốc sư về phe mình. Công chúa ngồi bên cạnh chê cô tham ngôi chính phi. Cô phải đáp, trong khi lòng vẫn còn nặng vì tiếng quát hôm trước.",
+      "tieu": "Bà ta muốn mượn tay ngươi để kéo hắn về phe. Từ chối khéo thôi, đừng làm bà ta mất mặt trước công chúa.",
+      "cast": "xtd,xhh,xmc,tc",
+      "ch": [
+        {
+          "t": "Từ chối thẳng: đệ tử Huyền Vu Các không cưới gả",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nói thật rõ ràng và lễ độ. Hoàng hậu cười lạnh nhưng không có cớ giữ cô. Công chúa nghiến răng.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": -2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Lời nói của cô làm Hoàng hậu mất mặt. Bà ta nhắc nhở nhẹ nhàng nhưng rất rõ ràng: cô sẽ phải hối hận.",
+            "d": {
+              "hac": 2,
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Tạ ơn bà, nhưng xin thêm thời gian để suy nghĩ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cúi đầu thật thấp, giọng nhún nhường. Hoàng hậu hài lòng thả cô về, tưởng đã nắm được cô.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hoàng hậu thấy cô lưỡng lự, bắt đầu nghi ngờ. Công chúa nhếch môi.",
+            "d": {
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Xin phép về hỏi ý Quốc sư trước khi đáp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hoàng hậu nghiến răng nhưng không dám cản. Cô thoát ra ngoài với một thân mồ hôi lạnh.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Nhắc tên Quốc sư khiến Hoàng hậu biến sắc. Bà ta giữ cô thêm một canh giờ để dạy dỗ.",
+            "d": {
+              "hac": 2,
+              "sinh": -5
+            }
+          }
+        }
+      ],
+      "ctx": "Vài ngày sau nụ hôn vô tình. Quốc sư đột ngột lạnh nhạt với Tiểu Đường; Vương hoàng hậu muốn mượn cô để kéo hắn về phe của mình và hứa phẩm vị trắc phi của Ngũ hoàng tử.",
+      "no": 18
+    },
+    {
+      "id": "x19",
+      "scene": "vruin",
+      "place": "Điện hoang trong hoàng cung · Chạng vạng",
+      "kind": "hiem",
+      "title": "Điện hoang và mê hương",
+      "text": "Trên đường về, một thái giám lạ giả truyền ý Hoàng hậu, dẫn cô vào một điện hoang đầy mê hương. Ngũ hoàng tử Hoắc Diễn cũng bị đưa vào, mặt đỏ bừng, choáng váng: Hoàng hậu muốn dựng cảnh «tư thông» để ép gả cô. Huyền Thập Thất đi sau thấy cô bị dẫn đi, vội về báo Quốc sư. Hắn phá nát cánh cửa, hất Ngũ hoàng tử ra xa, giận đến mức chính hắn cũng giật mình vì mình.",
+      "tieu": "Mê hương! Nín thở, bịt mũi! Hoàng hậu muốn ép ngươi gả cho Ngũ hoàng tử. Thập Thất đã chạy đi báo hắn rồi, cố cầm cự!",
+      "cast": "xtd,xtl,xhd,xt7,xhh,tc",
+      "ch": [
+        {
+          "t": "Nín thở, bịt mũi bằng khăn ướt, tìm đường ra",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô dùng khăn ướt trong tay áo bịt mũi, kéo Ngũ hoàng tử ra phía cửa sổ. Khi cửa vỡ, cô vẫn tỉnh táo.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "sinh": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Mê hương ngấm nhanh hơn cô nghĩ. Khi hắn phá cửa, cô đã choáng đến mức không đứng vững.",
+            "d": {
+              "hao": 1,
+              "sinh": -7
+            }
+          }
+        },
+        {
+          "t": "Vẽ bùa xua mê hương lên cánh cửa, kéo dài thời gian",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bùa mới học phát sáng mờ, hương loãng đi một phần. Cô cầm cự được đến lúc cửa bị phá.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "sinh": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Nét bùa lệch, không xua được hương. Cô choáng váng ngã xuống.",
+            "d": {
+              "hao": 1,
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Hét thật to gọi Thập Thất, giữ Hoắc Diễn đứng xa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiếng hét vang ra tận hành lang. Thập Thất nghe rõ và chạy đi báo ngay, cô nhờ vậy được cứu sớm.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "sinh": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hét xong cô mới biết mê hương đã làm giọng khàn đi. Cô cầm cự lâu hơn dự tính.",
+            "d": {
+              "hao": 1,
+              "sinh": -8
+            }
+          }
+        }
+      ],
+      "ctx": "Chạng vạng cùng ngày, điện hoang trong hoàng cung. Tiểu Đường bị một thái giám giả truyền ý Hoàng hậu dẫn vào điện đầy mê hương cùng Ngũ hoàng tử Hoắc Diễn; Huyền Thập Thất thấy và chạy đi báo Quốc sư.",
+      "no": 19
+    },
+    {
+      "id": "x20",
+      "scene": "vroom",
+      "place": "Gian ngoài chính điện · Đêm đó",
+      "kind": "duyen",
+      "title": "Lời thổ lộ",
+      "text": "Cô vẫn còn choáng vì hương, ngồi dựa vào cột. Hắn đứng im nhìn cô thật lâu, vết giận chưa tan. Cô hỏi vì sao hắn đẩy cô ra, rồi buột miệng nói: «Ta thích ngài.» Hắn thừa nhận mình lánh cô vì sợ chính mình. Rồi hắn cúi xuống hôn cô. Hắn bắt Ngũ hoàng tử im lặng và hẹn một ngày gặp riêng. Hắn khiêng cô về Các trước mắt các đệ tử; sáng ra tự xuống bếp nấu mì cho cô.",
+      "tieu": "Ngươi nói rồi đấy! Giờ đừng rút lại. Hắn sợ mình làm ngươi tổn thương hơn bất cứ điều gì khác.",
+      "cast": "xtd,xtl,tc",
+      "ch": [
+        {
+          "t": "Nói thật lòng: Ta thích ngài, không cần ngài đáp",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn sững người, rồi nắm lấy tay cô. Lần này ánh mắt hắn không còn xa xăm. Sáng hôm sau, bát mì nóng hổi đặt trước mặt cô.",
+            "d": {
+              "ac": -5,
+              "hao": 10,
+              "hac": -3
+            },
+            "f": "thich"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói lắp bắp, hơi choáng khiến lời nói rối. Hắn vẫn nghe hết, vẫn hôn cô, nhưng ngập ngừng hơn.",
+            "d": {
+              "ac": -2,
+              "hao": 6,
+              "hac": -1
+            },
+            "f": "thich"
+          }
+        },
+        {
+          "t": "Hỏi thẳng vì sao hắn đẩy cô ra, đừng giấu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô hỏi từng câu một. Hắn trả lời đầy đủ, giọng trầm xuống. Lần đầu hắn nói nhiều đến thế.",
+            "d": {
+              "ac": -4,
+              "hao": 8,
+              "hac": -2
+            },
+            "f": "thich"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô hỏi hơi dồn, hắn quay mặt đi nhưng không bỏ đi. Cuối cùng hắn vẫn nói.",
+            "d": {
+              "ac": -1,
+              "hao": 5,
+              "hac": 1
+            },
+            "f": "thich"
+          }
+        },
+        {
+          "t": "Giữ chặt tay áo hắn, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô không cần nói. Hắn nhìn tay áo cô nắm, rồi ngồi xuống cạnh cô thật gần.",
+            "d": {
+              "ac": -4,
+              "hao": 8,
+              "hac": -2
+            },
+            "f": "thich"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô buông tay vì choáng. Hắn đỡ cô dậy, ôm cô về Các trong im lặng.",
+            "d": {
+              "ac": -1,
+              "hao": 5,
+              "hac": 0
+            },
+            "f": "thich"
+          }
+        }
+      ],
+      "ctx": "Đêm hôm đó, gian ngoài chính điện. Quốc sư vừa phá cửa điện hoang cứu Tiểu Đường khỏi mưu của Hoàng hậu; hắn lạnh nhạt với cô mấy ngày vì sợ chính mình.",
+      "no": 20
+    },
+    {
+      "id": "x21",
+      "scene": "vbook",
+      "place": "Điện sách Huyền Vu Các · Mấy ngày sau",
+      "kind": "duyen",
+      "title": "Cuốn sách bìa vàng",
+      "text": "Dọn điện sách, Tiểu Đường tìm thấy một cuốn sách không tên, bìa vàng, ghi chép vu trận của Vu tộc, trong đó có thuật tụ gió thành đao. Tiểu Châu kể lại lịch sử: Vu tộc bị triều Đại Ung diệt cách đây ba trăm năm, Nam Chiêu dựng nước từ đó. Cô còn chưa kịp đọc hết thì một người giấy nhỏ của Thập Thất chui qua khe cửa, thì thầm bằng giọng Thập Thất: «Cẩn thận Huyền Nhất.»",
+      "tieu": "Cuốn sách này... Vu tộc thật sự có thuật gió thành đao. Đọc kỹ đi, biết đâu ngươi cần dùng. Còn lời nhắc của Thập Thất, ta nghĩ nên để tâm.",
+      "cast": "xtd,xt7,tc",
+      "ch": [
+        {
+          "t": "Đọc kỹ thuật tụ gió thành đao, tập thử sau điện",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô đọc ba lần, tập đến khi trên tay hiện lên một lưỡi gió mảnh. Lưỡi gió cắt đôi một chiếc lá.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": -3
+            },
+            "f": "sach_vang"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Gió quấn không thành hình, thổi tung cả chồng sách. Cô dọn lại đến sáng.",
+            "d": {
+              "sinh": -4
+            },
+            "f": "sach_vang"
+          }
+        },
+        {
+          "t": "Chép lại vài trang giấu vào tay áo",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô chép cẩn thận, giấu kín. Trong những trang ấy có cả mô tả về lửa trời mà cô đọc chưa hiểu.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -1
+            },
+            "f": "sach_vang"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô chép vội, nét chữ nhòe nhoẹt, khó đọc lại.",
+            "d": {
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Cất sách về chỗ cũ, kể cho Quốc sư nghe",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe xong, im lặng một lúc rồi bảo: «Cuốn sách ấy ta để đó cho nàng.» Hắn nắm tay cô, dạy cô đọc vài trang.",
+            "d": {
+              "ac": -3,
+              "hao": 5
+            },
+            "f": "sach_vang"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn nghe xong chỉ gật đầu, ánh mắt tối đi. Cô cảm thấy mình đã hỏi một điều không nên.",
+            "d": {
+              "hac": 1,
+              "hao": 1
+            },
+            "f": "sach_vang"
+          }
+        }
+      ],
+      "learn": {
+        "n": "Đao gió",
+        "s": "tri",
+        "v": 2
+      },
+      "ctx": "Mấy ngày sau, điện sách Huyền Vu Các. Quốc sư và Tiểu Đường vừa thổ lộ; Huyền Nhất vẫn ghét cô, còn Huyền Thập Thất đã thành bạn.",
+      "no": 21
+    },
+    {
+      "id": "x22",
+      "scene": "vpalace",
+      "place": "Hành lang cung điện · Hôm sau",
+      "kind": "hiem",
+      "title": "Cái tát của công chúa",
+      "text": "Minh Châu vừa được định ghép cho Tần Dịch để kết minh với Đông Hạ nên bực dọc hơn thường. Gặp cô ở hành lang, bà cùng Hoàng hậu mỉa mai về đêm ở điện hoang. Công chúa giơ tay tát. Cô có thể dùng một lá bùa nhỏ Quốc sư dạy để cái tát đổi hướng, hoặc né, hoặc chịu. Dù thế nào, Minh Châu cũng thề không tha cô.",
+      "tieu": "Bà ta sắp bị ghép cho người mình không muốn, nên tìm ngươi trút giận. Đừng để bị đánh, nhưng cũng đừng khiến bà ta nhục đến mức không còn đường lui.",
+      "cast": "xtd,xmc,xhh,tc",
+      "ch": [
+        {
+          "t": "Dùng bùa nhỏ làm bàn tay bà ta tự tát vào mặt mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bàn tay công chúa quay ngoắt, tát chính vào má bà ta. Cô giữ vẻ mặt vô tội. Minh Châu thề không tha cô.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "hac": 1,
+              "sinh": -2
+            },
+            "f": "minh_chau_thu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bùa lệch, bàn tay bà ta vẫn tát trúng cô. Minh Châu thề không tha.",
+            "d": {
+              "hac": 2,
+              "sinh": -6
+            },
+            "f": "minh_chau_thu"
+          }
+        },
+        {
+          "t": "Né người đúng lúc, để cái tát vụt vào không khí",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nghiêng người, cái tát hụt rơi vào không trung. Minh Châu loạng choạng, mất mặt trước cung nữ.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": -1
+            },
+            "f": "minh_chau_thu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô né chậm nửa nhịp, tát xước má. Minh Châu thề không tha.",
+            "d": {
+              "hac": 2,
+              "sinh": -5
+            },
+            "f": "minh_chau_thu"
+          }
+        },
+        {
+          "t": "Quỳ xuống xin lỗi để dịu cơn giận bà ta",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô quỳ xuống nhún nhường. Minh Châu hả hê, chỉ phẩy tay đuổi đi, nhưng vẫn ghi hận.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -1
+            },
+            "f": "minh_chau_thu"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Cô quỳ rồi mà bà ta vẫn tát. Má cô đỏ ửng, bà ta thề không tha.",
+            "d": {
+              "hac": 3,
+              "sinh": -6
+            },
+            "f": "minh_chau_thu"
+          }
+        }
+      ],
+      "ctx": "Hôm sau, hành lang cung điện. Công chúa Minh Châu bị định gả cho Tần Dịch để kết minh với Đông Hạ; bà ta và Hoàng hậu cùng mỉa mai Tiểu Đường về đêm ở điện hoang.",
+      "no": 22
+    },
+    {
+      "id": "x23",
+      "scene": "vroom",
+      "place": "Gian trong Huyền Vu Các · Đêm sau",
+      "kind": "duyen",
+      "title": "Khóa tâm trận năm tuyến",
+      "text": "Nghe chuyện cái tát, Quốc sư không nổi giận. Hắn dạy cô vẽ khóa tâm trận lên người giấy mang ngày sinh của Minh Châu: mỗi khi bà ta nuôi ý giết người lâu ngày, một tuyến đứt; đứt đủ năm tuyến thì tim ngừng đập. Chưa bạo ác thì tuyến vẫn nguyên. Cô vẽ xong, một tuyến đã đứt ngay trước mắt. Hắn dặn: từ nay thấy gì, nghe gì cũng không được sợ hắn.",
+      "tieu": "Trận này không giết ai vô cớ. Chỉ tim kẻ đã thật sự muốn giết mới có chuyện. Nhớ lấy câu hắn dặn cuối cùng.",
+      "cast": "xtd,xtl,tc",
+      "ch": [
+        {
+          "t": "Học vẽ khóa tâm trận, ghi nhớ từng nét",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nét bút của cô đều tay, trận vẽ trơn tru. Hắn nhìn cô vẽ xong mà không sửa một nét nào.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -2
+            },
+            "f": "khoa_tam"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Một nét lệch phải vẽ lại từ đầu. Hắn kiên nhẫn đỡ tay cô, vẽ cùng.",
+            "d": {
+              "ac": -2,
+              "hao": 4,
+              "sinh": -2
+            },
+            "f": "khoa_tam"
+          }
+        },
+        {
+          "t": "Hỏi: nếu bà ta không bạo ác thì trận sẽ ra sao",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn giải thích chậm rãi: trận chỉ phản ánh tâm ác. Cô gật đầu, yên tâm hẳn.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -1
+            },
+            "f": "khoa_tam"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn im lặng quá lâu. Cô hối hận vì đã hỏi.",
+            "d": {
+              "hao": 1,
+              "hac": 1
+            },
+            "f": "khoa_tam"
+          }
+        },
+        {
+          "t": "Hứa với hắn: dù thấy gì cũng không sợ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nhìn thẳng vào mắt hắn và hứa. Hắn đưa tay vuốt tóc cô, rất nhẹ.",
+            "d": {
+              "ac": -4,
+              "hao": 7,
+              "hac": -2
+            },
+            "f": "khoa_tam,khong_so"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Lời hứa của cô hơi ngập ngừng. Hắn nhận ra nhưng không trách.",
+            "d": {
+              "ac": -1,
+              "hao": 3
+            },
+            "f": "khoa_tam"
+          }
+        }
+      ],
+      "ctx": "Đêm sau cái tát, gian trong Huyền Vu Các. Công chúa Minh Châu đã thề không tha cho Tiểu Đường; Quốc sư quyết dạy cô một trận pháp để răn đe bà ta.",
+      "no": 23
+    },
+    {
+      "id": "x24",
+      "scene": "vroom",
+      "place": "Phủ Ngũ hoàng tử · Vài ngày sau",
+      "kind": "chon",
+      "title": "Bí mật hoàng gia",
+      "text": "Quốc sư dạy cô cách dịch dung, rồi hai người cải trang đi gặp Ngũ hoàng tử Hoắc Diễn. Hắn nói thẳng: các hoàng tử con chính thất đều chết yểu, vương triều chỉ còn vài năm, và hắn sẽ giúp Hoắc Diễn lên ngôi. Về điện, hắn gieo quẻ trúc xem mệnh cô. Cô học vu trận nhanh đến lạ, và Tiểu Châu thấy Hắc hóa của hắn nhích lên: hắn sợ không giữ được cô.",
+      "tieu": "Hắn đang tin ngươi hơn ai hết, đến mức kể cho ngươi cả những điều hắn chưa kể ai. Nhưng hắn cũng đang sợ... Cẩn thận chọn lời.",
+      "cast": "xtd,xtl,xhd,tc",
+      "ch": [
+        {
+          "t": "Hóa trang theo hắn dạy, giả làm thị nữ đi cùng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô hóa trang gọn gàng, giọng nói cũng đổi. Hoắc Diễn không nhận ra, còn dặn cô pha trà.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "sinh": -1
+            },
+            "f": "biet_vuong_trieu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Râu giả dán lệch, Hoắc Diễn nhìn cô lâu, nhưng nể mặt Quốc sư không hỏi.",
+            "d": {
+              "hao": 2,
+              "sinh": -2
+            },
+            "f": "biet_vuong_trieu"
+          }
+        },
+        {
+          "t": "Quan sát Hoắc Diễn để đoán tính tình trước khi hắn lên ngôi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhận ra Hoắc Diễn nhút nhát nhưng thật thà, biết nghe lời. Cô báo lại Quốc sư; hắn gật đầu, đánh giá cô cao hơn.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "hac": 1
+            },
+            "f": "biet_vuong_trieu"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô đoán sai vài điều. Hắn nhẹ nhàng sửa lại cho cô.",
+            "d": {
+              "hao": 2,
+              "hac": 1
+            },
+            "f": "biet_vuong_trieu"
+          }
+        },
+        {
+          "t": "Hỏi Quốc sư vì sao hắn tin Hoắc Diễn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn đáp ngắn: «Vì cậu ta là người duy nhất không vì quyền mà sợ ta.» Cô nghe, hiểu hắn thêm một chút.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -1
+            },
+            "f": "biet_vuong_trieu"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn chỉ đáp qua loa. Cô thấy hắn đang nghĩ điều khác.",
+            "d": {
+              "hao": 1,
+              "hac": 2
+            },
+            "f": "biet_vuong_trieu"
+          }
+        }
+      ],
+      "learn": {
+        "n": "Dịch dung",
+        "s": "tri",
+        "v": 2
+      },
+      "ctx": "Vài ngày sau khi cô vẽ khóa tâm trận lên Minh Châu. Quốc sư tin Tiểu Đường đến mức dẫn cô gặp riêng Ngũ hoàng tử Hoắc Diễn, người từng bị Hoàng hậu gài vào cùng cô ở điện hoang.",
+      "no": 24
+    },
+    {
+      "id": "x25",
+      "scene": "vcourt",
+      "place": "Triều đường Nam Chiêu · Sáng",
+      "kind": "hiem",
+      "title": "Lời đồn «đào hát»",
+      "text": "Cả kinh thành bắt đầu đồn rằng đệ tử cưng của Quốc sư chính là đào hát Tường Vi ở nhạc lâu Thính Vũ. Đồn từ miệng Thược Dược, từ khách cũ, thêm cả vài câu bóng gió của Tần Dịch. Quần thần dâng sớ đòi trừng trị. Quốc sư bình thản đứng bảo vệ cô giữa triều. Ra khỏi điện, Hoàng hậu chặn cô lần nữa, dụ cô phản Quốc sư. Về đến Các, Huyền Nhất sỉ nhục cô ngay trước mặt các đệ tử.",
+      "tieu": "Đào hát thì sao chứ? Nhưng người ta lấy cớ đó để làm khó ngươi. Huyền Nhất thì khác: hắn thật sự muốn ngươi biến mất. Cẩn thận.",
+      "cast": "xtd,xtl,xhh,xn1,xdd,tc",
+      "ch": [
+        {
+          "t": "Tự đứng ra kể thẳng quá khứ nhạc lâu, không giấu",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đứng giữa Các, kể từng chặng: ăn mày, chuộc khế, ba năm gảy đàn. Các đệ tử im lặng; Thập Thất khịt mũi: «Chuyện có gì phải xấu hổ.»",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "hac": -1
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Lời kể của cô bị Huyền Nhất cắt ngang, xoay thành chuyện xấu hổ. Cô thấy mặt nóng bừng.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Để Quốc sư lo, giữ im lặng trước mặt Huyền Nhất",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô cúi đầu im lặng. Huyền Nhất mất hứng, bỏ đi. Quốc sư nhìn cô, khẽ gật đầu đồng ý.",
+            "d": {
+              "ac": -2,
+              "hao": 3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Im lặng của cô bị hiểu thành nhận tội. Huyền Nhất đắc ý nói thêm vài câu độc địa.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        },
+        {
+          "t": "Ghi nhớ thái độ của Huyền Nhất, nhờ Thập Thất để mắt thay mình",
+          "h": "Chắc chắn",
+          "s": null,
+          "ok": {
+            "x": "Thập Thất nhận lời không hề do dự: «Hắn có mưu gì ta sẽ biết sớm hơn ngươi.» Cô thấy nhẹ lòng.",
+            "d": {
+              "ac": -2,
+              "hao": 2
+            },
+            "f": "de_phong"
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau lời đồn lan khắp kinh thành, triều đường Nam Chiêu. Cả triều đồn đệ tử cưng của Quốc sư là đào hát Tường Vi ở nhạc lâu; Huyền Nhất ghét cô, Hoàng hậu vẫn muốn kéo cô sang phe mình.",
+      "no": 25
+    },
+    {
+      "id": "x26",
+      "scene": "vroom",
+      "place": "Chính điện Huyền Vu Các · Đêm trước trăng tròn",
+      "kind": "nan",
+      "title": "Hương đàn trước kỳ",
+      "text": "Một thái giám lạ nhắn cô về điện trước. Trong điện, hương đàn thoang thoảng mùi lạ lẫn vào. Quốc sư trở về, hít phải hương liền biến sắc, quát cô chạy ngay: phản phệ bị kích phát sớm cả một ngày trăng. Hắn mất lý trí, bàn tay siết lại nơi cổ cô. Cô nghĩ đến lời hắn dặn «đừng sợ ta», gọi tên thật của hắn, gảy khúc ru. Hắn tỉnh lại một khắc rồi ngất. Tóc hắn bạc trắng cả đầu.",
+      "tieu": "Ngươi nghe cho kỹ, đừng sợ hắn! Nhớ hắn đang đau, không phải hắn muốn làm thế. Gọi tên hắn đi, đàn khúc ru như lần trước!",
+      "cast": "xtd,xtl,tc",
+      "ch": [
+        {
+          "t": "Gọi tên thật của hắn, gảy khúc ru đã từng đàn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiếng đàn chạm vào chỗ sâu nhất trong ý thức hắn. Bàn tay hắn buông lơi, hắn nhìn cô, thì thầm tên cô rồi ngất.",
+            "d": {
+              "ac": -4,
+              "hao": 8,
+              "sinh": -7
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Tiếng đàn đứt giữa chừng. Cô hét tên hắn đến khản giọng; hắn mới ngất đi vì kiệt sức.",
+            "d": {
+              "hao": 2,
+              "sinh": -14
+            }
+          }
+        },
+        {
+          "t": "Vẽ bùa Tụ Linh quanh mình để chặn cơn mất kiểm soát",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bùa dựng lên vòng sáng mờ quanh cô. Hắn dừng tay, lùi lại như tỉnh ra, rồi ngã quỵ.",
+            "d": {
+              "ac": -3,
+              "hao": 6,
+              "sinh": -6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Bùa vỡ trước khi vẽ xong. Hắn siết thêm nửa nhịp rồi bất ngờ ngã xuống.",
+            "d": {
+              "hao": 1,
+              "sinh": -14
+            }
+          }
+        },
+        {
+          "t": "Lao ra sân kéo hắn theo hướng ánh trăng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Trăng chiếu lên hắn, hơi thở hắn chậm lại. Hắn tỉnh một khắc, nhìn cô đang run, rồi gục vào vai cô.",
+            "d": {
+              "ac": -3,
+              "hao": 6,
+              "sinh": -8
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Cô vấp bậc thềm, hắn đè lên người cô, siết một nhịp nữa trước khi ngất.",
+            "d": {
+              "hao": 1,
+              "sinh": -15
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Đêm trước trăng tròn, chính điện Huyền Vu Các. Một thái giám lạ nhắn Tiểu Đường về điện trước; phản phệ của cấm thuật «lấy mệnh tục mệnh» đã khiến Quốc sư đau mỗi đêm trăng tròn, và hắn dặn cô từ nay không được sợ hắn.",
+      "no": 26
+    },
+    {
+      "id": "x27",
+      "scene": "vfirewood",
+      "place": "Phòng chứa củi Huyền Vu Các · Rạng sáng",
+      "kind": "hiem",
+      "title": "Phòng chứa củi",
+      "text": "Huyền Nhất và Huyền Nhị xông vào, thấy Quốc sư bất tỉnh, tóc bạc trắng, liền kết tội Tiểu Đường dùng yêu thuật hại sư phụ. Chúng nhốt cô vào phòng chứa củi và canh cửa. Tiểu Châu lần ra sự thật: chính Huyền Nhất đã trộn thuốc vào hương đàn, mong Quốc sư trong cơn điên sẽ tự tay giết cô, vì hắn không chịu được việc cô chen vào giữa thầy và trò. Cô phải thoát ra trước khi chúng làm điều tệ hơn.",
+      "tieu": "Là Huyền Nhất trộn thuốc! Hắn muốn ngươi chết trong tay chính sư phụ. Giờ thì ngươi phải ra khỏi đây trước khi hắn quay lại.",
+      "cast": "xtd,xn1,xn2,xt7,tc",
+      "ch": [
+        {
+          "t": "Gọi nhỏ Thập Thất qua khe cửa, nhờ cạy khóa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thập Thất nghe tiếng gõ ám hiệu ngay. Hắn cạy khóa trong chưa đầy nửa nén hương rồi dắt cô ra cửa sau.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": -3
+            },
+            "f": "biet_that"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Tiếng gọi bị Huyền Nhị nghe được. Cô phải im lặng chờ, thêm nửa canh giờ trong bóng tối.",
+            "d": {
+              "sinh": -6
+            },
+            "f": "biet_that"
+          }
+        },
+        {
+          "t": "Tự nới lỏng then cửa bằng cành củi, theo kiểu Thập Thất từng chỉ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô dùng cành củi bẩy then, then trượt mở. Cô lẻn ra qua cửa sổ nhỏ phía sau.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": -4
+            },
+            "f": "biet_that"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Cành củi gãy, then kẹt cứng. Cô mất cả canh giờ mới tìm được lối khác.",
+            "d": {
+              "sinh": -8
+            },
+            "f": "biet_that"
+          }
+        },
+        {
+          "t": "Chờ đến lúc thay phiên canh rồi mới ra tay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lính canh đổi phiên đúng như cô đoán. Cô chui qua khe hở giữa hai ca trực.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "sinh": -3
+            },
+            "f": "biet_that"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Chờ quá lâu nên cô bị tìm ra. Huyền Nhị quát tháo, nhưng Thập Thất xuất hiện kịp lúc giải vây.",
+            "d": {
+              "sinh": -6
+            },
+            "f": "biet_that"
+          }
+        }
+      ],
+      "ctx": "Rạng sáng sau cơn phản phệ, phòng chứa củi Huyền Vu Các. Quốc sư bất tỉnh, tóc bạc trắng; Huyền Nhất và Huyền Nhị kết tội Tiểu Đường dùng yêu thuật hại sư phụ và nhốt cô lại.",
+      "no": 27
+    },
+    {
+      "id": "x28",
+      "scene": "vwood",
+      "place": "Rừng ngoại thành · Rạng sáng",
+      "kind": "nan",
+      "title": "Thập Thất ở lại phía sau",
+      "text": "Thập Thất cạy khóa phòng chứa củi, cùng cô mặc đồ thái giám trốn ra ngoại thành. Họ bị Huyền Nhất và đám đệ tử đuổi kịp trong rừng. Thập Thất đứng chắn trước mặt cô, tay cầm bùa cổ nhỏ, bảo cô chạy. Hắn không chạy theo kịp nữa. Cô nhớ cuốn sách bìa vàng, tụ gió thành đao, dựng một bức tường gió chắn lối truy đuổi. Huyền Nhất lao qua tường gió, cô phải hạ hắn ngay trước mắt, nhưng cô không lấy mạng hắn: để Quốc sư xử.",
+      "tieu": "Thập Thất... Hắn chọn ở lại, đừng phụ hắn. Ngươi còn phải sống để Quốc sư tỉnh dậy.",
+      "cast": "xtd,xt7,xn1,xn2,tc",
+      "ch": [
+        {
+          "t": "Tụ gió thành đao, hạ Huyền Nhất rồi để hắn gục lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Lưỡi gió quét ngang, Huyền Nhất đổ xuống không dậy được. Cô nén nước mắt, không quay đầu nhìn thêm. Hắn sẽ được Quốc sư xử trí.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": -5
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Đao gió lệch, chỉ sượt qua vai Huyền Nhất. Hắn gục xuống vì đòn thứ hai của cô, nhưng cô mất hơn nửa sức.",
+            "d": {
+              "hao": 1,
+              "sinh": -13
+            }
+          }
+        },
+        {
+          "t": "Dùng roi lụa trói tay chân Huyền Nhất, kéo hắn ngã trước khi hắn kịp ra tay",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Roi lụa quấn cổ tay Huyền Nhất, cô giật mạnh. Hắn ngã sấp, bị trói chặt vào gốc cây. Cô chạy tiếp.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": -6
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Roi lụa đứt giữa chừng. Cô phải dùng thêm một thế bùa nhỏ mới khống chế được.",
+            "d": {
+              "hao": 1,
+              "sinh": -12
+            }
+          }
+        },
+        {
+          "t": "Dẫn bọn chúng lệch hướng bằng khinh công, giữ Huyền Nhất lại bằng bức tường gió",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhảy qua mái cây, dẫn cả đám đuổi theo vào ngã khác. Huyền Nhất bị giữ lại sau tường gió.",
+            "d": {
+              "ac": -3,
+              "hao": 2,
+              "sinh": -6
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Tường gió quá yếu để giữ lâu. Cô chạy hết sức, bị trầy cả hai chân.",
+            "d": {
+              "hao": 0,
+              "sinh": -13
+            }
+          }
+        }
+      ],
+      "ctx": "Rạng sáng, rừng ngoại thành. Huyền Thập Thất cạy khóa phòng chứa củi để cứu Tiểu Đường; Huyền Nhất và Huyền Nhị mang theo đệ tử đuổi theo, sau khi Huyền Nhất trộn thuốc vào hương đàn để hại cô.",
+      "no": 28
+    },
+    {
+      "id": "x29",
+      "scene": "vdark",
+      "place": "Ngõ tối ngoài thành · Cùng sáng",
+      "kind": "nan",
+      "title": "Bóng tối và im lặng",
+      "text": "Ngay sau trận đánh, mắt cô tối sầm, tai ù đặc: cái giá của những lần che đau trước kia. Cô không nhìn thấy gì, không nghe được gì. Huyền Nhị vẫn còn đứng đó, chưa dám tiến. Cô giả vờ vẫn thấy mọi thứ và giơ tay đe dọa; Huyền Nhị lùi và rút đi. Tiểu Châu dẫn cô vào thành, gõ cửa một phủ đệ xin ở nhờ. Tiểu Châu kiệt sức ngủ đi, không kịp báo: đây là phủ của Tần Dịch, đang ở kinh để đón Minh Châu.",
+      "tieu": "Ta... xin lỗi, ta hết sức rồi... Phủ này là... Zzz...",
+      "cast": "xtd,xn2,tc",
+      "ch": [
+        {
+          "t": "Giả vờ vẫn nhìn rõ, giơ tay dọa Huyền Nhị lùi lại",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nhìn thẳng vào hướng hơi thở của Huyền Nhị, nói chậm và rõ. Hắn lùi từng bước rồi bỏ chạy.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": -5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nhìn lệch về phía cây bên cạnh. Huyền Nhị nhận ra, nhưng vì sợ Quốc sư nên chỉ đứng gằm gằm nhìn rồi lui.",
+            "d": {
+              "sinh": -9
+            }
+          }
+        },
+        {
+          "t": "Lắng nghe bằng da và hơi lạnh, đi theo Tiểu Châu chỉ hướng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô cảm được gió luồn qua tường thành và đi theo. Tiểu Châu dẫn cô thẳng đến cửa phủ đệ.",
+            "d": {
+              "hao": 1,
+              "sinh": -6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Gió đổi hướng làm cô lạc. Mãi sau mới tìm được lối vào thành.",
+            "d": {
+              "sinh": -10
+            }
+          }
+        },
+        {
+          "t": "Bám sát vách ngõ, đi chậm từng bước dù không thấy gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô dựa vào vách đá, đếm từng bước. Không vấp, không ngã, cô gõ đúng cánh cửa Tiểu Châu chỉ.",
+            "d": {
+              "sinh": -5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô vấp bậc đá, trầy cả đầu gối. Cô vẫn đến được cửa phủ.",
+            "d": {
+              "sinh": -10
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Ngay sau trận đánh ở rừng. Thập Thất đã ở lại phía sau để chắn đường, Tiểu Đường hạ Huyền Nhất bằng đao gió; mắt và tai cô tối đi vì đã nhờ Tiểu Châu che đau nhiều lần.",
+      "no": 29
+    },
+    {
+      "id": "x30",
+      "scene": "vmansion",
+      "place": "Sân phủ đệ Tần Dịch · Sáng hôm sau",
+      "kind": "hiem",
+      "title": "Mưa tên trong sân",
+      "text": "Quốc sư tỉnh lại, tóc bạc trắng. Hắn phạt các đệ tử dự mưu bằng cổ rồi tự đi tìm cô, lần theo vết máu và hơi thở của chính cổ trùng trong người cô. Đến phủ Tần Dịch, hắn bị chặn. Tần Dịch cùng Khâu lão, một lão đạo hiểu vu thuật, dẫn trăm cao thủ chắn cổng, nói Tường Vi là người của mình và ra lệnh bắn vào tay chân Quốc sư. Cô vẫn chưa nhìn hay nghe rõ, chỉ cảm thấy bàn tay hắn nắm lấy mình giữa mưa tên.",
+      "tieu": "Mưa tên! Hắn đến rồi! Mắt tai ngươi chưa khỏi, nhưng tay hắn thì nhận ra được. Giữ chặt đừng buông!",
+      "cast": "xtd,xtl,xdi,xkl,tc",
+      "ch": [
+        {
+          "t": "Nắm chặt tay hắn, không buông dù nghe tiếng tên xé gió",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nắm chặt đến trắng bệch cả ngón tay. Hắn ôm cô bay qua mái nhà, tên cắm đầy ngói sau lưng.",
+            "d": {
+              "ac": -4,
+              "hao": 7,
+              "hac": -2,
+              "bs": -6,
+              "sinh": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tay cô trượt đúng lúc tên ập tới, hắn phải ôm cô bằng một tay, ăn thêm hai mũi tên vào vai.",
+            "d": {
+              "hao": 3,
+              "bs": -16,
+              "sinh": -9
+            }
+          }
+        },
+        {
+          "t": "Vẽ vội bùa Tụ Linh lên lòng bàn tay hắn để dẫn đường",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bùa phát sáng xanh nhạt. Hắn nhận ra ý cô, xoay người né ba hướng mũi tên cùng lúc.",
+            "d": {
+              "ac": -3,
+              "hao": 6,
+              "bs": -6,
+              "sinh": -4
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Bùa lệch nét, ánh sáng tắt ngúm. Hắn phải mạo hiểm bay thẳng qua trận tên.",
+            "d": {
+              "hao": 2,
+              "bs": -15,
+              "sinh": -8
+            }
+          }
+        },
+        {
+          "t": "Hét tên hắn thật to để hắn biết chỗ mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiếng hét của cô lẫn trong tiếng tên, nhưng hắn nghe thấy. Hắn lao xuống ngay trước cổng.",
+            "d": {
+              "ac": -3,
+              "hao": 6,
+              "bs": -8,
+              "sinh": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiếng hét làm lộ chỗ của cô. Hai mũi tên sượt qua tóc, hắn phải đỡ thay.",
+            "d": {
+              "hao": 2,
+              "bs": -17,
+              "sinh": -7
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, phủ đệ nơi Tiểu Đường xin ở nhờ hóa ra là của Tần Dịch. Quốc sư tỉnh dậy, phạt các đệ tử dự mưu, tự đi tìm cô; Tần Dịch cùng Khâu lão chặn lại bằng trăm cao thủ.",
+      "no": 30
+    },
+    {
+      "id": "x31",
+      "scene": "vstudy",
+      "place": "Gian trong Huyền Vu Các · Vài tháng sau",
+      "kind": "duyen",
+      "title": "Ba trăm năm thù",
+      "text": "Vài tháng sau, tai cô nghe lại, mắt còn mờ. Quốc sư kể: hắn ba trăm tuổi, là người Vu tộc cuối cùng; hai vạn tộc nhân bị hoàng đế Đại Ung và Thái Tổ Nam Chiêu giết sạch. Hắn không giết vua nào, chỉ khơi lòng tham của họ để vương triều tự mục nát. Cô không khuyên hắn buông, chỉ xin một điều: xong việc thì cùng đi ẩn cư, không dùng vu thuật nữa, già đi như người thường. Hắn im lặng rất lâu.",
+      "tieu": "Hắn kể cho ngươi điều hắn chưa kể ai. Điều ngươi xin rất nhỏ, mà với hắn nó lớn nhất đời. Nói cho thật lòng nhé.",
+      "cast": "xtd,xtl,tc",
+      "ch": [
+        {
+          "t": "Xin hắn một lời hẹn: xong việc cùng nhau ẩn cư",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nhìn cô lâu, rồi gật: «Ta hứa.» Hắn nắm tay cô, như sợ nó rơi khỏi tay.",
+            "d": {
+              "ac": -5,
+              "hao": 9,
+              "hac": -4
+            },
+            "f": "loi_hen"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn gật mà không đáp. Cô không chắc đó có phải một lời hứa.",
+            "d": {
+              "ac": -1,
+              "hao": 4,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Nghe hết không ngắt lời, đặt tay lên tay hắn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nghe từng chữ, tay đặt lên tay hắn. Hắn im một lúc, rồi nói: «Nếu nàng ở cạnh, ta sẽ dừng.»",
+            "d": {
+              "ac": -4,
+              "hao": 8,
+              "hac": -3
+            },
+            "f": "loi_hen"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Hắn kể xong thì quay đi. Cô ở lại bên cạnh đến sáng, không biết hắn có nghe thấy mình không.",
+            "d": {
+              "ac": -1,
+              "hao": 3,
+              "hac": 1
+            }
+          }
+        },
+        {
+          "t": "Hỏi hắn muốn gì cho chính mình sau khi mọi việc xong",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn sững người: chưa ai từng hỏi hắn điều đó. Hắn đáp rất khẽ: muốn thức dậy mà không đau. Cô hứa sẽ giúp.",
+            "d": {
+              "ac": -4,
+              "hao": 8,
+              "hac": -3
+            },
+            "f": "loi_hen"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn không trả lời được. Cô thấy ánh mắt hắn tối đi.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Vài tháng sau trận mưa tên, gian trong Huyền Vu Các. Tiểu Đường đã mù và điếc một thời gian, giờ tai nghe lại, mắt còn mờ; Quốc sư kể cô nghe về mối thù Vu tộc.",
+      "no": 31
+    },
+    {
+      "id": "x32",
+      "scene": "vpalace",
+      "place": "Điện nghị sự Nam Chiêu · Ba tháng sau",
+      "kind": "chon",
+      "title": "Tin dữ từ Đông Hạ",
+      "text": "Ba tháng sau, tin dữ từ Đông Hạ về: công chúa Minh Châu, đã gả sang Đông Hạ, chết đột ngột. Tần Dịch vừa lên ngôi và bị nghi là diệt khẩu. Chiêu Đế nổi giận, đòi đánh Đông Hạ; Quốc sư tán thành. Tiểu Châu cho cô thấy người giấy mang ngày sinh của Minh Châu: tuyến thứ năm đã đứt từ trước, khi bà ta còn ở Nam Chiêu và còn nuôi ý giết người. Bà ta chết vì chính ác tâm của mình, không phải vì cô.",
+      "tieu": "Không phải lỗi của ngươi. Tuyến thứ năm đứt vì bà ta đã muốn giết người từ trước. Nhưng người khác sẽ không hiểu như ta.",
+      "cast": "xtd,xtl,xcd,xdi,tc",
+      "ch": [
+        {
+          "t": "Cho Quốc sư xem người giấy để hắn biết bà ta chết vì ác tâm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhìn người giấy rất lâu, rồi nói: «Không phải lỗi của nàng.» Cô thở ra, nhẹ lòng.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -2
+            },
+            "f": "minh_chau_chet"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn nhìn người giấy rồi nhìn cô, lặng lẽ hơn mọi lần. Cô không biết hắn nghĩ gì.",
+            "d": {
+              "hao": 1,
+              "hac": 2
+            },
+            "f": "minh_chau_chet"
+          }
+        },
+        {
+          "t": "Khuyên hắn đừng tán thành chiến tranh với Đông Hạ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn nghe cô nói hết, không phản bác. Dù vẫn tán thành chiến dịch, hắn hứa sẽ để cô ở lại hậu phương.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -1
+            }
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Hắn nghiêm giọng: việc này nàng đừng xen vào. Cô hiểu mình đã chạm đến điều không nên.",
+            "d": {
+              "hao": -1,
+              "hac": 3
+            }
+          }
+        },
+        {
+          "t": "Đứng cạnh hắn trong buổi nghị sự, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đứng cạnh hắn suốt buổi nghị sự, mắt nhìn thẳng. Hắn nhận ra điều đó, ngón tay chạm khẽ tay áo cô.",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -1
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Triều thần nhìn cô bằng ánh mắt nghi kỵ. Cô cảm thấy mình đang làm hắn mang tiếng.",
+            "d": {
+              "hao": 1,
+              "hac": 2,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Ba tháng sau mưa tên. Công chúa Minh Châu đã gả sang Đông Hạ cho Tần Dịch (nay đã lên ngôi) rồi chết đột ngột; Tiểu Đường nhớ khóa tâm trận năm tuyến từng vẽ lên người giấy mang ngày sinh bà ta.",
+      "no": 32
+    },
+    {
+      "id": "x33",
+      "scene": "vcamp",
+      "place": "Doanh trại chiến trường · Đêm trăng tròn",
+      "kind": "hiem",
+      "title": "Lần cuối dưới trăng",
+      "text": "Nam Chiêu đánh Đông Hạ. Ở chiến trường, Quốc sư gọi mưa dập lửa quân địch, gọi gió mở đường cho quân Nam Chiêu; Đông Hạ thua rút. Đêm trăng tròn trong doanh trại, hắn đau gấp bội vì vừa dùng cấm thuật quá mức. Cô che tiếng hắn khỏi tướng sĩ, chấp nhận bị đồn là yêu nữ. Hắn nắm tay cô, hứa đây là lần cuối hắn dùng vu thuật trên chiến trường.",
+      "tieu": "Hắn đau nhiều hơn mọi lần. Nhưng hắn đang nghe lời ngươi. Đừng để tướng sĩ nghe tiếng hắn, ngươi biết vì sao.",
+      "cast": "xtd,xtl,tc",
+      "ch": [
+        {
+          "t": "Chắn trước lều, bảo tướng sĩ Quốc sư đang dưỡng thần",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đứng chắn trước lều suốt đêm, mặc cho ánh mắt nghi kỵ của tướng sĩ. Sáng ra hắn tựa vào cô, mệt mà nhẹ nhõm.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -2,
+              "sinh": -4
+            },
+            "f": "che_tieng"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Có người nghe thấy tiếng hắn. Tin đồn «yêu nhân» bắt đầu lan trong quân.",
+            "d": {
+              "hao": 2,
+              "hac": 2,
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Gảy khúc ru trong lều để át tiếng đau",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Khúc ru nhẹ như gió đêm, vừa át tiếng rên vừa xoa dịu cơn đau. Hắn ngủ thiếp đi trong tiếng đàn.",
+            "d": {
+              "ac": -4,
+              "hao": 7,
+              "hac": -3,
+              "sinh": -3
+            },
+            "f": "che_tieng"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Tiếng đàn đứt vì đau tay. Hắn vẫn nằm im, nhưng cô tự trách mình mãi.",
+            "d": {
+              "hao": 2,
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Pha nước thuốc từ thảo mộc và cổ nhỏ để giảm đau cho hắn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nước thuốc nhạt màu giúp hắn dịu đi sau nửa canh giờ. Hắn uống hết bát, nhìn cô như nhìn một điều kỳ diệu.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -2,
+              "co": -6
+            },
+            "f": "che_tieng"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Thuốc quá đắng, hắn nhăn mặt rồi vẫn uống. Cơn đau chỉ giảm chút ít.",
+            "d": {
+              "hao": 2,
+              "hac": 1,
+              "sinh": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm trăng tròn trong doanh trại chiến trường. Nam Chiêu đánh Đông Hạ vì cái chết của công chúa Minh Châu; Quốc sư dùng vu thuật thắng trận nhưng cơn đau phản phệ sau đó gấp bội.",
+      "no": 33
+    },
+    {
+      "id": "x34",
+      "scene": "vfield",
+      "place": "Cánh đồng khô hạn ngoại thành · Mấy tháng sau",
+      "kind": "chon",
+      "title": "Hạn hán và lời buộc tội",
+      "text": "Trong một tháng, ba hoàng tử chết bất đắc kỳ tử; rồi mấy tháng liền không mưa. Quốc sư sai Huyền Lục dạy cô cầu mưa. Một lão thần dâng sớ gọi Quốc sư là yêu nhân và bị cách chức. Tối đó, trong sách bìa vàng, cô đọc đến trang cuối: Phẫn Thiên Trận, trút mưa lửa thiêu cả hoàng cung. Hắn đọc to cho cô nghe, mắt rất bình thản. Cô hiểu hắn đã đi rất xa trên đường báo thù, và ngày ấy không còn xa.",
+      "tieu": "Phẫn Thiên Trận... Ngươi hiểu rồi chứ. Hắn không hề giấu ngươi. Điều hắn chưa biết là ngươi sẽ làm gì khi ngày ấy tới.",
+      "cast": "xtd,xtl,xl6,tc",
+      "ch": [
+        {
+          "t": "Học Huyền Lục cách cầu mưa, thử trên đàn tế nhỏ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Huyền Lục dạy cô nhịp hít thở, ngón tay kết ấn. Mây tụ lại, một cơn mưa nhỏ rơi xuống đồng khô. Cô cười, nước mắt chảy dài.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "hac": -1,
+              "sinh": -3
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Mây tụ rồi tan ngay. Huyền Lục bảo cô chưa đủ sức, nhưng đã nắm được căn bản.",
+            "d": {
+              "hao": 1,
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Đọc kỹ trang Phẫn Thiên Trận, ghi nhớ cách trận vận hành",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi nhớ từng vòng xoắn, từng vị trí lửa rơi. Một góc nhỏ ở cuối trận cho thấy trận có chỗ khoảng trống nơi lửa không chạm tới.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "hac": 1,
+              "sinh": -2
+            },
+            "f": "doc_phan_thien"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Chữ cổ khó đọc, cô chỉ hiểu mơ hồ. Cô gấp sách lại, không dám nghĩ tiếp.",
+            "d": {
+              "hao": 1,
+              "hac": 2
+            },
+            "f": "doc_phan_thien"
+          }
+        },
+        {
+          "t": "Cùng Quốc sư đi từng làng phát nước và lương cho dân đói",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đi bên cạnh hắn từng làng, phát từng bát nước. Dân nhìn cô thay vì sợ hắn. Hắn nhìn cô, rất lâu.",
+            "d": {
+              "ac": -4,
+              "hao": 6,
+              "hac": -3,
+              "sinh": -4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Dân làng nhận lương nhưng nhìn hắn bằng ánh mắt sợ hãi. Hắn lặng im suốt đường về.",
+            "d": {
+              "hao": 1,
+              "hac": 2,
+              "sinh": -4
+            }
+          }
+        }
+      ],
+      "learn": {
+        "n": "Cầu mưa",
+        "s": "tri",
+        "v": 2
+      },
+      "ctx": "Mấy tháng sau chiến thắng. Trong một tháng ba hoàng tử chết bất đắc kỳ tử, và nhiều tháng liền không có mưa ở Nam Chiêu; dân kêu ca, một lão thần dâng sớ gọi Quốc sư là yêu nhân.",
+      "no": 34
+    },
+    {
+      "id": "x35",
+      "scene": "vwall",
+      "place": "Tường thành kinh đô Nam Chiêu · Ba năm sau khi cô vào Các",
+      "kind": "hiem",
+      "title": "Hai nước vây thành",
+      "text": "Ba năm sau khi cô vào Các, Đông Hạ liên minh Tây Sa đánh trả. Chiêu Đế chết giữa lúc quân địch kéo về kinh; Ngũ hoàng tử Hoắc Diễn lên ngôi, quỳ xuống xin Quốc sư cứu nước. Hắn dựng trận hộ thành quanh kinh đô, nói giữ được hai tháng, nhưng năm ngày sau trận vỡ. Giữa lúc dân hoảng loạn, cô phải làm gì đó trong những ngày cuối cùng này.",
+      "tieu": "Quân hai nước tới rồi. Trận hộ thành sẽ vỡ nhanh hơn hắn nói, và hắn biết. Dân thành đang cần một người đứng ra.",
+      "cast": "xtd,xtl,xhd,tc",
+      "ch": [
+        {
+          "t": "Cùng Quốc sư dựng trận hộ thành, vẽ phần vòng ngoài",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô vẽ vòng ngoài bằng bùa quen tay, vòng trận sáng đều. Hắn nhìn cô thật lâu: «Nàng làm tốt.»",
+            "d": {
+              "ac": -3,
+              "hao": 5,
+              "hac": -2,
+              "sinh": -4
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Một vòng trận bị lệch, hắn phải vá lại bằng sức của mình. Hắn không trách nhưng trận yếu đi.",
+            "d": {
+              "hao": 2,
+              "bs": -6,
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Giúp Hoắc Diễn giữ trật tự dân thành, trấn an người sợ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dân thành tụ lại nghe cô nói. Trật tự dần ổn định; Hoắc Diễn nhìn cô biết ơn.",
+            "d": {
+              "ac": -2,
+              "hao": 4,
+              "hac": -1,
+              "sinh": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Dân nhìn cô như yêu nữ của Quốc sư, vài người ném đá. Cô rút lui vào doanh.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "sinh": -6
+            }
+          }
+        },
+        {
+          "t": "Nấu cơm và mang thuốc cho lính giữ thành, ăn cùng họ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lính giữ thành ăn no, nhìn «thùng cơm» đệ tử Quốc sư bằng ánh mắt thân thiện. Cô thấy lòng nhẹ.",
+            "d": {
+              "ac": -2,
+              "hao": 4,
+              "hac": -1,
+              "sinh": 2
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô mang cơm đến thì trận đánh đã bắt đầu. Cô phải chạy vào hầm trú, cơm đổ hết.",
+            "d": {
+              "hao": 1,
+              "sinh": -5
+            }
+          }
+        }
+      ],
+      "ctx": "Ba năm sau khi Tiểu Đường vào Các. Đông Hạ và Tây Sa liên quân đánh Nam Chiêu; Chiêu Đế chết, Hoắc Diễn lên ngôi và quỳ xin Quốc sư cứu nước.",
+      "no": 35
+    },
+    {
+      "id": "x36",
+      "scene": "vroom",
+      "place": "Chính điện Huyền Vu Các · Đêm thành vỡ",
+      "kind": "nan",
+      "title": "Đóa hoa trên lưng",
+      "text": "Đêm thành vỡ cũng là đêm trăng tròn. Quốc sư hỏi xin vẽ lên lưng cô «một đóa hoa». Tiểu Châu thấy đó là một trận pháp hộ tâm và dặn thêm: nó giữ một viên Cường tâm hoàn của mình trong người cô, chỉ dùng khi tim cô sắp ngừng. Hắn bảo cô gói đồ chờ ở cổng sau để cùng đi ẩn cư, còn hắn quay lại điện lấy cây trâm cô để quên. Rồi cô thấy cầu lửa rơi kín trời hoàng cung: Phẫn Thiên Trận.",
+      "tieu": "Hắn muốn vẽ trận hộ tâm lên lưng ngươi, phòng khi ngươi gặp nạn. Ta cũng giấu một viên Cường tâm hoàn trong người ngươi, ngươi biết rồi đấy. Chọn đi, ngươi muốn nhận không?",
+      "cast": "xtd,xtl,tc",
+      "ch": [
+        {
+          "t": "Đồng ý để hắn vẽ, nói rõ cô tin hắn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn vẽ từng nét thật nhẹ, nét bút chậm như sợ làm cô đau. Khi xong, hắn thở ra: «Đóa hoa này sẽ giữ nàng lại.»",
+            "d": {
+              "ac": -6,
+              "hao": 9,
+              "hac": -4
+            },
+            "f": "tran_lung"
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Tay hắn run khi vẽ, nét cuối hơi lệch. Hắn vẫn vẽ cho xong, mặt tái nhợt vì đau.",
+            "d": {
+              "ac": -2,
+              "hao": 5,
+              "hac": -1,
+              "sinh": -3
+            },
+            "f": "tran_lung"
+          }
+        },
+        {
+          "t": "Hỏi rõ trận này là gì, rồi mới đồng ý",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn giải thích từng vòng trận, từng chỗ bảo hộ. Cô hiểu rõ rồi mới gật đầu. Hắn có vẻ nhẹ lòng vì được cô tin.",
+            "d": {
+              "ac": -5,
+              "hao": 8,
+              "hac": -3
+            },
+            "f": "tran_lung"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn do dự khi giải thích, giữ lại một phần. Cô đồng ý nhưng lòng không yên.",
+            "d": {
+              "ac": -1,
+              "hao": 4,
+              "hac": 1
+            },
+            "f": "tran_lung"
+          }
+        },
+        {
+          "t": "Từ chối: ta không cần trận, ta chỉ cần ngài đi cùng ta",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn sững người, rồi bật cười thật khẽ: «Vậy thì nàng giữ ta, ta giữ nàng.» Hắn ôm cô rất lâu.",
+            "d": {
+              "ac": -5,
+              "hao": 9,
+              "hac": -3
+            }
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Hắn nhìn cô, gật đầu, nhưng ánh mắt thoáng hụt hẫng. Hắn quay đi.",
+            "d": {
+              "ac": -1,
+              "hao": 3,
+              "hac": 2
+            }
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Đêm thành Nam Chiêu vỡ, đêm trăng tròn, chính điện Huyền Vu Các. Quốc sư đã hứa cùng cô ẩn cư sau khi xong việc; hắn quyết định vẽ một trận hộ tâm lên lưng cô, và Tiểu Châu giữ sẵn một viên Cường tâm hoàn.",
+      "no": 36
+    },
+    {
+      "id": "x37",
+      "scene": "vfire",
+      "place": "Hoàng cung đang cháy · Ngay sau đó",
+      "kind": "nan",
+      "title": "Mưa lửa, mưa máu",
+      "text": "Phẫn Thiên Trận đã rơi xuống. Ác niệm của hắn đã về gần như không, nhưng Tần Dịch và quân Đông Hạ đang kẹt trong biển lửa. Tiểu Châu báo: Tần Dịch mà chết, thế giới này sụp theo, hắn là người không được chết. Cô cho kiếm Đằng Xà uống máu tim để cầu mưa. Khâu lão cảm thấy vu lực, Tần Dịch tưởng cô là người bày lửa, bắn một mũi tên xuyên ngực cô rồi mới nhận ra cô đang cứu hắn. Cô vẽ huyết trận chuyển phản phệ của Quốc sư sang mình.",
+      "tieu": "Ngươi làm thế này... ta hết lời để nói. Giữ bình tĩnh. Nhớ viên Cường tâm hoàn và trận trên lưng. Còn mưa thì... ngươi biết cách rồi.",
+      "cast": "xtd,xtl,xdi,xkl,tc",
+      "ch": [
+        {
+          "t": "Cho kiếm Đằng Xà uống máu tim, cầu mưa dập lửa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Máu chạm lưỡi kiếm, rắn khắc trên thân sáng lên. Mưa đổ xuống giữa biển lửa; lửa tắt dần ở phía Tần Dịch.",
+            "d": {
+              "ac": -8,
+              "hao": 8,
+              "hac": -5,
+              "sinh": -14
+            },
+            "f": "cau_mua_xong"
+          },
+          "b": 0.45,
+          "bad": {
+            "x": "Mưa đến muộn một nhịp. Lửa liếm vào áo Tần Dịch trước khi tắt, cô gục xuống vì mất máu.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "hac": -1,
+              "sinh": -26
+            },
+            "f": "cau_mua_xong"
+          }
+        },
+        {
+          "t": "Cầu mưa rồi lao qua lửa kéo Tần Dịch ra khỏi vòng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô cầu mưa xong liền lao vào lửa, dùng khinh công kéo Tần Dịch ra. Khâu lão trợn mắt nhìn cô.",
+            "d": {
+              "ac": -8,
+              "hao": 8,
+              "hac": -5,
+              "sinh": -16
+            },
+            "f": "cau_mua_xong"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Cô bị lửa sượt qua vai trong lúc kéo hắn. Cô bỏng nặng, nhưng Tần Dịch sống.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "hac": -1,
+              "sinh": -28
+            },
+            "f": "cau_mua_xong"
+          }
+        },
+        {
+          "t": "Nhờ Khâu lão cùng dựng trận cầu mưa chung",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Khâu lão sững người, rồi hiểu ý, quỳ xuống kết ấn cùng cô. Hai luồng vu lực hòa làm một, mưa đổ như trút.",
+            "d": {
+              "ac": -7,
+              "hao": 7,
+              "hac": -4,
+              "sinh": -12
+            },
+            "f": "cau_mua_xong"
+          },
+          "b": 0.4,
+          "bad": {
+            "x": "Khâu lão không tin cô, chậm một nhịp. Cô gồng một mình đến khi mưa xuống.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": -25
+            },
+            "f": "cau_mua_xong"
+          }
+        }
+      ],
+      "forced": 1,
+      "ctx": "Ngay sau khi Phẫn Thiên Trận rơi xuống hoàng cung. Quốc sư đã trút mưa lửa; Tần Dịch và quân Đông Hạ kẹt trong biển lửa và Tiểu Châu cảnh báo hắn tuyệt đối không được chết.",
+      "no": 37
+    },
+    {
+      "id": "x38",
+      "scene": "vdawn",
+      "place": "Giữa tro tàn hoàng cung Nam Chiêu · Rạng sáng",
+      "kind": "chon",
+      "title": "Cây trâm",
+      "text": "Mưa đã dập lửa. Giữa tro tàn, Quốc sư chạy tới, tóc bạc trắng, quỳ xuống cài lại cây trâm lên tóc cô. Trận trên lưng cô sáng lên: đó là trận hộ tâm hắn vẽ phòng khi cô gặp nạn; cùng với viên Cường tâm hoàn của Tiểu Châu, nó giữ cho tim cô còn đập. Tần Dịch đứng cách vài bước, tay vẫn cầm cung, gạt lời Khâu lão giục giết, nhìn hai người rồi lùi lại để họ đi. Cô nắm lấy tay hắn; hắn chưa nói một lời nào.",
+      "tieu": "Cuối cùng cũng xong. Ngươi và hắn... ta không dám nói gì thêm đâu. Nhưng cho phép ta nói một câu thôi: ngươi làm tốt lắm.",
+      "cast": "xtd,xtl,xdi,xkl,tc",
+      "ch": [
+        {
+          "t": "Để hắn cài lại cây trâm, nói cô vẫn còn tim đập",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cài trâm bằng bàn tay còn run. Cô nắm tay hắn, đặt lên ngực mình, để hắn cảm được nhịp đập.",
+            "d": {
+              "ac": -8,
+              "hao": 12,
+              "hac": -6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói nhỏ quá, hắn không nghe rõ, phải cúi xuống thật gần. Khi nghe xong, hắn ôm cô chặt hơn mọi lần.",
+            "d": {
+              "ac": -3,
+              "hao": 7,
+              "hac": -2
+            }
+          }
+        },
+        {
+          "t": "Nhắc hắn lời hẹn ẩn cư, nhắc cả lời hứa không dùng vu thuật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn nhắm mắt, gật đầu: «Ta nhớ.» Phản phệ trong người hắn lặng đi như chưa từng có.",
+            "d": {
+              "ac": -8,
+              "hao": 11,
+              "hac": -6
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn im lặng quá lâu. Khi hắn mở mắt, cô thấy nước trong mắt hắn, nhưng hắn không nói.",
+            "d": {
+              "ac": -3,
+              "hao": 6,
+              "hac": -2
+            }
+          }
+        },
+        {
+          "t": "Cười, nói mười năm nữa vẫn đòi hắn nấu mì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn bật cười, lần đầu cười thành tiếng. Nụ cười ấy sẽ còn ở mãi trong ký ức cô.",
+            "d": {
+              "ac": -7,
+              "hao": 10,
+              "hac": -5
+            }
+          },
+          "b": 0.55,
+          "bad": {
+            "x": "Cô cười mà nước mắt rơi. Hắn lau đi, im lặng rất lâu.",
+            "d": {
+              "ac": -3,
+              "hao": 6,
+              "hac": -2
+            }
+          }
+        }
+      ],
+      "ctx": "Sau trận mưa lửa. Tiểu Đường đã cầu mưa cứu Tần Dịch, bị tên của hắn bắn xuyên ngực rồi chuyển phản phệ của Quốc sư sang mình; trận hộ tâm trên lưng và viên Cường tâm hoàn của Tiểu Châu đang giữ tim cô.",
+      "no": 38
+    }
+  ]
+}

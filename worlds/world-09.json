@@ -1,0 +1,3995 @@
+{
+  "id": "w9",
+  "no": 9,
+  "chapEnd": [
+    9,
+    18,
+    28,
+    37,
+    45
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 2
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 2
+    }
+  ],
+  "pbias": 0.072,
+  "p0": {
+    "mi": 58,
+    "tri": 62,
+    "van": 54
+  },
+  "params": {
+    "b1": 1.8,
+    "b2": 2.5,
+    "ac": 0.55,
+    "hac": 1.1,
+    "hao": 0.85,
+    "bad": 4.8,
+    "h0": 70
+  },
+  "names": {
+    "zl": "Thẩm Lê Lê",
+    "zm": "Thẩm Mặc Trì",
+    "zk": "Thẩm Kiến Phong",
+    "zn": "Mục Ngọc Mai",
+    "zg": "Ngô Khải",
+    "zp": "Kha Dật Phàm",
+    "zh": "Chung Hiểu Hiểu",
+    "zq": "Hoắc Lệ Quyên",
+    "zb": "Kha Bỉnh Hoài",
+    "zo": "Kha Dật Khôi",
+    "zt": "Hà Tú Nhu",
+    "zv": "Vệ Tam",
+    "zd": "Bác sĩ Phương",
+    "zs": "Bác Cường"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 9 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh là hình vẽ tạm bằng mã.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Nhịp tim hai người",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Thẩm Mặc Trì đã về không. Máy bay hạ cánh ở một thành phố xa; ca mổ kéo dài suốt một ngày, và khi Lê Lê mở mắt, anh đang ngồi cạnh giường, tay vẫn nắm tập hồ sơ nay đã nhàu nát. Nhiều năm sau, hai người sống trong căn nhà có sân bách hợp. Cô vẫn gọi anh là ca ca; anh vẫn nấu canh dưỡng sinh mỗi tối, và chưa lần nào bỏ lỡ lịch tái khám của cô.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "zairport"
+    },
+    "near": {
+      "n": "Chuyến bay có người chờ",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Ca mổ thành công, Lê Lê hồi phục chậm nhưng chắc. Mặc Trì không còn đẩy cô đi, nhưng thỉnh thoảng đêm khuya anh vẫn thức dậy, ra đứng ngoài cửa phòng cô nghe nhịp thở. Vết đỏ trong mắt anh nhạt dần theo từng năm; cô biết rồi nó sẽ tan.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "zgarden"
+    },
+    "half": {
+      "n": "Hai chiếc vé một chiều",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Họ vẫn lên máy bay, ca mổ vẫn được thực hiện, nhưng mối ngờ vực trong lòng Mặc Trì chưa được gỡ hết. Anh vẫn nghĩ mọi thứ đều có thể bị sắp đặt, vẫn giữ khoảng cách vừa đủ. Cô vẫn ở cạnh anh những lúc anh im lặng, hy vọng một ngày nào đó anh sẽ tin mình.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "zairport"
+    },
+    "black": {
+      "n": "Biệt thự không còn ánh đèn",
+      "c": "Hắc hóa chạm 100. Mặc Trì không còn nghe thấy tên mình, không nghe thấy lời cô. Biệt thự nhà Thẩm tắt đèn từng gian, hành lang dài lạnh như mùa đông. Tiểu Châu kéo cô đi trước khi cánh cổng khép lại sau lưng.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "zvilla"
+    },
+    "bdead": {
+      "n": "Cuốn sách cầm ngược",
+      "c": "Sinh mệnh của Thẩm Mặc Trì về 0. Trong thư phòng vắng, cuốn sách anh đọc dở vẫn mở ở trang cũ, chữ nằm ngược. Cô giữ nó rất lâu, cho đến khi Tiểu Châu khẽ gọi cô về.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "zstudy"
+    },
+    "dead": {
+      "n": "Cầu đá không đèn",
+      "c": "Sinh mệnh cạn kiệt. Nhịp tim cô nhỏ dần giữa tiếng nước sông, cho đến khi chỉ còn tiếng gọi «ca ca» thật khẽ. Tiểu Châu kéo linh hồn cô đi, khi ở đâu đó Mặc Trì vẫn đang chạy xuống triền dốc, tay vươn ra trong bóng tối.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "zbridge"
+    }
+  },
+  "events": [
+    {
+      "id": "z01",
+      "scene": "zparty",
+      "place": "Sảnh tiệc nhà họ Kha · Tối",
+      "kind": "duyen",
+      "title": "Tỉnh dậy giữa tiệc rượu",
+      "text": "Lê Lê mở mắt giữa tiếng nhạc và những ly rượu lấp lánh. Cô 18 tuổi, tiểu công chúa nhà họ Thẩm; ba mẹ đang đi du lịch nên anh nuôi Thẩm Mặc Trì dẫn cô đến dự tiệc nhà họ Kha. Một quả cầu ngọc xanh lơ lửng cạnh tai cô: «Ta là Tiểu Châu». Nó đưa hồ sơ: Mặc Trì, 23 tuổi, tổng giám đốc Thẩm thị, Ác niệm 100. Anh tưởng mình được nhận nuôi để làm con rể nhà này, nên đang cố đẩy cô sang người khác. Người anh vừa khen là Kha Dật Phàm, con trai nhà họ Kha. Cạnh Dật Phàm là mẹ hắn Hoắc Lệ Quyên và cha hắn Kha Bỉnh Hoài; ở góc sảnh còn một người con riêng của Bỉnh Hoài, Kha Dật Khôi, đang giành chỗ của Dật Phàm.",
+      "tieu": "Dậy rồi hả? Nghe ta nhanh đây: cái người đứng cạnh ngươi là Mặc Trì, là hắn mà ngươi phải cảm hóa. Nhà họ Kha toàn người nhìn Thẩm thị bằng con mắt thèm vốn. Giữ tim cho bình tĩnh nhé.",
+      "cast": "zl,zm,tc,zp,zq,zb,zo",
+      "ch": [
+        {
+          "t": "Hỏi Tiểu Châu kỹ hồ sơ của Mặc Trì và vì sao hắn đẩy mình đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nghe hết, hiểu ra anh sợ bị sắp đặt chứ không hề ghét mình. Lòng cô nhẹ đi một nửa.",
+            "d": {
+              "sinh": 2,
+              "ks": -4
+            },
+            "f": "biet_anh"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô nghe được nửa chừng thì Dật Phàm bước tới chào. Cô chỉ kịp nhớ mang máng.",
+            "d": {
+              "sinh": -1,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Nhìn quanh sảnh ghi nhớ người nhà họ Kha và Dật Khôi ở góc phòng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nhớ từng gương mặt: Hoắc Lệ Quyên khéo miệng, Bỉnh Hoài trầm ngâm, Dật Khôi lặng lẽ quan sát. Cô thấy bức tranh rõ hơn.",
+            "d": {
+              "sinh": 2,
+              "ks": -2
+            },
+            "f": "biet_kha"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nhìn nhầm hai người, suýt chào nhầm Dật Khôi thành Dật Phàm. Mặc Trì thoáng nhíu mày.",
+            "d": {
+              "sinh": -1,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Im lặng đứng cạnh anh, chờ xem anh tính gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mặc Trì liếc cô một cái, không nói. Cô nhận ra tay anh siết ly rượu rất chặt.",
+            "d": {
+              "sinh": 1,
+              "ks": -2
+            },
+            "f": "biet_anh"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Anh đẩy cô nhẹ về phía Dật Phàm: «Đi chào đi.» Cô loạng choạng bước tới.",
+            "d": {
+              "sinh": -2,
+              "ks": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, sảnh tiệc nhà họ Kha. Thẩm Lê Lê, 18 tuổi, tim yếu, được anh nuôi Thẩm Mặc Trì dẫn đi dự tiệc; ba mẹ cô đang đi du lịch.",
+      "no": 1
+    },
+    {
+      "id": "z02",
+      "scene": "zsofa",
+      "place": "Sô pha trong sảnh · Tối",
+      "kind": "chon",
+      "title": "Choáng giữa tiệc",
+      "text": "Nhạc ồn hơn, đèn chói hơn. Tim Lê Lê đập thình thịch, mắt mờ đi, lòng bàn tay lạnh. Dật Phàm nhìn sang từ xa, định tiến lại. Mặc Trì đứng cạnh cô, mặt vẫn lạnh nhưng ngón tay đã đặt lên cổ tay cô để đếm mạch. Tiểu Châu thì thào: tim cô yếu từ nhỏ, nếu cố đứng thêm sẽ ngất.",
+      "tieu": "Ngồi xuống! Hít sâu, đừng bắt ta kể cho Mặc Trì nghe cô đang chống chế.",
+      "cast": "zl,zm,zp,tc",
+      "ch": [
+        {
+          "t": "Nói thật với anh là mình choáng, xin vào phòng nghỉ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh không hỏi thêm, nâng khuỷu tay cô đi ngay. Dật Phàm gọi theo hai tiếng, anh không ngoái lại.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -2,
+              "ks": -5
+            },
+            "f": "anh_tin"
+          },
+          "b": 0.572,
+          "bad": {
+            "x": "Cô nói lí nhí, anh phải cúi sát mới nghe được. Họ đi chậm, ai nấy ngoái nhìn.",
+            "d": {
+              "hao": 2,
+              "sinh": -3,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Cố mỉm cười, nói mình chỉ hơi nóng rồi ra ban công hóng gió",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Gió ngoài ban công làm cô dễ chịu hơn. Mặc Trì đứng khoanh tay nhìn, rồi cởi áo khoác phủ lên vai cô.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "ks": -3
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô đứng không vững, phải vịn lan can. Mặc Trì nhìn cô lâu: «Đừng cố nữa.» Lần này anh đỡ thật.",
+            "d": {
+              "hao": 1,
+              "sinh": -5,
+              "ks": 5
+            }
+          }
+        },
+        {
+          "t": "Ngồi yên chờ, hy vọng mệt tự qua",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Một nhân viên phục vụ bưng nước ấm tới đúng lúc. Cô uống từng ngụm, tim chậm lại.",
+            "d": {
+              "hao": 1,
+              "ks": -3
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Dật Phàm đến sát cạnh hỏi han ầm ĩ, khiến tim cô đập loạn hơn. Mặc Trì phải chắn trước mặt cô.",
+            "d": {
+              "hao": 2,
+              "sinh": -4,
+              "ks": 6
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, sảnh tiệc. Lê Lê bắt đầu choáng vì tim yếu; Mặc Trì đứng cạnh, Dật Phàm nhìn sang từ xa.",
+      "no": 2
+    },
+    {
+      "id": "z03",
+      "scene": "zrest",
+      "place": "Phòng nghỉ trên lầu · Tối",
+      "kind": "duyen",
+      "title": "Ly nước và bộ váy ướt",
+      "text": "Trong phòng nghỉ, một ly nước bị va đổ ướt hết váy Lê Lê. Mặc Trì đi lấy váy sạch của người hầu, dặn cô ở yên, rồi tự đứng canh ngoài cửa. Lê Lê ngồi lại, tim vẫn thình thịch. Tiểu Châu bảo: tim yếu thì phải biết tự dỗ nhịp thở, đừng chỉ chờ người khác lo.",
+      "tieu": "Hít vào bốn nhịp, nín hai nhịp, thở ra sáu nhịp. Học đi, sau này còn dùng nhiều đấy!",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Làm theo hướng dẫn của Tiểu Châu: hít bốn, nín hai, thở sáu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sau vài vòng thở chậm, tim cô êm lại. Cô nghe tiếng bước chân anh ngoài cửa, đều đều như đang đếm giùm cô.",
+            "d": {
+              "sinh": 3,
+              "ks": -8,
+              "hao": 2
+            },
+            "f": "biet_tho"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô thở dồn, càng cố càng rối nhịp. Tiểu Châu phải hướng dẫn lại từ đầu.",
+            "d": {
+              "sinh": -2,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Hé cửa hỏi anh còn đó không, nghe giọng anh cho yên tâm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "«Anh đây.» Hai chữ ngắn ngủn khiến cô bớt run hẳn.",
+            "d": {
+              "hao": 4,
+              "ac": -2,
+              "ks": -5
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô hé cửa quá mạnh làm cánh cửa đập vào vai anh. Anh chỉ nhíu mày, không nói.",
+            "d": {
+              "hao": 1,
+              "sinh": -2,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Thay tạm áo khoác của anh rồi ngồi chờ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Áo anh còn hơi ấm. Cô ngồi yên cho đến khi người hầu mang váy tới.",
+            "d": {
+              "hao": 2,
+              "sinh": 1,
+              "ks": -3
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Áo khoác dài quá, cô vấp vạt áo, đau cổ chân. Anh nhìn nhưng chỉ lặng lẽ giữ cô thêm một lát.",
+            "d": {
+              "hao": 0,
+              "sinh": -3,
+              "ks": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, phòng nghỉ trên lầu nhà họ Kha. Nước đổ ướt váy; Mặc Trì đi lấy váy sạch và đứng chờ ngoài cửa.",
+      "learn": {
+        "n": "Điều hòa nhịp thở",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 3
+    },
+    {
+      "id": "z04",
+      "scene": "zdance",
+      "place": "Sân nhảy · Tối",
+      "kind": "chon",
+      "title": "Điệu nhảy với Kha Dật Phàm",
+      "text": "Lê Lê quay lại sảnh trong váy mới. Dật Phàm bước ngay tới, chìa tay mời nhảy. Thay vì nhận lời, cô quay sang hỏi anh nuôi: «Ca ca, em nhảy được không?» Mặc Trì im một thoáng rồi đặt bàn tay cô vào tay Dật Phàm. Tiểu Châu nhắc: nhảy giao tế là kỹ năng dùng lâu dài, đừng bỏ qua.",
+      "tieu": "Hắn cũng chẳng xấu đến mức không nhảy nổi một điệu. Đi bước nhỏ, giữ tay hắn ở đúng chỗ, nhìn vai thôi.",
+      "cast": "zl,zp,zm,tc",
+      "ch": [
+        {
+          "t": "Nhảy bước nhỏ, giữ nhịp, đặt tay đúng chỗ như được dạy",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Điệu nhảy gọn gàng, lịch sự. Dật Phàm không tìm được cớ nào để nói thêm.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "ks": 2
+            },
+            "f": "biet_nhay"
+          },
+          "b": 0.548,
+          "bad": {
+            "x": "Cô nhầm nhịp, giẫm lên chân Dật Phàm. Hắn cười gượng. Mặc Trì ở xa nhìn sang, mắt tối đi.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "sinh": -2,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Viện cớ nhảy tệ, chỉ nhảy một nửa bài rồi xin dừng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô cười nhẹ, nói chóng mặt vì rượu. Dật Phàm đành dừng. Mặc Trì khẽ thở ra.",
+            "d": {
+              "hao": 3,
+              "ks": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Dật Phàm nài nỉ, cô khó xử mãi mới thoát. Anh nhìn từ xa, mặt không biểu cảm.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Hỏi thẳng anh có muốn mình nhảy không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh đáp cộc lốc: «Em tự quyết.» Nhưng ánh mắt anh không rời tay Dật Phàm đặt trên lưng cô.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "hac": -1,
+              "ks": 2
+            }
+          },
+          "b": 0.428,
+          "bad": {
+            "x": "Anh quay đi: «Anh không quan tâm.» Giọng rõ là có quan tâm. Cô thấy ngực nhói.",
+            "d": {
+              "hao": -1,
+              "hac": 3,
+              "ks": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, sân nhảy. Dật Phàm mời Lê Lê nhảy; cô hỏi ý Mặc Trì trước khi nhận lời.",
+      "learn": {
+        "n": "Khiêu vũ giao tế",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 4
+    },
+    {
+      "id": "z05",
+      "scene": "zparty",
+      "place": "Sân nhảy · Tối",
+      "kind": "duyen",
+      "title": "Mắt anh tìm giữa sân nhảy",
+      "text": "Hà Tú Nhu, nữ minh tinh nổi tiếng quen với nhà họ Thẩm, mời Mặc Trì một điệu. Anh nhận lời. Giữa bản nhạc, Dật Phàm bị Hoắc Lệ Quyên gọi đi, Lê Lê ngồi lại một mình bên bàn nước. Mặc Trì vừa quay một vòng đã nhìn quanh tìm cô. Thấy cô vẫn ngồi đó, anh thở ra nhẹ nhõm, rồi nhíu mày vì chính anh cũng không hiểu vì sao mình lại nhẹ lòng.",
+      "tieu": "Thấy chưa? Hắn nhìn tìm ngươi từng giây. Thế mà còn bảo là không để ý. Khen hắn một câu đi.",
+      "cast": "zl,zm,zt,tc",
+      "ch": [
+        {
+          "t": "Vẫy tay mỉm cười với anh từ xa để anh yên tâm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh gật đầu rất khẽ, bước chân đều hơn hẳn. Hà Tú Nhu nhận ra điều gì đó, cười bí hiểm.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "hac": -1,
+              "ks": -2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô vẫy tay đúng lúc Hà Tú Nhu xoay người, nên trông như vẫy bà. Mặc Trì thấy hụt hẫng.",
+            "d": {
+              "hao": 0,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Ngồi yên đọc thực đơn, không để anh bận tâm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chọn đúng món ít gây tim đập nhanh, hẹn để dành cho anh một phần tráng miệng. Khi anh quay lại, thấy ngay món mình thích.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "ks": -3
+            },
+            "f": "biet_tinh"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô gọi nhầm món có rượu. Anh đổi ngay, cau mày: «Em nghĩ gì vậy?» nhưng giọng nhẹ hơn lời.",
+            "d": {
+              "hao": 1,
+              "sinh": -2,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Tự đi ra ban công hít thở để khỏi lọt vào mắt ai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ngoài ban công mát dịu. Cô quay lại đúng lúc điệu nhảy kết thúc. Anh đứng ở cửa, nhìn cô bước vào.",
+            "d": {
+              "hao": 2,
+              "ks": -4
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô trở vào thì Mặc Trì đã đi tìm khắp sảnh. Anh nhìn cô lâu, trách khẽ: «Đi đâu không nói.»",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, tiệc nhà họ Kha. Hà Tú Nhu, nữ minh tinh, mời Mặc Trì nhảy; Dật Phàm bị mẹ gọi đi, Lê Lê ngồi lại một mình.",
+      "no": 5
+    },
+    {
+      "id": "z06",
+      "scene": "zsofa",
+      "place": "Góc sô pha · Tối muộn",
+      "kind": "chon",
+      "title": "«Anh nói anh ấy là người tốt»",
+      "text": "Hết điệu nhảy, Mặc Trì ngồi xuống sô pha cạnh Lê Lê. Anh hỏi cô nghĩ gì về Dật Phàm. Cô chưa trả lời thì anh tự nói: «Hắn rất tốt. Gia thế, học vấn, ngoại hình đều không chê vào đâu được.» Lê Lê nghe đúng từng chữ. Tiểu Châu im bặt, rồi nhắc: cô làm gì cũng nghe anh nói đến từng chữ, vì cô muốn anh yên lòng.",
+      "tieu": "Cẩn thận lời nói, ngươi nói gì hắn cũng nghe nguyên văn đấy. Ở thế giới này, người nghe đúng từng chữ cực kỳ hiếm.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Đáp «Nếu ca ca đã nói vậy thì em tin»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh im lặng, bàn tay nắm ly rượu siết lại, rồi buông ra. Anh không nhận ra mình vừa thất vọng.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "hac": 1,
+              "ks": 1
+            },
+            "f": "nghe_anh"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh nhếch môi: «Em ngoan thật.» Nhưng giọng nói rõ ràng không vui.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "ks": 2
+            },
+            "f": "nghe_anh"
+          }
+        },
+        {
+          "t": "Hỏi ngược lại: «Ca ca thấy em hợp với anh ấy sao?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mặc Trì sững lại, nhìn ly rượu thật lâu: «Anh… không nói vậy.» Lần đầu cô thấy anh bị hỏi mà không có câu trả lời sẵn.",
+            "d": {
+              "hao": 5,
+              "ac": -4,
+              "hac": -2,
+              "ks": -1
+            },
+            "f": "hoi_anh"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Anh nhíu mày: «Đừng hỏi những câu đó.» Cả hai im lặng thêm một lúc rất khó chịu.",
+            "d": {
+              "hao": -1,
+              "hac": 3,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Không trả lời, chỉ cười rồi gắp thêm bánh cho anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn miếng bánh trên đĩa, như quên mất mình định nói gì. Cô thấy khóe môi anh khẽ giãn.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "ks": -2
+            }
+          },
+          "b": 0.512,
+          "bad": {
+            "x": "Bánh rơi xuống váy anh. Anh thở dài, tự lau vạt áo, nhưng không giận như cô lo.",
+            "d": {
+              "hao": 1,
+              "ks": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Tối muộn, góc sô pha tiệc nhà họ Kha. Mặc Trì hỏi Lê Lê nghĩ gì về Dật Phàm rồi tự khen hắn «rất tốt».",
+      "no": 6
+    },
+    {
+      "id": "z07",
+      "scene": "zcar",
+      "place": "Ngoài xe, cổng nhà họ Kha · Đêm",
+      "kind": "duyen",
+      "title": "Về nhà và cuốn sách cầm ngược",
+      "text": "Tiệc tan. Dật Phàm chạy theo ra tận cổng, hứa sẽ đưa cô về và chăm sóc cô. Mặc Trì chẳng nghe, đẩy cô vào xe rồi đóng cửa. Trong xe, anh mở cuốn sách trên đùi để tránh phải nói chuyện, nhưng cầm ngược. Lê Lê nhìn thấy, mím môi nhịn cười, rồi khen: «Ca ca đọc ngược cũng được.» Anh lật lại, tai đỏ lên. Cô nhẹ nhàng nhắc: «Ngày mai anh Dật Phàm hẹn em đi chơi.»",
+      "tieu": "Hắn đỏ tai kìa! Mà ngươi vừa báo trước chuyện ngày mai là khôn đấy, hắn sẽ suy nghĩ cả đêm.",
+      "cast": "zl,zm,zp,tc",
+      "ch": [
+        {
+          "t": "Nói thật: «Ngày mai anh ấy hẹn em, anh có muốn em đi không?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mặc Trì nhìn ra cửa sổ mãi mới đáp: «Tùy em.» Nhưng ngón tay anh siết bìa sách đến trắng bệch.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "hac": -1,
+              "ks": 1
+            },
+            "f": "hoi_anh"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Anh lạnh giọng: «Em tự lo.» Cô không dám nói thêm. Cả chặng đường im ắng.",
+            "d": {
+              "hao": -1,
+              "hac": 3,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Khen sách của anh hay, đổi chuyện sang chỗ khác",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh kể vài dòng trong sách, giọng dịu dần. Cô nghe say sưa đến lúc xe dừng trước cổng nhà.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "ks": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô khen nhầm tên sách, anh hơi buồn cười lẫn khó chịu: «Em đọc chưa?» Cô đành thú nhận.",
+            "d": {
+              "hao": 1,
+              "ks": 1
+            }
+          }
+        },
+        {
+          "t": "Im lặng dựa lưng nghe tiếng anh lật sách",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiếng lật sách đều đều như ru. Cô ngủ gật, anh khẽ kéo chăn mỏng đắp cho cô.",
+            "d": {
+              "hao": 3,
+              "sinh": 2,
+              "ks": -3
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô ngủ quên, đầu đập nhẹ vào cửa kính. Anh vội đỡ, hơi quýnh lên.",
+            "d": {
+              "hao": 2,
+              "sinh": -2,
+              "ks": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm, trên xe về nhà. Mặc Trì đẩy Lê Lê vào xe, không nghe Dật Phàm hứa chăm sóc; anh cầm sách ngược.",
+      "no": 7
+    },
+    {
+      "id": "z08",
+      "scene": "zcar",
+      "place": "Trên xe về biệt thự · Đêm",
+      "kind": "chon",
+      "title": "Xóa liên lạc Dật Phàm",
+      "text": "Điện thoại Lê Lê sáng lên: Dật Phàm đã xin được số của cô qua một người bạn chung và vừa thêm WeChat. Mặc Trì liếc màn hình, hỏi dửng dưng: «Em thêm hắn khi nào?» Lê Lê nhìn gương mặt không chút biểu cảm của anh, rồi nhấn xóa liên lạc ngay trước mặt anh. Anh nói khẽ: «Nếu em muốn thì anh không cản.»",
+      "tieu": "Xóa luôn à? Ngươi tin anh nuôi hơn tin ý mình, may mà cậu ta tin nổi. Nhưng đừng để hắn tưởng ngươi giận hắn.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Xóa thẳng và nói rõ: «Anh không thích thì em không cần»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mặc Trì mím môi, không ngờ cô trả lời thẳng như vậy. Anh quay sang cửa sổ để giấu nụ cười hiếm hoi.",
+            "d": {
+              "hao": 5,
+              "ac": -4,
+              "hac": -2,
+              "ks": -1
+            },
+            "f": "xoa_so"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nói hơi gắt, anh nhíu mày: «Anh đâu bảo em xóa.» Hai người im lặng đến cổng nhà.",
+            "d": {
+              "hao": 0,
+              "hac": 3,
+              "ks": 3
+            },
+            "f": "xoa_so"
+          }
+        },
+        {
+          "t": "Giữ lại nhưng tắt thông báo, nói để lịch sự",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô giải thích giữ liên lạc xã giao thôi. Mặc Trì gật đầu ra chiều hiểu, nhưng ánh mắt vẫn dõi theo điện thoại cô.",
+            "d": {
+              "hao": 2,
+              "ac": -1,
+              "ks": 0
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Dật Phàm nhắn liền năm tin. Mặc Trì liếc thấy, mặt lạnh hẳn: «Lịch sự quá nhỉ.»",
+            "d": {
+              "hao": -2,
+              "hac": 4,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Đưa điện thoại cho anh: «Anh xem đi, muốn xóa thì xóa»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh cầm điện thoại, nhìn màn hình rất lâu rồi trả lại: «Em tự quyết.» Nhưng lần này giọng anh khàn đi.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -2,
+              "ks": 0
+            },
+            "f": "xoa_so"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh xóa thật, nhưng trả máy với vẻ mặt khó đoán. Cô không biết mình vừa làm đúng hay sai.",
+            "d": {
+              "hao": 1,
+              "hac": 2,
+              "ks": 2
+            },
+            "f": "xoa_so"
+          }
+        }
+      ],
+      "ctx": "Đêm, trên xe về biệt thự. Dật Phàm xin được số Lê Lê và thêm WeChat; Mặc Trì hỏi cô thêm hắn từ khi nào.",
+      "no": 8
+    },
+    {
+      "id": "z09",
+      "scene": "zbreak",
+      "place": "Bàn ăn sáng biệt thự nhà Thẩm · Sáng",
+      "kind": "nan",
+      "title": "Cuộc gọi buổi sáng",
+      "text": "Sáng hôm sau, bàn ăn sáng còn nguyên cháo nóng. Điện thoại bàn reo: Dật Phàm gọi thẳng về nhà rủ Lê Lê đi chơi hồ Tây Dã. Lê Lê chưa kịp trả lời thì Mặc Trì đã giật ống nghe, bảo Dật Phàm cứ đến đón. Cúp máy, anh dặn cô lên lầu trang điểm cho đẹp. Cô hiểu anh vẫn đang đẩy cô đi, dù tay anh cầm đũa bẻ gẫy cả hai chiếc.",
+      "tieu": "Hắn bẻ gẫy hai chiếc đũa kìa. Đừng nói gì lúc này, ngươi nói gì cũng vào tai hắn thành mệnh lệnh. Nhưng cũng đừng khóc.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Nhận lời và dặn bản thân phải giữ bình tĩnh khi đi chơi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô cúi đầu: «Vâng, em đi.» Anh nhìn bóng cô lên lầu, thật lâu, đôi đũa gãy vẫn nằm trong tay.",
+            "d": {
+              "hao": 2,
+              "ac": -2,
+              "ks": 1
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Giọng cô run quá. Anh nghe được, nhíu mày, nhưng vẫn bảo: «Đi đi.»",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Hỏi nhẹ: «Ca ca đi cùng em được không?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ngẩn ra vài giây: «Anh còn họp.» Rồi nói thêm, không nhìn cô: «Có chuyện gì thì gọi anh.»",
+            "d": {
+              "hao": 5,
+              "ac": -4,
+              "hac": -2,
+              "ks": 0
+            },
+            "f": "hoi_anh"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh quát nhẹ: «Anh không phải bảo mẫu của em.» Câu nói vừa ra miệng thì anh đã hối hận.",
+            "d": {
+              "hao": -3,
+              "hac": 4,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Im lặng ăn hết cháo rồi lên lầu như được dặn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô ăn sạch bát cháo, để lại cho anh một nụ cười. Anh nhìn bát sạch, chợt thấy trong lòng ấm lên.",
+            "d": {
+              "hao": 2,
+              "sinh": 2,
+              "ks": -2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cháo còn nóng, cô bị phỏng lưỡi. Anh vội đưa nước, cau mày: «Lúc nào cũng vụng về.»",
+            "d": {
+              "hao": 1,
+              "sinh": -2,
+              "ks": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, bàn ăn biệt thự nhà Thẩm. Dật Phàm gọi rủ Lê Lê đi chơi; Mặc Trì giật điện thoại bảo hắn tới đón.",
+      "no": 9
+    },
+    {
+      "id": "z10",
+      "scene": "zlake",
+      "place": "Hồ Tây Dã · Trưa",
+      "kind": "nan",
+      "title": "Hẹn ở hồ Tây Dã",
+      "text": "Hồ sen Tây Dã nở rộ. Dật Phàm đón Lê Lê, tay cầm bó hồng đỏ chói. Mặc Trì đứng nơi cổng nhà, dặn: «Đừng để ai ức hiếp cô ấy.» Lê Lê bước lên thuyền, ngoái nhìn. Cùng lúc ấy, ở văn phòng Thẩm thị, anh ngồi nhìn đồng hồ mãi mà không đọc nổi một dòng hồ sơ. Ngô Khải, trợ lý của anh, đứng im không dám thở mạnh.",
+      "tieu": "Hắn ngồi nhìn đồng hồ cả buổi! Đây là buổi hẹn lần đầu, nhớ giữ khoảng cách và đừng nhận hoa.",
+      "cast": "zl,zp,zm,zg,tc",
+      "ch": [
+        {
+          "t": "Nhận bó hồng cho lịch sự nhưng đặt lên ghế xa mình",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Dật Phàm cười tự mãn. Lê Lê giữ khoảng cách vừa phải, trò chuyện đúng mực. Hắn không có cớ để đụng tay.",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "ks": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô vô tình để bó hồng chạm vào váy, gai đâm xước tay. Dật Phàm xin lỗi rối rít và nắm lấy tay cô. Cô vội rụt về.",
+            "d": {
+              "hac": 2,
+              "sinh": -3,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Từ chối hoa thẳng thắn, nói mình dị ứng phấn hoa hồng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dật Phàm đành đặt hoa xuống, mặt hơi sượng. Cô thở nhẹ, chiếc thuyền lướt trên lá sen yên ả hơn nhiều.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 1,
+              "ks": -2
+            },
+            "f": "ghet_hong"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Hắn không tin, còn bảo «cái cớ này cũ rồi». Cô phải kiên nhẫn giải thích suốt nửa đường.",
+            "d": {
+              "hac": 2,
+              "sinh": -2,
+              "ks": 3
+            },
+            "f": "ghet_hong"
+          }
+        },
+        {
+          "t": "Hỏi Dật Phàm về hồ sen, kéo câu chuyện sang chỗ khác",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dật Phàm kể một hơi về các loại sen, cô chỉ cần gật đầu. Buổi hẹn nhẹ nhàng hơn cô tưởng.",
+            "d": {
+              "ac": -2,
+              "ks": -3,
+              "hao": 1
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hắn kể lan man sang chuyện tiền bạc và cổ phần nhà họ Kha, khiến cô thấy rất khó chịu.",
+            "d": {
+              "hac": 1,
+              "sinh": -1,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Trưa, hồ Tây Dã. Dật Phàm cầm hoa hồng đón Lê Lê; Mặc Trì dặn hắn đừng để ai ức hiếp cô rồi vào văn phòng, ngồi nhìn đồng hồ mãi.",
+      "no": 10
+    },
+    {
+      "id": "z11",
+      "scene": "zlake",
+      "place": "Trên thuyền · Trưa",
+      "kind": "chon",
+      "title": "Ảnh hoa sen và cuộc gọi",
+      "text": "Giữa hồ, điện thoại rung: Mặc Trì gọi hỏi cô có bị ức hiếp không. Cô nói không, rồi gửi thêm ảnh hoa sen, trong đó mặt cô luôn lọt khung. Một lúc sau, anh trả lời đúng một chữ: «Đẹp.» Rồi anh tắt máy. Lê Lê nhìn màn hình, không biết nên nhắn tiếp hay dừng.",
+      "tieu": "Một chữ «đẹp» mà không nói đẹp cái gì. Ngươi thử đoán xem.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Nhắn tiếp: «Ca ca thích hoa nào?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Một phút sau anh đáp: «Sen trắng.» Cô thấy tim hơi đập nhanh, vội thở theo nhịp đã học.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "hac": -1,
+              "ks": 2
+            },
+            "f": "hoi_anh"
+          },
+          "b": 0.548,
+          "bad": {
+            "x": "Anh không trả lời. Cô nhìn màn hình đến khi nó tự tắt.",
+            "d": {
+              "hao": 0,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Dừng nhắn, cất điện thoại vào túi, quay sang thưởng thức hồ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô quay lại ngắm sen thật. Dật Phàm tưởng cô dễ gần hơn, trò chuyện thoải mái. Cô không để lộ gì.",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "ks": -3
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Dật Phàm thấy cô cất máy vội, tò mò hỏi ai gọi. Cô khó trả lời, hắn đoán ra.",
+            "d": {
+              "hac": 2,
+              "sinh": -2,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Gửi thêm một ảnh chụp cả thuyền và hồ, không có mặt mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Lần này anh trả lời nhanh hơn: «Đẹp.» Chỉ một chữ, nhưng cô thấy chữ ấy mềm hơn lúc trước.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "ks": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Ảnh bị mờ vì gió, anh nhắn: «Chụp lại.» Cô loay hoay mãi vẫn không ra ảnh đẹp.",
+            "d": {
+              "hao": 0,
+              "ks": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Trưa, trên thuyền giữa hồ Tây Dã. Mặc Trì gọi hỏi cô có bị ức hiếp không; cô gửi ảnh hoa sen và anh chỉ trả lời «Đẹp».",
+      "no": 11
+    },
+    {
+      "id": "z12",
+      "scene": "zlake",
+      "place": "Giữa hồ · Chiều",
+      "kind": "chon",
+      "title": "Điện thoại rơi xuống hồ",
+      "text": "Thuyền chao nhẹ. Chiếc điện thoại, món quà sinh nhật Mặc Trì tặng cô năm ngoái, trượt khỏi tay và rơi xuống nước. Dật Phàm kêu lên sẽ lội xuống vớt giúp. Lê Lê nhìn mặt nước, mắt đỏ hoe. Đó là món quà anh nuôi tặng, cô muốn tự tìm cách lấy lại nó.",
+      "tieu": "Điện thoại là quà của hắn, ngươi tiếc là phải. Nhưng đừng để Dật Phàm nhúng nước giúp, hắn sẽ đòi nợ ân tình.",
+      "cast": "zl,zp,tc",
+      "ch": [
+        {
+          "t": "Từ chối, nhờ bác trực hồ dùng vợt vớt lên",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bác trực hồ dùng cây sào móc được điện thoại sau vài phút. Máy ướt sũng nhưng vẫn còn nguyên. Dật Phàm đứng đó, chẳng giúp được gì.",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "ks": -2
+            },
+            "f": "giu_may"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Bác không tìm thấy, cần đợi người lặn. Cô phải chờ ở bờ cả buổi chiều.",
+            "d": {
+              "sinh": -3,
+              "ks": 3
+            },
+            "f": "giu_may"
+          }
+        },
+        {
+          "t": "Nhận lời cho Dật Phàm lội xuống vớt",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dật Phàm lội xuống, vớt được máy lên và đắc ý lắm. Cô cảm ơn lịch sự, nhưng thấy mình đang mắc nợ hắn.",
+            "d": {
+              "ac": 2,
+              "hac": 2,
+              "hao": -1,
+              "ks": 2
+            }
+          },
+          "b": 0.41,
+          "bad": {
+            "x": "Hắn lội xuống nhưng trượt chân ngã ì ạch, người ướt như chuột. Điện thoại vẫn chìm.",
+            "d": {
+              "ac": 3,
+              "hac": 3,
+              "hao": -2,
+              "sinh": -3,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Nhìn mặt hồ, ghi nhớ chỗ rơi để tự tính cách vớt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhớ rõ chỗ rơi, nhờ bác trực hồ chèo thuyền ra đúng chỗ. Máy được vớt lên nguyên vẹn.",
+            "d": {
+              "ac": -3,
+              "hao": 1,
+              "ks": -1
+            },
+            "f": "giu_may"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô nhớ nhầm chỗ, tìm mất cả tiếng mà không thấy gì.",
+            "d": {
+              "sinh": -4,
+              "ks": 3
+            },
+            "f": "giu_may"
+          }
+        }
+      ],
+      "ctx": "Chiều, giữa hồ Tây Dã. Điện thoại, quà sinh nhật Mặc Trì tặng, rơi xuống nước; Dật Phàm đòi lội xuống vớt.",
+      "no": 12
+    },
+    {
+      "id": "z13",
+      "scene": "zvilla",
+      "place": "Biệt thự nhà Thẩm · Đêm",
+      "kind": "nan",
+      "title": "Biệt thự lạnh như mùa đông",
+      "text": "Buổi hẹn kết thúc, Lê Lê trở về. Phòng khách tối, Mặc Trì ngồi một mình trong bóng tối. Anh nói giọng đều đều: «Ba mẹ sắp về. Em cứ nói em với hắn tâm đầu ý hợp.» Cô hỏi: «Đây có phải điều anh muốn không?» Anh nhìn đi chỗ khác, không đáp. Cả biệt thự bỗng lạnh như mùa đông, và Tiểu Châu nói khẽ rằng hắc khí trên người anh vừa dâng lên.",
+      "tieu": "Hắc khí đang dâng! Câu nào cũng phải cẩn thận. Ngươi hỏi thật lòng thì hắn cũng sẽ nghe thật lòng.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Nhìn thẳng anh: «Em không tâm đầu ý hợp với ai cả, em chỉ muốn ở nhà»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh siết tay, mắt tối lại, nhưng không phản bác. Cô thấy hắc khí quanh anh không dâng thêm nữa.",
+            "d": {
+              "ac": -3,
+              "hao": 2,
+              "ks": 2
+            },
+            "f": "noi_that"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Anh đứng bật dậy: «Đừng trẻ con.» Hắc khí đen đặc lại. Cô vội lùi một bước.",
+            "d": {
+              "hac": 2,
+              "sinh": -4,
+              "ks": 5
+            },
+            "f": "noi_that"
+          }
+        },
+        {
+          "t": "Hỏi nhỏ: «Anh có đang giận ba mẹ không?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh chấn động, im lặng rất lâu. Cuối cùng mới nói: «Anh không muốn bị sắp đặt.» Lần đầu anh nói thật.",
+            "d": {
+              "ac": -4,
+              "hao": 3,
+              "ks": 1
+            },
+            "f": "hieu_anh"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh quay đi: «Em lo chuyện của em.» Cánh cửa thư phòng đóng sầm lại.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Lặng lẽ rót cho anh ly trà nóng, ngồi bên cạnh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn ly trà, rồi nhìn cô. Mãi sau mới cầm lên: «Em lên ngủ đi.» Cô ngồi thêm một lát cho anh khỏi cô đơn.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 1,
+              "ks": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô lỡ tay làm đổ trà ra bàn. Anh lấy khăn lau, im lặng, ánh mắt đầy bực bội.",
+            "d": {
+              "hao": 0,
+              "hac": 1,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm, phòng khách biệt thự nhà Thẩm. Mặc Trì chờ sẵn trong bóng tối, bảo cô nói với ba mẹ rằng cô và Dật Phàm tâm đầu ý hợp.",
+      "forced": 1,
+      "no": 13
+    },
+    {
+      "id": "z14",
+      "scene": "zbed",
+      "place": "Phòng ngủ Lê Lê · Đêm khuya",
+      "kind": "duyen",
+      "title": "Tiểu Châu kể về nguyên chủ",
+      "text": "Đêm khuya, Lê Lê nằm trằn trọc. Tiểu Châu lên tiếng, giọng nhỏ hơn mọi khi: nguyên chủ yêu Mặc Trì từ năm ba tuổi. Hồi đó cô nằm viện, ngày nào cũng nhìn sang cô nhi viện cạnh bên, và để ý một cậu bé ngoan cường tên Thẩm Mặc Trì. Cô năn nỉ ba mẹ nhận cậu về nuôi. Mặc Trì không biết điều đó: anh vẫn tin mình bị nhận nuôi để làm con rể.",
+      "tieu": "Anh ấy không biết đâu. Nếu ngươi muốn gỡ Ác niệm 100 của hắn, hãy cho hắn biết mình được yêu thương chứ không phải được sắp đặt.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Ghi nhớ kỹ, quyết định sẽ tìm dịp nói cho anh biết sự thật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi nhớ từng chi tiết, tự hứa sẽ không để anh tiếp tục hiểu lầm. Tim cô đập đều lại.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 2,
+              "ks": -3
+            },
+            "f": "biet_qk"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô nghĩ ngợi đến sáng mà không ra cách nào, mắt thâm quầng.",
+            "d": {
+              "sinh": -3,
+              "ks": 3
+            },
+            "f": "biet_qk"
+          }
+        },
+        {
+          "t": "Hỏi Tiểu Châu liệu nên nói ngay hay chờ thêm một thời gian",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu khuyên chờ đúng dịp. Cô nghe xong thấy nhẹ lòng.",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "ks": -3
+            },
+            "f": "biet_qk"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiểu Châu lúng túng, câu nào cũng «tùy ngươi». Cô càng rối hơn.",
+            "d": {
+              "sinh": -2,
+              "ks": 2
+            },
+            "f": "biet_qk"
+          }
+        },
+        {
+          "t": "Lén ra cửa phòng anh, đứng ngoài một lúc rồi quay vào",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô nghe tiếng bước chân trong phòng anh, đi qua đi lại. Hai người cùng thức nhưng không ai gõ cửa.",
+            "d": {
+              "hao": 2,
+              "ac": -1,
+              "ks": 1
+            }
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Sàn nhà kêu cọt kẹt. Cửa phòng anh mở ra: «Em làm gì ở đó?» Cô ấp úng.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "sinh": -2,
+              "ks": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm khuya, phòng ngủ Lê Lê. Tiểu Châu cho biết nguyên chủ thích Mặc Trì từ năm ba tuổi và chính cô đã xin ba mẹ nhận anh về nuôi.",
+      "no": 14
+    },
+    {
+      "id": "z15",
+      "scene": "zdine",
+      "place": "Phòng ăn biệt thự · Tối",
+      "kind": "chon",
+      "title": "Bữa tối bỏ dở",
+      "text": "Người hầu gọi cô xuống ăn tối đến lần thứ ba. Lê Lê vẫn ngồi trong phòng, nhìn trần nhà, chưa biết nên đối mặt với anh thế nào. Cuối cùng, tiếng gõ cửa vang lên, giọng Mặc Trì trầm và mệt: «Tiểu Lê, ra ăn.» Anh đã lên tận cửa phòng gọi cô, điều trước giờ chưa từng có.",
+      "tieu": "Hắn lên tận cửa gọi ngươi kìa! Mở cửa nhanh thì hắn mừng, để hắn đứng chờ thì hắn hoảng. Chọn xem ngươi muốn hắn thế nào.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Mở cửa ngay, theo anh xuống ăn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh hơi ngạc nhiên vì cô ra nhanh quá. Hai người ngồi ăn trong im lặng nhưng dịu hẳn. Anh gắp thịt vào bát cô.",
+            "d": {
+              "hao": 5,
+              "ac": -4,
+              "hac": -2,
+              "ks": -3
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô vội mở cửa, va vào anh đang đứng sát. Anh đỡ vai cô, hơi cau mày vì cô lúc nào cũng vụng về.",
+            "d": {
+              "hao": 2,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Nói qua cửa: «Em đau đầu, ca ca cứ ăn trước»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh đứng yên ngoài cửa rất lâu, rồi nói: «Anh để cháo trước cửa.» Mười phút sau cô mở cửa, thấy bát cháo còn ấm.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "hac": -1,
+              "ks": -1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Anh nghe giọng cô khản đặc, lo lắng gõ liền ba lần. Cô phải mở cửa, hơi xấu hổ vì đã nói dối.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Để anh đứng chờ thêm một lúc rồi mới mở cửa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh đứng yên, không nói gì. Khi cô mở cửa, ánh mắt anh sáng hơn hẳn. Cô nhận ra anh đã đứng đợi suốt.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "ks": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Anh bỏ đi trước khi cô kịp mở. Cô xuống bàn thì đĩa của anh đã dọn sạch.",
+            "d": {
+              "hao": -3,
+              "hac": 3,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, phòng ăn biệt thự nhà Thẩm. Lê Lê không xuống ăn dù người hầu gọi nhiều lần; Mặc Trì lên tận cửa phòng gọi cô.",
+      "no": 15
+    },
+    {
+      "id": "z16",
+      "scene": "zshop",
+      "place": "Tiệm sửa điện thoại phố cũ · Sáng sớm",
+      "kind": "duyen",
+      "title": "Tiệm sửa điện thoại",
+      "text": "Sáng sớm hôm sau, Lê Lê lặng lẽ ra khỏi nhà với chiếc điện thoại ướt. Cô không báo ai, vì muốn giữ nguyên món quà của Mặc Trì. Trong tiệm sửa nhỏ ở phố cũ, bác chủ tiệm Cường dạy cô tháo vỏ, sấy bo mạch, lau từng chân linh kiện. Cô ngồi đợi cả buổi sáng, mắt không rời bo mạch. Điện thoại bên cạnh liên tục báo cuộc gọi nhỡ, nhưng cô tắt tiếng để khỏi làm bác Cường mất tập trung.",
+      "tieu": "Ngươi định để hắn đoán đến chết à? Mà thôi, học được cách sửa điện thoại cũng là cái hay.",
+      "cast": "zl,zs,tc",
+      "ch": [
+        {
+          "t": "Ngồi cạnh bác Cường, học từng bước mở máy và sấy bo mạch",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bác Cường vừa làm vừa giảng. Cô học được cách mở máy, sấy bo mạch và kiểm tra từng linh kiện. Lúc điện thoại sáng lên, cô suýt bật khóc.",
+            "d": {
+              "ac": -3,
+              "hao": 1,
+              "sinh": 2,
+              "ks": -4
+            },
+            "f": "biet_sua"
+          },
+          "b": 0.548,
+          "bad": {
+            "x": "Cô vặn nhầm ốc, làm trầy vỏ máy. Bác Cường phải sửa lại rồi dặn cô cẩn thận hơn.",
+            "d": {
+              "sinh": -2,
+              "ks": 3
+            },
+            "f": "biet_sua"
+          }
+        },
+        {
+          "t": "Nhờ bác Cường sửa hộ rồi chờ bên ngoài",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bác Cường làm xong trong một giờ. Cô cảm ơn, trả công và cầm máy ra về.",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "ks": -1
+            },
+            "f": "giu_may"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Bác Cường bận khách khác, cô phải chờ gần hết buổi sáng.",
+            "d": {
+              "sinh": -2,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Gọi báo ngay cho anh biết mình ở đâu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô gọi báo. Anh im lặng, rồi hỏi địa chỉ. Cô cảm nhận được anh vội vã.",
+            "d": {
+              "hao": 3,
+              "ac": -1,
+              "ks": 0
+            },
+            "f": "bao_anh"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô bấm nhầm số, gọi vào máy Dật Phàm. Hắn mừng rỡ nói mãi. Cô vội cúp máy, lòng rối bời.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "sinh": -2,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng sớm, tiệm sửa điện thoại nhỏ ở phố cũ. Lê Lê tự đi sửa điện thoại, không báo ai vì muốn giữ nguyên món quà của Mặc Trì.",
+      "learn": {
+        "n": "Sửa điện thoại cơ bản",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 16
+    },
+    {
+      "id": "z17",
+      "scene": "zoffice",
+      "place": "Văn phòng Thẩm thị · Trưa",
+      "kind": "nan",
+      "title": "Mặc Trì tìm thấy em",
+      "text": "Gần trưa, ở văn phòng Thẩm thị, Mặc Trì gọi cô hàng chục lần không được. Anh gọi cả Dật Phàm, nhận câu trả lời «không có cô ở đây». Mặt anh tái đi. Ngô Khải phải báo cảnh sát nhờ xác định vị trí. Họ tìm ra cô ở tiệm sửa phố cũ. Khi anh bước vào tiệm, thở hồng hộc, mắt đỏ, anh giận run lên.",
+      "tieu": "Hắn lo muốn chết, mà ngươi còn ngồi đó thản nhiên. Giải thích thật khéo, hắn sắp nổ tung.",
+      "cast": "zl,zm,zg,zs,tc",
+      "ch": [
+        {
+          "t": "Xin lỗi ngay, giải thích mình sợ làm hỏng món quà của anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đứng sững, mắt đỏ lên. Rồi anh kéo cô vào lòng, thở dài: «Món quà không quan trọng bằng em.»",
+            "d": {
+              "hao": 8,
+              "ac": -6,
+              "hac": -4,
+              "ks": 2
+            },
+            "f": "anh_tin"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nói lắp bắp, anh càng giận: «Em có biết anh lo thế nào không?» Nhưng tay anh đã nắm chặt vai cô.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "sinh": -4,
+              "ks": 5
+            }
+          }
+        },
+        {
+          "t": "Đưa ngay chiếc điện thoại đã sửa ra cho anh xem",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhìn chiếc máy sáng đèn, nhìn bàn tay đầy vết dầu máy của cô, và không nói được gì nữa.",
+            "d": {
+              "hao": 6,
+              "ac": -4,
+              "hac": -3,
+              "ks": 0
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Máy vừa sửa lại tắt ngúm ngay khi cô đưa ra. Anh nhìn một lúc rồi thở dài: «Thôi.»",
+            "d": {
+              "hao": 2,
+              "ac": -1,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Im lặng cúi đầu để anh nói hết cơn giận",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nói liền năm phút, giọng khàn đi. Khi anh dừng lại, cô nhẹ nhàng nắm tay áo anh. Anh cứng người, rồi buông lỏng.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "hac": -2,
+              "ks": -1
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Anh nói nặng lời. Cô nghe xong, mắt cay, tim đập loạn lên. Cô phải vịn tường mới đứng được.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "sinh": -5,
+              "ks": 6
+            }
+          }
+        }
+      ],
+      "ctx": "Giữa trưa, tiệm sửa phố cũ. Mặc Trì gọi cô không được, nhờ cảnh sát xác định vị trí rồi chạy tới tìm.",
+      "no": 17
+    },
+    {
+      "id": "z18",
+      "scene": "zvilla",
+      "place": "Phòng khách biệt thự · Chiều",
+      "kind": "chon",
+      "title": "Quà sinh nhật bị ướt",
+      "text": "Chiều đó, về phòng khách, Lê Lê nói điện thoại bị ướt là món quà anh tặng nên cô không dám làm hỏng. Mặc Trì mềm lòng, đưa cô một chiếc mới. Nhưng anh vẫn nói thêm: «Sau này em đi hẹn hò, anh không cản.» Cùng lúc, người của Dật Phàm đem tới một chiếc điện thoại đắt tiền, nói là «lời xin lỗi của cậu chủ». Mặc Trì lạnh mặt bảo trả về.",
+      "tieu": "Có người tặng mới thì phải biết giữ thái độ! Mặc Trì chặn quà nhưng nói vậy vẫn là đẩy ngươi đi, nhớ nhé.",
+      "cast": "zl,zm,zp,tc",
+      "ch": [
+        {
+          "t": "Nói rõ: «Em chỉ muốn chiếc máy này, vì là anh tặng»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh sững người, bàn tay cầm điện thoại mới run nhẹ. Anh để chiếc mới xuống bàn: «Vậy giữ chiếc cũ.»",
+            "d": {
+              "hao": 6,
+              "ac": -5,
+              "hac": -3,
+              "ks": -1
+            },
+            "f": "anh_tin"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói quá nhanh, anh không nghe rõ: «Em nói gì?» Cô không dám nhắc lại lần hai.",
+            "d": {
+              "hao": 1,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Nhận chiếc mới của anh và cảm ơn bình thường",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhận máy, nở nụ cười nhẹ. Anh gật đầu, nhưng nhìn nụ cười ấy mãi không rời.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "hac": -1,
+              "ks": -2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô lỡ tay làm rơi hộp máy xuống thảm. Anh đón kịp, mắng nhẹ: «Cẩn thận chút.»",
+            "d": {
+              "hao": 1,
+              "sinh": -2,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Hỏi vì sao anh lúc nào cũng nói «không cản»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh im lặng rất lâu. Sau cùng nói: «Vì anh sợ mình cản.» Một câu nói nhỏ, nhưng khiến Tiểu Châu im bặt.",
+            "d": {
+              "hao": 6,
+              "ac": -5,
+              "hac": -3,
+              "ks": 1
+            },
+            "f": "hieu_anh"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh nhíu mày: «Đừng hỏi những câu vô ích.» Cô đành ngậm miệng, mắt cay.",
+            "d": {
+              "hao": -2,
+              "hac": 3,
+              "ks": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, phòng khách biệt thự nhà Thẩm. Điện thoại ướt là quà của Mặc Trì; anh đưa cô máy mới và trả lại máy Dật Phàm gửi tới.",
+      "no": 18
+    },
+    {
+      "id": "z19",
+      "scene": "zkha",
+      "place": "Tòa nhà Kha thị · Chiều muộn",
+      "kind": "hiem",
+      "title": "Hàng hiên ở Kha thị",
+      "text": "Vài ngày sau, Mặc Trì nhờ cô đưa hồ sơ cho Dật Phàm, vừa là cái cớ để hai người gặp, vừa để anh đỡ nghĩ ngợi. Lê Lê tới tòa nhà Kha thị lúc chiều muộn. Ở hàng hiên, cô thấy Dật Phàm đứng rất gần một cô gái trẻ mặc đồng phục nhân viên: Chung Hiểu Hiểu, vừa làm trợ lý riêng của hắn, cha đang bệnh cần tiền. Họ nói thì thầm, cười, tay chạm tay. Lê Lê hiểu ngay: hai người đã hẹn hò lén.",
+      "tieu": "Thấy chưa? Cái người khen là «người tốt» đây! Chụp một tấm làm bằng chứng, đừng nói gì lúc này.",
+      "cast": "zl,zp,zh,tc",
+      "ch": [
+        {
+          "t": "Lặng lẽ chụp một tấm ảnh hai người rồi quay đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chụp gọn một tấm, nhẹ chân rời đi. Không ai phát hiện. Tiểu Châu gật gù: «Giữ lại, sẽ có ngày dùng.»",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 1,
+              "ks": 2
+            },
+            "f": "anh_hen"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiếng chụp ảnh vang lên khẽ. Hiểu Hiểu ngẩng đầu, ánh mắt giật mình. Cô vội rút lui.",
+            "d": {
+              "hac": 1,
+              "sinh": -3,
+              "ks": 5
+            }
+          }
+        },
+        {
+          "t": "Bước ra chào Dật Phàm, giả vờ như không thấy gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dật Phàm bối rối, vội đẩy Hiểu Hiểu ra. Lê Lê đưa hồ sơ, chào lịch sự rồi quay về. Hắn nhìn theo, đầy ngờ vực.",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "ks": 1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hiểu Hiểu lườm Lê Lê, trong mắt là sự đề phòng. Dật Phàm cười gượng gạo. Cô thấy mình vừa đạp trúng điều gì đó.",
+            "d": {
+              "hac": 2,
+              "sinh": -3,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Để hồ sơ lại cho lễ tân, về nhà ngay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô đặt hồ sơ lên quầy, không nói lời nào. Đến cửa lớn, cô thở phào. Trên đường về, cô kể cho Tiểu Châu nghe mọi chuyện.",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "ks": -3
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Lễ tân làm mất hồ sơ, Mặc Trì gọi hỏi, cô phải quay lại. Cô cảm thấy mình vụng về.",
+            "d": {
+              "sinh": -2,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều muộn, tòa nhà Kha thị. Lê Lê tới đưa hồ sơ cho Dật Phàm và bắt gặp hắn thân mật với Chung Hiểu Hiểu, trợ lý mới có cha đang bệnh.",
+      "no": 19
+    },
+    {
+      "id": "z20",
+      "scene": "zstreet",
+      "place": "Phố tối · Đêm",
+      "kind": "chon",
+      "title": "Cuộc gọi nhờ anh đón",
+      "text": "Trời đã tối khi Lê Lê rời Kha thị. Tài xế nhà Thẩm hôm nay không đi cùng. Cô gọi cho Mặc Trì nhờ đón. Anh đang họp, bảo cô gọi xe quen cho an toàn rồi cúp máy. Phố vắng, đèn vàng nhập nhoạng. Cô đứng bên lề, không biết nên vẫy xe ngoài đường hay đợi thêm.",
+      "tieu": "Đừng vẫy xe ngoài đường lúc này! Ta có linh cảm không hay. Nhưng đợi thì ngươi lại phải đứng ở nơi vắng.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Đứng trong cửa hàng tiện lợi gọi lại cho anh lần nữa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô vào cửa hàng gần đó, gọi lần hai. Anh vẫn họp nhưng Ngô Khải nghe máy, hứa sẽ báo anh ngay.",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "ks": 0
+            },
+            "f": "goi_lai"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cửa hàng đã đóng cửa. Cô đứng lạnh ngoài hiên, tim đập nhanh.",
+            "d": {
+              "sinh": -3,
+              "ks": 5
+            }
+          }
+        },
+        {
+          "t": "Vẫy một chiếc xe dịch vụ đang chạy tới",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Xe trông sạch sẽ, tài xế trả lời lịch sự. Cô lên xe, chưa biết mình vừa đặt chân vào cái bẫy.",
+            "d": {
+              "hao": 0,
+              "ks": 1
+            },
+            "f": "len_xe"
+          },
+          "b": 0.41,
+          "bad": {
+            "x": "Chiếc xe vừa dừng, tài xế đã giục lên nhanh. Cô thấy bất an, nhưng vẫn lên.",
+            "d": {
+              "sinh": -2,
+              "ks": 3
+            },
+            "f": "len_xe"
+          }
+        },
+        {
+          "t": "Đi bộ về phía đường lớn đông người hơn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô đi bộ thêm mười phút đến ngã tư sáng đèn, bắt xe quen của nhà. Mọi chuyện bình thường.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "ks": -1
+            },
+            "f": "di_bo"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô đi bộ nhầm ngả, lạc vào ngõ vắng. Chân đau, tim đập loạn, mất hơn nửa giờ mới ra tới đường lớn.",
+            "d": {
+              "sinh": -5,
+              "ks": 6,
+              "hac": 1
+            },
+            "f": "len_xe"
+          }
+        }
+      ],
+      "ctx": "Đêm, phố vắng trước Kha thị. Mặc Trì đang họp nên bảo Lê Lê tự gọi xe; tài xế nhà Thẩm hôm nay không đi cùng cô.",
+      "no": 20
+    },
+    {
+      "id": "z21",
+      "scene": "zstudy",
+      "place": "Phòng đọc báo nhà Thẩm · Đêm",
+      "kind": "duyen",
+      "title": "Tờ báo buổi tối",
+      "text": "Cùng đêm đó, ở biệt thự nhà Thẩm, Mặc Trì họp xong thì về phòng đọc báo. Một mẩu tin nhỏ làm anh dừng mắt: một băng chạy xe dịch vụ giả đang lừa người đi một mình lúc khuya, cướp tiền và điện thoại, nạn nhân là những cô gái trẻ. Anh nhìn đồng hồ, rồi nhìn ghế trống của Lê Lê ở bàn ăn. Một cảm giác bất an kỳ lạ khiến anh bấm số gọi cô.",
+      "tieu": "Tin tức đúng lúc quá! Ta không phải thần tiên, nhưng tim hắn chạy theo ngươi mất rồi.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Nghe máy ngay, nói thật mình đang đi xe dịch vụ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nhận máy ngay, kể sự thật. Anh bảo cô giữ máy, đừng cúp, và nói rõ biển số xe.",
+            "d": {
+              "hao": 5,
+              "ac": -4,
+              "hac": -2,
+              "ks": 1
+            },
+            "f": "canh_bao"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nghe máy muộn vì xe chạy ồn. Anh sốt ruột gọi thêm hai lần mới liên lạc được.",
+            "d": {
+              "hao": 2,
+              "ac": -1,
+              "ks": 4
+            },
+            "f": "canh_bao"
+          }
+        },
+        {
+          "t": "Giả vờ bình thường, nói đang về nhà để anh khỏi lo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng cô bình thản, nhưng anh nghe được tiếng động lạ. Anh nói: «Gửi vị trí cho anh.» Cô làm theo.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "ks": 2
+            },
+            "f": "canh_bao"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh không tin giọng điềm tĩnh của cô, hỏi dồn liền. Cô đành thú nhận, nhưng đã mất vài phút quý giá.",
+            "d": {
+              "hao": 1,
+              "sinh": -3,
+              "ks": 5
+            }
+          }
+        },
+        {
+          "t": "Để chuông reo, chưa nghe vì tưởng là Dật Phàm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhìn tên người gọi rồi mới bấm nghe. Giọng anh gấp gáp: «Em đang ở đâu?»",
+            "d": {
+              "hao": 3,
+              "ks": 2
+            },
+            "f": "canh_bao"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Cô tắt chuông vì nhầm. Điện thoại rung đến lần thứ năm cô mới nghe được.",
+            "d": {
+              "hao": -1,
+              "sinh": -3,
+              "ks": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm, phòng đọc báo nhà Thẩm. Mặc Trì đọc tin về băng chạy xe dịch vụ giả cướp tiền và điện thoại, thấy bất an và gọi cho Lê Lê.",
+      "no": 21
+    },
+    {
+      "id": "z22",
+      "scene": "zcar",
+      "place": "Trên xe dịch vụ · Đêm",
+      "kind": "chon",
+      "title": "Đoạn đường không về nhà",
+      "text": "Lê Lê ngồi sau xe. Tài xế, tên Vệ Tam, nói chuyện huyên thuyên nhưng ánh mắt trong gương chiếu hậu rất lạ. Cô nhận ra đường không về nhà. Cô hỏi, gã nói đi đường tắt cho nhanh. Trong tai nghe, giọng Mặc Trì khẽ khàng: anh bảo cô nhét điện thoại vào túi áo, đừng cúp máy. Tiểu Châu nhắc cô bật chia sẻ vị trí khẩn cấp ngay.",
+      "tieu": "Bật chia sẻ vị trí đi! Đừng để hắn biết ngươi biết. Ta nhìn thấy ngươi run, nhưng hít chậm theo nhịp ta dạy.",
+      "cast": "zl,zv,zm,tc",
+      "ch": [
+        {
+          "t": "Lặng lẽ bật chia sẻ vị trí khẩn cấp, gửi cho anh và cảnh sát",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Màn hình chỉ sáng một giây. Trong tai nghe, giọng Mặc Trì: «Anh thấy rồi, đang tới.» Cô thở nhẹ, tay bớt run.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "hac": -1,
+              "ks": -3,
+              "sinh": 1
+            },
+            "f": "vi_tri"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô bấm nhầm một nút khác, màn hình sáng chói. Vệ Tam liếc gương, bắt đầu nhìn cô lâu hơn.",
+            "d": {
+              "hac": 2,
+              "sinh": -4,
+              "ks": 6
+            }
+          }
+        },
+        {
+          "t": "Hỏi thẳng Vệ Tam vì sao đi đường này, bắt gã giải thích",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Gã ấp úng đổi giọng. Cô giả như tin, nhưng ghi nhớ từng biển chỉ đường để báo anh.",
+            "d": {
+              "ac": -2,
+              "hao": 1,
+              "ks": 2
+            },
+            "f": "ghi_duong"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Gã cười khẩy, tăng ga. Cả xe lao nhanh hơn. Cô thấy tim đập loạn.",
+            "d": {
+              "hac": 2,
+              "sinh": -5,
+              "ks": 7
+            }
+          }
+        },
+        {
+          "t": "Nhét điện thoại vào túi áo, để mở cuộc gọi với anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nghe được toàn bộ tiếng động trong xe và dẫn Ngô Khải truy theo. Cô thấy yên lòng.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "ks": -1
+            },
+            "f": "vi_tri"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Điện thoại rơi khỏi túi xuống sàn xe. Cô vội nhặt, nhưng Vệ Tam đã thấy.",
+            "d": {
+              "hac": 2,
+              "sinh": -4,
+              "ks": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm, trên xe dịch vụ. Tài xế Vệ Tam chở Lê Lê đi đường lạ, không phải đường về nhà; Mặc Trì dặn cô giữ máy, đừng cúp.",
+      "learn": {
+        "n": "Chia sẻ vị trí khẩn cấp",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 22
+    },
+    {
+      "id": "z23",
+      "scene": "zbridge",
+      "place": "Cầu đá bên bờ sông · Đêm",
+      "kind": "hiem",
+      "title": "Xe dừng bên cầu đá",
+      "text": "Xe dừng ở cầu đá thấp cạnh bờ sông, không một ngọn đèn. Vệ Tam khóa cửa, quay lại, giọng đổi hẳn: bắt cô chuyển khoản và đưa điện thoại. Lê Lê nhìn ra ngoài: dưới chân cầu là bãi cỏ thấp. Tim cô đập rất nhanh. Tiểu Châu thì thầm: ngã đúng cách thì không sao, nhớ co người, ôm đầu, lăn một vòng.",
+      "tieu": "Đừng chống tay xuống đất! Co người, ôm đầu, lăn! Ta tin ngươi làm được.",
+      "cast": "zl,zv,tc",
+      "ch": [
+        {
+          "t": "Mở cửa lao ra, nhảy xuống bãi cỏ thấp, co người ôm đầu lăn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nhào xuống cỏ, lăn hai vòng, đau ê ẩm nhưng không gãy chỗ nào. Vệ Tam sững sờ, bật ra khỏi xe đuổi theo.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -8,
+              "ks": 5
+            },
+            "f": "nhay_cau"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô nhảy lệch, ngã nặng xuống nền cỏ, đầu gối trầy rách, tim đập loạn. Cô vẫn gượng bò dậy.",
+            "d": {
+              "hac": 2,
+              "sinh": -18,
+              "ks": 9
+            },
+            "f": "nhay_cau"
+          }
+        },
+        {
+          "t": "Giả vờ sợ, vừa khóc vừa chuyển khoản chậm để kéo dài thời gian",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô run rẩy loay hoay bấm số, mỗi bước chậm hơn một nhịp. Hai phút sau còi xe cảnh sát vang lên từ xa.",
+            "d": {
+              "ac": -3,
+              "hao": 2,
+              "sinh": -4,
+              "ks": 4
+            },
+            "f": "keo_dai"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Vệ Tam sốt ruột, giật điện thoại khỏi tay cô. Cô hoảng, tim loạn nhịp, phải vịn ghế thở dốc.",
+            "d": {
+              "hac": 2,
+              "sinh": -12,
+              "ks": 9
+            }
+          }
+        },
+        {
+          "t": "Hít sâu theo nhịp đã học, tìm đường mở khóa cửa từ bên trong",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô tìm thấy nút mở khóa dưới tay vịn, bấm một cái. Cửa bật ra. Cô lao xuống cỏ, tim đập mạnh nhưng không loạn.",
+            "d": {
+              "ac": -3,
+              "hao": 2,
+              "sinh": -6,
+              "ks": 3
+            },
+            "f": "mo_khoa"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô tìm không ra nút, tay run bần bật. Vệ Tam kéo tay áo cô giật mạnh.",
+            "d": {
+              "hac": 2,
+              "sinh": -14,
+              "ks": 8
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm, cầu đá thấp bên bờ sông, không đèn. Vệ Tam khóa cửa xe đòi cô chuyển khoản và đưa điện thoại; Mặc Trì và cảnh sát đang trên đường.",
+      "learn": {
+        "n": "Ngã an toàn",
+        "s": "van",
+        "v": 2
+      },
+      "no": 23
+    },
+    {
+      "id": "z24",
+      "scene": "zgrass",
+      "place": "Bãi cỏ ven sông · Đêm",
+      "kind": "nan",
+      "title": "Dưới chân cầu",
+      "text": "Lê Lê nằm trên bãi cỏ, hơi thở dồn dập. Đầu gối đau rát, tim đập loạn. Vệ Tam đuổi theo nhưng trượt chân trên triền dốc, ngã gãy cổ chân và ngồi bệt xuống đất rên rỉ. Điện thoại hắn rơi ra bên cạnh cô, màn hình còn sáng. Cô liếc thấy trong đó có danh sách nhiều tài xế khác kèm biển số. Đó là bằng chứng cả băng nhóm.",
+      "tieu": "Nhặt máy hắn! Danh sách đó có thể bắt hết cả băng. Làm nhanh đi, tim ngươi chưa ổn đâu.",
+      "cast": "zl,zv,tc",
+      "ch": [
+        {
+          "t": "Nhặt điện thoại của Vệ Tam, chụp lại danh sách trước khi hắn kịp giật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô chụp liền ba tấm ảnh danh sách tài xế và biển số rồi cất máy vào túi. Vệ Tam kêu đau, không với tới được.",
+            "d": {
+              "ac": -3,
+              "hao": 2,
+              "hac": -1,
+              "sinh": -3,
+              "ks": 3
+            },
+            "f": "co_dt"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Màn hình khóa vào đúng lúc cô chạm vào. Cô vẫn giữ được chiếc máy, nhưng không kịp chụp lại.",
+            "d": {
+              "hao": 1,
+              "sinh": -4,
+              "ks": 4
+            },
+            "f": "co_dt"
+          }
+        },
+        {
+          "t": "Hít thở theo nhịp, chờ Mặc Trì và cảnh sát tới, không động vào gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nằm yên, hít chậm đến khi nhịp tim đều lại. Từ xa vang tiếng chạy bước của anh.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "sinh": 2,
+              "ks": -6
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Vệ Tam lê lết về phía cô, cô phải lùi lại, trầy thêm cánh tay. Tiếng bước chân đã gần.",
+            "d": {
+              "hac": 1,
+              "sinh": -6,
+              "ks": 6
+            }
+          }
+        },
+        {
+          "t": "Hét lớn gọi người, chiếu đèn pin điện thoại xuống bãi cỏ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ánh đèn xé bóng tối. Một nhóm công nhân đi làm đêm nghe thấy, chạy lại giúp khống chế Vệ Tam.",
+            "d": {
+              "ac": -3,
+              "hao": 2,
+              "sinh": -2,
+              "ks": 2
+            },
+            "f": "co_nguoi"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Giọng cô khàn, tiếng hét hụt hơi. Chỉ có tiếng gió đáp lại.",
+            "d": {
+              "sinh": -6,
+              "ks": 6
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm, bãi cỏ ven sông. Lê Lê vừa nhảy xuống khỏi xe; Vệ Tam đuổi theo, trượt chân bị thương, điện thoại hắn rơi ra bên cạnh cô.",
+      "no": 24
+    },
+    {
+      "id": "z25",
+      "scene": "zgrass",
+      "place": "Bãi cỏ ven sông · Rạng sáng",
+      "kind": "duyen",
+      "title": "«Ca ca…»",
+      "text": "Tiếng phanh gấp trên cầu đá. Mặc Trì lao xuống triền dốc, vấp ngã, rồi vẫn chạy tiếp. Lê Lê chưa kịp ngẩng đầu thì đã bị anh ôm chặt. Tay anh run, giọng khàn đặc: «Anh sẽ không tha cho hắn.» Cô thì thầm: «Ca ca… không ghét Tiểu Lê sao?» Anh sững lại, rồi nói rất khẽ: «Anh chưa từng ghét em.»",
+      "tieu": "Hắn ôm ngươi như sợ vuột mất! Câu hỏi của ngươi đúng chỗ, câu trả lời của hắn cũng đúng chỗ. Đừng chen thêm gì nữa.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Úp mặt vào vai anh, bình tĩnh hít thở theo nhịp tim anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nghe tim anh đập dồn rồi chậm dần theo nhịp thở của cô. Anh ôm thêm một lúc rất lâu.",
+            "d": {
+              "hao": 9,
+              "ac": -8,
+              "hac": -6,
+              "sinh": 2,
+              "ks": -8
+            },
+            "f": "anh_ome"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô khóc nấc lên, tim đập loạn. Anh vội bế cô lên, hốt hoảng gọi xe cấp cứu.",
+            "d": {
+              "hao": 6,
+              "ac": -4,
+              "hac": -3,
+              "sinh": -6,
+              "ks": 3
+            },
+            "f": "anh_ome"
+          }
+        },
+        {
+          "t": "Nói ra sự thật: «Em đã luôn tin anh, ca ca»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh cứng người, rồi siết tay chặt hơn. «Anh xin lỗi vì đã để em đi một mình.» Đây là lời xin lỗi đầu tiên của anh.",
+            "d": {
+              "hao": 10,
+              "ac": -9,
+              "hac": -6,
+              "ks": 0
+            },
+            "f": "anh_ome"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô khóc đến nấc, nói không thành lời. Anh vỗ lưng cô: «Đừng nói nữa.» Nhưng cô cảm nhận được tay anh đang run.",
+            "d": {
+              "hao": 5,
+              "ac": -3,
+              "hac": -2,
+              "sinh": -4,
+              "ks": 4
+            },
+            "f": "anh_ome"
+          }
+        },
+        {
+          "t": "Giữ im lặng, chỉ nắm lấy tay áo anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhìn bàn tay nắm áo mình, cúi xuống thật thấp. «Anh ở đây.» Cô nhắm mắt, mệt đến mức ngủ thiếp.",
+            "d": {
+              "hao": 8,
+              "ac": -7,
+              "hac": -5,
+              "sinh": 2,
+              "ks": -6
+            },
+            "f": "anh_ome"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Tay cô tuột khỏi áo, người mềm đi. Anh hoảng hốt gọi tên cô liên hồi.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "hac": -2,
+              "sinh": -6,
+              "ks": 3
+            },
+            "f": "anh_ome"
+          }
+        }
+      ],
+      "ctx": "Rạng sáng, bãi cỏ ven sông. Mặc Trì chạy tới ôm Lê Lê, hứa sẽ báo thù; cô hỏi anh có ghét cô không.",
+      "no": 25
+    },
+    {
+      "id": "z26",
+      "scene": "zhosp",
+      "place": "Bệnh viện Nhân Hòa · Sáng",
+      "kind": "duyen",
+      "title": "Chiếc điện thoại của gã",
+      "text": "Cô được đưa đến bệnh viện Nhân Hòa để kiểm tra sau cú ngã. Mặc Trì mang chiếc điện thoại của Vệ Tam giao cho cảnh sát. Danh sách tài xế dẫn họ đến tận nơi ẩn náu của cả băng. Trong vài giờ, cả băng xe giả bị bắt gọn. Cảnh sát hỏi ai đã giữ được chứng cứ. Lê Lê chọn giữ kín vai trò của mình hay để anh biết.",
+      "tieu": "Chuyện này đưa lên báo thì cả thành phố biết ngươi. Giữ kín cũng được, nhưng hắn sẽ không ngừng nghĩ về ngươi đâu.",
+      "cast": "zl,zm,zg,tc",
+      "ch": [
+        {
+          "t": "Kể rõ với Mặc Trì mình đã nhặt điện thoại và chụp lại danh sách",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhìn cô thật lâu, cuối cùng chỉ nói: «Giỏi lắm.» Mắt anh ánh lên điều gì đó mà trước nay cô chưa thấy.",
+            "d": {
+              "hao": 6,
+              "ac": -5,
+              "hac": -3,
+              "ks": -2
+            },
+            "f": "anh_biet"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô kể lộn xộn, anh phải hỏi lại hai lần mới hiểu. Cuối cùng anh chỉ xoa đầu cô.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "ks": 1
+            },
+            "f": "anh_biet"
+          }
+        },
+        {
+          "t": "Để cảnh sát ghi công cho Mặc Trì, mình ngồi nghỉ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhận lời cảm ơn nhưng lẩm bẩm: «Công là của em.» Cô giả vờ không nghe thấy.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "ks": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cảnh sát hỏi dồn khiến cô mệt, tim hơi loạn. Anh phải bảo mọi người ra ngoài.",
+            "d": {
+              "hao": 2,
+              "sinh": -4,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Nhờ anh đừng nói với ba mẹ, sợ họ lo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô, rồi gật đầu: «Anh sẽ nói khi em khỏe.» Cô biết anh sẽ giữ lời.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "hac": -1,
+              "ks": -1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Anh cau mày: «Chuyện lớn thế này không thể giấu.» Cô đành thôi.",
+            "d": {
+              "hao": -1,
+              "hac": 2,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, bệnh viện Nhân Hòa. Cô vào kiểm tra sau cú ngã; Mặc Trì giao điện thoại của Vệ Tam cho cảnh sát, cả băng xe dịch vụ giả bị bắt.",
+      "no": 26
+    },
+    {
+      "id": "z27",
+      "scene": "zhosp",
+      "place": "Phòng bệnh · Sáng",
+      "kind": "chon",
+      "title": "Hoa hồng bị bỏ lại",
+      "text": "Hôm sau, Dật Phàm xuất hiện nơi phòng bệnh với một bó hồng đỏ lớn, giọng khoa trương: «Anh nghe tin, lo đến mất ngủ.» Mặc Trì bước vào, nhìn bó hoa, nhấc nó lên bỏ thẳng vào thùng rác, rồi đặt xuống một cành bách hợp trắng. Dật Phàm tái mặt. Lê Lê nhìn cành bách hợp, nhớ lại cách cắm hoa trong lớp học khi còn nhỏ.",
+      "tieu": "Hắn dùng hoa bách hợp trắng kìa! Mà ngươi biết cắm hoa không? Thử đi, nhìn đẹp thì hắn nhớ cả đời.",
+      "cast": "zl,zp,zm,tc",
+      "ch": [
+        {
+          "t": "Tự tay cắm lại cành bách hợp vào bình, chỉnh từng cánh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bình hoa gọn gàng thanh nhã. Mặc Trì ngồi nhìn cô cắm hoa, quên cả mệt. Dật Phàm tự thấy mình thừa nên rút lui.",
+            "d": {
+              "hao": 5,
+              "ac": -4,
+              "hac": -2,
+              "ks": -3
+            },
+            "f": "hoa_bach"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô cắm lệch một cành, phải gỡ ra cắm lại. Mặc Trì cười khẽ lần đầu tiên sau nhiều ngày.",
+            "d": {
+              "hao": 3,
+              "ac": -1,
+              "ks": -1
+            },
+            "f": "hoa_bach"
+          }
+        },
+        {
+          "t": "Nói thẳng với Dật Phàm cô thích hoa trắng hơn hoa đỏ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dật Phàm nghẹn lời, cười gượng xin phép rút lui. Anh nuôi khẽ gật đầu cảm ơn cô.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "ks": -1
+            },
+            "f": "ghet_hong"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Dật Phàm cười ngạo: «Cô còn nhỏ chưa hiểu.» Mặc Trì phải bảo hắn ra ngoài ngay.",
+            "d": {
+              "hac": 2,
+              "sinh": -3,
+              "ks": 3
+            },
+            "f": "ghet_hong"
+          }
+        },
+        {
+          "t": "Giữ im lặng, chỉ nhìn Mặc Trì xử lý",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh xử lý gọn gàng, Dật Phàm đành bỏ đi. Anh quay lại, bắt gặp cô đang nhìn mình, ngập ngừng đưa cô cành hoa.",
+            "d": {
+              "hao": 4,
+              "ac": -3,
+              "ks": -2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Dật Phàm cố ở lại nói thêm, làm cô căng thẳng và tim đập nhanh. Anh phải xua hắn đi.",
+            "d": {
+              "hao": 1,
+              "sinh": -4,
+              "ks": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, phòng bệnh viện Nhân Hòa. Dật Phàm đến thăm với hoa hồng đỏ; Mặc Trì bỏ hoa vào thùng rác và mang bách hợp trắng đến.",
+      "learn": {
+        "n": "Cắm hoa",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 27
+    },
+    {
+      "id": "z28",
+      "scene": "zhosp",
+      "place": "Phòng khám tim · Chiều",
+      "kind": "duyen",
+      "title": "Chẩn đoán sau cú ngã",
+      "text": "Kết quả khám tim của Lê Lê có sau buổi trưa. Bác sĩ Phương nói thẳng: tim cô vẫn chịu được hiện tại, nhưng nếu không phẫu thuật thì sống chưa tới mười năm. Có một ca mổ phức tạp ở nước ngoài, tỉ lệ thành công khá cao nếu mổ sớm. Mặc Trì đứng im phía sau nghe hết, lặng lẽ giữ lấy tập hồ sơ. Anh không nói gì, nhưng bàn tay cầm hồ sơ trắng bệch.",
+      "tieu": "Đây là chuyện lớn nhất của ngươi. Nghe kỹ lời bác sĩ, rồi quyết định. Ta sẽ không khuyên sai đâu.",
+      "cast": "zl,zm,zd,tc",
+      "ch": [
+        {
+          "t": "Hỏi bác sĩ Phương kỹ về ca mổ, nhờ anh giữ giùm hồ sơ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô ghi chép đầy đủ, bác sĩ giải thích cặn kẽ. Mặc Trì lẳng lặng ghi nhớ cùng cô.",
+            "d": {
+              "ac": -3,
+              "hao": 3,
+              "sinh": 2,
+              "ks": -4
+            },
+            "f": "mo_tim"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô nghe không hết, bác sĩ phải nhắc thêm. Nhưng anh đã ghi chép đủ cho cả hai.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "ks": 2
+            },
+            "f": "mo_tim"
+          }
+        },
+        {
+          "t": "Cười nói với anh: «Em không sao đâu, mười năm còn dài»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô, không cười lại. Chỉ nói: «Em sẽ mổ.» Giọng như một lời hứa.",
+            "d": {
+              "hao": 5,
+              "ac": -4,
+              "hac": -1,
+              "ks": 0
+            },
+            "f": "mo_tim"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô cố tỏ ra mạnh mẽ, nhưng giọng run rẩy. Anh thấy hết, quay đi lau mắt thật nhanh.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "sinh": -3,
+              "ks": 4
+            },
+            "f": "mo_tim"
+          }
+        },
+        {
+          "t": "Im lặng nắm tay anh, không hỏi gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nắm lại, siết rất chặt. «Anh sẽ lo,» anh nói. Cô cảm nhận được hơi ấm và nỗi sợ trong lòng bàn tay anh.",
+            "d": {
+              "hao": 5,
+              "ac": -4,
+              "hac": -2,
+              "sinh": 1,
+              "ks": -3
+            },
+            "f": "mo_tim"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Tay cô lạnh toát. Anh vội ủ vào tay mình, nhưng mắt anh đã đỏ hoe.",
+            "d": {
+              "hao": 3,
+              "ac": -2,
+              "sinh": -3,
+              "ks": 4
+            },
+            "f": "mo_tim"
+          }
+        }
+      ],
+      "ctx": "Chiều, phòng khám tim bệnh viện Nhân Hòa. Bác sĩ Phương nói tim Lê Lê chịu được nhưng không mổ thì sống chưa tới mười năm; Mặc Trì lặng lẽ giữ hồ sơ.",
+      "no": 28
+    },
+    {
+      "id": "z29",
+      "scene": "zstudy",
+      "place": "Thư phòng nhà Thẩm · Tối",
+      "kind": "duyen",
+      "title": "Cha mẹ trở về và lời dặn",
+      "text": "Vài hôm sau, ba mẹ Lê Lê, ông Thẩm Kiến Phong và bà Mục Ngọc Mai, về nước sớm khi nghe tin con gái gặp chuyện. Trong thư phòng, họ gọi Mặc Trì vào nói riêng. Cô đứng ngoài cửa nghe được: ba mẹ xin lỗi vì từng tính chọn anh làm rể mà không hỏi anh, nói từ nay không còn ép hôn, và nhờ anh bảo vệ Lê Lê cả đời. Mặc Trì im lặng rất lâu rồi nhận lời.",
+      "tieu": "Hôn ước biến mất rồi nhé. Hắn không còn lý do để tự coi mình là món hàng sắp đặt. Xem hắn làm gì tiếp.",
+      "cast": "zl,zm,zk,zn,tc",
+      "ch": [
+        {
+          "t": "Vào thư phòng, nói với ba mẹ mình rất biết ơn anh Mặc Trì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mặc Trì ngẩng đầu lên nhìn cô, nét mặt phức tạp. Ba mẹ nhìn nhau mỉm cười, ngầm hiểu.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "ks": -3
+            },
+            "f": "cha_me"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô lỡ miệng nói quá nhiều, ba mẹ trêu. Mặc Trì đỏ tai nhưng không phản đối.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "ks": 2
+            },
+            "f": "cha_me"
+          }
+        },
+        {
+          "t": "Đứng ngoài nghe, không lên tiếng, đợi anh ra",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh ra cửa thấy cô, khẽ hỏi: «Nghe hết rồi à?» Cô gật. Anh không hỏi thêm, nhưng đi chậm hẳn lại, cùng cô xuống thang.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "ks": -2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô giẫm lên mảnh thảm, trượt chân suýt ngã. Anh đỡ kịp. Hai người đều đỏ mặt.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -2,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Hỏi anh: «Anh nhận lời vì ba mẹ hay vì anh muốn?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh im rất lâu, rồi đáp: «Vì anh muốn.» Giọng nhỏ, nhưng cô nghe rõ từng chữ.",
+            "d": {
+              "ac": -6,
+              "hac": -5,
+              "hao": 8,
+              "ks": 2
+            },
+            "f": "anh_muon"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh nhíu mày: «Đừng hỏi nữa.» Nhưng đỏ ở vành tai anh đã nói thay.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "hac": 1,
+              "ks": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, thư phòng nhà Thẩm. Ba mẹ Lê Lê về nước sớm, xin lỗi Mặc Trì vì chuyện hôn ước và nhờ anh bảo vệ con gái.",
+      "no": 29
+    },
+    {
+      "id": "z30",
+      "scene": "zhosp",
+      "place": "Phòng bệnh · Chiều",
+      "kind": "nan",
+      "title": "Nhà họ Kha tới thăm",
+      "text": "Chiều đó, Hoắc Lệ Quyên và Kha Bỉnh Hoài đến phòng bệnh thăm Lê Lê, mang theo quà đắt tiền. Bà Lệ Quyên khen cô hết lời rồi gợi chuyện liên hôn và nhà họ Kha cần vốn. Mẹ cô, bà Ngọc Mai, lặng lẽ nghi ngờ. Lê Lê nhìn thẳng vào mắt bà, nói rõ: «Con không thích Dật Phàm.» Bà Lệ Quyên cười gượng, nhắc rằng Dật Khôi, con riêng của chồng bà, đang giành vị trí của con trai bà, nên nhà Kha cần một đồng minh.",
+      "tieu": "Bà ta nói thẳng rồi: Kha thị đang cần ngươi. Giữ bình tĩnh, nhưng đừng để mẹ bị lôi vào chuyện này.",
+      "cast": "zl,zq,zb,zn,tc",
+      "ch": [
+        {
+          "t": "Nói rõ với bà Lệ Quyên rằng tình cảm không phải thứ để đổi lấy vốn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Phòng im bặt. Mẹ cô nhìn con gái bằng ánh mắt khác. Bà Lệ Quyên bối rối, chỉ biết nói «Cô còn trẻ».",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 3,
+              "ks": 3
+            },
+            "f": "tu_choi"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Giọng cô run, bà Lệ Quyên hiểu thành yếu đuối và nói thêm lời đường mật. Cô thấy mệt.",
+            "d": {
+              "hac": 2,
+              "sinh": -5,
+              "ks": 6
+            }
+          }
+        },
+        {
+          "t": "Để mẹ trả lời thay, mình nhắm mắt nghỉ như đang mệt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bà Ngọc Mai nói khéo, từ chối nhẹ nhàng mà không mất lòng. Bà Lệ Quyên đành cáo từ.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "ks": -3
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Mẹ cô vẫn lịch sự trả lời nhưng chưa dứt khoát. Bà Lệ Quyên ngồi thêm hơn nửa giờ.",
+            "d": {
+              "hao": 0,
+              "sinh": -3,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Hỏi bà Lệ Quyên vì sao Kha thị lại thiếu vốn nếu mọi chuyện đều tốt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bà ta khựng lại, rồi cười gượng. Bỉnh Hoài nhìn vợ, mặt trầm xuống. Cô thấy rõ họ đang bí.",
+            "d": {
+              "ac": -5,
+              "hac": -2,
+              "hao": 3,
+              "ks": 2
+            },
+            "f": "biet_von"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Bà Lệ Quyên cười cười đánh trống lảng, quay sang khen cô «thông minh quá». Bầu không khí ngột ngạt.",
+            "d": {
+              "hac": 2,
+              "sinh": -3,
+              "ks": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, phòng bệnh. Hoắc Lệ Quyên và Kha Bỉnh Hoài đến thăm, gợi chuyện liên hôn; bà Lệ Quyên nhắc con riêng Dật Khôi đang giành chỗ của Dật Phàm.",
+      "no": 30
+    },
+    {
+      "id": "z31",
+      "scene": "zstudy",
+      "place": "Thư phòng ba · Tối",
+      "kind": "duyen",
+      "title": "Bộ não sau tập đoàn",
+      "text": "Tối đó, ba Lê Lê gọi cô vào thư phòng. Tiểu Châu bật mí: từ nhỏ, mọi quyết sách lớn của Thẩm thị đều có ý kiến của Lê Lê, ba cô luôn nghe cô trước khi chốt. Ông trải bản kế hoạch năm sau lên bàn, hỏi cô nghĩ sao. Mặc Trì đứng cạnh, ngạc nhiên vì chưa ai nói với anh chuyện này.",
+      "tieu": "Cô bé của ba đấy! Cứ nhìn con số, đọc lại như đọc một quyển truyện: thu, chi, rủi ro. Ngươi vốn là bộ não ở đây, ta không đùa đâu.",
+      "cast": "zl,zk,zm,tc",
+      "ch": [
+        {
+          "t": "Đọc kỹ báo cáo tài chính, chỉ ra hai khoản rủi ro bị che giấu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ba cô khẽ gật gù; Mặc Trì nhìn cô như thể gặp lần đầu. Cô nói thêm cách xử lý, từng bước rõ ràng.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5,
+              "ks": -2
+            },
+            "f": "phan_tich"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô bỏ sót một chi tiết, ba phải gợi ý. Cô bối rối nhưng nhớ ra, nói tiếp.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "ks": 2
+            },
+            "f": "phan_tich"
+          }
+        },
+        {
+          "t": "Đề xuất thêm một kế hoạch dự phòng thay vì chỉ đọc số",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba cô nhìn cô lâu, rồi cười. Mặc Trì lặng lẽ gật đầu đồng ý. Cô thấy sức nặng được chia đều trên vai.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 4,
+              "ks": -1
+            },
+            "f": "ke_hoach"
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Kế hoạch phụ của cô thiếu cơ sở số liệu, ba phải hỏi lại. Cô đành ghi chú để mang về sửa.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Nhường lời cho Mặc Trì trả lời, mình chỉ bổ sung",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mặc Trì giải thích rõ ràng, cô thêm vài chi tiết mà anh bỏ sót. Hai người phối hợp trơn tru.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 6,
+              "ks": -2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hai người nói trùng ý, ba mỉm cười nhưng ánh mắt hơi mất kiên nhẫn.",
+            "d": {
+              "hao": 1,
+              "ks": 2
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, thư phòng ba. Tiểu Châu cho biết mọi quyết sách của Thẩm thị đều có ý kiến của Lê Lê; ba cô hỏi cô về bản kế hoạch năm sau.",
+      "learn": {
+        "n": "Phân tích báo cáo tài chính",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 31
+    },
+    {
+      "id": "z32",
+      "scene": "zgarden",
+      "place": "Sân vườn bệnh viện · Chiều",
+      "kind": "chon",
+      "title": "Lời hứa «không được ghét em»",
+      "text": "Chiều hôm sau, Mặc Trì đưa cô ra sân vườn bệnh viện, nơi những khóm bách hợp trắng đang nở. Anh ôm cô, giọng nhỏ. Lê Lê bắt anh hứa: «Không được ghét em, không được đuổi em. Nếu có lần sau, em sẽ biến mất.» Anh sững người, cổ họng nghẹn. Tiểu Châu im phăng phắc, giữ lại hơi thở như thể ngay cả nó cũng sợ làm hỏng khoảnh khắc này.",
+      "tieu": "Ta không dám nói chen! Đây là chuyện hai người. Chọn thế nào cũng được, miễn là thật lòng.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Nói rõ ra: «Anh hứa đi, em sẽ không rời anh»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn thẳng vào mắt cô và đáp: «Anh hứa.» Giọng nghẹn nhưng chắc nịch. Cô tựa vào ngực anh, nghe tim anh đập mạnh.",
+            "d": {
+              "ac": -6,
+              "hac": -5,
+              "hao": 8,
+              "ks": -3
+            },
+            "f": "loi_hua"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nói hơi vội, anh chưa hiểu hết. Anh ôm cô chặt hơn, im lặng. Cô tự thấy mình vụng.",
+            "d": {
+              "ac": -3,
+              "hao": 4,
+              "ks": 3
+            },
+            "f": "loi_hua"
+          }
+        },
+        {
+          "t": "Hỏi anh có biết vì sao ba mẹ nhận nuôi anh không",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh khựng lại: «Để anh làm con rể.» Cô lắc đầu: «Vì em nhìn thấy anh từ cửa sổ bệnh viện lúc ba tuổi.» Anh sững sờ, cúi đầu thật sâu.",
+            "d": {
+              "ac": -10,
+              "hac": -8,
+              "hao": 10,
+              "ks": 3
+            },
+            "f": "biet_that"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh không tin: «Ai nói với em vậy?» Cô nghẹn không biết trả lời thế nào.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "hac": 2,
+              "ks": 5
+            },
+            "f": "biet_that"
+          }
+        },
+        {
+          "t": "Im lặng ôm anh, chỉ gật đầu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh hiểu mọi chuyện mà không cần lời nào. Hoa bách hợp thơm nhẹ trong gió.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 7,
+              "ks": -4
+            },
+            "f": "loi_hua"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Gió đổi hướng, mùi phấn hoa làm cô ho sặc sụa, tim hơi loạn. Anh vội dìu cô ngồi xuống ghế.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "sinh": -4,
+              "ks": 5
+            },
+            "f": "loi_hua"
+          }
+        }
+      ],
+      "ctx": "Chiều, sân vườn bệnh viện, bên khóm bách hợp. Lê Lê bắt Mặc Trì hứa không ghét, không đuổi cô; nếu có lần sau cô sẽ biến mất.",
+      "no": 32
+    },
+    {
+      "id": "z33",
+      "scene": "zhosp",
+      "place": "Hành lang bệnh viện · Sáng",
+      "kind": "chon",
+      "title": "Dật Phàm đến lần hai",
+      "text": "Sáng sau, Dật Phàm lại tới với một bó hồng đỏ, nở nụ cười tự tin. Hắn nói vòng vo về chuyện hợp tác giữa hai nhà. Lê Lê quan sát nét mặt hắn: đôi mắt hắn không dám nhìn thẳng vào cô khi nhắc đến Hiểu Hiểu, tay luôn gõ nhịp lên đùi. Tiểu Châu bảo đó là dấu hiệu nói dối. Mặc Trì đứng gần đó, mặt trầm.",
+      "tieu": "Nhìn tay hắn kìa, gõ liên tục. Mắt hắn hay liếc sang trái. Hắn đang nói dối ngươi đấy.",
+      "cast": "zl,zp,zm,tc",
+      "ch": [
+        {
+          "t": "Nói thẳng mình ghét hoa hồng, mời hắn đừng xuất hiện nữa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dật Phàm tái mặt. Mặc Trì nói thêm: «Hắn không phải người tốt.» Dật Phàm giận dữ bỏ đi, bó hồng rơi xuống sàn.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 6,
+              "ks": 1
+            },
+            "f": "tu_choi_p"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Dật Phàm cười nhạt: «Đừng làm bộ.» Hắn ném bó hoa lên ghế rồi mới đi, lòng đầy hậm hực.",
+            "d": {
+              "ac": -2,
+              "hac": 1,
+              "hao": 2,
+              "sinh": -3,
+              "ks": 4
+            },
+            "f": "tu_choi_p"
+          }
+        },
+        {
+          "t": "Quan sát cử chỉ của hắn, đáp từng câu một cách chậm rãi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô nói chậm, nhìn thẳng hắn. Hắn rối đến mức quên trả lời câu hỏi. Mặc Trì liếc nhìn cô đầy tán thưởng.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 4,
+              "ks": -1
+            },
+            "f": "doc_dau"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô đoán sai ý hắn, đáp lạc đề. Hắn thừa cơ nói thêm lời ngọt.",
+            "d": {
+              "hac": 1,
+              "sinh": -2,
+              "ks": 3
+            },
+            "f": "doc_dau"
+          }
+        },
+        {
+          "t": "Để Mặc Trì đứng ra nói chuyện, mình lùi lại",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mặc Trì nói đơn giản: «Cô ấy không muốn gặp cậu.» Dật Phàm mở miệng định cãi rồi thôi.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 4,
+              "ks": -2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Dật Phàm không chịu rời, giằng co với anh trước mặt cô. Cô thấy hơi thở mình dồn dập.",
+            "d": {
+              "hao": 1,
+              "sinh": -3,
+              "ks": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, hành lang bệnh viện. Dật Phàm đến lần hai với hoa hồng đỏ; Tiểu Châu cho cô thấy dấu hiệu hắn đang nói dối.",
+      "learn": {
+        "n": "Đọc ngôn ngữ cơ thể",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 33
+    },
+    {
+      "id": "z34",
+      "scene": "zbed",
+      "place": "Phòng ngủ Lê Lê · Đêm",
+      "kind": "duyen",
+      "title": "Tương lai khi không có em",
+      "text": "Đêm đó, Tiểu Châu xin cho cô xem phần nguyên tác. Nếu Lê Lê mất sớm, Mặc Trì sẽ sống trong sự trống rỗng; anh sẽ đi trả thù nhà Kha, rồi chính anh cũng bại. Sau đó một thế lực lạ lật đổ cả Kha thị lẫn Dật Phàm. Tiểu Châu nói nhẹ, chỉ nói rằng nữ chính nguyên tác ra đi khi nhà họ Thẩm sụp đổ. Cô nằm nhìn trần nhà, quyết không để chuyện đó xảy ra.",
+      "tieu": "Ta không nói chi tiết đâu. Chỉ cần ngươi nhớ: ngươi sống thì hắn sống. Đủ rồi.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Quyết tâm chữa tim, lên kế hoạch cùng anh đi mổ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô viết ra lịch khám, chi phí, danh sách việc cần làm. Sáng mai cô sẽ đưa cho anh. Tim cô đập chậm lại, vững vàng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 4,
+              "sinh": 3,
+              "ks": -4
+            },
+            "f": "quyet_mo"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô kiệt sức nghĩ ngợi đến sáng, mắt quầng thâm. Dù vậy cô vẫn ghi được vài ý.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "ks": 3
+            },
+            "f": "quyet_mo"
+          }
+        },
+        {
+          "t": "Lén sang gõ cửa phòng anh, nói «Em ở đây»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cửa mở ngay như thể anh vẫn thức. Anh không hỏi, chỉ đứng trước cửa. Cô ôm lấy anh một lát rồi về ngủ.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 8,
+              "ks": -2
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô đi nhầm sang phòng làm việc, tiếng đập cửa làm người hầu thức dậy. Anh phải ra giải thích.",
+            "d": {
+              "hao": 1,
+              "sinh": -2,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Hỏi Tiểu Châu có cách nào đổi kết cục đó không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu im một lúc rồi bảo: «Có: đừng để Mặc Trì mất niềm tin.» Cô ghi nhớ từng chữ.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "ks": -2
+            },
+            "f": "quyet_mo"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tiểu Châu nói vòng vo, vì còn mệt. Cô ngủ gục lúc nào không hay.",
+            "d": {
+              "ac": -1,
+              "hao": 1,
+              "ks": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm, phòng ngủ Lê Lê. Tiểu Châu cho cô xem tương lai nguyên tác nếu cô mất sớm: Mặc Trì trả thù nhà Kha rồi bại.",
+      "no": 34
+    },
+    {
+      "id": "z35",
+      "scene": "zparty",
+      "place": "Sảnh tiệc nhà họ Kha · Tối",
+      "kind": "chon",
+      "title": "Tiệc sinh nhật Kha Bỉnh Hoài",
+      "text": "Tiệc sinh nhật Kha Bỉnh Hoài tổ chức trọng thể. Nhà Thẩm nhận lời mời, Lê Lê đi cùng Mặc Trì. Giữa tiệc, Dật Phàm lượn lờ ra vẻ thân mật, nói đủ để người xung quanh nghe thấy: «Có người tốt mã dẻ cùi.» Mọi ánh nhìn đổ dồn vào Lê Lê. Dư luận bắt đầu rỉ tai nhau về cô và nhà họ Thẩm.",
+      "tieu": "Hắn công khai ném đá kìa! Trả lời nhẹ hay lạnh đều được, miễn đừng khóc. Hắn đợi cô khóc để lấy lại thế.",
+      "cast": "zl,zp,zm,tc",
+      "ch": [
+        {
+          "t": "Đáp nhẹ nhàng: «Người tốt hay không, thời gian sẽ cho biết»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Câu trả lời bình thản khiến Dật Phàm cứng họng. Có người trong tiệc khẽ phì cười. Mặc Trì đứng sau cô, đặt tay lên lưng ghế.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 5,
+              "ks": -1
+            },
+            "f": "phan_don"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nói đúng ý nhưng giọng nhỏ quá, chỉ vài người nghe. Dật Phàm giả vờ không nghe.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "ks": 3
+            },
+            "f": "phan_don"
+          }
+        },
+        {
+          "t": "Đáp lạnh: «Anh nên lo xem ai đang ở sau lưng anh thì hơn»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Dật Phàm giật mình quay lại. Hiểu Hiểu đang đứng ở cửa. Hắn tái mặt, quên cả phản bác.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5,
+              "ks": 1
+            },
+            "f": "phan_lanh"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Hắn cười khẩy: «Lời lẽ cao xa quá.» Một số khách đồng tình với hắn. Cô thấy tim đập mạnh.",
+            "d": {
+              "hac": 2,
+              "sinh": -3,
+              "ks": 6
+            },
+            "f": "phan_lanh"
+          }
+        },
+        {
+          "t": "Bước đến bên Mặc Trì, nắm tay áo anh rồi im lặng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nghiêng người che cô khỏi những ánh nhìn, nói với Dật Phàm đúng một câu: «Cậu uống nhiều rồi.» Không khí đổi chiều.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 5,
+              "ks": -2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nắm áo anh quá chặt khiến anh phải dừng lại nhìn xuống. Cả hai bỏ lỡ cơ hội đáp lời.",
+            "d": {
+              "hao": 1,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, sảnh tiệc sinh nhật Kha Bỉnh Hoài. Dật Phàm nói ám chỉ «người tốt mã dẻ cùi» ngay trước mặt khách khứa.",
+      "no": 35
+    },
+    {
+      "id": "z36",
+      "scene": "zparty",
+      "place": "Sảnh tiệc nhà họ Kha · Tối muộn",
+      "kind": "nan",
+      "title": "Lời tỏ tình bị ngắt",
+      "text": "Chưa dừng ở đó, Dật Phàm xin gặp riêng Lê Lê ở góc sảnh, nói hắn sẽ «bồi thường» và xin một cơ hội. Cô còn chưa kịp đáp thì cửa mở: Chung Hiểu Hiểu bước vào, nghe được hết. Cô gái bật khóc, quay chạy ra ngoài. Dật Phàm đứng ngẩn, rồi vội vàng đuổi theo, bỏ mặc Lê Lê ở lại. Cả sảnh xôn xao.",
+      "tieu": "Hiểu Hiểu nghe hết rồi. Chuyện này không phải do ngươi, nhưng mọi người sẽ không biết đâu. Đừng để họ đổ lỗi lên ngươi.",
+      "cast": "zl,zp,zh,zm,tc",
+      "ch": [
+        {
+          "t": "Lặng lẽ rời góc sảnh, tìm Mặc Trì và kể lại mọi chuyện",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe hết, vẻ mặt càng lúc càng lạnh. «Từ giờ em đừng ở một mình với hắn.» Lần đầu anh nói như một mệnh lệnh mà cô thấy thật ấm.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 5,
+              "ks": -1
+            },
+            "f": "ban_chung"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô tìm mãi mới thấy anh, kể rối rắm. Anh phải hỏi lại nhiều lần.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "sinh": -2,
+              "ks": 3
+            },
+            "f": "ban_chung"
+          }
+        },
+        {
+          "t": "Chạy theo Hiểu Hiểu, giải thích mình không có gì với Dật Phàm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiểu Hiểu dừng lại, mắt đỏ hoe, nhìn cô một lúc rồi gật đầu. Cô bé lau nước mắt rồi bỏ đi trong im lặng.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 3,
+              "ks": 3
+            },
+            "f": "giai_thich"
+          },
+          "b": 0.41,
+          "bad": {
+            "x": "Hiểu Hiểu nhìn cô bằng ánh mắt đầy thù hận: «Cô đừng giả vờ.» Cô đứng ngây giữa hành lang.",
+            "d": {
+              "ac": 2,
+              "hac": 2,
+              "sinh": -4,
+              "ks": 5
+            },
+            "f": "giai_thich"
+          }
+        },
+        {
+          "t": "Giữ nguyên chỗ, bình thản uống nước, để mọi người tự thấy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tin về Dật Phàm và Hiểu Hiểu lan nhanh trong phòng. Không ai còn nghĩ đến lời châm chọc ban nãy.",
+            "d": {
+              "ac": -3,
+              "hac": -1,
+              "hao": 3,
+              "ks": -2
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Những ánh mắt tò mò dồn về phía cô, khiến tim cô đập nhanh. Cô phải ngồi xuống nghỉ.",
+            "d": {
+              "hao": 0,
+              "sinh": -3,
+              "ks": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Tối muộn, sảnh tiệc nhà họ Kha. Dật Phàm xin gặp Lê Lê để «bồi thường»; Chung Hiểu Hiểu bước vào nghe hết, khóc và chạy đi, Dật Phàm đuổi theo.",
+      "no": 36
+    },
+    {
+      "id": "z37",
+      "scene": "zparty",
+      "place": "Giữa khách mời · Tối muộn",
+      "kind": "duyen",
+      "title": "Ba điều kiện của anh",
+      "text": "Sau sự cố, khách mời xì xào. Có người hỏi thẳng Mặc Trì về chuyện hôn ước của cô con gái nhà Thẩm. Anh đặt ly rượu xuống, nói rõ, giọng bình thản mà cả sảnh đều nghe: «Ai muốn cưới cô ấy phải hơn tôi, phải được ba mẹ vừa lòng, và phải được chính cô ấy vừa lòng.» Lê Lê nghe xong, tai nóng bừng, tim đập thình thịch.",
+      "tieu": "Ba điều kiện của hắn nghe như lời tự hứa với mình! Điều kiện đầu tiên: phải hơn hắn. Hắn chẳng nghĩ sẽ có người đạt đâu.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Nhìn anh, mỉm cười thật lòng, siết nhẹ tay anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ngạc nhiên vì cô công khai chạm vào mình, rồi nắm lại. Không ai hỏi thêm câu nào.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 8,
+              "ks": 0
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô cười quá tươi giữa đám đông, anh thoáng lúng túng. Một vài người nhìn họ ý nhị.",
+            "d": {
+              "ac": -2,
+              "hao": 4,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Thì thầm hỏi: «Anh có nghĩ mình là người hơn cả không?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh khựng lại, khóe môi khẽ cong: «Em đoán thử xem.» Lần đầu cô thấy anh trêu cô.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 8,
+              "ks": 1
+            }
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh nhìn đi nơi khác, vành tai hơi đỏ: «Đừng hỏi những câu như vậy.»",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "hac": 1,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Im lặng rót cho anh ly nước ấm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhận ly nước, uống một hơi, hơi thở bình ổn lại. Cô thấy anh vừa nói xong một điều rất khó.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "ks": -2
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô rót tràn ra bàn. Anh rút khăn lau, vừa lau vừa cười khẽ.",
+            "d": {
+              "ac": -1,
+              "hao": 3,
+              "ks": 1
+            }
+          }
+        }
+      ],
+      "ctx": "Tối muộn, giữa khách mời tiệc nhà họ Kha. Có người hỏi về hôn ước của con gái nhà Thẩm; Mặc Trì đặt ra ba điều kiện cho người cưới cô.",
+      "no": 37
+    },
+    {
+      "id": "z38",
+      "scene": "zvilla",
+      "place": "Phòng khách nhà họ Thẩm · Sáng",
+      "kind": "nan",
+      "title": "Hồ sơ trên màn hình",
+      "text": "Sáng hôm sau, nhà Kha kéo đến phòng khách nhà họ Thẩm, đòi gặp ba mẹ để bàn chuyện hợp tác. Mặc Trì bật màn hình lớn, chiếu từng tấm ảnh hẹn hò lén của Dật Phàm với Hiểu Hiểu và loạt tin nhắn chứng minh Dật Phàm giấu bạn gái, mượn danh Thẩm thị để kéo hợp đồng bên ngoài. Hoắc Lệ Quyên tái mặt, Kha Bỉnh Hoài đứng sững. Nhà Kha mất thế ngay trước mắt mọi người.",
+      "tieu": "Hắn lật bài rồi! Giữ bình tĩnh, đừng để ai chạm vào ngươi lúc này. Chuyện lớn nhất sẽ đến sau cơn tức giận.",
+      "cast": "zl,zm,zp,zq,zb,tc",
+      "ch": [
+        {
+          "t": "Nói rõ cô đã tự chụp ảnh ở Kha thị và xin được bổ sung bằng chứng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tấm ảnh cô chụp ở hàng hiên khớp với bằng chứng của anh. Hoắc Lệ Quyên không còn lý do chối cãi. Mặc Trì nhìn cô, rất lâu.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "ks": -1
+            },
+            "f": "nop_anh"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói lắp bắp, Dật Phàm chối bay chối biến. Mặc Trì phải bổ sung thêm tin nhắn để đè bẹp hắn.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "ks": 4
+            },
+            "f": "nop_anh"
+          }
+        },
+        {
+          "t": "Ngồi yên, nắm tay mẹ để mẹ khỏi sốc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mẹ cô siết tay cô thật chặt, mắt đỏ hoe. Cả hai cùng chứng kiến cảnh Kha thị mất thế mà không phải nói lời nào.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "ks": -1
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô ngồi quá gần, nghe rõ lời quát của Hoắc Lệ Quyên. Tim cô đập loạn.",
+            "d": {
+              "hao": 2,
+              "sinh": -4,
+              "ks": 5
+            }
+          }
+        },
+        {
+          "t": "Nhắc Mặc Trì giữ giọng điềm tĩnh, đừng để cơn giận kéo mình xa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô, hít một hơi dài rồi hạ giọng. Cuộc nói chuyện kết thúc mà không ai mất bình tĩnh quá mức.",
+            "d": {
+              "ac": -5,
+              "hac": -5,
+              "hao": 7,
+              "ks": 0
+            }
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh giận quá, bỏ ngoài tai. Giọng anh lạnh đến mức cả phòng im bặt, rợn người.",
+            "d": {
+              "hac": 2,
+              "hao": 0,
+              "ks": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, phòng khách nhà Thẩm. Nhà Kha đến bàn hợp tác; Mặc Trì chiếu ảnh và tin nhắn chứng minh Dật Phàm giấu bạn gái và mượn danh Thẩm thị kéo hợp đồng.",
+      "forced": 1,
+      "no": 38
+    },
+    {
+      "id": "z39",
+      "scene": "zdine",
+      "place": "Bàn ăn nhà Thẩm · Tối",
+      "kind": "chon",
+      "title": "Ba mẹ ra đi",
+      "text": "Một họp mặt gia đình khép lại chuyện nhà Kha. Lê Lê nói rõ mình chưa muốn gả cho ai. Mặc Trì đáp, giọng chắc chắn: «Anh sẽ chăm em cả đời.» Ba mẹ đưa mắt nhìn nhau, yên tâm, rồi chuẩn bị chuyến du lịch mới. Mặc Trì xung phong nấu bữa tối đầu tiên, dạy Lê Lê vài món dưỡng sinh cho tim. Tiểu Châu bảo đây là kỹ năng tốt cho cả hai.",
+      "tieu": "Món dưỡng sinh à? Học luôn đi, tim ngươi cần mà. Hắn tự nguyện nấu cho ngươi đấy.",
+      "cast": "zl,zm,zk,zn,tc",
+      "ch": [
+        {
+          "t": "Đứng cạnh bếp học anh nấu canh bổ tim, ghi nhớ từng bước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh dạy chậm rãi, kiên nhẫn. Cô học được cách nêm nếm và chọn nguyên liệu đúng. Cả bàn ăn thơm mùi canh.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 6,
+              "sinh": 3,
+              "ks": -5
+            },
+            "f": "hoc_nau"
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nêm nhầm muối, canh mặn chát. Anh nếm thử, nhăn mặt rồi vẫn uống hết.",
+            "d": {
+              "ac": -2,
+              "hao": 4,
+              "ks": -1
+            },
+            "f": "hoc_nau"
+          }
+        },
+        {
+          "t": "Khẳng định với ba mẹ mình chưa muốn gả cho ai, nhưng rất muốn ở bên anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba mẹ nhìn nhau mỉm cười. Mặc Trì cúi đầu ăn cơm để giấu đôi tai ửng đỏ.",
+            "d": {
+              "ac": -5,
+              "hac": -4,
+              "hao": 7,
+              "ks": 0
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Ba mẹ nghe nhầm thành «cô không muốn ở bên anh». Anh im lặng, không tranh cãi.",
+            "d": {
+              "ac": -1,
+              "hao": -2,
+              "hac": 2,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Chỉ ăn cơm, để mọi chuyện tự nhiên",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ba mẹ vui vẻ kể chuyện du lịch. Bữa tối ấm áp như chưa từng có sóng gió.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "sinh": 2,
+              "ks": -3
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô ăn nhanh, nghẹn, ho sặc sụa. Mặc Trì phải vỗ lưng, mặt tái đi vì sợ.",
+            "d": {
+              "hao": 2,
+              "sinh": -3,
+              "ks": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, bàn ăn nhà Thẩm. Họp gia đình: Lê Lê nói chưa muốn gả cho ai, Mặc Trì hứa chăm cô cả đời; ba mẹ yên tâm đi du lịch.",
+      "learn": {
+        "n": "Nấu ăn dưỡng sinh",
+        "s": "tri",
+        "v": 1
+      },
+      "no": 39
+    },
+    {
+      "id": "z40",
+      "scene": "zoffice",
+      "place": "Văn phòng Kha thị · Chiều",
+      "kind": "hiem",
+      "title": "Dật Phàm công khai Hiểu Hiểu",
+      "text": "Vài tuần sau, ở Kha thị, Dật Phàm đưa Hiểu Hiểu ra công khai, giới thiệu trước toàn công ty. Hoắc Lệ Quyên phản đối kịch liệt, đuổi cô ra khỏi nhà. Dật Phàm bỏ họp, ít xuất hiện hơn hẳn, để mặc Dật Khôi dần dần chiếm các cuộc họp quan trọng. Người trong công ty bắt đầu nghi ngờ khả năng điều hành của hắn.",
+      "tieu": "Hắn tự đào hố cho mình rồi. Ngươi không cần làm gì, nhưng nhớ đọc kỹ cử chỉ của các bên.",
+      "cast": "zl,zp,zh,zq,zo,tc",
+      "ch": [
+        {
+          "t": "Nhờ Ngô Khải thu thập tin tức Kha thị để đề phòng bất trắc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ngô Khải báo lại gọn gàng: Dật Khôi đang kéo cổ đông về phe mình. Cô ghi nhớ làm cơ sở sau này.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "ks": -1
+            },
+            "f": "tin_kha"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Tin tức lộn xộn, Ngô Khải phải hỏi lại ba nguồn mới ghép được bức tranh. Mất cả buổi chiều.",
+            "d": {
+              "ac": -1,
+              "sinh": -2,
+              "ks": 3
+            },
+            "f": "tin_kha"
+          }
+        },
+        {
+          "t": "Giữ im lặng, chờ Kha thị tự bộc lộ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô không phản ứng gì. Hai tuần sau, tin Dật Phàm bị mẹ ruồng bỏ lan ra thành phố. Cô biết mình đã đúng khi không chen vào.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "ks": -3
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Vài lời đồn lan nhanh, cô nghe thấy mà không biết đúng sai. Cô thấy bứt rứt khó chịu.",
+            "d": {
+              "hao": 0,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Nói chuyện với Mặc Trì về việc Kha thị suy sụp, hỏi anh định làm gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn cô, hơi bất ngờ vì cô lo cho anh. «Anh không định làm gì cả. Hắn tự rơi.» Anh nghe giọng nhẹ nhõm hẳn.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "ks": -1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Anh nhíu mày, nghĩ cô lại đang lo chuyện hôn ước. Cô phải giải thích mãi.",
+            "d": {
+              "hao": 0,
+              "hac": 2,
+              "ks": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, văn phòng Kha thị. Dật Phàm đưa Hiểu Hiểu ra công khai; Hoắc Lệ Quyên đuổi cô khỏi nhà và Dật Phàm ngày càng bỏ họp.",
+      "no": 40
+    },
+    {
+      "id": "z41",
+      "scene": "ztea",
+      "place": "Quán trà yên tĩnh · Chiều",
+      "kind": "chon",
+      "title": "Hiểu Hiểu hẹn gặp",
+      "text": "Hiểu Hiểu hẹn gặp Lê Lê ở quán trà nhỏ. Cô gái mặc áo cũ, mắt đỏ, giọng nghẹn: «Nhà cô chèn ép nhà họ Kha, nên anh Phàm mới thành ra thế này.» Lê Lê bình tĩnh nghe hết rồi đáp: Thẩm thị chỉ ngừng hợp tác sau khi biết bên kia lừa dối; còn nếu cô muốn biết vì sao Kha thị thiếu vốn, hãy hỏi chính Dật Phàm. Tiểu Châu nhắc: đàm phán là kỹ năng dùng được cả đời.",
+      "tieu": "Cô ta tin lời chồng sắp cưới, ngươi không trách được. Nói cho rõ, đừng gay gắt, rồi để cô ta tự đi hỏi.",
+      "cast": "zl,zh,tc",
+      "ch": [
+        {
+          "t": "Trình bày rõ từng mốc hợp tác và lý do Thẩm thị rút vốn, giọng ôn hòa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hiểu Hiểu nghe xong im lặng. «Em chưa biết mấy chuyện đó.» Cô cúi đầu cảm ơn, ra về trầm tư.",
+            "d": {
+              "ac": -5,
+              "hac": -3,
+              "hao": 5,
+              "ks": -2
+            },
+            "f": "dam_phan"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói dài, Hiểu Hiểu không theo kịp, vẫn giữ vẻ nghi ngờ. Hai người chia tay nhưng chưa thấu.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "ks": 3
+            },
+            "f": "dam_phan"
+          }
+        },
+        {
+          "t": "Mời Hiểu Hiểu uống trà và hỏi vì sao cô ấy yêu Dật Phàm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiểu Hiểu bật khóc, kể chuyện cha ốm. Lê Lê lắng nghe, hiểu ra cô gái chỉ là nạn nhân của hoàn cảnh. Cuộc nói chuyện kết thúc êm đẹp.",
+            "d": {
+              "ac": -4,
+              "hac": -2,
+              "hao": 4,
+              "ks": -1
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Hiểu Hiểu tưởng cô khinh mình, đứng bật dậy. Hai người nói qua nói lại, rồi chia tay trong im lặng.",
+            "d": {
+              "ac": 1,
+              "hac": 1,
+              "sinh": -3,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Từ chối thảo luận chuyện làm ăn, chỉ chúc cô ấy bình an",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hiểu Hiểu ngẩn ra, rồi lẩm bẩm cảm ơn. Cô rời đi mà không còn mang ác ý.",
+            "d": {
+              "ac": -2,
+              "hao": 2,
+              "ks": -2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hiểu Hiểu thấy mình bị coi thường, ánh mắt hằn học khi bước ra cửa.",
+            "d": {
+              "hac": 1,
+              "sinh": -2,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, quán trà nhỏ. Hiểu Hiểu hẹn gặp Lê Lê, trách Thẩm thị chèn ép Kha thị; Lê Lê gợi ý cô hỏi vì sao Kha thị thiếu vốn.",
+      "learn": {
+        "n": "Đàm phán",
+        "s": "tri",
+        "v": 2
+      },
+      "no": 41
+    },
+    {
+      "id": "z42",
+      "scene": "zwed",
+      "place": "Sảnh cưới của Dật Phàm · Tối",
+      "kind": "chon",
+      "title": "Lễ cưới của hai người",
+      "text": "Vài tháng sau, Dật Phàm và Hiểu Hiểu tổ chức lễ cưới giản dị. Lê Lê và Mặc Trì dự. Giữa tiệc, Mặc Trì cúi xuống thì thầm vào tai cô: «Nếu người cưới em là anh, em thấy thế nào?» Lê Lê quay đi, tim đập loạn, đáp rằng cô vẫn còn giận. Anh khẽ cười: «Vậy anh chờ.»",
+      "tieu": "Hắn nói thật đấy, và đang cười! Chọn câu trả lời khéo vào. Ngươi chưa cần đồng ý, nhưng đừng đẩy hắn đi.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Nói thật: «Em còn giận vì anh từng đẩy em đi, nhưng em đang cân nhắc»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nín thở, đôi mắt sáng rực: «Anh sẽ chờ.» Ngón tay anh nhẹ nhàng nắm lấy tay cô dưới gầm bàn.",
+            "d": {
+              "ac": -6,
+              "hac": -5,
+              "hao": 9,
+              "ks": 2
+            },
+            "f": "hua_cho"
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nói lộn xộn, anh không chắc có phải cô đồng ý. Anh gật đầu, nhưng ánh mắt thoáng lo.",
+            "d": {
+              "ac": -2,
+              "hao": 3,
+              "ks": 5
+            },
+            "f": "hua_cho"
+          }
+        },
+        {
+          "t": "Giả vờ không nghe, nâng ly chúc hai vợ chồng mới",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn cô rất lâu, cười khẽ và cụng ly. Cô thấy tai mình nóng bừng suốt phần còn lại của bữa tiệc.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "ks": 0
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Cô nâng ly nhầm, rượu đổ lên váy. Anh vội lau, cả hai nhìn nhau rồi bật cười nhẹ.",
+            "d": {
+              "ac": -1,
+              "hao": 3,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Hỏi ngược: «Anh nghĩ vì sao em từng nghe lời anh từng chữ?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh sững lại: «Vì em… yêu anh?» Giọng anh nhỏ như thể sợ nói sai. Cô chỉ cười, không đáp.",
+            "d": {
+              "ac": -7,
+              "hac": -6,
+              "hao": 10,
+              "ks": 3
+            },
+            "f": "hua_cho"
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh nhìn cô lúng túng, chẳng đáp được. Cô hơi áy náy vì đặt câu hỏi quá sớm.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "ks": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, sảnh cưới của Dật Phàm và Hiểu Hiểu. Mặc Trì thì thầm hỏi Lê Lê nếu người cưới cô là anh thì sao.",
+      "no": 42
+    },
+    {
+      "id": "z43",
+      "scene": "zboard",
+      "place": "Phòng họp cổ đông Kha thị · Sáng",
+      "kind": "nan",
+      "title": "Kha thị đổi chủ",
+      "text": "Nhiều tháng sau, Tiểu Châu tóm tắt cho Lê Lê những gì xảy ra ở Kha thị: Dật Phàm bị loại khỏi hội đồng quản trị; Kha Dật Khôi lên thay. Vợ chồng Dật Phàm phải dọn ra nhà nhỏ, cãi nhau vì tiền chợ. Hoắc Lệ Quyên mất quyền, Kha Bỉnh Hoài dần rút khỏi công việc. Không ai ép họ, họ tự lấy quyết định sai và để người khác chiếm chỗ.",
+      "tieu": "Đó là cái giá của lời dối trá. Không cần ngươi ra tay, nhưng nhớ đây là bài học: đừng bao giờ nói dối với người tin mình.",
+      "cast": "zl,zp,zq,zo,tc",
+      "ch": [
+        {
+          "t": "Nghe Tiểu Châu kể, thở dài, quyết định gửi một món quà hỏi thăm Hiểu Hiểu",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiểu Hiểu nhận quà, gửi lại một tấm thiệp cảm ơn viết tay. Cô thấy lòng nhẹ đi một chút.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 4,
+              "ks": -3
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Món quà bị Hoắc Lệ Quyên chặn lại, hiểu nhầm là sự khinh thường. Cô đành thôi.",
+            "d": {
+              "ac": -1,
+              "sinh": -2,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Ghi lại bài học trong sổ tay, nói với Mặc Trì mọi chuyện",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe xong, lặng lẽ gật đầu. «Em nhìn xa hơn anh.» Cô bật cười nhỏ.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "ks": -1
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô ghi chép dài dòng, Mặc Trì phải nhắc: «Đừng nghĩ nhiều.» Nhưng anh cười.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Không bình luận, hỏi Tiểu Châu về kế hoạch chuyến mổ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu im lặng rồi nói: «Ngươi đã sẵn sàng hơn ngươi nghĩ.» Cô thấy lòng bình yên.",
+            "d": {
+              "ac": -3,
+              "hac": -2,
+              "hao": 3,
+              "sinh": 2,
+              "ks": -4
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Tiểu Châu nói bóng gió, cô không hiểu hết. Đêm đó cô ngủ không ngon.",
+            "d": {
+              "ac": -1,
+              "sinh": -1,
+              "ks": 3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, phòng họp cổ đông Kha thị, nhiều tháng sau. Tiểu Châu tóm tắt: Dật Phàm bị loại khỏi hội đồng, Dật Khôi lên thay, vợ chồng Dật Phàm ra ở nhà nhỏ.",
+      "no": 43
+    },
+    {
+      "id": "z44",
+      "scene": "zmall",
+      "place": "Trung tâm thương mại Hoa Thịnh · Chiều",
+      "kind": "chon",
+      "title": "Gặp lại ở trung tâm thương mại",
+      "text": "Một buổi chiều ở Hoa Thịnh, Lê Lê và Mặc Trì chọn váy ở quầy thời trang. Cách đó vài bước, Hiểu Hiểu đang cãi lớn với một cô gái khác, bạn gái mới của Dật Phàm. Tiếng la ầm ĩ khiến cả quầy quay lại. Hiểu Hiểu liếc thấy Lê Lê, cười chua chát: «Mắt em tốt hơn tôi.» Lê Lê hỏi Mặc Trì: «Nếu ngày xưa em cưới Dật Phàm thì sao?» Anh đáp không do dự: «Không có «nếu».»",
+      "tieu": "Lại gặp cô ta! Ngươi đã thoát khỏi con đường đó rồi. Câu «không có nếu» của hắn là câu đẹp nhất của chương này.",
+      "cast": "zl,zm,zh,tc",
+      "ch": [
+        {
+          "t": "Cười nhẹ với Hiểu Hiểu, nói chúc cô ấy sớm bình yên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiểu Hiểu ngẩn ra, không nói được lời nào. Lê Lê quay lại với Mặc Trì, anh mỉm cười ra chiều tán thưởng.",
+            "d": {
+              "ac": -4,
+              "hac": -3,
+              "hao": 5,
+              "ks": -2
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Hiểu Hiểu hiểu nhầm lời chúc thành châm chọc, quay mặt đi. Cô thấy hơi tiếc.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "ks": 3
+            }
+          }
+        },
+        {
+          "t": "Quay sang chọn váy, nhờ Mặc Trì cho ý kiến",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh chọn đúng chiếc váy cô để ý từ nãy. Hai người nhìn nhau cười, quên cả tiếng cãi vã.",
+            "d": {
+              "ac": -3,
+              "hac": -3,
+              "hao": 6,
+              "ks": -3
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô chọn mãi không quyết được. Mặc Trì kiên nhẫn đứng chờ, nhìn đồng hồ nhưng không giục.",
+            "d": {
+              "ac": -1,
+              "hao": 3,
+              "ks": 1
+            }
+          }
+        },
+        {
+          "t": "Nắm tay anh, hỏi nhỏ: «Anh có hối hận vì ngày xưa đẩy em đi không?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh đứng lại giữa quầy, nghiêm túc: «Có. Mỗi ngày.» Giọng anh khẽ, nhưng cô nghe rõ.",
+            "d": {
+              "ac": -7,
+              "hac": -6,
+              "hao": 9,
+              "ks": 2
+            }
+          },
+          "b": 0.44,
+          "bad": {
+            "x": "Anh nhìn cô thật lâu, rồi bảo: «Đừng hỏi ở đây.» Tai anh đỏ rực.",
+            "d": {
+              "ac": -1,
+              "hao": 2,
+              "ks": 4
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, trung tâm thương mại Hoa Thịnh. Hiểu Hiểu cãi nhau với bạn gái mới của Dật Phàm; cô liếc thấy Lê Lê, còn Lê Lê hỏi Mặc Trì nếu ngày xưa cô cưới Dật Phàm thì sao.",
+      "no": 44
+    },
+    {
+      "id": "z45",
+      "scene": "zairport",
+      "place": "Sân bay · Sáng, nhiều năm sau",
+      "kind": "nan",
+      "title": "Chuyến bay",
+      "text": "Mười mấy năm trôi qua. Tiểu Châu kể lại: Mặc Trì chưa lấy ai, Lê Lê chỉ gọi anh là ca ca. Tim cô yếu dần, nhưng anh đã sắp xếp ca mổ từ lâu, từ ngày bác sĩ Phương nói chuyện ở phòng khám. Sáng nay họ cùng đến sân bay, hành lý gọn gàng, tập hồ sơ trong tay anh dày lên theo năm tháng. Máy bay chuẩn bị cất cánh. Anh nắm tay cô, lòng bàn tay run nhẹ.",
+      "tieu": "Đến lúc rồi. Đây là mốc cuối: ngươi đã đi cùng hắn một chặng dài. Chuyến bay này, mọi con số của ngươi sẽ nói lên kết cục.",
+      "cast": "zl,zm,tc",
+      "ch": [
+        {
+          "t": "Nắm tay anh, nói: «Em sẽ về, nhất định về»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh siết tay cô, nuốt nước mắt gật đầu. Máy bay cất cánh. Hai người nhìn nhau, không cần nói thêm lời nào.",
+            "d": {
+              "ac": -5,
+              "hac": -5,
+              "hao": 6,
+              "sinh": -3,
+              "ks": -4
+            }
+          },
+          "b": 0.53,
+          "bad": {
+            "x": "Giọng cô run quá, anh chỉ nghe nửa câu. Anh siết tay cô chặt hơn, im lặng suốt cả chặng.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 3,
+              "sinh": -6,
+              "ks": 4
+            }
+          }
+        },
+        {
+          "t": "Hít thở theo nhịp đã học, kiểm tra lại hồ sơ mổ cùng anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người rà từng trang, từng ngày giờ. Tim cô đều nhịp, anh yên tâm hơn nhiều khi máy bay cất cánh.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 2,
+              "ks": -8
+            }
+          },
+          "b": 0.5,
+          "bad": {
+            "x": "Cô nhầm ngày giờ một trang, phải kiểm tra lại. Anh kiên nhẫn đối chiếu cùng cô cho đến khi hết lỗi.",
+            "d": {
+              "ac": -2,
+              "hac": -1,
+              "hao": 2,
+              "sinh": -2,
+              "ks": 2
+            }
+          }
+        },
+        {
+          "t": "Nhìn anh thật lâu, nói ra những điều chưa bao giờ nói",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô nói với anh về cô bé ba tuổi bên cửa sổ bệnh viện, về lần đầu cô nhìn thấy anh. Anh nghe xong, cúi đầu thật sâu, nước mắt rơi xuống tay cô.",
+            "d": {
+              "ac": -6,
+              "hac": -6,
+              "hao": 7,
+              "sinh": -3,
+              "ks": -2
+            }
+          },
+          "b": 0.47,
+          "bad": {
+            "x": "Cô nghẹn không nói được hết lời. Anh ôm cô, nói «anh hiểu» dù cô chưa kịp nói gì.",
+            "d": {
+              "ac": -2,
+              "hac": -2,
+              "hao": 4,
+              "sinh": -6,
+              "ks": 5
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, sân bay, nhiều năm sau. Tiểu Châu tóm tắt mười mấy năm: Mặc Trì chưa lấy ai, Lê Lê chỉ gọi anh là ca ca; anh đã sắp xếp ca mổ từ lâu. Họ lên máy bay.",
+      "no": 45
+    }
+  ]
+}
