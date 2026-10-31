@@ -14,7 +14,10 @@ rồi mở <http://localhost:8000>.
 
 - `index.html` — khung HTML, link tới CSS và JS.
 - `css/style.css` — toàn bộ CSS.
-- `js/app.js` — engine, giao diện, cảnh vẽ bằng SVG và các hàm điều kiện của từng mốc (`HK`).
+- `js/main.js` — điểm vào (ES module), nạp mọi module rồi gọi `boot()`.
+- `js/state.js`, `js/stats.js`, `js/autoplay.js`, `js/records.js`, `js/choices.js` — engine: trạng thái ván, chỉ số và xác suất, tự chơi, lưu tiến trình, luồng lựa chọn.
+- `js/ui/` — giao diện: màn chơi (`game.js`), thanh chỉ số (`hud.js`), tranh cảnh (`scenes.js`), kết cục (`endpage.js`), trang chủ (`home.js`), chuyển bước và bắt sự kiện bấm (`router.js`).
+- `js/worlds/` — `registry.js` và `loader.js` (kho đăng ký, tải JSON), `intro.js` (trang giới thiệu chung), và `world-NN.js`: hàm điều kiện (`HK`), cảnh SVG, bìa của từng thế giới.
 - `worlds/index.json` — thứ tự các thế giới và thông tin hiện ở trang chủ.
 - `worlds/world-NN.json` — dữ liệu từng thế giới: mốc, lựa chọn, kết cục, chỉ số, tên nhân vật. Chỉ tải khi người chơi vào thế giới đó.
 - `assets/` — ảnh WebP (bìa, chân dung, tranh cảnh).
