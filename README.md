@@ -26,6 +26,4 @@ rồi mở <http://localhost:8000>.
 - `docs/thiet-ke-ui.md`, `docs/task-thiet-ke.md` — thiết kế UI và task.
 - `docs/mach-truyen/` — tổng quan + mạch truyện thế giới 1–20.
 
-Hàm điều kiện của mốc (`bonus`, `fix`, `need`, `cond`, và các `text`/`tieu`/`ctx` đổi theo tình huống) không biểu diễn được bằng JSON nên nằm trong `js/app.js`, bảng `HK`, theo id mốc.
-
-Bản sao lưu từ các artifact trong chat.
+Hàm điều kiện của mốc (`bonus`, `fix`, `need`, `cond`, và các `text`/`tieu`/`ctx` đổi theo tình huống) không biểu diễn được bằng JSON nên nằm trong `js/worlds/world-NN.js`, bảng `HK.wN`, theo id mốc.
