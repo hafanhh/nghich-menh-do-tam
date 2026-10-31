@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Môi trường / bí mật
+.env
+.env.*
+*.key
+*.pem
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Truyện gốc (không đẩy lên git)
+Xuyen_nhanh_nu_xung_cac_truyen_hoan_thanh/
+
+# Log / tạm
+*.log
+*.tmp
