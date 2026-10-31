@@ -5,9 +5,11 @@
  *   node tools/check-worlds.js
  *   node tools/check-worlds.js --baseline-rev 84beba2
  *   node tools/check-worlds.js --baseline-file /đường/dẫn/app.js-cũ.js
+ *   node tools/check-worlds.js --no-baseline      (chỉ kiểm cấu trúc, khi chủ động sửa/thêm truyện)
  *
  * 1. index.json và mỗi world-NN.json phải là JSON hợp lệ, đúng cấu trúc.
  * 2. Số mốc, thứ tự thế giới, id mốc và toàn bộ dữ liệu chữ/số phải khớp bản gốc.
+ *    Thế giới thêm sau bản gốc chỉ được kiểm cấu trúc; thế giới có trong bản gốc thì phải khớp từng chữ.
  *    Bản gốc là js/app.js ở commit trước khi tách dữ liệu (mặc định 84beba2, lấy bằng git show),
  *    được chạy trong vm để lấy đúng các đối tượng thế giới mà game từng dựng.
  * Hàm điều kiện (bonus, fix, need, text động...) không nằm trong JSON nên không so ở đây.
@@ -113,9 +115,15 @@ for (const m of index.worlds) {
 console.log(errors ? '  → có lỗi cấu trúc' : '  → ' + index.worlds.length + ' thế giới, JSON hợp lệ');
 
 // ---- 2. Đối chiếu bản gốc
+if (args.includes('--no-baseline')) {
+  console.log('Bỏ qua đối chiếu bản gốc (--no-baseline)');
+  console.log(errors ? '\nKẾT QUẢ: ' + errors + ' lỗi' : '\nKẾT QUẢ: đạt về cấu trúc (chưa đối chiếu bản gốc)');
+  process.exit(errors ? 1 : 0);
+}
 console.log('Đối chiếu với bản gốc (git ' + (opt('--baseline-file') ? opt('--baseline-file') : REV) + ')');
 const base = loadBaseline();
-if (JSON.stringify(base.OPEN) !== JSON.stringify(index.worlds.map(m => m.id))) fail('thứ tự thế giới khác bản gốc: ' + base.OPEN.join() + ' ≠ ' + index.worlds.map(m => m.id).join());
+const ids = index.worlds.map(m => m.id);
+if (JSON.stringify(ids.slice(0, base.OPEN.length)) !== JSON.stringify(base.OPEN)) fail('thứ tự thế giới khác bản gốc: ' + base.OPEN.join() + ' ≠ ' + ids.slice(0, base.OPEN.length).join());
 const rows = [];
 for (const id of base.OPEN) {
   const B = base.WORLDS[id], w = worlds[id];
@@ -139,8 +147,9 @@ for (const id of base.OPEN) {
   }
   rows.push([id, B.EV.length, w.events.length, w.events.reduce((n, e) => n + e.ch.length, 0), errors === before ? 'khớp' : 'LỆCH']);
 }
+for (const id of ids.filter(i => !base.OPEN.includes(i)) ) { const w = worlds[id]; if (w) rows.push([id, '-', w.events.length, w.events.reduce((n, e) => n + e.ch.length, 0), 'mới, chỉ kiểm cấu trúc']); }
 console.log('  thế giới  mốc gốc  mốc JSON  lựa chọn  kết quả');
 for (const r of rows) console.log('  ' + r[0].padEnd(9) + String(r[1]).padStart(8) + String(r[2]).padStart(10) + String(r[3]).padStart(10) + '  ' + r[4]);
 
-console.log(errors ? '\nKẾT QUẢ: ' + errors + ' lỗi' : '\nKẾT QUẢ: đạt, mọi file hợp lệ và số mốc/nội dung khớp bản gốc');
+console.log(errors ? '\nKẾT QUẢ: ' + errors + ' lỗi' : '\nKẾT QUẢ: đạt, mọi file hợp lệ; thế giới có trong bản gốc khớp từng chữ');
 process.exit(errors ? 1 : 0);
