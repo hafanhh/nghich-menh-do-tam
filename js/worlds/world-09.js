@@ -58,18 +58,8 @@ export function scene9(kind){
 }
 
 function w9cover(){
-  /* Bìa thế giới 9: hồ sen đêm, biệt thự sáng đèn trên đồi, đường nhịp tim chạy ngang bầu trời. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Lê Uyển Thẩm Gia: hồ sen dưới trăng, biệt thự sáng đèn trên đồi, một đường nhịp tim chạy ngang bầu trời đêm"><defs><linearGradient id="c9s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14182e"/><stop offset=".55" stop-color="#2c2a52"/><stop offset="1" stop-color="#5a3f6a"/></linearGradient><radialGradient id="c9m" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#fff3d2"/><stop offset="1" stop-color="#fff3d2" stop-opacity="0"/></radialGradient></defs><rect width="800" height="400" fill="url(#c9s)"/>';
-  s+='<circle cx="610" cy="96" r="120" fill="url(#c9m)" opacity=".55"/><circle cx="610" cy="96" r="38" fill="#fff3d2"/>';
-  for(var i=0;i<30;i++){s+='<circle cx="'+((i*127)%800)+'" cy="'+(20+((i*53)%150))+'" r="'+(1+(i%3)*.6)+'" fill="#fff" opacity="'+(.25+(i%4)*.15)+'"/>'}
-  s+='<path d="M0 214 Q180 172 360 206 T800 196 L800 400 L0 400Z" fill="#1c1a38"/>';
-  s+='<rect x="120" y="120" width="300" height="100" fill="#2a2548"/><path d="M104 120 L270 62 L436 120Z" fill="#221d3e"/><rect x="236" y="150" width="68" height="70" fill="#1a1630"/>';
-  for(var j=0;j<6;j++){s+='<rect x="'+(142+j*44+(j>2?10:0))+'" y="138" width="22" height="30" fill="#ffd98a" opacity="'+(.5+(j%3)*.15)+'"/>'}
-  s+='<path d="M0 262 H210 L240 262 L262 220 L290 292 L318 244 L336 262 H800" fill="none" stroke="#ff7b8a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>';
-  s+='<rect y="270" width="800" height="130" fill="#1a1a3a"/>';
-  for(var k=0;k<7;k++){var x=60+k*108,y=300+((k*37)%60);s+='<ellipse cx="'+x+'" cy="'+y+'" rx="34" ry="9" fill="#2e5a52" opacity=".9"/><path d="M'+x+' '+(y-2)+' q-14 -18 0 -38 q14 20 0 38Z" fill="#f4d9e2"/><path d="M'+(x-4)+' '+(y-2)+' q-22 -8 -20 -28 q18 6 20 28Z" fill="#efc7d4" opacity=".9"/><path d="M'+(x+4)+' '+(y-2)+' q22 -8 20 -28 q-18 6 -20 28Z" fill="#efc7d4" opacity=".9"/>'}
-  s+='<path d="M0 340 q100 -12 200 0 t200 0 t200 0 t200 0" stroke="#fff3d2" stroke-width="2" opacity=".18" fill="none"/></svg>';
-  return s;
+  /* Bìa thế giới 9: ảnh vẽ có cả hai nhân vật chính bên hồ sen đêm, biệt thự sáng đèn và cầu đá. */
+  return '<img src="assets/w09/bia.webp" alt="Bìa Lê Uyển Thẩm Gia: Thẩm Lê Lê và Thẩm Mặc Trì bên hồ sen dưới trăng, biệt thự sáng đèn và cầu đá phía sau" loading="lazy">';
 }
 
 var W9K={};
@@ -101,4 +91,6 @@ WORLDS.w9={
   boss:{key:"zm",name:"Thẩm Mặc Trì",role:"Anh nuôi, tổng giám đốc Thẩm thị",desc:"23 tuổi, được ba mẹ Thẩm nhận về từ cô nhi viện. Anh tin mình được nuôi để làm con rể, nên cố đẩy Lê Lê sang người khác.",quote:"“Em tự quyết. Anh không cản.”",tag:"Anh nuôi sợ bị sắp đặt"},
   tc:"“Ta xuyên tới đây còn mệt lắm, nói được ít thôi. Kẻ Ác niệm 100 là anh nuôi của ngươi, và hắn đang đẩy ngươi vào tay người ngoài. Giữ tim cho đều, nghe kỹ lời hắn, và nhớ có một đêm xe lạ đang chờ phía trước. Chúc may mắn nhé!”"})}
 };
+/* Chân dung Mặc Trì đổi theo chỉ số: Hảo cảm từ 60 và Hắc hóa đã thấp thì mặt dịu. Chân dung mặc định đã là mặt lạnh (cũng là bản Hắc hóa cao). */
+(function(){var raw=WORLDS.w9.bossView;WORLDS.w9.bossView=function(){var b=raw();if(!S.end&&b.k==="zm"&&S.hao>=60&&S.hac<=40)b.k="zm_hao";return b}})();
 IXS.w9=IX9;PARAMS.w9=W9K;

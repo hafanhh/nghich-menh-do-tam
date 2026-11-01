@@ -30,17 +30,8 @@ function w13emblem(heat){
 }
 
 function w13cover(){
-  /* Bìa thế giới 13: lâu đài dưới trời chiều đỏ, ruộng rau xanh và những đốm tinh hạch. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Tịch Chiếu Đế Quốc: lâu đài dưới trời chiều đỏ, tường thành cũ và những đốm tinh hạch sáng"><defs><linearGradient id="c13s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a2a4a"/><stop offset=".55" stop-color="#c85d5a"/><stop offset="1" stop-color="#f4b57e"/></linearGradient></defs><rect width="800" height="400" fill="url(#c13s)"/>';
-  s+='<circle cx="560" cy="205" r="52" fill="#ffd9a0" opacity=".92"/>';
-  for(var i=0;i<16;i++){s+='<circle cx="'+((i*53+17)%800)+'" cy="'+(16+((i*37)%96))+'" r="1.3" fill="#fff" opacity="'+(.2+(i%4)*.12)+'"/>'}
-  s+='<path d="M0 300 L130 220 L250 280 L380 200 L520 280 L650 215 L800 290 L800 400 L0 400Z" fill="#2a2036"/>';
-  s+='<g transform="translate(300 288)" fill="#18121f"><rect x="-90" y="-60" width="180" height="60"/><rect x="-110" y="-110" width="40" height="110"/><rect x="70" y="-100" width="40" height="100"/><path d="M-116 -110 L-90 -146 L-64 -110Z"/><path d="M64 -100 L90 -134 L116 -100Z"/><rect x="-24" y="-96" width="48" height="96"/><path d="M-30 -96 L0 -134 L30 -96Z"/><rect x="-6" y="-36" width="12" height="36" fill="#f6c97b" opacity=".85"/><rect x="-100" y="-80" width="8" height="14" fill="#f6c97b" opacity=".8"/><rect x="92" y="-72" width="8" height="14" fill="#f6c97b" opacity=".8"/></g>';
-  for(var k=0;k<22;k++){var x=30+k*36,y=352+((k*7)%12);s+='<path d="M'+x+' '+y+' q4 -14 8 0z" fill="#3f7a4a" opacity=".8"/>'}
-  for(var g=0;g<14;g++){var gx=60+g*52,gy=340+((g*13)%40);s+='<circle cx="'+gx+'" cy="'+gy+'" r="3" fill="'+(g%3===0?'#ffd98a':(g%3===1?'#9ad7c0':'#e7a0b8'))+'" opacity=".9"/>'}
-  s+='<path d="M0 372 Q200 358 400 374 T800 366 L800 400 L0 400Z" fill="#150f1c"/>';
-  s+='</svg>';
-  return s;
+  /* Bìa thế giới 13 «Tịch Chiếu Đế Quốc»: ảnh vẽ trong assets/w13/bia.webp. */
+  return '<img src="assets/w13/bia.webp" alt="Bìa Tịch Chiếu Đế Quốc" loading="lazy">';
 }
 
 var W13K={};

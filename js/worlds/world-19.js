@@ -63,17 +63,8 @@ function w19emblem(heat){
 }
 
 function w19cover(){
-  /* Bìa thế giới 19: vách đá dưới trăng, cây hòe có hốc tượng, ánh đèn làng xa và dải lụa trắng bay. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Vách Đoạn Hồn: vách đá dưới trăng, cây hòe cổ thụ có hốc tượng, ánh đèn một ngôi làng xa và dải lụa trắng bay trong gió"><defs><linearGradient id="c19s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10152a"/><stop offset=".6" stop-color="#262a4a"/><stop offset="1" stop-color="#40355a"/></linearGradient><radialGradient id="c19m" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#fff6dc"/><stop offset="1" stop-color="#fff6dc" stop-opacity="0"/></radialGradient></defs><rect width="800" height="400" fill="url(#c19s)"/>';
-  s+='<circle cx="600" cy="92" r="120" fill="url(#c19m)" opacity=".5"/><circle cx="600" cy="92" r="36" fill="#fff6dc"/>';
-  for(var i=0;i<28;i++){s+='<circle cx="'+((i*131)%800)+'" cy="'+(16+((i*47)%150))+'" r="'+(1+(i%3)*.6)+'" fill="#fff" opacity="'+(.25+(i%4)*.15)+'"/>'}
-  s+='<path d="M0 230 L120 170 L210 215 L330 150 L450 228 L800 214 L800 400 L0 400Z" fill="#1b1d38"/>';
-  s+='<path d="M430 400 L430 160 Q470 150 520 170 L560 400Z" fill="#141528"/><path d="M520 170 Q560 160 600 180 L640 400 L560 400Z" fill="#1a1b34"/>';
-  for(var j=0;j<9;j++){var wx=60+j*54,wy=300+((j*29)%50);s+='<rect x="'+wx+'" y="'+wy+'" width="9" height="11" fill="#ffcf7a" opacity="'+(.4+(j%3)*.2)+'"/><path d="M'+(wx-8)+' '+(wy)+' L'+(wx+4)+' '+(wy-12)+' L'+(wx+17)+' '+wy+'Z" fill="#14152a"/>'}
-  s+='<g transform="translate(250 330)"><path d="M-6 70 L-6 -50 Q-60 -62 -70 -120 Q-30 -100 -6 -108 Q-14 -160 28 -178 Q26 -128 40 -112 Q84 -122 94 -84 Q60 -76 40 -60 L40 70Z" fill="#10151f"/><rect x="2" y="-40" width="26" height="36" rx="6" fill="#241f2c"/><path d="M15 -34 L15 -10 M9 -20 H21" stroke="#e9c46a" stroke-width="3" stroke-linecap="round"/></g>';
-  s+='<path d="M300 150 C340 120 380 200 430 160 S520 120 560 150" fill="none" stroke="#f4f1f8" stroke-width="5" stroke-linecap="round" opacity=".85"/>';
-  s+='<rect y="356" width="800" height="44" fill="#14131f"/><path d="M0 372 q100 -10 200 0 t200 0 t200 0 t200 0" stroke="#fff6dc" stroke-width="2" opacity=".16" fill="none"/></svg>';
-  return s;
+  /* Bìa thế giới 19 «Vách Đoạn Hồn»: ảnh vẽ trong assets/w19/bia.webp. */
+  return '<img src="assets/w19/bia.webp" alt="Bìa Vách Đoạn Hồn" loading="lazy">';
 }
 
 var W19K={};

@@ -75,23 +75,8 @@ export function scene3(kind){
 }
 
 function w3cover(){
-  /* Bìa thế giới 3: tường lãnh cung dưới trăng, cây đào nở, mặt nạ bạc nằm trên mái ngói. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Lãnh cung Tĩnh Tư: tường cung dưới trăng, cây đào nở, chiếc mặt nạ bạc trên mái ngói"><defs><linearGradient id="c3s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1430"/><stop offset=".6" stop-color="#3a2342"/><stop offset="1" stop-color="#5a2a3a"/></linearGradient><radialGradient id="c3m" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f6ead0"/><stop offset="1" stop-color="#f6ead0" stop-opacity="0"/></radialGradient></defs>'
-   +'<rect width="800" height="400" fill="url(#c3s)"/><circle cx="560" cy="110" r="130" fill="url(#c3m)" opacity=".35"/><circle cx="560" cy="110" r="52" fill="#f1e5c6"/>'
-   +'<path d="M0 250 Q200 190 400 236 T800 224 L800 400 L0 400Z" fill="#2c1f3b"/>';
-  /* mái cung xa */
-  s+='<path d="M120 236 Q150 230 160 206 L440 206 Q450 230 480 236Z" fill="#20172e"/><rect x="150" y="236" width="300" height="60" fill="#20172e"/>';
-  /* tường lãnh cung */
-  s+='<rect x="0" y="290" width="800" height="70" fill="#3b2433"/><path d="M-10 290 h820 v-14 h-820z" fill="#140f1e"/>';
-  for(var i=0;i<40;i++)s+='<path d="M'+(i*21)+' 276 q10 -8 21 0" stroke="#2b1c2c" stroke-width="2" fill="none"/>';
-  /* cây đào */
-  s+='<path d="M640 360 q-10 -100 10 -170 q20 -40 -10 -80 M650 230 q40 -20 70 -60 M645 260 q-50 -20 -80 -70" stroke="#140f1e" stroke-width="10" fill="none" stroke-linecap="round"/>';
-  for(var j=0;j<34;j++){var px=560+((j*53)%200),py=80+((j*37)%180);s+='<circle cx="'+px+'" cy="'+py+'" r="'+(10+(j%3)*4)+'" fill="#e9b6c4" opacity="'+(.55+(j%4)*.1)+'"/>'}
-  for(var k=0;k<22;k++){var x=(k*97)%800,y=120+(k*61)%220;s+='<ellipse cx="'+x+'" cy="'+y+'" rx="4" ry="2.4" fill="#f3cbd5" opacity=".7" transform="rotate('+(k*31)+' '+x+' '+y+')"/>'}
-  /* mặt nạ bạc trên mái tường */
-  s+='<g transform="translate(330 268) rotate(-10)"><path d="M-36 -10 Q0 -30 36 -10 Q36 14 18 20 Q8 22 0 12 Q-8 22 -18 20 Q-36 14 -36 -10Z" fill="#dfe3ea" stroke="#9aa3b5" stroke-width="2"/><path d="M-24 -4 q8 -6 14 0 q-7 6 -14 0z M10 -4 q6 -6 14 0 q-7 6 -14 0z" fill="#1a1430"/></g>'
-   +'<rect x="0" y="360" width="800" height="40" fill="#140f1e"/></svg>';
-  return s;
+  /* Bìa thế giới 3 «Lãnh cung Tĩnh Tư»: ảnh vẽ trong assets/w03/bia.webp. */
+  return '<img src="assets/w03/bia.webp" alt="Bìa Lãnh cung Tĩnh Tư" loading="lazy">';
 }
 
 WORLDS.w3={

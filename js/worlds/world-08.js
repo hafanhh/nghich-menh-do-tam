@@ -91,17 +91,8 @@ export function scene8(kind){
 }
 
 function w8cover(){
-  /* Bìa thế giới 8: sân khấu đỏ mở màn, ánh đèn, tượng Kim Hạc vàng trên bục, thành phố về đêm. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Ánh Quang Viện: sân khấu mở màn nhung đỏ, ánh đèn chiếu xuống tượng chim hạc vàng trên bục, thành phố sáng đèn phía xa"><defs><linearGradient id="c8s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1226"/><stop offset=".6" stop-color="#4a2038"/><stop offset="1" stop-color="#8a3a4a"/></linearGradient><radialGradient id="c8l" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffe9b0"/><stop offset="1" stop-color="#ffe9b0" stop-opacity="0"/></radialGradient></defs>'
-   +'<rect width="800" height="400" fill="url(#c8s)"/>';
-  for(var i=0;i<16;i++){var x=i*54-10,hh=60+((i*47)%120);s+='<rect x="'+x+'" y="'+(300-hh)+'" width="46" height="'+hh+'" fill="'+(i%2?'#24182e':'#2c1c36')+'"/>';for(var j=0;j<3;j++)s+='<rect x="'+(x+8)+'" y="'+(312-hh+j*26)+'" width="7" height="9" fill="#ffd98a" opacity="'+(.2+((i+j)%3)*.2)+'"/>'}
-  s+='<path d="M0 0 H330 Q250 140 300 400 H0Z" fill="#8a1f33"/><path d="M800 0 H470 Q550 140 500 400 H800Z" fill="#8a1f33"/>';
-  for(var k=0;k<5;k++){s+='<path d="M'+(k*60)+' 0 Q'+(k*60+40)+' 200 '+(k*60+20)+' 400" stroke="#5a0f20" stroke-width="8" opacity=".5" fill="none"/><path d="M'+(800-k*60)+' 0 Q'+(800-k*60-40)+' 200 '+(800-k*60-20)+' 400" stroke="#5a0f20" stroke-width="8" opacity=".5" fill="none"/>'}
-  s+='<path d="M400 0 L270 330 L530 330Z" fill="#ffe9b0" opacity=".12"/><circle cx="400" cy="250" r="150" fill="url(#c8l)" opacity=".5"/>';
-  s+='<rect x="330" y="330" width="140" height="30" fill="#3a2a2a"/><rect x="350" y="300" width="100" height="30" fill="#4a3434"/>';
-  s+='<path d="M400 190 q-6 28 -34 40 q22 -2 34 -8 q12 6 34 8 q-28 -12 -34 -40Z" fill="#f2c25a"/><path d="M400 190 q-4 -16 6 -30" stroke="#f2c25a" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M400 222 v50" stroke="#f2c25a" stroke-width="6"/><circle cx="410" cy="158" r="5" fill="#f2c25a"/>';
-  s+='<rect y="368" width="800" height="32" fill="#120a1a"/></svg>';
-  return s;
+  /* Bìa thế giới 8 «Ánh Quang Viện»: ảnh vẽ trong assets/w08/bia.webp. */
+  return '<img src="assets/w08/bia.webp" alt="Bìa Ánh Quang Viện" loading="lazy">';
 }
 
 var W8K={};

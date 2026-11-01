@@ -38,18 +38,8 @@ function w15emblem(heat){
 }
 
 function w15cover(){
-  /* Bìa thế giới 15: núi mây và cổng tông, vườn linh thực xanh, hai bóng người áo trắng. Không có nhân vật cụ thể. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Thiên Ma Tông: cổng tông trên núi mây, vườn linh thực xanh, hai bóng người áo trắng"><defs><linearGradient id="c15s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b2347"/><stop offset=".55" stop-color="#5a5c9a"/><stop offset="1" stop-color="#e8b79a"/></linearGradient></defs><rect width="800" height="400" fill="url(#c15s)"/>';
-  s+='<circle cx="620" cy="110" r="40" fill="#fff6d6" opacity=".95"/>';
-  for(var i=0;i<20;i++){s+='<circle cx="'+((i*61+17)%800)+'" cy="'+(14+((i*29)%110))+'" r="1.3" fill="#fff" opacity="'+(.2+(i%4)*.12)+'"/>'}
-  s+='<path d="M0 300 L100 220 L200 280 L330 190 L460 270 L590 200 L720 270 L800 230 L800 400 L0 400Z" fill="#2d2a55"/>';
-  s+='<path d="M0 340 L140 270 L260 320 L400 250 L540 320 L680 270 L800 330 L800 400 L0 400Z" fill="#1c1a3b"/>';
-  s+='<g transform="translate(200 300)" fill="#120f26"><rect x="-70" y="-60" width="140" height="60"/><path d="M-90 -60 Q0 -110 90 -60 L74 -46 Q0 -86 -74 -46Z"/><rect x="-10" y="-34" width="20" height="34" fill="#f5c779" opacity=".85"/></g>';
-  s+='<path d="M0 360 Q200 340 400 358 T800 350 L800 400 L0 400Z" fill="#1d3a2f"/>';
-  for(var k=0;k<22;k++){var gx=24+k*36,gy=372+((k*13)%18);s+='<path d="M'+gx+' '+gy+' q4 -16 0 -26 q-6 10 0 26Z" fill="'+(k%3===0?'#7fd1a1':(k%3===1?'#a8e3bf':'#5db985'))+'" opacity=".9"/>'}
-  s+='<g fill="#f2f0ff"><ellipse cx="540" cy="318" rx="8" ry="11"/><path d="M528 330 Q540 320 552 330 L556 350 L524 350Z"/><ellipse cx="584" cy="314" rx="8" ry="12"/><path d="M572 327 Q584 316 596 327 L600 350 L568 350Z"/></g>';
-  s+='</svg>';
-  return s;
+  /* Bìa thế giới 15 «Thiên Ma Tông»: ảnh vẽ trong assets/w15/bia.webp. */
+  return '<img src="assets/w15/bia.webp" alt="Bìa Thiên Ma Tông" loading="lazy">';
 }
 
 var W15K={};

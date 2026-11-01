@@ -56,18 +56,8 @@ function w17emblem(heat){
 }
 
 function w17cover(){
-  /* Bìa thế giới 17: rừng già, núi tuyết, sơn bụng có lửa và thành đá phía xa. Không có nhân vật cụ thể. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Hắc Thạch Thú Quốc: núi tuyết, rừng già, hang núi có ánh lửa và thành đá phía xa"><defs><linearGradient id="c17s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3a55"/><stop offset=".55" stop-color="#6a7fa0"/><stop offset="1" stop-color="#d9e2ee"/></linearGradient></defs><rect width="800" height="400" fill="url(#c17s)"/>';
-  s+='<circle cx="640" cy="92" r="40" fill="#f4f7fb" opacity=".95"/>';
-  s+='<path d="M0 250 L130 150 L240 230 L360 120 L500 240 L620 160 L800 250 L800 400 L0 400Z" fill="#7e8fab"/>';
-  s+='<path d="M130 150 L160 180 L145 176 L130 190 L115 176 L100 180Z M360 120 L398 168 L380 162 L360 180 L340 162 L322 168Z M620 160 L652 196 L636 190 L620 204 L604 190 L588 196Z" fill="#f4f7fb"/>';
-  s+='<path d="M0 320 L120 276 L260 316 L420 262 L560 316 L700 280 L800 316 L800 400 L0 400Z" fill="#456459"/>';
-  s+='<g transform="translate(180 330)"><path d="M-70 0 L-50 -64 L0 -92 L50 -64 L70 0Z" fill="#3b3d46"/><path d="M-24 0 L-24 -34 Q0 -50 24 -34 L24 0Z" fill="#f5c779"/><path d="M-10 0 Q0 -22 10 0Z" fill="#f08a3c"/></g>';
-  s+='<g transform="translate(600 320)" fill="#59575c"><rect x="-80" y="-60" width="160" height="60"/><rect x="-80" y="-76" width="22" height="16"/><rect x="-44" y="-76" width="22" height="16"/><rect x="-8" y="-76" width="22" height="16"/><rect x="28" y="-76" width="22" height="16"/><rect x="58" y="-76" width="22" height="16"/><rect x="-14" y="-38" width="28" height="38" fill="#2a2a30"/></g>';
-  for(var k=0;k<22;k++){var gx=18+k*37,gy=366+((k*13)%22);s+='<path d="M'+gx+' '+gy+' l5 -28 l5 28Z" fill="'+(k%3===0?'#2f5044':(k%3===1?'#3a6153':'#26443a'))+'" opacity=".95"/>'}
-  s+='<g fill="#1f1f27"><ellipse cx="388" cy="336" rx="9" ry="12"/><path d="M376 350 Q388 338 400 350 L404 374 L372 374Z"/><ellipse cx="428" cy="334" rx="9" ry="13"/><path d="M416 348 Q428 336 440 348 L444 374 L412 374Z"/><path d="M400 354 L416 354" stroke="#1f1f27" stroke-width="4"/></g>';
-  s+='</svg>';
-  return s;
+  /* Bìa thế giới 17 «Hắc Thạch Thú Quốc»: ảnh vẽ trong assets/w17/bia.webp. */
+  return '<img src="assets/w17/bia.webp" alt="Bìa Hắc Thạch Thú Quốc" loading="lazy">';
 }
 
 var W17K={};

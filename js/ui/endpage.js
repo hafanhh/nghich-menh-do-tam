@@ -6,7 +6,7 @@ import { tierOf } from '../records.js';
 import { ENDS, S, W } from '../state.js';
 import { MERIT_MAX, merit } from '../stats.js';
 import { dchips } from './hud.js';
-import { scene } from './scenes.js';
+import { endArt, scene } from './scenes.js';
 import { clamp } from '../util.js';
 
 var ENDX={
@@ -33,7 +33,7 @@ export function endPage(){
   return '<div class="ep">'
    +'<section class="ep-head"><span class="ep-badge'+(x.bad?' bad':'')+'"><i></i><span>Thế Giới '+W.no+' · '+W.name+' · '+x.tag+'</span></span>'
    +'<h1>'+en.n+'</h1><p class="ep-quote">“'+en.c+'”</p><div class="ep-rule"></div></section>'
-   +'<section class="ep-postwrap"><div class="ep-post">'+scene(en.scene)
+   +'<section class="ep-postwrap"><div class="ep-post">'+(endArt(k)||scene(en.scene))
    +'<div class="ep-ov"><div class="top"><span class="ep-tag">Nghịch Mệnh · Độ Tâm</span><span class="ep-vol">Thế giới '+W.no+' — '+W.name+'</span></div>'
    +'<div class="bot"><div><span class="lbl">Ký Ấn Độ Kiếp</span><h2>'+en.n+'</h2><p>'+sub+'</p></div>'
    +'<div class="ep-seal"><span>Đạo Quả</span><b>'+x.seal+'</b><em>'+pc+'%</em></div></div></div></div>'

@@ -98,19 +98,8 @@ export function scene7(kind){
 }
 
 function w7cover(){
-  /* Bìa thế giới 7: gác tháp Huyền Vu trên đồi dưới trăng tròn, bóng núi và tia lửa đỏ phía chân trời, cây trâm ngọc nằm trên đá. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Huyền Vu Các: gác tháp trên đồi dưới trăng tròn, chân trời đỏ lửa, cây trâm ngọc nằm trên đá"><defs><linearGradient id="c7s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1a26"/><stop offset=".55" stop-color="#2c3a52"/><stop offset="1" stop-color="#7a4350"/></linearGradient><radialGradient id="c7m" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f2e8c8"/><stop offset="1" stop-color="#f2e8c8" stop-opacity="0"/></radialGradient></defs>'
-   +'<rect width="800" height="400" fill="url(#c7s)"/><circle cx="560" cy="120" r="150" fill="url(#c7m)" opacity=".45"/><circle cx="560" cy="120" r="56" fill="#f4ecd0"/>';
-  s+='<path d="M0 270 L90 200 L180 250 L290 170 L400 255 L520 190 L640 250 L740 200 L800 240 L800 400 L0 400Z" fill="#1d2636"/>';
-  s+='<path d="M0 320 Q200 270 420 310 T800 300 L800 400 L0 400Z" fill="#141b29"/>';
-  s+='<g fill="#0c1220"><rect x="150" y="210" width="90" height="100"/><path d="M130 210 Q195 170 260 210Z"/><rect x="165" y="150" width="60" height="60"/><path d="M150 150 Q195 118 240 150Z"/><rect x="178" y="100" width="34" height="50"/><path d="M168 100 Q195 76 222 100Z"/></g>';
-  s+='<g fill="#e9c46a" opacity=".85"><rect x="170" y="230" width="14" height="22"/><rect x="206" y="230" width="14" height="22"/><rect x="186" y="164" width="18" height="24"/></g>';
-  s+='<path d="M0 300 Q200 280 400 300 T800 296" stroke="#c0503a" stroke-width="6" opacity=".35" fill="none"/>';
-  for(var i=0;i<26;i++){s+='<circle cx="'+((i*61+30)%800)+'" cy="'+(180+((i*43)%110))+'" r="'+(1.6+(i%3))+'" fill="#ee6a4d" opacity="'+(.35+(i%4)*.12)+'"/>'}
-  s+='<rect x="420" y="338" width="240" height="14" fill="#3a3a44"/><rect x="440" y="352" width="200" height="12" fill="#2a2a34"/>';
-  s+='<path d="M470 330 L610 322" stroke="#a8d8c0" stroke-width="5" stroke-linecap="round"/><circle cx="470" cy="330" r="7" fill="#a8d8c0"/><circle cx="610" cy="322" r="3" fill="#a8d8c0"/>';
-  s+='<rect x="0" y="372" width="800" height="28" fill="#0a0f1a"/></svg>';
-  return s;
+  /* Bìa thế giới 7 «Huyền Vu Các»: ảnh vẽ trong assets/w07/bia.webp. */
+  return '<img src="assets/w07/bia.webp" alt="Bìa Huyền Vu Các" loading="lazy">';
 }
 
 var W7K={};

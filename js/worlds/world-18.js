@@ -53,20 +53,8 @@ function w18emblem(heat){
 }
 
 function w18cover(){
-  /* Bìa thế giới 18: thành phố đêm, lưới mạng sáng, đèn lồng đỏ và bóng lâu đài phía xa. Không có nhân vật cụ thể. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Lưới Hồn Thịnh Thị: thành phố đêm, lưới mạng sáng, đèn lồng đỏ và bóng lâu đài"><defs><linearGradient id="c18s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14192f"/><stop offset=".6" stop-color="#2b2f54"/><stop offset="1" stop-color="#4a3b63"/></linearGradient></defs><rect width="800" height="400" fill="url(#c18s)"/>';
-  s+='<circle cx="650" cy="86" r="34" fill="#f2ecf7" opacity=".92"/>';
-  s+='<path d="M0 300 L0 220 L60 220 L60 180 L110 180 L110 240 L170 240 L170 150 L230 150 L230 250 L290 250 L290 200 L350 200 L350 260 L410 260 L410 170 L470 170 L470 240 L540 240 L540 190 L600 190 L600 260 L680 260 L680 210 L740 210 L740 300 L800 300 L800 400 L0 400Z" fill="#1b1e36"/>';
-  for(var i=0;i<26;i++){var wx=70+(i*29)%640,wy=190+(i*37)%90;s+='<rect x="'+wx+'" y="'+wy+'" width="6" height="8" fill="#f5c779" opacity="'+(.35+(i%4)*.15)+'"/>'}
-  var nodes=[[120,90],[260,60],[390,110],[520,70],[600,140],[200,150],[330,170],[470,160]];
-  nodes.forEach(function(a,k){var b=nodes[(k+3)%nodes.length];s+='<path d="M'+a[0]+' '+a[1]+' L'+b[0]+' '+b[1]+'" stroke="#63e3d0" stroke-width="1.4" opacity=".55"/>'});
-  nodes.forEach(function(a){s+='<circle cx="'+a[0]+'" cy="'+a[1]+'" r="5" fill="#63e3d0"/><circle cx="'+a[0]+'" cy="'+a[1]+'" r="10" fill="none" stroke="#63e3d0" stroke-width="1" opacity=".5"/>'});
-  s+='<g transform="translate(110 300)"><path d="M-46 0 L-34 -46 L0 -64 L34 -46 L46 0Z" fill="#2a1c2d"/><path d="M-18 0 L-18 -24 Q0 -36 18 -24 L18 0Z" fill="#f08a3c"/></g>';
-  s+='<g transform="translate(690 330)"><rect x="-44" y="-64" width="88" height="64" fill="#24213a"/><path d="M-44 -64 L-30 -92 L-16 -64 L0 -100 L16 -64 L30 -92 L44 -64Z" fill="#24213a"/><rect x="-8" y="-34" width="16" height="34" fill="#0f0e1c"/><circle cx="-26" cy="-40" r="5" fill="#d1496c" opacity=".85"/><circle cx="26" cy="-40" r="5" fill="#d1496c" opacity=".85"/></g>';
-  s+='<g transform="translate(400 318)"><path d="M0 0 L0 -48" stroke="#c9c1d8" stroke-width="2"/><ellipse cx="0" cy="-56" rx="22" ry="26" fill="#d9302f"/><path d="M-22 -56 Q0 -42 22 -56" stroke="#f5c779" stroke-width="2" fill="none"/><rect x="-8" y="-84" width="16" height="6" fill="#f5c779"/><rect x="-8" y="-32" width="16" height="6" fill="#f5c779"/></g>';
-  s+='<rect x="0" y="360" width="800" height="40" fill="#161226"/>';
-  s+='</svg>';
-  return s;
+  /* Bìa thế giới 18: ảnh vẽ có cả hai nhân vật chính, giữa ba trò chơi và thế giới thật. */
+  return '<img src="assets/w18/bia.webp" alt="Bìa Lưới Hồn Thịnh Thị: Ngu Tiểu Hạnh đưa đùi gà cho Thịnh Trạch Dương trước thành phố đêm, trấn cương thi và lâu đài Huyết Nguyệt" loading="lazy">';
 }
 
 var W18K={};
@@ -103,4 +91,6 @@ WORLDS.w18={
   boss:{key:"mg_duong",name:"Thịnh Trạch Dương",role:"Sóng điện não · Đại boss ba trò chơi",desc:"24 tuổi lúc mất, tiểu thúc của Duật Lâm, người phát minh ra khoang trò chơi. Hài hước, dịu dàng, cô đơn vì bị nhốt trong máy. Anh sợ bị tách khỏi cô mỗi khi người chơi đổi ván.",quote:"“Làm tân nương của bổn vương, mỗi ngày có đùi gà.”",tag:"Thiên tài bị kẹt trong máy"},
   tc:"“Ta là Tiểu Châu. Kẻ Ác niệm 100 là người mặc hỉ phục đỏ trong trò chơi, thích đùi gà, tên Thịnh Trạch Dương. Kẻ tráo hồn là bạn trai ngươi, Thịnh Duật Lâm, còn cô bé chiếm thân là Cát Tiểu Nghi. Chú ý những lần ván chơi đổi, nỗi giận của anh khi biết sự thật và những lúc anh sợ ngươi muốn quay về. Chúc may mắn nhé!”"})}
 };
+/* Chân dung Trạch Dương đổi theo chỉ số: Hắc hóa từ 60 thì mặt lạnh; Hảo cảm từ 60 và Hắc hóa đã thấp thì mặt dịu. */
+(function(){var raw=WORLDS.w18.bossView;WORLDS.w18.bossView=function(){var b=raw();if(!S.end&&b.k==="mg_duong"){if(S.hac>=60)b.k="mg_duong_hac";else if(S.hao>=60&&S.hac<=40)b.k="mg_duong_hao"}return b}})();
 IXS.w18=IX18;PARAMS.w18=W18K;

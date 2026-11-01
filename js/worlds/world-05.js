@@ -99,17 +99,8 @@ export function scene5(kind){
 }
 
 function w5cover(){
-  /* Bìa thế giới 5: tường trại giam dưới trăng tròn, tháp canh rọi đèn, ba cành liễu buộc trên hàng rào dây thép gai, thành phố sáng đèn phía xa. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Trại giam Thiết Sơn: tường trại dưới trăng tròn, tháp canh rọi đèn, ba cành liễu buộc trên hàng rào thép gai, thành phố sáng đèn phía xa"><defs><linearGradient id="c5s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#141a2e"/><stop offset=".6" stop-color="#2f3a5c"/><stop offset="1" stop-color="#6c5a7a"/></linearGradient><radialGradient id="c5m" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f5e6c4"/><stop offset="1" stop-color="#f5e6c4" stop-opacity="0"/></radialGradient></defs>'
-   +'<rect width="800" height="400" fill="url(#c5s)"/><circle cx="560" cy="120" r="150" fill="url(#c5m)" opacity=".45"/><circle cx="560" cy="120" r="58" fill="#f2e2bd"/>';
-  for(var i=0;i<18;i++){var x=i*46,bh=40+((i*29)%80);s+='<rect x="'+x+'" y="'+(250-bh)+'" width="40" height="'+bh+'" fill="#3a3550"/>';for(var w=0;w<4;w++)if((i+w)%2)s+='<rect x="'+(x+6+(w%2)*16)+'" y="'+(258-bh+Math.floor(w/2)*16)+'" width="7" height="8" fill="#f2cf82" opacity=".75"/>'}
-  s+='<path d="M0 260 Q400 240 800 262 L800 400 L0 400Z" fill="#232036"/>';
-  s+='<rect x="0" y="232" width="800" height="120" fill="#2b2a3a"/><rect x="0" y="232" width="800" height="8" fill="#1a1924"/>';
-  for(var k=0;k<44;k++)s+='<circle cx="'+(k*19+8)+'" cy="222" r="7" fill="none" stroke="#b9b6c6" stroke-width="1.3" opacity=".7"/>';
-  s+='<rect x="96" y="120" width="22" height="120" fill="#1a1924"/><rect x="78" y="94" width="58" height="30" fill="#1a1924"/><path d="M70 94 L107 72 L144 94Z" fill="#1a1924"/><path d="M98 110 L330 400 L470 400Z" fill="#f2e2bd" opacity=".1"/>';
-  for(var b=0;b<3;b++){var bx=420+b*60;s+='<path d="M'+bx+' 222 q10 -4 22 0" stroke="#7fae8a" stroke-width="2.5" fill="none"/>';for(var l=0;l<5;l++)s+='<path d="M'+(bx+2+l*5)+' 222 q4 12 1 26" stroke="#7fae8a" stroke-width="2" fill="none"/>'}
-  s+='<rect x="0" y="352" width="800" height="48" fill="#141320"/></svg>';
-  return s;
+  /* Bìa thế giới 5 «Trại giam Thiết Sơn»: ảnh vẽ trong assets/w05/bia.webp. */
+  return '<img src="assets/w05/bia.webp" alt="Bìa Trại giam Thiết Sơn" loading="lazy">';
 }
 
 WORLDS.w5={

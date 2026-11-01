@@ -94,24 +94,8 @@ export function scene4(kind){
 }
 
 function w4cover(){
-  /* Bìa thế giới 4: cây đại thụ có nhà trên cây và cầu treo sang hang đá trên đồi hoa chuông, nanh hổ treo trên cành. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Rừng Cổ Mộc: cây đại thụ với nhà trên cây, cầu treo sang hang đá trên đồi hoa chuông, chiếc nanh hổ treo trên cành"><defs><linearGradient id="c4s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d3a3a"/><stop offset=".55" stop-color="#5b6a3e"/><stop offset="1" stop-color="#d79a4e"/></linearGradient><radialGradient id="c4m" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffe2a8"/><stop offset="1" stop-color="#ffe2a8" stop-opacity="0"/></radialGradient></defs>'
-   +'<rect width="800" height="400" fill="url(#c4s)"/><circle cx="600" cy="230" r="160" fill="url(#c4m)" opacity=".5"/><circle cx="600" cy="230" r="54" fill="#f6d28c"/>'
-   +'<path d="M0 260 Q180 200 360 244 T800 230 L800 400 L0 400Z" fill="#2f3f2c"/>';
-  /* đồi hoa chuông và hang */
-  s+='<path d="M420 400 Q560 150 760 400Z" fill="#3c4a33"/><path d="M560 250 Q590 210 620 250Z" fill="#1a1f17"/><path d="M548 252 h86 v6 h-86z" fill="#1a1f17"/>';
-  for(var i=0;i<46;i++){var x=440+((i*37)%320),y=270+((i*23)%120);s+='<path d="M'+x+' '+y+' q4 -9 8 0 q-4 7 -8 0z" fill="#b48ad6" opacity=".9"/>'}
-  /* cây đại thụ và nhà trên cây */
-  s+='<path d="M170 400 q-14 -140 4 -260 h32 q20 120 8 260z" fill="#1a1f17"/><path d="M190 200 q-60 -16 -110 -60 M200 170 q60 -20 100 -70" stroke="#1a1f17" stroke-width="12" fill="none"/>';
-  for(var j=0;j<16;j++)s+='<circle cx="'+(190+Math.cos(j*.55)*120)+'" cy="'+(110+Math.sin(j*1.2)*50)+'" r="'+(40+(j%3)*10)+'" fill="#3f6a45" opacity=".93"/>';
-  s+='<rect x="140" y="190" width="110" height="44" fill="#2a2016"/><path d="M128 190 L195 150 L262 190Z" fill="#1f160f"/><rect x="132" y="234" width="126" height="7" fill="#1f160f"/><rect x="186" y="200" width="18" height="18" fill="#f6d28c" opacity=".8"/>';
-  /* cầu treo */
-  s+='<path d="M258 236 Q420 290 560 252" stroke="#1f160f" stroke-width="4" fill="none"/><path d="M258 222 Q420 274 560 238" stroke="#1f160f" stroke-width="2" fill="none"/>';
-  for(var k=0;k<14;k++){var t=k/13,bx=258+t*302,by=236+Math.sin(t*Math.PI)*40-t*-16*0;s+='<path d="M'+bx+' '+(by-14+Math.sin(t*Math.PI)*0)+' v14" stroke="#1f160f" stroke-width="2"/>'}
-  /* nanh hổ treo trên cành */
-  s+='<path d="M90 140 v40" stroke="#c9923e" stroke-width="2"/><path d="M84 180 Q90 178 96 180 Q96 200 90 214 Q84 200 84 180Z" fill="#f3ead6" stroke="#6b4a2a" stroke-width="1.5"/>';
-  s+='<rect x="0" y="380" width="800" height="20" fill="#141812"/></svg>';
-  return s;
+  /* Bìa thế giới 4 «Rừng Cổ Mộc»: ảnh vẽ trong assets/w04/bia.webp. */
+  return '<img src="assets/w04/bia.webp" alt="Bìa Rừng Cổ Mộc" loading="lazy">';
 }
 
 WORLDS.w4={

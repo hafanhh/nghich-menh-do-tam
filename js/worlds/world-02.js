@@ -72,18 +72,8 @@ export function scene2(kind){
 }
 
 function w2cover(){
-  /* Bìa thế giới 2: phố đêm mưa, cột đèn, người áo sơ mi trắng không có bóng, cúc trắng rơi. Nét phẳng nhiều lớp. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Thành Vọng Xuyên: phố đêm, người đàn ông áo trắng đứng dưới đèn mà không có bóng, cúc trắng bay"><defs><linearGradient id="c2s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151530"/><stop offset=".6" stop-color="#2c2447"/><stop offset="1" stop-color="#3b2340"/></linearGradient><radialGradient id="c2m" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f3ead2"/><stop offset="1" stop-color="#f3ead2" stop-opacity="0"/></radialGradient></defs>'
-   +'<rect width="800" height="400" fill="url(#c2s)"/><circle cx="600" cy="96" r="120" fill="url(#c2m)" opacity=".35"/><circle cx="600" cy="96" r="46" fill="#efe4c8"/>';
-  [[0,190],[60,150],[130,200],[190,120],[260,176],[330,140],[400,186],[470,128],[540,170],[610,150],[680,190],[740,140]].forEach(function(a){s+='<rect x="'+a[0]+'" y="'+a[1]+'" width="64" height="'+(400-a[1])+'" fill="#2a2446"/>'});
-  [[0,240,96],[104,220,84],[196,254,104],[310,214,92],[414,248,110],[536,226,86],[630,252,100],[740,222,60]].forEach(function(a){s+='<rect x="'+a[0]+'" y="'+a[1]+'" width="'+a[2]+'" height="'+(400-a[1])+'" fill="#1d1934"/>';for(var r=a[1]+14;r<340;r+=22)for(var c=a[0]+10;c<a[0]+a[2]-12;c+=18){if(((r*7+c*3)%5)<2)s+='<rect x="'+c+'" y="'+r+'" width="8" height="10" fill="#e9c46a" opacity=".6"/>'}});
-  s+='<rect x="0" y="340" width="800" height="60" fill="#120f20"/>';
-  for(var i=0;i<70;i++){var x=(i*97)%800,y=(i*61)%340;s+='<path d="M'+x+' '+y+' l-6 18" stroke="#c9c3e6" stroke-width="1.2" opacity=".28"/>'}
-  s+='<path d="M310 340 L470 340 L410 150Z" fill="#f6e7b8" opacity=".2"/><rect x="404" y="140" width="7" height="200" fill="#0d0b17"/><path d="M407 142 q22 -10 34 6" stroke="#0d0b17" stroke-width="6" fill="none"/><circle cx="440" cy="150" r="9" fill="#fff3cf"/><ellipse cx="407" cy="342" rx="44" ry="5" fill="#000" opacity=".45"/>';
-  s+='<g transform="translate(370 340) scale(1.5)"><rect x="-9" y="-38" width="7" height="38" fill="#0d0b17"/><rect x="2" y="-38" width="7" height="38" fill="#0d0b17"/><path d="M-13 -40 L-11 -76 Q0 -82 11 -76 L13 -40Z" fill="#f4efe6"/><circle cx="0" cy="-88" r="10" fill="#0d0b17"/></g>';
-  for(var j=0;j<14;j++){var px=60+((j*137)%680),py=40+((j*83)%280);var r=5+(j%3)*2;if(px>300&&px<480)px+=px<390?-150:150;s+='<g transform="translate('+px+' '+py+') rotate('+(j*29)+')">';for(var k=0;k<10;k++)s+='<ellipse cx="0" cy="'+(-r)+'" rx="'+(r*.32)+'" ry="'+r+'" fill="#f4efe6" transform="rotate('+(k*36)+')"/>';s+='<circle r="'+(r*.45)+'" fill="#e9c46a"/></g>'}
-  s+='</svg>';
-  return s;
+  /* Bìa thế giới 2 «Thành Vọng Xuyên»: ảnh vẽ trong assets/w02/bia.webp. */
+  return '<img src="assets/w02/bia.webp" alt="Bìa Thành Vọng Xuyên" loading="lazy">';
 }
 
 WORLDS.w2={

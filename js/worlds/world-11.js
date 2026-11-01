@@ -31,18 +31,8 @@ function w11emblem(heat){
 }
 
 function w11cover(){
-  /* Bìa thế giới 11: sân trường lúc hoàng hôn, tòa nhà lớp học sáng đèn, một cánh cổng và hàng cây. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Nhất Trung Thanh Giang: tòa nhà lớp học sáng đèn lúc hoàng hôn, cổng trường và hàng cây"><defs><linearGradient id="c11s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b3a63"/><stop offset=".5" stop-color="#d98a6f"/><stop offset="1" stop-color="#f1c58a"/></linearGradient></defs><rect width="800" height="400" fill="url(#c11s)"/>';
-  s+='<circle cx="600" cy="230" r="46" fill="#ffe1a8" opacity=".9"/>';
-  for(var i=0;i<14;i++){s+='<circle cx="'+((i*61+37)%800)+'" cy="'+(20+((i*29)%90))+'" r="1.4" fill="#fff" opacity="'+(.2+(i%4)*.12)+'"/>'}
-  s+='<path d="M0 290 L800 290 L800 400 L0 400Z" fill="#2c2742"/>';
-  s+='<rect x="120" y="170" width="380" height="130" fill="#403a63"/><rect x="100" y="150" width="420" height="24" fill="#2f2a4d"/><rect x="290" y="110" width="40" height="60" fill="#403a63"/><path d="M280 110 L310 84 L340 110Z" fill="#2f2a4d"/><circle cx="310" cy="134" r="10" fill="#f4e8c8" stroke="#2f2a4d" stroke-width="2"/><path d="M310 134 V128 M310 134 H315" stroke="#2f2a4d" stroke-width="2"/>';
-  for(var r=0;r<2;r++){for(var j=0;j<8;j++){s+='<rect x="'+(138+j*44)+'" y="'+(188+r*50)+'" width="26" height="30" fill="#ffd98a" opacity="'+(.45+((j+r)%3)*.18)+'"/>'}}
-  s+='<rect x="580" y="220" width="12" height="80" fill="#2f2a4d"/><rect x="680" y="220" width="12" height="80" fill="#2f2a4d"/><path d="M580 236 H692 M580 262 H692" stroke="#2f2a4d" stroke-width="4"/>';
-  s+='<g fill="#1f1b33"><ellipse cx="60" cy="262" rx="38" ry="52"/><rect x="56" y="300" width="8" height="30"/><ellipse cx="740" cy="270" rx="34" ry="46"/><rect x="736" y="304" width="8" height="26"/></g>';
-  s+='<path d="M0 320 Q200 308 400 322 T800 314 L800 400 L0 400Z" fill="#241f3a"/>';
-  s+='</svg>';
-  return s;
+  /* Bìa thế giới 11 «Nhất Trung Thanh Giang»: ảnh vẽ trong assets/w11/bia.webp. */
+  return '<img src="assets/w11/bia.webp" alt="Bìa Nhất Trung Thanh Giang" loading="lazy">';
 }
 
 var W11K={};

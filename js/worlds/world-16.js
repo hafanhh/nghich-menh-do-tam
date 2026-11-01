@@ -44,17 +44,8 @@ function w16emblem(heat){
 }
 
 function w16cover(){
-  /* Bìa thế giới 16: thôn quê thập niên bảy mươi, ruộng vàng và ống khói xưởng, hai bóng người nắm tay. Không có nhân vật cụ thể. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Hứa Gia Thôn: ruộng lúa chín, mái nhà gạch, ống khói xưởng và hai bóng người nắm tay"><defs><linearGradient id="c16s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2c88c"/><stop offset=".55" stop-color="#f7dfb0"/><stop offset="1" stop-color="#b9d38e"/></linearGradient></defs><rect width="800" height="400" fill="url(#c16s)"/>';
-  s+='<circle cx="620" cy="100" r="46" fill="#fff3c8" opacity=".95"/>';
-  s+='<path d="M0 270 L120 210 L240 262 L380 190 L520 258 L660 205 L800 250 L800 400 L0 400Z" fill="#8fae78"/>';
-  s+='<path d="M0 320 L150 270 L290 312 L430 262 L580 316 L720 276 L800 312 L800 400 L0 400Z" fill="#6f9561"/>';
-  s+='<g transform="translate(180 310)" fill="#6b4a3a"><rect x="-60" y="-44" width="120" height="44"/><path d="M-72 -44 L0 -84 L72 -44Z" fill="#9a5a45"/><rect x="-10" y="-26" width="20" height="26" fill="#f5c779" opacity=".9"/></g>';
-  s+='<g transform="translate(560 318)" fill="#7a7068"><rect x="-70" y="-40" width="140" height="40"/><rect x="30" y="-90" width="14" height="50"/><path d="M30 -90 q-6 -16 10 -24" stroke="#d9d4cc" stroke-width="5" fill="none" opacity=".8"/></g>';
-  for(var k=0;k<24;k++){var gx=20+k*34,gy=372+((k*11)%20);s+='<path d="M'+gx+' '+gy+' q4 -18 0 -30 q-6 12 0 30Z" fill="'+(k%3===0?'#d9b44a':(k%3===1?'#e6c765':'#c9a13a'))+'" opacity=".95"/>'}
-  s+='<g fill="#3a2f2a"><ellipse cx="388" cy="334" rx="9" ry="12"/><path d="M376 348 Q388 336 400 348 L404 372 L372 372Z"/><ellipse cx="428" cy="332" rx="9" ry="13"/><path d="M416 346 Q428 334 440 346 L444 372 L412 372Z"/><path d="M400 352 L416 352" stroke="#3a2f2a" stroke-width="4"/></g>';
-  s+='</svg>';
-  return s;
+  /* Bìa thế giới 16 «Hứa Gia Thôn»: ảnh vẽ trong assets/w16/bia.webp. */
+  return '<img src="assets/w16/bia.webp" alt="Bìa Hứa Gia Thôn" loading="lazy">';
 }
 
 var W16K={};

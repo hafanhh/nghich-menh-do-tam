@@ -40,19 +40,8 @@ function w10emblem(heat){
 }
 
 function w10cover(){
-  /* Bìa thế giới 10: núi xa dưới trăng, phủ đệ sáng đèn, một đan lô nhả khói lên bầu trời. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Đan Lô Phù Gia: núi xa dưới trăng, phủ đệ sáng đèn, một đan lô nhả khói lên bầu trời đêm"><defs><linearGradient id="c10s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a2c"/><stop offset=".55" stop-color="#27334f"/><stop offset="1" stop-color="#4a3b58"/></linearGradient><radialGradient id="c10m" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffe9b8"/><stop offset="1" stop-color="#ffe9b8" stop-opacity="0"/></radialGradient></defs><rect width="800" height="400" fill="url(#c10s)"/>';
-  s+='<circle cx="620" cy="100" r="120" fill="url(#c10m)" opacity=".5"/><circle cx="620" cy="100" r="36" fill="#ffe9b8"/>';
-  for(var i=0;i<28;i++){s+='<circle cx="'+((i*131)%800)+'" cy="'+(18+((i*47)%150))+'" r="'+(1+(i%3)*.6)+'" fill="#fff" opacity="'+(.25+(i%4)*.15)+'"/>'}
-  s+='<path d="M0 230 L110 150 L210 215 L330 120 L450 220 L560 160 L680 225 L800 170 L800 400 L0 400Z" fill="#1d2640"/>';
-  s+='<path d="M0 290 L140 230 L270 290 L420 235 L560 295 L700 245 L800 285 L800 400 L0 400Z" fill="#161c30"/>';
-  s+='<rect x="90" y="236" width="260" height="70" fill="#231f3a"/><path d="M76 236 L220 190 L364 236Z" fill="#1b1830"/><rect x="190" y="256" width="60" height="50" fill="#14122a"/>';
-  for(var j=0;j<5;j++){s+='<rect x="'+(108+j*46+(j>2?12:0))+'" y="248" width="20" height="26" fill="#ffd98a" opacity="'+(.5+(j%3)*.15)+'"/>'}
-  s+='<path d="M0 310 Q200 290 400 312 T800 304 L800 400 L0 400Z" fill="#10152a"/>';
-  s+='<g transform="translate(500 268)"><path d="M-40 0 H40 L34 46 Q0 62 -34 46Z" fill="#3a3248" stroke="#e9c46a" stroke-width="3"/><path d="M-46 0 H46" stroke="#e9c46a" stroke-width="5" stroke-linecap="round"/><path d="M-26 52 L-32 66 M26 52 L32 66" stroke="#e9c46a" stroke-width="4" stroke-linecap="round"/><path d="M0 -4 Q-14 -28 0 -50 Q14 -28 0 -4Z" fill="#ee6a4d" opacity=".9"/><path d="M0 -4 Q-6 -16 0 -28 Q6 -16 0 -4Z" fill="#ffd98a"/></g>';
-  s+='<path d="M500 214 Q470 170 500 130 Q540 90 505 50" stroke="#f4efe6" stroke-width="3" opacity=".25" fill="none"/>';
-  s+='</svg>';
-  return s;
+  /* Bìa thế giới 10 «Đan Lô Phù Gia»: ảnh vẽ trong assets/w10/bia.webp. */
+  return '<img src="assets/w10/bia.webp" alt="Bìa Đan Lô Phù Gia" loading="lazy">';
 }
 
 var W10K={};

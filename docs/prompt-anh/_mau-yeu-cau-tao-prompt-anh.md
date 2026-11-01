@@ -23,7 +23,7 @@ Theo khuyến nghị của game designer (dựa trên cấu trúc game: mỗi m�
 6. **Phần B, lớp nền:** một prompt bối cảnh cho mỗi `scene`, không có người.
 7. **Phần C, CG đặc biệt:** 4–5 prompt cho mốc then chốt.
 8. **Phần D, CG kết cục:** sáu prompt theo `ends` trong `worlds/world-NN.json`: `true` (Hoàn hảo), `near` (Gần như trọn vẹn), `half` (Ở lại bên nhau), `black` (Hắc hóa chạm 100), `bdead` (Sinh mệnh nam chính về 0), `dead` (Sinh mệnh nữ chính về 0). Thế giới nào có thêm loại kết cục (ví dụ `canon`) thì thêm một prompt.
-9. **Phần E, ảnh bìa (cover page):** một prompt, không có người (hoặc hai nhân vật chính từ phía xa nếu bìa thế giới đó đã có nhân vật).
+9. **Phần E, ảnh bìa (cover page):** một prompt theo kiểu bìa thế giới 1: môi trường là chủ đạo, nhân vật chỉ là điểm nhỏ; nam chính chỉ hiện bằng hóa thân khổng lồ khi thế giới đó thật sự có hóa thân, còn lại là người bình thường.
 10. **Ba điểm kiểm tra** cuối file: nhất quán nhân vật, nhất quán style, tiến triển cảm xúc và bìa hợp màu chủ đạo.
 
 Tất cả bằng tiếng Việt, mỗi prompt nằm trong một khối code và tự chứa đủ thông tin (không viết «như cảnh trước» hay «như đã mô tả»).
@@ -31,7 +31,7 @@ Tất cả bằng tiếng Việt, mỗi prompt nằm trong một khối code và
 ### Khuôn prompt giới thiệu nhân vật (Phần A)
 
 ```
-Lưu tên file ảnh thành: wNN-.. (theo quy ước đặt tên).
+Nên nhớ (BẮT BUỘC): Lưu tên file ảnh thành: wNN-.. (theo quy ước đặt tên).
 Vẽ cảnh theo đúng phong cách ảnh mẫu đính kèm (nét vẽ, bảng màu, cách đổ bóng, kiểu mắt và tóc, độ chi tiết).
 Mục đích: ảnh giới thiệu nhân vật, chân dung toàn thân đứng, nhìn rõ ngoại hình để làm chuẩn cho mọi cảnh sau.
 Thông tin nhân vật: tên, tuổi, vai trò, nghề nghiệp hoặc xuất thân, tính cách.
@@ -49,7 +49,7 @@ Biến thể biểu cảm của nam chính: giữ nguyên ngoại hình cố đ�
 ### Khuôn prompt bối cảnh (Phần B)
 
 ```
-Lưu tên file ảnh thành: wNN-.. (theo quy ước đặt tên).
+Nên nhớ (BẮT BUỘC): Lưu tên file ảnh thành: wNN-.. (theo quy ước đặt tên).
 Vẽ cảnh theo đúng phong cách ảnh mẫu đính kèm (nét vẽ, bảng màu, cách đổ bóng, kiểu mắt và tóc, độ chi tiết).
 Loại ảnh: bối cảnh thuần, hoàn toàn không có người; nhân vật hiện ở lớp chân dung riêng. Góc nhìn đặt như từ vị trí của nữ chính (người chơi).
 Địa điểm: nơi cụ thể, thời gian trong ngày, thời tiết.
@@ -67,7 +67,7 @@ Tỉ lệ khung 16:9. Không chữ, không logo, không watermark. Không có ng
 ### Khuôn prompt CG đặc biệt (Phần C) và CG kết cục (Phần D)
 
 ```
-Lưu tên file ảnh thành: wNN-.. (theo quy ước đặt tên).
+Nên nhớ (BẮT BUỘC): Lưu tên file ảnh thành: wNN-.. (theo quy ước đặt tên).
 Vẽ cảnh theo đúng phong cách ảnh mẫu đính kèm (nét vẽ, bảng màu, cách đổ bóng, kiểu mắt và tóc, độ chi tiết).
 Loại ảnh: CG đặc biệt (hoặc CG kết cục), có người nhưng chỉ thấy bóng lưng, nửa người hoặc cảnh xa, không thấy rõ mặt.
 Khoảnh khắc (hoặc Kết cục: tên kết cục và nội dung lấy từ ends.[loại].c): chuyện gì đang xảy ra và vì sao quan trọng.
@@ -87,13 +87,14 @@ Quy tắc riêng cho CG kết cục:
 ### Khuôn prompt ảnh bìa (Phần E)
 
 ```
-Lưu tên file ảnh thành: wNN-.. (theo quy ước đặt tên).
+Nên nhớ (BẮT BUỘC): Lưu tên file ảnh thành: wNN-.. (theo quy ước đặt tên).
 Vẽ cảnh theo đúng phong cách ảnh mẫu đính kèm (nét vẽ, bảng màu, cách đổ bóng, kiểu mắt và tóc, độ chi tiết).
 Khoảnh khắc: biểu tượng của cả thế giới, không phải một mốc truyện; ảnh bìa trang chủ và thẻ thế giới.
-Nhân vật: mặc định không có người, giữ đúng chủ đề bìa hiện tại của game (xem hàm bìa của thế giới trong `js/worlds/world-NN.js`); nếu bìa có nhân vật thì chỉ hai nhân vật chính, chép nguyên ngoại hình từ hồ sơ.
-Background chi tiết: địa điểm và đồ vật tiêu biểu nhất của thế giới, gợi thể loại và không khí.
-Ánh sáng và màu: bảng màu chủ đạo của thế giới, một điểm nhấn gợi Hắc hóa hoặc nguy cơ của truyện.
-Góc máy: bố cục cân đối, chừa vùng trống ở phía dưới và hai bên để thẻ giao diện che được mà không mất ý chính; khung chữ nhật ngang 2:1.
+Nhân vật: chọn theo thế giới, đừng ép buộc hay bịa. Nếu nam chính có hóa thân thật trong truyện hoặc game (ví dụ rồng-rắn, tuyết lang, Quỷ Vương): chỉ có nữ chính, rất nhỏ (một phần sáu đến một phần tám chiều cao khung), quay lưng nhìn ra xa, ở phần ba dưới và hơi lệch trái. Nếu nam chính là người thường (tổng giám đốc, học sinh, đạo diễn…): vẽ cả hai nhân vật chính đều nhỏ ở nửa dưới khung, nam chính đúng là người, không biến hình, không khổng lồ, không thêm hóa thân. **Bố cục hai người phải khác nhau giữa các thế giới**, chọn theo quan hệ của họ trong truyện, không dùng chung kiểu «hai người đứng cách nhau cùng nhìn về một phía»: ví dụ đối mặt gần, anh che gió sau lưng cô, ngồi cạnh nhau, lưng đối lưng, một người ở cao một người ở thấp, đối diện qua hàng rào, một người ngủ một người hát, một người đuổi theo, cùng đi xe đạp, nắm tay qua khe cửa, đứng ngoài vòng lời đồn. Chép nguyên ngoại hình từ hồ sơ.
+Hóa thân của nam chính ở phía xa (chỉ khi thế giới có hóa thân thật): hóa thân khổng lồ ở phần ba trên của khung, nửa tan vào mây, sương hay núi, mặt không rõ, màu gợi Hắc hóa; mọi đường dẫn mắt chạy từ nhân vật tới nó. Nếu không có hóa thân thì thay bằng «Điểm nhìn ở xa»: một địa điểm tiêu biểu của thế giới (biệt thự, trường học, cung điện, núi…), không phải hình người khổng lồ.
+Background chi tiết: môi trường là chủ đạo, bối cảnh chung của cả truyện, dựng thành ba tầng từ gần đến xa (tiền cảnh có vật tiêu biểu; trung cảnh chia ba vùng trái, giữa là vòm, phải là các địa điểm chính của truyện, mỗi vùng chỉ ba đến bốn khối lớn; hậu cảnh và bầu trời là nơi hóa thân nổi bật nhất); sương, khói hoặc mây nối các tầng.
+Ánh sáng và màu: bảng màu chủ đạo của thế giới theo thể loại, một điểm nhấn gợi Hắc hóa hoặc nguy cơ của truyện. Ảnh bìa được dùng tối đa bốn gam màu chủ đạo (các ảnh khác hai đến ba); ghi rõ bốn gam là gì và dùng cho vật nào, mỗi gam vẫn là mảng lớn, không loang lổ.
+Góc máy: bố cục cân đối, chừa vùng trống (trời, sương, mặt nước) ở phía dưới và hai bên để thẻ giao diện che được mà không mất hai nhân vật; khung chữ nhật ngang 2:1.
 Không khí.
 Tỉ lệ khung 2:1 ngang. Không chữ, không logo, không watermark.
 ```
@@ -115,9 +116,15 @@ Tên nền lấy từ khóa `scene` trong `worlds/world-NN.json` (ví dụ `zpar
 ## Quy tắc chung
 
 - **Bảng thống kê trước khi viết:** lập bảng `scene` ↔ địa điểm ↔ mốc dùng ↔ các `kind`; không bỏ `scene` nào của thế giới. Chọn CG đặc biệt trong các mốc: gặp gỡ đầu tiên, mốc `nan`, cao trào cảm xúc, mốc cuối.
+- **Phân hóa màu sắc theo thể loại, cảnh và kết cục (ghi vào mục 0 của file thế giới và áp dụng cho mọi prompt):**
+  - Thể loại quyết định tông chung của cả thế giới. Kinh dị: tối, xỉn, lạnh (xanh đen, tím than, xám lục, nâu bẩn, đỏ sẫm), cảnh vui cũng chỉ sáng hơn một bậc và còn bóng tối ở rìa. Hài hước, ngọt, đời thường: màu cảnh vật tươi và sáng hơn (vàng nhạt, hồng nhạt, xanh trời nhạt, kem). Tình cảm, hào môn, kịch tính: sáng vừa, ấm xen lạnh. Bi kịch, chiến tranh: xám, lạnh, trầm.
+  - Trong cùng một thế giới, tông đổi theo cảnh qua `kind`: `duyên` sáng và ấm hơn tông chung một bậc, `chọn` giữ tông chung, `hiểm` lạnh và có tương phản màu hơn, `nạn` tối nhất và nghiêng góc. Cảnh sai tông thể loại (cảnh vui trong truyện kinh dị, cảnh căng trong truyện hài) chỉ lệch một bậc, không đảo hẳn tông.
+  - Kết cục xếp theo thang sáng đến tối: Hoàn hảo sáng nhất, vui và đầy yêu thương (truyện kinh dị vẫn để nỗi sợ ở rìa khung); Gần như trọn vẹn sáng vừa; Ở lại bên nhau nửa ấm nửa lạnh; Hắc hóa chạm 100 rất tối; Nam chính hết Sinh mệnh tối và tĩnh; Nữ chính hết Sinh mệnh tối nhất. Mỗi prompt kết cục ghi một dòng «Mức sáng: ...». Tối không có nghĩa là máu me: vẫn không máu, không thi thể.
+  - Các chữ chỉ màu và tông này không được kéo ảnh sang các thói quen vẽ mặc định của ChatGPT (3D, màu đậm bão hòa, tương phản điện ảnh): tối đi bằng mảng màu xỉn, không bằng tương phản gắt.
 - Mỗi nền có phong cách và bảng màu cố định theo thế giới (ví dụ cổ trang là mực nước, hiện đại là điện ảnh), và ánh sáng theo `kind` đã nêu.
 - Nhất quán nhân vật là ưu tiên số một ở mọi ảnh có người: cùng một người có cùng tóc, dáng, trang phục và phụ kiện, trừ khi truyện yêu cầu khác. Ảnh chân dung ở Phần A là chuẩn để đối chiếu.
 - Xen kẽ toàn cảnh, trung cảnh, cận cảnh; màu sắc và ánh sáng đi theo diễn biến cảm xúc.
+- **Góc nhìn phải nhất quán và nhìn thấy được (mọi ảnh có người):** mỗi prompt chỉ có một vị trí người xem; ghi rõ người xem đứng ở đâu, mỗi người nằm ở bên nào của khung, quay mặt về hướng nào. Mọi chi tiết mô tả phải thấy được từ vị trí đó: nhìn từ phía sau thì không tả nét mặt, vật cầm ở tay phía trước người, hay hành động che khuất (ví dụ bưng bát canh, gặm đùi gà); cần thấy hành động hay biểu cảm thì đổi sang nhìn nghiêng hoặc ba phần tư. Khi chỗ ngồi hay thứ tự bố cục có thể bị hiểu sai (ví dụ hàng ghế trên máy bay, cổng và biệt thự), tả theo thứ tự từ người xem đi vào và nói rõ mọi người cùng hướng nào, không để một người ngồi ngang, một người ngồi dọc. Hướng ánh sáng phải khớp hướng bóng đổ.
 - Chỉ mô tả điều nhìn thấy được: đổi cảm xúc nội tâm thành đồ vật, ánh sáng, tư thế.
 - Không viết chữ, lời thoại, logo hay watermark vào ảnh.
 - Tiểu Châu là hệ thống duy nhất của cả game, ngoại hình không đổi ở mọi thế giới: quả cầu ngọc xanh trong suốt, mắt xanh to, má hồng, miệng nhỏ luôn cười. Chép nguyên mô tả này (ở CG, Tiểu Châu có thể là một đốm sáng xanh nhỏ).
@@ -131,6 +138,6 @@ Tên nền lấy từ khóa `scene` trong `worlds/world-NN.json` (ví dụ `zpar
 ```
 Đọc @docs/mach-truyen/[TÊN-FILE-MẠCH-TRUYỆN].md, @worlds/world-[SỐ].json (để lấy scene, place, cast, kind và ends) và @docs/prompt-anh/_mau-yeu-cau-tao-prompt-anh.md.
 Tạo file docs/prompt-anh/the-gioi-[SỐ]-[tên-thế-giới].md theo đúng cấu trúc của docs/prompt-anh/the-gioi-09-le-uyen-tham-gia.md:
-hồ sơ thế giới, hồ sơ nhân vật, mô hình ảnh theo lớp và bảng bối cảnh, Phần A (chân dung và biến thể biểu cảm nam chính), Phần B (một prompt bối cảnh không người cho mỗi scene), Phần C (4–5 CG đặc biệt chỉ bóng lưng, nửa người hoặc cảnh xa), Phần D (CG kết cục cho từng loại trong ends), Phần E (ảnh bìa), ba điểm kiểm tra.
+hồ sơ thế giới, mục «Phân hóa màu sắc theo thể loại, theo cảnh và theo kết cục» (theo quy tắc chung), hồ sơ nhân vật, mô hình ảnh theo lớp và bảng bối cảnh, Phần A (chân dung và biến thể biểu cảm nam chính), Phần B (một prompt bối cảnh không người cho mỗi scene), Phần C (4–5 CG đặc biệt chỉ bóng lưng, nửa người hoặc cảnh xa), Phần D (CG kết cục cho từng loại trong ends), Phần E (ảnh bìa), ba điểm kiểm tra.
 Mỗi prompt có dòng «Lưu tên file ảnh thành» ở dòng đầu trong khối code, theo quy ước đặt tên trong file mẫu (không dấu, nối gạch ngang, không ghi đuôi file). Chỉ tiếng Việt, không cần prompt tiếng Anh. Tự suy ra thông tin còn thiếu cho hợp lý và nhất quán với truyện, đánh dấu «(bổ sung)». Không hỏi lại, làm hết trong một lần. Chưa commit.
 ```

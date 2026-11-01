@@ -48,18 +48,8 @@ function w14emblem(heat){
 }
 
 function w14cover(){
-  /* Bìa thế giới 14: mái cung đỏ dưới trăng, tường thành, hai cái bóng. Không có nhân vật cụ thể. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Thiên Dận Hậu Cung: mái cung đỏ dưới trăng, hai bóng người trên tường thành"><defs><linearGradient id="c14s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f1a3a"/><stop offset=".6" stop-color="#7a3c5c"/><stop offset="1" stop-color="#e29a74"/></linearGradient></defs><rect width="800" height="400" fill="url(#c14s)"/>';
-  s+='<circle cx="560" cy="120" r="46" fill="#fff3c9" opacity=".95"/><circle cx="582" cy="112" r="40" fill="#1f1a3a" opacity=".5"/>';
-  for(var i=0;i<18;i++){s+='<circle cx="'+((i*47+11)%800)+'" cy="'+(14+((i*31)%100))+'" r="1.3" fill="#fff" opacity="'+(.2+(i%4)*.12)+'"/>'}
-  s+='<path d="M0 320 L120 260 L240 300 L380 240 L520 300 L660 250 L800 310 L800 400 L0 400Z" fill="#2a1d36"/>';
-  s+='<g transform="translate(250 318)" fill="#150f1c"><rect x="-120" y="-56" width="240" height="56"/><path d="M-140 -56 Q0 -112 140 -56 L120 -40 Q0 -86 -120 -40Z"/><rect x="-86" y="-96" width="172" height="40"/><path d="M-106 -96 Q0 -150 106 -96 L86 -82 Q0 -126 -86 -82Z"/><rect x="-8" y="-32" width="16" height="32" fill="#f6c97b" opacity=".85"/><rect x="-70" y="-44" width="10" height="16" fill="#f6c97b" opacity=".8"/><rect x="60" y="-44" width="10" height="16" fill="#f6c97b" opacity=".8"/></g>';
-  s+='<rect x="440" y="300" width="360" height="100" fill="#1a1226"/><g fill="#2a1d36"><rect x="450" y="288" width="26" height="14"/><rect x="494" y="288" width="26" height="14"/><rect x="538" y="288" width="26" height="14"/><rect x="582" y="288" width="26" height="14"/><rect x="626" y="288" width="26" height="14"/><rect x="670" y="288" width="26" height="14"/><rect x="714" y="288" width="26" height="14"/></g>';
-  s+='<g fill="#0e0914"><ellipse cx="560" cy="276" rx="9" ry="12"/><path d="M548 288 Q560 278 572 288 L576 300 L544 300Z"/><ellipse cx="600" cy="272" rx="9" ry="13"/><path d="M588 286 Q600 274 612 286 L616 300 L584 300Z"/></g>';
-  for(var k=0;k<14;k++){var lx=40+k*56,ly=350+((k*11)%24);s+='<circle cx="'+lx+'" cy="'+ly+'" r="3" fill="'+(k%3===0?'#ffd98a':(k%3===1?'#f0a0a0':'#9ad7c0'))+'" opacity=".9"/>'}
-  s+='<path d="M0 372 Q200 360 400 376 T800 368 L800 400 L0 400Z" fill="#100a16"/>';
-  s+='</svg>';
-  return s;
+  /* Bìa thế giới 14 «Thiên Dận Hậu Cung»: ảnh vẽ trong assets/w14/bia.webp. */
+  return '<img src="assets/w14/bia.webp" alt="Bìa Thiên Dận Hậu Cung" loading="lazy">';
 }
 
 var W14K={};

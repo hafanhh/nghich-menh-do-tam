@@ -19,7 +19,7 @@ export function render(){
   $("stage").style.setProperty("--heat",heat);var gm=$("game");if(gm&&gm.classList)gm.classList.toggle("pastel",true);
   $("progress").textContent=S.end?"Kết cục":"Mốc "+(S.i+1)+" / "+EV.length;
   var sc=S.end?ENDS[S.end].scene:e.scene;
-  $("scene").innerHTML=(artScene(e)||scene(sc))+'<div class="cap"><span>Thế giới '+W.no+' · '+W.name+' · '+W.genre+'</span><span>'+(S.end?"Kết cục":e.place)+'</span></div>'+(S.end?'':'<div class="cast">'+(EV[S.i].cast||"lt").split(",").map(function(k){return '<figure>'+pt(k)+'<figcaption>'+CN[k]+'</figcaption></figure>'}).join("")+'</div>');
+  $("scene").innerHTML=(artScene(e)||scene(sc))+'<div class="cap"><span>'+W.name+' · '+W.genre+'</span><span>'+(S.end?"Kết cục":e.place)+'</span></div>'+(S.end?'':'<div class="cast">'+(EV[S.i].cast||"lt").split(",").map(function(k){return '<figure>'+pt(k)+'<figcaption>'+CN[k]+'</figcaption></figure>'}).join("")+'</div>');
   /* Hai box nhân vật dùng chung một khuôn: đầu box (ảnh, nhãn, tên, mô tả) rồi các thanh chỉ số một dòng. */
   $("hero").className="panel pbox";$("boss").className="panel pbox";
   $("hero").innerHTML='<div class="phead"><div class="pimg">'+pt(W.hero)+'</div><div><span class="tag">Bạn đóng</span><h2>'+W.heroName+'</h2><p class="sub">'+W.heroSub+'</p></div></div>'

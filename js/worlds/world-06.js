@@ -79,18 +79,8 @@ export function scene6(kind){
 }
 
 function w6cover(){
-  /* Bìa thế giới 6: biệt thự sáng đèn trên đồi, ghế dài đầu hành lang trước cửa sổ, sân khấu và đèn pha phía xa, nốt nhạc bay lên. Không có nhân vật. */
-  var s='<svg viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bìa Biệt thự Dạ Khúc: biệt thự sáng đèn trên đồi, ghế dài đầu hành lang, sân khấu và đèn pha phía xa, nốt nhạc bay lên"><defs><linearGradient id="c6s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1530"/><stop offset=".6" stop-color="#3b2f5c"/><stop offset="1" stop-color="#7a5a86"/></linearGradient><radialGradient id="c6m" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f5e6c4"/><stop offset="1" stop-color="#f5e6c4" stop-opacity="0"/></radialGradient></defs>'
-   +'<rect width="800" height="400" fill="url(#c6s)"/><circle cx="600" cy="110" r="140" fill="url(#c6m)" opacity=".4"/><circle cx="600" cy="110" r="52" fill="#f2e2bd"/>';
-  for(var i=0;i<18;i++){var x=i*46,bh=40+((i*29)%80);s+='<rect x="'+x+'" y="'+(280-bh)+'" width="40" height="'+bh+'" fill="#3a3050"/>';for(var w=0;w<4;w++)if((i+w)%2)s+='<rect x="'+(x+6+(w%2)*16)+'" y="'+(288-bh+Math.floor(w/2)*16)+'" width="7" height="8" fill="#f2cf82" opacity=".75"/>'}
-  s+='<path d="M0 300 Q300 250 800 300 L800 400 L0 400Z" fill="#241c38"/>';
-  s+='<rect x="90" y="190" width="260" height="110" fill="#1a1428"/><path d="M80 190 L220 140 L360 190Z" fill="#1a1428"/>';
-  for(var r=0;r<2;r++)for(var c=0;c<4;c++)s+='<rect x="'+(112+c*58)+'" y="'+(208+r*44)+'" width="34" height="30" fill="#f2cf82" opacity="'+(c==1&&r==1?.95:.55)+'"/>';
-  s+='<rect x="396" y="278" width="150" height="10" fill="#3a2a2a"/><rect x="404" y="288" width="6" height="16" fill="#3a2a2a"/><rect x="532" y="288" width="6" height="16" fill="#3a2a2a"/>';
-  s+='<path d="M640 300 L620 120 M660 300 L700 120" stroke="#f2e2bd" stroke-width="3" opacity=".18"/><rect x="600" y="296" width="140" height="12" fill="#2b2240"/>';
-  [[430,240,16],[470,210,12],[510,180,14],[560,150,10]].forEach(function(n){s+='<ellipse cx="'+n[0]+'" cy="'+n[1]+'" rx="'+n[2]*.7+'" ry="'+n[2]*.5+'" fill="#f5e6c4" opacity=".85"/><path d="M'+(n[0]+n[2]*.6)+' '+n[1]+' v-'+n[2]*1.6+'" stroke="#f5e6c4" stroke-width="2" opacity=".85"/>'});
-  s+='<rect x="0" y="352" width="800" height="48" fill="#161224"/></svg>';
-  return s;
+  /* Bìa thế giới 6 «Biệt thự Dạ Khúc»: ảnh vẽ trong assets/w06/bia.webp. */
+  return '<img src="assets/w06/bia.webp" alt="Bìa Biệt thự Dạ Khúc" loading="lazy">';
 }
 
 WORLDS.w6={
