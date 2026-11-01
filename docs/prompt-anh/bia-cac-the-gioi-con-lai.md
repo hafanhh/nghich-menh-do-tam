@@ -18,27 +18,27 @@ Kiểu bìa theo bìa thế giới 1: **môi trường là chủ đạo, nhân v
 
 ## 1. Danh sách
 
-| Thế giới                    | Thể loại                           | Tông              | Tên file ảnh                     | Ghi chú                                        |
-| ----------------------------- | ------------------------------------ | ------------------ | ---------------------------------- | ----------------------------------------------- |
-| 1 · Giới Huyền Nguyên     | Huyền huyễn cổ đại              | trầm, kịch tính | `w01-bia-gioi-huyen-nguyen`      |                                                 |
-| 2 · Thành Vọng Xuyên      | Hiện đại linh dị                 | tối, rờn rợn    | `w02-bia-thanh-vong-xuyen`       |                                                 |
-| 3 · Lãnh cung Tĩnh Tư     | Cổ đại cung đấu                 | trầm, kịch tính | `w03-bia-lanh-cung-tinh-tu`      |                                                 |
-| 4 · Rừng Cổ Mộc           | Viễn cổ hoang dã                  | tươi sáng       | `w04-bia-rung-co-moc`            |                                                 |
-| 5 · Trại giam Thiết Sơn   | Hiện đại hắc đạo               | xám, trầm        | `w05-bia-trai-giam-thiet-son`    |                                                 |
-| 6 · Biệt thự Dạ Khúc     | Hiện đại giới giải trí         | sáng vừa, ấm    | `w06-bia-biet-thu-da-khuc`       |                                                 |
-| 7 · Huyền Vu Các           | Cổ đại vu cổ                     | trầm, kịch tính | `w07-bia-huyen-vu-cac`           |                                                 |
-| 8 · Ánh Quang Viện         | Showbiz ngôn tình                  | tươi sáng       | `w08-bia-anh-quang-vien`         |                                                 |
-| 10 · Đan Lô Phù Gia       | Huyền huyễn thế gia               | sáng vừa, ấm    | `w10-bia-dan-lo-phu-gia`         |                                                 |
-| 11 · Nhất Trung Thanh Giang | Hiện đại học đường            | sáng vừa, ấm    | `w11-bia-nhat-trung-thanh-giang` |                                                 |
-| 12 · Phim Trường Lâm Hải | Hiện đại showbiz sinh tồn        | tươi sáng       | `w12-bia-phim-truong-lam-hai`    |                                                 |
-| 13 · Tịch Chiếu Đế Quốc | Mạt thế tang thi                   | tối, rờn rợn    | `w13-bia-tich-chieu-de-quoc`     |                                                 |
-| 14 · Thiên Dận Hậu Cung   | Cổ đại cung đình song đế      | trầm, kịch tính | `w14-bia-thien-dan-hau-cung`     |                                                 |
-| 15 · Thiên Ma Tông         | Tu tiên trọng sinh                 | sáng vừa, ấm    | `w15-bia-thien-ma-tong`          |                                                 |
-| 16 · Hứa Gia Thôn          | Niên đại làm giàu               | tươi sáng       | `w16-bia-hua-gia-thon`           |                                                 |
-| 17 · Hắc Thạch Thú Quốc  | Thú nhân bộ lạc viễn cổ        | tươi sáng       | `w17-bia-hac-thach-thu-quoc`     |                                                 |
-| 19 · Vách Đoạn Hồn       | Hiện đại huyền học nữ quỷ     | tối, rờn rợn    | `w19-bia-vach-doan-hon`          |                                                 |
-| 20 · Tuyên Hòa Nữ Quốc   | Cổ đại nữ tôn cung đấu        | trầm, kịch tính | `w20-bia-tuyen-hoa-nu-quoc`      | mạch truyện chờ duyệt, chưa có trong game |
-| 21 · Minh Triết Cao Trung   | Hiện đại học đường lời đồn | xám, trầm        | `w21-bia-minh-triet-cao-trung`   | mạch truyện chờ duyệt, chưa có trong game |
+| Thế giới | Thể loại | Tông | Tên file ảnh | Ghi chú |
+| --- | --- | --- | --- | --- |
+| 1 · Giới Huyền Nguyên | Huyền huyễn cổ đại | trầm, kịch tính | `w01-bia-gioi-huyen-nguyen` |  |
+| 2 · Thành Vọng Xuyên | Hiện đại linh dị | tối, rờn rợn | `w02-bia-thanh-vong-xuyen` |  |
+| 3 · Lãnh cung Tĩnh Tư | Cổ đại cung đấu | trầm, kịch tính | `w03-bia-lanh-cung-tinh-tu` |  |
+| 4 · Rừng Cổ Mộc | Viễn cổ hoang dã | tươi sáng | `w04-bia-rung-co-moc` |  |
+| 5 · Trại giam Thiết Sơn | Hiện đại hắc đạo | xám, trầm | `w05-bia-trai-giam-thiet-son` |  |
+| 6 · Biệt thự Dạ Khúc | Hiện đại giới giải trí | sáng vừa, ấm | `w06-bia-biet-thu-da-khuc` |  |
+| 7 · Huyền Vu Các | Cổ đại vu cổ | trầm, kịch tính | `w07-bia-huyen-vu-cac` |  |
+| 8 · Ánh Quang Viện | Showbiz ngôn tình | tươi sáng | `w08-bia-anh-quang-vien` |  |
+| 10 · Đan Lô Phù Gia | Huyền huyễn thế gia | sáng vừa, ấm | `w10-bia-dan-lo-phu-gia` |  |
+| 11 · Nhất Trung Thanh Giang | Hiện đại học đường | sáng vừa, ấm | `w11-bia-nhat-trung-thanh-giang` |  |
+| 12 · Phim Trường Lâm Hải | Hiện đại showbiz sinh tồn | tươi sáng | `w12-bia-phim-truong-lam-hai` |  |
+| 13 · Tịch Chiếu Đế Quốc | Mạt thế tang thi | tối, rờn rợn | `w13-bia-tich-chieu-de-quoc` |  |
+| 14 · Thiên Dận Hậu Cung | Cổ đại cung đình song đế | trầm, kịch tính | `w14-bia-thien-dan-hau-cung` |  |
+| 15 · Thiên Ma Tông | Tu tiên trọng sinh | sáng vừa, ấm | `w15-bia-thien-ma-tong` |  |
+| 16 · Hứa Gia Thôn | Niên đại làm giàu | tươi sáng | `w16-bia-hua-gia-thon` |  |
+| 17 · Hắc Thạch Thú Quốc | Thú nhân bộ lạc viễn cổ | tươi sáng | `w17-bia-hac-thach-thu-quoc` |  |
+| 19 · Vách Đoạn Hồn | Hiện đại huyền học nữ quỷ | tối, rờn rợn | `w19-bia-vach-doan-hon` |  |
+| 20 · Tuyên Hòa Nữ Quốc | Cổ đại nữ tôn cung đấu | trầm, kịch tính | `w20-bia-tuyen-hoa-nu-quoc` | mạch truyện chờ duyệt, chưa có trong game |
+| 21 · Minh Triết Cao Trung | Hiện đại học đường lời đồn | xám, trầm | `w21-bia-minh-triet-cao-trung` | mạch truyện chờ duyệt, chưa có trong game |
 
 ---
 
@@ -260,7 +260,7 @@ Vẽ cảnh theo đúng ảnh mẫu đính kèm: lấy chất liệu, nét vẽ,
 Ngoại lệ cho riêng ảnh bìa: được dùng bố cục điện ảnh (toàn cảnh rất rộng, nhiều tầng chiều sâu, đường dẫn mắt chạy từ các nhân vật tới địa điểm tiêu biểu ở xa), tối đa bốn gam màu là xanh lá đậm (rừng), cam hoàng hôn và vàng nhạt (ánh sáng), trắng kem (áo), xám đen (thiết bị phim trường); mỗi gam là mảng lớn. Vẫn hoàn toàn phẳng 2D, không 3D, không bóng loáng, không điểm sáng. Các vật ở xa chỉ là hình khối lớn đơn giản, không vẽ chi tiết nhỏ, mỗi tầng chỉ ba đến bốn khối.
 Về tông màu: truyện nhẹ nhàng, vui, đời thường nên ảnh bìa tươi sáng hơn các thế giới kinh dị: màu cảnh vật sáng, ấm, trong; vùng tối chỉ ở rìa khung; Hắc hóa chỉ là một điểm nhỏ.
 Khoảnh khắc: ảnh bìa của thế giới 12 «Phim Trường Lâm Hải» (hiện đại showbiz sinh tồn), hiện ở thẻ thế giới trên trang chủ và đầu trang giới thiệu. Biểu tượng của cả thế giới, không phải một mốc truyện. Môi trường là chủ đạo: một toàn cảnh rất rộng; hai nhân vật chính chỉ là hai bóng nhỏ ở phía dưới, đều là người bình thường (nam chính không có hóa thân).
-Giới thiệu nữ chính: Mạc Tử Hân, 22 tuổi, nữ minh tinh lưu lượng bị mạng mắng là «bình hoa». Tóc nâu sẫm uốn lọn lớn ngang vai. Mắt hạnh nâu, mặt trái xoan đẹp, da sáng, dáng mảnh cao khoảng 1m68 (bổ sung). Trang phục: áo phao mỏng, quần dài, tai nghe nhỏ, ôm tập kịch bản (bổ sung); màu chủ đạo kem và nâu (bổ sung).
+Giới thiệu nữ chính: Mạc Tử Hân, 22 tuổi, nữ minh tinh lưu lượng bị mạng mắng là «bình hoa». Tóc nâu sẫm uốn lọn lớn ngang vai. Mắt hạnh nâu, mặt trái xoan đẹp, da sáng, dáng mảnh cao khoảng 1m68 (bổ sung). Trang phục: áo phao mỏng, quần dài, tai nghe nhỏ (bổ sung); màu chủ đạo kem và nâu (bổ sung).
 Giới thiệu nam chính: Giản Mặc Hành, 30 tuổi, đạo diễn «quỷ tài», tính tối tăm, hay mắng. Tóc đen dài hơi rối buộc thấp (bổ sung). Mắt đen sâu quầng thâm, mặt gầy sắc, da tái, cao khoảng 1m84 (bổ sung). Trang phục: áo khoác dày, mũ lưỡi trai, cầm loa cầm tay; màu chủ đạo xám đen (bổ sung).
 Nhân vật: chỉ có hai nhân vật chính, đều nhỏ, mỗi người chiếm khoảng một phần sáu đến một phần tám chiều cao khung, nằm ở nửa dưới của khung. Bố cục hai người (theo quan hệ của họ trong truyện): thấy từ bên cạnh, hơi chếch, hai người sát nhau. Giản Mặc Hành ngồi trên chiếc ghế đạo diễn ở bên phải, chiếc loa cầm tay đặt trên đầu gối, mắt nhìn màn hình giám sát. Mạc Tử Hân đứng sau lưng ghế ở bên trái, cúi người nhìn qua vai anh vào cùng màn hình, tay ôm tập kịch bản. Vẽ đúng ngoại hình đã giới thiệu ở trên (tóc, quần áo, màu sắc). Nam chính là người bình thường, vẽ đúng ngoại hình đã tả, không biến hình, không khổng lồ, không vẽ hóa thân hay bóng lớn nào khác; không vẽ thêm người nào khác.
 Điểm nhìn ở xa: phim trường giữa rừng núi lúc hoàng hôn với đèn phim, giá đèn và bảng clap. Đây là địa điểm tiêu biểu của thế giới, chiếm phần ba trên của khung và là nơi mọi đường dẫn mắt hội tụ, không có hình người khổng lồ.
