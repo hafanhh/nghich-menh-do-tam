@@ -21,5 +21,6 @@ import './worlds/world-15.js';
 import './worlds/world-16.js';
 import './worlds/world-17.js';
 import './worlds/world-18.js';
+import './worlds/world-19.js';
 
 boot();

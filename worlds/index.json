@@ -346,6 +346,26 @@
         43,
         50
       ]
+    },
+    {
+      "id": "w19",
+      "no": 19,
+      "file": "world-19.json",
+      "name": "Vách Đoạn Hồn",
+      "genre": "Hiện đại huyền học nữ quỷ",
+      "hero": "hd_luu",
+      "heroName": "Dịch Tiểu Lựu",
+      "bossName": "Mục Cửu",
+      "heroSub": "Hồn sinh viên mất ba năm, một «A Phiêu» mạnh bất thường chỉ ở nhân gian hai mươi năm. Nhiệm vụ: cảm hóa Mục Cửu.",
+      "events": 46,
+      "chapEnd": [
+        9,
+        18,
+        28,
+        35,
+        40,
+        46
+      ]
     }
   ]
 }

@@ -1,0 +1,3705 @@
+{
+ "id": "w19",
+ "no": 19,
+ "chapEnd": [
+  9,
+  18,
+  28,
+  35,
+  40,
+  46
+ ],
+ "prog": [
+  {
+   "ac": -1,
+   "hac": -1,
+   "hao": 2
+  },
+  {
+   "ac": -1,
+   "hac": -1,
+   "hao": 2
+  },
+  {
+   "ac": -1,
+   "hac": -2,
+   "hao": 2
+  },
+  {
+   "ac": -2,
+   "hac": -2,
+   "hao": 2
+  },
+  {
+   "ac": -2,
+   "hac": -2,
+   "hao": 2
+  },
+  {
+   "ac": -2,
+   "hac": -2,
+   "hao": 2
+  }
+ ],
+ "pbias": -0.03,
+ "p0": {
+  "mi": 60,
+  "tri": 58,
+  "van": 52
+ },
+ "params": {
+  "b1": 3,
+  "b2": 5.5,
+  "bad": 12,
+  "ac": 0.85,
+  "hac": 1.1,
+  "hao": 0.8,
+  "h0": 66,
+  "sd": 1,
+  "s18b": 8,
+  "s18s": 4,
+  "s31b": 10,
+  "s31s": 5,
+  "s41b": 16,
+  "s41s": 8
+ },
+ "names": {
+  "hd_luu": "Dịch Tiểu Lựu",
+  "hd_cuu": "Mục Cửu",
+  "hd_nhuoc": "Kha Nhược Tư",
+  "hd_son": "Quan Vân Sơn",
+  "hd_thien": "Quan thiên sĩ",
+  "hd_lam": "Giả Lam Lam",
+  "hd_ngoc": "Diêu Ngọc Chi",
+  "hd_vuni": "Sở Vũ Ni",
+  "hd_phuc": "Dịch Phúc Sinh",
+  "hd_diem": "Thạch Diễm Chi",
+  "hd_hai": "Thạch Đại Hải",
+  "hd_lien": "Hồng Thục Liên",
+  "hd_my": "Phùng Mỹ Hà",
+  "hd_tu": "Quan Tử Du",
+  "hd_giac": "Giác Không",
+  "hd_tri": "Trí Huyền",
+  "hd_ho": "Lỗ Hổ",
+  "hd_tam": "Tam Phát",
+  "hd_truong": "Thôn trưởng",
+  "hd_tuanh": "Nghiêm Tú Anh",
+  "hd_hieu": "Kiều Hiểu Dao"
+ },
+ "canonReason": "",
+ "note": "Chân dung thế giới 19 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh dùng lại hình vẽ tạm của các thế giới trước.",
+ "fixed": "",
+ "ends": {
+  "true": {
+   "n": "Trăm năm chờ một lần gặp",
+   "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Mục Cửu đã về không. Hai mươi năm trôi qua như một buổi chiều dài; đến ngày phải đi, Tiểu Lựu cười, tan thành những đốm sáng nhỏ bên mộ cũ. Anh không gào lên, chỉ nói rất khẽ: «Anh chờ em.» Sau này anh tu luyện đến cuối đời, mỗi sáng đặt một bó hoa tươi trước mộ, và chờ đủ một trăm năm rồi bước vào Chuyển Sinh Trì với nụ cười.",
+   "gain": 120,
+   "piece": 1,
+   "heat": 0.1,
+   "scene": "rgreen"
+  },
+  "near": {
+   "n": "Hạt sáng trong lòng bàn tay",
+   "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Khi ánh sáng bắt đầu tan, Mục Cửu siết tay cô quá chặt vì sợ mất, và những đốm sáng vỡ ra trong tay anh. Anh đứng lặng rất lâu rồi mở bàn tay: một hạt sáng cuối cùng nằm gọn ở đó. Anh không còn đuổi theo bóng cô; vết đỏ trong mắt nhạt dần theo từng năm, và cô biết rồi nó sẽ tan.",
+   "gain": 90,
+   "piece": 1,
+   "heat": 0.35,
+   "scene": "graves"
+  },
+  "half": {
+   "n": "Một mình giữ ngôi mộ",
+   "c": "Tiểu Châu đọc kết quả: chưa đạt. Hết hai mươi năm, Tiểu Lựu rời đi, còn Mục Cửu ở lại một mình giữ ngôi mộ. Anh vẫn tu luyện, vẫn đặt hoa mỗi sáng, nhưng mỗi lần nhớ câu «ta sẽ không ở đây nữa» thì lại thấy sợ. Anh vẫn chờ, chỉ chưa dám tin có kiếp sau.",
+   "gain": 60,
+   "piece": 0,
+   "heat": 0.6,
+   "scene": "rhill"
+  },
+  "black": {
+   "n": "Sơn đạo không còn tiếng gió",
+   "c": "Hắc hóa chạm 100. Mục Cửu không còn nghe thấy tên mình, cũng không nghe lời cô. Thanh kiếm trên tay anh bung khỏi vỏ, và cả sườn núi lặng đi như chưa từng có tiếng gió. Tiểu Châu kéo cô đi trước khi mắt anh đỏ rực quay lại phía cô.",
+   "gain": 0,
+   "piece": 0,
+   "heat": 1,
+   "scene": "vdark"
+  },
+  "bdead": {
+   "n": "Thanh kiếm tắt ánh sáng",
+   "c": "Sinh mệnh của Mục Cửu về 0. Bên mộ cô, thanh kiếm cổ nằm yên, ánh sáng trên lưỡi kiếm tắt dần. Hoa tươi anh để lại sáng nay vẫn chưa héo. Tiểu Châu khẽ gọi cô về khi cô còn đang ngồi lặng bên mộ.",
+   "gain": 0,
+   "piece": 0,
+   "heat": 0.9,
+   "scene": "graves"
+  },
+  "dead": {
+   "n": "Đốm sáng cuối cùng",
+   "c": "Sinh mệnh cạn kiệt. Hồn thể Tiểu Lựu mờ dần giữa gió núi, cho đến khi chỉ còn một đốm sáng nhỏ trên vách Đoạn Hồn và tiếng gọi «Lựu Lựu» rất khẽ. Tiểu Châu kéo hồn cô đi, khi ở đâu đó Mục Cửu vẫn đang chạy trên sườn núi, tay vươn ra trong bóng tối.",
+   "gain": 0,
+   "piece": 0,
+   "heat": 0.8,
+   "scene": "rtop"
+  }
+ },
+ "events": [
+  {
+   "id": "d01",
+   "scene": "rtop",
+   "place": "Vách Đoạn Hồn · Đêm",
+   "kind": "duyen",
+   "title": "Tỉnh dậy làm A Phiêu",
+   "text": "Đêm đã khuya. Hồn Tiểu Lựu nhập vào Dịch Tiểu Lựu và lơ lửng giữa không trung, ngay trên vách Đoạn Hồn sau Thanh Hà thôn. Một quả cầu ngọc xanh hiện ra cạnh tai cô: «Ta là Tiểu Châu». Nó nói nhiệm vụ rất gọn: cô phải ở lại thế giới này đúng hai mươi năm, và người cần cảm hóa là Mục Cửu, một đạo sĩ bắt yêu mà cô chưa gặp. Tiểu Lựu là sinh viên đã mất ba năm, nay là một «A Phiêu», tức hồn phiêu bạt, mạnh bất thường. Tiểu Châu giao gói nhiệm vụ: dải lụa trắng, Chiêu Hồn Phiên, nắm đan bổ hồn và một kho thù lao gồm hạt châu, thanh kiếm cổ và nạp giới để trả công người thuê. Cô nhìn bộ xương kẹt trên vách và thấy «có điểm thân thiết».",
+   "tieu": "Dậy rồi hả? Nghe ta nhanh đây: ngươi chỉ có hai mươi năm, kho thù lao là thứ ngươi dùng để thuê người, và kẻ Ác niệm 100 là một đạo sĩ tên Mục Cửu. Đừng bỏ phí đêm đầu tiên nhé!",
+   "cast": "hd_luu,tc",
+   "ch": [
+    {
+     "t": "Xem kỹ kho thù lao Tiểu Châu giao",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô kiểm từng món: hạt châu, thanh kiếm cổ, nạp giới, và nhớ món nào hợp trả cho ai. Lòng cô vững hơn hẳn.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "biet_kho"
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Cô đếm nhầm mấy món, mất cả buổi mới xếp lại cho đúng.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Xem lại cốt truyện nguyên tác Tiểu Châu kể",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô nghe hết một lượt, nhớ rõ ai sẽ tới thôn và ai sẽ ra tay với mình. Bức tranh hiện ra thành từng mảng rõ ràng.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "biet_ct"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô nghe lẫn mất thứ tự các nhân vật, đành nhờ Tiểu Châu kể lại từng đoạn.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Thử điều khiển dải lụa trắng quanh vách",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Dải lụa quấn vào cành cây rồi nới ra đúng ý. Cô thấy mình dùng nó thuận tay hơn mình tưởng.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "dung_lua"
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Dải lụa quấn rối vào một mỏm đá, cô gỡ mãi mới xong.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Đêm, vách Đoạn Hồn sau Thanh Hà thôn. Hồn Tiểu Lựu vừa nhập vào thân phận A Phiêu; Tiểu Châu giao nhiệm vụ cảm hóa Mục Cửu trong hai mươi năm.",
+   "no": 1
+  },
+  {
+   "id": "d02",
+   "scene": "gdream",
+   "place": "Vách Đoạn Hồn · Cùng đêm",
+   "kind": "duyen",
+   "title": "Ký ức của nguyên chủ",
+   "text": "Tiểu Châu chiếu lại ký ức của Tiểu Lựu. Ba năm trước, cô cùng sáu bảy bạn sinh viên đi du lịch tự túc và ghé Thanh Hà thôn, nơi dân làng lừa các cô gái đi lạc vào rồi giữ lại. Cô và bạn thân Sở Vũ Ni bị nhốt khi các bạn nam bị dẫn đi chơi. Cô trốn được, bị đuổi lên vách, trượt chân rơi xuống và mắc vào đá nhọn. Vũ Ni không trốn được, chống cự đến cùng và qua đời. Suốt ba năm sau, hồn Tiểu Lựu thổi gió ở giao lộ để dọa các cô gái khác quay đầu. Tiểu Châu tóm cốt truyện nguyên tác: bốn ngày nữa nữ chính Kha Nhược Tư tới thôn, nhờ đạo sĩ Quan Vân Sơn diệt hồn cô; hai người thành đôi nhờ chuyện đó, và nhiều năm sau con gái họ sẽ gặp nạn ở chính thôn này.",
+   "tieu": "Cốt truyện cũ là thế đấy, ngươi nhớ cho kỹ. Lần này ngươi không cần thổi gió nữa. Ta nhắc: Nhược Tư và Vân Sơn là hai người ngươi phải để ý nhất.",
+   "cast": "hd_luu,hd_vuni,tc",
+   "ch": [
+    {
+     "t": "Nhớ kỹ từng chi tiết của nguyên tác",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô khắc sâu mọi chi tiết, từ ngày Nhược Tư tới thôn đến cái tên Quan Vân Sơn. Sau này cô sẽ không bị bất ngờ.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "nho_ky"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Ký ức tràn quá nhiều, cô nhớ lẫn mấy đoạn và phải nhờ Tiểu Châu nhắc.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chỉ giữ ý chính, đỡ nặng đầu",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô gạt bớt những đoạn dài dòng, giữ lại đúng điều cần biết. Đầu óc nhẹ hơn nhiều.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Cô gạt nhầm một đoạn quan trọng, lúc sau phải hỏi lại Tiểu Châu.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Hỏi Tiểu Châu vì sao Quan Vân Sơn diệt được hồn cô",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Tiểu Châu giải thích: hắn mang pháp khí của sư phụ và đánh đúng lúc cô yếu. Cô hiểu hắn mạnh ở chỗ nào.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "biet_son"
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Tiểu Châu ậm ừ, nói còn nhiều điều nó chưa rõ. Cô đành bỏ qua.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Cùng đêm, trên vách Đoạn Hồn. Tiểu Châu chiếu lại ký ức của nguyên chủ và cốt truyện nguyên tác.",
+   "no": 2
+  },
+  {
+   "id": "d03",
+   "scene": "rforest",
+   "place": "Quanh Thanh Hà thôn · Bốn ngày chờ",
+   "kind": "duyen",
+   "title": "Bốn ngày chờ",
+   "text": "Bốn ngày cho tới khi Nhược Tư tới. Cô quyết định lần này không thổi gió: để cô ta vào thôn rồi cứu cả nhóm, vì muốn cô ta tự thấy rằng cứ theo lẽ thường là đủ thì không bảo vệ được ai. Tiểu Châu nhắc cô tập trước đường: lướt quanh các hẻm tối, nhớ nhà nào khóa cửa, nhà nào có chó, lối nào ra thẳng bãi cỏ. Cô có thể dò kỹ cả thôn, hoặc chỉ dò mấy nhà gần giao lộ rồi dành thời gian còn lại nghỉ cho hồn lực hồi.",
+   "tieu": "Nghe ta nhé: đêm sắp tới cô gái nào cũng cần ngươi đến đúng nhà, đúng cửa. Dò kỹ bây giờ đỡ cuống sau này.",
+   "cast": "hd_luu,tc",
+   "ch": [
+    {
+     "t": "Dò kỹ cả thôn, từng nhà từng hẻm",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô nhớ rõ nhà nào khóa cửa, nhà nào có chó, lối nào đi thẳng ra bãi cỏ. Cả thôn thành một tấm bản đồ trong đầu.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "da_do_thon"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô lạc vào một hẻm cụt rồi mất công quay lại, chỉ dò được hơn nửa thôn.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chỉ dò mấy nhà gần giao lộ",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô thuộc nhanh vài nhà ở đầu thôn, dành thời gian còn lại giữ sức. Đủ dùng cho một đêm.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Mấy nhà đó lại không phải nhà cô cần. Cô phải mò thêm vào lúc gấp.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Ngồi trên cây hòe quan sát ai ra vào thôn",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Từ trên cây, cô thấy rõ ai là người canh cổng và lúc nào họ đổi ca. Nhẹ nhàng, chắc ăn.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Cô ngủ gật trên cành mất một buổi, tỉnh ra thì bỏ lỡ cả giờ đổi ca của người canh.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Bốn ngày trước khi Kha Nhược Tư tới thôn, vách Đoạn Hồn và các lối quanh Thanh Hà thôn.",
+   "learn": {
+    "n": "Dẫn đường trong đêm",
+    "s": "tri",
+    "v": 1
+   },
+   "no": 3
+  },
+  {
+   "id": "d04",
+   "scene": "vgate",
+   "place": "Ngã rẽ vào Thanh Hà thôn · Ban ngày",
+   "kind": "chon",
+   "title": "Những vị khách tới thôn",
+   "text": "Ngày thứ năm, một đoàn sinh viên tới ngã rẽ: Kha Nhược Tư, hai cô bạn Giả Lam Lam và Diêu Ngọc Chi, cùng mấy bạn nam. Nhược Tư có thể chất chiêu quỷ từ nhỏ nên chỉ thấy con quỷ ở đây «không lợi hại». Dân thôn niềm nở mời ăn, sắp chỗ trọ. Cô bay theo họ vào thôn mà không ai nhận ra. Tiểu Châu chỉ cho cô thôn trưởng, nhà họ Lỗ cùng Lỗ Hổ, và những người có ánh mắt khó chịu. Cô có thể theo sát Nhược Tư, hoặc theo dõi nhà thôn trưởng nơi dân làng bàn việc.",
+   "tieu": "Đoàn khách đây rồi. Nhìn ánh mắt thôn trưởng, ánh mắt đó không hề tốt. Ngươi muốn theo ai trước thì chọn.",
+   "cast": "hd_luu,hd_nhuoc,hd_lam,hd_ngoc,hd_truong,hd_ho,tc",
+   "ch": [
+    {
+     "t": "Theo sát Nhược Tư và hai cô gái",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô lướt cạnh Nhược Tư suốt buổi, nghe được cả cuộc nói chuyện ở bàn ăn và biết khi nào các cô bị tách ra.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "theo_nhuoc"
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Cô bay sát quá, Nhược Tư rùng mình nhìn quanh. Cô đành lùi ra xa.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Theo dõi nhà thôn trưởng, nơi dân làng bàn việc",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô nghe được thôn trưởng bàn với mấy người về căn hầm và việc «chia dâu». Giờ cô biết trước chuyện sẽ diễn ra.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "theo_truong"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Nhà thôn trưởng đóng kín, cô chỉ nghe loáng thoáng vài tiếng rồi bị chó sủa đuổi.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chờ ở giao lộ, đếm xem bao nhiêu người ra vào",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô đếm đủ số người ra vào thôn và để ý ai canh lối nào. Một cách chắc chắn nhưng chậm.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Cô đếm nhầm vì đám dân thôn đi lại liên tục, mất cả buổi.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Ban ngày, ngã rẽ vào Thanh Hà thôn. Nhược Tư cùng hai bạn gái và mấy bạn nam vừa tới, dân thôn niềm nở mời vào.",
+   "no": 4
+  },
+  {
+   "id": "d05",
+   "scene": "jcell",
+   "place": "Sân thôn trưởng · Hai đêm",
+   "kind": "hiem",
+   "title": "Căn hầm",
+   "text": "Dân thôn dụ các bạn nam đi «chỗ vui». Ngay khi họ khuất bóng, nụ cười trên mặt dân thôn tắt hẳn: Nhược Tư, Lam Lam và Ngọc Chi bị nhốt xuống hầm hai ngày, chỉ cho nước để mất sức. Cô nghe tiếng chân trên đầu và những câu bàn chuyện chia các cô cho từng nhà «giữ làm dâu». Cô muốn phá hầm ngay nhưng biết ban đêm các nhà mới khóa cửa, lúc đó từng cô gái sẽ nằm gọn một chỗ. Nếu ra tay bây giờ, cô có thể bị cả thôn thấy.",
+   "tieu": "Gấp thì gấp, nhưng đừng để cả thôn thấy mặt ngươi. Các cô ấy còn chịu được thêm một ngày.",
+   "cast": "hd_luu,hd_nhuoc,hd_lam,hd_ngoc,hd_truong,tc",
+   "ch": [
+    {
+     "t": "Chờ đến đêm, khi từng cô bị đưa về từng nhà",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô kiên nhẫn đợi. Đến đêm các cô bị tách riêng, đúng như cô tính, và cô có thể đến từng nhà.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô đợi quá lâu, một cô gái bị kéo khỏi hầm sớm hơn dự tính và cô phải chạy theo.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Phá hầm ngay, đưa ba cô ra",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô xé nắp hầm bằng dải lụa trắng và đưa ba cô ra khỏi sân khi dân thôn còn đang uống rượu.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.54,
+     "bad": {
+      "x": "Cả thôn thấy bóng trắng, hò nhau chạy tới. Cô phải đánh lui họ bằng cách dựng gió lạnh, tốn sức và tổn hồn lực.",
+      "d": {
+       "sinh": -5
+      }
+     }
+    },
+    {
+     "t": "Thì thầm trấn an các cô dưới hầm trước",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô khẽ nói qua khe hầm: «Chờ thêm một chút, ta sẽ đưa các cô ra.» Các cô bớt hoảng loạn và biết giữ sức.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Giọng cô khiến các cô gái hét lên vì sợ. Dân thôn nghe tiếng động và canh kỹ hơn.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Hai đêm sau khi đoàn tới thôn, sân nhà thôn trưởng. Ba cô gái bị nhốt dưới hầm, dân thôn bàn chia các cô cho từng nhà.",
+   "no": 5
+  },
+  {
+   "id": "d06",
+   "scene": "vroom",
+   "place": "Một căn nhà trong thôn · Đêm thứ ba",
+   "kind": "duyen",
+   "title": "Căn nhà thứ nhất",
+   "text": "Đêm thứ ba, dân thôn đưa mỗi cô về một nhà và khóa trong phòng. Ở nhà đầu tiên, Diêu Ngọc Chi bị một gã đàn ông lực lưỡng và bà mẹ canh giữ, ép ở lại làm dâu. Cô dựng trận cách âm quanh nhà, rồi dùng dải lụa trắng trói chặt cả hai và treo lơ lửng. Cô nhẹ giọng hỏi Ngọc Chi: «Cô muốn rời nơi này không?». Cô gái run rẩy gật đầu. Tiểu Châu nhắc: nút dây nào càng gọn thì càng ít gây thương tích cho người bị trói.",
+   "tieu": "Không ai bị hại trong đêm nay, ngươi nhớ. Trói gọn, dọa đủ, rồi đưa người ra.",
+   "cast": "hd_luu,hd_ngoc,tc",
+   "ch": [
+    {
+     "t": "Thắt nút lụa thật gọn để trói",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Dải lụa quấn gọn gàng quanh hai người, không siết đau mà vẫn không giãy ra được. Ngọc Chi thở ra nhẹ nhõm.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "tro_gon"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Nút lụa lỏng, gã đàn ông giãy ra được một tay. Cô phải trói lại lần nữa, tốn công hơn.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Hiện hình dọa cho họ ngất vì sợ",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô hiện ra giữa phòng, giọng lạnh lẽo. Hai mẹ con trợn mắt rồi ngất lịm, Ngọc Chi không bị ai ngăn.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Gã đàn ông lại hét to gọi hàng xóm. Cô phải dùng lụa bịt miệng, mất thêm công sức.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Mở cửa sổ khẽ gọi Ngọc Chi tự chui ra",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Ngọc Chi tự trèo qua cửa sổ khi hai người còn ngủ say. Không ồn ào, không tốn sức.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Cửa sổ kẹt cứng, tiếng động làm bà mẹ tỉnh dậy. Cô phải ra tay nhanh hơn dự định.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Đêm thứ ba, nhà đầu tiên trong thôn. Diêu Ngọc Chi bị khóa trong phòng, hai mẹ con nhà chủ canh giữ.",
+   "learn": {
+    "n": "Thắt và tháo nút dây",
+    "s": "tri",
+    "v": 1
+   },
+   "no": 6
+  },
+  {
+   "id": "d07",
+   "scene": "vroom",
+   "place": "Nhà thứ hai trong thôn · Cùng đêm",
+   "kind": "chon",
+   "title": "Căn nhà thứ hai",
+   "text": "Giả Lam Lam bị khóa trong phòng, một bà lão nói «cô nương cứ ở lại, đẻ con là hiểu». Cô phá cửa sổ, trói bà lão và gã con trai. Lam Lam ngẩng nhìn, bật khóc, hỏi tên cô rồi đòi gọi «Lựu Lựu», nắm tay cô không buông. Quanh cô, hàng chục hồn nửa thành hình, các nạn nhân cũ của Thanh Hà thôn, tụ lại ngó nghiêng. Họ không dám hỏi, chỉ nhìn cô. Cô có thể chia cho họ một nắm đan bổ hồn để hồn thể thành hình, hoặc bảo họ chờ, vì cô còn một nhà cuối phải đến.",
+   "tieu": "Các hồn kia đã bị bỏ mặc ba năm, ngươi chia hay không là việc của ngươi, nhưng họ sẽ nhớ.",
+   "cast": "hd_luu,hd_lam,tc",
+   "ch": [
+    {
+     "t": "Chia cho các hồn một nắm đan bổ hồn",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Các hồn nhận đan, thân hình dần rõ nét. Họ cúi đầu cảm ơn và hứa sẽ giúp cô khi cần.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "chia_dan"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Có hồn quá yếu, không giữ nổi đan và tan mất một phần. Cô tiếc rẻ mất cả nắm.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Bảo họ chờ, cô còn một nhà cuối phải đến",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Các hồn gật đầu lui ra, không làm phiền. Cô tập trung cho nhà cuối.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Một số hồn buồn bã tản đi, cô nghe tiếng thở dài sau lưng.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Nắm tay Lam Lam trấn an rồi dắt cô ra cửa",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Lam Lam bình tâm lại và đi theo cô ra sân. Cả hai tới điểm hẹn êm xuôi.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Lam Lam khóc to vì quá sợ. Cô phải ôm cô ấy dỗ cả buổi mới yên.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Cùng đêm, nhà thứ hai. Giả Lam Lam đã được cứu khỏi nhà chủ; các hồn nạn nhân cũ tụ quanh cô.",
+   "no": 7
+  },
+  {
+   "id": "d08",
+   "scene": "vroom",
+   "place": "Nhà thứ ba trong thôn · Cùng đêm",
+   "kind": "chon",
+   "title": "Căn nhà thứ ba",
+   "text": "Kha Nhược Tư biết võ nên đá gã giữ mình rồi trốn, nhưng bị bắt lại và trói tay; gã chủ nhà tát cô ta rồi giao cho mấy gã khác canh giữ. Cô lướt vào, trói cả bọn bằng lụa rồi hiện ra: «Ta là quỷ đến lấy mạng», khiến chúng ngất. Nhược Tư tự cởi được dây, nhìn các gã nằm đó và nói «cô không được tùy tiện ra tay, ra ngoài tôi sẽ đưa chúng ra pháp luật». Cô biết luật sẽ không đến kịp chỗ này. Cô có thể tranh luận với cô ta, mặc kệ, hoặc giúp cô ta ra ngoài rồi để cô ta tự nghĩ.",
+   "tieu": "Cô ta là người ngươi sẽ còn gặp nhiều lần. Ân tình đêm nay sẽ nhớ lâu hơn lời tranh cãi.",
+   "cast": "hd_luu,hd_nhuoc,tc",
+   "ch": [
+    {
+     "t": "Tranh luận: luật không đến kịp chỗ này",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Nhược Tư im lặng rất lâu rồi nói khẽ: «Có lẽ cô nói đúng một nửa.» Cô ta nhớ ơn đêm nay.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "nhuoc_biet"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Nhược Tư gắt: «Cô nói vậy thì khác gì bọn chúng!». Cô ta quay đi, giận dữ.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Mặc kệ, đưa cô ta ra ngoài",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Nhược Tư im lặng đi theo, không hỏi thêm. Mọi chuyện xong êm.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Nhược Tư vẫn lẩm bẩm phản đối suốt đường ra. Không khí nặng nề.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Tháo dây, dẫn cô ta ra ngoài rồi để tự nghĩ",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Nhược Tư để mặc cô dẫn đi. Ra tới ngoài, cô ta nhìn lại ngôi thôn tối đen và không nói gì, nhưng ánh mắt dịu hẳn.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "nhuoc_biet"
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Cô ta giật tay ra khỏi tay cô, tự bước nhanh phía trước. Cô đi theo sau, im lặng.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Cùng đêm, nhà thứ ba. Kha Nhược Tư vừa bị bắt lại sau khi chống cự; cô đã trói các gã canh giữ.",
+   "no": 8
+  },
+  {
+   "id": "d09",
+   "scene": "rforest",
+   "place": "Bãi cỏ ngoài thôn · Rạng sáng",
+   "kind": "duyen",
+   "title": "Lối ra khỏi thôn",
+   "text": "Cô đưa cả ba cô gái ra bãi cỏ ngoài thôn, trả lại ba lô cho từng người. Lam Lam hứa sẽ trở về phơi bày mọi chuyện và tìm cha mẹ cô; Nhược Tư cảnh báo «giết nhiều thì bị trời phạt», cô cười đáp thiên không dám khiển cô. Họ đi tới chỗ có tín hiệu, gọi người nhà đón. Lam Lam và Ngọc Chi vẫn còn run. Cô cần dặn họ cách nói với cảnh sát sao cho đủ ý mà không bị hỏi vặn quá lâu.",
+   "tieu": "Lúc này một lời dặn khéo đáng giá hơn mười lời hứa. Các cô ấy đang cần ai đó bình tĩnh thay mình.",
+   "cast": "hd_luu,hd_nhuoc,hd_lam,hd_ngoc,tc",
+   "ch": [
+    {
+     "t": "Dặn các cô kể thật đầy đủ với cảnh sát",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Các cô gật đầu nhớ kỹ. Lam Lam thậm chí còn chép ra giấy những điều cần nói.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Các cô nói lẫn lộn thứ tự, cô phải nhắc đi nhắc lại.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Dặn các cô nói ngắn, đừng nhắc đến cô",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Các cô làm theo, không ai hỏi vặn thêm. Cả nhóm yên ổn rời đi.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Lam Lam lỡ miệng nhắc tới «Lựu Lựu», cảnh sát hỏi mãi. Cô phải ẩn đi.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Ngồi lại với các cô cho tới khi xe cứu hộ tới",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô ở bên cho tới khi có người đón. Lam Lam và Ngọc Chi bớt hoảng loạn, dần ngủ thiếp trên vai nhau.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô phải rời đi trước khi trời sáng hẳn vì có xe tới gần. Hai cô vẫn còn run.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    }
+   ],
+   "ctx": "Rạng sáng, bãi cỏ ngoài Thanh Hà thôn. Ba cô gái đã ra khỏi thôn; cô đưa họ tới chỗ có tín hiệu gọi người nhà đón.",
+   "learn": {
+    "n": "Trấn an người sang chấn",
+    "s": "mi",
+    "v": 1
+   },
+   "no": 9
+  },
+  {
+   "id": "d10",
+   "scene": "vyard",
+   "place": "Thanh Hà thôn · Vài ngày sau",
+   "kind": "chon",
+   "title": "Thôn bị phanh phui",
+   "text": "Các cô gái đã báo cảnh sát; nhóm công tác kéo vào thôn đưa những phụ nữ bị lừa đi. Không ai nhắc tới cô: Lam Lam và Ngọc Chi biết ơn, còn Nhược Tư nghĩ chỉ người chuyên môn mới quản được cô. Phùng Mỹ Hà, bị lừa từ mười năm trước, ôm con ngồi chết lặng giữa sân; cô thì thầm bên tai: «nếu ở lại, ngươi sẽ thành bà lão kia». Mỹ Hà cuối cùng đi cùng ba con trai là Phùng Đại, Phùng Nhị, Phùng Tam. Nghiêm Tú Anh, một người phụ nữ khác, bỏ nhà không ngoảnh lại. Vài người ở lại, cô không ép và không đồng tình.",
+   "tieu": "Có người đi, có người ở lại. Ngươi cứu được người muốn được cứu, chứ không cứu hộ được kẻ đã chọn ở lại.",
+   "cast": "hd_luu,hd_my,hd_tuanh,tc",
+   "ch": [
+    {
+     "t": "Thì thầm với Phùng Mỹ Hà để bà chịu rời thôn",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Mỹ Hà ngẩng lên, nước mắt rơi. Bà đứng dậy, dắt ba con trai đi theo đoàn người. Cô nhớ kỹ gương mặt ấy.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "thi_tham"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Mỹ Hà ôm con quay mặt đi, không nói gì. Cô đành rút lui, lòng nặng trĩu.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chỉ đứng xem, không can thiệp",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô đứng xem từng người đi qua. Chẳng ai phải bất bình vì cô, nhưng cũng chẳng ai nhớ đến cô.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Một người ở lại chửi cô vì thấy bóng trắng. Cô lùi ra xa.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Theo Nghiêm Tú Anh ra tận quốc lộ rồi quay lại",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô lặng lẽ đi theo tới khi Tú Anh lên được xe. Cô yên tâm quay lại thôn.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Cô lạc đường, mất cả buổi mới quay về thôn.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Vài ngày sau khi các cô gái thoát, Thanh Hà thôn. Cảnh sát và nhân viên công tác đưa các phụ nữ bị lừa ra khỏi thôn.",
+   "no": 10
+  },
+  {
+   "id": "d11",
+   "scene": "vdark",
+   "place": "Nhà họ Lỗ, trong thôn · Đêm sau",
+   "kind": "chon",
+   "title": "Nhà của Sở Vũ Ni",
+   "text": "Đêm sau, cô tìm tới nhà từng giữ Sở Vũ Ni: hai cụ họ Lỗ và Lỗ Hổ, vẫn nhớ đêm cô gái ấy chống cự rồi qua đời, và nghi người đang quậy thôn chính là cô. Họ định mai đốt giấy cầu siêu. Cô nghe hết, làm vài tiếng động khiến họ thức trắng. Các tiểu quỷ báo rằng hồn Vũ Ni bị phật quang ở cửa thôn đánh tan thành oán khí vờn quanh thôn. Cô có thể dọa nhà họ Lỗ thêm một đêm, hoặc đi thẳng tới cửa thôn xem pho tượng đang giữ gì.",
+   "tieu": "Dọa hay không là tùy ngươi, nhưng đừng quên: pho tượng ở cửa thôn mới là thứ giữ hồn bạn ngươi lại.",
+   "cast": "hd_luu,hd_ho,hd_vuni,tc",
+   "ch": [
+    {
+     "t": "Dọa nhà họ Lỗ thêm một đêm",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cả nhà họ Lỗ thức trắng, Lỗ Hổ run lập cập thú nhận hết với cô. Cô nghe xong rồi mới rời đi.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Lỗ Hổ lại chửi bới om sòm, cả xóm tỉnh dậy. Cô phải rút khỏi nhà.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Đi thẳng tới cửa thôn, xem pho tượng",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô vòng qua các mái nhà, tới cửa thôn trước khi trăng lên. Pho tượng nằm đó, vẫn tỏa ánh vàng nhạt.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô lạc giữa mấy ngõ hẹp, mất cả đêm mới thấy cửa thôn.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Nhặt vật cũ của Vũ Ni trong nhà mang đi",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô tìm thấy chiếc kẹp tóc nhỏ của Vũ Ni dưới gầm giường và giữ lại. Một chút an ủi trong đêm.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Cô lục cả buổi không thấy gì, chỉ làm hai cụ họ Lỗ giật mình tỉnh giấc.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Đêm sau, nhà họ Lỗ trong thôn. Nơi từng giam Sở Vũ Ni; hồn bạn cô bị phật quang ở cửa thôn đánh tan.",
+   "no": 11
+  },
+  {
+   "id": "d12",
+   "scene": "vgate",
+   "place": "Cửa Thanh Hà thôn · Khuya",
+   "kind": "hiem",
+   "title": "Tượng Phật ở cửa thôn",
+   "text": "Đám tiểu quỷ không dám lại gần pho tượng nửa cánh tay ở cửa thôn vì phật quang làm hồn tan. Hồn lực cô chịu được, nhưng nếu bước vội thì ánh sáng vàng bắn vào. Cô cầm tượng lên: «ngươi phù hộ nhầm người; ngươi phù hộ bao nhiêu năm thì thôn tạo bấy nhiêu nghiệt». Tượng lên tiếng, tự xưng Giác Không: năm xưa được dân thôn cứu, ông để lại pho tượng; nay biết mình có lỗi. Cô có thể đập tượng, chuyển tượng đi hoặc bỏ mặc để tìm cách khác.",
+   "tieu": "Phật quang không đùa được đâu, ngươi cứ liệu đó. Nhưng người trong tượng nghe được lời ngươi, đừng nói vội.",
+   "cast": "hd_luu,hd_giac,tc",
+   "ch": [
+    {
+     "t": "Cầm tượng lên, chất vấn thẳng",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Tượng im lặng rất lâu rồi lên tiếng. Giác Không nhận lỗi, và nói ông sẵn lòng đền bù cho những hồn bị ông làm khổ.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "giac_biet"
+     },
+     "b": 0.54,
+     "bad": {
+      "x": "Phật quang bắn vào tay cô như lửa, hồn lực nhói đau. Cô vội buông tượng ra.",
+      "d": {
+       "sinh": -10
+      }
+     }
+    },
+    {
+     "t": "Quấn lụa quanh tay rồi mới nhấc tượng đi",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Lớp lụa cản được phần lớn ánh sáng. Cô nhấc tượng lên êm ái, và Giác Không bắt đầu kể chuyện.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Lụa cháy sém trong chốc lát, cô bị bỏng ở bàn tay. Cô phải bỏ tượng xuống nghỉ.",
+      "d": {
+       "sinh": -6
+      }
+     }
+    },
+    {
+     "t": "Bỏ mặc tượng, tìm cách khác cho các hồn",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô quay đi, nhưng tượng tự cất tiếng gọi: «Cô nương, xin dừng chân.» Cô quay lại nghe.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Cô mất cả đêm đi dạo quanh thôn mà không có cách nào. Cuối cùng vẫn phải quay lại cửa thôn.",
+      "d": {
+       "sinh": -2
+      }
+     }
+    }
+   ],
+   "ctx": "Khuya, cửa Thanh Hà thôn. Pho tượng Phật nhỏ giữ oán khí quanh thôn; hồn Vũ Ni bị phật quang đánh tan ở đây.",
+   "no": 12
+  },
+  {
+   "id": "d13",
+   "scene": "rgreen",
+   "place": "Ngã rẽ cây hòe · Ngay sau đó",
+   "kind": "duyen",
+   "title": "Giao lộ mới",
+   "text": "Cô khoét một hốc trên thân cây hòe lớn nơi ngã rẽ và đặt tượng vào. Tượng hóa thành gỗ như mọc từ thân cây, quay mặt ra con đường dẫn tới thôn để che chở những người vô tội. Giác Không nhận siêu độ các oán hồn suốt một trăm năm, và đề nghị dạy cô tụng kinh Vãng Sinh để đưa hồn đi luân hồi. Cô có thể học trọn bộ, tốn nhiều công, hoặc chỉ học đoạn mở cửa luân hồi.",
+   "tieu": "Học càng đủ thì sau này càng khỏi cuống. Nhưng hồn lực ngươi cũng chỉ có hạn.",
+   "cast": "hd_luu,hd_giac,tc",
+   "ch": [
+    {
+     "t": "Học trọn bộ kinh Vãng Sinh",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Từng câu kinh thấm vào hồn cô. Khi tụng, ánh sáng vàng nhạt chảy quanh người, ấm như nắng đầu xuân.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "hoc_du"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Câu kinh dài quá, cô nhớ lẫn mấy đoạn và phải học lại.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chỉ học đoạn mở cửa luân hồi",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô học gọn một đoạn ngắn nhưng đủ dùng. Giác Không gật đầu hài lòng.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Đoạn kinh ngắn mà khó đọc đúng nhịp, cô phải thử nhiều lần.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Hỏi Giác Không về nguyên chủ và những hồn bị giữ",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Giác Không kể lại những gì ông nhớ về ba năm qua. Cô hiểu thêm nhiều chuyện về Thanh Hà thôn.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Giác Không nói mãi những chuyện cũ không liên quan. Cô nghe được rất ít.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Ngay sau đó, ngã rẽ vào Thanh Hà thôn, bên cây hòe lớn. Giác Không được đặt vào hốc cây để che chở người đi đường.",
+   "learn": {
+    "n": "Tụng kinh Vãng Sinh",
+    "s": "mi",
+    "v": 1
+   },
+   "no": 13
+  },
+  {
+   "id": "d14",
+   "scene": "vdark",
+   "place": "Thanh Hà thôn · Đêm trăng cong",
+   "kind": "chon",
+   "title": "Đêm tiểu quỷ báo thù",
+   "text": "Cô chia đan bổ hồn cho các tiểu quỷ để hồn thể thành hình, rồi nói: «ai hại các ngươi thì tìm người đó, người không liên quan thì đừng đụng». Hàng chục hồn tản đi. Cả đêm không ai trong thôn ngủ được: nạn nhân cũ hiện ra trước mặt kẻ đã hại mình, kể lại từng lời chúng nói, khiến chúng hoảng loạn tự khai. Kẻ nào bỏ chạy thì bị lụa trắng trói lại chờ công an. Một đốm sáng nhỏ rơi vào tay cô: mảnh hồn Sở Vũ Ni; Giác Không nhận giữ để siêu độ khi hồn đủ rõ. Vài hồn không còn kẻ thù xin theo cô làm quỷ tu.",
+   "tieu": "Đêm nay không ai bị hại, chỉ là bị nói ra sự thật. Còn các hồn không còn kẻ thù, hỏi họ muốn đi đâu.",
+   "cast": "hd_luu,hd_vuni,hd_giac,tc",
+   "ch": [
+    {
+     "t": "Để các hồn tự quyết đi hay ở",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Các hồn nhìn nhau rồi mỗi người một ý. Có người tiễn biệt, có người xin ở lại làm bạn cô.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Một số hồn tranh cãi nhau khiến cả đêm ồn ào, cô phải dàn xếp rất lâu.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Khuyên các hồn đi luân hồi",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô nói về kiếp sau, về giấc ngủ không còn hận. Nhiều hồn gật đầu và xếp hàng chờ Giác Không tiễn.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Một vài hồn vẫn mang hận, quay đi không nghe. Cô chỉ biết nhìn theo.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Xin vài hồn đi theo làm tai mắt cho cô",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Mấy hồn tự nguyện theo cô, hứa báo tin về những nơi giống Thanh Hà. Cô có thêm tai mắt.",
+      "d": {
+       "sinh": 1
+      },
+      "f": "quy_theo"
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Các hồn dè dặt, chỉ có một người dám đáp lời, ngập ngừng đi theo.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Đêm trăng cong, Thanh Hà thôn. Cô cho các tiểu quỷ hiện hình trước kẻ đã hại mình để chúng tự khai; mảnh hồn Sở Vũ Ni rơi vào tay cô.",
+   "no": 14
+  },
+  {
+   "id": "d15",
+   "scene": "vhall",
+   "place": "Nhà thôn trưởng · Chiều rồi đêm",
+   "kind": "chon",
+   "title": "Đạo sĩ vào thôn",
+   "text": "Quan Vân Sơn mặc đạo bào, cùng Kha Nhược Tư và Tam Phát, người thanh niên trong thôn đi mời đạo sĩ, bước vào thôn. Nhược Tư vừa nhớ ơn cứu mạng vừa ghét quỷ nên xin hắn «bắt nhưng đừng hại»; hắn chỉ biết lời sư phụ: quỷ là phải diệt. Dân thôn gom cả vào một nhà. Đêm đó cô bước qua cửa, mặc váy thể thao và đi giày trắng như lúc chết; hắn nhận ra ngay khí lực của một Quỷ Vương. Cô có thể khuyên hắn bỏ đi, đối đầu, hoặc chờ hắn ra tay trước để đọc cách đánh của hắn.",
+   "tieu": "Người này mạnh thật, nhưng ngươi mạnh hơn. Nghĩ xem ngươi muốn hắn nhớ gì về đêm nay.",
+   "cast": "hd_luu,hd_son,hd_nhuoc,hd_tam,tc",
+   "ch": [
+    {
+     "t": "Khuyên hắn bỏ đi vì thôn này đã bị phanh phui",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Hắn nhìn cô rất lâu, tay nắm chặt chuôi kiếm nhưng không rút ra. Hắn hiểu cô đã khác hẳn nguyên tác.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Hắn cười lạnh: «Quỷ nói thì ta nghe sao được.» Không khí căng như dây đàn.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Đối đầu trực diện với hắn",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô giơ tay bắt luôn lưỡi kiếm gỗ đào. Hắn tái mặt khi thấy pháp khí của mình không có tác dụng.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Hắn tung liền mấy lá bùa cùng lúc, cô phải đỡ và lùi lại một chút.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chờ hắn ra tay trước, đọc cách đánh của hắn",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô đứng im quan sát từng chiêu. Hắn đánh cẩn thận nhưng chưa đủ sức, và cô nắm rõ hắn mạnh ở đâu.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Một lá bùa trúng vai cô, bỏng rát. Cô nhận ra hắn không phải kẻ dễ dãi.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Chiều rồi đêm, nhà thôn trưởng. Quan Vân Sơn tới cùng Nhược Tư và Tam Phát; dân thôn đã gom cả vào một nhà.",
+   "no": 15
+  },
+  {
+   "id": "d16",
+   "scene": "vhall",
+   "place": "Nhà thôn trưởng · Cùng đêm",
+   "kind": "chon",
+   "title": "Hai mươi phút",
+   "text": "Quan Vân Sơn rút hồ lô, kiếm gỗ đào, bùa chú: hồ lô bị bóp vỡ, kiếm bị gập, bùa bị xé; hắn nói cô là «Quỷ Vương cấp». Cô lạnh giọng: mọi người đàn ông từng tham gia phải tự khai, giao nộp sổ ghi những người bị bán và nộp mình cho công an trong hai mươi phút, nếu không cô dựng kết giới nhốt cả thôn cho tới khi tiểu quỷ nói chuyện với từng người. Nhược Tư khuyên họ làm theo. Quan Vân Sơn nghiến răng: «hôm nay ta chưa thu được ngươi». Khi thời hạn gần hết, vẫn có người run quá không đứng dậy nổi.",
+   "tieu": "Hai mươi phút là lời ngươi đã nói. Nới hay không là việc của ngươi, nhưng cả thôn đang nhìn.",
+   "cast": "hd_luu,hd_son,hd_nhuoc,hd_truong,tc",
+   "ch": [
+    {
+     "t": "Nới thêm thời hạn cho người run quá",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô gật đầu, người đầu tiên đứng dậy đem sổ nộp rồi từng người nối nhau. Cả đêm không ai bị thương.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô nới nhưng có kẻ nhân đó định bỏ trốn. Cô phải trói lại bằng lụa.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Giữ nguyên hai mươi phút, không bớt một giây",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Hết hai mươi phút, hầu hết mọi người đã nộp sổ và tự khai. Số còn lại bị tiểu quỷ nhắc nhở nên cũng sợ hãi làm theo.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Có kẻ chống đối đến cùng, tiểu quỷ phải ra tay mạnh hơn. Cô cảm thấy đêm này nặng nề hơn dự tính.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    },
+    {
+     "t": "Nhờ Nhược Tư đứng ra làm trung gian",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Nhược Tư đứng giữa nói chuyện, nhiều người nghe theo lời cô ta hơn lời quỷ. Chuyện êm hơn.",
+      "d": {
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Dân thôn không tin Nhược Tư, có kẻ định đẩy cô ta ngã. Cô phải kéo cô ta lại.",
+      "d": {
+       "sinh": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Cùng đêm, nhà thôn trưởng. Dân thôn quỳ dưới nền; cô ra hạn hai mươi phút để họ tự khai, nộp sổ và nộp mình cho công an.",
+   "no": 16
+  },
+  {
+   "id": "d17",
+   "scene": "vgate",
+   "place": "Nhà thôn trưởng · Ngay sau đó",
+   "kind": "chon",
+   "title": "Người đạo sĩ lạ",
+   "text": "Một đạo sĩ trẻ lướt vào; ánh mắt hai người chạm nhau, cô thấy một linh hồn rất quen. Tiểu Châu khẽ nói: «Đây là người cần cảm hóa». Anh là Mục Cửu, 25 tuổi, đạo sĩ bắt yêu, tình cờ đi ngang vì nghe trong thôn có «nghiệp vụ». Quan Vân Sơn mời anh «thu quỷ» và hứa trả thù lao; anh từ chối vì chỉ bắt yêu, vì «nhân quả quản không được» và vì biết không đánh nổi cô. Cô đưa ra thù lao nhờ anh thu liễm hài cốt của mình. Anh nhìn món đồ, rồi nhìn cô, ánh mắt không rời.",
+   "tieu": "Đó là Mục Cửu, người ngươi phải cảm hóa. Ác niệm 100, lạnh nhạt và ham tiền. Đưa đúng thứ, đúng lúc.",
+   "cast": "hd_luu,hd_cuu,hd_son,tc",
+   "ch": [
+    {
+     "t": "Đưa ngay Tu Linh Châu làm thù lao",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Anh cầm hạt châu, mắt sáng lên rất nhanh rồi giấu đi. «Nhận,» anh nói gọn. Cô nhận ra anh ham tiền thật, và cũng thật thà.",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 8,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Anh nhíu mày: «Ngươi đưa trước như thế, ta lại ngại.» Anh nhận nhưng giữ khoảng cách.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chờ anh làm xong rồi mới trả",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh gật đầu: «Nói được làm được.» Lần đầu hai người có thỏa thuận rõ ràng.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh nghĩ cô muốn quỵt thù lao, giọng lạnh đi. Cô phải giải thích mãi.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Đưa thanh kiếm cổ thay cho hạt châu",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh nhìn thanh kiếm cổ rất lâu, tỏ ra mê mẩn. Anh nhận ngay mà không cò kè.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Anh lắc đầu: «Kiếm này nặng nhân quả, ta chưa dám nhận.» Cô phải đổi món khác.",
+      "d": {
+       "sinh": -2,
+       "hac": 2,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Ngay sau đó, nhà thôn trưởng. Mục Cửu, đạo sĩ bắt yêu, tình cờ đi ngang; cô nhờ anh thu liễm hài cốt của mình bằng thù lao từ kho Tiểu Châu.",
+   "no": 17
+  },
+  {
+   "id": "d18",
+   "scene": "rtop",
+   "place": "Vách Đoạn Hồn · Chiều",
+   "kind": "nan",
+   "title": "Nhặt xương và hợp đồng hai mươi năm",
+   "text": "Chiều, Mục Cửu đứng trên mũi kiếm cắm vào vách Đoạn Hồn, nhặt từng khúc xương của cô bỏ vào túi vải. Cô dặn «cẩn thận, rơi vỡ thì không đẹp». Anh hỏi sao cô ngã, cô kể ngắn gọn. Anh hỏi cô có đi đầu thai không; cô đáp «không, ta chỉ ở nhân gian hai mươi năm». Cô trả thanh kiếm cổ để thuê anh giúp hai mươi năm; anh nhận ngay rồi lặng lẽ tính từng năm trong đầu. Anh không nói gì thêm, nhưng đôi tay đang nhặt xương hơi chậm lại.",
+   "tieu": "Hắn đang tính từng năm một. Ngươi nói gì bây giờ, hắn nhớ đến cuối cùng. Nói thẳng hay giấu đều có giá của nó.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Nói thẳng: «Khi hết hạn, ta sẽ không ở đây nữa»",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Anh im lặng rất lâu rồi chỉ gật đầu: «Hai mươi năm. Ta nhớ.» Cô nhận ra mình vừa thành thật với anh.",
+      "d": {
+       "ac": -3,
+       "hac": -4,
+       "hao": 4,
+       "sinh": 1
+      },
+      "f": "noi_han"
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh cắn môi, bàn tay siết chặt túi xương. Lời cô làm anh lạnh đi hẳn.",
+      "d": {
+       "sinh": -2,
+       "hao": -2
+      }
+     },
+     "soft": 1
+    },
+    {
+     "t": "Đưa thanh kiếm cổ ngay, rồi nói chuyện khác",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh cầm kiếm, mắt không rời cô. Cô lái sang chuyện đạo thuật, không khí dịu đi.",
+      "d": {
+       "ac": -1,
+       "hac": 2,
+       "hao": 2,
+       "sinh": 1
+      }
+     },
+     "b": 0.64,
+     "bad": {
+      "x": "Anh nhìn cô lâu, rồi lẩm bẩm: «Hai mươi năm là bao lâu?» Cô lúng túng không đáp.",
+      "d": {
+       "sinh": -2,
+       "hac": 2,
+       "hao": -2
+      }
+     }
+    },
+    {
+     "t": "Hẹn trả kiếm sau khi an táng xong",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh gật đầu, lặng lẽ tiếp tục nhặt xương. Có vẻ anh yên lòng vì chưa phải nhận thứ gì vội.",
+      "d": {
+       "ac": -3,
+       "hac": -4,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh nhíu mày vì cảm giác bị hoãn, rồi quay đi nhặt xương không nói.",
+      "d": {
+       "sinh": -2,
+       "hao": -2
+      }
+     }
+    }
+   ],
+   "ctx": "Chiều, vách Đoạn Hồn. Mục Cửu thu nhặt xương của cô; cô nói chỉ ở nhân gian hai mươi năm và thuê anh giúp trong khoảng thời gian đó.",
+   "forced": 1,
+   "no": 18
+  },
+  {
+   "id": "d19",
+   "scene": "zvilla",
+   "place": "Biệt thự mới của họ Dịch · Hôm sau",
+   "kind": "chon",
+   "title": "Người cha lạnh nhạt",
+   "text": "Hôm sau, Mục Cửu gọi điện cho Dịch Phúc Sinh theo số cô đọc rồi cả hai tới biệt thự mới. Người cha hỏi «hài cốt ở đâu» bằng giọng bình đạm, chỉ muốn mua mộ để táng, không thiết linh đường; vợ mới Thạch Diễm Chi bồng con trai sơ sinh nói không thể «đen đủi» trong nhà. Ông nói «người chết sao bằng người sống». Mục Cửu hỏi về mẹ cô; ông đáp bà gặp tai nạn vì đi tìm con. Trong lúc ông nói, Diễm Chi cúi đầu, môi nhếch lên rất khẽ.",
+   "tieu": "Người cha đó, ngươi thấy rồi đấy. Còn người phụ nữ bên cạnh ông ta, nhớ cái nhếch môi của cô ta. Ta chưa nói gì, nhưng ngươi tự nghĩ đi.",
+   "cast": "hd_luu,hd_cuu,hd_phuc,hd_diem,tc",
+   "ch": [
+    {
+     "t": "Ở lại nghe hết cuộc nói chuyện",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô nghe được cả lời ông nói với Mục Cửu lẫn nụ cười thoáng qua của Diễm Chi. Cô ghi nhớ từng chi tiết.",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 8,
+       "sinh": 1
+      },
+      "f": "thay_diem"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô nghe lẫn mất mấy câu, chỉ nhớ nụ cười lạ của Diễm Chi.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Ra ngoài trước, nhường Mục Cửu nói chuyện",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Mục Cửu thay cô nói chuyện, giọng đều đều, không để ông biết cô đang nghe. Cô nhẹ lòng hơn.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Mục Cửu liếc nhìn cô một cái rất lâu, nhưng ông cha không để ý. Cô ra ngoài mà lòng nặng trĩu.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    },
+    {
+     "t": "Hỏi Mục Cửu giúp mình điều muốn biết",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Mục Cửu gật đầu, tìm cách hỏi khéo về ngày tai nạn. Cô thêm một mảnh ghép nhỏ.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Câu hỏi quá thẳng, ông cha cau mày không đáp. Cả hai đành rút lui.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    }
+   ],
+   "ctx": "Hôm sau, biệt thự mới của họ Dịch. Mục Cửu cùng cô tới gặp cha cô; vợ mới của ông là Thạch Diễm Chi.",
+   "no": 19
+  },
+  {
+   "id": "d20",
+   "scene": "graves",
+   "place": "Nghĩa trang · Ba ngày sau",
+   "kind": "duyen",
+   "title": "Mua đất an táng",
+   "text": "Ba ngày sau, Mục Cửu mang hoa tươi tới nghĩa trang. Anh tính ra khối đất có phong thủy tốt nhất thành phố, mua bằng tiền của mình rồi đặt xương cô xuống; anh không lập đàn siêu độ vì biết cô không thể bị siêu độ như hồn thường. Cô ngồi trên bia mộ nói chuyện; anh giảng cho cô cách xem long mạch, vì sao nơi này «đông ấm hạ mát». Anh nói bằng giọng bình thản, nhưng rất tỉ mỉ.",
+   "tieu": "Hắn mua bằng tiền của hắn. Ngươi biết ý nghĩa thế nào chứ? Học lấy cách xem đất, sau này có ích.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Đòi anh dạy kỹ cách xem đất",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh hơi bất ngờ rồi giảng từng bước. Cô học nhanh đến mức anh phải thôi không giảng dài nữa.",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Anh giảng quá nhanh, cô nghe không kịp. Anh phải nói lại từ đầu.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Nhận mảnh đất làm quà, ngồi nghe anh nói",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô cười nhận, anh nói nhiều hơn thường lệ. Hai người ngồi bên mộ mãi tới chiều.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh đột nhiên im bặt, hình như ngượng. Cô không hiểu mình nói sai điều gì.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Hỏi anh vì sao không lập đàn siêu độ",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh đáp: «Ngươi không thể bị siêu độ như hồn thường. Hơn nữa, ta chưa muốn.» Câu nói nhẹ mà cô nhớ rất lâu.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Anh nhìn đi chỗ khác: «Chuyện đó không cần nói.» Không khí hơi gượng.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Ba ngày sau, nghĩa trang. Mục Cửu mua đất, đặt xương cô xuống; anh giảng cho cô cách xem long mạch.",
+   "learn": {
+    "n": "Chọn đất an táng",
+    "s": "tri",
+    "v": 1
+   },
+   "no": 20
+  },
+  {
+   "id": "d21",
+   "scene": "zmall",
+   "place": "Trung tâm thương mại · Cùng ngày",
+   "kind": "chon",
+   "title": "Đi mua quần áo",
+   "text": "Cùng ngày, Mục Cửu mặc đạo bào đứng giữa các quầy nữ trang. Cô chỉ chỗ nào, anh lấy váy ở đó, giỏ đầy cả; các nhân viên bàn tán, các khách nữ ghen tị «sao không có bạn trai như đạo trưởng». Cô trêu: «đạo trưởng hiểu ý em quá, hay thử một hồi nhân quỷ chi luyến?». Anh đáp «bổn đạo chỉ bắt yêu», nhưng tai đỏ. Tối đó anh sẽ đốt hết quần áo cho cô tại mộ. Cô có thể trêu tiếp hoặc chuyển sang chuyện chính.",
+   "tieu": "Hắn đỏ tai rồi, ngươi thấy không? Trêu vừa phải thôi, kẻo hắn trốn mất.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Trêu tiếp: «đạo trưởng ngại gì ngoài đời»",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Anh quay đi chỗ khác, nhưng bước chân nhanh hẳn. Cô cười thầm vì thấy anh vụng về dễ thương.",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Anh nghiêm mặt: «Bổn đạo không đùa.» Cô thấy mình hơi quá, vội lảng chuyện.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chuyển sang chuyện chính, hỏi anh về Quan thiên sĩ",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh nghiêm túc hẳn và kể những gì anh biết. Cô chọn được điều cần hỏi.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh lắc đầu: «Chuyện này không nên nói ở đây.» Cả hai đành thôi.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Để anh tự chọn, cô chỉ gật đầu nhận",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh chọn gần hết đều hợp ý cô. Cô nghĩ có lẽ anh quan sát cô nhiều hơn cô tưởng.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Anh chọn nhầm vài bộ không hợp, hai người nhìn nhau bật cười gượng.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Cùng ngày, trung tâm thương mại. Mục Cửu mua váy cho cô để đốt tại mộ; nhân viên và khách nữ bàn tán.",
+   "no": 21
+  },
+  {
+   "id": "d22",
+   "scene": "ztea",
+   "place": "Quán cà phê gần nhà cũ họ Dịch · Hôm sau",
+   "kind": "duyen",
+   "title": "Hỏi thăm về mẹ",
+   "text": "Hôm sau, Mục Cửu tìm bạn cũ của Kiều Hiểu Dao. Hồng Thục Liên kể mẹ cô đi tìm con rồi bị tai nạn; hai tháng sau cha cưới Thạch Diễm Chi, người sinh non rồi mất con; nhà họ Dịch dọn đi vì biệt thự «có thứ gì đó» và đạo sĩ đã tới. Bà nhắc thêm Diễm Chi có người anh tên Thạch Đại Hải hay lui tới nhà. Cô ghi chép từng lời trên khăn giấy.",
+   "tieu": "Ghi từng chữ, từng cái tên. Những thứ nhỏ nhặt này sau sẽ thành sợi dây xâu cả vụ việc lại.",
+   "cast": "hd_luu,hd_cuu,hd_lien,tc",
+   "ch": [
+    {
+     "t": "Hỏi thêm về biệt thự và những người đạo sĩ đã tới",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Bà Liên nhớ ra tên «Quan thiên sĩ» do hàng xóm nhắc lại. Cô ghi vào đầu một cái tên quan trọng.",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 8,
+       "sinh": 1
+      },
+      "f": "hoi_biet_thu"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Bà Liên chỉ nhớ mang máng, câu trả lời lẫn lộn. Cô ghi được rất ít.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Hỏi về những ngày trước tai nạn của mẹ",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Bà Liên kể mẹ cô hay đứng nhìn ảnh con rồi thở dài. Cô nghe mà nghẹn lại.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      },
+      "f": "hoi_tai_nan"
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Bà Liên bật khóc, không nói tiếp được. Cô thấy mình hơi tàn nhẫn khi hỏi.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Hỏi bà về Thạch Diễm Chi",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Bà Liên nhíu mày kể những điều cô ta từng nói bóng gió. Cô có thêm một góc nhìn.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Bà ngập ngừng, sợ nói oan. Cô đành thôi.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Hôm sau, quán cà phê gần nhà cũ họ Dịch. Hồng Thục Liên, bạn cũ của mẹ cô, kể về tai nạn và Thạch Diễm Chi.",
+   "learn": {
+    "n": "Ghi chép lời khai",
+    "s": "tri",
+    "v": 1
+   },
+   "no": 22
+  },
+  {
+   "id": "d23",
+   "scene": "zvilla",
+   "place": "Biệt thự cũ của họ Dịch · Tối",
+   "kind": "chon",
+   "title": "Biệt thự cũ và nhóm đạo sĩ",
+   "text": "Tối, hai người trèo tường vào biệt thự cũ của họ Dịch, sạch sẽ, chưa bán. Không thấy quỷ nào. Mục Cửu nhắn vào nhóm đạo sĩ của mình hỏi ai từng tới nhà họ Dịch; được biết Quan thiên sĩ và Quan Vân Sơn tới rồi, hồn phía trong «hồn phi phách tán». Anh giải thích vì sao đa số đạo sĩ không nhận vụ có nhân quả nặng còn Quan thiên sĩ thì nhận mọi vụ bắt quỷ. Cô cười, nụ cười rất lạnh.",
+   "tieu": "Quan thiên sĩ chính là ông thầy của Vân Sơn, người đã diệt hồn mẹ ngươi. Ta nhắc đủ rồi đấy, ngươi tự quyết định đi.",
+   "cast": "hd_luu,hd_cuu,hd_thien,hd_son,tc",
+   "ch": [
+    {
+     "t": "Hỏi thêm về Quan thiên sĩ",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Mục Cửu kể rõ: thiên sĩ đạo hạnh ba mươi năm, bùa chú rất mạnh, nhận mọi vụ bắt quỷ không sợ nhân quả. Cô biết đối thủ là ai.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      },
+      "f": "biet_thien"
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Mục Cửu ngập ngừng, chỉ nói những điều chung chung. Cô chưa nắm được điểm yếu của ông.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Hỏi thêm về Quan Vân Sơn",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Mục Cửu kể hắn là đồ đệ trung thành, nghe sư phụ từng chữ. Cô hiểu hắn bị dẫn lạc đường.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Mục Cửu lắc đầu: «Hắn khó đoán lắm.» Cô không hỏi thêm được.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Xin xem lịch sử nhóm chat để tìm manh mối khác",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Mục Cửu đưa điện thoại cho cô lướt qua các tin cũ. Cô thấy vài dòng nhắc tới «nhà họ Dịch» từ nhiều năm trước.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Nhóm chat đã xóa tin cũ từ lâu. Cô chẳng tìm được gì.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Tối, biệt thự cũ của họ Dịch. Mục Cửu hỏi nhóm đạo sĩ và biết Quan thiên sĩ đã diệt hồn trong nhà này.",
+   "no": 23
+  },
+  {
+   "id": "d24",
+   "scene": "zstreet",
+   "place": "Quốc lộ nhỏ nơi mẹ cô gặp nạn · Đêm",
+   "kind": "duyen",
+   "title": "Chiêu Hồn Phiên trên quốc lộ",
+   "text": "Đêm, hai người tới quốc lộ nhỏ nơi mẹ cô gặp nạn, không có camera. Không tìm ra dấu vết, cô giương Chiêu Hồn Phiên; các cô hồn dã quỷ quanh đó kéo đến, ngoan ngoãn nghe lệnh. Mục Cửu phải luyện hóa thanh kiếm để chịu nổi âm khí. Cô đưa ảnh Kiều Hiểu Dao cho họ xem; mấy hồn nhớ ra, ghép lại được biển số xe nhưng không nhớ mặt tài xế.",
+   "tieu": "Ghép được biển số là tốt rồi. Đừng bắt các hồn nhớ nhiều quá, chúng yếu lắm.",
+   "cast": "hd_luu,hd_cuu,hd_hieu,tc",
+   "ch": [
+    {
+     "t": "Hỏi từng hồn một, ghép từng mảnh",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô kiên nhẫn ghép từng con số một. Cuối cùng cả biển số hiện ra rõ ràng, không thiếu một ký tự.",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 8,
+       "sinh": 1
+      },
+      "f": "co_bien_so"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Các hồn nhớ lẫn lộn, hai con số cuối ghép sai. Cô phải tra thêm sau.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Gom cả bọn lại, hỏi chung một lượt",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Các hồn nói chồng lên nhau, nhưng cô lắng nghe và gạn được phần lớn biển số.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      },
+      "f": "co_bien_so"
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Các hồn cãi nhau ầm ĩ, cô nghe không ra gì, mất cả nửa đêm.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Đưa ảnh mẹ cho hồn gần nhất xem trước",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Một hồn nhớ ngay: «Bà ấy hay đi qua đây.» Từ đó cô khơi ra được cả chuỗi ký ức.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Hồn đó lắc đầu, hoảng sợ rồi tan mất. Cô tiếc rẻ.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Đêm, quốc lộ nhỏ nơi mẹ cô gặp tai nạn, không có camera. Cô gọi các cô hồn dã quỷ quanh đây bằng Chiêu Hồn Phiên.",
+   "learn": {
+    "n": "Tra cứu biển số xe",
+    "s": "tri",
+    "v": 1
+   },
+   "no": 24
+  },
+  {
+   "id": "d25",
+   "scene": "zstreet",
+   "place": "Quốc lộ nhỏ · Ngay sau đó",
+   "kind": "chon",
+   "title": "Cánh cửa luân hồi",
+   "text": "Những hồn ấy là người xứ khác, không ai đón về nên thành cô hồn dã quỷ. Cô ngồi xếp bằng tụng kinh Vãng Sinh; ánh sáng vàng chảy vào hồn thể, khuôn mặt biến dạng dần trở lại như lúc sống; cô dựng cánh cửa luân hồi, họ cúi lạy rồi bước vào. Mục Cửu đứng sững: «quỷ siêu độ quỷ, ta chưa từng thấy». Cô thoáng buồn vì hồn mình chưa thể làm điều đó. Chỉ khi đã học kinh Vãng Sinh, cô mới siêu độ được.",
+   "tieu": "Ngươi học kinh Vãng Sinh chưa? Nếu có rồi thì dựng cửa ngay, họ đang chờ đấy.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Tụng kinh Vãng Sinh, dựng cửa luân hồi",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Ánh sáng vàng tràn khắp quốc lộ. Từng hồn bước vào cửa với gương mặt thanh thản. Mục Cửu nhìn cô rất lâu, không nói gì.",
+      "d": {
+       "ac": -10,
+       "hac": -5,
+       "hao": 9,
+       "sinh": 1
+      }
+     },
+     "b": 0.52,
+     "bad": {
+      "x": "Cánh cửa chớp tắt giữa chừng, vài hồn kịp bước vào, số còn lại bị hút ngược. Cô kiệt sức.",
+      "d": {
+       "sinh": -5,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Dặn các hồn những điều cần nhớ ở kiếp sau",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Các hồn gật đầu nghe, rồi lần lượt rời đi trong yên lặng. Cô có cảm giác như tiễn người thân.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Các hồn nghe không rõ, nhiều người ngập ngừng không dám đi. Cô nói đi nói lại.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Tiễn lặng lẽ, không nói thêm lời nào",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô đứng im nhìn từng hồn tan vào ánh sáng nhạt. Mục Cửu khẽ chạm vai cô.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Một vài hồn quay đầu nhìn cô như muốn nói gì rồi tan. Cô thấy mình hơi lạnh nhạt.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Ngay sau đó, quốc lộ nhỏ. Các cô hồn dã quỷ không ai đón về; cô muốn đưa họ đi luân hồi.",
+   "no": 25
+  },
+  {
+   "id": "d26",
+   "scene": "zstreet",
+   "place": "Đường ra nhà ga · Chiều muộn",
+   "kind": "chon",
+   "title": "Chuyện trò trên đường",
+   "text": "Chiều muộn, hai người đi bộ về phía nhà ga. Cô hỏi tuổi anh (25), có vợ chưa (chưa), từng có người yêu chưa (chưa). Anh kể: cha mẹ tin lời người ngoài cho rằng anh mang vận xui nên khi sư phụ muốn đưa đi họ đồng ý ngay; sư phụ dạy đạo thuật nhưng ít nói. Cô nói thẳng nếu anh thích cô thì nói sớm, vì cô chỉ có hai mươi năm. Anh không đáp, đổi đề tài: «kể về em đi».",
+   "tieu": "Hắn vừa kể chuyện nhà hắn cho ngươi nghe, tức là hắn tin ngươi rồi. Đừng làm hắn hối hận.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Kể thật nhiều về mình, về mẹ và Thanh Hà thôn",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Anh nghe không ngắt lời, mắt không rời cô. Khi cô kể xong, anh chỉ nói: «Ta nghe cả rồi.»",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 8,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô kể lẫn lộn, nửa chừng thì nghẹn lại. Anh chỉ lặng lẽ đưa chai nước.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Hỏi tiếp về cha mẹ và sư phụ của anh",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh nói thêm vài câu về sư phụ. Giọng anh chậm và nhẹ hơn thường lệ.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh đóng lại: «Chuyện cũ rồi.» Cô không hỏi thêm.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Nói thẳng: «Nếu anh thích em thì cứ nói sớm»",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh khựng bước, tai đỏ ửng. Anh không đáp, nhưng bước chân chậm lại để đi cạnh cô.",
+      "d": {
+       "ac": -7,
+       "hac": -4,
+       "hao": 7,
+       "sinh": 1
+      }
+     },
+     "b": 0.54,
+     "bad": {
+      "x": "Anh đứng lại chết lặng: «Đừng nói như thế.» Anh bước nhanh về phía trước, không nhìn cô.",
+      "d": {
+       "sinh": -2,
+       "hao": -2
+      }
+     }
+    }
+   ],
+   "ctx": "Chiều muộn, đường ra nhà ga. Mục Cửu kể ngắn về cha mẹ bỏ rơi và sư phụ ít nói; cô nói thẳng mình chỉ có hai mươi năm.",
+   "no": 26
+  },
+  {
+   "id": "d27",
+   "scene": "ylobby",
+   "place": "Khu chung cư cao cấp · Hôm sau",
+   "kind": "hiem",
+   "title": "Chủ xe và lời thú tội",
+   "text": "Hôm sau, từ biển số, hai người tìm ra chủ xe đời hai, rồi tới kẻ gây tai nạn: Thạch Đại Hải, anh trai Thạch Diễm Chi. Mục Cửu đợi ngoài cổng khu chung cư; cô lướt vào phòng hắn. Hắn hoảng loạn khai hết khi cô hóa thành hình ảnh quen thuộc: Diễm Chi xúi hắn đâm bà để mở đường cho mình. Cô thi triển «bị ma quỷ ám ảnh» khiến hắn đi tự thú.",
+   "tieu": "Hắn là kẻ cầm lái, nhưng người xúi mới là kẻ đáng sợ. Ngươi biết cách làm hắn khai rồi đấy.",
+   "cast": "hd_luu,hd_hai,hd_diem,hd_hieu,tc",
+   "ch": [
+    {
+     "t": "Hóa thành bóng mẹ để hắn tự khai",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Hắn quỳ sụp, khóc lóc khai hết: Diễm Chi xúi giục, hứa chia tiền. Cô thôi miên hắn đi tự thú trong đêm.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 5,
+       "sinh": 1
+      },
+      "f": "hai_khai"
+     },
+     "b": 0.54,
+     "bad": {
+      "x": "Hắn thét lên rồi ngất lịm, không nói được gì. Cô đành chờ hắn tỉnh, mất cả buổi và hao hồn lực.",
+      "d": {
+       "sinh": -8
+      }
+     }
+    },
+    {
+     "t": "Hóa thành chính mình lúc 19 tuổi",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Hắn nhìn cô bàng hoàng rồi thú nhận. Cô thấy hắn run lên vì hối hận thật.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Hắn không nhận ra cô, chỉ thấy bóng người lạ và hét ầm lên. Cô phải rút khỏi phòng.",
+      "d": {
+       "sinh": -5,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Chặn đường hắn ở bãi xe, nói chuyện thẳng thắn",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Hắn sững sờ khi biết cô là con gái của người bị đâm. Hắn cúi đầu thú nhận từng chi tiết.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Hắn chửi rồi định bỏ chạy. Cô phải dùng lụa giữ lại, tốn sức.",
+      "d": {
+       "sinh": -4,
+       "hac": 2,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Hôm sau, khu chung cư cao cấp. Mục Cửu đợi ngoài cổng; cô lướt vào phòng Thạch Đại Hải, kẻ lái xe gây tai nạn.",
+   "no": 27
+  },
+  {
+   "id": "d28",
+   "scene": "zoffice",
+   "place": "Phòng làm việc của họ Dịch · Cùng ngày",
+   "kind": "chon",
+   "title": "Người cha trắng tay",
+   "text": "Cùng ngày, Diễm Chi bị bắt. Dịch Phúc Sinh ngồi cười hài lòng trong phòng làm việc, tự nói với mình: ông từng nói «nếu không có Hiểu Dao thì cưới em» nên cô ta mới ra tay; ông thuê đạo sĩ diệt hồn vợ cũ; ông chiếm tập đoàn nhà vợ, đổi tên từ Kiều thị thành Dịch thị. Cô nghe hết. Cô có thể thi triển «bị ma quỷ ám ảnh» để ông bán hết tài sản và quyên cho nơi cần, hoặc chỉ lấy lại phần thuộc về mẹ.",
+   "tieu": "Ông ta đã nói ra hết rồi, giờ ngươi muốn trả giá thế nào? Nhưng nhớ, người đứng cạnh ngươi cũng đang nhìn.",
+   "cast": "hd_luu,hd_cuu,hd_phuc,hd_diem,tc",
+   "ch": [
+    {
+     "t": "Để ông bán hết tài sản, trắng tay",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Ba ngày sau ông bán hết cổ phần, nhà cửa và quyên đi. Ông đứng ngơ ngác giữa phố, không còn gì. Mục Cửu nhìn cô, thấy cô lạnh hơn thường lệ.",
+      "d": {
+       "ac": -6,
+       "hac": 3,
+       "hao": 2,
+       "sinh": 1
+      }
+     },
+     "b": 0.64,
+     "bad": {
+      "x": "Ông chống cự bản năng, cô phải ép mạnh. Ông gục xuống bất tỉnh, tin bay khắp thành phố.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -2
+      }
+     }
+    },
+    {
+     "t": "Chỉ lấy lại phần thuộc về mẹ, trả Kiều thị về đúng chủ",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô cho ông ký trả lại quyền sở hữu và mẹ cô được rửa oan phần nào. Mục Cửu thở nhẹ: «Em biết dừng đúng lúc.»",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 8,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Ông ký nhưng giữ lại phân nửa tài sản, cô lại phải đòi thêm một lần nữa.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Để ông tự đi thú nhận việc thuê đạo sĩ",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Ông đến đồn công an trong cơn thất thần. Câu chuyện đạo sĩ khiến cảnh sát ghi chép rất lâu.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Ông bỏ đi nửa đường, lang thang không rõ ở đâu. Cô phải theo dõi hơn nữa.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    }
+   ],
+   "ctx": "Cùng ngày, phòng làm việc của Dịch Phúc Sinh. Diễm Chi đã bị bắt; ông tự thú nhận việc thuê đạo sĩ và chiếm tập đoàn nhà vợ.",
+   "no": 28
+  },
+  {
+   "id": "d29",
+   "scene": "zvilla",
+   "place": "Đầu phố trước biệt thự · Ba ngày sau",
+   "kind": "chon",
+   "title": "Lá bùa hóa tro",
+   "text": "Ba ngày sau, trên cổ Dịch Phúc Sinh, lá bùa của Quan thiên sĩ hóa tro. Mục Cửu cảnh báo ông sẽ tới, đạo hạnh rất cao. Cô cười: «đến đúng lúc». Anh dặn cô đừng đi một mình; cô trêu «anh bảo vệ em à?». Anh đáp nhỏ: «không chỉ vì em thuê anh». Biệt thự cũ có an bảo mà ông sẽ phải phá, và chỗ đó có thể giữ chân một Quỷ Vương nếu cô đứng đúng trận.",
+   "tieu": "Ông ta tới rồi, và đây là trận khó nhất từ đầu tới giờ. Ngươi dặn Mục Cửu thế nào, hắn sẽ nhớ cách ngươi lo cho hắn.",
+   "cast": "hd_luu,hd_cuu,hd_thien,tc",
+   "ch": [
+    {
+     "t": "Dặn anh đứng chờ ngoài cổng, đừng vào",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh nhíu mày rất lâu rồi gật đầu: «Ta chờ.» Cô nhìn anh quay đi mà thấy ấm lòng, vì anh nghe lời cô dù không thích.",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 8,
+       "sinh": 1
+      },
+      "f": "dan_cuu"
+     },
+     "b": 0.6,
+     "bad": {
+      "x": "Anh cãi lại mấy câu, rồi mới miễn cưỡng đồng ý. Cô cảm thấy anh không yên tâm.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Để anh đi cùng tới tận cửa",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Anh đi sát cạnh cô tới cửa biệt thự, mắt không rời cô. Hai người im lặng nhưng yên tâm.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh lo lắng quá, nắm tay cô suýt kéo đi. Cô phải nhắc anh buông ra.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Đi một mình, nói anh khỏi lo",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh nhìn theo bóng cô khuất, bước chân hơi chùng. Cô tự tin hơn nhưng lòng thấy hơi áy náy.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Anh không nói gì, chỉ lẳng lặng theo sau xa xa. Cô nhận ra anh lo hơn mình tưởng.",
+      "d": {
+       "sinh": -2,
+       "hac": 2,
+       "hao": -2
+      }
+     }
+    }
+   ],
+   "ctx": "Ba ngày sau, đầu phố trước biệt thự. Lá bùa trên cổ Dịch Phúc Sinh hóa tro, báo hiệu Quan thiên sĩ sắp tới.",
+   "no": 29
+  },
+  {
+   "id": "d30",
+   "scene": "zvilla",
+   "place": "Biệt thự cũ họ Dịch · Sáng",
+   "kind": "hiem",
+   "title": "Cuộc gặp trong biệt thự",
+   "text": "Quan thiên sĩ cùng Quan Vân Sơn tới, hét «tỉnh lại» khiến Dịch Phúc Sinh thoát khỏi cơn ám; ông hoảng hốt nhận ra mình đã trắng tay và khai tên cô, ngày sinh. Quan Vân Sơn giật mình vì cái tên. Quan thiên sĩ cầm kiếm xông vào biệt thự; cô dẫn ông vào, khóa cửa. Ông tinh thông bùa chú và hơn ba mươi năm đạo thuật. Đối đầu trực diện thì nguy, dụ ông ra khỏi trận bàn rồi rút hồn thì nhẹ hơn.",
+   "tieu": "Ông này không giống Vân Sơn đâu. Đánh thẳng thì đau, dụ ông ra khỏi trận thì dễ hơn. Ngươi tự chọn.",
+   "cast": "hd_luu,hd_thien,hd_son,hd_phuc,tc",
+   "ch": [
+    {
+     "t": "Dụ ông ra khỏi trận bàn rồi rút hồn",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Ông bám theo cô vào chỗ trống. Cô rút hồn ông khỏi thân, ký ức bị phong, ông thành một cô hồn bình thường.",
+      "d": {
+       "ac": -9,
+       "hac": -5,
+       "hao": 7,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Ông nhận ra mưu và quay đầu phá bùa. Cô phải đỡ một đòn nặng mới rút được hồn ông.",
+      "d": {
+       "sinh": -5
+      }
+     }
+    },
+    {
+     "t": "Đối đầu trực diện, dùng sức Quỷ Vương",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô chịu đựng sức bùa chú để áp sát. Ông ngã xuống, hồn bị rút, ký ức bị phong. Cô đứng dậy thở dốc.",
+      "d": {
+       "ac": -7,
+       "hac": -4,
+       "hao": 7,
+       "sinh": 1
+      }
+     },
+     "b": 0.54,
+     "bad": {
+      "x": "Bùa chú dồn dập đánh vào hồn thể, cô gần như tan ra. Phải mất rất lâu mới rút được hồn ông.",
+      "d": {
+       "sinh": -15
+      }
+     }
+    },
+    {
+     "t": "Giương Chiêu Hồn Phiên gọi hồn quanh biệt thự giúp sức",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Các hồn trong biệt thự kéo tới quấy nhiễu, ông rối loạn. Cô nhân lúc đó rút hồn ông ra.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Các hồn sợ bùa của ông, tản đi gần hết. Cô phải tự ra tay một mình.",
+      "d": {
+       "sinh": -8,
+       "hao": -1
+      }
+     }
+    }
+   ],
+   "ctx": "Sáng, biệt thự cũ họ Dịch. Quan thiên sĩ và Quan Vân Sơn phá bùa cho Dịch Phúc Sinh rồi xông vào; cô dẫn ông vào và khóa cửa.",
+   "no": 30
+  },
+  {
+   "id": "d31",
+   "scene": "zstreet",
+   "place": "Vỉa hè ngoài biệt thự · Cùng ngày",
+   "kind": "nan",
+   "title": "Một giờ chờ đợi",
+   "text": "Mục Cửu đứng ngoài cổng, không xông vào được vì an bảo; Quan Vân Sơn phá cửa không nổi, Dịch Phúc Sinh ôm con chạy mất. Một giờ trôi qua; anh định phá an bảo xông vào thì cô bay ra cửa sổ, nhẹ ghé xuống lưng anh. Anh hỏi «có bị thương không?» và tay anh run. Cô đáp «Quan thiên sĩ đã thành cô hồn dã quỷ». Anh nhìn cô rất lâu, và cô thấy đôi mắt anh đỏ.",
+   "tieu": "Hắn đã đứng chờ cả một giờ, một giờ dài nhất đời hắn. Ngươi nói gì lúc này, hắn nhớ cả đời.",
+   "cast": "hd_luu,hd_cuu,hd_son,tc",
+   "ch": [
+    {
+     "t": "Trấn an trước: «Em không sao, anh đừng sợ»",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Anh siết chặt tay cô đến đau, rồi từ từ buông. Giọng anh khàn: «Đừng làm ta sợ như thế nữa.»",
+      "d": {
+       "ac": -4,
+       "hac": -4,
+       "hao": 5,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh không nghe lọt tai, chỉ nhìn cô như thể sợ cô tan mất ngay lúc này.",
+      "d": {
+       "sinh": -2,
+       "hao": -2
+      }
+     }
+    },
+    {
+     "t": "Kể hết chuyện đã xảy ra trong biệt thự",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh nghe cô kể từng chi tiết, mặt tái đi nhưng bình tĩnh dần. Cô cảm thấy anh bớt căng thẳng.",
+      "d": {
+       "ac": -5,
+       "hac": -6,
+       "hao": 5,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô kể lộn xộn, anh càng hoảng hơn. Anh ngắt lời: «Đừng kể nữa.»",
+      "d": {
+       "sinh": -2,
+       "hao": -3
+      }
+     }
+    },
+    {
+     "t": "Trêu cho anh bớt căng: «Anh lo như bà cụ ấy»",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh phì cười, tai đỏ lên rồi quay đi. Không khí dịu xuống, dù anh vẫn chưa hết sợ.",
+      "d": {
+       "ac": -1,
+       "hac": 2,
+       "hao": 2,
+       "sinh": 1
+      }
+     },
+     "b": 0.64,
+     "bad": {
+      "x": "Anh không cười, nhìn cô nghiêm nghị: «Không đùa được.» Cô thấy mình lỡ lời.",
+      "d": {
+       "sinh": -2,
+       "hac": 2,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Cùng ngày, vỉa hè ngoài biệt thự. Mục Cửu chờ một giờ ngoài cổng; cô vừa rút hồn Quan thiên sĩ.",
+   "forced": 1,
+   "no": 31
+  },
+  {
+   "id": "d32",
+   "scene": "zrest",
+   "place": "Nhà trọ nhỏ · Tối",
+   "kind": "duyen",
+   "title": "Nhân quả quá nặng",
+   "text": "Tối, tại nhà trọ nhỏ, Quan Vân Sơn tìm thấy xác thầy và cầu xin giúp trong nhóm đạo sĩ; không ai nhận: «nhà họ Dịch nhân quả quá nặng, liên quan là chết», «Quan thiên sĩ nhân quả quấn thân mà chết, tiếc cho Vân Sơn bị dẫn lạc đường». Mục Cửu đọc cho cô nghe; cô cười: nhiều người trong giới đúng là biết đường. Cô giải thích số phận của hồn Quan thiên sĩ: ông sẽ phải nếm cảm giác bị đạo sĩ đuổi giết mà không làm gì sai.",
+   "tieu": "Ngươi vừa nói với hắn một bí mật lớn. Hắn giữ hay không là chuyện sau, nhưng ngươi đã chọn tin hắn.",
+   "cast": "hd_luu,hd_cuu,hd_son,hd_thien,tc",
+   "ch": [
+    {
+     "t": "Nói thật kế hoạch dành cho hồn Quan thiên sĩ",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Mục Cửu nghe xong, im lặng rất lâu rồi nói: «Ta hiểu.» Anh không phản đối, và cô cảm thấy anh nhớ lời cô.",
+      "d": {
+       "ac": -6,
+       "hac": -6,
+       "hao": 6,
+       "sinh": 1
+      },
+      "f": "ke_kh"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Mục Cửu nhíu mày: «Nghe khắc nghiệt quá.» Anh không nói gì nữa, nhưng cô cảm giác anh nghĩ nhiều.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chỉ cười, không nói thêm điều gì",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Mục Cửu nhìn cô một lúc rồi thôi hỏi. Cô nhận ra anh tôn trọng điều cô không nói.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh nhìn cô lâu, rồi quay đi. Cô thấy có khoảng cách vô hình giữa hai người.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Nhờ anh hỏi giới đạo sĩ thêm về Quan thiên sĩ",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh gật đầu và nhắn thêm vào nhóm. Vài người nhắn riêng cho anh kể chuyện cũ của ông.",
+      "d": {
+       "ac": -1,
+       "hac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Không ai trả lời, nhóm chat yên ắng. Mục Cửu cũng lúng túng.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Tối, nhà trọ nhỏ. Quan Vân Sơn cầu xin giúp trong nhóm đạo sĩ nhưng không ai nhận; Mục Cửu đọc tin cho cô nghe.",
+   "no": 32
+  },
+  {
+   "id": "d33",
+   "scene": "zstreet",
+   "place": "Đường vắng · Đêm",
+   "kind": "chon",
+   "title": "Lời thổ lộ",
+   "text": "Đêm, trên đường vắng, cô nằm trên lưng anh. Cô gọi anh «A Cửu»; anh nói mình bình thường, không biết vì sao cô để ý. Cô khen gương mặt và bản lĩnh của anh. Anh nói «nhân quỷ chi luyến cũng không phải không thể, hình như anh thích em». Cô cười: «đại khả ái». Anh hỏi «hai mươi năm sau em đi đâu?»; cô đáp «có lẽ Quỷ giới». Anh quyết tu luyện thật chăm để tìm cô. Gió đêm lạnh, nhưng lưng anh rất ấm.",
+   "tieu": "Hắn vừa nói ra điều hắn giấu kỹ nhất. Đừng nhìn vào hạn hai mươi năm lúc này, hãy nhìn vào hắn.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Kéo anh lại ôm, nói «em cũng thích anh»",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Anh khựng người, rồi từ từ vòng tay ôm lại. Anh nói rất khẽ: «Anh sẽ tìm em, dù trăm năm.»",
+      "d": {
+       "ac": -10,
+       "hac": -7,
+       "hao": 10,
+       "sinh": 1
+      }
+     },
+     "b": 0.52,
+     "bad": {
+      "x": "Anh luống cuống đẩy cô ra: «Đừng làm ta hoảng.» Cả hai im lặng đi tiếp, tim cô đập loạn.",
+      "d": {
+       "sinh": -3,
+       "hao": -2
+      }
+     }
+    },
+    {
+     "t": "Dặn anh: «Đừng hối hận vì em»",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh siết chặt tay cô: «Không hối hận.» Anh nói chắc nịch đến mức cô tin ngay.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh im lặng, chỉ bước chậm hơn. Câu nói của cô khiến anh nghĩ nhiều.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Đùa rằng anh là đạo sĩ đẹp trai nhất giới",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh bật cười, tai đỏ ửng: «Đừng nói bậy.» Nhưng bước chân anh nhẹ hẳn.",
+      "d": {
+       "ac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Anh lắc đầu: «Em đừng đùa lúc này.» Cô nhận ra mình lỡ lời.",
+      "d": {
+       "sinh": -2,
+       "hac": 2,
+       "hao": -2
+      }
+     }
+    }
+   ],
+   "ctx": "Đêm, đường vắng. Cô nằm trên lưng Mục Cửu; anh vừa nói «hình như anh thích em» và hỏi cô sẽ đi đâu sau hai mươi năm.",
+   "no": 33
+  },
+  {
+   "id": "d34",
+   "scene": "rhill",
+   "place": "Các ngọn núi xa · Nhiều năm",
+   "kind": "duyen",
+   "title": "Những ngôi làng khác",
+   "text": "Tiểu Châu tóm lược mấy năm: tiểu quỷ báo tin về những thôn tương tự, hai người cùng đi; cô phanh phui, các cô gái mới bị lừa được cứu, những kẻ chủ mưu bị đưa ra công an; những người phụ nữ ở lâu trong làng mà không muốn đi, cô không ép và cũng không thương. Cô lập hồ sơ gửi cơ quan chức năng. Trên sườn núi hai người ngồi bên nhau nhìn xuống thôn; Mục Cửu hỏi «Lựu Lựu làm vậy vì chuyện của mình à?»; cô đáp «đã đến đây thì để lại điều gì đó». Tiếng tăm của cô lan khắp giới huyền học.",
+   "tieu": "Bao năm rồi đấy. Ngươi làm được nhiều hơn chính ngươi tưởng, và chuyện này sẽ được nhớ rất lâu.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Gửi hồ sơ trực tiếp cho cơ quan chức năng",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Hồ sơ rõ ràng, đủ chứng cứ khiến cơ quan chức năng xử lý nhanh. Nhiều cô gái mới được cứu.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Hồ sơ thiếu một vài mục, cơ quan chức năng trả lại nhờ bổ sung. Chậm mất một chuyến.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Nhờ các cô gái từng được cứu đứng ra làm chứng",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Lam Lam và Ngọc Chi đứng ra cùng nhiều cô gái khác. Lời họ đầy sức nặng, ai cũng lắng nghe.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Có cô gái sợ hãi không dám xuất hiện. Cô đành thôi không ép.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Cùng anh ghi lại bản đồ các làng nghi vấn",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô và Mục Cửu cùng vẽ bản đồ, chia nhau từng ngọn núi. Hai người gần nhau hơn qua việc chung.",
+      "d": {
+       "ac": -2,
+       "hao": 4,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Bản đồ lẫn lộn mấy địa danh cũ, phải sửa lại nhiều lần.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Nhiều năm sau, các ngọn núi xa. Cô và Mục Cửu cùng đi phanh phui những thôn giống Thanh Hà; tiếng tăm của cô lan khắp giới huyền học.",
+   "learn": {
+    "n": "Lập hồ sơ chứng cứ",
+    "s": "tri",
+    "v": 1
+   },
+   "no": 34
+  },
+  {
+   "id": "d35",
+   "scene": "rhill",
+   "place": "Một sườn núi · Nhiều năm sau",
+   "kind": "chon",
+   "title": "Đạo sĩ chặn đường",
+   "text": "Quan Vân Sơn đoán cô ở đó vì Mục Cửu cũng ở đó, cùng nhóm đạo sĩ chặn đường lên sườn núi. Mọi người sửng sốt khi Mục Cửu thừa nhận quan hệ: «sủng lão bà». Quan Vân Sơn gọi anh phản bội; các đạo sĩ khác rút lui vì biết nhà họ Dịch nhân quả quá nặng. Mục Cửu giữ cô sau lưng, cô nắm tay anh. Cô có thể đứng sau anh, bước ra trước mặt Vân Sơn, hoặc nói cho các đạo sĩ khác nghe nhân quả nhà họ Dịch.",
+   "tieu": "Hắn vừa nói ra trước mặt cả giới đạo sĩ rằng ngươi là người của hắn. Chuyện nhỏ thôi, nhưng ngươi nên đáp lại cho đàng hoàng.",
+   "cast": "hd_luu,hd_cuu,hd_son,tc",
+   "ch": [
+    {
+     "t": "Bước ra trước mặt Quan Vân Sơn nói chuyện",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Vân Sơn nhìn cô rất lâu. Hắn cắn môi, hạ kiếm: «Ta chưa phục, nhưng ta nghe.» Mục Cửu đứng cạnh cô, nhìn hai người.",
+      "d": {
+       "ac": -9,
+       "hac": -6,
+       "hao": 8,
+       "sinh": 1
+      }
+     },
+     "b": 0.52,
+     "bad": {
+      "x": "Vân Sơn gằn giọng: «Quỷ dụ dỗ đạo sĩ!» Hắn rút kiếm nhưng bị các đạo sĩ khác can lại. Cô lùi lại, mệt mỏi.",
+      "d": {
+       "sinh": -4,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Đứng sau Mục Cửu, nắm tay anh",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Mục Cửu thay cô đối đáp, không để Vân Sơn tới gần. Cô thấy ấm áp vì được che chở.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Mục Cửu cãi lại quá gắt, không khí căng thẳng suýt thành ra tay. Cô phải kéo anh lại.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Kể cho các đạo sĩ khác nghe nhân quả nhà họ Dịch",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Các đạo sĩ nghe xong im lặng rút lui. Vân Sơn còn lại một mình, lúng túng.",
+      "d": {
+       "ac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Các đạo sĩ không tin cô, chỉ càng gờm hơn. Mục Cửu phải đứng ra chắn.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Nhiều năm sau, một sườn núi. Quan Vân Sơn cùng nhóm đạo sĩ chặn đường; Mục Cửu công khai nhận quan hệ với cô.",
+   "no": 35
+  },
+  {
+   "id": "d36",
+   "scene": "vdark",
+   "place": "Một ngôi làng giống Thanh Hà · Đêm",
+   "kind": "chon",
+   "title": "Phiên tòa của tiểu quỷ",
+   "text": "Nhiều năm sau, ở một ngôi làng giống Thanh Hà, cô dựng kết giới nhốt Quan Vân Sơn và Kha Nhược Tư bên trong cùng dân thôn: «kẻ thù của người ta ở trong, ngươi đứng xem». Các tiểu quỷ hiện thành hình, nhằm vào kẻ đã hại họ; không ai bị giết, các gã bị trói, khai tội và chờ công an. Quan Vân Sơn gào «thay trời hành đạo không phải thế này»; cô đáp đạo sĩ cũng là kẻ thay trời, chỉ khác là chọn người để thay. Cô siêu độ cho các hồn trong ánh sáng vàng; Quan Vân Sơn nhìn, sững sờ.",
+   "tieu": "Hắn chưa từng thấy quỷ làm điều này. Ngươi để họ về đâu, hắn sẽ nhớ.",
+   "cast": "hd_luu,hd_son,hd_nhuoc,tc",
+   "ch": [
+    {
+     "t": "Siêu độ tất cả các hồn trong ánh sáng vàng",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Ánh sáng tràn khắp làng. Từng hồn bước vào cửa luân hồi với nụ cười nhẹ nhõm. Quan Vân Sơn đứng chết lặng, kiếm trong tay run run.",
+      "d": {
+       "ac": -8,
+       "hac": -6,
+       "hao": 8,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cửa luân hồi chớp tắt giữa chừng, vài hồn chưa kịp bước vào. Cô phải dựng lại, tốn rất nhiều sức.",
+      "d": {
+       "sinh": -5
+      }
+     }
+    },
+    {
+     "t": "Để vài hồn ở lại canh làng như bóng ma báo hiệu",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Vài hồn tự nguyện ở lại, đứng quanh làng như một lời cảnh báo cho những ai định làm điều ác. Cô thấy hợp lý.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Có hồn chán nản vì phải ở lại, tan dần giữa đêm. Cô tiếc nuối.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Để Nhược Tư đứng ra quyết định thay các hồn",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Nhược Tư lặng đi, rồi chọn cách siêu độ cùng cô. Cô ta rơi nước mắt, và cô thấy cô ta đã thay đổi.",
+      "d": {
+       "ac": -2,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Nhược Tư do dự quá lâu, các hồn mất kiên nhẫn. Cô phải tự ra quyết định.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Nhiều năm sau, một ngôi làng giống Thanh Hà, đêm. Cô dựng kết giới để Vân Sơn và Nhược Tư chứng kiến các tiểu quỷ đòi lại công bằng.",
+   "no": 36
+  },
+  {
+   "id": "d37",
+   "scene": "rhill",
+   "place": "Sườn đồi · Vài ngày sau",
+   "kind": "chon",
+   "title": "Cuộc gọi của Kha Nhược Tư",
+   "text": "Vài ngày sau, điện thoại Mục Cửu đổ chuông trên sườn đồi. Nhược Tư gọi bằng số lạ: nói mình từng cho rằng cô lạm sát, nhưng sau vụ một bạn cùng lớp bị hại và cha mẹ cô ấy tóc bạc cả đầu, cô ta hiểu cô đã làm gì; cô ta cảm ơn muộn và báo Quan Vân Sơn đã mời Trí Huyền đại sư, người rất lợi hại, tới chặn cô. Cô có thể để lại một hạt Phòng Ngự Châu trên chạc cây lớn gần nơi họ đứng, để dành cho đứa con gái tương lai của cô ta, hoặc giữ lại cho mình.",
+   "tieu": "Cô ta đã nói lời cảm ơn rồi. Hạt châu kia ngươi để lại cho ai là việc của ngươi, nhưng nhớ: chuyện nhỏ hôm nay là chuyện lớn mai sau.",
+   "cast": "hd_luu,hd_cuu,hd_nhuoc,hd_tri,tc",
+   "ch": [
+    {
+     "t": "Để lại Phòng Ngự Châu trên chạc cây cho con gái cô ta",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô đặt hạt châu trên chạc cây, tỏa ánh sáng nhạt. Nhược Tư im lặng nhận lời, giọng nghẹn. Mục Cửu nhìn cô, không hỏi gì.",
+      "d": {
+       "ac": -6,
+       "hac": -6,
+       "hao": 5,
+       "sinh": 1
+      },
+      "f": "chau"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Gió thổi tung chiếc lá khiến hạt châu rơi xuống bãi cỏ. Cô phải tìm lại mất một lúc, rồi đặt lên chỗ cao hơn.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Giữ hạt châu lại cho mình",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô cất hạt châu vào nạp giới. Nhược Tư không biết gì, và chuyện qua êm.",
+      "d": {
+       "ac": -1,
+       "hac": 2,
+       "hao": 2,
+       "sinh": 1
+      }
+     },
+     "b": 0.64,
+     "bad": {
+      "x": "Hạt châu rung nhẹ trong tay như muốn đi chỗ khác. Cô thấy bất an mà không biết vì sao.",
+      "d": {
+       "sinh": -2,
+       "hac": 3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Nhờ Nhược Tư chuyển lời nhắn tới con gái cô ta",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Nhược Tư hứa chuyển. Cô ta nói giọng chân thành: «Tôi sẽ dạy con tôi đừng sợ cô.»",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Nhược Tư lúng túng, sợ mình nói không tròn. Cô thấy lời nhắn ấy chưa đủ vững.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    }
+   ],
+   "ctx": "Vài ngày sau, sườn đồi. Nhược Tư gọi cảm ơn muộn và báo Vân Sơn mời Trí Huyền đại sư tới chặn cô.",
+   "no": 37
+  },
+  {
+   "id": "d38",
+   "scene": "rforest",
+   "place": "Ngoài một ngôi làng đã phanh phui · Hôm sau",
+   "kind": "duyen",
+   "title": "Trí Huyền đại sư",
+   "text": "Hôm sau, ngoài một ngôi làng đã phanh phui, đại sư Trí Huyền ngồi dưới gốc cây, Quan Vân Sơn đứng cạnh. Trí Huyền nói cô có «lòng người hộ thể, lời cảm tạ từ bốn phương đổ về», từ chối ra tay dù Quan Vân Sơn trách móc: ông không muốn tự rước nhục. Điện thoại ông reo: đệ tử kêu «hàng trăm tiểu quỷ quấy chùa, áp không nổi». Ông xin cô dạy kinh Vãng Sinh đầy đủ và cách mở cửa luân hồi; cô đồng ý với điều kiện ông lo những hồn còn lại sau mỗi lần cô phanh phui một làng. Quan Vân Sơn bỏ đi, thề sẽ giết hết quỷ trên đời.",
+   "tieu": "Ông ta là người sáng suốt, nhưng ông ta cũng đang cần ngươi. Dạy đủ hay dạy ít, đều tùy ngươi.",
+   "cast": "hd_luu,hd_tri,hd_son,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Dạy ông trọn bộ kinh Vãng Sinh và cách tọa thiền",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô dạy từng bước, ông ghi nhớ nhanh. Khi ông tụng thử, ánh sáng nhẹ chảy ra từ tay. Cô gật đầu hài lòng.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Ông tụng sai nhịp, ánh sáng chớp tắt. Cô phải dạy lại từng đoạn, tốn nhiều thời gian.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Chỉ dạy phần mở cửa luân hồi",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Ông học nhanh phần cần nhất và hứa tự rèn thêm. Cô yên tâm để ông lo phần còn lại.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Phần mở cửa cần nền tảng, ông học mãi không thông. Cô đành hẹn dạy thêm sau.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Hỏi ông vì sao từ chối chặn cô",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Ông cười: «Ta nhìn thấy ngươi có nhiều người cảm tạ. Ta không dại gì ngược lòng người.» Cô nhớ lời ông.",
+      "d": {
+       "ac": -2,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Ông chỉ cười không đáp. Cô cảm giác ông nhìn thấu nhiều hơn mình nghĩ.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Hôm sau, ngoài một ngôi làng đã phanh phui. Trí Huyền đại sư từ chối ra tay chặn cô và nhờ cô dạy kinh Vãng Sinh vì chùa quá nhiều tiểu quỷ.",
+   "learn": {
+    "n": "Hướng dẫn tọa thiền",
+    "s": "tri",
+    "v": 1
+   },
+   "no": 38
+  },
+  {
+   "id": "d39",
+   "scene": "rforest",
+   "place": "Rừng đêm · Sau cuộc gọi của Nhược Tư",
+   "kind": "chon",
+   "title": "Sính lễ và lời thề",
+   "text": "Một đêm trong rừng, sau cuộc gọi của Nhược Tư, Mục Cửu ngồi cạnh cô bên đống lửa. Cô đeo vào ngón anh chiếc nạp giới chứa đồ quý, gọi là «sính lễ»; anh thề: «mỗi kiếp anh sẽ không làm em tổn thương; nếu có, anh sẽ cô độc cả đời». Cô nói «kiếp sau gặp lại, nếu anh ngoan». Anh hỏi sao không phải tái tục tiền duyên; cô nói «đó là kiếp sau, anh phải làm lại từ đầu».",
+   "tieu": "Hắn thề nghiêm túc đấy. Nhận lời thề nghĩa là ngươi cũng phải giữ lời hứa của mình.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Nhận lời thề của anh",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô gật đầu, anh nắm chặt tay cô. Ngọn lửa bập bùng soi rõ nụ cười hiếm hoi của anh.",
+      "d": {
+       "ac": -10,
+       "hac": -7,
+       "hao": 9,
+       "sinh": 1
+      },
+      "f": "nhan_the"
+     },
+     "b": 0.6,
+     "bad": {
+      "x": "Cô vừa gật đầu thì anh đã quay đi, giọng nghẹn: «Em đừng nhìn ta thế.» Cô đột nhiên thấy buồn.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Nói: «Đừng thề, chỉ cần nhớ là đủ»",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh im lặng rất lâu rồi gật đầu: «Ta nhớ.» Cô thấy anh nhẹ hơn trước.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Anh hơi sững, rồi cúi đầu: «Em không tin ta sao?» Cô vội giải thích, mãi mới yên.",
+      "d": {
+       "sinh": -3,
+       "hao": -2
+      }
+     }
+    },
+    {
+     "t": "Đùa rằng sính lễ chưa đủ",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh bật cười, rút thêm viên ngọc đặt vào tay cô. Không khí nhẹ bẫng.",
+      "d": {
+       "ac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Anh tưởng thật, bối rối lục túi tìm thêm. Cô phải cười giải thích.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Một đêm trong rừng, sau cuộc gọi của Nhược Tư. Cô trao nạp giới làm sính lễ; Mục Cửu thề không làm cô tổn thương ở mỗi kiếp.",
+   "no": 39
+  },
+  {
+   "id": "d40",
+   "scene": "gdream",
+   "place": "Nhà Kha Nhược Tư · Mười mấy năm sau",
+   "kind": "duyen",
+   "title": "Cái tát ngày sinh nhật",
+   "text": "Mười mấy năm sau, Tiểu Châu chiếu lại cảnh ở nhà Kha Nhược Tư. Quan Tử Du, 19 tuổi, sinh viên năm nhất, chờ cha tới nửa đêm để thổi nến; Quan Vân Sơn về trễ, quên mất ngày sinh nhật. Cô con gái nói «quỷ không phải đều xấu, như Dịch Tiểu Lựu»; ông tát hai cái. Tử Du bỏ nhà đi; Nhược Tư tuyên bố ly hôn nếu ông không bỏ nghiệp bắt quỷ. Tiểu Châu chiếu lại cho cô xem; Mục Cửu nghe xong nói «cứng quá thì gãy».",
+   "tieu": "Đứa trẻ này sẽ là người ngươi còn gặp lại. Cứ nhớ khuôn mặt cô bé, ta sẽ nhắc sau.",
+   "cast": "hd_luu,hd_tu,hd_son,hd_nhuoc,tc",
+   "ch": [
+    {
+     "t": "Xem hết cảnh tượng, nhớ kỹ từng chi tiết",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô nhìn không bỏ sót chi tiết nào, kể cả cái ngoái đầu của Tử Du khi bước ra cửa. Cô nhớ khuôn mặt ấy rất lâu.",
+      "d": {
+       "ac": -5,
+       "hac": -6,
+       "hao": 5,
+       "sinh": 1
+      },
+      "f": "tu_du_di"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Cô quay đi giữa chừng vì không chịu nổi cảnh tượng. Chi tiết quan trọng bị bỏ sót.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Ngắt cảnh, không muốn xem nữa",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô yêu cầu Tiểu Châu dừng. Mục Cửu khẽ đặt tay lên vai cô.",
+      "d": {
+       "ac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Tiểu Châu ngập ngừng: «Ngươi chắc không?» Cô thấy mình hơi lạnh lùng.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    },
+    {
+     "t": "Hỏi Mục Cửu nghĩ gì về chuyện đó",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Mục Cửu suy nghĩ rồi nói: «Cứng quá thì gãy. Ta không muốn thành ra như vậy.» Cô hiểu thêm anh.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Mục Cửu im lặng, chỉ lắc đầu. Cô không biết anh nghĩ gì.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    }
+   ],
+   "ctx": "Mười mấy năm sau, nhà Kha Nhược Tư. Tiểu Châu chiếu lại cảnh Quan Tử Du bị cha tát trong ngày sinh nhật rồi bỏ nhà đi.",
+   "no": 40
+  },
+  {
+   "id": "d41",
+   "scene": "rhill",
+   "place": "Sườn núi quen · Tối",
+   "kind": "nan",
+   "title": "Còn một năm",
+   "text": "Tối, trên sườn núi quen, Tiểu Châu nhắc: còn chưa đầy hai năm. Cô kể với Mục Cửu «em phải rời đi». Anh siết tay: «anh sẽ xuống Quỷ giới tìm em»; cô nói «em không ở Quỷ giới, em đi đầu thai, kiếp sau mới gặp được». Anh lo hai người lệch tuổi; cô trêu «nếu em là bà lão anh có chê không?»; anh đáp «thì anh cũng là ông lão». Giọng anh nhẹ, nhưng bàn tay anh đang nắm cô run rất khẽ.",
+   "tieu": "Hắn biết rồi, và hắn sợ hơn bao giờ hết. Ngươi nói thế nào lúc này sẽ quyết định hắn bước tiếp ra sao.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Nói «em đi đầu thai» để anh khỏi đi tìm bừa",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Anh im lặng, rồi gật đầu: «Ta sẽ chờ em ở kiếp sau.» Cô thấy anh đã nghĩ lại, dù mắt anh vẫn đỏ.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh nhíu mày: «Em có chắc không?» Cô không trả lời được, và anh siết tay chặt hơn.",
+      "d": {
+       "sinh": -3,
+       "hao": -3
+      }
+     }
+    },
+    {
+     "t": "Nói thật: «Em cũng không biết sẽ đi đâu»",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Anh nhìn cô thật lâu, rồi ôm cô vào lòng: «Ta biết. Ta vẫn sẽ chờ.» Cô thấy mình đã nói đúng điều cần nói.",
+      "d": {
+       "ac": -7,
+       "hac": -4,
+       "hao": 7,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Anh cắn môi, nước mắt chực trào, quay đi: «Đừng nói thế.» Cô thấy hối hận vì lỡ lời.",
+      "d": {
+       "sinh": -3,
+       "hao": -3
+      }
+     }
+    },
+    {
+     "t": "Nắm tay anh, không nói gì",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Hai người ngồi bên nhau thật lâu. Gió núi thổi qua, anh vẫn nắm chặt tay cô.",
+      "d": {
+       "ac": -1,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Anh chờ cô nói điều gì đó, nhưng im lặng kéo dài khiến anh lo hơn. Cô thấy mình thiếu sót.",
+      "d": {
+       "sinh": -2,
+       "hac": 2,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Tối, sườn núi quen. Tiểu Châu báo còn chưa đầy hai năm; cô nói với Mục Cửu rằng mình sắp phải rời đi.",
+   "forced": 1,
+   "no": 41
+  },
+  {
+   "id": "d42",
+   "scene": "town",
+   "place": "Một thị trấn nhỏ · Hôm sau",
+   "kind": "chon",
+   "title": "Quan thiên sĩ trong góc phố",
+   "text": "Hôm sau, Mục Cửu dẫn cô tới xem: Quan thiên sĩ co rúm trong góc râm, tránh nắng, không có ký ức; mười mấy năm nay ông bị đạo sĩ đuổi giết, bạn quỷ của ông chết dưới lưỡi kiếm của chính đồ đệ mình. Cô nói «chúc ông may mắn», ông ngơ ngác. Cô có thể trả lại ký ức cho ông, hoặc để thêm một năm cho ông tự nếm trải.",
+   "tieu": "Ông ta đã phải trả giá đủ lâu rồi. Trả lại ký ức hay để thêm, cả hai đều có lý do.",
+   "cast": "hd_luu,hd_cuu,hd_thien,tc",
+   "ch": [
+    {
+     "t": "Trả lại ký ức cho ông",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Ông ngồi xuống, nhớ lại tất cả. Ánh mắt ông dần sáng lại, rồi cúi đầu lặng im rất lâu. Cô thấy ông đã hiểu mình sai.",
+      "d": {
+       "ac": -7,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      },
+      "f": "tra_ky_uc"
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Ký ức quay về quá nhanh khiến ông ôm đầu rên rỉ. Cô phải dừng lại, chờ ông bình tĩnh.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Để thêm một năm nữa rồi tính",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô để ông lại góc phố. Mục Cửu gật đầu, không phản đối.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Một đạo sĩ trẻ lại phát hiện ra ông, cô phải ra tay xua đi. Chuyện càng thêm rối.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Đứng nhìn một lúc rồi đi",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô quay đi. Ông ngẩng nhìn theo bóng cô, như nhớ ra điều gì mà không nhớ nổi.",
+      "d": {
+       "ac": -1,
+       "hao": 2,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Cô bước đi mà thấy lòng nặng nề, không rõ mình đã quyết định đúng chưa.",
+      "d": {
+       "sinh": -3,
+       "hac": 3,
+       "hao": -3
+      }
+     }
+    }
+   ],
+   "ctx": "Hôm sau, một thị trấn nhỏ. Quan thiên sĩ co rúm trong một góc phố, không còn ký ức, bị đạo sĩ đuổi giết suốt mười mấy năm.",
+   "no": 42
+  },
+  {
+   "id": "d43",
+   "scene": "vgate",
+   "place": "Thanh Hà thôn · Vài ngày sau",
+   "kind": "hiem",
+   "title": "Hạt châu rung",
+   "text": "Vài ngày sau, trên đường, Tiểu Châu báo: hạt châu nứt, Quan Tử Du gặp nguy. Mục Cửu chở cô tới Thanh Hà thôn; Nhược Tư và Quan Vân Sơn đã đến nhà Phùng Mỹ Hà. Mỹ Hà, người cô từng cứu, quay lại vì ba con trai đến tuổi cưới vợ, đã lừa Tử Du lên thôn bằng lời ngon ngọt. Cô nói với Mỹ Hà: «cơ hội đã cho, ngươi đã chọn». Quan Vân Sơn nghiến răng đứng nhìn, không rút kiếm: cảnh sát tới bắt cả nhà.",
+   "tieu": "Đứa trẻ đó đang gặp nguy. Còn hạt châu, ngươi đã để lại chưa? Nếu chưa thì ngươi phải tự đỡ thay.",
+   "cast": "hd_luu,hd_cuu,hd_my,hd_tu,hd_son,hd_nhuoc,tc",
+   "ch": [
+    {
+     "t": "Đi thẳng xuống vách đá tìm Tử Du",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô lướt thẳng xuống vách trước khi ai kịp ngăn. Mục Cửu theo sau, bảo vệ lối đi cho cô.",
+      "d": {
+       "ac": -6,
+       "hac": -3,
+       "hao": 5,
+       "sinh": 1
+      }
+     },
+     "b": 0.54,
+     "bad": {
+      "x": "Đường xuống vách bị dân thôn chặn. Cô phải mở lối bằng sức mạnh, hồn lực hao nhiều.",
+      "d": {
+       "sinh": -6
+      }
+     }
+    },
+    {
+     "t": "Xử Phùng Mỹ Hà trước, chặn tay sau rồi mới tìm Tử Du",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Cô nói với Mỹ Hà vài câu lạnh lùng. Bà ta ngã ngồi, run rẩy. Cảnh sát đến đúng lúc, bắt cả nhà họ Phùng.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Mỹ Hà gào lên chạy trốn, kéo theo mấy người con. Cô phải đuổi theo, mất thời gian.",
+      "d": {
+       "sinh": -4,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Nhờ Mục Cửu chở thẳng tới vách đá bằng kiếm",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Mục Cửu cầm kiếm bay thẳng tới vách. Cô đến nơi trước cả khi Tử Du kịp hoảng.",
+      "d": {
+       "ac": -7,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Kiếm bay lệch hướng vì gió núi. Cả hai phải hạ xuống rồi chạy bộ thêm quãng đường dài.",
+      "d": {
+       "sinh": -5
+      }
+     }
+    }
+   ],
+   "ctx": "Vài ngày sau, Thanh Hà thôn. Phùng Mỹ Hà quay lại thôn và lừa Quan Tử Du lên đây; Nhược Tư và Vân Sơn đã đến nhà Mỹ Hà.",
+   "no": 43
+  },
+  {
+   "id": "d44",
+   "scene": "rtop",
+   "place": "Vách Đoạn Hồn · Cùng ngày",
+   "kind": "hiem",
+   "title": "Dưới vách đá",
+   "text": "Cùng ngày, Tử Du bỏ trốn khỏi thôn rồi trượt chân rơi xuống vách Đoạn Hồn; hạt châu nứt nhưng giữ được, áo cô bé mắc đúng vào mỏm đá nơi bộ xương Tiểu Lựu từng nằm. Cô nói đùa: «chỗ này ta ở rồi». Quan Vân Sơn không đỡ kịp, cô nâng Tử Du lên. Tử Du nhìn cô không rời mắt và xin chụp ảnh chung; cô đồng ý. Kha Nhược Tư khóc cảm ơn. Cô có thể nói «ta chỉ tình cờ», hoặc nhắc cô ta rằng đây là hậu quả của nhân quả.",
+   "tieu": "Cô bé đó còn sống nhờ ngươi. Ngươi nói gì với mẹ cô bé lúc này, cô ta sẽ nhớ cả đời.",
+   "cast": "hd_luu,hd_tu,hd_nhuoc,hd_son,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Nói «ta chỉ tình cờ đi ngang qua»",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Nhược Tư gật đầu, nước mắt rơi. Cô ta hiểu cô không muốn nhận ơn, và càng kính trọng cô hơn.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Nhược Tư không tin, nhìn cô hoang mang. Không khí gượng gạo.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Nhắc cô ta: «Đây là hậu quả của nhân quả»",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Nhược Tư cúi đầu rất lâu, rồi quay sang nhìn chồng. Cô ta không nói gì, nhưng ánh mắt đã đổi.",
+      "d": {
+       "ac": -7,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Nhược Tư giận dữ: «Cô đang trách tôi à?» Cô phải giải thích mãi mới yên.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Để Tử Du chụp ảnh chung rồi mới rời đi",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Tử Du ngượng ngùng đứng cạnh cô, mỉm cười. Bức ảnh đó sau này sẽ ở lại rất lâu trong điện thoại cô bé.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Tử Du run rẩy cầm máy, tay còn sợ hãi nên ảnh bị nhòe. Cô mỉm cười dịu giọng.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    }
+   ],
+   "ctx": "Cùng ngày, vách Đoạn Hồn. Quan Tử Du trượt chân rơi xuống nhưng được hạt châu giữ; cô nâng cô bé lên.",
+   "no": 44
+  },
+  {
+   "id": "d45",
+   "scene": "zvilla",
+   "place": "Nhà Kha Nhược Tư · Vài ngày sau",
+   "kind": "chon",
+   "title": "Cái giá của nhân quả",
+   "text": "Vài ngày sau, ở nhà và ngoài đường, Nhược Tư tuyên bố ly hôn; Tử Du ủng hộ; Quan Vân Sơn phản đối rồi thấy vết sẹo mới của con gái và đồng ý.",
+   "tieu": "Chuyện của thầy trò đó cũng là chuyện của ngươi, vì chính ngươi đã gieo nhân. Giờ đứng nhìn hay can thiệp?",
+   "cast": "hd_luu,hd_son,hd_thien,hd_nhuoc,hd_tu,tc",
+   "ch": [
+    {
+     "t": "Để Quan thiên sĩ tự nói với đồ đệ",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Ông nói hết, giọng khàn. Quan Vân Sơn ngồi sụp xuống, đạo tâm vỡ, rồi bật khóc. Cô thấy cả hai thầy trò cần chuyện này.",
+      "d": {
+       "ac": -7,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Quan thiên sĩ nói chưa hết thì Vân Sơn đã bỏ chạy. Ông đuổi theo nhưng không kịp.",
+      "d": {
+       "sinh": -4
+      }
+     }
+    },
+    {
+     "t": "Đứng cạnh Quan thiên sĩ, động viên ông nói",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Ông thấy cô cạnh mình, dũng khí dâng lên. Ông nói ra hết lời xin lỗi với đồ đệ.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Quan Vân Sơn tức giận khi thấy cô, quát lên rồi bỏ đi. Quan thiên sĩ không kịp nói gì.",
+      "d": {
+       "sinh": -3,
+       "hao": -1
+      }
+     }
+    },
+    {
+     "t": "Chỉ đứng nhìn từ xa, không can thiệp",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Cô quan sát cảnh thầy trò từ xa. Mục Cửu đứng cạnh, im lặng.",
+      "d": {
+       "ac": -1,
+       "hac": 2,
+       "hao": 2,
+       "sinh": 1
+      }
+     },
+     "b": 0.64,
+     "bad": {
+      "x": "Không có ai nói gì, Quan Vân Sơn lặng lẽ bỏ đi. Cô thấy mình hơi lạnh lùng.",
+      "d": {
+       "sinh": -2,
+       "hac": 3,
+       "hao": -1
+      }
+     }
+    }
+   ],
+   "ctx": "Vài ngày sau, nhà Kha Nhược Tư. Nhược Tư tuyên bố ly hôn; Quan Vân Sơn phải đối mặt với hậu quả những gì mình đã làm.",
+   "no": 45
+  },
+  {
+   "id": "d46",
+   "scene": "graves",
+   "place": "Bên mộ cô · Một buổi sáng",
+   "kind": "nan",
+   "title": "Lời kết",
+   "text": "Một sáng, bên mộ cô, Tiểu Châu báo xong nhiệm vụ. Mục Cửu linh cảm cô sắp đi: «em đi đâu, mang anh theo được không?»; cô nói không biết nên không mang được. Hai người đi mua quần áo lần cuối; anh chọn cho cô bộ đẹp nhất, đốt cho cô trước mộ. Hai mươi năm đã trôi qua như một buổi chiều dài, và bàn tay anh nắm tay cô chưa lần nào lơi ra. Cô phải chọn nói gì với anh vào khoảnh khắc cuối cùng này.",
+   "tieu": "Đây là lúc cuối cùng rồi. Ngươi nói gì thì hắn mang theo suốt đời. Nói chân thành là đủ.",
+   "cast": "hd_luu,hd_cuu,tc",
+   "ch": [
+    {
+     "t": "Nói điều muốn anh nhớ: «Hãy sống thật tốt»",
+     "h": "Thử bằng Mị lực",
+     "s": "mi",
+     "ok": {
+      "x": "Anh nhìn cô thật lâu, gật đầu: «Ta nhớ.» Anh mỉm cười, mắt vẫn đỏ.",
+      "d": {
+       "ac": -6,
+       "hac": -4,
+       "hao": 6,
+       "sinh": 1
+      }
+     },
+     "b": 0.58,
+     "bad": {
+      "x": "Anh cắn môi quay đi, vai khẽ run. Cô thấy lời mình chưa đủ.",
+      "d": {
+       "sinh": -3,
+       "hao": -2
+      }
+     }
+    },
+    {
+     "t": "Để anh đốt bộ đồ đẹp nhất, ngồi cạnh nhau tới hết nắng",
+     "h": "Thử bằng Trí",
+     "s": "tri",
+     "ok": {
+      "x": "Cô thay bộ đồ anh chọn. Anh khen «đẹp lắm» bằng giọng nghẹn ngào. Hai người ngồi bên nhau đến khi nắng tắt.",
+      "d": {
+       "ac": -8,
+       "hac": -5,
+       "hao": 8,
+       "sinh": 1
+      }
+     },
+     "b": 0.56,
+     "bad": {
+      "x": "Gió thổi tung tàn giấy, anh phải vội dập lửa. Khoảnh khắc đẹp bị phá, nhưng anh vẫn nắm tay cô.",
+      "d": {
+       "sinh": -4,
+       "hao": -2
+      }
+     }
+    },
+    {
+     "t": "Hẹn: «Kiếp sau gặp lại, anh nhớ phải ngoan»",
+     "h": "Thử bằng Vận",
+     "s": "van",
+     "ok": {
+      "x": "Anh bật cười trong nước mắt: «Ta ngoan.» Cô tin anh nhớ lâu.",
+      "d": {
+       "ac": -2,
+       "hao": 3,
+       "sinh": 1
+      }
+     },
+     "b": 0.42,
+     "bad": {
+      "x": "Anh nhìn cô buồn bã: «Ta không muốn kiếp sau, ta muốn bây giờ.» Cô nghẹn lời.",
+      "d": {
+       "sinh": -3,
+       "hac": 2,
+       "hao": -2
+      }
+     }
+    }
+   ],
+   "ctx": "Một sáng, bên mộ cô. Tiểu Châu báo xong nhiệm vụ; Mục Cửu linh cảm cô sắp rời đi.",
+   "forced": 1,
+   "no": 46
+  }
+ ]
+}

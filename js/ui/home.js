@@ -10,8 +10,8 @@ import { OPEN, WORLDS } from '../worlds/registry.js';
 /* ================= Trang chủ (bước 0) =================
    Dữ liệu lấy từ chính game: WORLDS, OPEN, PICK và kết quả đã lưu (REC_MEM). */
 var HERO_KEY="nmdt_hero_v1";
-var WICON={w1:"temple_buddhist",w2:"apartment",w3:"castle",w4:"forest",w5:"fence",w6:"mic_external_on",w7:"bedtime",w8:"movie",w9:"favorite",w10:"local_fire_department",w11:"school",w12:"videocam",w13:"castle",w14:"account_balance",w15:"spa",w16:"agriculture",w17:"pets",w18:"sports_esports"};
-var WTONE={w1:"var(--meadow-ink)",w2:"var(--lake-ink)",w3:"var(--coral-ink)",w4:"var(--moon-ink)",w5:"var(--coral-ink)",w6:"var(--lake-ink)",w7:"var(--moon-ink)",w8:"var(--coral-ink)",w9:"var(--lake-ink)",w10:"var(--moon-ink)",w11:"var(--lake-ink)",w12:"var(--coral-ink)",w13:"var(--moon-ink)",w14:"var(--coral-ink)",w15:"var(--meadow-ink)",w16:"var(--coral-ink)",w17:"var(--moon-ink)",w18:"var(--lake-ink)"};
+var WICON={w1:"temple_buddhist",w2:"apartment",w3:"castle",w4:"forest",w5:"fence",w6:"mic_external_on",w7:"bedtime",w8:"movie",w9:"favorite",w10:"local_fire_department",w11:"school",w12:"videocam",w13:"castle",w14:"account_balance",w15:"spa",w16:"agriculture",w17:"pets",w18:"sports_esports",w19:"nightlight"};
+var WTONE={w1:"var(--meadow-ink)",w2:"var(--lake-ink)",w3:"var(--coral-ink)",w4:"var(--moon-ink)",w5:"var(--coral-ink)",w6:"var(--lake-ink)",w7:"var(--moon-ink)",w8:"var(--coral-ink)",w9:"var(--lake-ink)",w10:"var(--moon-ink)",w11:"var(--lake-ink)",w12:"var(--coral-ink)",w13:"var(--moon-ink)",w14:"var(--coral-ink)",w15:"var(--meadow-ink)",w16:"var(--coral-ink)",w17:"var(--moon-ink)",w18:"var(--lake-ink)",w19:"var(--moon-ink)"};
 var TIER={perfect:"Trọn vẹn",near:"Gần trọn vẹn",fail:"Chưa đạt"};
 function nmNum(n){return String(n).replace(/\B(?=(\d{3})+(?!\d))/g,",")}
 export function nmPad(n){return n<10?"0"+n:String(n)}
