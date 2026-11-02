@@ -7,3 +7,4 @@ var IMG={lt:"assets/portraits/w01-lang-tuyet.webp",td:"assets/portraits/w01-thuo
 export var CN={};
 
 export function pt(k,c){if(!IMG[k]){var w=CN[k].split(" "),ini=(w.length>1?w[w.length-2][0]+w[w.length-1][0]:w[0].slice(0,2)).toUpperCase();return '<span class="pt ph" role="img" aria-label="'+CN[k]+'">'+ini+'</span>'}return '<img class="pt" src="'+IMG[k]+'" alt="'+(CN[k]||CN[k.replace(/_(hac|hao)$/,"")]||"")+'" width="96" height="96">'}
+export function hasPt(k){return !!IMG[k]}

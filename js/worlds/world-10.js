@@ -45,7 +45,7 @@ function w10cover(){
 }
 
 var W10K={};
-WORLDS.w10={
+WORLDS.w10={roles:{qv:["Nữ chính", "main", "Đích nữ nhà Phù 18 tuổi, bị đoàn rèn luyện bỏ rơi trong rừng giữa bầy yêu thú."],qh:["Nam chính, tiểu vương gia", "main", "Tiểu vương gia 20 tuổi, vị hôn phu cũ từng trốn Tư Vi suốt mười năm."],qm:["Em cùng cha khác mẹ", "foe", "Em cùng cha khác mẹ của Tư Vi, đã trọng sinh và cướp mất Hồi Xuân Hoa trước cô."],qd:["Thị thiếp, mẹ Mộ Dao", "foe", "Thị thiếp được cha Tư Vi sủng ái, mẹ ruột của Mộ Dao.", ["Diêu di nương"]],qc:["Cha, gia chủ", "family", "Gia chủ nhà Phù, cha của Tư Vi. Thấy cô về mà không hỏi han."],qk:["Mẹ", "family", "Mẹ của Tư Vi, hay trách cô thua Mộ Dao."],qp:["Anh họ", "neutral", "Anh họ bên ngoại, chạy đến cầu tình cho Mộ Dao."],ql:["Chị họ bên ngoại", "neutral", "Chị họ bên ngoại, bị Mộ Dao đẩy ra làm bia chỉ trích."],qt:["Hoàng đế", "ally", "Hoàng đế, anh ruột của Hiên Dật."],qs:["Thất hoàng tử", "foe", "Thất hoàng tử, thân cận với Mộ Dao, nhờ người đổi đề khó cho Tư Vi."],qg:["Nhị công tử hầu phủ Giang", "foe", "Nhị công tử hầu phủ Trấn Viễn họ Giang, tiếng ôn nhu nhưng hay bắt nạt người yếu thế."],qn:["Đại tổng quản", "ally", "Đại tổng quản trong cung, mang vết thương cũ ở đan điền vì chắn đao cho hoàng đế."],qz:["Tộc trưởng", "ally", "Tộc trưởng họ Phù, phong Tư Vi làm trưởng lão."]},
  init:function(){return {ac:100,hac:W10K.h0,sinh:100,bs:100,hao:0}},
  mod:function(){return 0},
  adj:function(d,good,c,e){var o=Object.assign({},d);

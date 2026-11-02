@@ -19,10 +19,17 @@ export function render(){
   $("stage").style.setProperty("--heat",heat);var gm=$("game");if(gm&&gm.classList)gm.classList.toggle("pastel",true);
   $("progress").textContent=S.end?"Kết cục":"Mốc "+(S.i+1)+" / "+EV.length;
   var sc=S.end?ENDS[S.end].scene:e.scene;
-  $("scene").innerHTML=(artScene(e)||scene(sc))+'<div class="cap"><span>'+W.name+' · '+W.genre+'</span><span>'+(S.end?"Kết cục":e.place)+'</span></div>'+(S.end?'':'<div class="cast">'+(EV[S.i].cast||"lt").split(",").map(function(k){return '<figure>'+pt(k)+'<figcaption>'+CN[k]+'</figcaption></figure>'}).join("")+'</div>');
+  /* Tên nhân vật trong lời kể (thế giới có bảng vai trò W.roles) được đánh dấu *, trỏ hoặc chạm vào thì hiện lý lịch ngắn. */
+  var markNames=function(t){if(!W.roles)return t;var map={},keys=[],seen={};
+   Object.keys(W.roles).forEach(function(k){var n=CN[k];if(!n)return;var add=function(x){if(x.length>2&&!map[x]){map[x]=k;keys.push(x)}};add(n);var w=n.split(" ");if(w.length>2)add(w.slice(-2).join(" "));(W.roles[k][3]||[]).forEach(add)});
+   if(!keys.length)return t;keys.sort(function(x,y){return y.length-x.length});
+   var re=new RegExp("(?<![\\p{L}])(?:"+keys.map(function(x){return x.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")}).join("|")+")(?![\\p{L}])","gu");
+   return t.split(/(<[^>]*>)/).map(function(seg){return seg.charAt(0)==="<"?seg:seg.replace(re,function(m){var k=map[m],r=W.roles[k];if(seen[k])return m;seen[k]=1;return '<span class="nm rc-'+r[1]+'" tabindex="0" data-bio="'+(W.roleBio?m:CN[k])+': '+(W.roleBio?W.roleBio(k):(r[2]||r[0]))+'">'+m+'<sup>*</sup></span>'})}).join("")};
+  $("scene").innerHTML='<div class="sc-img">'+(artScene(e)||scene(sc))+'<div class="cap"><span>'+W.name+' · '+W.genre+'</span><span>'+(S.end?"Kết cục":e.place)+'</span></div></div>';
+  /* Thế giới nữ chính mất ký ức có thể khai báo heroNameAt, heroSubAt, roleBio để tên và lý lịch mở dần theo mốc. */
   /* Hai box nhân vật dùng chung một khuôn: đầu box (ảnh, nhãn, tên, mô tả) rồi các thanh chỉ số một dòng. */
   $("hero").className="panel pbox";$("boss").className="panel pbox";
-  $("hero").innerHTML='<div class="phead"><div class="pimg">'+pt(W.hero)+'</div><div><span class="tag">Bạn đóng</span><h2>'+W.heroName+'</h2><p class="sub">'+W.heroSub+'</p></div></div>'
+  $("hero").innerHTML='<div class="phead"><div class="pimg">'+pt(W.heroKeyAt?W.heroKeyAt():W.hero)+'</div><div><span class="tag">Bạn đóng</span><h2>'+(W.heroNameAt?W.heroNameAt():W.heroName)+'</h2><p class="sub">'+(W.heroSubAt?W.heroSubAt():W.heroSub)+'</p></div></div>'
    +'<div class="gauges">'+bar("Sinh mệnh","sinh","f-sinh")+'</div>'
    +'<div class="attr"><span class="lbl">Thuộc tính</span> '+Object.keys(P).map(function(k){return '<span class="achip" title="Chỉ số dùng để thử. Cao hơn thì phép thử dễ hơn">'+PN[k]+' <b>'+P[k]+'</b>'+(k==='van'&&P.van>P0.van?' (+'+(P.van-P0.van)+')':'')+'</span>'}).join(" ")+'</div>'
    +W.hud()
@@ -45,7 +52,7 @@ export function render(){
      +'<button class="btn primary" id="reset2">Chơi lại thế giới này</button></div>';
   }else{
     r+='<div class="tieu"><div>'+pt("tc")+'</div><p class="bubble"><b>Tiểu Châu</b>'+(typeof e.tieu==="function"?e.tieu():e.tieu)+'</p></div>';
-    r+='<div class="panel ev k-'+e.kind+'"><span class="mono kind">'+KIND[e.kind]+'</span><span class="mono">'+e.place+'</span><span class="mono mk">MỐC #'+nmPad(S.i+1)+'</span><h3>'+e.title+'</h3>'+(e.ctx?'<p class="ctx"><b>Bối cảnh</b>'+ctxOf(e)+'</p>':'')+'<p>'+(typeof e.text==="function"?e.text():e.text)+'</p>';
+    r+='<div class="panel ev k-'+e.kind+'"><span class="mono kind">'+KIND[e.kind]+'</span><span class="mono">'+e.place+'</span><span class="mono mk">MỐC #'+nmPad(S.i+1)+'</span><h3>'+e.title+'</h3>'+(e.ctx?'<p class="ctx"><b>Bối cảnh</b>'+ctxOf(e)+'</p>':'')+'<p>'+markNames(typeof e.text==="function"?e.text():e.text)+'</p>';
     if(S.phase==="event"){
       r+='<div class="choices">'+e.ch.map(function(c,n){
         var p=prob(c),lk=c.need&&!c.need();

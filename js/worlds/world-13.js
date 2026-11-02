@@ -36,7 +36,7 @@ function w13cover(){
 
 var W13K={};
 
-WORLDS.w13={
+WORLDS.w13={roles:{q_tq:["Nữ chính", "main", "Tiểu thư thói ở sạch, bị cắn khi chạy đi lấy thuốc hạ sốt cho vị hôn phu."],q_th:["Nam chính", "main", "28 tuổi, người đứng đầu Tịch Chiếu căn cứ."],q_kh:["Vị hôn phu", "foe", "Vị hôn phu của nguyên chủ, bỏ đi cùng Khương Nhược Vi."],q_nv:["Nữ chủ nguyên tác", "foe", "Lấy thuốc đổi ngọc bội gia truyền của nguyên chủ, tự nhận có dị năng không gian."],q_cv:["Dị năng hỏa hệ", "foe", "Dị năng hỏa hệ trong đội của Khải Hằng, hay mắng, giao việc nặng cho Tiểu Quất."],q_tl:["Dị năng băng hệ", "neutral", "Dị năng băng hệ, lạnh nhưng lễ phép."],q_sd:["Tang thi thất cấp", "ally", "Tang thi được Tiểu Quất dồn tinh hạch, lên thất cấp trong một đêm và gọi cô là Vương."],q_hd:["Tang thi tam cấp", "ally", "Tang thi tam cấp, từng là bạn trai của Nhược Vi, bị cô ta bỏ lại."],q_da:["Tang thi ngũ cấp", "neutral", "Tang thi ngũ cấp tự thức tỉnh ý thức, bạn học thuở nhỏ của Nhược Vi và thầm thích cô ta."],q_db:["Chỉ huy Tịch Chiếu", "ally", "Chỉ huy quân Tịch Chiếu, theo lệnh Úc Tễ Hàn, lắm lời."],q_hc:["Kẻ đòi phí bảo hộ", "foe", "Cùng đàn em chặn Tiểu Quất, đòi nộp tinh hạch làm phí bảo hộ."],q_bs:["Giáo sư", "neutral", "Giáo sư đứng đầu nhóm nghiên cứu đến nhờ che chở ở Triêu Dương thành."],q_vt:["Thương nhân", "neutral", "Thương nhân đầu tiên đến Tịch Chiếu, mang đá quý đổi rau quả."]},
  init:function(){return {ac:100,hac:W13K.h0,sinh:100,bs:100,hao:0}},
  mod:function(){return 0},
  adj:function(d,good,c,e){var o=Object.assign({},d);

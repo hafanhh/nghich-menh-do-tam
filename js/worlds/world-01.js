@@ -20,7 +20,7 @@ HK.w1={
 "b30":{text:function(){return S.f.failed?"Tiểu Châu hiện nguyên hình Vô Tướng Thú, nói nhiệm vụ đã đến lúc khép lại và hỏi cô muốn nói gì với hắn. Thương Dạ đứng cách vài bước. Hắn không còn là Xà Vương cô từng quen, nhưng hắn vẫn đang chờ.":"Tiểu Châu hiện nguyên hình Vô Tướng Thú, nói nhiệm vụ gần xong và hỏi cô sẽ nói gì với hắn trước khi mọi thứ khép lại. Thương Dạ đứng cách vài bước, chờ câu trả lời. Hắn đã không còn là Xà Vương của cánh đồng hoang."}}
 };
 var RAB;
-WORLDS.w1={
+WORLDS.w1={roles:{lt:["Nữ chính", "main", "Thiếu nữ nhà họ Lăng, bị gia tộc gả cho Xà Vương Thương Dạ để cầu hòa."],td:["Nam chính, Xà Vương", "main", "Xà Vương, đại ác nhân trong nguyên tác. Lăng Tuyết phải độ hóa hắn."],bong:["Thỏ trắng", "neutral", "Con thỏ tai dài, mắt đỏ như hạt lựu mà Lăng Tuyết nhặt được bên suối."],mtt:["Anh họ", "foe", "Người anh họ của Lăng Tuyết, cùng gia tộc và Mặc Khuê dùng cô làm mồi hại Xà Vương."],mk:["Anh trai Thương Dạ", "foe", "Anh trai của Xà Vương, hãm hại hắn từ nhỏ."],cl:["Tỳ nữ", "foe", "Tỳ nữ trong tẩm cung của Xà Vương, cười dịu dàng nhưng ghen với Lăng Tuyết."],sd:["Người nhà họ Lăng", "foe", "Người nhà họ Lăng, cùng anh họ ép Lăng Tuyết xem Xà Vương bị hành hạ."],hn:["Đại trưởng lão", "foe", "Trưởng lão gia tộc họ Lăng, ép cô hy sinh vì gia tộc."]},
  init:function(){return {ac:100,hac:80,sinh:100,bs:100,nn:10,tl:0,se:0,cd:0,ct:0,it:2,w:{live:0,par:0,sh:0},hao:0}},
  mod:function(){return -(S.f.vu?.05:0)-.002*Math.max(0,S.nn-30)-.001*S.se+.001*S.tl-.02*S.cd},
  tick:function(){},

@@ -59,6 +59,9 @@
   },
   "names": {
     "u_mach": "Hạ Tiểu Mạch",
+    "u_vd": "Cô gái vô danh",
+    "u_am": "A Mạch",
+    "u_ao": "Người áo trắng",
     "u_ngon": "Quan Hạc Ngôn",
     "u_yen": "Thích Hồng Yên",
     "u_hanh": "Lệ Dạ Hành",
@@ -135,7 +138,7 @@
       "place": "Lưu Nguyệt Môn · Sảnh phán xử",
       "kind": "chon",
       "title": "Sảnh phán xử",
-      "text": "Tiểu Mạch mở mắt giữa một sảnh đá lạnh, linh căn trong người trống rỗng như giếng cạn. Một quả cầu ngọc xanh nhỏ lơ lửng cạnh tai: «Ta là Tiểu Châu». Nó đọc hồ sơ rất nhanh: nguyên chủ Hạ Tiểu Mạch, 22 tuổi, Kim Đan của Lưu Nguyệt Môn, bị buộc tội hại sư muội Thích Hồng Yên và trộm chí bảo Trấn Linh Ngọc. Ảnh Tượng Thạch đã ghi hình. Trong sảnh có chưởng môn Cát Tử Dung, Hồng Yên áo đỏ đứng sau lưng ông, Lệ Dạ Hành áo huyền, thiếu tông chủ Thiên Ma Tông, người vừa ra tay phế linh căn của cô, và sư muội Từ Tiểu Hạnh đứng thu mình ở góc sảnh. Người đứng lạnh nhạt ở giữa, áo trắng, là Quan Hạc Ngôn, sư phụ của nguyên chủ. Dạ Hành đòi trục xuất cô. Cô chưa có chút ký ức nào, không biết mình có trộm thật hay không.",
+      "text": "Cô mở mắt giữa một sảnh đá lạnh, linh căn trong người trống rỗng như giếng cạn. Cô không nhớ mình là ai, cũng không nhớ vì sao mình ở đây. Người ngồi trên cao, mọi người gọi là chưởng môn, tuyên bố đệ tử này đã hại sư muội và trộm chí bảo Trấn Linh Ngọc. Ảnh Tượng Thạch đã ghi hình. Một cô gái áo đỏ đứng sau lưng ông. Một thanh niên áo huyền, người vừa ra tay phế linh căn của cô, đòi trục xuất cô. Ở góc sảnh, một cô gái đứng thu mình. Giữa sảnh, người áo trắng đứng lạnh nhạt, không nhìn cô. Cô không biết mình có trộm thật hay không.",
       "tieu": "Ngươi vừa tỉnh dậy giữa phiên xử. Đừng nhận bừa, cũng đừng cãi bừa. Nhìn xem ai không dám nhìn ngươi.",
       "cast": "u_mach,u_ngon,u_yen,u_hanh,u_dung,u_tieuhanh,tc",
       "ch": [
@@ -144,7 +147,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Tiểu Hạnh vội cúi đầu, Hồng Yên mím môi cười, Hạc Ngôn thì nhìn thẳng cô rồi quay đi. Cô nhớ cả ba cái nhìn ấy.",
+            "x": "Cô gái ở góc sảnh vội cúi đầu, cô gái áo đỏ mím môi cười, người áo trắng thì nhìn thẳng cô rồi quay đi. Cô nhớ cả ba cái nhìn ấy.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -155,7 +158,7 @@
           },
           "b": 0.6241333333333334,
           "bad": {
-            "x": "Cô nhìn quá nhiều người cùng lúc, lẫn hết cả. Chỉ còn nhớ mang máng Hồng Yên đang cười.",
+            "x": "Cô nhìn quá nhiều người cùng lúc, lẫn hết cả. Chỉ còn nhớ mang máng cô gái áo đỏ đang cười.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -180,7 +183,7 @@
           },
           "b": 0.5071733333333333,
           "bad": {
-            "x": "Chân cô run nhẹ khi gió thổi qua, Hồng Yên thấy rõ và khẽ cười.",
+            "x": "Chân cô run nhẹ khi gió thổi qua, cô gái áo đỏ thấy rõ và khẽ cười.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -217,7 +220,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Sảnh phán xử của Lưu Nguyệt Môn, ngay khi linh căn bị phế. Tiểu Mạch nhận nhiệm vụ cảm hóa Quan Hạc Ngôn và đọc hồ sơ nguyên chủ.",
+      "ctx": "Sảnh phán xử của Lưu Nguyệt Môn, ngay khi linh căn bị phế. Cô vừa tỉnh trong thân nguyên chủ và chưa có chút ký ức nào.",
       "no": 1
     },
     {
@@ -226,7 +229,7 @@
       "place": "Lưu Nguyệt Môn · Ngay sau đó",
       "kind": "chon",
       "title": "Quan Hạc Ngôn dò hồn",
-      "text": "Cát Tử Dung hỏi ý Hạc Ngôn vì Tiểu Mạch là đệ tử thân truyền của hắn. Hạc Ngôn hỏi vì sao cô lại trộm chí bảo. Cô đáp «không biết», và đó đúng là sự thật. Hắn đặt tay lên trán cô dò linh hồn, xác nhận vẫn là hồn cũ, không bị đoạt xá. Thần sắc hắn dịu đi một nhịp rồi lại lạnh như cũ, hắn xin chưởng môn điều tra thêm. Cô có thể trả lời thẳng hoặc hỏi ngược hắn có từng nghĩ vì sao cô «không biết».",
+      "text": "Chưởng môn quay sang người áo trắng, Quan Hạc Ngôn, hỏi ý hắn vì cô là đệ tử thân truyền của hắn. Hạc Ngôn gọi cô là «A Mạch» và hỏi vì sao cô lại trộm chí bảo. Cô đáp «không biết», và đó đúng là sự thật. Hắn đặt tay lên trán cô dò linh hồn, xác nhận vẫn là hồn cũ, không bị đoạt xá. Thần sắc hắn dịu đi một nhịp rồi lại lạnh như cũ, hắn xin chưởng môn điều tra thêm. Cô có thể trả lời thẳng hoặc hỏi ngược hắn có từng nghĩ vì sao cô «không biết».",
       "tieu": "Hắn không ưa người có tâm cơ. Nói thật là cách dễ nhất để hắn nghe, nhưng chưa chắc là cách hắn nhớ lâu.",
       "cast": "u_mach,u_ngon,u_dung,tc",
       "ch": [
@@ -297,7 +300,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô cúi quá lâu, Hồng Yên nhân lúc đó mở miệng trước.",
+            "x": "Cô cúi quá lâu, cô gái áo đỏ nhân lúc đó mở miệng trước.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -317,8 +320,8 @@
       "place": "Lưu Nguyệt Môn · Cùng buổi",
       "kind": "nan",
       "title": "Tối hậu thư của Hồng Yên",
-      "text": "Hồng Yên bước ra, nói chứng cứ đã đủ. Nếu Tiểu Mạch còn ở lại thì nàng sẽ rời tông, rồi nhìn thẳng chưởng môn mà chờ. Cát Tử Dung, người thầm yêu nàng, tuyên bố tước thân phận đệ tử Lưu Nguyệt Môn của cô và đuổi khỏi tông. Hạc Ngôn đứng im. Tiểu Châu nhắc nhỏ: từ lúc này, cô không còn là đệ tử của hắn nữa.",
-      "tieu": "Chưởng môn bị nàng giật dây như con rối, mà ông còn tưởng đó là tình. Đừng cãi ông. Giữ sức.",
+      "text": "Cô gái áo đỏ bước ra, nói chứng cứ đã đủ. Nếu Hạ Tiểu Mạch còn ở lại thì Thích Hồng Yên này sẽ rời tông, rồi nàng nhìn thẳng chưởng môn mà chờ. Chưởng môn Cát Tử Dung, người nhìn nàng với vẻ xót xa, tuyên bố tước thân phận đệ tử Lưu Nguyệt Môn của Hạ Tiểu Mạch và đuổi cô khỏi tông. Hạc Ngôn đứng im. Tiểu Châu nhắc nhỏ: từ lúc này, cô không còn là đệ tử của hắn nữa.",
+      "tieu": "Ông ta nghe nàng nói gì cũng gật đầu. Đừng cãi ông. Giữ sức.",
       "cast": "u_mach,u_yen,u_dung,u_ngon,tc",
       "ch": [
         {
@@ -407,7 +410,7 @@
       "place": "Lưu Nguyệt Môn · Sơn đạo",
       "kind": "chon",
       "title": "Lời cuối và bước xuống núi",
-      "text": "Trước khi đi, Tiểu Mạch hỏi Hạc Ngôn vì sao không cản. Đệ tử cần người thân nhất mở lời giúp, dù chỉ hai câu. Cô nói nguyên chủ từng yêu hắn, từ nay thu hồi, và thì thầm rằng muốn thấy hắn nếm mùi sa chân. Hắn thoáng mất tự nhiên, rõ ràng đã nghe ra điều gì. Cô gọi thẳng tên hắn rồi tự bước xuống núi. Hắn thoáng nghĩ tới việc giữ cô lại, nhưng rồi đứng im. Hồng Yên mỉm cười, kéo Dạ Hành đi.",
+      "text": "Trước khi đi, Tiểu Mạch hỏi Hạc Ngôn vì sao không cản. Đệ tử cần người thân nhất mở lời giúp, dù chỉ hai câu. Cô nói nguyên chủ từng yêu hắn, từ nay thu hồi, và thì thầm rằng muốn thấy hắn nếm mùi sa chân. Hắn thoáng mất tự nhiên, rõ ràng đã nghe ra điều gì. Cô gọi thẳng tên hắn rồi tự bước xuống núi. Hắn thoáng nghĩ tới việc giữ cô lại, nhưng rồi đứng im. Hồng Yên mỉm cười, kéo theo thanh niên áo huyền, Lệ Dạ Hành, rời đi.",
       "tieu": "Lời cuối là thứ người ta nhớ lâu nhất. Lạnh hay buồn, hắn đều sẽ nghe.",
       "cast": "u_mach,u_ngon,u_yen,u_hanh,tc",
       "ch": [

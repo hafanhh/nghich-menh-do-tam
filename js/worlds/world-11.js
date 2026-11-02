@@ -37,7 +37,7 @@ function w11cover(){
 
 var W11K={};
 
-WORLDS.w11={
+WORLDS.w11={roles:{unh:["Nữ chính", "main", "Nữ sinh 17 tuổi nằm viện nửa tháng, nửa mặt phải quấn băng."],udt:["Nam chính, giáo bá", "main", "Bạn cùng bàn, giáo bá cuối bảng, từng là thần đồng, mẹ mất sớm, bị cha và dì ghẻ bỏ mặc."],umg:["Bạn gái giáo thảo", "foe", "Bạn gái của Tần Dĩ Hằng, đổi đồ ăn lấy đồ quý ở nhóm liên thế giới để giữ dung mạo."],udh:["Giáo thảo", "foe", "Giáo thảo của lớp, bạn trai của Chu Mộng Giai."],udp:["Cháu Quan Tú Anh", "foe", "Cháu của Quan Tú Anh, kẻ đứng sau vụ làm hại nữ sinh Nhất Trung."],uqq:["Quan phu nhân", "neutral", "Mẹ của Quan Đình Phong, giữ con ở nhà."],uta:["Dì ghẻ", "foe", "Dì ghẻ của Dịch Trì, bỏ mặc hắn."],uch:["Cha", "foe", "Cha của Dịch Trì, bỏ mặc con trai."],utt:["Nữ sinh lớp bên", "foe", "Nữ sinh lớp bên vốn thích Dịch Trì, chê Nhược Hi xấu."],udl:["Bạn thân Dịch Trì", "ally", "Bạn thân của Dịch Trì, được dặn để mắt tới Nhược Hi."],uco:["Ông ngoại", "ally", "Ông ngoại của Dịch Trì."],ucd:["Thầy giáo", "neutral", "Thầy dạy toán, gọi Nhược Hi lên bảng giải bài hình vượt chương."],uba:["Ba", "family", "Ba của Nhược Hi, muốn kiện ngay dù chưa có chứng cứ."],ume:["Mẹ", "family", "Mẹ của Nhược Hi."],uth:["Đàn hữu nhóm liên thế giới", "neutral", "Thành viên của nhóm giao lưu vị diện, một trong ba đàn hữu."],uel:["Nữ phù thủy", "neutral", "Nữ phù thủy, thành viên nhóm giao lưu vị diện."],uso:["Thợ chỉnh nhan", "neutral", "Thợ chỉnh nhan từ một thế giới tinh tế, thành viên nhóm giao lưu vị diện."]},
  init:function(){return {ac:100,hac:W11K.h0,sinh:100,bs:100,hao:0}},
  mod:function(){return 0},
  adj:function(d,good,c,e){var o=Object.assign({},d);

@@ -83,7 +83,7 @@ function w6cover(){
   return '<img src="assets/w06/bia.webp" alt="Bìa Biệt thự Dạ Khúc" loading="lazy">';
 }
 
-WORLDS.w6={
+WORLDS.w6={roles:{ha:["Nữ chính", "main", "Cô nhi 19 tuổi vừa tốt nghiệp nhạc viện, bị bạn trai chia tay và từng là thế thân của Hiểu Mi."],tnh:["Nam chính, chủ tập đoàn Lam Tinh", "main", "Cha nuôi của Tư Triệt, chủ tập đoàn Lam Tinh, nổi tiếng tàn nhẫn và mất ngủ nhiều năm."],ttr:["Bạn trai cũ", "foe", "23 tuổi, quản Lam Tinh Điện ảnh. Chia tay Hoài An để quay lại với tình đầu."],him:["Tình đầu của Tư Triệt", "foe", "Tiểu thư nhà họ Ân, tình đầu của Tư Triệt, vừa về nước."],dkh:["Trợ lý của Tông Nhiên", "ally", "Trợ lý của Phó Tông Nhiên, đứng cạnh ghế anh ở bữa sáng."],kta:["Người đại diện", "ally", "Người đại diện của Hoài An, lo giữ nhân khí cho cô."],dth:["Đạo diễn", "neutral", "Đạo diễn «Bậc Thầy Âm Nhạc», bạn cũ của Phó Tông Nhiên."],lbv:["Giám khảo", "neutral", "Giám khảo mới của cuộc thi, nghiêng về Hiểu Mi theo lời Tư Triệt."],htq:["Giám khảo", "neutral", "Giám khảo mới của cuộc thi, nghiêng về Hiểu Mi theo lời Tư Triệt."],nbn:["Thí sinh số 17", "foe", "Thí sinh thi «Giọng Ca Vàng», hay chơi xấu sau lưng."],tvp:["Nhà đầu tư địa ốc", "foe", "Nhà đầu tư địa ốc có tiếng thích ép nghệ sĩ mới."]},
  init:function(){return {ac:100,hac:W6K.h0,sinh:100,bs:100,hao:10,ks:0,tt:0}},
  /* Kiệt sức (khóa ks) và Tai tiếng (khóa tt) làm mọi phép thử khó hơn khi vượt ngưỡng. */
  mod:function(){return -.004*Math.max(0,S.ks-40)-.002*Math.max(0,S.tt-30)},

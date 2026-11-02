@@ -76,7 +76,7 @@ function w2cover(){
   return '<img src="assets/w02/bia.webp" alt="Bìa Thành Vọng Xuyên" loading="lazy">';
 }
 
-WORLDS.w2={
+WORLDS.w2={roles:{on:["Nữ chính", "main", "Ca sĩ hát quán Lam Đăng, hai mươi hai tuổi, bị lệ quỷ Cố Trầm đeo bám."],ctr:["Nam chính, lệ quỷ", "main", "Bạn học cũ đã chết, yêu thầm Ôn Niệm từ lớp 11. Hắn giết những người đàn ông đến gần cô."],can:["Tên giả của Cố Trầm", "main", "Cái tên anh dùng khi thuê chung nhà với Ôn Niệm. Chính là Cố Trầm."],stk:["Bạn học cũ", "neutral", "Bạn học cũ lái xe tới họp lớp, báo Cố Trầm đã chết ba ngày trước cuộc gọi."],dkt:["Thiếu gia", "foe", "Thiếu gia ngồi bàn đầu quán Lam Đăng, quấy rối Ôn Niệm."],dq:["Cậu ruột", "foe", "Cậu ruột của Ôn Niệm ở trấn Hạ Khê, đòi tiền bán nhà của mẹ cô."],hgm:["Người theo đuổi", "neutral", "Anh trai một bạn học cũ, từng giúp Ôn Niệm lấy lại ví và theo đuổi cô."],ngt:["Bác sĩ tâm lý", "neutral", "Bác sĩ tâm lý Hứa Gia Minh đưa Ôn Niệm đến để thôi miên."],lth:["Nữ cảnh sát", "ally", "Nữ cảnh sát tóc ngắn, cháu nội một đại sư trừ tà, bạn cùng phòng của Ôn Niệm."],hti:["Đại sư chùa Linh Ẩn", "ally", "Đại sư trừ tà ở chùa Linh Ẩn, được Lạc Tuệ mời đến."]},
  init:function(){return {ac:100,hac:70,sinh:100,bs:100,hao:30,am:10}},
  mod:function(){return -.003*Math.max(0,S.am-30)},
  /* Kết quả tốt của phép thử được khuếch đại nhẹ: thế giới 2 dễ hơn thế giới 1. */

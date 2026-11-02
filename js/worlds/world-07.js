@@ -103,7 +103,7 @@ function w7cover(){
 }
 
 var W7K={};
-WORLDS.w7={
+WORLDS.w7={roles:{xtd:["Nữ chính", "main", "Mồ côi 18 tuổi chạy hạn từ Bắc Lương, trong thân xác «thùng cơm» ăn gấp ba người thường."],xtl:["Nam chính, Quốc sư", "main", "Quốc sư phò mười đời vua Nam Chiêu, lập Huyền Vu Các và thu mười tám đệ tử vu thuật."],xdi:["Người được trời chọn", "foe", "Thất hoàng tử nước Đông Hạ cải trang, sau này sẽ nuốt cả Nam Chiêu."],xmc:["Công chúa Nam Chiêu", "foe", "Công chúa Nam Chiêu, say mê Quốc sư từ lâu."],xhh:["Hoàng hậu", "foe", "Mẹ của công chúa Minh Châu, lôi kéo Tiểu Đường kéo Quốc sư về phe mình."],xcd:["Vua Nam Chiêu", "neutral", "Vua Nam Chiêu, được Quốc sư chữa bệnh."],xhd:["Ngũ hoàng tử", "neutral", "Ngũ hoàng tử, một trong các hoàng tử được nối thọ cho vua."],xn1:["Đại đệ tử", "neutral", "Đại đệ tử Huyền Vu Các, tôn Quốc sư như thần."],xn2:["Đệ tử thứ hai", "neutral", "Đệ tử thứ hai của Quốc sư, đồng ý nhận Tiểu Đường làm cổ nhân."],xl6:["Đệ tử giỏi nhất", "ally", "Đệ tử giỏi nhất, dạy Tiểu Đường vài chiêu roi lụa tự vệ."],xt7:["Đệ tử miệng độc", "foe", "Miệng độc, hay bắt nạt người mới."],xt8:["Đệ tử nhỏ nhất", "ally", "Đệ tử nhỏ nhất, hiền lành, lén dạy cô cách nhận biết cổ nhỏ."],xpm:["Bà chủ nhạc lâu", "neutral", "Bà chủ nhạc lâu Thính Vũ, nhận Tiểu Đường làm nhạc sư tỳ bà."],xdd:["Cô đào", "foe", "Cô đào cùng lầu, ghen vì Tần Dịch chỉ để ý Tường Vi."],xkl:["Lão đạo", "foe", "Lão đạo hiểu vu thuật, đi cùng Tần Dịch."]},
  init:function(){return {ac:100,hac:W7K.h0,sinh:100,bs:100,hao:0,co:0}},
  /* Cổ độc (khóa co) làm mọi phép thử khó hơn khi vượt ngưỡng 40; từ 60 trở lên thì mỗi mốc mất Sinh mệnh. */
  mod:function(){return -.004*Math.max(0,S.co-40)},

@@ -79,7 +79,7 @@ function w3cover(){
   return '<img src="assets/w03/bia.webp" alt="Bìa Lãnh cung Tĩnh Tư" loading="lazy">';
 }
 
-WORLDS.w3={
+WORLDS.w3={roles:{vc:["Nữ chính, Quý phi", "main", "Quý phi, cháu gái lão tướng quân Lục Chấn, bị bạo quân đày vào lãnh cung Tĩnh Tư."],hu:["Nam chính, bạo quân", "main", "Hoàng đế sống lại sau kiếp trước, nhớ cô đã cùng Khang vương lật đổ mình nên đày cô vào lãnh cung."],ht:["Tên giả của nhà vua", "main", "Tên hoàng đế dùng khi đeo mặt nạ giả làm thị vệ trong cung."],kv:["Khang vương", "foe", "Em trai vua, áo trắng quạt ngọc, giọng dịu như nước. Kiếp trước cùng cô lật đổ vua."],dk:["Mưu sĩ phủ Khang vương", "foe", "Mưu sĩ của Khang vương, sai người ám sát để đổ tội cho vua."],htp:["Phi tần được sủng", "foe", "Hạ Thục phi, phi tần được vua sủng ái, là kẻ gài kế hại Vãn Ca."],bd:["Thị nữ", "ally", "Thị nữ trung thành đi cùng cô trong lãnh cung, giỏi võ công."],lc:["Ông nội", "family", "Lão tướng quân họ Lục, ông nội của Vãn Ca."],lpn:["Mẹ", "family", "Mẹ của Lục Vãn Ca."],lh:["Tổng quản thái giám", "neutral", "Tổng quản thái giám, người mang canh an thần do vua ban."],mn:["Ảnh vệ của vua", "neutral", "Ảnh vệ luôn theo sát nhà vua."],tt:["Phi tần nhỏ", "neutral", "Phi tần cấp tiệp dư trong hậu cung."]},
  init:function(){return {ac:100,hac:70,sinh:100,bs:100,hao:-20,am:0}},
  /* Độc canh (lưu ở khóa am): trên 30 thì mọi phép thử khó hơn. */
  mod:function(){return -.003*Math.max(0,S.am-30)},

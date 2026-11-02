@@ -646,3 +646,179 @@ body.on-home.nm-night::before{background:#161228}
 
 /* Số trong nhãn dùng chung một độ rộng để cột thẳng hàng (hai font cố định: EB Garamond và Be Vietnam Pro) */
 .mono,.chip,.d,.seg button,.choice .p,.res .roll,.scene .cap,.ep-cnt,.ep-it .r,.ep-m b,.ep-foot{font-variant-numeric:tabular-nums}
+
+/* Nhãn, chỉ số và kỹ năng của nam nữ chính, nhãn «Bối cảnh» và chú thích trên ảnh cảnh dùng chung kiểu nhãn của «THUỘC TÍNH», «TRẠNG THÁI», «KỸ NĂNG» */
+#game.pastel .pbox .g .mono,#game .pbox .achip,#game .pbox .wchip,#game .pbox .sk .k,#game .pbox .g .hint,#game .ev .ctx b{font-family:var(--font-mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;font-weight:400}
+#game .pbox .g .hint{font-size:8.5px;letter-spacing:.01em}
+#game .scene .cap,#game .scene .cap span,#game.pastel .scene .cap span{font-family:var(--font-mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;font-weight:500}
+
+/* Mọi nhãn tiêu đề trong khung nhân vật (Sinh mệnh, Ác niệm, Hắc hóa, Hảo cảm, Thuộc tính, Trạng thái, Thân phận, Kỹ năng) dùng đúng một kiểu chữ */
+#game .pbox .g .mono,#game.pastel .pbox .g .mono,#game .attr .lbl,#game.pastel .attr .lbl,#game .pbox .sk .lbl,#game.pastel .pbox .sk .lbl{font-family:var(--font-mono);font-size:10px;font-weight:400;line-height:1.4;letter-spacing:.08em;text-transform:uppercase;color:#857D70}
+
+/* Các hàng chỉ số của nam chính chia dòng có vạch ngăn giống box nữ chính */
+#game.pastel #boss .gauges{gap:0}
+#game.pastel #boss .gauges .g + .g{border-top:1px solid #E5DCCE;margin-top:10px;padding-top:10px}
+
+/* Hàng nhân vật có mặt: nằm dưới ảnh cảnh; nhân vật phụ là thẻ vai trò có màu theo quan hệ với nữ chính */
+.sc-img{position:relative}
+#game.pastel .scene::after{display:none}
+#game.pastel .scene .cast{position:static;display:flex;flex-wrap:wrap;gap:8px;padding:10px 12px;background:#fff;border-top:1px solid #E5DCCE}
+#game.pastel .scene .cast figure{display:flex;flex-direction:column;align-items:center}
+#game.pastel .scene .cast .pt{border-color:#E5DCCE;box-shadow:none}
+#game.pastel .scene .cast figcaption{color:#696359;text-shadow:none}
+.rc{--rc:#8F877A;display:flex;align-items:center;gap:8px;min-width:0;max-width:100%;padding:5px 10px 5px 5px;background:color-mix(in oklab,var(--rc) 9%,#fff);border:1px solid color-mix(in oklab,var(--rc) 35%,#fff);border-left:3px solid var(--rc);border-radius:8px}
+.rc .pt{width:34px;height:34px;flex:none}
+.rc-ic{flex:none;width:34px;height:34px;display:inline-flex;align-items:center;justify-content:center;border-radius:6px;font-size:19px;color:var(--rc);background:color-mix(in oklab,var(--rc) 14%,#fff)}
+.rc-t{display:flex;flex-direction:column;min-width:0;line-height:1.25}
+.rc-t b{font-family:var(--font-body);font-size:12px;font-weight:600;color:#3d382f;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rc-t small{font-family:var(--font-mono);font-size:9.5px;letter-spacing:.04em;text-transform:uppercase;color:var(--rc);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rc-ally{--rc:#4E8A62}.rc-foe{--rc:#C0504A}.rc-family{--rc:#B0832F}.rc-neutral{--rc:#8F877A}.rc-sys{--rc:#3F9C8E}.rc-main{--rc:#5A83A0}
+
+/* Tên nhân vật trong lời kể: gạch chân nhẹ, dấu *, trỏ hoặc chạm để xem lý lịch ngắn */
+.nm{position:relative;font-weight:600;border-bottom:1px dotted var(--rc,#8F877A);cursor:help;outline:0}
+.nm sup{color:var(--rc,#8F877A);font-weight:700;margin-left:1px}
+.nm::after{content:attr(data-bio);position:absolute;left:0;bottom:calc(100% + 6px);z-index:20;width:max-content;max-width:min(260px,70vw);padding:8px 10px;border-radius:8px;background:#fff;color:#3B362E;border:1px solid #E5DCCE;border-left:3px solid var(--rc,#8F877A);box-shadow:0 4px 14px rgba(0,0,0,.12);font-size:12px;font-weight:400;line-height:1.45;opacity:0;visibility:hidden;pointer-events:none;transition:opacity .12s}
+.nm:hover::after,.nm:focus::after{opacity:1;visibility:visible}
+.nm::after{font-family:var(--font-body)}
+
+/* Bìa động: ảnh trôi chậm như có gió, kèm cánh hoa (ban ngày) hoặc đốm sáng (ban đêm) lượn khắp bìa, đổi hướng mỗi 10 giây. */
+.nm-stage img.on{animation:nm-drift 22s ease-in-out infinite alternate;transform-origin:60% 55%}
+@keyframes nm-drift{from{transform:scale(1.03) translate3d(-.8%,.4%,0)}to{transform:scale(1.09) translate3d(1%,-.8%,0)}}
+.nm-wind{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.nm-wind i{position:absolute;left:var(--x0);top:var(--y0);width:var(--s,10px);height:calc(var(--s,10px)*.62);border-radius:70% 0 70% 0;background:#F6C9D3;opacity:.85;animation:nm-wander 30s ease-in-out var(--w,0s) infinite,nm-spin var(--r,9s) linear infinite,nm-twinkle 5s ease-in-out var(--w,0s) infinite alternate}
+.nm-stage:has(#nm-hero-night.on) .nm-wind i{border-radius:50%;width:calc(var(--s,10px)*.45);height:calc(var(--s,10px)*.45);background:#FFF1C7;box-shadow:0 0 8px 2px rgba(255,241,199,.65)}
+@keyframes nm-wander{
+  0%{left:var(--x0);top:var(--y0)}
+  33.3%{left:var(--x1);top:var(--y1)}
+  66.6%{left:var(--x2);top:var(--y2)}
+  100%{left:var(--x0);top:var(--y0)}}
+@keyframes nm-spin{to{transform:rotate(360deg)}}
+@keyframes nm-twinkle{from{opacity:.35}to{opacity:.9}}
+.nm-wind i:nth-child(1){--x0:60%;--y0:76%;--x1:62%;--y1:62%;--x2:68%;--y2:80%;--s:10px;--r:9s;--w:-25s}
+.nm-wind i:nth-child(2){--x0:68%;--y0:65%;--x1:83%;--y1:83%;--x2:26%;--y2:17%;--s:14px;--r:11s;--w:-4s}
+.nm-wind i:nth-child(3){--x0:14%;--y0:73%;--x1:91%;--y1:86%;--x2:8%;--y2:81%;--s:13px;--r:14s;--w:-20s}
+.nm-wind i:nth-child(4){--x0:81%;--y0:88%;--x1:23%;--y1:84%;--x2:4%;--y2:72%;--s:8px;--r:7s;--w:-1s}
+.nm-wind i:nth-child(5){--x0:27%;--y0:35%;--x1:79%;--y1:8%;--x2:62%;--y2:46%;--s:14px;--r:10s;--w:-16s}
+.nm-wind i:nth-child(6){--x0:32%;--y0:86%;--x1:40%;--y1:68%;--x2:3%;--y2:89%;--s:8px;--r:14s;--w:-20s}
+.nm-wind i:nth-child(7){--x0:38%;--y0:57%;--x1:73%;--y1:15%;--x2:93%;--y2:37%;--s:12px;--r:10s;--w:-16s}
+.nm-wind i:nth-child(8){--x0:39%;--y0:8%;--x1:11%;--y1:77%;--x2:16%;--y2:56%;--s:8px;--r:11s;--w:-12s}
+.nm-wind i:nth-child(9){--x0:11%;--y0:7%;--x1:90%;--y1:5%;--x2:30%;--y2:31%;--s:7px;--r:14s;--w:-12s}
+.nm-wind i:nth-child(10){--x0:93%;--y0:55%;--x1:56%;--y1:14%;--x2:75%;--y2:85%;--s:10px;--r:11s;--w:-10s}
+.nm-wind i:nth-child(11){--x0:14%;--y0:44%;--x1:45%;--y1:6%;--x2:55%;--y2:20%;--s:9px;--r:10s;--w:-22s}
+.nm-wind i:nth-child(12){--x0:15%;--y0:6%;--x1:10%;--y1:64%;--x2:65%;--y2:27%;--s:15px;--r:10s;--w:-14s}
+.nm-wind i:nth-child(13){--x0:68%;--y0:29%;--x1:96%;--y1:21%;--x2:56%;--y2:87%;--s:13px;--r:8s;--w:-12s}
+.nm-wind i:nth-child(14){--x0:56%;--y0:32%;--x1:3%;--y1:39%;--x2:78%;--y2:43%;--s:7px;--r:10s;--w:-5s}
+.nm-wind i:nth-child(15){--x0:53%;--y0:82%;--x1:85%;--y1:78%;--x2:15%;--y2:10%;--s:9px;--r:10s;--w:-14s}
+.nm-wind i:nth-child(16){--x0:36%;--y0:6%;--x1:81%;--y1:47%;--x2:40%;--y2:54%;--s:8px;--r:8s;--w:-2s}
+.nm-wind i:nth-child(17){--x0:29%;--y0:79%;--x1:84%;--y1:36%;--x2:4%;--y2:81%;--s:12px;--r:12s;--w:-19s}
+.nm-wind i:nth-child(18){--x0:61%;--y0:21%;--x1:78%;--y1:66%;--x2:76%;--y2:22%;--s:13px;--r:9s;--w:-20s}
+.nm-wind i:nth-child(19){--x0:40%;--y0:15%;--x1:5%;--y1:80%;--x2:42%;--y2:59%;--s:13px;--r:12s;--w:-4s}
+.nm-wind i:nth-child(20){--x0:95%;--y0:29%;--x1:37%;--y1:61%;--x2:4%;--y2:33%;--s:14px;--r:7s;--w:-3s}
+.nm-wind i:nth-child(21){--x0:13%;--y0:68%;--x1:56%;--y1:7%;--x2:68%;--y2:85%;--s:13px;--r:12s;--w:-24s}
+.nm-wind i:nth-child(22){--x0:10%;--y0:31%;--x1:7%;--y1:80%;--x2:50%;--y2:89%;--s:9px;--r:10s;--w:-23s}
+.nm-wind i:nth-child(23){--x0:49%;--y0:77%;--x1:50%;--y1:78%;--x2:39%;--y2:89%;--s:12px;--r:8s;--w:-26s}
+.nm-wind i:nth-child(24){--x0:63%;--y0:27%;--x1:94%;--y1:66%;--x2:78%;--y2:62%;--s:9px;--r:9s;--w:-25s}
+.nm-wind i:nth-child(25){--x0:25%;--y0:73%;--x1:44%;--y1:91%;--x2:69%;--y2:30%;--s:8px;--r:8s;--w:-3s}
+.nm-wind i:nth-child(26){--x0:57%;--y0:9%;--x1:75%;--y1:40%;--x2:76%;--y2:40%;--s:12px;--r:8s;--w:-11s}
+.nm-wind i:nth-child(27){--x0:39%;--y0:74%;--x1:42%;--y1:63%;--x2:73%;--y2:32%;--s:11px;--r:9s;--w:-3s}
+.nm-wind i:nth-child(28){--x0:82%;--y0:20%;--x1:93%;--y1:68%;--x2:33%;--y2:47%;--s:15px;--r:9s;--w:-23s}
+.nm-wind i:nth-child(29){--x0:78%;--y0:17%;--x1:52%;--y1:26%;--x2:60%;--y2:9%;--s:7px;--r:13s;--w:-12s}
+.nm-wind i:nth-child(30){--x0:5%;--y0:25%;--x1:31%;--y1:92%;--x2:4%;--y2:33%;--s:7px;--r:14s;--w:-23s}
+.nm-wind i:nth-child(31){--x0:14%;--y0:49%;--x1:5%;--y1:53%;--x2:65%;--y2:29%;--s:7px;--r:8s;--w:-8s}
+.nm-wind i:nth-child(32){--x0:62%;--y0:75%;--x1:28%;--y1:63%;--x2:40%;--y2:32%;--s:8px;--r:8s;--w:-17s}
+.nm-wind i:nth-child(33){--x0:70%;--y0:88%;--x1:24%;--y1:74%;--x2:74%;--y2:35%;--s:11px;--r:8s;--w:-13s}
+.nm-wind i:nth-child(34){--x0:24%;--y0:6%;--x1:59%;--y1:48%;--x2:87%;--y2:58%;--s:9px;--r:13s;--w:-2s}
+.nm-wind i:nth-child(35){--x0:91%;--y0:86%;--x1:33%;--y1:74%;--x2:40%;--y2:59%;--s:13px;--r:11s;--w:-24s}
+.nm-wind i:nth-child(36){--x0:74%;--y0:83%;--x1:73%;--y1:11%;--x2:39%;--y2:18%;--s:7px;--r:9s;--w:-10s}
+.nm-wind i:nth-child(37){--x0:51%;--y0:47%;--x1:32%;--y1:26%;--x2:52%;--y2:78%;--s:12px;--r:11s;--w:-12s}
+.nm-wind i:nth-child(38){--x0:96%;--y0:78%;--x1:4%;--y1:36%;--x2:87%;--y2:7%;--s:15px;--r:9s;--w:-4s}
+.nm-wind i:nth-child(39){--x0:95%;--y0:45%;--x1:24%;--y1:37%;--x2:86%;--y2:84%;--s:17px;--r:7s;--w:-3s}
+.nm-wind i:nth-child(40){--x0:78%;--y0:9%;--x1:58%;--y1:41%;--x2:30%;--y2:14%;--s:13px;--r:14s;--w:-4s}
+.nm-wind i:nth-child(41){--x0:74%;--y0:90%;--x1:5%;--y1:20%;--x2:15%;--y2:23%;--s:10px;--r:7s;--w:-8s}
+.nm-wind i:nth-child(42){--x0:43%;--y0:33%;--x1:82%;--y1:8%;--x2:80%;--y2:78%;--s:10px;--r:13s;--w:-28s}
+.nm-wind i:nth-child(43){--x0:10%;--y0:43%;--x1:54%;--y1:23%;--x2:16%;--y2:90%;--s:9px;--r:13s;--w:-0s}
+.nm-wind i:nth-child(44){--x0:87%;--y0:89%;--x1:66%;--y1:55%;--x2:32%;--y2:7%;--s:9px;--r:9s;--w:-2s}
+.nm-wind i:nth-child(45){--x0:61%;--y0:56%;--x1:57%;--y1:73%;--x2:38%;--y2:74%;--s:8px;--r:7s;--w:-20s}
+.nm-wind i:nth-child(46){--x0:62%;--y0:46%;--x1:25%;--y1:22%;--x2:11%;--y2:10%;--s:9px;--r:9s;--w:-28s}
+.nm-wind i:nth-child(47){--x0:55%;--y0:88%;--x1:93%;--y1:15%;--x2:80%;--y2:72%;--s:14px;--r:8s;--w:-7s}
+.nm-wind i:nth-child(48){--x0:31%;--y0:60%;--x1:49%;--y1:63%;--x2:90%;--y2:57%;--s:15px;--r:8s;--w:-21s}
+.nm-wind i:nth-child(49){--x0:38%;--y0:74%;--x1:30%;--y1:92%;--x2:34%;--y2:40%;--s:14px;--r:12s;--w:-25s}
+.nm-wind i:nth-child(50){--x0:82%;--y0:53%;--x1:40%;--y1:61%;--x2:96%;--y2:15%;--s:11px;--r:9s;--w:-6s}
+.nm-wind i:nth-child(51){--x0:6%;--y0:33%;--x1:26%;--y1:65%;--x2:88%;--y2:35%;--s:9px;--r:10s;--w:-17s}
+.nm-wind i:nth-child(52){--x0:75%;--y0:84%;--x1:22%;--y1:68%;--x2:45%;--y2:20%;--s:11px;--r:13s;--w:-21s}
+.nm-wind i:nth-child(53){--x0:95%;--y0:20%;--x1:60%;--y1:81%;--x2:94%;--y2:29%;--s:16px;--r:14s;--w:-12s}
+.nm-wind i:nth-child(54){--x0:48%;--y0:39%;--x1:48%;--y1:8%;--x2:25%;--y2:80%;--s:10px;--r:9s;--w:-16s}
+.nm-wind i:nth-child(55){--x0:69%;--y0:88%;--x1:25%;--y1:57%;--x2:96%;--y2:14%;--s:8px;--r:12s;--w:-6s}
+.nm-wind i:nth-child(56){--x0:90%;--y0:56%;--x1:42%;--y1:41%;--x2:22%;--y2:38%;--s:14px;--r:10s;--w:-26s}
+.nm-wind i:nth-child(57){--x0:18%;--y0:40%;--x1:82%;--y1:80%;--x2:56%;--y2:43%;--s:14px;--r:14s;--w:-22s}
+.nm-wind i:nth-child(58){--x0:33%;--y0:17%;--x1:67%;--y1:65%;--x2:79%;--y2:61%;--s:11px;--r:14s;--w:-5s}
+/* Ban ngày (Xuân Nhật): cánh hoa dày hơn (58 cánh); ban đêm chỉ dùng 36 hạt đầu. */
+.nm-wind i{background:#F6C9D3}
+.nm-stage:has(#nm-hero-night.on) .nm-wind i:nth-child(n+37){display:none}
+/* Xuân Nhật: cánh hoa bay chéo từ cây đào góc trên bên trái xuống góc dưới bên phải, rồi lặp lại. */
+.nm-stage:not(:has(#nm-hero-night.on)) .nm-wind i{left:var(--px0);top:var(--py0);opacity:0;animation:nm-petal var(--pd,16s) ease-in-out var(--pw,0s) infinite,nm-spin var(--r,9s) linear infinite}
+@keyframes nm-petal{
+  0%{left:var(--px0);top:var(--py0);opacity:0}
+  10%{opacity:.85}
+  50%{left:var(--pxm);top:var(--pym)}
+  90%{opacity:.8}
+  100%{left:var(--px3);top:var(--py3);opacity:0}}
+.nm-wind i:nth-child(1){--px0:17%;--py0:10%;--pxm:48%;--pym:61%;--px3:97%;--py3:103%;--pd:16s;--pw:-1s}
+.nm-wind i:nth-child(2){--px0:26%;--py0:4%;--pxm:60%;--pym:46%;--px3:82%;--py3:93%;--pd:19s;--pw:-17s}
+.nm-wind i:nth-child(3){--px0:1%;--py0:30%;--pxm:42%;--pym:54%;--px3:90%;--py3:70%;--pd:17s;--pw:-5s}
+.nm-wind i:nth-child(4){--px0:27%;--py0:18%;--pxm:51%;--pym:51%;--px3:85%;--py3:74%;--pd:15s;--pw:-4s}
+.nm-wind i:nth-child(5){--px0:-2%;--py0:-6%;--pxm:39%;--pym:34%;--px3:88%;--py3:83%;--pd:17s;--pw:-10s}
+.nm-wind i:nth-child(6){--px0:28%;--py0:6%;--pxm:55%;--pym:46%;--px3:88%;--py3:81%;--pd:17s;--pw:-0s}
+.nm-wind i:nth-child(7){--px0:9%;--py0:20%;--pxm:46%;--pym:42%;--px3:85%;--py3:79%;--pd:18s;--pw:-9s}
+.nm-wind i:nth-child(8){--px0:24%;--py0:-6%;--pxm:60%;--pym:36%;--px3:96%;--py3:74%;--pd:17s;--pw:-15s}
+.nm-wind i:nth-child(9){--px0:20%;--py0:14%;--pxm:59%;--pym:53%;--px3:86%;--py3:100%;--pd:13s;--pw:-4s}
+.nm-wind i:nth-child(10){--px0:28%;--py0:-5%;--pxm:53%;--pym:53%;--px3:97%;--py3:95%;--pd:19s;--pw:-11s}
+.nm-wind i:nth-child(11){--px0:10%;--py0:-6%;--pxm:52%;--pym:30%;--px3:103%;--py3:72%;--pd:14s;--pw:-12s}
+.nm-wind i:nth-child(12){--px0:5%;--py0:23%;--pxm:53%;--pym:69%;--px3:97%;--py3:102%;--pd:17s;--pw:-14s}
+.nm-wind i:nth-child(13){--px0:1%;--py0:17%;--pxm:51%;--pym:37%;--px3:93%;--py3:72%;--pd:16s;--pw:-10s}
+.nm-wind i:nth-child(14){--px0:14%;--py0:17%;--pxm:48%;--pym:62%;--px3:84%;--py3:91%;--pd:14s;--pw:-4s}
+.nm-wind i:nth-child(15){--px0:19%;--py0:14%;--pxm:49%;--pym:42%;--px3:94%;--py3:81%;--pd:17s;--pw:-15s}
+.nm-wind i:nth-child(16){--px0:3%;--py0:-3%;--pxm:49%;--pym:55%;--px3:80%;--py3:108%;--pd:13s;--pw:-3s}
+.nm-wind i:nth-child(17){--px0:21%;--py0:16%;--pxm:60%;--pym:52%;--px3:91%;--py3:99%;--pd:13s;--pw:-10s}
+.nm-wind i:nth-child(18){--px0:-1%;--py0:25%;--pxm:42%;--pym:63%;--px3:96%;--py3:83%;--pd:15s;--pw:-13s}
+.nm-wind i:nth-child(19){--px0:1%;--py0:4%;--pxm:46%;--pym:40%;--px3:102%;--py3:93%;--pd:19s;--pw:-9s}
+.nm-wind i:nth-child(20){--px0:2%;--py0:23%;--pxm:48%;--pym:69%;--px3:85%;--py3:103%;--pd:18s;--pw:-15s}
+.nm-wind i:nth-child(21){--px0:6%;--py0:12%;--pxm:50%;--pym:47%;--px3:105%;--py3:95%;--pd:19s;--pw:-17s}
+.nm-wind i:nth-child(22){--px0:28%;--py0:5%;--pxm:63%;--pym:41%;--px3:106%;--py3:91%;--pd:20s;--pw:-8s}
+.nm-wind i:nth-child(23){--px0:14%;--py0:29%;--pxm:53%;--pym:63%;--px3:107%;--py3:93%;--pd:22s;--pw:-21s}
+.nm-wind i:nth-child(24){--px0:-1%;--py0:13%;--pxm:47%;--pym:65%;--px3:98%;--py3:105%;--pd:17s;--pw:-9s}
+.nm-wind i:nth-child(25){--px0:28%;--py0:15%;--pxm:48%;--pym:67%;--px3:86%;--py3:107%;--pd:21s;--pw:-8s}
+.nm-wind i:nth-child(26){--px0:8%;--py0:11%;--pxm:63%;--pym:51%;--px3:104%;--py3:88%;--pd:18s;--pw:-8s}
+.nm-wind i:nth-child(27){--px0:18%;--py0:16%;--pxm:55%;--pym:59%;--px3:101%;--py3:92%;--pd:18s;--pw:-10s}
+.nm-wind i:nth-child(28){--px0:14%;--py0:3%;--pxm:58%;--pym:43%;--px3:108%;--py3:80%;--pd:20s;--pw:-9s}
+.nm-wind i:nth-child(29){--px0:20%;--py0:-1%;--pxm:69%;--pym:46%;--px3:101%;--py3:80%;--pd:19s;--pw:-9s}
+.nm-wind i:nth-child(30){--px0:17%;--py0:29%;--pxm:51%;--pym:46%;--px3:92%;--py3:71%;--pd:22s;--pw:-14s}
+.nm-wind i:nth-child(31){--px0:17%;--py0:5%;--pxm:45%;--pym:49%;--px3:89%;--py3:81%;--pd:16s;--pw:-5s}
+.nm-wind i:nth-child(32){--px0:-1%;--py0:2%;--pxm:36%;--pym:52%;--px3:82%;--py3:90%;--pd:16s;--pw:-1s}
+.nm-wind i:nth-child(33){--px0:11%;--py0:23%;--pxm:47%;--pym:67%;--px3:97%;--py3:94%;--pd:16s;--pw:-7s}
+.nm-wind i:nth-child(34){--px0:20%;--py0:17%;--pxm:50%;--pym:53%;--px3:75%;--py3:92%;--pd:19s;--pw:-3s}
+.nm-wind i:nth-child(35){--px0:20%;--py0:29%;--pxm:67%;--pym:50%;--px3:98%;--py3:72%;--pd:14s;--pw:-4s}
+.nm-wind i:nth-child(36){--px0:15%;--py0:26%;--pxm:55%;--pym:68%;--px3:96%;--py3:107%;--pd:15s;--pw:-13s}
+.nm-wind i:nth-child(37){--px0:11%;--py0:30%;--pxm:49%;--pym:60%;--px3:98%;--py3:99%;--pd:22s;--pw:-12s}
+.nm-wind i:nth-child(38){--px0:16%;--py0:24%;--pxm:44%;--pym:53%;--px3:87%;--py3:78%;--pd:13s;--pw:-6s}
+.nm-wind i:nth-child(39){--px0:1%;--py0:14%;--pxm:51%;--pym:55%;--px3:84%;--py3:90%;--pd:19s;--pw:-13s}
+.nm-wind i:nth-child(40){--px0:5%;--py0:25%;--pxm:52%;--pym:65%;--px3:93%;--py3:100%;--pd:15s;--pw:-8s}
+.nm-wind i:nth-child(41){--px0:21%;--py0:13%;--pxm:67%;--pym:40%;--px3:106%;--py3:86%;--pd:18s;--pw:-9s}
+.nm-wind i:nth-child(42){--px0:13%;--py0:12%;--pxm:39%;--pym:50%;--px3:84%;--py3:100%;--pd:22s;--pw:-14s}
+.nm-wind i:nth-child(43){--px0:5%;--py0:12%;--pxm:44%;--pym:36%;--px3:77%;--py3:78%;--pd:20s;--pw:-17s}
+.nm-wind i:nth-child(44){--px0:15%;--py0:11%;--pxm:44%;--pym:53%;--px3:90%;--py3:100%;--pd:20s;--pw:-8s}
+.nm-wind i:nth-child(45){--px0:25%;--py0:3%;--pxm:65%;--pym:51%;--px3:93%;--py3:88%;--pd:21s;--pw:-20s}
+.nm-wind i:nth-child(46){--px0:25%;--py0:1%;--pxm:50%;--pym:39%;--px3:76%;--py3:78%;--pd:21s;--pw:-10s}
+.nm-wind i:nth-child(47){--px0:17%;--py0:12%;--pxm:67%;--pym:43%;--px3:108%;--py3:71%;--pd:18s;--pw:-18s}
+.nm-wind i:nth-child(48){--px0:2%;--py0:-4%;--pxm:46%;--pym:46%;--px3:75%;--py3:86%;--pd:14s;--pw:-14s}
+.nm-wind i:nth-child(49){--px0:19%;--py0:28%;--pxm:57%;--pym:53%;--px3:87%;--py3:70%;--pd:22s;--pw:-18s}
+.nm-wind i:nth-child(50){--px0:20%;--py0:24%;--pxm:62%;--pym:59%;--px3:99%;--py3:100%;--pd:17s;--pw:-14s}
+.nm-wind i:nth-child(51){--px0:24%;--py0:-2%;--pxm:63%;--pym:43%;--px3:94%;--py3:70%;--pd:17s;--pw:-15s}
+.nm-wind i:nth-child(52){--px0:27%;--py0:13%;--pxm:61%;--pym:54%;--px3:84%;--py3:80%;--pd:20s;--pw:-10s}
+.nm-wind i:nth-child(53){--px0:15%;--py0:3%;--pxm:66%;--pym:47%;--px3:102%;--py3:107%;--pd:14s;--pw:-11s}
+.nm-wind i:nth-child(54){--px0:5%;--py0:11%;--pxm:33%;--pym:43%;--px3:80%;--py3:74%;--pd:19s;--pw:-2s}
+.nm-wind i:nth-child(55){--px0:10%;--py0:25%;--pxm:38%;--pym:49%;--px3:78%;--py3:77%;--pd:22s;--pw:-20s}
+.nm-wind i:nth-child(56){--px0:24%;--py0:1%;--pxm:58%;--pym:39%;--px3:83%;--py3:88%;--pd:15s;--pw:-5s}
+.nm-wind i:nth-child(57){--px0:11%;--py0:4%;--pxm:37%;--pym:51%;--px3:79%;--py3:83%;--pd:14s;--pw:-10s}
+.nm-wind i:nth-child(58){--px0:10%;--py0:-2%;--pxm:60%;--pym:44%;--px3:92%;--py3:73%;--pd:14s;--pw:-11s}
+@media (prefers-reduced-motion:reduce){.nm-stage img.on,.nm-wind i{animation:none}.nm-wind{display:none}}

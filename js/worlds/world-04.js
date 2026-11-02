@@ -98,7 +98,7 @@ function w4cover(){
   return '<img src="assets/w04/bia.webp" alt="Bìa Rừng Cổ Mộc" loading="lazy">';
 }
 
-WORLDS.w4={
+WORLDS.w4={roles:{av:["Nữ chính", "main", "Con gái tộc trưởng bộ lạc Bờ Sông, kiêu căng, vừa tỉnh dậy trong hang đá với cái trán sưng."],ad:["Nam chính, thợ săn", "main", "Thợ săn ngoại tộc, đòi vác A Vân về làm vợ."],lti:["Người được trời chọn", "foe", "Cô gái lạc từ một thế giới khác tới, được định là người đưa các bộ lạc đi lên."],ak:["Dũng sĩ đệ nhất", "neutral", "Dũng sĩ đệ nhất bộ lạc Bờ Sông, từ chối A Vân để chọn Lâm Tình."],amo:["Anh trai", "family", "Anh trai của A Vân, nổi giận khi A Kiên từ chối em gái."],ltt:["Cha, tộc trưởng", "family", "Lão tộc trưởng bộ lạc Bờ Sông, cha của A Vân."],al:["Bạn thân A Dã", "neutral", "Gã vai rộng, mặt có sẹo, bạn thân của A Dã ở Tộc Người Đá."],ami:["Người của A Lang", "foe", "Người phụ nữ xinh đẹp của A Lang, nói thẳng A Vân chỉ là đàn bà ngoại tộc mua bằng da thú."],ali:["Phụ nữ Người Đá", "neutral", "Người phụ nữ hiền lành ở bộ lạc Người Đá, ra đón A Vân bằng bát nước."],ang:["Dũng sĩ lớn tuổi", "foe", "Dũng sĩ lớn tuổi từng muốn làm tộc trưởng, chống lại A Vân."],bui:["Bạn đồng hành", "ally", "Sinh vật bạn đồng hành của hai người, ở trên tổ, báo tin và chở người."],mun:["Bạn đồng hành", "ally", "Sinh vật bạn đồng hành, đi cùng A Vân và A Dã."]},
  init:function(){return {ac:95,hac:70,sinh:100,bs:100,hao:0,nn:0}},
  /* Nghi ngờ (khóa nn): bộ lạc nghi cô là kẻ lạ, rồi là vu sử. Trên 30 thì mọi phép thử khó hơn. */
  mod:function(){return -.003*Math.max(0,S.nn-30)},

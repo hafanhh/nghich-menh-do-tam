@@ -14,7 +14,7 @@ export function bar(label,key,cls,big){
   dl=S.last&&S.last.deltas?Math.round(S.last.deltas[key]||0):0,
   dh=dl?'<em class="dl '+((up?dl>0:dl<0)?'t-good':'t-bad')+'">'+(dl>0?'+':'−')+Math.abs(dl)+'</em>':'',
   tip=up?"Càng cao càng tốt":"Càng thấp càng tốt, cần về 0",
-  hn=key==="hac"?"Chạm 100 là thua":(key==="ac"?"Hạ càng thấp":(key==="hao"?"Càng cao càng tốt":"")),hh=hn?'<small class="hint">'+hn+'</small>':'';
+  hh="";
   return '<div class="g'+(big?' big':'')+(lo<0?' bi':'')+'" title="'+label+': '+tip+'"><div class="row"><span class="mono">'+label+hh+'</span><span class="val '+t+'">'+dh+sg+Math.round(v)+'</span></div><div class="bar" role="meter" aria-label="'+label+', '+tip+'" aria-valuemin="'+lo+'" aria-valuemax="100" aria-valuenow="'+Math.round(v)+'"><i class="'+cls+' '+t+(v<0?' neg':'')+'" style="'+st+'"></i></div></div>';
 }
 /* Chip trạng thái riêng của thế giới (Độc canh, Âm khí, Nghi ngờ...): khác hẳn chip thuộc tính. dir "down": càng thấp càng tốt. */
