@@ -55,7 +55,7 @@
   "ends": {
     "true": {
       "n": "Tinh lọc trọn vẹn",
-      "c": "Đôi mắt hắn không còn đỏ nữa. Tiểu Châu đọc kết quả: đạt, trọn vẹn. Sáng nào hắn cũng nấu cháo, vẫn vụng về, vẫn mặn, và cô ăn hết.",
+      "c": "Đôi mắt hắn không còn đỏ nữa. Tiểu Châu đọc kết quả: đạt, trọn vẹn. Sáng nào hắn cũng nấu cháo, vẫn vụng về, vẫn mặn, và bạn ăn hết.",
       "gain": 120,
       "piece": 1,
       "heat": 0.1,
@@ -63,7 +63,7 @@
     },
     "near": {
       "n": "Gần như trọn vẹn",
-      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Trong mắt hắn thỉnh thoảng vẫn lóe một vệt đỏ nhạt, kèm tiếng nhiễu rất khẽ. Hắn sợ nó, nên bám lấy tay cô mỗi lần nó hiện ra. Cô ở lại, và hai người cùng chờ nó tan.",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Trong mắt hắn thỉnh thoảng vẫn lóe một vệt đỏ nhạt, kèm tiếng nhiễu rất khẽ. Hắn sợ nó, nên bám lấy tay bạn mỗi lần nó hiện ra. Bạn ở lại, và hai người cùng chờ nó tan.",
       "gain": 90,
       "piece": 1,
       "heat": 0.35,
@@ -71,7 +71,7 @@
     },
     "half": {
       "n": "Ở lại bên nhau",
-      "c": "Tiểu Châu đọc kết quả: chưa đạt... nhưng ngươi còn ở đây, và hắn cũng vậy. Đêm nào cô cũng giật mình thức dậy kiểm tra hơi thở của hắn. Có hôm hắn tự dọn ra xa để cô được an toàn, rồi lại im lặng quay về. Con đường còn dài, và họ vẫn đi cùng nhau.",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt... nhưng ngươi còn ở đây, và hắn cũng vậy. Đêm nào bạn cũng giật mình thức dậy kiểm tra hơi thở của hắn. Có hôm hắn tự dọn ra xa để bạn được an toàn, rồi lại im lặng quay về. Con đường còn dài, và họ vẫn đi cùng nhau.",
       "gain": 60,
       "piece": 0,
       "heat": 0.6,
@@ -79,7 +79,7 @@
     },
     "canon": {
       "n": "Còn lại giữa tro tàn",
-      "c": "Chiến trường đã thành tro, và ác niệm của hắn chưa từng buông. Nhưng hắn vẫn bế cô đi, vẫn không đẩy cô ra. Tiểu Châu không đọc kết quả. Nó chỉ nói: nhiệm vụ chưa xong, và hai người vẫn còn ở cạnh nhau.",
+      "c": "Chiến trường đã thành tro, và ác niệm của hắn chưa từng buông. Nhưng hắn vẫn bế bạn đi, vẫn không đẩy bạn ra. Tiểu Châu không đọc kết quả. Nó chỉ nói: nhiệm vụ chưa xong, và hai người vẫn còn ở cạnh nhau.",
       "gain": 30,
       "piece": 0,
       "heat": 1,
@@ -87,7 +87,7 @@
     },
     "black": {
       "n": "Ma hóa hoàn toàn",
-      "c": "Hắc hóa chạm 100. Hắn không còn nghe thấy ai nữa. Tiểu Châu kéo cô rời đi trước khi mọi thứ sụp đổ.",
+      "c": "Hắc hóa chạm 100. Hắn không còn nghe thấy ai nữa. Tiểu Châu kéo bạn rời đi trước khi mọi thứ sụp đổ.",
       "gain": 0,
       "piece": 0,
       "heat": 1,
@@ -95,7 +95,7 @@
     },
     "bdead": {
       "n": "Hắn gục xuống",
-      "c": "Sinh mệnh của Thương Dạ về 0. Nhiệm vụ thất bại, và người cô muốn cứu đã không còn ở đây.",
+      "c": "Sinh mệnh của Thương Dạ về 0. Nhiệm vụ thất bại, và người bạn muốn cứu đã không còn ở đây.",
       "gain": 0,
       "piece": 0,
       "heat": 0.9,
@@ -103,7 +103,7 @@
     },
     "dead": {
       "n": "Lăng Tuyết vẫn chết",
-      "c": "Sinh mệnh cạn kiệt, cô không qua nổi. Tiểu Châu thở dài và kéo linh hồn cô về không gian của nó.",
+      "c": "Sinh mệnh cạn kiệt, bạn không qua nổi. Tiểu Châu thở dài và kéo linh hồn bạn về không gian của nó.",
       "gain": 0,
       "piece": 0,
       "heat": 0.8,
@@ -117,7 +117,7 @@
       "place": "Ngoài hoang, giữa trận đánh",
       "kind": "hiem",
       "title": "Nhập vai trong tiếng đánh nhau",
-      "text": "Lăng Tuyết mở mắt giữa tiếng gầm của quái thú. Một chàng trai kéo cô nép sau tảng đá, che chắn bằng cả tấm lưng. Đó là người anh họ của cô. Trong đầu cô vang lên một giọng nói nhỏ xíu, vui vẻ lạ thường.",
+      "text": "Mở mắt giữa tiếng gầm của quái thú. Ký ức nguyên chủ ùa vào đầu: Lăng Tuyết, con gái độc nhất của gia chủ tộc Lăng, bị gia tộc gả cho Xà Vương Thương Dạ để cầu hòa; theo số mệnh, ba ngày nữa bạn sẽ bị hắn ăn thịt. Một chàng trai kéo bạn nép sau tảng đá, che chắn bằng cả tấm lưng. Đó là người anh họ của bạn, đang cùng bạn trốn khỏi cuộc hôn nhân ấy. Trong đầu bạn vang lên một giọng nói nhỏ xíu, vui vẻ lạ thường.",
       "tieu": "Chào mừng đến thế giới cao cấp. Ngươi là Lăng Tuyết, và ba ngày nữa ngươi bị ăn.",
       "cast": "lt,mtt,tc",
       "ch": [
@@ -126,14 +126,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh họ siết tay cô, che kín hơn nữa. Cô kịp nhìn rõ cả bãi chiến trường.",
+            "x": "Anh họ siết tay bạn, che kín hơn nữa. Bạn kịp nhìn rõ cả bãi chiến trường.",
             "d": {
               "hao": 1
             }
           },
           "b": 0.65,
           "bad": {
-            "x": "Một mảnh đá văng trúng vai cô.",
+            "x": "Một mảnh đá văng trúng vai bạn.",
             "d": {
               "sinh": -6
             }
@@ -144,14 +144,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô nhận ra thú nào bị đau ở chân trước. Một lối thoát hiện ra.",
+            "x": "Bạn nhận ra thú nào bị đau ở chân trước. Một lối thoát hiện ra.",
             "d": {
               "se": -2
             }
           },
           "b": 0.55,
           "bad": {
-            "x": "Cô nhìn quá lâu, suýt bị thú đuôi gai quất trúng.",
+            "x": "Bạn nhìn quá lâu, suýt bị thú đuôi gai quất trúng.",
             "d": {
               "sinh": -8
             }
@@ -162,12 +162,12 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô chạy trúng đúng khoảng trống giữa hai đợt tấn công.",
+            "x": "Bạn chạy trúng đúng khoảng trống giữa hai đợt tấn công.",
             "d": {}
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô vấp chân, lăn mấy vòng xuống sườn dốc.",
+            "x": "Bạn vấp chân, lăn mấy vòng xuống sườn dốc.",
             "d": {
               "sinh": -10
             }
@@ -187,7 +187,7 @@
       "place": "Ngoài hoang, sau trận đánh",
       "kind": "chon",
       "title": "Ba ngày để sống",
-      "text": "Khi tiếng đánh nhau lắng xuống, Tiểu Châu giải thích: theo số mệnh, cô sẽ bị Xà Vương ăn thịt trong ba ngày nữa. Nhiệm vụ là độ hóa hắn, và công đức của chính Tiểu Châu cũng đang treo trên cô.",
+      "text": "Khi tiếng đánh nhau lắng xuống, Tiểu Châu giải thích: theo số mệnh, bạn sẽ bị Xà Vương ăn thịt trong ba ngày nữa. Nhiệm vụ là độ hóa hắn, và công đức của chính Tiểu Châu cũng đang treo trên bạn.",
       "tieu": "Ba ngày. Ta nói rồi nhé, ba ngày. Đừng nhìn ta như thế.",
       "cast": "lt,tc",
       "ch": [
@@ -196,7 +196,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Tiểu Châu kể: hắn là rắn đỏ bốn móng, thích sạch sẽ và ghét tiếng ồn. Cô ghi hết vào đầu.",
+            "x": "Tiểu Châu kể: hắn là rắn đỏ bốn móng, thích sạch sẽ và ghét tiếng ồn. Bạn ghi hết vào đầu.",
             "d": {
               "ac": -1
             }
@@ -212,14 +212,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô chia ba ngày thành ba việc cần làm. Đầu óc nhẹ đi hẳn.",
+            "x": "Bạn chia ba ngày thành ba việc cần làm. Đầu óc nhẹ đi hẳn.",
             "d": {
               "se": -3
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Kế hoạch có lỗ hổng, và cô chỉ nhận ra khi đã lỡ nói với anh họ.",
+            "x": "Kế hoạch có lỗ hổng, và bạn chỉ nhận ra khi đã lỡ nói với anh họ.",
             "d": {
               "nn": 3
             }
@@ -249,7 +249,7 @@
         "s": "van",
         "v": 2
       },
-      "text": "Lăng Tuyết vừa trốn khỏi nhà cùng người anh họ. Bên suối, cô gội tóc và nhặt được một con thỏ tai dài, mắt đỏ như hạt lựu chín. Nó nhìn cô hơi lâu so với một con thỏ.",
+      "text": "Bạn vừa trốn khỏi nhà cùng người anh họ. Bên suối, bạn gội tóc và nhặt được một con thỏ tai dài, mắt đỏ như hạt lựu chín. Nó nhìn bạn hơi lâu so với một con thỏ.",
       "tieu": "Ba ngày nữa ngươi bị ăn. Đừng ôm bất cứ thứ gì có mắt đỏ.",
       "ch": [
         {
@@ -258,7 +258,7 @@
           "s": "mi",
           "b": 0.6,
           "ok": {
-            "x": "Con thỏ nằm yên trong tay cô, mắt đỏ nheo lại như sắp ngủ.",
+            "x": "Con thỏ nằm yên trong tay bạn, mắt đỏ nheo lại như sắp ngủ.",
             "d": {
               "ac": -2,
               "hao": 6
@@ -266,7 +266,7 @@
             "f": "tho"
           },
           "bad": {
-            "x": "Nó cắn nhẹ vào ngón tay cô rồi vẫn không chịu rời.",
+            "x": "Nó cắn nhẹ vào ngón tay bạn rồi vẫn không chịu rời.",
             "d": {
               "sinh": -5,
               "hac": 2
@@ -286,7 +286,7 @@
             }
           },
           "bad": {
-            "x": "Thỏ không đi. Nó lặng lẽ theo sau cô suốt dọc đường.",
+            "x": "Thỏ không đi. Nó lặng lẽ theo sau bạn suốt dọc đường.",
             "d": {
               "hao": -2
             },
@@ -304,7 +304,7 @@
       "place": "Bờ suối Lạc Mai",
       "kind": "hiem",
       "title": "Thỏ uống máu người",
-      "text": "Người anh họ bất ngờ đổi sắc mặt, lộ ý đồ đen tối và giữ chặt cổ tay cô. Con thỏ nhảy lên cắn vào tay hắn. Máu chảy, hắn ngã lăn bất tỉnh. Mắt thỏ đỏ rực như vừa uống thứ gì ngọt.",
+      "text": "Người anh họ bất ngờ đổi sắc mặt, lộ ý đồ đen tối và giữ chặt cổ tay bạn. Con thỏ nhảy lên cắn vào tay hắn. Máu chảy, hắn ngã lăn bất tỉnh. Mắt thỏ đỏ rực như vừa uống thứ gì ngọt.",
       "tieu": "Chim thanh loan ở gần đây. Đi thôi trước khi hắn tỉnh.",
       "cast": "lt,mtt,bong",
       "ch": [
@@ -313,12 +313,12 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Con chim to lao xuống đúng lúc. Cô ôm thỏ nhảy lên lưng nó.",
+            "x": "Con chim to lao xuống đúng lúc. Bạn ôm thỏ nhảy lên lưng nó.",
             "d": {}
           },
           "b": 0.55,
           "bad": {
-            "x": "Chim đến chậm, cô phải chạy bộ nửa quãng đường.",
+            "x": "Chim đến chậm, bạn phải chạy bộ nửa quãng đường.",
             "d": {
               "sinh": -6
             }
@@ -329,7 +329,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh họ choàng tỉnh, lắp bắp xin lỗi. Cô thở ra, dù không tin.",
+            "x": "Anh họ choàng tỉnh, lắp bắp xin lỗi. Bạn thở ra, dù không tin.",
             "d": {
               "hao": -2
             }
@@ -347,12 +347,12 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô kéo hắn về, bịa một cái cớ đủ hợp lý.",
+            "x": "Bạn kéo hắn về, bịa một cái cớ đủ hợp lý.",
             "d": {}
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô vụng về đến mức gia nhân nhìn là biết có chuyện.",
+            "x": "Bạn vụng về đến mức gia nhân nhìn là biết có chuyện.",
             "d": {
               "nn": 6
             }
@@ -372,7 +372,7 @@
         "s": "mi",
         "v": 1
       },
-      "text": "Trưởng lão nhốt cô trong sân với ba lớp kết giới và một bầu rượu. Cô nâng bầu, rót cho con thỏ một ngụm, rồi bắt đầu múa. Đồng tử nó dựng thành khe hẹp, nhưng cô chỉ thấy rượu ngon.",
+      "text": "Trưởng lão nhốt bạn trong sân với ba lớp kết giới và một bầu rượu. Bạn nâng bầu, rót cho con thỏ một ngụm, rồi bắt đầu múa. Đồng tử nó dựng thành khe hẹp, nhưng bạn chỉ thấy rượu ngon.",
       "tieu": "Ngươi đang nhảy múa trước mặt boss mà không biết. Tuyệt vời.",
       "ch": [
         {
@@ -381,14 +381,14 @@
           "s": "mi",
           "b": 0.55,
           "ok": {
-            "x": "Tiếng hát vu vơ của cô vang khắp sân. Hắn nhìn không chớp mắt.",
+            "x": "Tiếng hát vu vơ của bạn vang khắp sân. Hắn nhìn không chớp mắt.",
             "d": {
               "ac": -4,
               "hao": 8
             }
           },
           "bad": {
-            "x": "Cô gục xuống giữa chừng, trưởng lão phải khiêng về phòng.",
+            "x": "Bạn gục xuống giữa chừng, trưởng lão phải khiêng về phòng.",
             "d": {
               "sinh": -8,
               "hac": 2
@@ -401,14 +401,14 @@
           "s": "tri",
           "b": 0.5,
           "ok": {
-            "x": "Cô kể hết nỗi sợ ngày mai. Con thỏ không nhúc nhích suốt đêm.",
+            "x": "Bạn kể hết nỗi sợ ngày mai. Con thỏ không nhúc nhích suốt đêm.",
             "d": {
               "ac": -3,
               "hao": 5
             }
           },
           "bad": {
-            "x": "Cô nói nửa chừng thì thiếp đi, nước mắt còn ướt trên má.",
+            "x": "Bạn nói nửa chừng thì thiếp đi, nước mắt còn ướt trên má.",
             "d": {
               "hao": 1
             }
@@ -434,7 +434,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn dừng lại giữa sân rất lâu, mắt đỏ nhìn cô không rời.",
+            "x": "Hắn dừng lại giữa sân rất lâu, mắt đỏ nhìn bạn không rời.",
             "d": {
               "ac": -2,
               "hao": 4
@@ -442,7 +442,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Mắt hắn quét qua cô, lạnh lẽo như kim loại.",
+            "x": "Mắt hắn quét qua bạn, lạnh lẽo như kim loại.",
             "d": {
               "sinh": -10,
               "hac": 2
@@ -454,12 +454,12 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô lùi khéo, không ai nhận ra.",
+            "x": "Bạn lùi khéo, không ai nhận ra.",
             "d": {}
           },
           "b": 0.55,
           "bad": {
-            "x": "Cô vấp phải bậc cửa, tiếng động đủ làm hắn quay đầu.",
+            "x": "Bạn vấp phải bậc cửa, tiếng động đủ làm hắn quay đầu.",
             "d": {
               "sinh": -8
             }
@@ -478,7 +478,7 @@
           },
           "b": 0.4,
           "bad": {
-            "x": "Hắn nhíu mày, và cô hiểu mình vừa nói điều dại dột.",
+            "x": "Hắn nhíu mày, và bạn hiểu mình vừa nói điều dại dột.",
             "d": {
               "sinh": -12
             }
@@ -497,7 +497,7 @@
         "s": "mi",
         "v": 2
       },
-      "text": "Trưởng lão ép cô phải hy sinh vì gia tộc. Đêm đó, váy cưới đỏ được đưa vào phòng. Sáng ra, chiếc kiệu đến đón lại trắng toát, dệt bằng tơ tuyết vạn năm.",
+      "text": "Trưởng lão ép bạn phải hy sinh vì gia tộc. Đêm đó, váy cưới đỏ được đưa vào phòng. Sáng ra, chiếc kiệu đến đón lại trắng toát, dệt bằng tơ tuyết vạn năm.",
       "tieu": "Hắn chọn màu trắng vì thấy hợp với ngươi. Ta nói thật đấy.",
       "ch": [
         {
@@ -506,14 +506,14 @@
           "s": "mi",
           "b": 0.6,
           "ok": {
-            "x": "Họ tin cô ngoan ngoãn và nới lỏng canh gác suốt chặng đường.",
+            "x": "Họ tin bạn ngoan ngoãn và nới lỏng canh gác suốt chặng đường.",
             "d": {
               "hao": 2,
               "ac": -1
             }
           },
           "bad": {
-            "x": "Một trưởng lão nheo mắt nhìn quá lâu, cô phải gồng nụ cười đến mỏi má.",
+            "x": "Một trưởng lão nheo mắt nhìn quá lâu, bạn phải gồng nụ cười đến mỏi má.",
             "d": {
               "sinh": -5
             }
@@ -525,13 +525,13 @@
           "s": "tri",
           "b": 0.45,
           "ok": {
-            "x": "Họ miễn cưỡng đồng ý để cô mang theo vài món đồ riêng.",
+            "x": "Họ miễn cưỡng đồng ý để bạn mang theo vài món đồ riêng.",
             "d": {
               "hao": 3
             }
           },
           "bad": {
-            "x": "Họ cười nhạt, tước luôn món trâm cô định giữ.",
+            "x": "Họ cười nhạt, tước luôn món trâm bạn định giữ.",
             "d": {
               "sinh": -6,
               "hao": -1
@@ -553,7 +553,7 @@
         "s": "tri",
         "v": 1
       },
-      "text": "Hắn không xuất hiện. Cô thức dậy giữa bốn cô tỳ nữ xinh đẹp, thái độ lười nhác như chẳng để ý tân nương loài người. Trong chưa đầy một canh giờ, tiếng cười đã vang khắp điện.",
+      "text": "Hắn không xuất hiện. Bạn thức dậy giữa bốn bạn tỳ nữ xinh đẹp, thái độ lười nhác như chẳng để ý tân nương loài người. Trong chưa đầy một canh giờ, tiếng cười đã vang khắp điện.",
       "tieu": "Không có hắn thì không có điểm công đức. Hãy nghĩ cách đi.",
       "ch": [
         {
@@ -582,7 +582,7 @@
           "s": "tri",
           "b": 0.6,
           "ok": {
-            "x": "Thanh Dao lén dặn cô những điều không nên làm trong điện.",
+            "x": "Thanh Dao lén dặn bạn những điều không nên làm trong điện.",
             "d": {
               "hao": 2,
               "sinh": 3
@@ -606,7 +606,7 @@
       "kind": "hiem",
       "title": "Đêm bịt mắt",
       "learn": null,
-      "text": "Chơi trò bịt mắt với đám tỳ nữ, cô ôm chầm lấy một người cao lớn và hôn lên môi hắn trước khi kịp hiểu ra. Kéo dải lụa xuống, cô thấy đôi mắt đỏ sẫm quen thuộc. Hắn nói đã nghe hết mọi câu đùa của cô suốt một tháng.",
+      "text": "Chơi trò bịt mắt với đám tỳ nữ, bạn ôm chầm lấy một người cao lớn và hôn lên môi hắn trước khi kịp hiểu ra. Kéo dải lụa xuống, bạn thấy đôi mắt đỏ sẫm quen thuộc. Hắn nói đã nghe hết mọi câu đùa của bạn suốt một tháng.",
       "tieu": "Nhiệm vụ thất bại! Đùa thôi, hắn chưa ăn ngươi. Chưa.",
       "ch": [
         {
@@ -623,7 +623,7 @@
             }
           },
           "bad": {
-            "x": "Tay hắn siết quanh eo cô thêm một nhịp. Cô nghẹt thở.",
+            "x": "Tay hắn siết quanh eo bạn thêm một nhịp. Bạn nghẹt thở.",
             "d": {
               "ac": -3,
               "sinh": -12
@@ -636,7 +636,7 @@
           "s": "tri",
           "b": 0.5,
           "ok": {
-            "x": "Hắn nhìn cô như nhìn một con thú nhỏ lạc đường, rồi buông ra.",
+            "x": "Hắn nhìn bạn như nhìn một con thú nhỏ lạc đường, rồi buông ra.",
             "d": {
               "ac": -4,
               "hao": 3
@@ -661,7 +661,7 @@
       "place": "Vực Xích Hà, tẩm cung",
       "kind": "chon",
       "title": "Vượt cám dỗ huyết nhục",
-      "text": "Đêm đó hắn nhìn cô lâu hơn mọi khi, và Tiểu Châu thì thầm: Hắn đang đói. Muốn hắn đừng ăn thịt ngươi thì hãy làm hắn thấy dễ chịu cả thân lẫn tâm. Cô thấy tim đập mạnh.",
+      "text": "Đêm đó hắn nhìn bạn lâu hơn mọi khi, và Tiểu Châu thì thầm: Hắn đang đói. Muốn hắn đừng ăn thịt ngươi thì hãy làm hắn thấy dễ chịu cả thân lẫn tâm. Bạn thấy tim đập mạnh.",
       "tieu": "Làm hắn dễ chịu. Đúng như tên gọi, nhẹ thôi, nghe chưa.",
       "cast": "lt,td,tc",
       "ch": [
@@ -670,7 +670,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn ngồi im ăn hết, rồi không nói gì. Đêm hôm đó hắn không còn nhìn cô như thức ăn nữa.",
+            "x": "Hắn ngồi im ăn hết, rồi không nói gì. Đêm hôm đó hắn không còn nhìn bạn như thức ăn nữa.",
             "d": {
               "ac": -5,
               "hao": 3
@@ -678,7 +678,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Hắn nếm một miếng rồi đặt đũa xuống. Mắt hắn vẫn dán vào cổ cô.",
+            "x": "Hắn nếm một miếng rồi đặt đũa xuống. Mắt hắn vẫn dán vào cổ bạn.",
             "d": {
               "sinh": -8,
               "ac": -1
@@ -690,7 +690,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn ngủ thiếp đi trên đùi cô lần đầu tiên. Hắc khí tản dần.",
+            "x": "Hắn ngủ thiếp đi trên đùi bạn lần đầu tiên. Hắc khí tản dần.",
             "d": {
               "ac": -5,
               "hao": 4
@@ -710,7 +710,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn hỏi thêm, rồi hỏi thêm. Cô kể đến khi trời sáng.",
+            "x": "Hắn hỏi thêm, rồi hỏi thêm. Bạn kể đến khi trời sáng.",
             "d": {
               "ac": -4,
               "hao": 3
@@ -733,7 +733,7 @@
       "place": "Vực Xích Hà, tẩm cung",
       "kind": "chon",
       "title": "Giảm từng điểm một",
-      "text": "Con số trong đầu cô giảm chậm như nước nhỏ giọt: 94, rồi 93. Tiểu Châu tính toán suốt ngày. Có ngày cô nản đến mức muốn bỏ cuộc, rồi lại nhớ ra mình không có lựa chọn nào khác.",
+      "text": "Con số trong đầu bạn giảm chậm như nước nhỏ giọt: 94, rồi 93. Tiểu Châu tính toán suốt ngày. Có ngày bạn nản đến mức muốn bỏ cuộc, rồi lại nhớ ra mình không có lựa chọn nào khác.",
       "tieu": "Chậm thì chậm, miễn là xuống. Ngươi đừng nhìn ta kiểu đó.",
       "cast": "lt,tc",
       "ch": [
@@ -750,7 +750,7 @@
           },
           "b": 0.6,
           "bad": {
-            "x": "Cô quên mất hai hôm, và con số nhích ngược lên.",
+            "x": "Bạn quên mất hai hôm, và con số nhích ngược lên.",
             "d": {
               "ac": 0
             }
@@ -761,7 +761,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô tình cờ gặp đúng lúc hắn cần một người bên cạnh.",
+            "x": "Bạn tình cờ gặp đúng lúc hắn cần một người bên cạnh.",
             "d": {
               "ac": -6,
               "hao": 2
@@ -769,7 +769,7 @@
           },
           "b": 0.45,
           "bad": {
-            "x": "Cô vội quá, và hắn nhìn cô lạnh lùng cả buổi.",
+            "x": "Bạn vội quá, và hắn nhìn bạn lạnh lùng cả buổi.",
             "d": {
               "ac": 2,
               "hao": -2
@@ -781,7 +781,7 @@
           "h": "Chắc chắn",
           "s": null,
           "ok": {
-            "x": "Cô ngủ đến trưa, ăn ba bữa. Tiểu Châu giận nhưng không nói.",
+            "x": "Bạn ngủ đến trưa, ăn ba bữa. Tiểu Châu giận nhưng không nói.",
             "d": {
               "sinh": 5,
               "ac": -1
@@ -798,7 +798,7 @@
       "place": "Vực Xích Hà, tẩm cung",
       "kind": "nan",
       "title": "Chén thuốc đen",
-      "text": "Hắn đặt trước mặt cô một chén thuốc đen và nói cô đang mang thai, thứ này sẽ giúp cô bỏ đi. Cô biết mình không có thai. Hắn đứng nhìn, không chớp mắt, chờ xem cô sẽ làm gì.",
+      "text": "Hắn đặt trước mặt bạn một chén thuốc đen và nói bạn đang mang thai, thứ này sẽ giúp bạn bỏ đi. Bạn biết mình không có thai. Hắn đứng nhìn, không chớp mắt, chờ xem bạn sẽ làm gì.",
       "tieu": "Hắn đang thử ngươi. Chén thuốc thì không độc, nhưng câu trả lời thì có.",
       "cast": "lt,td",
       "ch": [
@@ -807,7 +807,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Tiếng vỡ vang khắp điện. Hắn siết tay cô thật chặt, và không nói gì. Về sau, ác niệm của hắn tụt mạnh.",
+            "x": "Tiếng vỡ vang khắp điện. Hắn siết tay bạn thật chặt, và không nói gì. Về sau, ác niệm của hắn tụt mạnh.",
             "d": {
               "ac": -10,
               "hao": 4
@@ -815,7 +815,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô sặc thuốc, ho nghẹt thở. Hắn nhìn đầy nghi hoặc.",
+            "x": "Bạn sặc thuốc, ho nghẹt thở. Hắn nhìn đầy nghi hoặc.",
             "d": {
               "sinh": -10,
               "ac": -2
@@ -827,7 +827,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn dừng lại, rồi chậm rãi cất chén đi. Cô vừa vượt qua một phép thử.",
+            "x": "Hắn dừng lại, rồi chậm rãi cất chén đi. Bạn vừa vượt qua một phép thử.",
             "d": {
               "ac": -8,
               "hao": 3
@@ -835,7 +835,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Hắn không trả lời, chỉ nhìn cô như nhìn một câu đố chưa giải.",
+            "x": "Hắn không trả lời, chỉ nhìn bạn như nhìn một câu đố chưa giải.",
             "d": {
               "ac": -1
             }
@@ -874,7 +874,7 @@
         "s": "tri",
         "v": 1
       },
-      "text": "Vài tháng liền hắn không đến phòng cô. Cả điện đồn rằng hắn đang sủng ái các nữ yêu. Cô ngồi cắn hạt dưa, hát một bài vu vơ.",
+      "text": "Vài tháng liền hắn không đến phòng bạn. Cả điện đồn rằng hắn đang sủng ái các nữ yêu. Bạn ngồi cắn hạt dưa, hát một bài vu vơ.",
       "tieu": "Ác niệm của hắn vừa tụt mười điểm! Ta không hiểu tại sao.",
       "ch": [
         {
@@ -883,14 +883,14 @@
           "s": "van",
           "b": 0.5,
           "ok": {
-            "x": "Cô không hề biết hắn lén vào phòng mỗi đêm khi cô đã ngủ.",
+            "x": "Bạn không hề biết hắn lén vào phòng mỗi đêm khi bạn đã ngủ.",
             "d": {
               "ac": -10,
               "hao": 2
             }
           },
           "bad": {
-            "x": "Một chuyện nhỏ làm cô tỉnh dậy giữa đêm, thấy cửa vừa khép lại.",
+            "x": "Một chuyện nhỏ làm bạn tỉnh dậy giữa đêm, thấy cửa vừa khép lại.",
             "d": {
               "ac": -4,
               "hao": 1
@@ -903,7 +903,7 @@
           "s": "tri",
           "b": 0.55,
           "ok": {
-            "x": "Cô phát hiện những nữ yêu kia chưa từng được hắn chạm tới.",
+            "x": "Bạn phát hiện những nữ yêu kia chưa từng được hắn chạm tới.",
             "d": {
               "ac": -6,
               "hao": 6
@@ -911,7 +911,7 @@
             "f": "knows"
           },
           "bad": {
-            "x": "Cô hỏi nhầm người, một tỳ nữ nhìn cô thật lạ.",
+            "x": "Bạn hỏi nhầm người, một tỳ nữ nhìn bạn thật lạ.",
             "d": {
               "hao": -2,
               "sinh": -4
@@ -929,7 +929,7 @@
       "place": "Vực Xích Hà, tẩm cung",
       "kind": "chon",
       "title": "Cánh và điểm yếu",
-      "text": "Hắn nói muốn hiện thú thể trước mặt cô. Nghe vậy, tim cô suýt rơi khỏi lồng ngực. Cô xin thêm thời gian, và hắn đồng ý. Đêm đó hắn tự để lộ đôi cánh, thứ hắn chưa từng cho ai thấy.",
+      "text": "Hắn nói muốn hiện thú thể trước mặt bạn. Nghe vậy, tim bạn suýt rơi khỏi lồng ngực. Bạn xin thêm thời gian, và hắn đồng ý. Đêm đó hắn tự để lộ đôi cánh, thứ hắn chưa từng cho ai thấy.",
       "tieu": "Cánh. Điểm yếu của hắn. Ngươi vừa được trao nó như một món quà.",
       "cast": "lt,td",
       "ch": [
@@ -958,7 +958,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn nhìn cô lâu. Hắc hóa dịu xuống một phần.",
+            "x": "Hắn nhìn bạn lâu. Hắc hóa dịu xuống một phần.",
             "d": {
               "ac": -8,
               "hac": -3,
@@ -986,7 +986,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Hắn nhìn cô như nhìn kẻ đã đi quá xa.",
+            "x": "Hắn nhìn bạn như nhìn kẻ đã đi quá xa.",
             "d": {
               "hac": 2
             }
@@ -1005,7 +1005,7 @@
         "s": "mi",
         "v": 1
       },
-      "text": "Cô mang một chiếc lò nướng nhỏ vào tẩm cung vì muốn nướng thịt cho hắn ăn. Chu Linh, tỳ nữ vẫn cười dịu dàng mỗi sáng, bỗng đổi sắc mặt: vương không ăn thứ đồ chín dơ bẩn ấy.",
+      "text": "Bạn mang một chiếc lò nướng nhỏ vào tẩm cung vì muốn nướng thịt cho hắn ăn. Chu Linh, tỳ nữ vẫn cười dịu dàng mỗi sáng, bỗng đổi sắc mặt: vương không ăn thứ đồ chín dơ bẩn ấy.",
       "tieu": "Ta ngửi thấy mùi ghen tuông. Chạy đi hoặc dỗ ngọt, tùy ngươi.",
       "ch": [
         {
@@ -1014,7 +1014,7 @@
           "s": "mi",
           "b": 0.6,
           "ok": {
-            "x": "Chu Linh hừ một tiếng nhưng vẫn mách cô vài sở thích của hắn.",
+            "x": "Chu Linh hừ một tiếng nhưng vẫn mách bạn vài sở thích của hắn.",
             "d": {
               "hao": 2,
               "sinh": 2
@@ -1041,7 +1041,7 @@
             }
           },
           "bad": {
-            "x": "Hắn thấy cô mách lẻo, ánh mắt chợt lạnh.",
+            "x": "Hắn thấy bạn mách lẻo, ánh mắt chợt lạnh.",
             "d": {
               "hac": 4,
               "hao": -4
@@ -1059,7 +1059,7 @@
       "kind": "nan",
       "title": "Vu độc phát tác",
       "setf": "vu",
-      "text": "Long thú và Dực Xà liên thủ bắt hắn, nhờ một loại vu độc đã nằm sẵn trong người cô từ trước khi gả mà chính cô cũng không biết. Hắn bị nhốt trong lồng, máu loang khắp sàn. Tiểu Châu gào lên: Hắc hóa 100, Ác niệm 99.",
+      "text": "Long thú và Dực Xà liên thủ bắt hắn, nhờ một loại vu độc đã nằm sẵn trong người bạn từ trước khi gả mà chính bạn cũng không biết. Hắn bị nhốt trong lồng, máu loang khắp sàn. Tiểu Châu gào lên: Hắc hóa 100, Ác niệm 99.",
       "tieu": "Chuyện lớn rồi. Thoát thân trước đã.",
       "forced": true,
       "ch": [
@@ -1068,7 +1068,7 @@
           "h": "Chắc chắn thoát",
           "s": null,
           "ok": {
-            "x": "Cô chạy được, nhưng chưa biết chính mình là con đường vu độc đã đi qua.",
+            "x": "Bạn chạy được, nhưng chưa biết chính mình là con đường vu độc đã đi qua.",
             "d": {
               "set": {
                 "hac": 95,
@@ -1083,7 +1083,7 @@
           "s": "tri",
           "b": 0.35,
           "ok": {
-            "x": "Cô lẻn tới sát lồng và kịp thấy hắn nhìn cô qua song sắt.",
+            "x": "Bạn lẻn tới sát lồng và kịp thấy hắn nhìn bạn qua song sắt.",
             "d": {
               "set": {
                 "hac": 95,
@@ -1095,7 +1095,7 @@
             "f": "saw"
           },
           "bad": {
-            "x": "Lính canh phát hiện, cô bị đẩy ra ngoài với vết bầm khắp người.",
+            "x": "Lính canh phát hiện, bạn bị đẩy ra ngoài với vết bầm khắp người.",
             "d": {
               "set": {
                 "hac": 95,
@@ -1116,7 +1116,7 @@
       "place": "Phủ Lăng gia, đại sảnh",
       "kind": "chon",
       "title": "Anh hùng không mong muốn",
-      "text": "Cô trở về phủ Lăng và bị cả nhà đứng chờ ở cổng, hoa tung đầy trời. Họ tôn cô là nữ anh hùng, vì tin rằng chính cô đã hạ vu độc của tộc Ngự thú lên Xà Vương. Cô không hiểu họ đang nói gì.",
+      "text": "Bạn trở về phủ Lăng và bị cả nhà đứng chờ ở cổng, hoa tung đầy trời. Họ tôn bạn là nữ anh hùng, vì tin rằng chính bạn đã hạ vu độc của tộc Ngự thú lên Xà Vương. Bạn không hiểu họ đang nói gì.",
       "tieu": "Họ gọi ngươi là anh hùng. Ta nghĩ ngươi nên lo lắng thì hơn.",
       "cast": "lt,hn,mtt",
       "ch": [
@@ -1125,7 +1125,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Họ vỗ tay lớn hơn nữa. Cô biết mình vừa vay thêm một khoản nợ.",
+            "x": "Họ vỗ tay lớn hơn nữa. Bạn biết mình vừa vay thêm một khoản nợ.",
             "d": {
               "nn": -5,
               "se": 5
@@ -1133,7 +1133,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Nụ cười của cô hơi cứng, và có người để ý.",
+            "x": "Nụ cười của bạn hơi cứng, và có người để ý.",
             "d": {
               "nn": 5
             }
@@ -1144,7 +1144,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô khéo léo moi được vài mảnh sự thật về vu độc.",
+            "x": "Bạn khéo léo moi được vài mảnh sự thật về vu độc.",
             "d": {
               "se": -3
             },
@@ -1163,7 +1163,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô nhận ra hai người chẳng cười chút nào. Cô ghi nhớ khuôn mặt họ.",
+            "x": "Bạn nhận ra hai người chẳng cười chút nào. Bạn ghi nhớ khuôn mặt họ.",
             "d": {
               "se": -2
             },
@@ -1171,7 +1171,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô nhìn nhầm người, và một bàn tay nắm vai cô thật chặt.",
+            "x": "Bạn nhìn nhầm người, và một bàn tay nắm vai bạn thật chặt.",
             "d": {
               "nn": 4
             }
@@ -1186,7 +1186,7 @@
       "place": "Phủ Lăng gia, sân hạnh",
       "kind": "nan",
       "title": "Bị làm nhục và xem phát sóng",
-      "text": "Mạc Thanh Tuấn và Lăng Doanh dắt cô ra sân, rồi bày một tấm gương đá ra giữa đất. Họ muốn cô xem cảnh Xà Vương bị nhốt, như xem một vở kịch. Cô bắt Tiểu Châu mở thiên lý nhãn, và nhìn thấy hắn.",
+      "text": "Mạc Thanh Tuấn và Lăng Doanh dắt bạn ra sân, rồi bày một tấm gương đá ra giữa đất. Họ muốn bạn xem cảnh Xà Vương bị nhốt, như xem một vở kịch. Bạn bắt Tiểu Châu mở thiên lý nhãn, và nhìn thấy hắn.",
       "tieu": "Ta mở thiên lý nhãn là phạm quy. Nhưng ngươi cứ nhìn đi.",
       "cast": "lt,mtt,sd,tc",
       "ch": [
@@ -1195,7 +1195,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô thấy hắn qua song sắt, và hắn dường như cũng nhìn thấy cô. Tim cô đau.",
+            "x": "Bạn thấy hắn qua song sắt, và hắn dường như cũng nhìn thấy bạn. Tim bạn đau.",
             "d": {
               "hao": 6,
               "hac": 2
@@ -1203,7 +1203,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô bị cảnh tượng làm choáng váng, ngã xuống đất.",
+            "x": "Bạn bị cảnh tượng làm choáng váng, ngã xuống đất.",
             "d": {
               "sinh": -10
             }
@@ -1214,21 +1214,21 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Họ bật cười, và cô lau mặt, không nói gì. Nhưng cô đã ghi nhớ từng gương mặt.",
+            "x": "Họ bật cười, và bạn lau mặt, không nói gì. Nhưng bạn đã ghi nhớ từng gương mặt.",
             "d": {
               "nn": -3
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Họ ép cô nhìn. Cô cắn môi đến bật máu.",
+            "x": "Họ ép bạn nhìn. Bạn cắn môi đến bật máu.",
             "d": {
               "sinh": -8
             }
           }
         },
         {
-          "t": "Nói thẳng với Lăng Doanh rằng cô sẽ nhớ chuyện này",
+          "t": "Nói thẳng với Lăng Doanh rằng bạn sẽ nhớ chuyện này",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
@@ -1254,7 +1254,7 @@
       "place": "Phủ gia tộc, đêm chuông reo",
       "kind": "chon",
       "title": "Hắn đến phủ",
-      "text": "Chuông cảm ứng yêu vang lên giữa phủ. Hắn vừa thoát khỏi hai tháng bị giam, đẫm máu thuấn di tới. Hắn tin cô đã hạ vu độc và suýt cắn chết cô, cho tới khi nhận ra chính cô cũng bị hạ độc từ trước. Năm trưởng lão đã thành tro.",
+      "text": "Chuông cảm ứng yêu vang lên giữa phủ. Hắn vừa thoát khỏi hai tháng bị giam, đẫm máu thuấn di tới. Hắn tin bạn đã hạ vu độc và suýt cắn chết bạn, cho tới khi nhận ra chính bạn cũng bị hạ độc từ trước. Năm trưởng lão đã thành tro.",
       "tieu": "Khoảnh khắc quyết định. Hảo cảm càng cao, hắn càng dễ tin ngươi.",
       "ch": [
         {
@@ -1263,11 +1263,11 @@
           "s": "mi",
           "b": 0.5,
           "ok": {
-            "x": "Cô đặt tay lên vết thương trên mặt hắn. Hắn dừng lại.",
+            "x": "Bạn đặt tay lên vết thương trên mặt hắn. Hắn dừng lại.",
             "d": {}
           },
           "bad": {
-            "x": "Hắn không nghe. Cô bị hất ngã nhưng vẫn kịp nắm tay hắn.",
+            "x": "Hắn không nghe. Bạn bị hất ngã nhưng vẫn kịp nắm tay hắn.",
             "d": {
               "sinh": -20
             }
@@ -1279,11 +1279,11 @@
           "s": "van",
           "b": 0.55,
           "ok": {
-            "x": "Hắn bế cô đi, giọng nói run lên lần đầu tiên.",
+            "x": "Hắn bế bạn đi, giọng nói run lên lần đầu tiên.",
             "d": {}
           },
           "bad": {
-            "x": "Cô ngất thật. Khi tỉnh dậy, hắn đã ngồi cạnh từ rất lâu.",
+            "x": "Bạn ngất thật. Khi tỉnh dậy, hắn đã ngồi cạnh từ rất lâu.",
             "d": {
               "sinh": -15
             }
@@ -1301,7 +1301,7 @@
             }
           },
           "bad": {
-            "x": "Cha cô đứng chết lặng. Hắn thuấn di rời đi, mang cô theo.",
+            "x": "Cha bạn đứng chết lặng. Hắn thuấn di rời đi, mang bạn theo.",
             "d": {
               "sinh": -18
             }
@@ -1318,7 +1318,7 @@
       "place": "Phủ Lăng, phòng đêm",
       "kind": "chon",
       "title": "Đoàn tụ",
-      "text": "Hắn mang cô về, đặt cô xuống giường. Thú đan của hắn dịu dịu phát sáng, khống chế thứ vu độc trong người cô. Chỉ trong một đêm, ác niệm của hắn tụt từ 99 xuống rất thấp.",
+      "text": "Hắn mang bạn về, đặt bạn xuống giường. Thú đan của hắn dịu dịu phát sáng, khống chế thứ vu độc trong người bạn. Chỉ trong một đêm, ác niệm của hắn tụt từ 99 xuống rất thấp.",
       "tieu": "Tuyệt vời! Ác niệm xuống như thác. Ta không hiểu tại sao nhưng ta thích.",
       "cast": "lt,td,tc",
       "ch": [
@@ -1327,12 +1327,12 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Thú đan ấm lên trong tay cô. Hắn nhắm mắt, như người vừa gỡ được thứ gì nặng nề.",
+            "x": "Thú đan ấm lên trong tay bạn. Hắn nhắm mắt, như người vừa gỡ được thứ gì nặng nề.",
             "d": {}
           },
           "b": 0.5,
           "bad": {
-            "x": "Thú đan quá nóng, cô rụt tay lại. Hắn vẫn ngồi đó, không rời.",
+            "x": "Thú đan quá nóng, bạn rụt tay lại. Hắn vẫn ngồi đó, không rời.",
             "d": {
               "sinh": -12
             }
@@ -1340,16 +1340,16 @@
           "R": 1
         },
         {
-          "t": "Kể hết mọi điều cô đã giấu",
+          "t": "Kể hết mọi điều bạn đã giấu",
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn nghe đến hết, không ngắt lời. Bàn tay hắn siết lấy tay cô.",
+            "x": "Hắn nghe đến hết, không ngắt lời. Bàn tay hắn siết lấy tay bạn.",
             "d": {}
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô nói nửa chừng thì hắn đặt ngón tay lên môi cô, lắc đầu.",
+            "x": "Bạn nói nửa chừng thì hắn đặt ngón tay lên môi bạn, lắc đầu.",
             "d": {
               "sinh": -8
             }
@@ -1361,12 +1361,12 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô ngủ một giấc dài, và hắn ngồi canh đến sáng.",
+            "x": "Bạn ngủ một giấc dài, và hắn ngồi canh đến sáng.",
             "d": {}
           },
           "b": 0.55,
           "bad": {
-            "x": "Cô ngủ quên cả đêm, tỉnh dậy thấy hắn đã ngồi bên từ rất lâu.",
+            "x": "Bạn ngủ quên cả đêm, tỉnh dậy thấy hắn đã ngồi bên từ rất lâu.",
             "d": {
               "sinh": -6
             }
@@ -1382,7 +1382,7 @@
       "place": "Phủ riêng, sau mười năm",
       "kind": "chon",
       "title": "Mười năm không ra khỏi cửa",
-      "text": "Mười năm trôi qua trong sân vườn kín. Cô sống như một tình nhân giấu mặt, và hắn đến mỗi tối, mỗi tối. Hắn trao cho cô chiếc vòng tay vảy đỏ và hứa không một cọng lông nào của hắn sẽ về gặp cô nếu cô không cho phép. Ác niệm còn năm, rồi một.",
+      "text": "Mười năm trôi qua trong sân vườn kín. Bạn sống như một tình nhân giấu mặt, và hắn đến mỗi tối, mỗi tối. Hắn trao cho bạn chiếc vòng tay vảy đỏ và hứa không một cọng lông nào của hắn sẽ về gặp bạn nếu bạn không cho phép. Ác niệm còn năm, rồi một.",
       "tieu": "Mười năm, một cánh cổng, một vòng tay. Ta ghét chuyện tình cảm, nhưng đây thì ta chịu.",
       "cast": "lt,td,tc",
       "ch": [
@@ -1391,7 +1391,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn nhìn chiếc vòng trên tay cô lâu thật lâu. Ác niệm xuống như tuyết tan.",
+            "x": "Hắn nhìn chiếc vòng trên tay bạn lâu thật lâu. Ác niệm xuống như tuyết tan.",
             "d": {
               "ac": -6,
               "hao": 6
@@ -1400,7 +1400,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Cô lúng túng, và hắn cười, kiên nhẫn đeo lại cho cô.",
+            "x": "Bạn lúng túng, và hắn cười, kiên nhẫn đeo lại cho bạn.",
             "d": {
               "ac": -2,
               "hao": 3
@@ -1413,7 +1413,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn kể, và cô lắng nghe đến khi trời sáng.",
+            "x": "Hắn kể, và bạn lắng nghe đến khi trời sáng.",
             "d": {
               "ac": -5,
               "hao": 4
@@ -1421,7 +1421,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Hắn im lặng rất lâu, và cô không hỏi thêm.",
+            "x": "Hắn im lặng rất lâu, và bạn không hỏi thêm.",
             "d": {
               "ac": -1
             }
@@ -1432,7 +1432,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Hắn cho phép, và cả ngày hôm đó hắn đi ngay sau cô như chiếc bóng.",
+            "x": "Hắn cho phép, và cả ngày hôm đó hắn đi ngay sau bạn như chiếc bóng.",
             "d": {
               "ac": -4,
               "hao": 5
@@ -1440,7 +1440,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Hắn nhíu mày, nhưng rồi gật đầu. Lòng cô thấy nặng.",
+            "x": "Hắn nhíu mày, nhưng rồi gật đầu. Lòng bạn thấy nặng.",
             "d": {
               "hao": -2
             }
@@ -1456,7 +1456,7 @@
       "place": "Phủ riêng, đêm mưa",
       "kind": "chon",
       "title": "Vì sao hắn hắc hóa",
-      "text": "Một đêm mưa, hắn kể cho cô nghe: hồi nhỏ, chính anh ruột hắn đã dựng bẫy hại hắn. Giọng hắn đều đều như kể chuyện của người khác. Nghe xong, cô không còn nhìn các tộc Dực Xà và Thanh Long bằng đôi mắt cũ.",
+      "text": "Một đêm mưa, hắn kể cho bạn nghe: hồi nhỏ, chính anh ruột hắn đã dựng bẫy hại hắn. Giọng hắn đều đều như kể chuyện của người khác. Nghe xong, bạn không còn nhìn các tộc Dực Xà và Thanh Long bằng đôi mắt cũ.",
       "tieu": "Hắn kể hết rồi. Câu chuyện này đáng tiền hơn mọi điểm công đức.",
       "cast": "lt,td",
       "ch": [
@@ -1474,7 +1474,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Hắn rút tay, và cô hiểu mình đã đi nhanh quá.",
+            "x": "Hắn rút tay, và bạn hiểu mình đã đi nhanh quá.",
             "d": {
               "hac": 2
             }
@@ -1485,7 +1485,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô ghi nhớ từng chi tiết, và hắn nhìn cô vừa lạ vừa mừng.",
+            "x": "Bạn ghi nhớ từng chi tiết, và hắn nhìn bạn vừa lạ vừa mừng.",
             "d": {
               "hac": -5,
               "ac": -3,
@@ -1505,7 +1505,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Mưa rơi đến sáng. Hắn ngủ gục trên vai cô.",
+            "x": "Mưa rơi đến sáng. Hắn ngủ gục trên vai bạn.",
             "d": {
               "hac": -6,
               "hao": 5
@@ -1513,7 +1513,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Hắn thức trắng đêm, và cô cũng vậy.",
+            "x": "Hắn thức trắng đêm, và bạn cũng vậy.",
             "d": {
               "hac": 0
             }
@@ -1527,8 +1527,8 @@
       "scene": "clan",
       "place": "Phủ Lăng gia, đại sảnh",
       "kind": "nan",
-      "title": "Cha tát, cô bị bắt",
-      "text": "Gia chủ tưởng cô đã cấu kết với quái vật và tát cô một cái giữa đại sảnh. Chưa kịp giải thích, Mặc Khuê và Mạc Thanh Tuấn đã mang cô đi. Họ cần dùng cô làm mồi.",
+      "title": "Cha tát, bạn bị bắt",
+      "text": "Gia chủ tưởng bạn đã cấu kết với quái vật và tát bạn một cái giữa đại sảnh. Chưa kịp giải thích, Mặc Khuê và Mạc Thanh Tuấn đã mang bạn đi. Họ cần dùng bạn làm mồi.",
       "tieu": "Cha ngươi vừa tát ngươi. Ta không biết nên an ủi thế nào.",
       "cast": "lt,mk,mtt,hn",
       "ch": [
@@ -1544,7 +1544,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Ông quay mặt đi, không nghe cô nói hết.",
+            "x": "Ông quay mặt đi, không nghe bạn nói hết.",
             "d": {
               "hao": -2
             }
@@ -1555,14 +1555,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô thoát được cái nắm tay của Mặc Khuê một thoáng, đủ để cắn rách tay hắn.",
+            "x": "Bạn thoát được cái nắm tay của Mặc Khuê một thoáng, đủ để cắn rách tay hắn.",
             "d": {
               "sinh": -5
             }
           },
           "b": 0.45,
           "bad": {
-            "x": "Họ siết chặt hơn, đến mức cổ tay cô bầm đen.",
+            "x": "Họ siết chặt hơn, đến mức cổ tay bạn bầm đen.",
             "d": {
               "sinh": -12
             }
@@ -1573,14 +1573,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Họ nới lỏng canh gác. Cô ghi nhớ đường đi từng bước.",
+            "x": "Họ nới lỏng canh gác. Bạn ghi nhớ đường đi từng bước.",
             "d": {
               "nn": -3
             }
           },
           "b": 0.55,
           "bad": {
-            "x": "Một người canh nhìn cô lâu, dường như không tin.",
+            "x": "Một người canh nhìn bạn lâu, dường như không tin.",
             "d": {
               "nn": 6
             }
@@ -1594,7 +1594,7 @@
       "place": "Cánh đồng hoang, trận đại chiến",
       "kind": "nan",
       "title": "Mồi nhử",
-      "text": "Ác niệm của hắn đã xuống rất thấp. Nhưng kẻ đã dựng bẫy từ thuở ấu thơ giữ trong tay chiếc áo dính máu của cô và vòng tay vảy đỏ cô đang đeo. Chỉ cần một khoảnh khắc hắn tin cô đã chết.",
+      "text": "Ác niệm của hắn đã xuống rất thấp. Nhưng kẻ đã dựng bẫy từ thuở ấu thơ giữ trong tay chiếc áo dính máu của bạn và vòng tay vảy đỏ bạn đang đeo. Chỉ cần một khoảnh khắc hắn tin bạn đã chết.",
       "tieu": "Nếu hắn nổ thú đan, ta mất sạch công đức. Làm gì đó, nhanh lên.",
       "ch": [
         {
@@ -1631,7 +1631,7 @@
           "b": 0.45,
           "final": 1,
           "ok": {
-            "x": "Chim bay, thú chạy đổ về từ bốn phương. Cô thoát khỏi bẫy kịp lúc.",
+            "x": "Chim bay, thú chạy đổ về từ bốn phương. Bạn thoát khỏi bẫy kịp lúc.",
             "d": {
               "bs": -5,
               "ac": -8,
@@ -1658,7 +1658,7 @@
           "b": 0.35,
           "final": 1,
           "ok": {
-            "x": "Hắn thấy cô còn sống ngay trước khi vung tay.",
+            "x": "Hắn thấy bạn còn sống ngay trước khi vung tay.",
             "d": {
               "bs": -5,
               "ac": -6,
@@ -1667,7 +1667,7 @@
             "f": "broken"
           },
           "bad": {
-            "x": "Cô đến muộn. Ánh sáng trắng nuốt trọn chiến trường.",
+            "x": "Bạn đến muộn. Ánh sáng trắng nuốt trọn chiến trường.",
             "d": {
               "set": {
                 "hac": 95,
@@ -1696,7 +1696,7 @@
           "s": "mi",
           "b": 0.5,
           "ok": {
-            "x": "Cô chắn trước hắn, ánh mắt hắn chấn động. Đòn đánh trượt qua vai cô.",
+            "x": "Bạn chắn trước hắn, ánh mắt hắn chấn động. Đòn đánh trượt qua vai bạn.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -1705,7 +1705,7 @@
             }
           },
           "bad": {
-            "x": "Cô đỡ không nổi. Máu của cô rơi xuống tay hắn.",
+            "x": "Bạn đỡ không nổi. Máu của bạn rơi xuống tay hắn.",
             "d": {
               "ac": -1,
               "hac": -1,
@@ -1729,7 +1729,7 @@
             }
           },
           "bad": {
-            "x": "Bầy thú đến lộn xộn, làm cô bị cuốn vào giữa.",
+            "x": "Bầy thú đến lộn xộn, làm bạn bị cuốn vào giữa.",
             "d": {
               "ac": -1,
               "hac": -1,
@@ -1744,7 +1744,7 @@
           "s": "tri",
           "b": 0.5,
           "ok": {
-            "x": "Giọng cô khàn nhưng rõ. Hắn quay lại, buông thõng tay.",
+            "x": "Giọng bạn khàn nhưng rõ. Hắn quay lại, buông thõng tay.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -1773,7 +1773,7 @@
       "place": "Cánh đồng hoang, sau tiếng nổ",
       "kind": "nan",
       "title": "Bầy thú đến giúp",
-      "text": "Giữa cánh đồng cháy sém, cô nghe thấy tiếng cánh vỗ từ bốn phía. Chim bay, thú chạy, tất cả đổ về như nước xuôi dòng, đáp lại tiếng gọi mà chính cô cũng không biết mình đã phát ra.",
+      "text": "Giữa cánh đồng cháy sém, bạn nghe thấy tiếng cánh vỗ từ bốn phía. Chim bay, thú chạy, tất cả đổ về như nước xuôi dòng, đáp lại tiếng gọi mà chính bạn cũng không biết mình đã phát ra.",
       "tieu": "Ngươi gọi cả bầy thú về. Ngươi biết không, ngươi ngầu lắm.",
       "cast": "lt,mk,mtt",
       "ch": [
@@ -1790,7 +1790,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Bầy thú xô nhau loạn xạ, cô bị cuốn vào giữa.",
+            "x": "Bầy thú xô nhau loạn xạ, bạn bị cuốn vào giữa.",
             "d": {
               "sinh": -14
             }
@@ -1809,7 +1809,7 @@
           },
           "b": 0.45,
           "bad": {
-            "x": "Con thú trượt chân, cô văng xuống bùn.",
+            "x": "Con thú trượt chân, bạn văng xuống bùn.",
             "d": {
               "sinh": -16
             }
@@ -1851,7 +1851,7 @@
           "s": "mi",
           "b": 0.5,
           "ok": {
-            "x": "Cô đạp xuống ngực hắn và nói: sống đi, và đừng bao giờ đến gần nữa.",
+            "x": "Bạn đạp xuống ngực hắn và nói: sống đi, và đừng bao giờ đến gần nữa.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -1860,7 +1860,7 @@
             }
           },
           "bad": {
-            "x": "Chân cô trượt trong bùn, Mặc Khuê bật dậy chém một nhát vào vai cô.",
+            "x": "Chân bạn trượt trong bùn, Mặc Khuê bật dậy chém một nhát vào vai bạn.",
             "d": {
               "ac": -1,
               "hac": -1,
@@ -1875,7 +1875,7 @@
           "s": "tri",
           "b": 0.5,
           "ok": {
-            "x": "Thương Dạ nhìn cô thật lâu, rồi chỉ nói: nghe em.",
+            "x": "Thương Dạ nhìn bạn thật lâu, rồi chỉ nói: nghe em.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -1884,7 +1884,7 @@
             }
           },
           "bad": {
-            "x": "Hắn nhìn cô như thể cô đã đẩy việc khó về phía hắn.",
+            "x": "Hắn nhìn bạn như thể bạn đã đẩy việc khó về phía hắn.",
             "d": {
               "ac": -1,
               "hac": -1,
@@ -1900,7 +1900,7 @@
           "s": "van",
           "b": 0.55,
           "ok": {
-            "x": "Cô quay lưng, kéo tay Thương Dạ đi. Không ai ngăn.",
+            "x": "Bạn quay lưng, kéo tay Thương Dạ đi. Không ai ngăn.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -1908,7 +1908,7 @@
             }
           },
           "bad": {
-            "x": "Mặc Khuê chộp được cổ chân cô trước khi cô kịp bước.",
+            "x": "Mặc Khuê chộp được cổ chân bạn trước khi bạn kịp bước.",
             "d": {
               "ac": -1,
               "hac": -1,
@@ -1927,7 +1927,7 @@
       "scene": "field",
       "place": "Cánh đồng hoang, lúc hoàng hôn",
       "kind": "chon",
-      "title": "Hắn bế cô rời chiến trường",
+      "title": "Hắn bế bạn rời chiến trường",
       "cast": "lt,td,tc",
       "ch": [
         {
@@ -1935,7 +1935,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn siết tay, bước chậm lại để cô ngủ.",
+            "x": "Hắn siết tay, bước chậm lại để bạn ngủ.",
             "d": {
               "ac": -3,
               "hac": -3,
@@ -1945,7 +1945,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Cô ngủ gục giữa chừng, hắn lặng lẽ bế thêm một đoạn dài.",
+            "x": "Bạn ngủ gục giữa chừng, hắn lặng lẽ bế thêm một đoạn dài.",
             "d": {
               "hao": 2,
               "sinh": 3
@@ -1957,7 +1957,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn buông cô xuống, nắm tay thay vì bế. Hai bóng đi song song.",
+            "x": "Hắn buông bạn xuống, nắm tay thay vì bế. Hai bóng đi song song.",
             "d": {
               "ac": -3,
               "hac": -3,
@@ -1966,7 +1966,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô đi được vài bước thì lảo đảo, hắn đỡ lấy mà không nói gì.",
+            "x": "Bạn đi được vài bước thì lảo đảo, hắn đỡ lấy mà không nói gì.",
             "d": {
               "hao": 1,
               "sinh": -3
@@ -1978,7 +1978,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Gió thổi qua bãi tro, hắn khe khẽ gọi tên cô lần đầu tiên, như để chắc chắn cô còn đó.",
+            "x": "Gió thổi qua bãi tro, hắn khe khẽ gọi tên bạn lần đầu tiên, như để chắc chắn bạn còn đó.",
             "d": {
               "ac": -3,
               "hac": -3,
@@ -2004,7 +2004,7 @@
       "place": "Chân núi phương Bắc, bình minh",
       "kind": "duyen",
       "title": "Căn nhà dưới chân núi",
-      "text": "Họ dừng lại ở một căn nhà gỗ bỏ hoang dưới chân núi. Thương Dạ nhóm lửa, nấu nồi cháo đầu tiên trong đời, và nhìn cô như hỏi đã đúng chưa. Tiểu Châu ngồi trên bậu cửa, giả vờ không nhìn.",
+      "text": "Họ dừng lại ở một căn nhà gỗ bỏ hoang dưới chân núi. Thương Dạ nhóm lửa, nấu nồi cháo đầu tiên trong đời, và nhìn bạn như hỏi đã đúng chưa. Tiểu Châu ngồi trên bậu cửa, giả vờ không nhìn.",
       "tieu": "Hắn nấu cháo. Ta sống ngàn năm chưa thấy cảnh này.",
       "cast": "lt,td,tc",
       "ch": [
@@ -2023,7 +2023,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Cháo mặn chát, cô cố nuốt, hắn nhận ra rồi cười khẽ.",
+            "x": "Cháo mặn chát, bạn cố nuốt, hắn nhận ra rồi cười khẽ.",
             "d": {
               "ac": -1,
               "hac": -1,
@@ -2037,7 +2037,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô cầm tay hắn chỉ từng bước. Hắn ghi nhớ hết.",
+            "x": "Bạn cầm tay hắn chỉ từng bước. Hắn ghi nhớ hết.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -2061,7 +2061,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Mặt trời lên đúng lúc hắn quay sang nhìn cô.",
+            "x": "Mặt trời lên đúng lúc hắn quay sang nhìn bạn.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -2098,7 +2098,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn cúi xuống cho cô thấy đôi mắt đã không còn đỏ.",
+            "x": "Hắn cúi xuống cho bạn thấy đôi mắt đã không còn đỏ.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -2108,7 +2108,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Cô nói quá nhanh, hắn nghi cô nói để dỗ, nhưng vẫn nắm tay cô.",
+            "x": "Bạn nói quá nhanh, hắn nghi bạn nói để dỗ, nhưng vẫn nắm tay bạn.",
             "d": {
               "ac": -1,
               "hac": -1,
@@ -2122,7 +2122,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô kể cho hắn một danh sách dài những việc thường ngày. Hắn ghi nhớ tất cả.",
+            "x": "Bạn kể cho hắn một danh sách dài những việc thường ngày. Hắn ghi nhớ tất cả.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -2132,7 +2132,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Danh sách dài quá, hắn nghe nửa chừng đã ngủ gục trên vai cô.",
+            "x": "Danh sách dài quá, hắn nghe nửa chừng đã ngủ gục trên vai bạn.",
             "d": {
               "ac": -1,
               "hac": -1,
@@ -2142,7 +2142,7 @@
           }
         },
         {
-          "t": "Nói thẳng là cô thích hắn",
+          "t": "Nói thẳng là bạn thích hắn",
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
@@ -2156,7 +2156,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Hắn nghe, không nói gì, chỉ nắm tay cô chặt hơn.",
+            "x": "Hắn nghe, không nói gì, chỉ nắm tay bạn chặt hơn.",
             "d": {
               "ac": -1,
               "hac": -1,

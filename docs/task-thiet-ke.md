@@ -207,10 +207,10 @@ Tham chiếu mục "4. Màn chơi" ở tab đầu cho cả năm task.
 
 **Làm gì:**
 
-- Hàng điều khiển: tốc độ x1 / x2 / x4, "Để số mệnh tự quyết", "Kiếp mới".
+- Hàng điều khiển: tốc độ x1 / x2 / x4, "Mặc cho số mệnh dẫn lối", "Tôi muốn sang kiếp khác".
 - Lời Tiểu Châu.
 - Thẻ mốc: loại mốc và địa điểm, tên mốc, đoạn truyện, 2–3 nút lựa chọn.
-- Sau khi chọn: khối kết quả xanh hoặc đỏ, hàng viên thay đổi chỉ số, dòng "Kỹ năng mới" nếu có, nút "Tiếp tục".
+- Sau khi chọn: khối kết quả xanh hoặc đỏ, hàng viên thay đổi chỉ số, dòng "Kỹ năng mới" nếu có, nút "Bước tiếp".
 - Không cắt ngắn đoạn truyện; đoạn dài thì vẫn phải dễ đọc.
 
 **Xong khi:**
@@ -244,7 +244,7 @@ Tham chiếu mục "4. Màn chơi" ở tab đầu cho cả năm task.
 - **Hộp điều kiện (mới, bắt buộc):** liệt kê từng điều kiện kết cục hoàn hảo, mỗi dòng ghi "Đạt" (xanh) hoặc "Chưa đạt" (đỏ) kèm số liệu, ví dụ "Chưa đạt: Ác niệm còn 12 (cần 0)". Khi thua giữa chừng thì ghi lý do thua.
 - Hộp Công đức và hai viên Công đức, Mảnh hồn.
 - Thẻ chia sẻ (tranh cảnh kết, tên kết cục, số thế giới).
-- Nút "Chơi lại thế giới này".
+- Nút "Cho tôi thử lại kiếp này".
 - Kết cục tốt và kết cục thất bại phải khác nhau rõ về cảm xúc.
 
 **Xong khi:**

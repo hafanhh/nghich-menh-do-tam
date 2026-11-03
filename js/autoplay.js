@@ -1,5 +1,5 @@
 /*
- * Tốc độ x1/x2/x4, chế độ "Để số mệnh tự quyết" và bộ hẹn giờ tự chơi (schedule).
+ * Tốc độ x1/x2/x4, chế độ "Mặc cho số mệnh dẫn lối" và bộ hẹn giờ tự chơi (schedule).
  */
 import { choose, next } from './choices.js';
 import { EV, S } from './state.js';

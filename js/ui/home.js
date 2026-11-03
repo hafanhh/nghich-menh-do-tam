@@ -2,6 +2,7 @@
  * Trang chủ: thẻ các thế giới, bảng "Hành trình của bạn", đổi tranh bìa ngày/đêm.
  */
 import { pt } from '../portraits.js';
+import { renderArchive } from './archive.js';
 import { REC_MEM, recLoad } from '../records.js';
 import { PICK } from './router.js';
 import { $ } from '../util.js';
@@ -18,23 +19,23 @@ export function nmPad(n){return n<10?"0"+n:String(n)}
 function nmStats(){recLoad();var t={sk:0,mc:0,mh:0,pl:0},c={perfect:0,near:0,fail:0};
   OPEN.forEach(function(id){var o=REC_MEM[id];if(!o||!o.pl)return;t.pl++;t.sk+=o.sk||0;t.mc+=o.mc||0;t.mh+=o.mh||0;if(c[o.t]!==undefined)c[o.t]++});
   return {t:t,c:c}}
-function nmArt(x){
+export function nmArt(x){
   if(x.id==="w1"){var s=$("wsvg"),src=s&&s.getAttribute("src");return src?'<img src="'+src+'" alt="'+(s.getAttribute("alt")||x.name)+'" loading="lazy">':""}
   return typeof x.cover==="function"?x.cover():""}
 function nmCard(id){
   var x=WORLDS[id],o=REC_MEM[id],played=!!(o&&o.pl),ce=x.CHAP_END,steps=ce&&ce.length?ce[ce.length-1]:0,art=nmArt(x),ic=WICON[id]||"auto_stories";
   var go=PICK==="chon"
-    ?'<button class="nm-go" type="button" data-w="'+id+'" aria-label="Nhập giới '+x.name+'">Nhập giới <span class="material-symbols-outlined nm-ic" style="--s:14px" aria-hidden="true">arrow_forward</span></button>'
-    :'<span class="nm-go off">Rút ngẫu nhiên</span>';
+    ?'<button class="nm-go" type="button" data-w="'+id+'" aria-label="Bước vào giới '+x.name+'">Bước vào giới <span class="material-symbols-outlined nm-ic" style="--s:14px" aria-hidden="true">arrow_forward</span></button>'
+    :'<span class="nm-go off">Để Tiểu Châu chọn</span>';
   return '<article class="nm-card"><div class="nm-art">'
     +(art||'<div class="nm-art-ph"><span class="material-symbols-outlined nm-ic" style="--s:32px" aria-hidden="true">'+ic+'</span></div>')
     +'<span class="nm-chip nm-chip-l">Đang mở</span>'+(steps?'<span class="nm-chip nm-chip-r">'+steps+' mốc</span>':'')+'</div>'
     +'<div class="nm-cbody"><div class="nm-ctop"><span class="nm-genre" style="--tone:'+(WTONE[id]||"var(--lake-ink)")+'">'+x.genre+'</span><span class="material-symbols-outlined nm-ic" style="--s:15px" aria-hidden="true">'+ic+'</span></div>'
-    +'<h4>'+x.name+'</h4><p>'+(x.heroSub||"")+'</p>'
+    +'<h4>'+x.name+'</h4>'
     +'<div class="nm-cfoot"><span class="nm-res '+(played?o.t:"")+'">'+(played?TIER[o.t]||"Đã chơi":"Chưa chơi")+'</span>'+go+'</div></div></article>'}
 function nmLocked(n){
   return '<article class="nm-card nm-lock"><div class="nm-art"><div class="nm-art-ph"><span class="material-symbols-outlined nm-ic" style="--s:32px" aria-hidden="true">lock</span><span>Đang phong ấn</span></div><span class="nm-chip nm-chip-l">Sắp mở</span></div>'
-    +'<div class="nm-cbody"><div class="nm-ctop"><span class="nm-genre">Chưa công bố</span></div><h4>Thế giới '+n+'</h4><p>Một kẻ ác khác đang chờ được tha thứ, ở nơi chưa ai tìm tới.</p>'
+    +'<div class="nm-cbody"><div class="nm-ctop"><span class="nm-genre">Chưa công bố</span></div><h4>Thế giới '+n+'</h4>'
     +'<div class="nm-cfoot"><span class="nm-res">Đang hiệu chuẩn đạo duyên</span><span class="nm-go off">Chưa khả dụng</span></div></div></article>'}
 function nmHeroGet(){try{return localStorage.getItem(HERO_KEY)==="light"?"light":"dark"}catch(e){return "dark"}}
 export function nmHero(mode,save){
@@ -57,10 +58,11 @@ export function renderHome(){
   $("nm-jnote").hidden=t.pl>0;
   $("nm-worlds").innerHTML=OPEN.map(nmCard).join("")+nmLocked(N+1);
   $("nm-wcount").textContent="Đang mở: "+N+" vực giới";
-  $("nm-cta-label").textContent=PICK==="chon"?"Bắt Đầu Nhập Vai / Chọn Thế Giới":"Bắt Đầu Nhập Vai / Rút Thế Giới";
+  $("nm-cta-label").textContent="Tôi đã sẵn sàng";
   $("nm-portrait").innerHTML=pt("tc");
   $("nm-year").textContent=new Date().getFullYear();
   nmHero(nmHeroGet());
+  renderArchive();
 }
 /* Rời trang chủ thì xoá thẻ thế giới, để mã SVG của bìa trong game không trùng id với bản trong thẻ. */
 export function clearHome(){var w=$("nm-worlds");if(w)w.innerHTML=""}

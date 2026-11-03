@@ -15,11 +15,11 @@ import { HK, IXS, PARAMS, WORLDS } from './registry.js';
 
 HK.w2={
 "w10":{fix:function(d){var o=Object.assign({},d);o.set={hac:Math.min(95,S.hac+(S.f.gan_gm?10:6))};return o}},
-"w11":{text:function(){return "Tống Thư Kỳ kể với chủ quán Lam Đăng rằng hai người đàn ông dính dáng tới Ôn Niệm đều chết dưới bánh xe."+(S.f.ghet?" Cô ta còn thêm mắm thêm muối, nói Ôn Niệm cố tình bám lấy người có tiền.":"")+" Lời đồn lan nhanh hơn lửa. Chủ quán đuổi việc cô ngay chiều hôm ấy."},ch:{"0":{b:function(){return S.f.ghet?.45:.55}}}},
+"w11":{text:function(){return "Tống Thư Kỳ kể với chủ quán Lam Đăng rằng hai người đàn ông dính dáng tới bạn đều chết dưới bánh xe."+(S.f.ghet?" Cô ta còn thêm mắm thêm muối, nói bạn cố tình bám lấy người có tiền.":"")+" Lời đồn lan nhanh hơn lửa. Chủ quán đuổi việc bạn ngay chiều hôm ấy."},ch:{"0":{b:function(){return S.f.ghet?.45:.55}}}},
 "w15":{ch:{"0":{bonus:function(){return S.f.cua_cu?.08:0}}}},
 "w20":{ch:{"0":{bonus:function(){return S.f.goi_ten?.1:0}}}},
 "w21":{fix:function(d){var o=Object.assign({},d);o.set={hac:Math.min(95,S.hac+(S.f.tha_cam?4:8))};return o}},
-"w24":{text:function(){return "Gần một tháng sống cùng anh, một sáng cô soi gương và giật mình: mặt cô trắng bệch như giấy. Âm khí của anh đang hút dần dương khí của người sống."+(S.am>=60?" Đứng lâu một chút là cô đã chóng mặt.":"")+" Anh vẫn thấy cô hồng hào, vì Tiểu Châu đã che mắt anh. Ác niệm chỉ còn rất ít."}}
+"w24":{text:function(){return "Gần một tháng sống cùng anh, một sáng bạn soi gương và giật mình: mặt bạn trắng bệch như giấy. Âm khí của anh đang hút dần dương khí của người sống."+(S.am>=60?" Đứng lâu một chút là bạn đã chóng mặt.":"")+" Anh vẫn thấy bạn hồng hào, vì Tiểu Châu đã che mắt anh. Ác niệm chỉ còn rất ít."}}
 };
 var IX2={};
 
@@ -76,7 +76,7 @@ function w2cover(){
   return '<img src="assets/w02/bia.webp" alt="Bìa Thành Vọng Xuyên" loading="lazy">';
 }
 
-WORLDS.w2={roles:{on:["Nữ chính", "main", "Ca sĩ hát quán Lam Đăng, hai mươi hai tuổi, bị lệ quỷ Cố Trầm đeo bám."],ctr:["Nam chính, lệ quỷ", "main", "Bạn học cũ đã chết, yêu thầm Ôn Niệm từ lớp 11. Hắn giết những người đàn ông đến gần cô."],can:["Tên giả của Cố Trầm", "main", "Cái tên anh dùng khi thuê chung nhà với Ôn Niệm. Chính là Cố Trầm."],stk:["Bạn học cũ", "neutral", "Bạn học cũ lái xe tới họp lớp, báo Cố Trầm đã chết ba ngày trước cuộc gọi."],dkt:["Thiếu gia", "foe", "Thiếu gia ngồi bàn đầu quán Lam Đăng, quấy rối Ôn Niệm."],dq:["Cậu ruột", "foe", "Cậu ruột của Ôn Niệm ở trấn Hạ Khê, đòi tiền bán nhà của mẹ cô."],hgm:["Người theo đuổi", "neutral", "Anh trai một bạn học cũ, từng giúp Ôn Niệm lấy lại ví và theo đuổi cô."],ngt:["Bác sĩ tâm lý", "neutral", "Bác sĩ tâm lý Hứa Gia Minh đưa Ôn Niệm đến để thôi miên."],lth:["Nữ cảnh sát", "ally", "Nữ cảnh sát tóc ngắn, cháu nội một đại sư trừ tà, bạn cùng phòng của Ôn Niệm."],hti:["Đại sư chùa Linh Ẩn", "ally", "Đại sư trừ tà ở chùa Linh Ẩn, được Lạc Tuệ mời đến."]},
+WORLDS.w2={roles:{on:["Nữ chính", "main", "Ca sĩ hát quán Lam Đăng, hai mươi hai tuổi, bị lệ quỷ Cố Trầm đeo bám."],ctr:["Nam chính, lệ quỷ", "main", "Bạn học cũ đã chết, yêu thầm bạn từ lớp 11. Hắn giết những người đàn ông đến gần bạn."],can:["Tên giả của Cố Trầm", "main", "Cái tên anh dùng khi thuê chung nhà với bạn. Chính là Cố Trầm."],stk:["Bạn học cũ", "neutral", "Bạn học cũ lái xe tới họp lớp, báo Cố Trầm đã chết ba ngày trước cuộc gọi."],dkt:["Thiếu gia", "foe", "Thiếu gia ngồi bàn đầu quán Lam Đăng, quấy rối bạn."],dq:["Cậu ruột", "foe", "Cậu ruột của bạn ở trấn Hạ Khê, đòi tiền bán nhà của mẹ bạn."],hgm:["Người theo đuổi", "neutral", "Anh trai một bạn học cũ, từng giúp bạn lấy lại ví và theo đuổi bạn."],ngt:["Bác sĩ tâm lý", "neutral", "Bác sĩ tâm lý Hứa Gia Minh đưa bạn đến để thôi miên."],lth:["Nữ cảnh sát", "ally", "Nữ cảnh sát tóc ngắn, cháu nội một đại sư trừ tà, bạn cùng phòng của bạn."],hti:["Đại sư chùa Linh Ẩn", "ally", "Đại sư trừ tà ở chùa Linh Ẩn, được Lạc Tuệ mời đến."]},
  init:function(){return {ac:100,hac:70,sinh:100,bs:100,hao:30,am:10}},
  mod:function(){return -.003*Math.max(0,S.am-30)},
  /* Kết quả tốt của phép thử được khuếch đại nhẹ: thế giới 2 dễ hơn thế giới 1. */
@@ -88,14 +88,14 @@ WORLDS.w2={roles:{on:["Nữ chính", "main", "Ca sĩ hát quán Lam Đăng, hai 
  tick:function(){if(S.i>=IX2.w12)S.am=Math.min(100,S.am+1);if(S.am>=70)S.sinh-=2},
  pick:function(){if(S.ac<=0&&S.hac<=0&&S.hao>=100)return "true";if(S.hao>=70&&S.ac<=30&&S.hac<=30)return "near";return "half"},
  perfect:function(ln){return ln(S.ac<=0,'Ác niệm còn '+Math.round(S.ac)+' (cần 0)')+ln(S.hac<=0,'Hắc hóa còn '+Math.round(S.hac)+' (cần 0)')+ln(S.hao>=100,'Hảo cảm '+Math.round(S.hao)+' (cần 100)')+ln(S.bs>0,'Cố Trầm còn hồn lực ('+Math.round(S.bs)+')')},
- hud:function(){return '<div class="attr"><span class="lbl">Trạng thái</span> '+wchip("Âm khí",S.am,"Hơi lạnh cõi âm bám trên người cô. Càng thấp càng tốt. Trên 30 thì mọi phép thử khó hơn; từ 70 trở lên, mỗi mốc mất 2 Sinh mệnh. Từ khi hắn dọn đến ở chung, mỗi mốc tăng 1.","down",30,70)+'</div>'},
+ hud:function(){return '<div class="attr"><span class="lbl">Trạng thái</span> '+wchip("Âm khí",S.am,"Hơi lạnh cõi âm bám trên người bạn. Càng thấp càng tốt. Trên 30 thì mọi phép thử khó hơn; từ 70 trở lên, mỗi mốc mất 2 Sinh mệnh. Từ khi hắn dọn đến ở chung, mỗi mốc tăng 1.","down",30,70)+'</div>'},
  extraSk:function(){return (S.f.chuong?'<span class="k">Chuông trừ tà</span>':'')+(S.f.bua?'<span class="k">Bùa hộ mệnh của Lạc Tuệ</span>':'')+(S.f.o_lai?'<span class="k">Lời hứa ở lại</span>':'')+(S.am>=70?'<span class="k bad" title="Mỗi mốc mất 2 Sinh mệnh">Dương khí suy kiệt</span>':'')},
- bossView:function(){if(S.end||S.i>=IX2.w18)return {k:"ctr",n:"Cố Trầm",s:"Lệ quỷ, bạn học cấp ba của Ôn Niệm. Đã yêu cô từ năm lớp 11."};if(S.i>=IX2.w09)return {k:"can",n:"Cố Ảnh",s:"Người đàn ông áo sơ mi trắng. Dưới đèn đường không có bóng."};return {k:"ctr",n:"Cố Trầm?",s:S.i<2?"Bạn học cũ, bỗng gọi cho bạn sau bốn năm im lặng.":"Theo lời Tống Thư Kỳ, anh đã chết ba ngày trước cuộc gọi."}},
+ bossView:function(){if(S.end||S.i>=IX2.w18)return {k:"ctr",n:"Cố Trầm",s:"Lệ quỷ, bạn học cấp ba của bạn. Đã yêu bạn từ năm lớp 11."};if(S.i>=IX2.w09)return {k:"can",n:"Cố Ảnh",s:"Người đàn ông áo sơ mi trắng. Dưới đèn đường không có bóng."};return {k:"ctr",n:"Cố Trầm?",s:S.i<2?"Bạn học cũ, bỗng gọi cho bạn sau bốn năm im lặng.":"Theo lời Tống Thư Kỳ, anh đã chết ba ngày trước cuộc gọi."}},
  emblem:w2emblem,
  cover:w2cover,
  intro:function(){var I=WORLDS.w2.init(),bar=function(l,v,col,w){return '<div class="w2g"><div class="w2gh"><span>'+l+'</span><b>'+v+'</b></div><div class="w2gb"><i style="width:'+w+'%;background:var(--'+col+')"></i></div></div>'};
   return '<div class="cv-step w2i">'
-  +'<div class="w2top"><button class="w2back" data-step="2">← Về tuyển chọn thế giới</button><span class="w2bd">Chuẩn bị nhập thế</span><span class="w2bd p">Độ khó: Âm dương cách trở</span><span class="w2bd b">Duyên khởi: Lệ quỷ vị liễu tình</span></div>'
+  +'<div class="w2top"><button class="w2back" data-step="2">← Tiểu Châu, tôi muốn chọn lại</button><span class="w2bd">Chuẩn bị nhập thế</span><span class="w2bd p">Độ khó: Âm dương cách trở</span><span class="w2bd b">Duyên khởi: Lệ quỷ vị liễu tình</span></div>'
   +'<div class="w2cards">'
   +'<div class="w2c l"><div class="w2ch"><div><span class="w2tag p">Nhân vật bạn đóng</span><span class="w2age">Nữ chính · 22 tuổi</span><h2>Ôn Niệm</h2><p>Ca sĩ hát đêm ở quán Lam Đăng giữa thành Vọng Xuyên, mồ côi mẹ, sống trôi nổi trong căn phòng thuê có chiếc xích đu tre.</p></div><div class="w2pt p">'+pt("on")+'</div></div>'
   +'<div class="w2box">'+bar("Sinh mệnh",I.sinh+"/100","pk",100)+bar("Âm khí khởi đầu",I.am,"lv",I.am)+'<p>Khi Âm khí vượt 30, các lựa chọn khó hơn; từ 70 trở lên mỗi mốc mất 2 Sinh mệnh. Sinh mệnh về 0 thì bạn thua.</p></div>'
@@ -105,7 +105,7 @@ WORLDS.w2={roles:{on:["Nữ chính", "main", "Ca sĩ hát quán Lam Đăng, hai 
   +'<span class="w2lb">Bốn chỉ số khởi đầu <em>Tâm ma bất tán</em></span><div class="w2g4">'+bar("Sinh mệnh (hồn lực)",I.bs,"bl",I.bs)+bar("Ác niệm",I.ac,"pk",I.ac)+bar("Hắc hóa",I.hac,"lv",I.hac)+bar("Hảo cảm","+"+I.hao,"pk",(I.hao+100)/2)+'</div>'
   +'<div class="w2ft q"><i>“Anh đã thầm thương Ôn Niệm từ năm lớp 11.”</i><span class="w2sk">Thân phận không bóng</span></div></div></div>'
   +'<div class="w2tc"><div class="w2tcI">'+pt("tc")+'</div><div><b>Khí linh Tiểu Châu</b><p>“Zzz... Linh khí ở thời hiện đại này loãng quẹt, ta ngủ nhiều hơn thức đấy nhé! Nhưng nhớ cho kỹ: tên Boss này si tình tới mức muốn biến ngươi thành quỷ để ở chung nhà cũ mãi mãi. Mỗi lần đèn đường chớp nháy là hắn đứng sát sau gáy ngươi đấy!”</p></div></div>'
-  +'<div class="w2act"><div><b>Đã sẵn sàng vượt cõi âm dương?</b><span>Muốn kết cục hoàn hảo: Ác niệm 0, Hắc hóa 0, Hảo cảm 100. Hắc hóa chạm 100 hoặc Sinh mệnh của một trong hai người về 0 thì kết thúc.</span></div><button class="btn primary big" data-step="6">Bắt đầu nhập vai</button></div></div>'}
+  +'<div class="w2act"><div><b>Đã sẵn sàng vượt cõi âm dương?</b><span>Muốn kết cục hoàn hảo: Ác niệm 0, Hắc hóa 0, Hảo cảm 100. Hắc hóa chạm 100 hoặc Sinh mệnh của một trong hai người về 0 thì kết thúc.</span></div><button class="btn primary big" data-step="6">Tiểu Châu, đưa tôi vào</button></div></div>'}
 };
 var W2K={};
 IXS.w2=IX2;PARAMS.w2=W2K;

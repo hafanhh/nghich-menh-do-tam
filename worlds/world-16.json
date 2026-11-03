@@ -95,7 +95,7 @@
   "ends": {
     "true": {
       "n": "Hai bàn tay, một vòng người đưa tiễn",
-      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Tần Dã về không. Anh không còn sợ bị bỏ lại, cũng thôi nắm tay cô như nắm một sợi chỉ sắp đứt. Hai người sống đến tuổi già ở Hứa gia thôn đã thành thành phố, xưởng Hứa thị vẫn còn, ngôi trường vẫn mở cổng mỗi sáng. Đến ngày cô phải đi, anh nắm tay cô nhẹ như nắm một cánh hoa, giữa vòng người đưa tiễn chật cả sân. Họ ra đi bình yên, cùng một ngày.",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Tần Dã về không. Anh không còn sợ bị bỏ lại, cũng thôi nắm tay bạn như nắm một sợi chỉ sắp đứt. Hai người sống đến tuổi già ở Hứa gia thôn đã thành thành phố, xưởng Hứa thị vẫn còn, ngôi trường vẫn mở cổng mỗi sáng. Đến ngày bạn phải đi, anh nắm tay bạn nhẹ như nắm một cánh hoa, giữa vòng người đưa tiễn chật cả sân. Họ ra đi bình yên, cùng một ngày.",
       "gain": 120,
       "piece": 1,
       "heat": 0.1,
@@ -103,7 +103,7 @@
     },
     "near": {
       "n": "Anh siết tay cô hơi chặt",
-      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người vẫn bên nhau đến cuối. Thành phố Hứa lớn dần, xưởng và trường đều vững. Chỉ có điều những lần cô sắp đi xa, tay anh vẫn siết hơi chặt, như sợ gió cuốn đi. Cô không giận. Cô biết anh đang học cách tin rằng lần này không ai bị bỏ lại, và vết lo trong mắt anh nhạt dần theo từng mùa.",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người vẫn bên nhau đến cuối. Thành phố Hứa lớn dần, xưởng và trường đều vững. Chỉ có điều những lần bạn sắp đi xa, tay anh vẫn siết hơi chặt, như sợ gió cuốn đi. Bạn không giận. Bạn biết anh đang học cách tin rằng lần này không ai bị bỏ lại, và vết lo trong mắt anh nhạt dần theo từng mùa.",
       "gain": 90,
       "piece": 1,
       "heat": 0.35,
@@ -111,7 +111,7 @@
     },
     "half": {
       "n": "Căn nhà cũ giữ lại một mình",
-      "c": "Tiểu Châu đọc kết quả: chưa đạt. Cô đã làm gần hết nhiệm vụ: thành phố, xưởng, trường học, tất cả đều ổn. Nhưng vết sợ mất trong anh vẫn chưa lành. Đến ngày cô rời đi, anh ở lại một mình giữ căn nhà cũ ở Hứa gia thôn, vẫn rót hai cái chén mỗi sáng. Có những vết, tình thương không đủ để lấp, và cả hai đều biết điều đó.",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Bạn đã làm gần hết nhiệm vụ: thành phố, xưởng, trường học, tất cả đều ổn. Nhưng vết sợ mất trong anh vẫn chưa lành. Đến ngày bạn rời đi, anh ở lại một mình giữ căn nhà cũ ở Hứa gia thôn, vẫn rót hai cái chén mỗi sáng. Có những vết, tình thương không đủ để lấp, và cả hai đều biết điều đó.",
       "gain": 60,
       "piece": 0,
       "heat": 0.6,
@@ -119,7 +119,7 @@
     },
     "black": {
       "n": "Cánh cửa khép lại sau lưng anh",
-      "c": "Hắc hóa chạm 100. Nỗi sợ mất cô và mối hận với những người từng bỏ rơi anh nuốt trọn Tần Dã. Anh không nghe tên mình, không nghe tiếng cô, chỉ còn tiếng cánh cửa khép lại sau lưng. Tiểu Châu khẽ gọi cô đi trước khi căn nhà lặng hẳn.",
+      "c": "Hắc hóa chạm 100. Nỗi sợ mất bạn và mối hận với những người từng bỏ rơi anh nuốt trọn Tần Dã. Anh không nghe tên mình, không nghe tiếng bạn, chỉ còn tiếng cánh cửa khép lại sau lưng. Tiểu Châu khẽ gọi bạn đi trước khi căn nhà lặng hẳn.",
       "gain": 0,
       "piece": 0,
       "heat": 1,
@@ -127,7 +127,7 @@
     },
     "bdead": {
       "n": "Chiếc áo len dang dở",
-      "c": "Sinh mệnh của Tần Dã về 0. Anh kiệt sức vì làm việc không nghỉ để giữ mọi thứ cho cô, vì những đêm không ngủ nghĩ về chuyện cô sẽ đi. Chiếc áo len cô đan dở vẫn nằm trên ghế. Tiểu Châu khẽ gọi cô về.",
+      "c": "Sinh mệnh của Tần Dã về 0. Anh kiệt sức vì làm việc không nghỉ để giữ mọi thứ cho bạn, vì những đêm không ngủ nghĩ về chuyện bạn sẽ đi. Chiếc áo len bạn đan dở vẫn nằm trên ghế. Tiểu Châu khẽ gọi bạn về.",
       "gain": 0,
       "piece": 0,
       "heat": 0.9,
@@ -135,7 +135,7 @@
     },
     "dead": {
       "n": "Ấm nước chưa kịp mang ra ruộng",
-      "c": "Sinh mệnh của cô cạn kiệt. Một bước chân sai ở bìa rừng hay một lần ngã đưa cô đi nhanh hơn dự tính, và đêm ấy không ai kịp tới ngồi bên giường. Tiểu Châu kéo linh hồn cô đi trước khi Tần Dã chạm tay vào cánh cửa.",
+      "c": "Sinh mệnh của bạn cạn kiệt. Một bước chân sai ở bìa rừng hay một lần ngã đưa bạn đi nhanh hơn dự tính, và đêm ấy không ai kịp tới ngồi bên giường. Tiểu Châu kéo linh hồn bạn đi trước khi Tần Dã chạm tay vào cánh cửa.",
       "gain": 0,
       "piece": 0,
       "heat": 0.8,
@@ -149,7 +149,7 @@
       "place": "Hứa gia thôn · Phòng cưới nhà họ Hứa",
       "kind": "duyen",
       "title": "Sáng đầu tiên làm vợ",
-      "text": "Tiểu Đào tỉnh dậy trong một căn phòng cưới còn dán chữ hỷ đỏ, trong thân một cô gái hai mươi tuổi. Ký ức nguyên chủ ùa vào đầu: Hứa Tiểu Đào, thôn hoa của Hứa gia thôn, được cả nhà cưng như bảo bối. Hôm trước, bờ sông sụt đúng lúc Tần Dã đi qua, rồi Ninh Anh dẫn cô tới vớt anh và gọi cả thôn ra xem, nên hai người phải cưới. Cô sẽ sống trọn đời cùng Tần Dã và giữ anh khỏi con đường cô độc anh từng đi. Cuốn truyện gốc dừng ở đó, phần sau cô phải tự đi.",
+      "text": "Tỉnh dậy trong một căn phòng cưới còn dán chữ hỷ đỏ, trong thân một cô gái hai mươi tuổi. Ký ức nguyên chủ ùa vào đầu: Hứa Tiểu Đào, thôn hoa của Hứa gia thôn, được cả nhà cưng như bảo bối; thông minh hơn người nghĩ, viết chữ đẹp, vẽ bản đồ giỏi. Hôm trước, bờ sông sụt đúng lúc Tần Dã đi qua, rồi Ninh Anh dẫn bạn tới vớt anh và gọi cả thôn ra xem, nên hai người phải cưới. Nhiệm vụ của bạn: sống trọn đời cùng Tần Dã và giữ anh khỏi con đường cô độc anh từng đi. Cuốn truyện gốc dừng ở đó, phần sau bạn phải tự đi.",
       "tieu": "Ninh Anh gài bẫy chuyện rơi nước vì sợ ngươi cướp vị hôn phu của nàng. Nhớ cái tên đó. Còn lại, ngươi có một người chồng mặt lạnh.",
       "cast": "h_dao,h_da,h_anh,tc",
       "ch": [
@@ -158,7 +158,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô ghi đủ tên, ngày và nơi chốn. Đầu óc cô sáng ra, như vừa dọn xong một cái kho.",
+            "x": "Bạn ghi đủ tên, ngày và nơi chốn. Đầu óc bạn sáng ra, như vừa dọn xong một cái kho.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -169,7 +169,7 @@
           },
           "b": 0.5926400000000001,
           "bad": {
-            "x": "Cô ghi nhầm thứ tự hai việc, phải xóa đi viết lại mãi mới ổn.",
+            "x": "Bạn ghi nhầm thứ tự hai việc, phải xóa đi viết lại mãi mới ổn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -184,7 +184,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô nhẹ đầu hẳn đi. Có những chuyện để thời gian tự trả lời còn hơn.",
+            "x": "Bạn nhẹ đầu hẳn đi. Có những chuyện để thời gian tự trả lời còn hơn.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -194,7 +194,7 @@
           },
           "b": 0.48368,
           "bad": {
-            "x": "Cô quên mất tên một người trong hồ sơ, đến lúc cần phải nhờ Tiểu Châu nhắc.",
+            "x": "Bạn quên mất tên một người trong hồ sơ, đến lúc cần phải nhờ Tiểu Châu nhắc.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -209,7 +209,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "«Cô ta sợ ngươi đẹp, sợ chồng sắp cưới của cô ta nhìn ngươi lâu hơn cần thiết», Tiểu Châu đáp gọn. Cô khẽ gật.",
+            "x": "«Cô ta sợ ngươi đẹp, sợ chồng sắp cưới của cô ta nhìn ngươi lâu hơn cần thiết», Tiểu Châu đáp gọn. Bạn khẽ gật.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -219,7 +219,7 @@
           },
           "b": 0.48368,
           "bad": {
-            "x": "Tiểu Châu lảng sang chuyện khác, chỉ nói «để rồi xem». Cô vẫn chưa hiểu hết.",
+            "x": "Tiểu Châu lảng sang chuyện khác, chỉ nói «để rồi xem». Bạn vẫn chưa hiểu hết.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -230,7 +230,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Phòng cưới nhà họ Hứa, sáng sau đám cưới vội. Tiểu Đào nhận nhiệm vụ cảm hóa Tần Dã và đọc hồ sơ nguyên chủ.",
+      "ctx": "Phòng cưới nhà họ Hứa, sáng sau đám cưới vội. Bạn nhận nhiệm vụ cảm hóa Tần Dã và đọc hồ sơ nguyên chủ.",
       "no": 1
     },
     {
@@ -239,7 +239,7 @@
       "place": "Hứa gia thôn · Bếp nhà họ Hứa",
       "kind": "chon",
       "title": "Hai cái màn thầu trắng",
-      "text": "Cả nhà đã ra đồng. Trong nồi còn hai cái màn thầu bột trắng mẹ để lại cho cô, và cô ăn ngon lành. Cha mẹ cùng hai anh đều cưng cô, việc nhà cả nhà chia nhau làm. Đi ngang góc phòng, cô để ý chiếc rương gỗ của Tần Dã, dưới đáy có một xấp tài liệu ôn thi đại học chị anh gửi tới. Còn một năm nữa kỳ thi mới được khôi phục, nhưng Tiểu Châu đã cho cô biết điều đó. Cô có thể để yên cái rương, hoặc nói thẳng với anh rằng mình đã biết.",
+      "text": "Cả nhà đã ra đồng. Trong nồi còn hai cái màn thầu bột trắng mẹ để lại cho bạn, và bạn ăn ngon lành. Cha mẹ cùng hai anh đều cưng bạn, việc nhà cả nhà chia nhau làm. Đi ngang góc phòng, bạn để ý chiếc rương gỗ của Tần Dã, dưới đáy có một xấp tài liệu ôn thi đại học chị anh gửi tới. Còn một năm nữa kỳ thi mới được khôi phục, nhưng Tiểu Châu đã cho bạn biết điều đó. Bạn có thể để yên cái rương, hoặc nói thẳng với anh rằng mình đã biết.",
       "tieu": "Anh giấu cái rương như giấu một cái bóng. Ngươi nhìn thấy thì cũng đừng làm như không thấy.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -248,7 +248,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô khép nắp rương lại như chưa từng mở. Tối đó anh nhìn chiếc rương, rồi nhìn cô, rất lâu.",
+            "x": "Bạn khép nắp rương lại như chưa từng mở. Tối đó anh nhìn chiếc rương, rồi nhìn bạn, rất lâu.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -259,7 +259,7 @@
           },
           "b": 0.53632,
           "bad": {
-            "x": "Cô khép nắp quá mạnh, tiếng gỗ vang lên cả gian bếp. Cô hơi ngượng.",
+            "x": "Bạn khép nắp quá mạnh, tiếng gỗ vang lên cả gian bếp. Bạn hơi ngượng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -285,7 +285,7 @@
           },
           "b": 0.46368,
           "bad": {
-            "x": "Cô nói hơi vội, anh lùi nửa bước như bị bắt quả tang. Phải mất một lúc anh mới mở lời lại.",
+            "x": "Bạn nói hơi vội, anh lùi nửa bước như bị bắt quả tang. Phải mất một lúc anh mới mở lời lại.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -300,7 +300,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô xếp xấp tài liệu ngay ngắn, đặt chiếc bút máy lên trên cùng. Anh nhìn là hiểu.",
+            "x": "Bạn xếp xấp tài liệu ngay ngắn, đặt chiếc bút máy lên trên cùng. Anh nhìn là hiểu.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -310,7 +310,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô xếp nhầm thứ tự các cuốn sách. Anh phải chỉnh lại, hơi cười.",
+            "x": "Bạn xếp nhầm thứ tự các cuốn sách. Anh phải chỉnh lại, hơi cười.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -321,7 +321,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Bếp nhà họ Hứa, buổi sáng. Tiểu Đào thấy xấp tài liệu thi đại học dưới đáy rương của Tần Dã.",
+      "ctx": "Bếp nhà họ Hứa, buổi sáng. Bạn thấy xấp tài liệu thi đại học dưới đáy rương của Tần Dã.",
       "no": 2
     },
     {
@@ -330,7 +330,7 @@
       "place": "Hứa gia thôn · Trưa",
       "kind": "chon",
       "title": "Tần Dã trở về",
-      "text": "Anh làm việc đồng xong thì tắm rửa sạch sẽ mới dám vào phòng. Anh rón rén tới bên giường, kéo chân cô lại trong chăn rồi đỏ tai khi cô mở mắt. Cô nói «chúng ta đã cưới rồi». Anh hứa sẽ chịu trách nhiệm. Cô đòi thêm: phải yêu và thương cô nữa. Anh đáp «vâng» ngay, rồi nói đó là điều hiển nhiên. Trong tay cô còn nửa phần màn thầu chưa ăn.",
+      "text": "Anh làm việc đồng xong thì tắm rửa sạch sẽ mới dám vào phòng. Anh rón rén tới bên giường, kéo chân bạn lại trong chăn rồi đỏ tai khi bạn mở mắt. Bạn nói «chúng ta đã cưới rồi». Anh hứa sẽ chịu trách nhiệm. Bạn đòi thêm: phải yêu và thương bạn nữa. Anh đáp «vâng» ngay, rồi nói đó là điều hiển nhiên. Trong tay bạn còn nửa phần màn thầu chưa ăn.",
       "tieu": "Đừng cười anh. Anh đang cố giữ mặt lạnh mà tai đã đỏ hết.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -339,7 +339,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh đứng cứng người một lúc rồi mới dám đặt tay lên lưng cô. Hơi thở anh chậm lại.",
+            "x": "Anh đứng cứng người một lúc rồi mới dám đặt tay lên lưng bạn. Hơi thở anh chậm lại.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -350,7 +350,7 @@
           },
           "b": 0.53632,
           "bad": {
-            "x": "Cô ôm hơi mạnh, anh loạng choạng suýt ngã xuống mép giường. Cả hai cười.",
+            "x": "Bạn ôm hơi mạnh, anh loạng choạng suýt ngã xuống mép giường. Cả hai cười.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -376,7 +376,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô đưa nhầm phần có vết cắn. Anh vẫn nhận, tai đỏ hơn.",
+            "x": "Bạn đưa nhầm phần có vết cắn. Anh vẫn nhận, tai đỏ hơn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -401,7 +401,7 @@
           },
           "b": 0.46368,
           "bad": {
-            "x": "Anh im lặng khá lâu. Cô nhận ra mình hỏi sớm quá.",
+            "x": "Anh im lặng khá lâu. Bạn nhận ra mình hỏi sớm quá.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -412,7 +412,7 @@
           "b0": 0.48
         }
       ],
-      "ctx": "Nhà họ Hứa, trưa. Tần Dã vừa xong việc đồng, vào phòng với cô.",
+      "ctx": "Nhà họ Hứa, trưa. Tần Dã vừa xong việc đồng, vào phòng với bạn.",
       "no": 3
     },
     {
@@ -421,7 +421,7 @@
       "place": "Hứa gia thôn · Cùng buổi",
       "kind": "chon",
       "title": "Chuyện thi đại học",
-      "text": "Cô hỏi thẳng anh có muốn thi không, nhà nuôi thêm một người vẫn được. Anh hỏi cô có sợ anh đi rồi không quay lại. Cô đáp: «em đẹp thế này, anh không cần em là tổn thất của anh». Anh im lặng, rồi tự quyết: không thi. Cô nghe ra anh sợ mất cô hơn sợ mất con đường. Cô phải chọn khuyên anh cứ thi, hay ủng hộ quyết định của anh.",
+      "text": "Bạn hỏi thẳng anh có muốn thi không, nhà nuôi thêm một người vẫn được. Anh hỏi bạn có sợ anh đi rồi không quay lại. Bạn đáp: «em đẹp thế này, anh không cần em là tổn thất của anh». Anh im lặng, rồi tự quyết: không thi. Bạn nghe ra anh sợ mất bạn hơn sợ mất con đường. Bạn phải chọn khuyên anh cứ thi, hay ủng hộ quyết định của anh.",
       "tieu": "Anh nghe ra thứ cô muốn nói nhiều hơn thứ cô nói. Chọn từng chữ.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -468,7 +468,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh nhìn cô, cuối cùng khẽ cười. «Cảm ơn em đã không đẩy anh đi.»",
+            "x": "Anh nhìn bạn, cuối cùng khẽ cười. «Cảm ơn em đã không đẩy anh đi.»",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -479,7 +479,7 @@
           },
           "b": 0.53632,
           "bad": {
-            "x": "Câu nói của cô nghe hơi nhạt. Anh gật đầu nhưng vẫn nhìn cô dò xét.",
+            "x": "Câu nói của bạn nghe hơi nhạt. Anh gật đầu nhưng vẫn nhìn bạn dò xét.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -505,7 +505,7 @@
           },
           "b": 0.46368,
           "bad": {
-            "x": "Anh nghĩ cô nói cho vui. Cuộc nói chuyện trôi qua mà chưa ai nói thật lòng.",
+            "x": "Anh nghĩ bạn nói cho vui. Cuộc nói chuyện trôi qua mà chưa ai nói thật lòng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -516,7 +516,7 @@
           "b0": 0.48
         }
       ],
-      "ctx": "Phòng cưới, cùng buổi. Tiểu Đào hỏi anh có muốn thi đại học không.",
+      "ctx": "Phòng cưới, cùng buổi. Bạn hỏi anh có muốn thi đại học không.",
       "no": 4
     },
     {
@@ -525,7 +525,7 @@
       "place": "Hứa gia thôn · Bữa trưa cả nhà",
       "kind": "chon",
       "title": "Bữa cơm tuyên bố",
-      "text": "Quanh bàn ăn đông đủ, Tần Dã công bố trước cả nhà rằng anh không thi đại học. Hai anh vợ mừng ra mặt. Cha Hứa Thủ Quốc đập bàn, bảo anh cân nhắc lại, đề nghị anh và cô cùng ôn thi, cả nhà nuôi. Anh nói nhà mình phức tạp, có về cũng chẳng còn chỗ đứng, chi bằng ở lại làm nên chuyện. Mẹ Dư Xuân Lệ vội gắp thức ăn vào bát anh. Cô có thể đỡ lời cho anh, hoặc để anh tự thuyết phục cha.",
+      "text": "Quanh bàn ăn đông đủ, Tần Dã công bố trước cả nhà rằng anh không thi đại học. Hai anh vợ mừng ra mặt. Cha Hứa Thủ Quốc đập bàn, bảo anh cân nhắc lại, đề nghị anh và bạn cùng ôn thi, cả nhà nuôi. Anh nói nhà mình phức tạp, có về cũng chẳng còn chỗ đứng, chi bằng ở lại làm nên chuyện. Mẹ Dư Xuân Lệ vội gắp thức ăn vào bát anh. Bạn có thể đỡ lời cho anh, hoặc để anh tự thuyết phục cha.",
       "tieu": "Cha cô là người nóng mà tốt. Ông đập bàn vì thương con rể, không phải vì ghét.",
       "cast": "h_dao,h_da,h_quoc,h_le,h_ngoc,h_hang,tc",
       "ch": [
@@ -534,7 +534,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cha cô nhìn anh rồi nhìn cô, hừ một tiếng và gắp một miếng thịt to vào bát anh.",
+            "x": "Cha bạn nhìn anh rồi nhìn bạn, hừ một tiếng và gắp một miếng thịt to vào bát anh.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -545,7 +545,7 @@
           },
           "b": 0.52088,
           "bad": {
-            "x": "Cô nói chen giữa câu của anh, cha cô nhíu mày vì tưởng hai đứa đã bàn riêng với nhau.",
+            "x": "Bạn nói chen giữa câu của anh, cha bạn nhíu mày vì tưởng hai đứa đã bàn riêng với nhau.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -560,7 +560,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh tự nói hết một hơi. Cha cô nghe xong thì chỉ thở dài: «Thôi, tùy con.»",
+            "x": "Anh tự nói hết một hơi. Cha bạn nghe xong thì chỉ thở dài: «Thôi, tùy con.»",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -586,7 +586,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cha cô khựng lại, giọng dịu xuống. «Phải. Ta lo nó mặc kệ chính mình.»",
+            "x": "Cha bạn khựng lại, giọng dịu xuống. «Phải. Ta lo nó mặc kệ chính mình.»",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -596,7 +596,7 @@
           },
           "b": 0.4664,
           "bad": {
-            "x": "Câu hỏi làm cha cô ngượng, ông quay sang mắng hai anh vì chuyện khác.",
+            "x": "Câu hỏi làm cha bạn ngượng, ông quay sang mắng hai anh vì chuyện khác.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -616,7 +616,7 @@
       "place": "Hứa gia thôn · Sườn núi sau thôn",
       "kind": "duyen",
       "title": "Lên núi săn và kế hoạch xưởng",
-      "text": "Chiều đó cô đòi theo xem anh săn, anh nắm tay cô dẫn đi. Anh bắt được một con thỏ và hai con gà rừng, cô đi bên hái rau dại. Trên đường, anh kể kế hoạch: làm xưởng đồ hộp từ sơn trân, bao núi nuôi gà, rồi sửa thôn thành chốn nghỉ ngơi, để sau này nhà nhà ăn thịt hằng ngày. Cô thấy tầm nhìn của anh xa hơn người trong thôn rất nhiều. Cô có thể hỏi thêm chi tiết, hoặc góp một ý của mình.",
+      "text": "Chiều đó bạn đòi theo xem anh săn, anh nắm tay bạn dẫn đi. Anh bắt được một con thỏ và hai con gà rừng, bạn đi bên hái rau dại. Trên đường, anh kể kế hoạch: làm xưởng đồ hộp từ sơn trân, bao núi nuôi gà, rồi sửa thôn thành chốn nghỉ ngơi, để sau này nhà nhà ăn thịt hằng ngày. Bạn thấy tầm nhìn của anh xa hơn người trong thôn rất nhiều. Bạn có thể hỏi thêm chi tiết, hoặc góp một ý của mình.",
       "tieu": "Anh hiếm khi nói dài như vậy. Hỏi hay góp ý, anh đều sẽ nhớ.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -625,7 +625,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh trả lời từng câu, rồi chợt dừng: «Em hỏi đúng chỗ anh chưa nghĩ tới.» Anh nhìn cô lâu hơn bình thường.",
+            "x": "Anh trả lời từng câu, rồi chợt dừng: «Em hỏi đúng chỗ anh chưa nghĩ tới.» Anh nhìn bạn lâu hơn bình thường.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -636,7 +636,7 @@
           },
           "b": 0.53632,
           "bad": {
-            "x": "Cô hỏi nhiều quá cùng lúc, anh phải dừng chân ghi nhớ từng câu một.",
+            "x": "Bạn hỏi nhiều quá cùng lúc, anh phải dừng chân ghi nhớ từng câu một.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -662,7 +662,7 @@
           },
           "b": 0.46368,
           "bad": {
-            "x": "Ý của cô hơi sớm, anh gật nhưng chưa thấy khớp với kế hoạch của mình.",
+            "x": "Ý của bạn hơi sớm, anh gật nhưng chưa thấy khớp với kế hoạch của mình.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -677,7 +677,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh tưởng cô không thích. Cô đưa nắm rau cho anh xem, anh bật cười, nói tiếp.",
+            "x": "Anh tưởng bạn không thích. Bạn đưa nắm rau cho anh xem, anh bật cười, nói tiếp.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -687,7 +687,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô hái nhầm một loại có vị đắng. Anh nhăn mặt rồi vẫn nhận lấy.",
+            "x": "Bạn hái nhầm một loại có vị đắng. Anh nhăn mặt rồi vẫn nhận lấy.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -712,7 +712,7 @@
       "place": "Hứa gia thôn · Bìa rừng",
       "kind": "hiem",
       "title": "Học đặt bẫy",
-      "text": "Anh dựng một cái bẫy nhỏ ngay bìa rừng. Anh chỉ cô cách tìm dấu chân thú, cách chọn chỗ đặt thòng lọng, và vì sao không được đặt gần lối cô đi để khỏi bị thương. Anh dặn cô đứng ở chỗ an toàn khi anh làm việc. Cô có thể xin tự đặt thử một cái, hoặc đứng xem.",
+      "text": "Anh dựng một cái bẫy nhỏ ngay bìa rừng. Anh chỉ bạn cách tìm dấu chân thú, cách chọn chỗ đặt thòng lọng, và vì sao không được đặt gần lối bạn đi để khỏi bị thương. Anh dặn bạn đứng ở chỗ an toàn khi anh làm việc. Bạn có thể xin tự đặt thử một cái, hoặc đứng xem.",
       "tieu": "Anh dặn thật kỹ. Cô nên nghe, vì thòng lọng không phân biệt người với thỏ.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -721,7 +721,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô đặt xong cái bẫy đầu tiên, vụng nhưng đúng. Anh kiểm tra, không sửa chữ nào.",
+            "x": "Bạn đặt xong cái bẫy đầu tiên, vụng nhưng đúng. Anh kiểm tra, không sửa chữ nào.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -732,7 +732,7 @@
           },
           "b": 0.5027200000000001,
           "bad": {
-            "x": "Cô đặt lệch nửa gang, anh phải sửa lại, nắm tay cô kéo ra khỏi vòng thòng lọng.",
+            "x": "Bạn đặt lệch nửa gang, anh phải sửa lại, nắm tay bạn kéo ra khỏi vòng thòng lọng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -747,7 +747,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô đứng yên đúng chỗ, nhớ hết từng động tác. Anh liếc nhìn cô, hài lòng.",
+            "x": "Bạn đứng yên đúng chỗ, nhớ hết từng động tác. Anh liếc nhìn bạn, hài lòng.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -758,7 +758,7 @@
           },
           "b": 0.5390400000000001,
           "bad": {
-            "x": "Cô đứng quá gần, anh phải nhắc hai lần mới chịu lùi.",
+            "x": "Bạn đứng quá gần, anh phải nhắc hai lần mới chịu lùi.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -773,7 +773,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô đặt đúng chỗ, anh nhìn cô khá lâu mà không nói gì.",
+            "x": "Bạn đặt đúng chỗ, anh nhìn bạn khá lâu mà không nói gì.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -784,7 +784,7 @@
           },
           "b": 0.44823999999999997,
           "bad": {
-            "x": "Cô sải chân vào vòng thòng lọng, bẫy xiết lại quanh mắt cá chân. Anh lao tới tháo ra, mặt tái đi.",
+            "x": "Bạn sải chân vào vòng thòng lọng, bẫy xiết lại quanh mắt cá chân. Anh lao tới tháo ra, mặt tái đi.",
             "d": {
               "ac": -1,
               "hac": 3,
@@ -801,7 +801,7 @@
           "b0": 0.47
         }
       ],
-      "ctx": "Bìa rừng, ngay sau đó. Tần Dã dạy cô đặt bẫy thú nhỏ.",
+      "ctx": "Bìa rừng, ngay sau đó. Tần Dã dạy bạn đặt bẫy thú nhỏ.",
       "learn": {
         "n": "Đặt bẫy thú nhỏ",
         "s": "van",
@@ -815,7 +815,7 @@
       "place": "Hứa gia thôn · Đồng ruộng",
       "kind": "chon",
       "title": "Mang nước ra ruộng",
-      "text": "Mấy ngày sau, cô đem ấm nước mát ra ruộng cho Tần Dã và đứng bên bờ ruộng cả buổi chiều. Anh làm bằng ba người, dân làm cùng ghen tị vì anh có vợ đẹp đứng nhìn. Ninh Anh tìm tới, giọng nhẹ nhàng: «đàn ông muốn chạy thì sẽ tìm cách chạy». Cô đáp anh không thi. Ninh Anh sững lại, ánh mắt thoáng ghen tị. Em gái cô ta Ninh Hiểu Phương đứng xa, lườm. Lúc về, thôn dân trêu anh nên nắm tay cô kẻo cô vấp, anh không dám cãi.",
+      "text": "Mấy ngày sau, bạn đem ấm nước mát ra ruộng cho Tần Dã và đứng bên bờ ruộng cả buổi chiều. Anh làm bằng ba người, dân làm cùng ghen tị vì anh có vợ đẹp đứng nhìn. Ninh Anh tìm tới, giọng nhẹ nhàng: «đàn ông muốn chạy thì sẽ tìm cách chạy». Bạn đáp anh không thi. Ninh Anh sững lại, ánh mắt thoáng ghen tị. Em gái cô ta Ninh Hiểu Phương đứng xa, lườm. Lúc về, thôn dân trêu anh nên nắm tay bạn kẻo bạn vấp, anh không dám cãi.",
       "tieu": "Đây là lần đầu ngươi thấy mặt Ninh Anh. Nàng sợ ngươi, mà ngươi chưa biết vì sao nàng sợ.",
       "cast": "h_dao,h_da,h_anh,h_hphuong,tc",
       "ch": [
@@ -824,7 +824,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Ninh Anh hơi hoảng, chối rằng chỉ tiện miệng. Cô ghi nhớ nét mặt đó.",
+            "x": "Ninh Anh hơi hoảng, chối rằng chỉ tiện miệng. Bạn ghi nhớ nét mặt đó.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -835,7 +835,7 @@
           },
           "b": 0.47912,
           "bad": {
-            "x": "Cô hỏi hơi sắc, Ninh Anh cười cười rồi bỏ đi, không để lộ thêm gì.",
+            "x": "Bạn hỏi hơi sắc, Ninh Anh cười cười rồi bỏ đi, không để lộ thêm gì.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -850,7 +850,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô quay lưng đi, bàn tay anh ấm hơn bình thường. Ninh Anh đứng lại sau lưng cô.",
+            "x": "Bạn quay lưng đi, bàn tay anh ấm hơn bình thường. Ninh Anh đứng lại sau lưng bạn.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -876,7 +876,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh siết lại tay cô. Cả thôn thấy, cả thôn cười, và cô không thấy ngượng.",
+            "x": "Anh siết lại tay bạn. Cả thôn thấy, cả thôn cười, và bạn không thấy ngượng.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -886,7 +886,7 @@
           },
           "b": 0.49728000000000006,
           "bad": {
-            "x": "Cô vấp ngay bờ ruộng thật. Anh kịp đỡ, nhưng mặt Ninh Anh đã thoáng hả hê.",
+            "x": "Bạn vấp ngay bờ ruộng thật. Anh kịp đỡ, nhưng mặt Ninh Anh đã thoáng hả hê.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -906,7 +906,7 @@
       "place": "Hứa gia thôn · Đường về",
       "kind": "chon",
       "title": "Lời thề của Tần Dã",
-      "text": "Trên đường về, cô nói nhỏ rằng Ninh Anh có nhìn anh. Anh giật mình thề rằng anh không hề nhận quà hay quen cô ta, thậm chí không nhớ nổi mặt. Cô nói mình tin anh, nhưng để ý thấy anh phản ứng mạnh vì sợ cô hiểu lầm. Cô có thể trấn an anh, hoặc trêu anh thêm một chút.",
+      "text": "Trên đường về, bạn nói nhỏ rằng Ninh Anh có nhìn anh. Anh giật mình thề rằng anh không hề nhận quà hay quen cô ta, thậm chí không nhớ nổi mặt. Bạn nói mình tin anh, nhưng để ý thấy anh phản ứng mạnh vì sợ bạn hiểu lầm. Bạn có thể trấn an anh, hoặc trêu anh thêm một chút.",
       "tieu": "Anh đang sợ. Chỉ một câu trêu cũng có thể thành vết sâu nếu anh nghe nhầm.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -926,7 +926,7 @@
           },
           "b": 0.52088,
           "bad": {
-            "x": "Anh vẫn lắc đầu, lặp lại lời thề lần nữa. Cô phải ôm lấy cánh tay anh cho anh dừng.",
+            "x": "Anh vẫn lắc đầu, lặp lại lời thề lần nữa. Bạn phải ôm lấy cánh tay anh cho anh dừng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -941,7 +941,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh đỏ bừng mặt, nhìn trời nhìn đất. Cô nghe tiếng anh cười khẽ.",
+            "x": "Anh đỏ bừng mặt, nhìn trời nhìn đất. Bạn nghe tiếng anh cười khẽ.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -952,7 +952,7 @@
           },
           "b": 0.4664,
           "bad": {
-            "x": "Anh nghe thành nghi ngờ thật. Mặt anh sầm xuống, cô vội nói lại.",
+            "x": "Anh nghe thành nghi ngờ thật. Mặt anh sầm xuống, bạn vội nói lại.",
             "d": {
               "ac": 0,
               "hac": 3,
@@ -973,7 +973,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh nói hết mọi điều, từ lần gặp đầu đến những lần tránh mặt. Tay anh không buông tay cô.",
+            "x": "Anh nói hết mọi điều, từ lần gặp đầu đến những lần tránh mặt. Tay anh không buông tay bạn.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1003,7 +1003,7 @@
       "place": "Trấn · Văn phòng trấn trưởng",
       "kind": "chon",
       "title": "Lên trấn trình kế hoạch",
-      "text": "Mấy tuần sau, cô, anh và cha cùng lên trấn gặp Lương trấn trưởng. Anh đưa một xấp kế hoạch viết tay; Lương trấn trưởng đọc kỹ, ánh mắt đổi khác nhưng chỉ nói «về chờ tin», vì lập xưởng ở thôn thì tài nguyên cả vùng sẽ nghiêng về đây. Anh nói làm xưởng là vì nước vì dân. Trước khi nộp, cô đã giúp anh chỉnh lại câu chữ trong bản kế hoạch. Giờ cô phải chọn nhấn thêm phần lợi ích cho dân trong vùng, hay phần lợi nhuận của xưởng.",
+      "text": "Mấy tuần sau, bạn, anh và cha cùng lên trấn gặp Lương trấn trưởng. Anh đưa một xấp kế hoạch viết tay; Lương trấn trưởng đọc kỹ, ánh mắt đổi khác nhưng chỉ nói «về chờ tin», vì lập xưởng ở thôn thì tài nguyên cả vùng sẽ nghiêng về đây. Anh nói làm xưởng là vì nước vì dân. Trước khi nộp, bạn đã giúp anh chỉnh lại câu chữ trong bản kế hoạch. Giờ bạn phải chọn nhấn thêm phần lợi ích cho dân trong vùng, hay phần lợi nhuận của xưởng.",
       "tieu": "Quan trấn nghe lợi cho dân dễ hơn nghe lợi cho xưởng. Nhưng ông cũng không ngốc.",
       "cast": "h_dao,h_da,h_quoc,h_luong,tc",
       "ch": [
@@ -1023,7 +1023,7 @@
           },
           "b": 0.53632,
           "bad": {
-            "x": "Cô nói hơi dài, trấn trưởng nhìn đồng hồ. Anh phải gỡ lại.",
+            "x": "Bạn nói hơi dài, trấn trưởng nhìn đồng hồ. Anh phải gỡ lại.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1049,7 +1049,7 @@
           },
           "b": 0.46368,
           "bad": {
-            "x": "Con số cô đưa lệch một chút, anh phải sửa. Trấn trưởng cười nhạt.",
+            "x": "Con số bạn đưa lệch một chút, anh phải sửa. Trấn trưởng cười nhạt.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1060,11 +1060,11 @@
           "b0": 0.48
         },
         {
-          "t": "Để anh nói, cô chỉ rót trà và quan sát",
+          "t": "Để anh nói, bạn chỉ rót trà và quan sát",
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Nhìn cách ông rót trà đáp lễ, cô biết ông đã có ý đồng ý, chỉ chưa nói.",
+            "x": "Nhìn cách ông rót trà đáp lễ, bạn biết ông đã có ý đồng ý, chỉ chưa nói.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1074,7 +1074,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Ấm trà đổ nhẹ ra khay. Ông liếc cô rồi cười, như cười một cô vợ trẻ.",
+            "x": "Ấm trà đổ nhẹ ra khay. Ông liếc bạn rồi cười, như cười một cô vợ trẻ.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1099,7 +1099,7 @@
       "place": "Hứa gia thôn · Tối hôm đó",
       "kind": "chon",
       "title": "Đồ hộp làm lén",
-      "text": "Tối đó, cô phát hiện cả nhà đã nếm đồ hộp anh làm ban đêm lúc cô ngủ. Ai cũng giấu cô để cô bất ngờ. Cô nếm từng món và chấm điểm: món nào quá mặn, món nào hợp làm quà biếu. Anh ngồi bên cạnh ghi chép nghiêm túc từng chữ. Cô có thể nói thẳng cả những món chưa đạt, hoặc chỉ nêu ba món ngon nhất.",
+      "text": "Tối đó, bạn phát hiện cả nhà đã nếm đồ hộp anh làm ban đêm lúc bạn ngủ. Ai cũng giấu bạn để bạn bất ngờ. Bạn nếm từng món và chấm điểm: món nào quá mặn, món nào hợp làm quà biếu. Anh ngồi bên cạnh ghi chép nghiêm túc từng chữ. Bạn có thể nói thẳng cả những món chưa đạt, hoặc chỉ nêu ba món ngon nhất.",
       "tieu": "Anh ghi tất cả những gì cô nói. Cô khen thì anh nhớ, cô chê thì anh sửa.",
       "cast": "h_dao,h_da,h_le,tc",
       "ch": [
@@ -1119,7 +1119,7 @@
           },
           "b": 0.53632,
           "bad": {
-            "x": "Cô chê gắt quá, anh im lặng một lúc rồi gấp quyển sổ lại.",
+            "x": "Bạn chê gắt quá, anh im lặng một lúc rồi gấp quyển sổ lại.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1134,7 +1134,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh nhìn ba món cô chọn, rồi gật. «Anh sẽ làm ba món này thật tốt.»",
+            "x": "Anh nhìn ba món bạn chọn, rồi gật. «Anh sẽ làm ba món này thật tốt.»",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1145,7 +1145,7 @@
           },
           "b": 0.46368,
           "bad": {
-            "x": "Anh tưởng cô chê chung cả mẻ. Anh bỏ cả mẻ ra, mất công nửa đêm.",
+            "x": "Anh tưởng bạn chê chung cả mẻ. Anh bỏ cả mẻ ra, mất công nửa đêm.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1170,7 +1170,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô ăn nhiều quá, quên mất việc chấm điểm. Anh phải nhắc.",
+            "x": "Bạn ăn nhiều quá, quên mất việc chấm điểm. Anh phải nhắc.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1181,7 +1181,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Nhà họ Hứa, tối hôm đó. Cô nếm đồ hộp đầu tiên của anh.",
+      "ctx": "Nhà họ Hứa, tối hôm đó. Bạn nếm đồ hộp đầu tiên của anh.",
       "learn": {
         "n": "Thử vị và chấm điểm",
         "s": "mi",
@@ -1195,7 +1195,7 @@
       "place": "Trấn · Quán cơm quốc doanh",
       "kind": "chon",
       "title": "Gặp nhau ở quán quốc doanh",
-      "text": "Vài tuần sau, hai người lên trấn ăn ở quán quốc doanh. Cô nhìn sang bàn bên: Ninh Anh ngồi cạnh một quân nhân ít lời, anh Giang Thế Quân, vị hôn phu của cô ta. Tần Dã bẻ mặt cô quay lại: «chỉ nhìn anh». Lúc ra cửa hai bên chạm mặt; Thế Quân thoáng sững khi thấy cô rồi cúi chào Tần Dã, còn Ninh Anh áp sát người anh như giữ của. Tần Dã nắm tay cô chặt hơn, không nói gì. Cô có thể nói thật với anh về chuyện Thế Quân thoáng sững, hoặc bỏ qua.",
+      "text": "Vài tuần sau, hai người lên trấn ăn ở quán quốc doanh. Bạn nhìn sang bàn bên: Ninh Anh ngồi cạnh một quân nhân ít lời, anh Giang Thế Quân, vị hôn phu của cô ta. Tần Dã bẻ mặt bạn quay lại: «chỉ nhìn anh». Lúc ra cửa hai bên chạm mặt; Thế Quân thoáng sững khi thấy bạn rồi cúi chào Tần Dã, còn Ninh Anh áp sát người anh như giữ của. Tần Dã nắm tay bạn chặt hơn, không nói gì. Bạn có thể nói thật với anh về chuyện Thế Quân thoáng sững, hoặc bỏ qua.",
       "tieu": "Anh thấy hết, chỉ không nói. Nói thật sớm thì anh đỡ tự nghĩ.",
       "cast": "h_dao,h_da,h_quan,h_anh,tc",
       "ch": [
@@ -1215,7 +1215,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Anh nghe xong thì mặt tối lại. Cô nói đúng mà anh vẫn thấy chạnh.",
+            "x": "Anh nghe xong thì mặt tối lại. Bạn nói đúng mà anh vẫn thấy chạnh.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1230,7 +1230,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh để cô kéo đi nhưng cứ ngoái nhìn lại. Ngoài cửa hiệu, anh mới thôi.",
+            "x": "Anh để bạn kéo đi nhưng cứ ngoái nhìn lại. Ngoài cửa hiệu, anh mới thôi.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1240,7 +1240,7 @@
           },
           "b": 0.53632,
           "bad": {
-            "x": "Cô kéo hơi gượng. Anh nhìn bóng Thế Quân khuất sau cánh cửa lâu hơn bình thường.",
+            "x": "Bạn kéo hơi gượng. Anh nhìn bóng Thế Quân khuất sau cánh cửa lâu hơn bình thường.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1255,7 +1255,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Thế Quân vội lảng đi. Tần Dã nhìn cô, ánh mắt chợt dịu lại.",
+            "x": "Thế Quân vội lảng đi. Tần Dã nhìn bạn, ánh mắt chợt dịu lại.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1265,7 +1265,7 @@
           },
           "b": 0.46368,
           "bad": {
-            "x": "Cô gật đầu quá lâu, Ninh Anh liếc nhìn. Cô thấy tay anh siết đến trắng cả khớp.",
+            "x": "Bạn gật đầu quá lâu, Ninh Anh liếc nhìn. Bạn thấy tay anh siết đến trắng cả khớp.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1276,7 +1276,7 @@
           "b0": 0.48
         }
       ],
-      "ctx": "Quán cơm quốc doanh trên trấn, vài tuần sau. Cô thấy Ninh Anh cùng Giang Thế Quân.",
+      "ctx": "Quán cơm quốc doanh trên trấn, vài tuần sau. Bạn thấy Ninh Anh cùng Giang Thế Quân.",
       "forced": 1,
       "no": 12
     },
@@ -1286,7 +1286,7 @@
       "place": "Hứa gia thôn · Nhà họ Ninh",
       "kind": "chon",
       "title": "Ninh Anh gả đi",
-      "text": "Một tháng sau, Giang Thế Quân về báo cáo kết hôn. Ninh Hiểu Phương nháo đòi gả thay chị, nhà họ Ninh còn xúi giục, nhưng bà Phương Thu Lan, mẹ Thế Quân, chê cô ta ngang ngược. Ninh Anh làm ra vẻ cần mẫn trước mặt mẹ chồng để thắng lòng bà. Rồi Ninh Anh theo chồng vào quân đội, bỏ lại Hiểu Phương và em trai Ninh Thư Bảo ở thôn. Tiểu Đào được mời ra tiễn.",
+      "text": "Một tháng sau, Giang Thế Quân về báo cáo kết hôn. Ninh Hiểu Phương nháo đòi gả thay chị, nhà họ Ninh còn xúi giục, nhưng bà Phương Thu Lan, mẹ Thế Quân, chê cô ta ngang ngược. Ninh Anh làm ra vẻ cần mẫn trước mặt mẹ chồng để thắng lòng bà. Rồi Ninh Anh theo chồng vào quân đội, bỏ lại Hiểu Phương và em trai Ninh Thư Bảo ở thôn. Bạn được mời ra tiễn.",
       "tieu": "Nàng đi rồi. Nhưng cái bẫy ở bờ sông vẫn chưa ai nhắc tới.",
       "cast": "h_dao,h_anh,h_quan,h_lan,h_hphuong,h_bao,tc",
       "ch": [
@@ -1306,7 +1306,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Lời của cô nghe như thương hại. Ninh Anh trừng mắt, lên xe không nói tiếng nào.",
+            "x": "Lời của bạn nghe như thương hại. Ninh Anh trừng mắt, lên xe không nói tiếng nào.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1321,7 +1321,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Bụi đường lắng xuống. Cô thấy mình nhẹ đi một chút.",
+            "x": "Bụi đường lắng xuống. Bạn thấy mình nhẹ đi một chút.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1331,7 +1331,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô đứng quá gần, bụi bay vào mắt. Anh vội lấy khăn lau cho cô.",
+            "x": "Bạn đứng quá gần, bụi bay vào mắt. Anh vội lấy khăn lau cho bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1346,7 +1346,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô thấy Thư Bảo cúi gằm mặt, tay nắm chặt vạt áo. Cậu bé như đang giấu điều gì.",
+            "x": "Bạn thấy Thư Bảo cúi gằm mặt, tay nắm chặt vạt áo. Cậu bé như đang giấu điều gì.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1357,7 +1357,7 @@
           },
           "b": 0.48184,
           "bad": {
-            "x": "Cô nhìn nhầm hướng, bỏ lỡ nét mặt của Thư Bảo.",
+            "x": "Bạn nhìn nhầm hướng, bỏ lỡ nét mặt của Thư Bảo.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1377,7 +1377,7 @@
       "place": "Hứa gia thôn · Bãi đất ngoài thôn",
       "kind": "duyen",
       "title": "Xưởng thực phẩm Hứa thị",
-      "text": "Vài tháng sau, giấy phép được duyệt. Tần Dã chọn dựng xưởng ngoài thôn để tránh rác và tiếng ồn, và thuyết phục được cha cô. Thôn dân từ chê bai chuyển sang xin làm công nhật vì được chia đồ ăn. Xưởng lấy tên Hứa thị, ký hiệu một chữ «Đường», anh nói vì cô cười ngọt hơn đường. Cô theo thợ cả học quy trình nấu và đóng hộp. Cô phải chọn học kỹ khâu tiệt trùng, hoặc khâu đóng gói.",
+      "text": "Vài tháng sau, giấy phép được duyệt. Tần Dã chọn dựng xưởng ngoài thôn để tránh rác và tiếng ồn, và thuyết phục được cha bạn. Thôn dân từ chê bai chuyển sang xin làm công nhật vì được chia đồ ăn. Xưởng lấy tên Hứa thị, ký hiệu một chữ «Đường», anh nói vì bạn cười ngọt hơn đường. Bạn theo thợ cả học quy trình nấu và đóng hộp. Bạn phải chọn học kỹ khâu tiệt trùng, hoặc khâu đóng gói.",
       "tieu": "Một xưởng nhỏ vài gian nhà, mà ai cũng nhìn vào. Học cho thật, đừng học cho đẹp.",
       "cast": "h_dao,h_da,h_quoc,tc",
       "ch": [
@@ -1386,7 +1386,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô học thuộc nhiệt độ, thời gian, cách thử kín. Thợ cả gật đầu lần đầu tiên.",
+            "x": "Bạn học thuộc nhiệt độ, thời gian, cách thử kín. Thợ cả gật đầu lần đầu tiên.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1397,7 +1397,7 @@
           },
           "b": 0.54176,
           "bad": {
-            "x": "Cô nhớ nhầm một con số, may thợ cả kịp sửa trước khi nấu mẻ đầu.",
+            "x": "Bạn nhớ nhầm một con số, may thợ cả kịp sửa trước khi nấu mẻ đầu.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1412,7 +1412,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô chọn được kiểu nhãn giản dị mà đẹp. Anh nhìn nhãn rất lâu rồi nói: «Giữ nguyên.»",
+            "x": "Bạn chọn được kiểu nhãn giản dị mà đẹp. Anh nhìn nhãn rất lâu rồi nói: «Giữ nguyên.»",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1423,7 +1423,7 @@
           },
           "b": 0.48728,
           "bad": {
-            "x": "Mẻ nhãn đầu bị lệch, phải in lại. Cô ngượng, anh chỉ cười.",
+            "x": "Mẻ nhãn đầu bị lệch, phải in lại. Bạn ngượng, anh chỉ cười.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1438,7 +1438,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Đến cuối tháng, thợ cả để cô đứng quản cả hai khâu.",
+            "x": "Đến cuối tháng, thợ cả để bạn đứng quản cả hai khâu.",
             "d": {
               "ac": -3,
               "hac": -2,
@@ -1448,7 +1448,7 @@
           },
           "b": 0.4509599999999999,
           "bad": {
-            "x": "Cô mệt nên học dở cả hai. Thợ cả thở dài, bảo học lại từ đầu.",
+            "x": "Bạn mệt nên học dở cả hai. Thợ cả thở dài, bảo học lại từ đầu.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1473,7 +1473,7 @@
       "place": "Hứa gia thôn · Bữa cơm gia đình",
       "kind": "chon",
       "title": "Mẹ giục sinh",
-      "text": "Ba năm sau khi cưới, xưởng đã vào quỹ đạo. Trong bữa cơm, mẹ Dư Xuân Lệ hỏi sao chưa có con, vì sợ không có con thì chồng sẽ đổi lòng. Cô nhìn anh, anh nhìn lại; hai người mải nhìn nhau đến nỗi mẹ bỏ cuộc. Cô có thể nói nhẹ với mẹ, hoặc để mẹ tự bớt lo.",
+      "text": "Ba năm sau khi cưới, xưởng đã vào quỹ đạo. Trong bữa cơm, mẹ Dư Xuân Lệ hỏi sao chưa có con, vì sợ không có con thì chồng sẽ đổi lòng. Bạn nhìn anh, anh nhìn lại; hai người mải nhìn nhau đến nỗi mẹ bỏ cuộc. Bạn có thể nói nhẹ với mẹ, hoặc để mẹ tự bớt lo.",
       "tieu": "Mẹ cô lo nhiều hơn nói. Một câu nhẹ có thể đỡ hơn mười câu cãi.",
       "cast": "h_dao,h_da,h_le,tc",
       "ch": [
@@ -1482,7 +1482,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Mẹ gật gù, gắp thêm miếng cá vào bát cô. «Thôi mẹ không hỏi nữa.»",
+            "x": "Mẹ gật gù, gắp thêm miếng cá vào bát bạn. «Thôi mẹ không hỏi nữa.»",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1493,7 +1493,7 @@
           },
           "b": 0.53632,
           "bad": {
-            "x": "Mẹ lại thở dài, nhưng vẫn gắp thêm cá cho cô.",
+            "x": "Mẹ lại thở dài, nhưng vẫn gắp thêm cá cho bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1504,11 +1504,11 @@
           "b0": 0.52
         },
         {
-          "t": "Để mẹ tự bớt lo, cô chỉ cười",
+          "t": "Để mẹ tự bớt lo, bạn chỉ cười",
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Mẹ nhìn nụ cười của cô rồi đổi chuyện sang xưởng.",
+            "x": "Mẹ nhìn nụ cười của bạn rồi đổi chuyện sang xưởng.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1518,7 +1518,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Mẹ tưởng cô né tránh, lát sau còn nói với bố.",
+            "x": "Mẹ tưởng bạn né tránh, lát sau còn nói với bố.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1533,7 +1533,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Mẹ nghe có hẹn thì yên tâm, nhưng anh thì nhìn cô lâu hơn.",
+            "x": "Mẹ nghe có hẹn thì yên tâm, nhưng anh thì nhìn bạn lâu hơn.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1564,7 +1564,7 @@
       "place": "Hứa gia thôn · Tối cùng ngày",
       "kind": "chon",
       "title": "Chuyện không có con",
-      "text": "Tối đó anh bưng nước ngâm chân cho cô. Cô hỏi anh có muốn có con không, nếu cả đời không có thì anh có tiếc. Anh hoảng, tưởng cô bệnh, đòi đi bệnh viện. Cô nói thân thể mình bình thường nhưng hai người sẽ không có con. Anh đáp «anh chỉ cần em», rồi thú nhận anh không chịu nổi việc ánh mắt cô chia cho người khác, dù là con mình. Cô phải chọn: nói thẳng rằng chính cô cũng không muốn có con, hoặc chỉ nói «sẽ không có» mà không giải thích.",
+      "text": "Tối đó anh bưng nước ngâm chân cho bạn. Bạn hỏi anh có muốn có con không, nếu cả đời không có thì anh có tiếc. Anh hoảng, tưởng bạn bệnh, đòi đi bệnh viện. Bạn nói thân thể mình bình thường nhưng hai người sẽ không có con. Anh đáp «anh chỉ cần em», rồi thú nhận anh không chịu nổi việc ánh mắt bạn chia cho người khác, dù là con mình. Bạn phải chọn: nói thẳng rằng chính bạn cũng không muốn có con, hoặc chỉ nói «sẽ không có» mà không giải thích.",
       "tieu": "Đừng thử lòng anh. Anh dễ vỡ ở đúng chỗ người khác nghĩ là chắc.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -1573,7 +1573,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh ôm cô thật chặt, đặt môi lên trán cô. «Vậy là đủ rồi.»",
+            "x": "Anh ôm bạn thật chặt, đặt môi lên trán bạn. «Vậy là đủ rồi.»",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1584,7 +1584,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Cô nói vụng, anh ngơ ngác hỏi lại ba lần mới hiểu.",
+            "x": "Bạn nói vụng, anh ngơ ngác hỏi lại ba lần mới hiểu.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1599,7 +1599,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh im lặng rất lâu rồi nắm tay cô. «Anh hiểu. Anh không hỏi nữa.»",
+            "x": "Anh im lặng rất lâu rồi nắm tay bạn. «Anh hiểu. Anh không hỏi nữa.»",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1609,7 +1609,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Anh hiểu nhầm là cô giấu bệnh. Phải giải thích lại cả đêm.",
+            "x": "Anh hiểu nhầm là bạn giấu bệnh. Phải giải thích lại cả đêm.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1624,7 +1624,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh nhìn cô, mắt đỏ lên. «Em thử anh sao? Anh không đổi.»",
+            "x": "Anh nhìn bạn, mắt đỏ lên. «Em thử anh sao? Anh không đổi.»",
             "d": {
               "ac": -1,
               "hac": 4,
@@ -1667,7 +1667,7 @@
       "place": "Hứa gia thôn · Họp thôn",
       "kind": "duyen",
       "title": "Trường học và lớp xóa mù",
-      "text": "Vài tháng sau, họp thôn, Tần Dã phát biểu trước dân làng. Anh đề nghị dựng trường tiểu học và lớp mẫu giáo trong thôn, miễn phí cho con em dân và công nhân xưởng; trước đây nhiều nhà không cho con gái đi học. Thêm một lớp buổi tối cho người lớn, nơi phụ nữ chen nhau đăng ký. Cô được giao soạn chương trình: học viết tên, tính sổ, đọc hợp đồng. Cô có thể tập trung dạy chữ cho phụ nữ, hoặc dạy tính sổ cho những người trông xưởng.",
+      "text": "Vài tháng sau, họp thôn, Tần Dã phát biểu trước dân làng. Anh đề nghị dựng trường tiểu học và lớp mẫu giáo trong thôn, miễn phí cho con em dân và công nhân xưởng; trước đây nhiều nhà không cho con gái đi học. Thêm một lớp buổi tối cho người lớn, nơi phụ nữ chen nhau đăng ký. Bạn được giao soạn chương trình: học viết tên, tính sổ, đọc hợp đồng. Bạn có thể tập trung dạy chữ cho phụ nữ, hoặc dạy tính sổ cho những người trông xưởng.",
       "tieu": "Có người cầm bút lần đầu ở tuổi bốn mươi. Đừng làm họ ngại.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -1676,7 +1676,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Một bà cụ viết xong tên mình, nhìn rất lâu rồi khóc. Cô thấy ấm cả người.",
+            "x": "Một bà cụ viết xong tên mình, nhìn rất lâu rồi khóc. Bạn thấy ấm cả người.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1687,7 +1687,7 @@
           },
           "b": 0.5390400000000001,
           "bad": {
-            "x": "Cô dạy nhanh quá, nhiều người nản. Cô phải chia lớp nhỏ hơn.",
+            "x": "Bạn dạy nhanh quá, nhiều người nản. Bạn phải chia lớp nhỏ hơn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1702,7 +1702,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Một tuần sau, người trông kho báo ra lỗi sổ cũ. Cả xưởng nhìn cô khác đi.",
+            "x": "Một tuần sau, người trông kho báo ra lỗi sổ cũ. Cả xưởng nhìn bạn khác đi.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1713,7 +1713,7 @@
           },
           "b": 0.48456,
           "bad": {
-            "x": "Bài tính khó quá, hai người bỏ lớp. Cô chấn chỉnh lại giáo án.",
+            "x": "Bài tính khó quá, hai người bỏ lớp. Bạn chấn chỉnh lại giáo án.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1728,7 +1728,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Lớp học đông đủ. Cô quen mặt hết từng người.",
+            "x": "Lớp học đông đủ. Bạn quen mặt hết từng người.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1738,7 +1738,7 @@
           },
           "b": 0.4664,
           "bad": {
-            "x": "Cô lên lịch chồng chéo hai buổi. Phải lên lại từ đầu.",
+            "x": "Bạn lên lịch chồng chéo hai buổi. Phải lên lại từ đầu.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1763,7 +1763,7 @@
       "place": "Hứa gia thôn · Trường tạm ở ký túc xá",
       "kind": "chon",
       "title": "Thầy cô trở về",
-      "text": "Ít lâu sau, trường học tạm đặt trong ký túc xá của xưởng. Những thanh niên trí thức từng đỗ đại học trở về dạy; họ ngỡ ngàng thấy Hứa gia thôn sạch sẽ, nhà đẹp, đường phẳng. Tần Dã ký hợp đồng và cấp nhà, hộ khẩu cho ai ở lại. Cô tiếp một nữ sinh viên dịu dàng sẽ làm cô giáo mẫu giáo. Cô có thể tự gặp từng người, hoặc để anh lo hợp đồng còn mình lo chuyện giảng dạy.",
+      "text": "Ít lâu sau, trường học tạm đặt trong ký túc xá của xưởng. Những thanh niên trí thức từng đỗ đại học trở về dạy; họ ngỡ ngàng thấy Hứa gia thôn sạch sẽ, nhà đẹp, đường phẳng. Tần Dã ký hợp đồng và cấp nhà, hộ khẩu cho ai ở lại. Bạn tiếp một nữ sinh viên dịu dàng sẽ làm cô giáo mẫu giáo. Bạn có thể tự gặp từng người, hoặc để anh lo hợp đồng còn mình lo chuyện giảng dạy.",
       "tieu": "Người đến vì nhà, ở lại vì lớp. Gặp từng người thì họ nhớ, mà cô cũng nhớ họ.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -1772,7 +1772,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hầu hết đều ở lại. Cô thuộc tên từng người trước khi họ nhận phòng.",
+            "x": "Hầu hết đều ở lại. Bạn thuộc tên từng người trước khi họ nhận phòng.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1783,7 +1783,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Cô gặp quá nhiều người trong một ngày, đến tối giọng đã khàn.",
+            "x": "Bạn gặp quá nhiều người trong một ngày, đến tối giọng đã khàn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1798,7 +1798,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh lo hợp đồng chặt chẽ, cô lo lịch dạy trơn tru. Hai việc khớp nhau.",
+            "x": "Anh lo hợp đồng chặt chẽ, bạn lo lịch dạy trơn tru. Hai việc khớp nhau.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1820,11 +1820,11 @@
           "b0": 0.5
         },
         {
-          "t": "Mời cô giáo mẫu giáo uống trà, nghe cô kể mong muốn",
+          "t": "Mời cô giáo mẫu giáo uống trà, nghe bạn kể mong muốn",
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô gái dịu dàng kể về những đứa trẻ mình định dạy. Cô viết lại hết.",
+            "x": "Cô gái dịu dàng kể về những đứa trẻ mình định dạy. Bạn viết lại hết.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1854,7 +1854,7 @@
       "place": "Hứa gia thôn · Thư phòng",
       "kind": "duyen",
       "title": "Bản vẽ thành phố",
-      "text": "Tối đó, ở thư phòng trong nhà, cô đưa anh một xấp bản vẽ: toàn cảnh khu dân cư, thương mại, đường phố, mảng xanh, trường học. Anh ngỡ ngàng rồi ôm cô, nói «em là báu vật». Anh vẫn chưa biết phải mở rộng thôn ra sao; bản vẽ giải được nút thắt đó. Cô có thể giải thích từng chi tiết, hoặc để anh tự hiểu.",
+      "text": "Tối đó, ở thư phòng trong nhà, bạn đưa anh một xấp bản vẽ: toàn cảnh khu dân cư, thương mại, đường phố, mảng xanh, trường học. Anh ngỡ ngàng rồi ôm bạn, nói «em là báu vật». Anh vẫn chưa biết phải mở rộng thôn ra sao; bản vẽ giải được nút thắt đó. Bạn có thể giải thích từng chi tiết, hoặc để anh tự hiểu.",
       "tieu": "Anh tìm một chỗ để đặt câu hỏi, mà ngươi đã vẽ sẵn câu trả lời.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -1863,7 +1863,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh ghi chép ngày càng nhanh. Đến cuối, anh chỉ còn nhìn cô.",
+            "x": "Anh ghi chép ngày càng nhanh. Đến cuối, anh chỉ còn nhìn bạn.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1874,7 +1874,7 @@
           },
           "b": 0.5336000000000001,
           "bad": {
-            "x": "Cô nói quá nhiều chi tiết, anh nhíu mày rồi xin giải thích lại phần đầu.",
+            "x": "Bạn nói quá nhiều chi tiết, anh nhíu mày rồi xin giải thích lại phần đầu.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1899,7 +1899,7 @@
           },
           "b": 0.47912,
           "bad": {
-            "x": "Anh nhìn bản vẽ mà không hiểu hết. Cô phải ngồi giải thích lại.",
+            "x": "Anh nhìn bản vẽ mà không hiểu hết. Bạn phải ngồi giải thích lại.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1914,7 +1914,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh đổi một đường nhỏ, nét chữ của cô và nét chữ của anh nằm chung trên một tờ giấy.",
+            "x": "Anh đổi một đường nhỏ, nét chữ của bạn và nét chữ của anh nằm chung trên một tờ giấy.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1925,7 +1925,7 @@
           },
           "b": 0.49728000000000006,
           "bad": {
-            "x": "Anh đòi đổi quá nhiều chỗ, cô phải vẽ lại gần nửa bản.",
+            "x": "Anh đòi đổi quá nhiều chỗ, bạn phải vẽ lại gần nửa bản.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1936,7 +1936,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Thư phòng trong nhà, buổi tối. Cô đưa anh bản vẽ quy hoạch.",
+      "ctx": "Thư phòng trong nhà, buổi tối. Bạn đưa anh bản vẽ quy hoạch.",
       "learn": {
         "n": "Vẽ bản đồ quy hoạch",
         "s": "tri",
@@ -1950,7 +1950,7 @@
       "place": "Hứa gia thôn · Khu mới",
       "kind": "duyen",
       "title": "Thôn lớn thành huyện",
-      "text": "Hai năm sau, Hứa gia thôn nhà lầu mọc lên, người đổ về làm việc. Lương trấn trưởng thăng thị trưởng, thôn thành huyện Hứa, cha cô làm huyện trưởng, anh cả làm trấn trưởng. Dân vẫn gọi chỗ cũ là Hứa gia thôn. Quanh núi, người ta nuôi gà, trồng cây ăn quả, mở khu nghỉ ngơi. Cô có thể đi xem công trình một mình, hoặc đi cùng anh.",
+      "text": "Hai năm sau, Hứa gia thôn nhà lầu mọc lên, người đổ về làm việc. Lương trấn trưởng thăng thị trưởng, thôn thành huyện Hứa, cha bạn làm huyện trưởng, anh cả làm trấn trưởng. Dân vẫn gọi chỗ cũ là Hứa gia thôn. Quanh núi, người ta nuôi gà, trồng cây ăn quả, mở khu nghỉ ngơi. Bạn có thể đi xem công trình một mình, hoặc đi cùng anh.",
       "tieu": "Từ một thôn nghèo thành một huyện. Hai người làm nên, và chưa từng nghĩ mình làm nên.",
       "cast": "h_dao,h_da,h_quoc,h_ngoc,tc",
       "ch": [
@@ -1959,7 +1959,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô đi hết một vòng, ghi lại ba chỗ cần sửa. Người dân kể thật vì không biết cô là ai.",
+            "x": "Bạn đi hết một vòng, ghi lại ba chỗ cần sửa. Người dân kể thật vì không biết bạn là ai.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -1970,7 +1970,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô bị nhận ra giữa chừng, người dân đổi giọng khách sáo.",
+            "x": "Bạn bị nhận ra giữa chừng, người dân đổi giọng khách sáo.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1985,7 +1985,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hai người nắm tay đi qua các dãy nhà. Ai gặp cũng chào, mà cô chỉ nhìn tay mình trong tay anh.",
+            "x": "Hai người nắm tay đi qua các dãy nhà. Ai gặp cũng chào, mà bạn chỉ nhìn tay mình trong tay anh.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2011,7 +2011,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cha cô đi sau hai người, miệng không nói mà mắt cứ ngước nhìn các tòa nhà.",
+            "x": "Cha bạn đi sau hai người, miệng không nói mà mắt cứ ngước nhìn các tòa nhà.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2021,7 +2021,7 @@
           },
           "b": 0.48184,
           "bad": {
-            "x": "Cha cô than đau chân, cả ba phải quay về sớm.",
+            "x": "Cha bạn than đau chân, cả ba phải quay về sớm.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2041,7 +2041,7 @@
       "place": "Huyện Hứa · Chợ",
       "kind": "chon",
       "title": "Lời đồn ngoài chợ",
-      "text": "Một dịp mẹ cô gặp các bà trong huyện, mẹ nghe nói vợ chồng cô không con thì chồng chắc sẽ đổi lòng. Cung Ngọc Trân, mẹ của Ninh Anh, còn chủ động nhắc chuyện này. Ninh Hiểu Phương hỏi thăm Tần Dã khắp nơi. Mẹ về nhà, lo đến mất ngủ. Cô trấn an mẹ: ai dám đến, cô sẽ cho họ một bài học nhớ cả đời. Giờ cô phải chọn hỏi mẹ ai nói gì để biết nguồn, hoặc bảo mẹ đừng đến những buổi trò chuyện đó.",
+      "text": "Một dịp mẹ bạn gặp các bà trong huyện, mẹ nghe nói vợ chồng bạn không con thì chồng chắc sẽ đổi lòng. Cung Ngọc Trân, mẹ của Ninh Anh, còn chủ động nhắc chuyện này. Ninh Hiểu Phương hỏi thăm Tần Dã khắp nơi. Mẹ về nhà, lo đến mất ngủ. Bạn trấn an mẹ: ai dám đến, bạn sẽ cho họ một bài học nhớ cả đời. Giờ bạn phải chọn hỏi mẹ ai nói gì để biết nguồn, hoặc bảo mẹ đừng đến những buổi trò chuyện đó.",
       "tieu": "Lời đồn không đáng sợ khi biết nó từ đâu ra. Mẹ cô mới là người cần được an ủi.",
       "cast": "h_dao,h_le,h_tran,h_hphuong,tc",
       "ch": [
@@ -2050,7 +2050,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Mẹ kể hết. Cô gạch được hai cái tên, đúng như cô đoán.",
+            "x": "Mẹ kể hết. Bạn gạch được hai cái tên, đúng như bạn đoán.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2061,7 +2061,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Mẹ kể lộn xộn, cô ghi vào sổ mà không chắc cái nào đúng.",
+            "x": "Mẹ kể lộn xộn, bạn ghi vào sổ mà không chắc cái nào đúng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2072,11 +2072,11 @@
           "b0": 0.51
         },
         {
-          "t": "Bảo mẹ đừng đến những buổi đó, cô sẽ đưa mẹ đi chỗ khác",
+          "t": "Bảo mẹ đừng đến những buổi đó, bạn sẽ đưa mẹ đi chỗ khác",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Mẹ gật, mắt hoe đỏ. Hôm sau cô đưa mẹ đi xem phố mới. Mẹ cười suốt đường.",
+            "x": "Mẹ gật, mắt hoe đỏ. Hôm sau bạn đưa mẹ đi xem phố mới. Mẹ cười suốt đường.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2112,7 +2112,7 @@
           },
           "b": 0.48184,
           "bad": {
-            "x": "Anh nghe xong thì lạnh mặt, cô phải ngăn anh khỏi làm quá.",
+            "x": "Anh nghe xong thì lạnh mặt, bạn phải ngăn anh khỏi làm quá.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2123,16 +2123,16 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Chợ huyện Hứa. Lời đồn về chuyện vợ chồng cô không có con.",
+      "ctx": "Chợ huyện Hứa. Lời đồn về chuyện vợ chồng bạn không có con.",
       "no": 21
     },
     {
       "id": "x22",
       "scene": "vstreet",
-      "place": "Huyện Hứa · Phòng khách nhà cô",
+      "place": "Huyện Hứa · Phòng khách nhà bạn",
       "kind": "hiem",
       "title": "Hiểu Phương tìm tới cửa",
-      "text": "Hôm sau, Ninh Hiểu Phương trang điểm lòe loẹt, xin gặp «tỷ phu» có chuyện quan trọng và muốn nói riêng. Cô từ chối, nói mình nhỏ mọn, rồi bảo cô ta thu cái tâm tư kia lại kẻo không còn đường sống ở huyện Hứa. Hiểu Phương lạnh gáy, bỏ chạy. Tối đó Tần Dã nghe kể, thề trong lòng chỉ có mình cô. Cô có thể nói thẳng như vậy, hoặc chờ cô ta tự lộ ra, giăng một cái bẫy lời.",
+      "text": "Hôm sau, Ninh Hiểu Phương trang điểm lòe loẹt, xin gặp «tỷ phu» có chuyện quan trọng và muốn nói riêng. Bạn từ chối, nói mình nhỏ mọn, rồi bảo cô ta thu cái tâm tư kia lại kẻo không còn đường sống ở huyện Hứa. Hiểu Phương lạnh gáy, bỏ chạy. Tối đó Tần Dã nghe kể, thề trong lòng chỉ có mình bạn. Bạn có thể nói thẳng như vậy, hoặc chờ cô ta tự lộ ra, giăng một cái bẫy lời.",
       "tieu": "Nàng không đáng sợ bằng cái nàng sẽ làm khi bị dồn. Đừng chờ lâu quá.",
       "cast": "h_dao,h_da,h_hphuong,tc",
       "ch": [
@@ -2152,7 +2152,7 @@
           },
           "b": 0.52632,
           "bad": {
-            "x": "Hiểu Phương cười khẩy, hỏi cô lấy tư cách gì. Cô phải đáp lại hai câu nữa.",
+            "x": "Hiểu Phương cười khẩy, hỏi bạn lấy tư cách gì. Bạn phải đáp lại hai câu nữa.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2167,7 +2167,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô buông một câu nhỏ. Hiểu Phương cắn câu, thú nhận hết tâm tư rồi tự bỏ chạy.",
+            "x": "Bạn buông một câu nhỏ. Hiểu Phương cắn câu, thú nhận hết tâm tư rồi tự bỏ chạy.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2178,7 +2178,7 @@
           },
           "b": 0.45367999999999997,
           "bad": {
-            "x": "Hiểu Phương nhanh hơn cô nghĩ, gài ngược một câu khiến chén trà đổ vỡ. Cô bị nước nóng bắn vào tay.",
+            "x": "Hiểu Phương nhanh hơn bạn nghĩ, gài ngược một câu khiến chén trà đổ vỡ. Bạn bị nước nóng bắn vào tay.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2220,7 +2220,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Phòng khách nhà cô ở huyện Hứa, hôm sau. Ninh Hiểu Phương xin gặp Tần Dã.",
+      "ctx": "Phòng khách nhà bạn ở huyện Hứa, hôm sau. Ninh Hiểu Phương xin gặp Tần Dã.",
       "no": 22
     },
     {
@@ -2229,7 +2229,7 @@
       "place": "Huyện Hứa · Sân sau",
       "kind": "chon",
       "title": "Anh có muốn về kinh?",
-      "text": "Một tối ngoài sân, cô nhận ra mấy năm nay anh chỉ thư từ với chị mà không liên lạc nơi khác. Anh nói chị sắp cưới, anh muốn về nhưng lo cô bị lời lẽ nhà họ Tần làm đau. Cả nhà họ Hứa dặn anh phải bảo vệ cô, thậm chí cháu trai năm tuổi Hứa Nhạc Nhạc nghiêm túc đòi quyết đấu nếu cô bị ủy khuất. Cô có thể đi cùng anh với nhóm kỹ thuật viên của xưởng, hoặc chỉ hai người.",
+      "text": "Một tối ngoài sân, bạn nhận ra mấy năm nay anh chỉ thư từ với chị mà không liên lạc nơi khác. Anh nói chị sắp cưới, anh muốn về nhưng lo bạn bị lời lẽ nhà họ Tần làm đau. Cả nhà họ Hứa dặn anh phải bảo vệ bạn, thậm chí cháu trai năm tuổi Hứa Nhạc Nhạc nghiêm túc đòi quyết đấu nếu bạn bị ủy khuất. Bạn có thể đi cùng anh với nhóm kỹ thuật viên của xưởng, hoặc chỉ hai người.",
       "tieu": "Về nhà đối với anh là đi vào chỗ có vết. Anh muốn đi vì chị, không phải vì họ.",
       "cast": "h_dao,h_da,h_nhac,tc",
       "ch": [
@@ -2264,7 +2264,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh nhìn cô, nói khẽ: «Anh sẽ không để em đứng một mình.»",
+            "x": "Anh nhìn bạn, nói khẽ: «Anh sẽ không để em đứng một mình.»",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2275,7 +2275,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Anh lo cho cô nhiều đến mức quên cả việc chuẩn bị đồ cho mình.",
+            "x": "Anh lo cho bạn nhiều đến mức quên cả việc chuẩn bị đồ cho mình.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2320,7 +2320,7 @@
       "place": "Kinh thành · Khách sạn nhỏ và biệt thự",
       "kind": "duyen",
       "title": "Kinh thành và chị Tần Thanh",
-      "text": "Ngày hôm sau cả nhóm tới thủ đô. Các kỹ thuật viên hơi thất vọng vì thủ đô không bằng huyện Hứa. Chị Tần Thanh và anh rể Dương Phàm, giáo sư đại học, ra đón; chị ôm em khóc, cảm ơn cô đã cho em trai một mái nhà. Chị làm bất động sản, hai chị em từng trao đổi trong thư. Anh nói muốn huyện Hứa thành thành phố Hứa. Cô có thể hỏi chị về chuyện nhà anh, hoặc để hai chị em nói chuyện riêng.",
+      "text": "Ngày hôm sau cả nhóm tới thủ đô. Các kỹ thuật viên hơi thất vọng vì thủ đô không bằng huyện Hứa. Chị Tần Thanh và anh rể Dương Phàm, giáo sư đại học, ra đón; chị ôm em khóc, cảm ơn bạn đã cho em trai một mái nhà. Chị làm bất động sản, hai chị em từng trao đổi trong thư. Anh nói muốn huyện Hứa thành thành phố Hứa. Bạn có thể hỏi chị về chuyện nhà anh, hoặc để hai chị em nói chuyện riêng.",
       "tieu": "Chị là người nhà duy nhất anh còn tin. Đối xử tốt với chị, anh sẽ nhớ cả đời.",
       "cast": "h_dao,h_da,h_thanh,h_pham,tc",
       "ch": [
@@ -2329,7 +2329,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Chị kể từng người, từng tính nết. Cô ghi nhớ hết, và chị nhìn cô bằng vẻ mến thật lòng.",
+            "x": "Chị kể từng người, từng tính nết. Bạn ghi nhớ hết, và chị nhìn bạn bằng vẻ mến thật lòng.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2340,7 +2340,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Chị ngập ngừng, chỉ nói vài câu rồi đổi chuyện. Cô nhận ra chuyện còn nặng hơn tưởng.",
+            "x": "Chị ngập ngừng, chỉ nói vài câu rồi đổi chuyện. Bạn nhận ra chuyện còn nặng hơn tưởng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2351,11 +2351,11 @@
           "b0": 0.5
         },
         {
-          "t": "Để hai chị em nói chuyện riêng, cô đi dạo với anh rể",
+          "t": "Để hai chị em nói chuyện riêng, bạn đi dạo với anh rể",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh rể kể chuyện ngành đại học, cô ghi nhớ làm vốn cho trường sau này.",
+            "x": "Anh rể kể chuyện ngành đại học, bạn ghi nhớ làm vốn cho trường sau này.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2366,7 +2366,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Cô lỡ lời hỏi nhầm chuyện học thuật, anh rể cười hiền nhưng giảng cả tiếng.",
+            "x": "Bạn lỡ lời hỏi nhầm chuyện học thuật, anh rể cười hiền nhưng giảng cả tiếng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2391,7 +2391,7 @@
           },
           "b": 0.48184,
           "bad": {
-            "x": "Hộp bị móp một góc khi vận chuyển, cô ngượng, chị lại cười dỗ.",
+            "x": "Hộp bị móp một góc khi vận chuyển, bạn ngượng, chị lại cười dỗ.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2402,7 +2402,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Khách sạn nhỏ và biệt thự của chị ở thủ đô. Cô gặp chị Tần Thanh và anh rể Dương Phàm.",
+      "ctx": "Khách sạn nhỏ và biệt thự của chị ở thủ đô. Bạn gặp chị Tần Thanh và anh rể Dương Phàm.",
       "no": 24
     },
     {
@@ -2411,16 +2411,16 @@
       "place": "Kinh thành · Tứ hợp viện của Văn lão",
       "kind": "duyen",
       "title": "Gặp ông ngoại Văn lão",
-      "text": "Hôm sau, anh dắt cô tới tứ hợp viện của Văn lão, ông ngoại anh. Ông khỏe mạnh, nhận ra cháu sau nhiều năm, tay run khi nắm tay anh. Ông kéo cô vào thư phòng xem đồ sưu tầm, rồi hợp chuyện với cô về thư họa. Ông từ chối về huyện Hứa vì ở lại thủ đô còn giúp được các cháu. Cô có thể khen một món đồ trong thư phòng, hoặc hỏi về bức tranh ông đang vẽ.",
+      "text": "Hôm sau, anh dắt bạn tới tứ hợp viện của Văn lão, ông ngoại anh. Ông khỏe mạnh, nhận ra cháu sau nhiều năm, tay run khi nắm tay anh. Ông kéo bạn vào thư phòng xem đồ sưu tầm, rồi hợp chuyện với bạn về thư họa. Ông từ chối về huyện Hứa vì ở lại thủ đô còn giúp được các cháu. Bạn có thể khen một món đồ trong thư phòng, hoặc hỏi về bức tranh ông đang vẽ.",
       "tieu": "Ông là người đọc sách. Khen thật hay hỏi thật, ông đều nghe ra.",
       "cast": "h_dao,h_da,h_van,tc",
       "ch": [
         {
-          "t": "Khen một món đồ trong thư phòng, nói vì sao cô thích",
+          "t": "Khen một món đồ trong thư phòng, nói vì sao bạn thích",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Ông cười, nhấc món đó đặt vào tay cô. «Cháu có mắt. Món này ta giữ bốn mươi năm.»",
+            "x": "Ông cười, nhấc món đó đặt vào tay bạn. «Cháu có mắt. Món này ta giữ bốn mươi năm.»",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2431,7 +2431,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Cô khen món đồ giả mà không biết. Ông chỉ cười hiền, không nói gì.",
+            "x": "Bạn khen món đồ giả mà không biết. Ông chỉ cười hiền, không nói gì.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2446,7 +2446,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Ông đưa cô cây bút. «Cháu thử đi.» Cô vẽ một nét nhỏ, ông gật đầu không nói.",
+            "x": "Ông đưa bạn cây bút. «Cháu thử đi.» Bạn vẽ một nét nhỏ, ông gật đầu không nói.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2457,7 +2457,7 @@
           },
           "b": 0.48184,
           "bad": {
-            "x": "Cô hỏi quá sâu về kỹ thuật, ông đáp qua loa rồi đổi sang chuyện khác.",
+            "x": "Bạn hỏi quá sâu về kỹ thuật, ông đáp qua loa rồi đổi sang chuyện khác.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2472,7 +2472,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Ông kể về con gái ông, mẹ của Tần Dã. Cô nghe mà thấy tim mình nặng đi.",
+            "x": "Ông kể về con gái ông, mẹ của Tần Dã. Bạn nghe mà thấy tim mình nặng đi.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2483,7 +2483,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Mực mài đặc quá, ông phải ngưng viết để mài lại. Cô ngượng.",
+            "x": "Mực mài đặc quá, ông phải ngưng viết để mài lại. Bạn ngượng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2494,7 +2494,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Tứ hợp viện của Văn lão, hôm sau. Anh dắt cô tới giới thiệu.",
+      "ctx": "Tứ hợp viện của Văn lão, hôm sau. Anh dắt bạn tới giới thiệu.",
       "no": 25
     },
     {
@@ -2503,7 +2503,7 @@
       "place": "Kinh thành · Lễ đường",
       "kind": "nan",
       "title": "Hôn lễ của chị và nhà họ Tần",
-      "text": "Ngày cưới của chị, Tần Dã chỉ cho cô từng người nhà họ Tần ngồi hàng ghế: cha Tần Quốc Vinh, mẹ kế Triệu Nhã Phượng, hai cụ nội, em trai Tần Duệ và em gái Tần Huyên. Cha anh không nhận ra anh; hai cụ nhìn cô với vẻ nghi ngờ. Sau lễ, họ vây hai người, hỏi cưới bao lâu và sao chưa có con. Anh đáp «bảy năm», không khí cứng lại. Cô có thể im lặng quan sát, hoặc lên tiếng ngay.",
+      "text": "Ngày cưới của chị, Tần Dã chỉ cho bạn từng người nhà họ Tần ngồi hàng ghế: cha Tần Quốc Vinh, mẹ kế Triệu Nhã Phượng, hai cụ nội, em trai Tần Duệ và em gái Tần Huyên. Cha anh không nhận ra anh; hai cụ nhìn bạn với vẻ nghi ngờ. Sau lễ, họ vây hai người, hỏi cưới bao lâu và sao chưa có con. Anh đáp «bảy năm», không khí cứng lại. Bạn có thể im lặng quan sát, hoặc lên tiếng ngay.",
       "tieu": "Anh đứng như đứng trước một bức tường cũ. Cô nắm tay anh, đừng buông.",
       "cast": "h_dao,h_da,h_vinh,h_phuong,h_due,h_huyen,tc",
       "ch": [
@@ -2512,7 +2512,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô nhìn rõ ánh mắt từng người. Tay anh nóng hơn tay cô.",
+            "x": "Bạn nhìn rõ ánh mắt từng người. Tay anh nóng hơn tay bạn.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2523,7 +2523,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô bị hỏi dồn, im quá lâu nên Tần Huyên chen vào trước.",
+            "x": "Bạn bị hỏi dồn, im quá lâu nên Tần Huyên chen vào trước.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2538,7 +2538,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Câu nói của cô làm hai cụ ngừng lại. Anh liếc cô một cái, khóe môi cong lên.",
+            "x": "Câu nói của bạn làm hai cụ ngừng lại. Anh liếc bạn một cái, khóe môi cong lên.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2549,7 +2549,7 @@
           },
           "b": 0.48184,
           "bad": {
-            "x": "Giọng cô cao quá, Triệu Nhã Phượng liền nhếch mép như tìm được sơ hở.",
+            "x": "Giọng bạn cao quá, Triệu Nhã Phượng liền nhếch mép như tìm được sơ hở.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2585,7 +2585,7 @@
           "b0": 0.51
         }
       ],
-      "ctx": "Lễ đường kinh thành, ngày cưới của chị. Tần Dã chỉ cho cô từng người nhà họ Tần.",
+      "ctx": "Lễ đường kinh thành, ngày cưới của chị. Tần Dã chỉ cho bạn từng người nhà họ Tần.",
       "no": 26
     },
     {
@@ -2593,8 +2593,8 @@
       "scene": "ywed",
       "place": "Kinh thành · Sảnh sau lễ đường",
       "kind": "nan",
-      "title": "Họ đổ lỗi cho cô",
-      "text": "Ngay sau đó, ở sảnh sau, hai cụ ám chỉ cô không sinh được, khuyên anh ly hôn để họ giới thiệu cô gái khác; Tần Huyên chen vào bảo cô nên đi khám. Anh lạnh mặt nhận «không con là lỗi của anh», rồi nói nếu họ còn đổ cho cô, anh sẽ kiện tội trùng hôn năm xưa, hai luật sư bạn anh đang chờ vụ đầu tay. Tay anh siết chặt tay cô. Cô có thể để anh nói một mình, hoặc đứng cạnh anh trả lời một câu.",
+      "title": "Họ đổ lỗi cho bạn",
+      "text": "Ngay sau đó, ở sảnh sau, hai cụ ám chỉ bạn không sinh được, khuyên anh ly hôn để họ giới thiệu cô gái khác; Tần Huyên chen vào bảo bạn nên đi khám. Anh lạnh mặt nhận «không con là lỗi của anh», rồi nói nếu họ còn đổ cho bạn, anh sẽ kiện tội trùng hôn năm xưa, hai luật sư bạn anh đang chờ vụ đầu tay. Tay anh siết chặt tay bạn. Bạn có thể để anh nói một mình, hoặc đứng cạnh anh trả lời một câu.",
       "tieu": "Anh nhận lỗi để bảo vệ cô, nhưng anh sẽ không bao giờ nhận lỗi vì chính mình. Đứng cạnh anh là cách đền đáp tốt nhất.",
       "cast": "h_dao,h_da,h_vinh,h_phuong,h_huyen,tc",
       "ch": [
@@ -2603,7 +2603,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô nói một câu ngắn. Hai cụ không ngờ được một cô vợ quê lại nói thế. Tần Huyên cúi mặt.",
+            "x": "Bạn nói một câu ngắn. Hai cụ không ngờ được một cô vợ quê lại nói thế. Tần Huyên cúi mặt.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2614,7 +2614,7 @@
           },
           "b": 0.47456,
           "bad": {
-            "x": "Cô nói run nhẹ, hai cụ nhận ra liền. Anh phải nói thêm hộ.",
+            "x": "Bạn nói run nhẹ, hai cụ nhận ra liền. Anh phải nói thêm hộ.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2625,11 +2625,11 @@
           "b0": 0.48
         },
         {
-          "t": "Để anh nói một mình, cô chỉ giữ tay anh",
+          "t": "Để anh nói một mình, bạn chỉ giữ tay anh",
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh nói hết điều muốn nói. Khi anh dừng, cô cảm thấy tay anh đã bớt run.",
+            "x": "Anh nói hết điều muốn nói. Khi anh dừng, bạn cảm thấy tay anh đã bớt run.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2640,7 +2640,7 @@
           },
           "b": 0.5290400000000001,
           "bad": {
-            "x": "Anh nói quá lâu, hai cụ cãi lại. Cô nghe giọng anh khàn dần.",
+            "x": "Anh nói quá lâu, hai cụ cãi lại. Bạn nghe giọng anh khàn dần.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2689,7 +2689,7 @@
           "b0": 0.47
         }
       ],
-      "ctx": "Sảnh sau lễ đường, ngay sau đó. Hai cụ đổ lỗi cho cô.",
+      "ctx": "Sảnh sau lễ đường, ngay sau đó. Hai cụ đổ lỗi cho bạn.",
       "no": 27
     },
     {
@@ -2698,7 +2698,7 @@
       "place": "Kinh thành · Biệt thự của chị",
       "kind": "chon",
       "title": "Kế hoạch đáp trả nhà họ Tần",
-      "text": "Tối đó ở biệt thự của chị, anh kể cho cô nghe: mẹ anh bị làm cho uất ức đến mất, cha, mẹ kế và hai cụ đều có phần, anh không tha. Anh định kéo Tần Duệ và Tần Huyên rời cơ quan nhà nước ra buôn bán, để những người từng chịu thiệt từ nhà họ Triệu tự nhiên đối đầu với họ. Anh hỏi cô có sợ anh không. Cô đáp «không» và thấy hợp ý. Giờ cô phải chọn: khuyên anh dừng ở mức để họ tự bại, hay đồng ý đi tới cùng.",
+      "text": "Tối đó ở biệt thự của chị, anh kể cho bạn nghe: mẹ anh bị làm cho uất ức đến mất, cha, mẹ kế và hai cụ đều có phần, anh không tha. Anh định kéo Tần Duệ và Tần Huyên rời cơ quan nhà nước ra buôn bán, để những người từng chịu thiệt từ nhà họ Triệu tự nhiên đối đầu với họ. Anh hỏi bạn có sợ anh không. Bạn đáp «không» và thấy hợp ý. Giờ bạn phải chọn: khuyên anh dừng ở mức để họ tự bại, hay đồng ý đi tới cùng.",
       "tieu": "Đây là lúc anh nghe cô nhất. Khuyên đúng, anh dừng lại. Khuyên sai, anh sẽ không dừng.",
       "cast": "h_dao,h_da,h_thanh,tc",
       "ch": [
@@ -2718,7 +2718,7 @@
           },
           "b": 0.48184,
           "bad": {
-            "x": "Anh nghe cô nói nhưng không đáp. Cô biết anh đang cân nhắc, chưa bỏ.",
+            "x": "Anh nghe bạn nói nhưng không đáp. Bạn biết anh đang cân nhắc, chưa bỏ.",
             "d": {
               "ac": 0,
               "hac": 1,
@@ -2745,7 +2745,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh nhìn cô, ánh mắt lạnh đi một chút. «Em thật sự nghĩ vậy?»",
+            "x": "Anh nhìn bạn, ánh mắt lạnh đi một chút. «Em thật sự nghĩ vậy?»",
             "d": {
               "ac": -1,
               "hac": 6,
@@ -2756,7 +2756,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Cô nói quá hăng, anh ngạc nhiên rồi nhìn cô lâu, như lần đầu thấy một khía cạnh khác.",
+            "x": "Bạn nói quá hăng, anh ngạc nhiên rồi nhìn bạn lâu, như lần đầu thấy một khía cạnh khác.",
             "d": {
               "ac": 0,
               "hac": 7,
@@ -2783,7 +2783,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh lặng đi. «Anh chưa từng nghĩ như thế.» Lần đầu cô thấy anh bối rối.",
+            "x": "Anh lặng đi. «Anh chưa từng nghĩ như thế.» Lần đầu bạn thấy anh bối rối.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2794,7 +2794,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Câu hỏi làm anh bực. «Em hỏi vậy làm gì?» Cô phải nói lại cho mềm.",
+            "x": "Câu hỏi làm anh bực. «Em hỏi vậy làm gì?» Bạn phải nói lại cho mềm.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2814,7 +2814,7 @@
       "place": "Kinh thành · Ga tàu",
       "kind": "duyen",
       "title": "Rời kinh thành",
-      "text": "Mấy ngày sau, anh mở chi nhánh Hứa thị ở thủ đô giao cho anh hai Hứa Thiên Hàng. Nhà họ Tần nghe nói Tần Dã nay giàu có nhưng sợ lời anh dọa nên không dám đến gần. Hai vợ chồng ra ga về huyện Hứa; ở đó họ nghe tin Tần gia đã bị hấp dẫn xuống biển buôn bán. Cô có thể hỏi anh về kế hoạch cho Văn lão, hoặc về chuyện nhà họ Tần.",
+      "text": "Mấy ngày sau, anh mở chi nhánh Hứa thị ở thủ đô giao cho anh hai Hứa Thiên Hàng. Nhà họ Tần nghe nói Tần Dã nay giàu có nhưng sợ lời anh dọa nên không dám đến gần. Hai vợ chồng ra ga về huyện Hứa; ở đó họ nghe tin Tần gia đã bị hấp dẫn xuống biển buôn bán. Bạn có thể hỏi anh về kế hoạch cho Văn lão, hoặc về chuyện nhà họ Tần.",
       "tieu": "Hai chuyện đều là tâm sự. Hỏi chuyện nào, anh cũng kể.",
       "cast": "h_dao,h_da,h_hang,h_van,tc",
       "ch": [
@@ -2834,7 +2834,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Anh nói ông đã từ chối, nhưng vẫn nghe cô hỏi. Hai người ngồi lặng suốt đoạn đường.",
+            "x": "Anh nói ông đã từ chối, nhưng vẫn nghe bạn hỏi. Hai người ngồi lặng suốt đoạn đường.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2875,7 +2875,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh để cô ngả, tàu đưa hai người về, ngoài cửa sổ là đồng lúa đang chín.",
+            "x": "Anh để bạn ngả, tàu đưa hai người về, ngoài cửa sổ là đồng lúa đang chín.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2885,7 +2885,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Tàu xóc mạnh, cô giật mình. Anh bật cười, kéo cô vào lòng.",
+            "x": "Tàu xóc mạnh, bạn giật mình. Anh bật cười, kéo bạn vào lòng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2905,7 +2905,7 @@
       "place": "Huyện Hứa · Văn phòng huyện",
       "kind": "chon",
       "title": "Tin Giang Thế Quân chuyển ngành",
-      "text": "Cùng ngày về tới huyện, Tiểu Châu báo: Giang Thế Quân xin chuyển ngành, sẽ đưa Ninh Anh và hai con về; nhà họ Giang ở huyện bên đang chạy việc. Cô đoán Ninh Anh sẽ tức vì không làm được phu nhân đoàn trưởng và khó chịu khi thấy huyện Hứa phồn hoa. Tần Dã nói muốn giúp Thế Quân vì là đồng hương. Cô đồng ý, nhưng có tính toán riêng. Cô có thể để anh giúp trọn gói, hoặc chỉ giúp vừa đủ.",
+      "text": "Cùng ngày về tới huyện, Tiểu Châu báo: Giang Thế Quân xin chuyển ngành, sẽ đưa Ninh Anh và hai con về; nhà họ Giang ở huyện bên đang chạy việc. Bạn đoán Ninh Anh sẽ tức vì không làm được phu nhân đoàn trưởng và khó chịu khi thấy huyện Hứa phồn hoa. Tần Dã nói muốn giúp Thế Quân vì là đồng hương. Bạn đồng ý, nhưng có tính toán riêng. Bạn có thể để anh giúp trọn gói, hoặc chỉ giúp vừa đủ.",
       "tieu": "Giúp trọn gói là tốt bụng; giúp vừa đủ là khôn ngoan. Cả hai đều đúng, mà chỉ một cái an toàn.",
       "cast": "h_dao,h_da,h_quan,h_anh,tc",
       "ch": [
@@ -2914,7 +2914,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Thế Quân sẽ biết ơn lâu dài. Anh vui vì giúp được đồng hương, cô cũng thấy lòng nhẹ.",
+            "x": "Thế Quân sẽ biết ơn lâu dài. Anh vui vì giúp được đồng hương, bạn cũng thấy lòng nhẹ.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2940,7 +2940,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô viết văn bản gọn, đúng thủ tục. Không ai có thể nói điều gì ngoài chuyện công.",
+            "x": "Bạn viết văn bản gọn, đúng thủ tục. Không ai có thể nói điều gì ngoài chuyện công.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2966,7 +2966,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "«Cô ta muốn xem mình bỏ lỡ điều gì», Tiểu Châu đáp. Cô nhẹ cả người, như vừa hiểu ra một câu đố.",
+            "x": "«Cô ta muốn xem mình bỏ lỡ điều gì», Tiểu Châu đáp. Bạn nhẹ cả người, như vừa hiểu ra một câu đố.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2976,7 +2976,7 @@
           },
           "b": 0.47184,
           "bad": {
-            "x": "Tiểu Châu im lặng. Cô nhận ra có những điều ngay cả hệ thống cũng không đọc được.",
+            "x": "Tiểu Châu im lặng. Bạn nhận ra có những điều ngay cả hệ thống cũng không đọc được.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2996,7 +2996,7 @@
       "place": "Huyện bên · Nhà họ Giang",
       "kind": "duyen",
       "title": "Ninh Anh về lại quê",
-      "text": "Một mùa sau, Tiểu Châu chiếu lại cho cô một cảnh ở nhà họ Giang, huyện bên. Ninh Anh dắt hai con trước nhà, kinh ngạc vì khu này khác hẳn kiếp trước. Bà Phương Thu Lan đeo đầy vàng bạc, khoe nhà vừa phát tài. Khi nghe kể người dựng nên huyện Hứa là Tần Dã và vợ, Ninh Anh tái mặt bước vào phòng. Thế Quân thừa nhận Tần Dã không đơn giản. Cô có thể xem tiếp, hoặc ngắt cảnh.",
+      "text": "Một mùa sau, Tiểu Châu chiếu lại cho bạn một cảnh ở nhà họ Giang, huyện bên. Ninh Anh dắt hai con trước nhà, kinh ngạc vì khu này khác hẳn kiếp trước. Bà Phương Thu Lan đeo đầy vàng bạc, khoe nhà vừa phát tài. Khi nghe kể người dựng nên huyện Hứa là Tần Dã và vợ, Ninh Anh tái mặt bước vào phòng. Thế Quân thừa nhận Tần Dã không đơn giản. Bạn có thể xem tiếp, hoặc ngắt cảnh.",
       "tieu": "Nàng không bao giờ ngờ người nàng đẩy vào hôn nhân lại dựng nên cả một vùng. Cảnh này là Tiểu Châu cho ngươi xem, không ai biết.",
       "cast": "h_dao,h_anh,h_quan,h_lan,tc",
       "ch": [
@@ -3005,7 +3005,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô thấy Ninh Anh nhìn mãi vào gương, môi mấp máy một câu gì đó. Cô đoán ra được.",
+            "x": "Bạn thấy Ninh Anh nhìn mãi vào gương, môi mấp máy một câu gì đó. Bạn đoán ra được.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -3031,7 +3031,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô lấy lại bình tĩnh. Có những điều không cần xem hết.",
+            "x": "Bạn lấy lại bình tĩnh. Có những điều không cần xem hết.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -3042,7 +3042,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Cô ngắt chậm một nhịp, vẫn lỡ nghe một câu gay gắt của Ninh Anh.",
+            "x": "Bạn ngắt chậm một nhịp, vẫn lỡ nghe một câu gay gắt của Ninh Anh.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3057,7 +3057,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô viết ra ba dòng ngắn gọn. Sau này sẽ dùng khi cần.",
+            "x": "Bạn viết ra ba dòng ngắn gọn. Sau này sẽ dùng khi cần.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -3067,7 +3067,7 @@
           },
           "b": 0.48184,
           "bad": {
-            "x": "Cô ghi nhầm chi tiết, về sau phải đối chiếu lại.",
+            "x": "Bạn ghi nhầm chi tiết, về sau phải đối chiếu lại.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3084,10 +3084,10 @@
     {
       "id": "x32",
       "scene": "vyard",
-      "place": "Huyện Hứa · Sân nhà cô",
+      "place": "Huyện Hứa · Sân nhà bạn",
       "kind": "chon",
       "title": "Thế Quân tới nhờ",
-      "text": "Vài ngày sau, Giang Thế Quân mang quà tới sân nhà cô, xin được chuyển việc về thành phố. Hai người nói chuyện một tiếng, rồi anh nhờ người sắp xếp. Cô nhìn Thế Quân ra về với vẻ hừng hực quyết tâm. Tần Dã ngồi đó, con mèo vẫn nằm trong lòng cô, và anh nhìn con mèo với vẻ ghen. Cô có thể dỗ anh, hoặc cười anh.",
+      "text": "Vài ngày sau, Giang Thế Quân mang quà tới sân nhà bạn, xin được chuyển việc về thành phố. Hai người nói chuyện một tiếng, rồi anh nhờ người sắp xếp. Bạn nhìn Thế Quân ra về với vẻ hừng hực quyết tâm. Tần Dã ngồi đó, con mèo vẫn nằm trong lòng bạn, và anh nhìn con mèo với vẻ ghen. Bạn có thể dỗ anh, hoặc cười anh.",
       "tieu": "Anh ghen cả con mèo. Đây là phiên bản dễ thương nhất của việc sợ mất.",
       "cast": "h_dao,h_da,h_quan,tc",
       "ch": [
@@ -3096,7 +3096,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh nhìn cô, khóe môi cong lên rất khẽ. Con mèo quay đi giận dỗi.",
+            "x": "Anh nhìn bạn, khóe môi cong lên rất khẽ. Con mèo quay đi giận dỗi.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3107,7 +3107,7 @@
           },
           "b": 0.52088,
           "bad": {
-            "x": "Con mèo đòi lại chỗ cũ, anh nhìn trời, cô nhịn cười.",
+            "x": "Con mèo đòi lại chỗ cũ, anh nhìn trời, bạn nhịn cười.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3133,7 +3133,7 @@
           },
           "b": 0.4664,
           "bad": {
-            "x": "Anh nghe thành cô chê. Anh quay đi, im lặng rất lâu.",
+            "x": "Anh nghe thành bạn chê. Anh quay đi, im lặng rất lâu.",
             "d": {
               "ac": 0,
               "hac": 2,
@@ -3175,7 +3175,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Sân nhà cô ở huyện Hứa, vài ngày sau. Giang Thế Quân tới nhờ chuyển việc.",
+      "ctx": "Sân nhà bạn ở huyện Hứa, vài ngày sau. Giang Thế Quân tới nhờ chuyển việc.",
       "no": 32
     },
     {
@@ -3184,12 +3184,12 @@
       "place": "Huyện Hứa · Nhà hàng",
       "kind": "hiem",
       "title": "Bữa cơm tạ ơn",
-      "text": "Thế Quân mời một bữa ở nhà hàng trong huyện. Ninh Anh đi cùng chồng nhưng cứ cau có. Khi nghe Thế Quân cảm ơn Tần Dã vì xin được chỗ việc ở thành phố, cô ta thét «Anh nói gì?» trước cả phòng, rồi lấp liếm là mình ngạc nhiên. Tần Dã nghe được lời thì thầm trước đó của cô ta và nhớ lại chuyện cũ. Thế Quân xin lỗi hai người và ngầm quyết định xử lý chuyện vợ mình. Cô có thể để Tần Dã tự xử, hoặc nhắc khéo Thế Quân.",
+      "text": "Thế Quân mời một bữa ở nhà hàng trong huyện. Ninh Anh đi cùng chồng nhưng cứ cau có. Khi nghe Thế Quân cảm ơn Tần Dã vì xin được chỗ việc ở thành phố, cô ta thét «Anh nói gì?» trước cả phòng, rồi lấp liếm là mình ngạc nhiên. Tần Dã nghe được lời thì thầm trước đó của cô ta và nhớ lại chuyện cũ. Thế Quân xin lỗi hai người và ngầm quyết định xử lý chuyện vợ mình. Bạn có thể để Tần Dã tự xử, hoặc nhắc khéo Thế Quân.",
       "tieu": "Lời thì thầm là thứ cô ta không biết mình đã để lộ. Anh nhớ nó.",
       "cast": "h_dao,h_da,h_quan,h_anh,tc",
       "ch": [
         {
-          "t": "Để Tần Dã tự xử, cô ngồi cạnh nắm tay anh",
+          "t": "Để Tần Dã tự xử, bạn ngồi cạnh nắm tay anh",
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
@@ -3230,7 +3230,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Cô nói hơi lớn, Ninh Anh bật dậy khỏi bàn, ly nước đổ bắn vào tay áo cô.",
+            "x": "Bạn nói hơi lớn, Ninh Anh bật dậy khỏi bàn, ly nước đổ bắn vào tay áo bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3261,7 +3261,7 @@
           },
           "b": 0.47184,
           "bad": {
-            "x": "Cô đổi đề tài quá gượng, Thế Quân nhận ra liền. Mọi người nhìn nhau.",
+            "x": "Bạn đổi đề tài quá gượng, Thế Quân nhận ra liền. Mọi người nhìn nhau.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3281,7 +3281,7 @@
       "place": "Huyện Hứa · Bờ sông",
       "kind": "chon",
       "title": "Hỏi lại chuyện rơi nước",
-      "text": "Hôm sau, Tần Dã bắt đầu thắc mắc vì sao bờ sông sụt đúng hôm anh đi qua, và ai gọi người đến đúng lúc. Cô cùng anh đi hỏi những người đứng xem năm xưa, chỉ cách hỏi từng người về giờ giấc, vị trí, câu họ nghe được. Cô nhớ rõ Ninh Anh hẹn mình tới bờ sông ngày đó. Cô có thể nói ra điều mình nhớ, hoặc chờ người khác nói.",
+      "text": "Hôm sau, Tần Dã bắt đầu thắc mắc vì sao bờ sông sụt đúng hôm anh đi qua, và ai gọi người đến đúng lúc. Bạn cùng anh đi hỏi những người đứng xem năm xưa, chỉ cách hỏi từng người về giờ giấc, vị trí, câu họ nghe được. Bạn nhớ rõ Ninh Anh hẹn mình tới bờ sông ngày đó. Bạn có thể nói ra điều mình nhớ, hoặc chờ người khác nói.",
       "tieu": "Một câu hỏi đúng cách đáng giá hơn mười lời kết tội. Hỏi thật kỹ, đừng gợi ý.",
       "cast": "h_dao,h_da,h_anh,h_bao,tc",
       "ch": [
@@ -3290,7 +3290,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Tần Dã lặng đi, rồi gật. «Vậy là cô ta biết trước.» Cô thấy anh siết tay lại.",
+            "x": "Tần Dã lặng đi, rồi gật. «Vậy là cô ta biết trước.» Bạn thấy anh siết tay lại.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3301,7 +3301,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Cô nói thiếu đầu thiếu đuôi, anh phải hỏi lại ba lần, hơi bực.",
+            "x": "Bạn nói thiếu đầu thiếu đuôi, anh phải hỏi lại ba lần, hơi bực.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3316,7 +3316,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô ghi đủ ba lời khai, đúng với nhau. Cô thấy mình như đang dựng lại một bức tranh.",
+            "x": "Bạn ghi đủ ba lời khai, đúng với nhau. Bạn thấy mình như đang dựng lại một bức tranh.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3327,7 +3327,7 @@
           },
           "b": 0.52632,
           "bad": {
-            "x": "Hai người khai lệch nhau về giờ, cô không biết tin ai.",
+            "x": "Hai người khai lệch nhau về giờ, bạn không biết tin ai.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3338,11 +3338,11 @@
           "b0": 0.51
         },
         {
-          "t": "Đề nghị anh đi hỏi một mình, cô chờ ở nhà",
+          "t": "Đề nghị anh đi hỏi một mình, bạn chờ ở nhà",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh về với mắt đỏ, kể hết. Cô ôm lấy anh, không hỏi thêm.",
+            "x": "Anh về với mắt đỏ, kể hết. Bạn ôm lấy anh, không hỏi thêm.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3352,7 +3352,7 @@
           },
           "b": 0.45367999999999997,
           "bad": {
-            "x": "Anh đi về trong im lặng, cô đoán đã có chuyện nhưng không dám hỏi.",
+            "x": "Anh đi về trong im lặng, bạn đoán đã có chuyện nhưng không dám hỏi.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3377,7 +3377,7 @@
       "place": "Huyện Hứa · Ngoài bờ sông",
       "kind": "nan",
       "title": "Lời khai của Ninh Thư Bảo",
-      "text": "Tối đó, ngoài bờ sông, Ninh Thư Bảo vô tình nghe được cuộc hỏi, do dự rồi kể: đêm trước ngày đó, cậu thấy chị mình đào bờ sông rồi lấy cỏ che; Ninh Anh còn cho cậu kẹo để đi gọi người tới. Cậu tưởng chị muốn ép Tần Dã cưới, không ngờ lại kéo cô xuống nước. Tần Dã ôm cô thật chặt: «may mà cô ta ghét anh», vì nếu không người vớt anh lên là Ninh Anh và họ sẽ không bao giờ gặp. Anh siết cô lâu đến mức cô thấy lồng ngực anh run.",
+      "text": "Tối đó, ngoài bờ sông, Ninh Thư Bảo vô tình nghe được cuộc hỏi, do dự rồi kể: đêm trước ngày đó, cậu thấy chị mình đào bờ sông rồi lấy cỏ che; Ninh Anh còn cho cậu kẹo để đi gọi người tới. Cậu tưởng chị muốn ép Tần Dã cưới, không ngờ lại kéo bạn xuống nước. Tần Dã ôm bạn thật chặt: «may mà cô ta ghét anh», vì nếu không người vớt anh lên là Ninh Anh và họ sẽ không bao giờ gặp. Anh siết bạn lâu đến mức bạn thấy lồng ngực anh run.",
       "tieu": "Đây là chuyện anh chưa từng muốn biết. Anh đang vừa mừng vừa sợ: mừng vì gặp cô, sợ vì suýt không gặp.",
       "cast": "h_dao,h_da,h_bao,h_anh,tc",
       "ch": [
@@ -3386,7 +3386,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh cúi mặt vào vai cô, im lặng khá lâu. Hơi thở anh chậm dần.",
+            "x": "Anh cúi mặt vào vai bạn, im lặng khá lâu. Hơi thở anh chậm dần.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3397,7 +3397,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Anh vẫn ôm chặt, tay run đến mức cô phải vỗ lưng anh như dỗ một đứa trẻ.",
+            "x": "Anh vẫn ôm chặt, tay run đến mức bạn phải vỗ lưng anh như dỗ một đứa trẻ.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3423,7 +3423,7 @@
           },
           "b": 0.5081600000000001,
           "bad": {
-            "x": "Thư Bảo hoảng, kể rối. Cô phải dỗ cậu bé trước khi hỏi tiếp.",
+            "x": "Thư Bảo hoảng, kể rối. Bạn phải dỗ cậu bé trước khi hỏi tiếp.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3448,7 +3448,7 @@
           },
           "b": 0.47184,
           "bad": {
-            "x": "Anh bỏ tay cô ra, đi ra mép sông đứng một mình. Cô đành chờ phía sau.",
+            "x": "Anh bỏ tay bạn ra, đi ra mép sông đứng một mình. Bạn đành chờ phía sau.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3469,7 +3469,7 @@
       "place": "Huyện Hứa · Phòng khách",
       "kind": "duyen",
       "title": "Tránh xa Ninh Anh",
-      "text": "Ngay sau đó trong phòng khách, anh dặn: từ nay tránh Ninh Anh càng xa càng tốt, rồi nói sang kế hoạch thăng huyện lên thành phố trong năm năm, xây một trường đại học. Cô hứa vẽ bản vẽ trường. Anh nói cùng đi học đến ngày tốt nghiệp. Cô có thể đồng ý và đòi thêm điều kiện, hoặc đùa rằng muốn làm khóa đầu.",
+      "text": "Ngay sau đó trong phòng khách, anh dặn: từ nay tránh Ninh Anh càng xa càng tốt, rồi nói sang kế hoạch thăng huyện lên thành phố trong năm năm, xây một trường đại học. Bạn hứa vẽ bản vẽ trường. Anh nói cùng đi học đến ngày tốt nghiệp. Bạn có thể đồng ý và đòi thêm điều kiện, hoặc đùa rằng muốn làm khóa đầu.",
       "tieu": "Anh đã đổi chủ đề rất khéo: đưa nỗi giận về phía một kế hoạch dài. Hỗ trợ anh đi tiếp là cách chữa tốt nhất.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -3489,7 +3489,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Anh hơi sững: «Em tưởng anh không về sao?» Cô phải giải thích lại.",
+            "x": "Anh hơi sững: «Em tưởng anh không về sao?» Bạn phải giải thích lại.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3515,7 +3515,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Anh nghĩ cô nghiêm túc, ngồi bàn chuyện suất học thật.",
+            "x": "Anh nghĩ bạn nghiêm túc, ngồi bàn chuyện suất học thật.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3552,7 +3552,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Phòng khách nhà cô, ngay sau đó. Anh bàn chuyện thăng huyện thành thành phố và xây đại học.",
+      "ctx": "Phòng khách nhà bạn, ngay sau đó. Anh bàn chuyện thăng huyện thành thành phố và xây đại học.",
       "no": 36
     },
     {
@@ -3561,7 +3561,7 @@
       "place": "Huyện Hứa · Quán trà",
       "kind": "chon",
       "title": "Lời đồn «dựa hơi»",
-      "text": "Một chiều ở quán trà trong huyện, có người nói cô chỉ ăn theo danh Tần Dã. Anh bực vì mọi đóng góp của cô ở xưởng, ở trại gà, ở bản vẽ đều bị gạt đi; cô thấy không đáng để ý. Anh vẫn muốn làm gì đó. Cô có thể đính chính bằng việc làm, hoặc bằng một buổi nói chuyện công khai.",
+      "text": "Một chiều ở quán trà trong huyện, có người nói bạn chỉ ăn theo danh Tần Dã. Anh bực vì mọi đóng góp của bạn ở xưởng, ở trại gà, ở bản vẽ đều bị gạt đi; bạn thấy không đáng để ý. Anh vẫn muốn làm gì đó. Bạn có thể đính chính bằng việc làm, hoặc bằng một buổi nói chuyện công khai.",
       "tieu": "Anh giận thay cô nhiều hơn cô giận. Hãy để anh thấy cô tự lo được.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -3570,7 +3570,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Người trong huyện đọc tên cô trên bản vẽ. Hôm sau không ai nhắc câu «dựa hơi» nữa.",
+            "x": "Người trong huyện đọc tên bạn trên bản vẽ. Hôm sau không ai nhắc câu «dựa hơi» nữa.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3592,11 +3592,11 @@
           "b0": 0.5
         },
         {
-          "t": "Đứng ra nói chuyện công khai, kể từng việc cô đã làm",
+          "t": "Đứng ra nói chuyện công khai, kể từng việc bạn đã làm",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô nói giản dị, cả hội trường im phăng phắc. Anh ngồi hàng đầu, mắt không rời cô.",
+            "x": "Bạn nói giản dị, cả hội trường im phăng phắc. Anh ngồi hàng đầu, mắt không rời bạn.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3607,7 +3607,7 @@
           },
           "b": 0.4664,
           "bad": {
-            "x": "Cô nói run, một vài người ngồi cuối vẫn xì xào.",
+            "x": "Bạn nói run, một vài người ngồi cuối vẫn xì xào.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3622,7 +3622,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh nhìn cô một lúc rồi cười, cơn giận vơi đi một nửa.",
+            "x": "Anh nhìn bạn một lúc rồi cười, cơn giận vơi đi một nửa.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3632,7 +3632,7 @@
           },
           "b": 0.52088,
           "bad": {
-            "x": "Anh vẫn ngồi lại, cứ nghĩ mãi. Cô phải kéo mãi mới chịu đi.",
+            "x": "Anh vẫn ngồi lại, cứ nghĩ mãi. Bạn phải kéo mãi mới chịu đi.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3643,16 +3643,16 @@
           "b0": 0.51
         }
       ],
-      "ctx": "Quán trà trong huyện Hứa, một chiều. Có người nói cô dựa hơi Tần Dã.",
+      "ctx": "Quán trà trong huyện Hứa, một chiều. Có người nói bạn dựa hơi Tần Dã.",
       "no": 37
     },
     {
       "id": "x38",
       "scene": "vroom",
-      "place": "Huyện Hứa · Phòng khách nhà cô",
+      "place": "Huyện Hứa · Phòng khách nhà bạn",
       "kind": "hiem",
       "title": "Bạch Tử Nguyệt tới thăm",
-      "text": "Ít ngày sau, trong phòng khách, cô đang đan áo len. Cô nghiên cứu sinh du học về, Bạch Tử Nguyệt, trang điểm thời thượng, tìm cô để «hâm mộ». Cô ta khoe tuổi, văn bằng, chuyện dạy toán ở đại học tương lai, và ngầm cho rằng vợ thôn quê sẽ lạc hậu. Cô vừa đan áo vừa đáp: «cô lớn hơn tôi hai tuổi mà còn đang học, tôi lùi bước sao được». Cô có thể mời Tử Nguyệt dạy toán trong trường, hoặc thử nhờ cô ta chỉ một bài khó.",
+      "text": "Ít ngày sau, trong phòng khách, bạn đang đan áo len. Bạn nghiên cứu sinh du học về, Bạch Tử Nguyệt, trang điểm thời thượng, tìm bạn để «hâm mộ». Cô ta khoe tuổi, văn bằng, chuyện dạy toán ở đại học tương lai, và ngầm cho rằng vợ thôn quê sẽ lạc hậu. Bạn vừa đan áo vừa đáp: «cô lớn hơn tôi hai tuổi mà còn đang học, tôi lùi bước sao được». Bạn có thể mời Tử Nguyệt dạy toán trong trường, hoặc thử nhờ cô ta chỉ một bài khó.",
       "tieu": "Nàng không đến để hâm mộ. Cô thông minh, mà lòng cô ta cũng thông minh. Đừng giấu anh chuyện này.",
       "cast": "h_dao,h_da,h_nguyet,tc",
       "ch": [
@@ -3661,7 +3661,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Tử Nguyệt ngập ngừng rồi nhận lời. Cô ta không nghĩ cô lại hào phóng vậy.",
+            "x": "Tử Nguyệt ngập ngừng rồi nhận lời. Cô ta không nghĩ bạn lại hào phóng vậy.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3672,7 +3672,7 @@
           },
           "b": 0.50544,
           "bad": {
-            "x": "Tử Nguyệt cười mỉa, hỏi cô muốn gì. Cô phải giải thích rằng mình chỉ cần giáo viên giỏi.",
+            "x": "Tử Nguyệt cười mỉa, hỏi bạn muốn gì. Bạn phải giải thích rằng mình chỉ cần giáo viên giỏi.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3687,7 +3687,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô nghe giảng, hỏi lại đúng chỗ. Tử Nguyệt giật mình vì cô hiểu nhanh.",
+            "x": "Bạn nghe giảng, hỏi lại đúng chỗ. Tử Nguyệt giật mình vì bạn hiểu nhanh.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3698,7 +3698,7 @@
           },
           "b": 0.46912,
           "bad": {
-            "x": "Cô hỏi chưa đúng chỗ, Tử Nguyệt giảng lòng vòng. Vài mũi len bị rối.",
+            "x": "Bạn hỏi chưa đúng chỗ, Tử Nguyệt giảng lòng vòng. Vài mũi len bị rối.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3713,7 +3713,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Tử Nguyệt ra về mà cô vẫn đan được hết dòng. Nhưng tối đó anh nhìn cô rất lâu.",
+            "x": "Tử Nguyệt ra về mà bạn vẫn đan được hết dòng. Nhưng tối đó anh nhìn bạn rất lâu.",
             "d": {
               "ac": -1,
               "hac": 3,
@@ -3724,7 +3724,7 @@
           },
           "b": 0.50544,
           "bad": {
-            "x": "Cô giấu anh một chuyện nhỏ. Anh nghe từ người khác, mặt anh tối lại.",
+            "x": "Bạn giấu anh một chuyện nhỏ. Anh nghe từ người khác, mặt anh tối lại.",
             "d": {
               "ac": 0,
               "hac": 4,
@@ -3747,7 +3747,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Phòng khách nhà cô ở huyện Hứa, ít ngày sau. Bạch Tử Nguyệt đến thăm.",
+      "ctx": "Phòng khách nhà bạn ở huyện Hứa, ít ngày sau. Bạch Tử Nguyệt đến thăm.",
       "learn": {
         "n": "Đan áo len",
         "s": "van",
@@ -3761,7 +3761,7 @@
       "place": "Huyện Hứa · Khuôn viên Đại học Hứa thị",
       "kind": "duyen",
       "title": "Đại học và đề tự",
-      "text": "Ba năm sau, khuôn viên đại học đã xây xong. Văn lão cùng các văn hào đến đề chữ cho trường; họ trầm trồ khi thấy chữ của cô, khen ông có cháu dâu như vậy. Tần Dã nhìn cô đứng cạnh các bậc thầy, mắt rưng rưng. Cô có thể tự tay viết một bức để treo ở cổng, hoặc chỉ mài mực cho ông.",
+      "text": "Ba năm sau, khuôn viên đại học đã xây xong. Văn lão cùng các văn hào đến đề chữ cho trường; họ trầm trồ khi thấy chữ của bạn, khen ông có cháu dâu như vậy. Tần Dã nhìn bạn đứng cạnh các bậc thầy, mắt rưng rưng. Bạn có thể tự tay viết một bức để treo ở cổng, hoặc chỉ mài mực cho ông.",
       "tieu": "Cô từng viết bản vẽ cho cả thành phố. Giờ cô viết một bức chữ cho cổng trường.",
       "cast": "h_dao,h_da,h_van,tc",
       "ch": [
@@ -3770,7 +3770,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô viết xong, các văn hào gật đầu. Văn lão cười: «Chữ có hồn.» Anh đứng sau, không giấu được mắt đỏ.",
+            "x": "Bạn viết xong, các văn hào gật đầu. Văn lão cười: «Chữ có hồn.» Anh đứng sau, không giấu được mắt đỏ.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3781,7 +3781,7 @@
           },
           "b": 0.48728,
           "bad": {
-            "x": "Nét cuối của cô run, nhưng Văn lão chỉ vuốt râu: «Run cũng là hồn.»",
+            "x": "Nét cuối của bạn run, nhưng Văn lão chỉ vuốt râu: «Run cũng là hồn.»",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3796,7 +3796,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Ông viết xong còn quay lại hỏi cô nghĩ sao về nét cuối. Cô thấy mình như học trò.",
+            "x": "Ông viết xong còn quay lại hỏi bạn nghĩ sao về nét cuối. Bạn thấy mình như học trò.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3807,7 +3807,7 @@
           },
           "b": 0.5236,
           "bad": {
-            "x": "Mực mài loãng, ông nhắc nhẹ. Cô ngượng đỏ mặt.",
+            "x": "Mực mài loãng, ông nhắc nhẹ. Bạn ngượng đỏ mặt.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3832,7 +3832,7 @@
           },
           "b": 0.46912,
           "bad": {
-            "x": "Ông bận lịch ở thủ đô, từ chối nhẹ nhàng. Cô thấy hơi tiếc.",
+            "x": "Ông bận lịch ở thủ đô, từ chối nhẹ nhàng. Bạn thấy hơi tiếc.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3852,7 +3852,7 @@
       "place": "Thành phố Hứa · Lễ khai giảng",
       "kind": "chon",
       "title": "Thăng thành phố và khóa đầu",
-      "text": "Nửa năm sau, huyện Hứa thăng thành thành phố Hứa. Văn lão làm hiệu trưởng đầu tiên, các văn hào làm giáo sư. Cô và Tần Dã vào học khóa đầu, cùng một lớp. Bạch Tử Nguyệt vào dạy, nhưng khi biết cô giỏi toán đến mức giáo sư mời cô theo nghề, cô từ chối vì muốn ở bên anh và dựng thành phố. Giờ cô có thể học thêm toán với giáo sư, hoặc tập trung các môn quản lý.",
+      "text": "Nửa năm sau, huyện Hứa thăng thành thành phố Hứa. Văn lão làm hiệu trưởng đầu tiên, các văn hào làm giáo sư. Bạn và Tần Dã vào học khóa đầu, cùng một lớp. Bạch Tử Nguyệt vào dạy, nhưng khi biết bạn giỏi toán đến mức giáo sư mời bạn theo nghề, bạn từ chối vì muốn ở bên anh và dựng thành phố. Giờ bạn có thể học thêm toán với giáo sư, hoặc tập trung các môn quản lý.",
       "tieu": "Hai đường đều mở. Chọn đường nào cũng có người đứng cạnh.",
       "cast": "h_dao,h_da,h_van,h_nguyet,tc",
       "ch": [
@@ -3861,7 +3861,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô học đến muộn, anh ngồi bên bàn chờ. Đêm đó họ ngồi chấm bài cùng nhau.",
+            "x": "Bạn học đến muộn, anh ngồi bên bàn chờ. Đêm đó họ ngồi chấm bài cùng nhau.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3872,7 +3872,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Hai việc chồng nhau, cô mệt đến mức ngủ gục giữa buổi họp.",
+            "x": "Hai việc chồng nhau, bạn mệt đến mức ngủ gục giữa buổi họp.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3898,7 +3898,7 @@
           },
           "b": 0.52632,
           "bad": {
-            "x": "Môn đầu quá khô, cô phải học thêm ban đêm mới theo kịp.",
+            "x": "Môn đầu quá khô, bạn phải học thêm ban đêm mới theo kịp.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3923,7 +3923,7 @@
           },
           "b": 0.45367999999999997,
           "bad": {
-            "x": "Cô vẫn thức khuya, ngày thứ ba bị cảm. Anh ép cô nghỉ cả tuần.",
+            "x": "Bạn vẫn thức khuya, ngày thứ ba bị cảm. Anh ép bạn nghỉ cả tuần.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3934,7 +3934,7 @@
           "b0": 0.47
         }
       ],
-      "ctx": "Lễ khai giảng thành phố Hứa, nửa năm sau. Cô và Tần Dã vào học khóa đầu.",
+      "ctx": "Lễ khai giảng thành phố Hứa, nửa năm sau. Bạn và Tần Dã vào học khóa đầu.",
       "no": 40
     },
     {
@@ -3943,7 +3943,7 @@
       "place": "Nhiều nơi · Bục diễn thuyết",
       "kind": "duyen",
       "title": "Diễn thuyết và hai người một vé",
-      "text": "Nhiều năm sau, hai vợ chồng thành người nổi tiếng. Lời mời từ nhiều nơi gửi tới, họ chỉ nhận lời nếu đi cùng nhau hoặc xa nhau không quá ba ngày. Cô lên bục nói về giáo dục và thành phố, anh nói về kinh tế. Cô có thể nói bằng ví dụ gần gũi, hoặc bằng số liệu.",
+      "text": "Nhiều năm sau, hai vợ chồng thành người nổi tiếng. Lời mời từ nhiều nơi gửi tới, họ chỉ nhận lời nếu đi cùng nhau hoặc xa nhau không quá ba ngày. Bạn lên bục nói về giáo dục và thành phố, anh nói về kinh tế. Bạn có thể nói bằng ví dụ gần gũi, hoặc bằng số liệu.",
       "tieu": "Người nghe nhớ câu chuyện lâu hơn nhớ con số. Nhưng con số lại khiến người ta tin.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -3952,7 +3952,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cả hội trường lặng đi. Có người lau mắt. Anh đứng cuối sảnh, nhìn cô như nhìn ánh đèn.",
+            "x": "Cả hội trường lặng đi. Có người lau mắt. Anh đứng cuối sảnh, nhìn bạn như nhìn ánh đèn.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3963,7 +3963,7 @@
           },
           "b": 0.5236,
           "bad": {
-            "x": "Cô nghẹn ở giữa câu, phải dừng lại uống nước. Hội trường chờ.",
+            "x": "Bạn nghẹn ở giữa câu, phải dừng lại uống nước. Hội trường chờ.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3978,7 +3978,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Bảng số liệu của cô gọn mà sắc. Nhiều đại biểu ghi chép liên tục.",
+            "x": "Bảng số liệu của bạn gọn mà sắc. Nhiều đại biểu ghi chép liên tục.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -3989,7 +3989,7 @@
           },
           "b": 0.48728,
           "bad": {
-            "x": "Cô nhầm một con số, phải đính chính giữa chừng. May có anh nhắc.",
+            "x": "Bạn nhầm một con số, phải đính chính giữa chừng. May có anh nhắc.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4004,7 +4004,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Hai điều bổ trợ nhau. Cô xuống bục trong tiếng vỗ tay dài.",
+            "x": "Hai điều bổ trợ nhau. Bạn xuống bục trong tiếng vỗ tay dài.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -4014,7 +4014,7 @@
           },
           "b": 0.46912,
           "bad": {
-            "x": "Cô chuyển ý hơi vội, người nghe cần thêm thời gian để theo kịp.",
+            "x": "Bạn chuyển ý hơi vội, người nghe cần thêm thời gian để theo kịp.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4039,7 +4039,7 @@
       "place": "Kinh thành · Tứ hợp viện nhà họ Tần",
       "kind": "nan",
       "title": "Nhà họ Tần sụp đổ",
-      "text": "Mấy năm sau, Tần Duệ và Tần Huyên ra buôn rồi bị những người từng chịu thiệt từ nhà họ Triệu chặn đường; quay về cơ quan thì không có đường lên. Bán một tứ hợp viện lo nhà cho Tần Duệ, Tần Huyên đòi chia, hai cụ nổi giận rồi qua đời. Bán nốt căn kia, Tần Quốc Vinh và Triệu Nhã Phượng phải thuê nhà. Tần Dã nghe tin, chỉ gật đầu. Cô có thể giữ im lặng, hoặc hỏi lòng anh.",
+      "text": "Mấy năm sau, Tần Duệ và Tần Huyên ra buôn rồi bị những người từng chịu thiệt từ nhà họ Triệu chặn đường; quay về cơ quan thì không có đường lên. Bán một tứ hợp viện lo nhà cho Tần Duệ, Tần Huyên đòi chia, hai cụ nổi giận rồi qua đời. Bán nốt căn kia, Tần Quốc Vinh và Triệu Nhã Phượng phải thuê nhà. Tần Dã nghe tin, chỉ gật đầu. Bạn có thể giữ im lặng, hoặc hỏi lòng anh.",
       "tieu": "Anh không vui, cũng không buồn. Có những điều đã tới hạn mới hiểu mình không muốn nữa.",
       "cast": "h_dao,h_da,h_vinh,h_phuong,h_due,h_huyen,tc",
       "ch": [
@@ -4059,7 +4059,7 @@
           },
           "b": 0.52088,
           "bad": {
-            "x": "Tách trà nguội hẳn trước khi anh nói được câu nào. Cô chờ.",
+            "x": "Tách trà nguội hẳn trước khi anh nói được câu nào. Bạn chờ.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4091,7 +4091,7 @@
           },
           "b": 0.4664,
           "bad": {
-            "x": "Anh lảng đi: «Anh không nghĩ tới.» Cô nhận ra mình hỏi khi anh chưa sẵn sàng.",
+            "x": "Anh lảng đi: «Anh không nghĩ tới.» Bạn nhận ra mình hỏi khi anh chưa sẵn sàng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4136,7 +4136,7 @@
       "place": "Kinh thành · Tang lễ",
       "kind": "nan",
       "title": "Cha anh lúc cuối đời",
-      "text": "Một năm sau ở kinh thành, Tần Quốc Vinh mất, trước đó vẫn nhắc tên Tần Dã và Tần Thanh. Tần Dã về dự và nhìn Triệu Nhã Phượng, người vẫn nhìn anh bằng ánh mắt chán ghét. Anh nói với cô: «người chết thì giải thoát, người sống còn phải chịu». Giờ cô có thể giữ tay anh khi anh quay đi, hoặc hỏi anh có muốn ở lại thêm.",
+      "text": "Một năm sau ở kinh thành, Tần Quốc Vinh mất, trước đó vẫn nhắc tên Tần Dã và Tần Thanh. Tần Dã về dự và nhìn Triệu Nhã Phượng, người vẫn nhìn anh bằng ánh mắt chán ghét. Anh nói với bạn: «người chết thì giải thoát, người sống còn phải chịu». Giờ bạn có thể giữ tay anh khi anh quay đi, hoặc hỏi anh có muốn ở lại thêm.",
       "tieu": "Có những cánh cửa anh sẽ không mở nữa. Việc của ngươi là đứng cạnh anh khi anh quyết định đóng nó.",
       "cast": "h_dao,h_da,h_vinh,h_phuong,h_thanh,tc",
       "ch": [
@@ -4145,7 +4145,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh bước nhanh hơn một chút, rồi chậm lại khi thấy tay cô. Họ ra khỏi cổng cùng nhau.",
+            "x": "Anh bước nhanh hơn một chút, rồi chậm lại khi thấy tay bạn. Họ ra khỏi cổng cùng nhau.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -4156,7 +4156,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Anh quay đi quá nhanh, cô phải đi gấp mới theo kịp. Nhưng tay anh không buông.",
+            "x": "Anh quay đi quá nhanh, bạn phải đi gấp mới theo kịp. Nhưng tay anh không buông.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4182,7 +4182,7 @@
           },
           "b": 0.48184,
           "bad": {
-            "x": "Anh nói không muốn. Giọng nặng hơn dự tính, cô lùi lại, im lặng.",
+            "x": "Anh nói không muốn. Giọng nặng hơn dự tính, bạn lùi lại, im lặng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4197,7 +4197,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô cúi chào rất khẽ. Anh nhìn cô, ánh mắt biết ơn.",
+            "x": "Bạn cúi chào rất khẽ. Anh nhìn bạn, ánh mắt biết ơn.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -4207,7 +4207,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô vụng về làm rơi nén hương, anh đỡ lấy, cười nhạt.",
+            "x": "Bạn vụng về làm rơi nén hương, anh đỡ lấy, cười nhạt.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4228,7 +4228,7 @@
       "place": "Thành phố lớn · Nơi Thế Quân làm việc",
       "kind": "duyen",
       "title": "Kết cục của Ninh Anh và Thế Quân",
-      "text": "Cùng thời gian, Giang Thế Quân ly hôn khi con gái út tốt nghiệp đại học; anh nhịn nhiều năm vì con. Ninh Anh sau này tìm tới xin quay lại, bị hai đứa con mời ra. Thế Quân gặp một người thật lòng thích anh và sống hạnh phúc. Tin này tới tay cô qua một bức thư ngắn. Cô có thể nghe tin và để mặc, hoặc gửi một lời nhắn thăm Thế Quân.",
+      "text": "Cùng thời gian, Giang Thế Quân ly hôn khi con gái út tốt nghiệp đại học; anh nhịn nhiều năm vì con. Ninh Anh sau này tìm tới xin quay lại, bị hai đứa con mời ra. Thế Quân gặp một người thật lòng thích anh và sống hạnh phúc. Tin này tới tay bạn qua một bức thư ngắn. Bạn có thể nghe tin và để mặc, hoặc gửi một lời nhắn thăm Thế Quân.",
       "tieu": "Mọi người đều được chọn lại. Ninh Anh cũng vậy, chỉ là nàng chọn muộn.",
       "cast": "h_dao,h_quan,h_anh,tc",
       "ch": [
@@ -4237,7 +4237,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô gấp lá thư lại. Gió thổi qua rèm, lòng cô yên.",
+            "x": "Bạn gấp lá thư lại. Gió thổi qua rèm, lòng bạn yên.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -4248,7 +4248,7 @@
           },
           "b": 0.5181600000000001,
           "bad": {
-            "x": "Cô đọc đi đọc lại, vẫn thấy nặng nặng trong lòng.",
+            "x": "Bạn đọc đi đọc lại, vẫn thấy nặng nặng trong lòng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4263,7 +4263,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Thế Quân đáp một dòng cảm ơn, kèm một bức ảnh gia đình mới. Cô mỉm cười.",
+            "x": "Thế Quân đáp một dòng cảm ơn, kèm một bức ảnh gia đình mới. Bạn mỉm cười.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -4299,7 +4299,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Anh nghe xong, chỉ gật đầu. Cô không biết anh nghĩ gì.",
+            "x": "Anh nghe xong, chỉ gật đầu. Bạn không biết anh nghĩ gì.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4310,7 +4310,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Thành phố lớn, cùng thời gian. Tin Giang Thế Quân ly hôn tới tay cô.",
+      "ctx": "Thành phố lớn, cùng thời gian. Tin Giang Thế Quân ly hôn tới tay bạn.",
       "no": 44
     },
     {
@@ -4319,7 +4319,7 @@
       "place": "Hứa gia thôn · Căn nhà cũ",
       "kind": "nan",
       "title": "Lời kết",
-      "text": "Một sáng ở căn nhà cũ tại Hứa gia thôn, Tiểu Châu báo nhiệm vụ ở thế giới này đã xong. Tần Dã linh cảm cô sắp rời đi, hỏi «em đi đâu, mang anh theo được không?». Cô nói không biết nên không mang được. Anh xin ở bên cô tới phút cuối, và cô đồng ý. Ngoài sân, dân huyện và dân thành phố đã đến đứng chật bên cổng, vì tin lan nhanh. Anh nắm tay cô, và tay anh run.",
+      "text": "Một sáng ở căn nhà cũ tại Hứa gia thôn, Tiểu Châu báo nhiệm vụ ở thế giới này đã xong. Tần Dã linh cảm bạn sắp rời đi, hỏi «em đi đâu, mang anh theo được không?». Bạn nói không biết nên không mang được. Anh xin ở bên bạn tới phút cuối, và bạn đồng ý. Ngoài sân, dân huyện và dân thành phố đã đến đứng chật bên cổng, vì tin lan nhanh. Anh nắm tay bạn, và tay anh run.",
       "tieu": "Anh sẽ siết hay buông, còn tùy chuyện anh học được suốt những năm qua.",
       "cast": "h_dao,h_da,h_thanh,h_ngoc,h_hang,tc",
       "ch": [
@@ -4339,7 +4339,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Anh gật mà nước mắt rơi trước. Cô đưa tay lau cho anh.",
+            "x": "Anh gật mà nước mắt rơi trước. Bạn đưa tay lau cho anh.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4365,7 +4365,7 @@
           },
           "b": 0.47184,
           "bad": {
-            "x": "Anh nghe đến câu thứ hai thì ôm chặt cô, không cho nói tiếp.",
+            "x": "Anh nghe đến câu thứ hai thì ôm chặt bạn, không cho nói tiếp.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4391,7 +4391,7 @@
           },
           "b": 0.5081600000000001,
           "bad": {
-            "x": "Mẹ khóc, cha lúng túng gắp thức ăn. Anh nắm tay cô dưới bàn.",
+            "x": "Mẹ khóc, cha lúng túng gắp thức ăn. Anh nắm tay bạn dưới bàn.",
             "d": {
               "ac": -1,
               "hac": 1,

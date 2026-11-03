@@ -118,7 +118,7 @@ Chữ trong ngoặc kép là chữ đang dùng trong game, giữ nguyên khi là
 
 **Cột phải**, từ trên xuống:
 
-1. **Hàng điều khiển**: nút tốc độ x1 / x2 / x4, nút bật tắt "Để số mệnh tự quyết" (game tự chọn ngẫu nhiên), nút "Kiếp mới" (về bìa).
+1. **Hàng điều khiển**: nút tốc độ x1 / x2 / x4, nút bật tắt "Mặc cho số mệnh dẫn lối" (game tự chọn ngẫu nhiên), nút "Tôi muốn sang kiếp khác" (về bìa).
 2. **Lời Tiểu Châu**: ảnh tròn 44px và bóng thoại chữ nghiêng, nhãn "Tiểu Châu". Mỗi mốc một lời khuyên.
 3. **Thẻ mốc truyện**:
    - Dòng nhỏ: loại mốc (Cơ duyên, Hiểm họa, Lựa chọn, Đại nạn) và địa điểm.
@@ -127,7 +127,7 @@ Chữ trong ngoặc kép là chữ đang dùng trong game, giữ nguyên khi là
 4. **Sau khi chọn**, các nút lựa chọn được thay bằng:
    - khối kết quả có vạch bên trái (xanh khi thành công, đỏ khi thất bại), dòng nhỏ "\<lựa chọn> · Thành công" hoặc "· Thất bại", và đoạn kết quả;
    - hàng viên thay đổi chỉ số, ví dụ "Ác niệm −8" màu xanh, "Sinh mệnh −20" màu đỏ, kèm "Kỹ năng mới: …" nếu có;
-   - nút chính "Tiếp tục".
+   - nút chính "Bước tiếp".
 5. **Thẻ "Dấu tích một kiếp"**: mỗi mốc một ô vuông 26px, tô màu theo loại mốc. Mốc hiện tại có viền nổi, mốc không xảy ra thì mờ, di chuột vào ô thì hiện tên mốc. Dưới là chú thích màu.
 6. **Thẻ "Nhật ký"**: mới nhất ở trên. Mỗi dòng gồm "Mốc n", tên mốc in đậm và đoạn kết quả.
 
@@ -139,7 +139,7 @@ Hiện ở cột phải, thay cho thẻ mốc truyện. Cột trái vẫn giữ 
 - **Thẻ chia sẻ**: tranh cảnh kết, tên kết cục, dòng "Thế giới N · thẻ chia sẻ".
 - **Hộp "Công đức"**: ba dòng phần trăm (Ác niệm đã tinh lọc, Hắc hóa đã hóa giải, Hảo cảm đạt được) và dòng tổng "Mức hoàn thành x% × 120 → +…". Nếu ván thất bại thì ghi: "0 điểm. Thế giới này chưa đạt nên không nhận công đức, kỹ năng hay mảnh hồn nào."
 - Hai viên "Công đức +…" và "Mảnh hồn +1" (hoặc +0).
-- Nút chính "Chơi lại thế giới này".
+- Nút chính "Cho tôi thử lại kiếp này".
 - Nhật ký thêm dòng đầu "Kết cục: \<tên>" kèm lý do, ví dụ "Hết mốc cuối nhưng chưa đạt: Ác niệm còn 12 (cần 0), Hảo cảm 84 (cần 100)."
 - **Còn thiếu, cần làm thêm:** một hộp liệt kê từng điều kiện kết cục hoàn hảo, mỗi điều kiện ghi "Đạt" (xanh) hoặc "Chưa đạt" (đỏ). Code đã có hàm tạo hộp này nhưng chưa gắn vào màn kết, nên hiện lý do chỉ nằm trong nhật ký.
 

@@ -16,8 +16,8 @@
   <nav class="nm-nav" aria-label="Điều hướng trang chủ">
     <button type="button" class="on" data-nm="hero">Về Bìa</button>
     <button type="button" data-nm="journey">Hành Trình</button>
-    <button type="button" disabled title="Sắp có">Tàng Kinh Các</button>
-    <button type="button" disabled title="Sắp có">Nhân Quả</button>
+    <button type="button" data-nm="kinh">Tàng Kinh Các</button>
+    <button type="button" data-nm="nhanqua">Nhân Quả</button>
   </nav>
   <div class="nm-bar-r">
     <div class="nm-badges">
@@ -47,7 +47,7 @@
           <h1>Nghịch Mệnh · Độ Tâm</h1>
           <p class="nm-tag">“Mỗi thế giới có một kẻ ác chờ được tha thứ. Bạn chỉ có vài ngày.”</p>
         </div>
-        <button class="nm-cta" type="button" data-step="2"><span class="material-symbols-outlined nm-ic" style="--s:20px" aria-hidden="true">casino</span><span id="nm-cta-label">Bắt Đầu Nhập Vai</span></button>
+        <button class="nm-cta" type="button" data-step="2"><span id="nm-cta-label">Tôi đã sẵn sàng</span><span class="material-symbols-outlined nm-ic" style="--s:16px" aria-hidden="true">arrow_forward</span></button>
       </div>
     </div>
   </section>
@@ -81,6 +81,22 @@
     <div class="nm-worlds" id="nm-worlds"></div>
   </section>
 
+  <section class="nm-ar-sec" id="nm-kinh" aria-label="Tàng Kinh Các">
+    <div class="nm-sec-h">
+      <div class="t"><h3>Tàng Kinh Các</h3><span class="k">/ Kho kỹ năng và hồ sơ</span></div>
+      <span class="r">Mở dần theo những gì bạn đã trải qua</span>
+    </div>
+    <div id="nm-kinh-body"></div>
+  </section>
+
+  <section class="nm-ar-sec" id="nm-nhanqua" aria-label="Nhân Quả">
+    <div class="nm-sec-h">
+      <div class="t"><h3>Bia Nhân Quả</h3><span class="k">/ Kết cục đã đạt</span></div>
+      <span class="r">Mỗi lựa chọn kết thành một quả vị</span>
+    </div>
+    <div id="nm-nq-body"></div>
+  </section>
+
   <aside class="nm-note" aria-label="Trạng thái hệ thống">
     <span class="l"><span class="material-symbols-outlined nm-ic" style="--s:15px;color:var(--lake)" aria-hidden="true">spa</span>Đạo Lộ Luân Hồi: Mỗi niệm khởi sinh đều kết thành quả vị trên Bia Nhân Quả</span>
     <span class="r">Ứng Niệm Thành Chân ✦ Côn Lôn Tiên Đạo</span>
@@ -109,7 +125,7 @@
 <div class="wrap" id="game" hidden>
   <header class="top">
     <h1 class="brand" id="brand">Nghịch Mệnh <i>· Độ Tâm</i></h1>
-    <span style="display:flex;gap:10px;align-items:center"><button class="back" id="toCover">← Bìa</button><span class="mono" id="progress"></span></span>
+    <span style="display:flex;gap:10px;align-items:center"><button class="back" id="toCover">← Tiểu Châu, đưa tôi về</button><span class="mono" id="progress"></span></span>
   </header>
   <div class="stage" id="stage">
     <section class="left">

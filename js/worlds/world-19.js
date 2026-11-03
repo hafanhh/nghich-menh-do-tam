@@ -30,7 +30,7 @@ HK.w19={
 "d18":{fix:w19spike("s18b","s18s")},
 "d19":{ch:{"0":{bonus:sk19("Ghi chép lời khai",0.03)}}},
 "d25":{ch:{"0":{need:function(){return hasSk("Tụng kinh Vãng Sinh")},bonus:fl19("hoc_du",0.08)}}},
-"d27":{getb:{text:function(base){return function(){return base+(S.f.thay_diem?" Cô nhớ ngay nụ cười thoáng qua của Thạch Diễm Chi ở biệt thự họ Dịch và hiểu vai trò của cô ta.":" Cô chưa chắc Thạch Diễm Chi đứng sau chuyện này, nhưng cái tên Đại Hải đã đủ để cô theo dấu.")}}},
+"d27":{getb:{text:function(base){return function(){return base+(S.f.thay_diem?" Bạn nhớ ngay nụ cười thoáng qua của Thạch Diễm Chi ở biệt thự họ Dịch và hiểu vai trò của cô ta.":" Bạn chưa chắc Thạch Diễm Chi đứng sau chuyện này, nhưng cái tên Đại Hải đã đủ để bạn theo dấu.")}}},
  ch:{"0":{bonus:bn19(fl19("thay_diem",0.1),fl19("hoi_tai_nan",0.04),sk19("Tra cứu biển số xe",0.04))},"1":{bonus:fl19("thay_diem",0.05)}}},
 "d28":{ch:{"1":{bonus:fl19("hai_khai",0.06)}}},
 "d30":{ch:{"0":{bonus:bn19(fl19("biet_thien",0.08),sk19("Thắt và tháo nút dây",0.04))}}},
@@ -39,11 +39,11 @@ HK.w19={
 "d36":{ch:{"0":{bonus:sk19("Tụng kinh Vãng Sinh",0.08)}}},
 "d37":{ch:{"0":{bonus:fl19("nhuoc_biet",0.1)}}},
 "d38":{ch:{"0":{bonus:bn19(sk19("Tụng kinh Vãng Sinh",0.06),sk19("Trấn an người sang chấn",0.04))}}},
-"d39":{getb:{text:function(base){return function(){return base+(S.f.chau?" Mục Cửu ghen nhẹ vì cô đã để hạt Phòng Ngự Châu lại cho người khác.":"")}}}},
+"d39":{getb:{text:function(base){return function(){return base+(S.f.chau?" Mục Cửu ghen nhẹ vì bạn đã để hạt Phòng Ngự Châu lại cho người khác.":"")}}}},
 "d41":{fix:w19spike("s41b","s41s","nhan_the")},
-"d42":{getb:{text:function(base){return function(){return base+(S.f.ke_kh?" Mục Cửu đã nghe kế hoạch của cô từ trước nên đứng sau lặng lẽ chờ cô quyết định.":" Mục Cửu không biết cô định làm gì với ông, anh chỉ đứng nhìn.")}}},
+"d42":{getb:{text:function(base){return function(){return base+(S.f.ke_kh?" Mục Cửu đã nghe kế hoạch của bạn từ trước nên đứng sau lặng lẽ chờ bạn quyết định.":" Mục Cửu không biết bạn định làm gì với ông, anh chỉ đứng nhìn.")}}},
  ch:{"0":{bonus:fl19("ke_kh",0.1)}}},
-"d43":{getb:{text:function(base){return function(){return base+(S.f.chau?" Hạt Phòng Ngự Châu cô để lại đang nứt dần quanh cổ Tử Du, giữ cho cô bé khỏi bị thương nặng.":" Cô chưa để lại Phòng Ngự Châu nên Tử Du không có gì bảo vệ, và cô phải tự ra tay đỡ thay.")}}},
+"d43":{getb:{text:function(base){return function(){return base+(S.f.chau?" Hạt Phòng Ngự Châu bạn để lại đang nứt dần quanh cổ Tử Du, giữ cho cô bé khỏi bị thương nặng.":" Bạn chưa để lại Phòng Ngự Châu nên Tử Du không có gì bảo vệ, và bạn phải tự ra tay đỡ thay.")}}},
  fix:function(d){var o=Object.assign({},d);if(!S.f.chau)o.sinh=(o.sinh||0)-12;return o},
  ch:{"1":{bonus:fl19("thi_tham",0.1)}}},
 "d44":{ch:{"1":{bonus:fl19("tu_du_di",0.06)}}},
@@ -69,7 +69,7 @@ function w19cover(){
 
 var W19K={};
 
-WORLDS.w19={roles:{hd_luu:["Nữ chính", "main", "Sinh viên đã mất ba năm, nay là một «A Phiêu», hồn phiêu bạt mạnh bất thường."],hd_cuu:["Nam chính, đạo sĩ bắt yêu", "main", "Đạo sĩ bắt yêu 25 tuổi, tình cờ đi ngang vì nghe trong thôn có «nghiệp vụ»."],hd_nhuoc:["Nữ chủ nguyên tác", "foe", "Nữ chủ nguyên tác, thể chất chiêu quỷ, tới thôn nhờ đạo sĩ Quan Vân Sơn diệt hồn Tiểu Lựu."],hd_son:["Đạo sĩ", "foe", "Đạo sĩ mặc đạo bào, cùng Nhược Tư thành đôi nhờ chuyện diệt hồn Tiểu Lựu."],hd_thien:["Thiên sĩ", "neutral", "Đạo sĩ già tinh thông bùa chú, đã tới nhà họ Dịch cùng Quan Vân Sơn."],hd_lam:["Bạn của Nhược Tư", "neutral", "Bạn của Kha Nhược Tư, bị dân thôn nhốt xuống hầm."],hd_ngoc:["Bạn của Nhược Tư", "neutral", "Bạn của Kha Nhược Tư, bị dân thôn nhốt xuống hầm."],hd_vuni:["Bạn thân đã mất", "neutral", "Bạn thân của Tiểu Lựu, bị nhốt ở thôn và qua đời sau khi chống cự."],hd_phuc:["Cha", "family", "Cha của Tiểu Lựu, hỏi «hài cốt ở đâu» bằng giọng bình đạm."],hd_diem:["Mẹ kế", "foe", "Mẹ kế của Kiều Hiểu Dao, cưới cha Hiểu Dao hai tháng sau khi mẹ cô mất."],hd_hai:["Anh trai Diễm Chi", "foe", "Anh trai của Thạch Diễm Chi, kẻ gây tai nạn."],hd_lien:["Bạn cũ", "ally", "Bạn cũ của Kiều Hiểu Dao, kể chuyện mẹ cô bị tai nạn khi đi tìm con."],hd_my:["Người đàn bà trong thôn", "neutral", "Người từng được Tiểu Lựu cứu, quay lại thôn vì ba con trai đến tuổi cưới vợ."],hd_tu:["Con gái Nhược Tư", "neutral", "Sinh viên năm nhất 19 tuổi, con gái của Nhược Tư và Quan Vân Sơn."],hd_giac:["Pho tượng", "neutral", "Tượng tự xưng Giác Không, năm xưa được dân thôn cứu."],hd_tri:["Đại sư", "neutral", "Đại sư lợi hại được Quan Vân Sơn mời tới chặn Tiểu Lựu."],hd_ho:["Người nhà họ Lỗ", "foe", "Người nhà họ Lỗ trong thôn, từng giữ Sở Vũ Ni."],hd_tam:["Thanh niên trong thôn", "neutral", "Thanh niên trong thôn đi mời đạo sĩ."],hd_truong:["Thôn trưởng", "foe", "Thôn trưởng Thanh Hà thôn, chủ trì chuyện bàn chia các cô gái."],hd_tuanh:["Phụ nữ bỏ nhà", "neutral", "Người phụ nữ bỏ nhà không ngoảnh lại."],hd_hieu:["Nạn nhân", "neutral", "Cô gái bị tai nạn, bạn cũ của Hồng Thục Liên."]},
+WORLDS.w19={roles:{hd_luu:["Nữ chính", "main", "Sinh viên đã mất ba năm, nay là một «A Phiêu», hồn phiêu bạt mạnh bất thường."],hd_cuu:["Nam chính, đạo sĩ bắt yêu", "main", "Đạo sĩ bắt yêu 25 tuổi, tình cờ đi ngang vì nghe trong thôn có «nghiệp vụ»."],hd_nhuoc:["Nữ chủ nguyên tác", "foe", "Nữ chủ nguyên tác, thể chất chiêu quỷ, tới thôn nhờ đạo sĩ Quan Vân Sơn diệt hồn bạn."],hd_son:["Đạo sĩ", "foe", "Đạo sĩ mặc đạo bào, cùng Nhược Tư thành đôi nhờ chuyện diệt hồn bạn."],hd_thien:["Thiên sĩ", "neutral", "Đạo sĩ già tinh thông bùa chú, đã tới nhà họ Dịch cùng Quan Vân Sơn."],hd_lam:["Bạn của Nhược Tư", "neutral", "Bạn của Kha Nhược Tư, bị dân thôn nhốt xuống hầm."],hd_ngoc:["Bạn của Nhược Tư", "neutral", "Bạn của Kha Nhược Tư, bị dân thôn nhốt xuống hầm."],hd_vuni:["Bạn thân đã mất", "neutral", "Bạn thân của bạn, bị nhốt ở thôn và qua đời sau khi chống cự."],hd_phuc:["Cha", "family", "Cha của bạn, hỏi «hài cốt ở đâu» bằng giọng bình đạm."],hd_diem:["Mẹ kế", "foe", "Mẹ kế của Kiều Hiểu Dao, cưới cha Hiểu Dao hai tháng sau khi mẹ bạn mất."],hd_hai:["Anh trai Diễm Chi", "foe", "Anh trai của Thạch Diễm Chi, kẻ gây tai nạn."],hd_lien:["Bạn cũ", "ally", "Bạn cũ của Kiều Hiểu Dao, kể chuyện mẹ bạn bị tai nạn khi đi tìm con."],hd_my:["Người đàn bà trong thôn", "neutral", "Người từng được bạn cứu, quay lại thôn vì ba con trai đến tuổi cưới vợ."],hd_tu:["Con gái Nhược Tư", "neutral", "Sinh viên năm nhất 19 tuổi, con gái của Nhược Tư và Quan Vân Sơn."],hd_giac:["Pho tượng", "neutral", "Tượng tự xưng Giác Không, năm xưa được dân thôn cứu."],hd_tri:["Đại sư", "neutral", "Đại sư lợi hại được Quan Vân Sơn mời tới chặn bạn."],hd_ho:["Người nhà họ Lỗ", "foe", "Người nhà họ Lỗ trong thôn, từng giữ Sở Vũ Ni."],hd_tam:["Thanh niên trong thôn", "neutral", "Thanh niên trong thôn đi mời đạo sĩ."],hd_truong:["Thôn trưởng", "foe", "Thôn trưởng Thanh Hà thôn, chủ trì chuyện bàn chia các cô gái."],hd_tuanh:["Phụ nữ bỏ nhà", "neutral", "Người phụ nữ bỏ nhà không ngoảnh lại."],hd_hieu:["Nạn nhân", "neutral", "Cô gái bị tai nạn, bạn cũ của Hồng Thục Liên."]},
  init:function(){return {ac:100,hac:W19K.h0,sinh:100,bs:100,hao:0}},
  mod:function(){return 0},
  /* Mốc 1–16 chỉ đổi Sinh mệnh và cờ; từ mốc 17 mới có chỉ số của Mục Cửu. */
@@ -82,22 +82,22 @@ WORLDS.w19={roles:{hd_luu:["Nữ chính", "main", "Sinh viên đã mất ba năm
  pick:function(){if(S.ac<=0&&S.hac<=0&&S.hao>=100)return "true";if(S.hao>=70&&S.ac<=30&&S.hac<=30)return "near";return "half"},
  perfect:function(ln){return ln(S.ac<=0,'Ác niệm còn '+Math.round(S.ac)+' (cần 0)')+ln(S.hac<=0,'Hắc hóa còn '+Math.round(S.hac)+' (cần 0)')+ln(S.hao>=100,'Hảo cảm '+Math.round(S.hao)+' (cần 100)')+ln(S.bs>0,'Mục Cửu còn nguyên vẹn ('+Math.round(S.bs)+')')},
  hud:function(){var c=S.i>=IX19.d35?"Quỷ Vương nổi danh":(S.i>=IX19.d17?"Người thuê đạo sĩ Mục Cửu":"A Phiêu mạnh bất thường");
-  return '<div class="attr"><span class="lbl">Thân phận</span> <span class="achip" title="Tiểu Lựu từ một hồn phiêu bạt trên vách Đoạn Hồn thành Quỷ Vương nổi danh trong giới huyền học">'+c+'</span></div>'},
+  return '<div class="attr"><span class="lbl">Thân phận</span> <span class="achip" title="Bạn từ một hồn phiêu bạt trên vách Đoạn Hồn thành Quỷ Vương nổi danh trong giới huyền học">'+c+'</span></div>'},
  extraSk:function(){return ''},
  bossView:function(){
   if(S.end)return {k:"hd_cuu",n:"Mục Cửu",s:"Đạo sĩ bắt yêu 25 tuổi, lạnh nhạt, mê tiền. Anh sợ bị bỏ lại hơn mọi thứ."};
-  if(S.i<IX19.d17)return {k:"hd_cuu",n:"Người chưa lộ mặt",s:"Một đạo sĩ bắt yêu 25 tuổi, mê tiền, Ác niệm 100. Cô chưa từng gặp anh."};
-  if(S.i>=IX19.d41)return {k:"hd_cuu",n:"Mục Cửu",s:"Biết cô chỉ còn chưa đầy hai năm. Anh vẫn hứa sẽ chờ, nhưng bàn tay nắm cô run lên."};
-  if(S.i>=IX19.d35)return {k:"hd_cuu",n:"Mục Cửu",s:"Đã công khai nhận cô trước cả giới đạo sĩ. Đi cùng cô qua nhiều làng, tu luyện chăm chỉ để tìm cô sau hai mươi năm."};
-  if(S.i>=IX19.d33)return {k:"hd_cuu",n:"Mục Cửu",s:"Vừa nói «hình như anh thích em». Anh quyết tu luyện thật chăm để tìm cô."};
-  if(S.i>=IX19.d31)return {k:"hd_cuu",n:"Mục Cửu",s:"Vừa đứng chờ ngoài cổng cả một giờ. Tay anh vẫn run khi chạm vào cô."};
-  if(S.i>=IX19.d19)return {k:"hd_cuu",n:"Mục Cửu",s:"Đã mua đất cho cô nằm xuống, mua váy cho cô thay. Lạnh nhạt ít đi, tai hay đỏ khi bị trêu."};
+  if(S.i<IX19.d17)return {k:"hd_cuu",n:"Người chưa lộ mặt",s:"Một đạo sĩ bắt yêu 25 tuổi, mê tiền, Ác niệm 100. Bạn chưa từng gặp anh."};
+  if(S.i>=IX19.d41)return {k:"hd_cuu",n:"Mục Cửu",s:"Biết bạn chỉ còn chưa đầy hai năm. Anh vẫn hứa sẽ chờ, nhưng bàn tay nắm bạn run lên."};
+  if(S.i>=IX19.d35)return {k:"hd_cuu",n:"Mục Cửu",s:"Đã công khai nhận bạn trước cả giới đạo sĩ. Đi cùng bạn qua nhiều làng, tu luyện chăm chỉ để tìm bạn sau hai mươi năm."};
+  if(S.i>=IX19.d33)return {k:"hd_cuu",n:"Mục Cửu",s:"Vừa nói «hình như anh thích em». Anh quyết tu luyện thật chăm để tìm bạn."};
+  if(S.i>=IX19.d31)return {k:"hd_cuu",n:"Mục Cửu",s:"Vừa đứng chờ ngoài cổng cả một giờ. Tay anh vẫn run khi chạm vào bạn."};
+  if(S.i>=IX19.d19)return {k:"hd_cuu",n:"Mục Cửu",s:"Đã mua đất cho bạn nằm xuống, mua váy cho bạn thay. Lạnh nhạt ít đi, tai hay đỏ khi bị trêu."};
   return {k:"hd_cuu",n:"Mục Cửu",s:"Đạo sĩ bắt yêu 25 tuổi, ham tiền, Ác niệm 100. Anh vừa nhận thù lao thu liễm hài cốt và đã lặng lẽ tính từng năm trong hạn hai mươi."}},
  emblem:w19emblem,
  cover:w19cover,
  intro:function(){return pastelIntro({W:WORLDS.w19,diff:"Độ khó: Huyền học, đua với hạn hai mươi năm và nỗi sợ bị bỏ lại",hook:"Duyên khởi: Hồn trên vách Đoạn Hồn",
-  hero:{key:"hd_luu",name:"Dịch Tiểu Lựu",role:"Nữ chính · A Phiêu mạnh bất thường",desc:"Sinh viên mất ba năm trước ở vách Đoạn Hồn, nay là một hồn phiêu bạt mạnh bất thường. Cô biết trước nguyên tác, và chỉ ở nhân gian đúng hai mươi năm.",note:"Trước khi gặp Mục Cửu, cô chỉ phải lo giữ Sinh mệnh. Học thêm các kỹ năng thật như dẫn đường trong đêm, ghi chép lời khai, tụng kinh Vãng Sinh thì các phép thử về sau dễ hơn."},
-  boss:{key:"hd_cuu",name:"Mục Cửu",role:"Đạo sĩ bắt yêu",desc:"25 tuổi, lạnh nhạt, mê tiền. Cha mẹ bỏ anh vì tin anh mang vận xui. Biết cô chỉ ở nhân gian hai mươi năm, anh dựng nỗi sợ bị bỏ lại từ chính hạn đó.",quote:"“Bổn đạo chỉ bắt yêu.”",tag:"Đạo sĩ sợ bị bỏ lại"},
+  hero:{key:"hd_luu",name:"Dịch Tiểu Lựu",role:"Nữ chính · A Phiêu mạnh bất thường",desc:"Sinh viên mất ba năm trước ở vách Đoạn Hồn, nay là một hồn phiêu bạt mạnh bất thường. Bạn biết trước nguyên tác, và chỉ ở nhân gian đúng hai mươi năm.",note:"Trước khi gặp Mục Cửu, bạn chỉ phải lo giữ Sinh mệnh. Học thêm các kỹ năng thật như dẫn đường trong đêm, ghi chép lời khai, tụng kinh Vãng Sinh thì các phép thử về sau dễ hơn."},
+  boss:{key:"hd_cuu",name:"Mục Cửu",role:"Đạo sĩ bắt yêu",desc:"25 tuổi, lạnh nhạt, mê tiền. Cha mẹ bỏ anh vì tin anh mang vận xui. Biết bạn chỉ ở nhân gian hai mươi năm, anh dựng nỗi sợ bị bỏ lại từ chính hạn đó.",quote:"“Bổn đạo chỉ bắt yêu.”",tag:"Đạo sĩ sợ bị bỏ lại"},
   tc:"“Ta là Tiểu Châu. Lần này ngươi là một A Phiêu mạnh bất thường, chỉ ở nhân gian đúng hai mươi năm. Kẻ Ác niệm 100 là một đạo sĩ bắt yêu tên Mục Cửu, ham tiền và sợ bị bỏ lại. Nhớ hạn hai mươi năm, và đừng để anh ta chờ quá lâu mới nghe sự thật. Chúc may mắn nhé!”"})}
 };
 IXS.w19=IX19;PARAMS.w19=W19K;

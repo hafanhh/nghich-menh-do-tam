@@ -12,7 +12,17 @@ function recSave(){try{localStorage.setItem(REC_KEY,JSON.stringify(REC_MEM))}cat
 export function tierOf(k){return k==="true"?"perfect":(k==="near"?"near":"fail")}
 var TR={fail:1,near:2,perfect:3};
 export function recordRun(k){recLoad();var o=REC_MEM[W.id]||{sk:0,mc:0,mh:0,t:"fail"},m=merit(k).v||0,t=tierOf(k);
-  if(t!=="fail"){o.sk=Math.max(o.sk,S.sk.length);o.mc=Math.max(o.mc,m);o.mh=Math.max(o.mh,(ENDS[k].piece&&S.hao>=100)?1:0)}if(TR[t]>TR[o.t||"fail"])o.t=t;o.pl=1;REC_MEM[W.id]=o;recSave()}
+  if(t!=="fail"){o.sk=Math.max(o.sk,S.sk.length);o.mc=Math.max(o.mc,m);o.mh=Math.max(o.mh,(ENDS[k].piece&&S.hao>=100)?1:0)}if(TR[t]>TR[o.t||"fail"])o.t=t;o.pl=1;
+  /* Dữ liệu cho Tàng Kinh Các và Nhân Quả: số ván, mốc xa nhất, kỹ năng đã học, kết cục đã đạt kèm vài mốc then chốt. */
+  o.runs=(o.runs||0)+1;o.mx=Math.max(o.mx||0,S.i+1);o.skn=o.skn||[];
+  S.sk.forEach(function(x){if(o.skn.indexOf(x.n)<0)o.skn.push(x.n)});
+  o.ends=o.ends||{};var q=o.ends[k]||(o.ends[k]={c:0,key:[]});q.c++;q.key=keyMoments();
+  REC_MEM[W.id]=o;recSave()}
+/* Ba mốc làm Ác niệm, Hắc hóa, Hảo cảm đổi nhiều nhất trong ván này. */
+function keyMoments(){
+  var L=S.log.filter(function(l){return typeof l.n==="number"&&l.d&&!/^Kết cục|không xảy ra/.test(l.t)});
+  var sc=function(l){return Math.abs(l.d.ac||0)+Math.abs(l.d.hac||0)+Math.abs(l.d.hao||0)};
+  return L.sort(function(a,b){return sc(b)-sc(a)}).slice(0,3).sort(function(a,b){return a.n-b.n}).map(function(l){return {n:l.n,t:l.t}})}
 function recPanel(){recLoad();var tot={sk:0,mc:0,mh:0},cnt={perfect:0,near:0,fail:0},TN={perfect:"Trọn vẹn",near:"Gần trọn vẹn",fail:"Chưa đạt"};
   var rows=OPEN.map(function(id){var x=WORLDS[id],o=REC_MEM[id];
     if(!o||!o.pl)return '<div class="rrow off"><b>'+x.name+'</b><span class="rn" style="grid-column:2/-1">Chưa chơi</span></div>';

@@ -61,7 +61,7 @@
   "ends": {
     "true": {
       "n": "Trấn nhỏ, tóc bạc",
-      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Hắn khỏi bệnh. Mùa xuân năm sau, hai người mở một quán trà nhỏ ở trấn Nam Tầm. Hắn pha trà rất dở, cô múa kiếm gỗ cho khách xem. Tóc họ bạc dần dưới cùng một mái hiên.",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Hắn khỏi bệnh. Mùa xuân năm sau, hai người mở một quán trà nhỏ ở trấn Nam Tầm. Hắn pha trà rất dở, bạn múa kiếm gỗ cho khách xem. Tóc họ bạc dần dưới cùng một mái hiên.",
       "gain": 120,
       "piece": 1,
       "heat": 0.1,
@@ -69,7 +69,7 @@
     },
     "near": {
       "n": "Gần như trọn vẹn",
-      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Thỉnh thoảng hắn vẫn đứng ở cửa nhìn theo mỗi khi cô ra chợ, sợ cô không về. Nhưng tối nào hai người cũng ăn cơm cùng nhau.",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Thỉnh thoảng hắn vẫn đứng ở cửa nhìn theo mỗi khi bạn ra chợ, sợ bạn không về. Nhưng tối nào hai người cũng ăn cơm cùng nhau.",
       "gain": 90,
       "piece": 1,
       "heat": 0.35,
@@ -77,7 +77,7 @@
     },
     "half": {
       "n": "Ở lại bên nhau",
-      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hắn không còn là vua, nhưng cái nỗi sợ mất cô vẫn còn nguyên. Cô ở lại, và chọn kiên nhẫn từng ngày.",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Hắn không còn là vua, nhưng cái nỗi sợ mất bạn vẫn còn nguyên. Bạn ở lại, và chọn kiên nhẫn từng ngày.",
       "gain": 60,
       "piece": 0,
       "heat": 0.6,
@@ -85,7 +85,7 @@
     },
     "black": {
       "n": "Bạo quân trọn kiếp",
-      "c": "Hắc hóa chạm 100. Hắn giết sạch những ai từng đứng gần cô, rồi khóa cô trong cung Lâm Nguyệt. Tiểu Châu kéo linh hồn cô đi trước khi cung điện chìm trong lửa.",
+      "c": "Hắc hóa chạm 100. Hắn giết sạch những ai từng đứng gần bạn, rồi khóa bạn trong cung Lâm Nguyệt. Tiểu Châu kéo linh hồn bạn đi trước khi cung điện chìm trong lửa.",
       "gain": 0,
       "piece": 0,
       "heat": 1,
@@ -93,7 +93,7 @@
     },
     "bdead": {
       "n": "Ngai vàng trống",
-      "c": "Sinh mệnh của Tiêu Hàn Uyên về 0. Kiếp này hắn vẫn chết trước cô. Tiếng cuối cùng là tên cô.",
+      "c": "Sinh mệnh của Tiêu Hàn Uyên về 0. Kiếp này hắn vẫn chết trước bạn. Tiếng cuối cùng là tên bạn.",
       "gain": 0,
       "piece": 0,
       "heat": 0.9,
@@ -101,7 +101,7 @@
     },
     "dead": {
       "n": "Vãn Ca vẫn chết",
-      "c": "Sinh mệnh cạn kiệt. Tiểu Châu kéo linh hồn cô ra khỏi lãnh cung trước khi ai kịp đến.",
+      "c": "Sinh mệnh cạn kiệt. Tiểu Châu kéo linh hồn bạn ra khỏi lãnh cung trước khi ai kịp đến.",
       "gain": 0,
       "piece": 0,
       "heat": 0.8,
@@ -115,7 +115,7 @@
       "place": "Lãnh cung Tĩnh Tư, sáng sớm",
       "kind": "chon",
       "title": "Tỉnh dậy ở Tĩnh Tư",
-      "text": "Vãn Ca mở mắt trên chiếc giường gãy chân trong lãnh cung Tĩnh Tư. Mái dột, sân mọc cỏ ngang gối. Ký ức nguyên chủ ùa vào đầu: kiếp trước cô cùng Khang vương và ông nội Lục Chấn lật đổ hoàng đế Tiêu Hàn Uyên, ép hắn uống chén thuốc độc. Kiếp này hắn sống lại, nhớ hết, và đày cô vào đây để trả thù.",
+      "text": "Mở mắt trên chiếc giường gãy chân trong lãnh cung Tĩnh Tư. Mái dột, sân mọc cỏ ngang gối. Ký ức nguyên chủ ùa vào đầu: Lục Vãn Ca, Quý phi, cháu gái lão tướng quân Lục Chấn. Kiếp trước bạn cùng Khang vương và ông nội Lục Chấn lật đổ hoàng đế Tiêu Hàn Uyên, ép hắn uống chén thuốc độc. Kiếp này hắn sống lại, nhớ hết, và đày bạn vào đây để trả thù.",
       "tieu": "Ác niệm 100, Hắc hóa 70, Hảo cảm âm hai mươi. Hắn hận ngươi thật đấy. Nhưng ngươi khóc lóc van xin thì hắn chỉ càng thích hành hạ thôi.",
       "cast": "vc,bd,tc",
       "ch": [
@@ -124,7 +124,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô cùng Bích Đào quét sân, vá mái, kê lại giường. Đến chiều, lãnh cung đã có chỗ ngồi uống trà.",
+            "x": "Bạn cùng Bích Đào quét sân, vá mái, kê lại giường. Đến chiều, lãnh cung đã có chỗ ngồi uống trà.",
             "d": {
               "ac": -3,
               "hao": 3,
@@ -133,7 +133,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Mái dột sập một mảng, bụi phủ kín người cô.",
+            "x": "Mái dột sập một mảng, bụi phủ kín người bạn.",
             "d": {
               "sinh": -6
             }
@@ -144,7 +144,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Bích Đào kể Hạ Thục phi được sủng nhất, còn ông nội cô bị vua chèn ép trên triều. Cô ghi nhớ từng tên.",
+            "x": "Bích Đào kể Hạ Thục phi được sủng nhất, còn ông nội bạn bị vua chèn ép trên triều. Bạn ghi nhớ từng tên.",
             "d": {
               "ac": -2
             },
@@ -152,7 +152,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Bích Đào chỉ biết khóc. Cô phải dỗ cả buổi.",
+            "x": "Bích Đào chỉ biết khóc. Bạn phải dỗ cả buổi.",
             "d": {
               "hao": -1
             }
@@ -186,7 +186,7 @@
       "place": "Lãnh cung Tĩnh Tư, vườn sau",
       "kind": "duyen",
       "title": "Vườn rau và chiếc xích đu",
-      "text": "Một tháng trôi qua. Cô cuốc đất trồng rau, buộc dây thừng lên cành hòe làm xích đu, sáng sáng múa kiếm gỗ giữa sân. Bích Đào lỡ tay đỡ một viên ngói rơi bằng một chiêu gọn gàng: hóa ra cô hầu nhỏ này là cao thủ võ công. Tin Quý phi sống vui trong lãnh cung bay đến tai vua.",
+      "text": "Một tháng trôi qua. Bạn cuốc đất trồng rau, buộc dây thừng lên cành hòe làm xích đu, sáng sáng múa kiếm gỗ giữa sân. Bích Đào lỡ tay đỡ một viên ngói rơi bằng một chiêu gọn gàng: hóa ra cô hầu nhỏ này là cao thủ võ công. Tin Quý phi sống vui trong lãnh cung bay đến tai vua.",
       "tieu": "Hắn nghe tin ngươi vui vẻ thì tức lắm. Hắc hóa lên một chút rồi. Mà kệ, ngươi cứ sống tốt đi, người ta chỉ chịu nhìn kỹ kẻ không sợ mình.",
       "cast": "vc,bd",
       "ch": [
@@ -215,7 +215,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Bích Đào dạy cô cách đứng tấn và rút kiếm. Cô hiểu vì sao trong kiếp trước cô hầu này chết vì bảo vệ chủ.",
+            "x": "Bích Đào dạy bạn cách đứng tấn và rút kiếm. Bạn hiểu vì sao trong kiếp trước cô hầu này chết vì bảo vệ chủ.",
             "d": {
               "ac": -2,
               "hao": 2
@@ -224,7 +224,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô trẹo cổ chân ngay đường đầu tiên.",
+            "x": "Bạn trẹo cổ chân ngay đường đầu tiên.",
             "d": {
               "sinh": -5
             }
@@ -242,7 +242,7 @@
           },
           "b": 0.6,
           "bad": {
-            "x": "Gió lớn, dây xích đu đứt. Cô ngã xuống bãi cỏ.",
+            "x": "Gió lớn, dây xích đu đứt. Bạn ngã xuống bãi cỏ.",
             "d": {
               "hac": 2,
               "hao": -1
@@ -281,7 +281,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Một con rắn cắn trúng tay Bích Đào. Cô phải hút độc suốt đêm.",
+            "x": "Một con rắn cắn trúng tay Bích Đào. Bạn phải hút độc suốt đêm.",
             "d": {
               "sinh": -10,
               "hao": 1
@@ -302,7 +302,7 @@
           },
           "b": 0.45,
           "bad": {
-            "x": "Con rắn quấn lấy cổ tay cô. Cô thả vội, tim đập loạn.",
+            "x": "Con rắn quấn lấy cổ tay bạn. Bạn thả vội, tim đập loạn.",
             "d": {
               "sinh": -8,
               "hac": 2
@@ -314,14 +314,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Rắn bò qua chân cô mà không cắn. Bích Đào ôm cô run cả đêm.",
+            "x": "Rắn bò qua chân bạn mà không cắn. Bích Đào ôm bạn run cả đêm.",
             "d": {
               "ac": -2
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô thiếp đi, tỉnh dậy thấy một con nằm trên gối.",
+            "x": "Bạn thiếp đi, tỉnh dậy thấy một con nằm trên gối.",
             "d": {
               "sinh": -6,
               "hac": 2
@@ -346,7 +346,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Khói mê hương lan khắp sân. Đám thị vệ ngã như rạ. Cô cho người khiêng chúng ra cổng, kèm một tờ giấy: Tĩnh Tư không thiếu người quỳ.",
+            "x": "Khói mê hương lan khắp sân. Đám thị vệ ngã như rạ. Bạn cho người khiêng chúng ra cổng, kèm một tờ giấy: Tĩnh Tư không thiếu người quỳ.",
             "d": {
               "ac": -3,
               "hac": 1,
@@ -356,7 +356,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Gió đổi chiều, khói bay ngược vào mặt Bích Đào. Cô bị lôi ra quỳ suốt hai canh giờ.",
+            "x": "Gió đổi chiều, khói bay ngược vào mặt Bích Đào. Bạn bị lôi ra quỳ suốt hai canh giờ.",
             "d": {
               "sinh": -14,
               "hac": 3
@@ -368,7 +368,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô quỳ thẳng lưng giữa nắng, không một lời xin. Người ghi chép về tâu, vua đập vỡ chén trà.",
+            "x": "Bạn quỳ thẳng lưng giữa nắng, không một lời xin. Người ghi chép về tâu, vua đập vỡ chén trà.",
             "d": {
               "hac": 2,
               "ac": -2,
@@ -377,7 +377,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô ngất giữa sân. Bích Đào cõng cô vào, khóc không thành tiếng.",
+            "x": "Bạn ngất giữa sân. Bích Đào cõng bạn vào, khóc không thành tiếng.",
             "d": {
               "sinh": -16,
               "hac": 3
@@ -397,7 +397,7 @@
           },
           "b": 0.45,
           "bad": {
-            "x": "Bích Đào bị đánh trọng thương. Cô phải xé áo băng bó cho nàng.",
+            "x": "Bích Đào bị đánh trọng thương. Bạn phải xé áo băng bó cho nàng.",
             "d": {
               "sinh": -10,
               "hac": 4
@@ -418,7 +418,7 @@
       "place": "Điện Thái Hòa, buổi chầu sớm",
       "kind": "chon",
       "title": "Ông nội trên triều",
-      "text": "Tin Quý phi bị phạt lọt ra ngoài. Giữa buổi chầu, lão tướng quân Lục Chấn đập gậy xuống nền điện, mắng vua bạc tình. Vua cười lạnh, tước luôn ấn soái của Lục gia. Bích Đào mua chuộc được người đưa thư ra ngoài cho cô.",
+      "text": "Tin Quý phi bị phạt lọt ra ngoài. Giữa buổi chầu, lão tướng quân Lục Chấn đập gậy xuống nền điện, mắng vua bạc tình. Vua cười lạnh, tước luôn ấn soái của Lục gia. Bích Đào mua chuộc được người đưa thư ra ngoài cho bạn.",
       "tieu": "Kiếp trước, chính ông nội ngươi dẫn quân vào cung. Ông càng giận thì cái kết kia càng gần.",
       "cast": "vc,lc,hu",
       "ch": [
@@ -427,7 +427,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô viết: cháu sống tốt, ông đừng vì cháu mà làm điều không quay lại được. Lão tướng quân đọc xong, im lặng trả ấn soái.",
+            "x": "Bạn viết: cháu sống tốt, ông đừng vì cháu mà làm điều không quay lại được. Lão tướng quân đọc xong, im lặng trả ấn soái.",
             "d": {
               "ac": -4,
               "hac": -3
@@ -436,7 +436,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Thư bị chặn lại, vua đọc trước. Hắn nghĩ cô đang ra lệnh cho Lục gia.",
+            "x": "Thư bị chặn lại, vua đọc trước. Hắn nghĩ bạn đang ra lệnh cho Lục gia.",
             "d": {
               "hac": 4
             }
@@ -447,7 +447,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Thư cô dâng lên viết rất ngắn: lỗi là của cháu. Vua đọc đi đọc lại, rồi không truy thêm tội Lục gia.",
+            "x": "Thư bạn dâng lên viết rất ngắn: lỗi là của cháu. Vua đọc đi đọc lại, rồi không truy thêm tội Lục gia.",
             "d": {
               "ac": -3,
               "hao": 3
@@ -497,7 +497,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô băng vết thương, hắn thả Bích Đào. Trước khi đi hắn để lại một mảnh ngọc bội có khắc chữ Khang.",
+            "x": "Bạn băng vết thương, hắn thả Bích Đào. Trước khi đi hắn để lại một mảnh ngọc bội có khắc chữ Khang.",
             "d": {
               "ac": -2,
               "hao": 2
@@ -518,7 +518,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn gục xuống. Cô trói lại, sáng ra giao cho thị vệ. Người trên mái lặng lẽ rời đi.",
+            "x": "Hắn gục xuống. Bạn trói lại, sáng ra giao cho thị vệ. Người trên mái lặng lẽ rời đi.",
             "d": {
               "ac": -2,
               "hac": -1
@@ -526,7 +526,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Mê hương chưa kịp cháy, hắn đã đâm lén. Cô né được nhưng ngã đập đầu.",
+            "x": "Mê hương chưa kịp cháy, hắn đã đâm lén. Bạn né được nhưng ngã đập đầu.",
             "d": {
               "sinh": -10
             }
@@ -537,7 +537,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Thị vệ ập vào bắt người. Đội trưởng nhìn cô một cái rất lạ, như vừa trượt một bài thi.",
+            "x": "Thị vệ ập vào bắt người. Đội trưởng nhìn bạn một cái rất lạ, như vừa trượt một bài thi.",
             "d": {
               "hac": 1
             }
@@ -560,7 +560,7 @@
       "place": "Lãnh cung Tĩnh Tư, tường viện dưới trăng",
       "kind": "duyen",
       "title": "Người đeo mặt nạ",
-      "text": "Từ đêm ấy, cứ canh hai lại có một người đàn ông đeo mặt nạ bạc ngồi trên tường viện, xem cô múa kiếm. Hắn không nói gì, chỉ ngồi đến khi cô dừng. Đêm thứ mười, hắn nhảy xuống, nhặt thanh kiếm gỗ cô làm rơi: ta là Hàn Thất, thị vệ trong cung.",
+      "text": "Từ đêm ấy, cứ canh hai lại có một người đàn ông đeo mặt nạ bạc ngồi trên tường viện, xem bạn múa kiếm. Hắn không nói gì, chỉ ngồi đến khi bạn dừng. Đêm thứ mười, hắn nhảy xuống, nhặt thanh kiếm gỗ bạn làm rơi: ta là Hàn Thất, thị vệ trong cung.",
       "tieu": "Giọng hắn trầm, tay có vết chai cầm bút nhiều hơn cầm kiếm. Ngươi đoán thử xem thị vệ nào lại đi giày thêu rồng?",
       "cast": "vc,ht",
       "ch": [
@@ -569,7 +569,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Hai thanh kiếm gỗ chạm nhau dưới trăng. Hắn chỉ cho cô một thế xoay cổ tay. Lần đầu tiên, trong mắt hắn không có hận.",
+            "x": "Hai thanh kiếm gỗ chạm nhau dưới trăng. Hắn chỉ cho bạn một thế xoay cổ tay. Lần đầu tiên, trong mắt hắn không có hận.",
             "d": {
               "ac": -5,
               "hao": 6,
@@ -578,7 +578,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Cô vụng về, kiếm gỗ quất trúng mặt nạ của hắn. Hắn lùi lại, lạnh như băng.",
+            "x": "Bạn vụng về, kiếm gỗ quất trúng mặt nạ của hắn. Hắn lùi lại, lạnh như băng.",
             "d": {
               "hac": 3,
               "hao": -2
@@ -590,7 +590,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn nói: xem người bị đày còn cười được bao lâu. Cô đáp: lâu hơn người đày ta. Hắn bật cười.",
+            "x": "Hắn nói: xem người bị đày còn cười được bao lâu. Bạn đáp: lâu hơn người đày ta. Hắn bật cười.",
             "d": {
               "ac": -3,
               "hao": 4
@@ -638,7 +638,7 @@
       "place": "Cung Thần Hi của Hạ Thục phi",
       "kind": "chon",
       "title": "Lời khuyên của Hạ Thục phi",
-      "text": "Ở cung Thần Hi, Hạ Thục phi vừa đấm vai cho vua vừa thủ thỉ: giết một người thì dễ, khiến người ấy yêu mình rồi vứt bỏ mới là đau. Vua im lặng rất lâu. Đêm đó, Tiểu Châu kể lại tất cả cho cô nghe, kèm một câu: Hàn Thất chính là hắn.",
+      "text": "Ở cung Thần Hi, Hạ Thục phi vừa đấm vai cho vua vừa thủ thỉ: giết một người thì dễ, khiến người ấy yêu mình rồi vứt bỏ mới là đau. Vua im lặng rất lâu. Đêm đó, Tiểu Châu kể lại tất cả cho bạn nghe, kèm một câu: Hàn Thất chính là hắn.",
       "tieu": "Giờ ngươi biết rồi, giữ bí mật đi. Hắn diễn thì ngươi diễn, ai diễn hay hơn thì thắng.",
       "cast": "vc,htp,hu,tc",
       "ch": [
@@ -647,7 +647,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Đêm sau cô vẫn để sẵn chén trà trên tường. Hắn đến sớm hơn mọi khi.",
+            "x": "Đêm sau bạn vẫn để sẵn chén trà trên tường. Hắn đến sớm hơn mọi khi.",
             "d": {
               "ac": -4,
               "hao": 5,
@@ -657,7 +657,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Cô lỡ lời gọi hắn là bệ hạ. Hắn khựng lại, may mà cô chữa được: ta mơ ngủ.",
+            "x": "Bạn lỡ lời gọi hắn là bệ hạ. Hắn khựng lại, may mà bạn chữa được: ta mơ ngủ.",
             "d": {
               "hac": 3
             }
@@ -668,7 +668,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Bích Đào nghe được Thục phi đang mua chuộc thái y Tôn. Cô ghi lại tên người.",
+            "x": "Bích Đào nghe được Thục phi đang mua chuộc thái y Tôn. Bạn ghi lại tên người.",
             "d": {
               "ac": -2
             },
@@ -712,7 +712,7 @@
       "place": "Lãnh cung Tĩnh Tư, bên bếp lửa",
       "kind": "duyen",
       "title": "Nói xấu bạo quân",
-      "text": "Hàn Thất ngồi nướng khoai với hai chủ tớ. Hắn hỏi như vô tình: cô hận vua lắm phải không?",
+      "text": "Hàn Thất ngồi nướng khoai với hai chủ tớ. Hắn hỏi như vô tình: bạn hận vua lắm phải không?",
       "tieu": "Câu này là bẫy. Ngươi nói gì, hắn cũng sẽ nhớ suốt đời.",
       "cast": "vc,ht,bd",
       "ch": [
@@ -721,7 +721,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô kể một tràng: hắn ăn cá không ăn da, đọc tấu chương tới canh tư, cau mày đến nỗi có nếp nhăn. Hàn Thất cúi đầu, vai rung lên vì nhịn cười.",
+            "x": "Bạn kể một tràng: hắn ăn cá không ăn da, đọc tấu chương tới canh tư, cau mày đến nỗi có nếp nhăn. Hàn Thất cúi đầu, vai rung lên vì nhịn cười.",
             "d": {
               "ac": -5,
               "hao": 6,
@@ -730,7 +730,7 @@
           },
           "b": 0.6,
           "bad": {
-            "x": "Cô chê hơi quá tay. Hắn ném củ khoai vào lửa rồi bỏ về.",
+            "x": "Bạn chê hơi quá tay. Hắn ném củ khoai vào lửa rồi bỏ về.",
             "d": {
               "hac": 3,
               "hao": -3
@@ -742,7 +742,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô nói tiếc vì đã đi sai một bước, giờ chẳng ai tin. Hàn Thất nhìn lửa rất lâu.",
+            "x": "Bạn nói tiếc vì đã đi sai một bước, giờ chẳng ai tin. Hàn Thất nhìn lửa rất lâu.",
             "d": {
               "ac": -5,
               "hac": -3,
@@ -769,7 +769,7 @@
           },
           "b": 0.6,
           "bad": {
-            "x": "Cô làm cháy cả mẻ khoai. Hắn bỏ về sớm.",
+            "x": "Bạn làm cháy cả mẻ khoai. Hắn bỏ về sớm.",
             "d": {
               "hac": 2,
               "hao": -1
@@ -794,7 +794,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô ngồi bên cửa sổ cả đêm, tay vân vê mảnh mặt nạ gỗ hắn tặng. Sáng ra, hắn xuất hiện, áo còn ướt sương.",
+            "x": "Bạn ngồi bên cửa sổ cả đêm, tay vân vê mảnh mặt nạ gỗ hắn tặng. Sáng ra, hắn xuất hiện, áo còn ướt sương.",
             "d": {
               "ac": -6,
               "hao": 7,
@@ -804,7 +804,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Cô diễn hơi lố. Trên mái có tiếng thở dài rất khẽ.",
+            "x": "Bạn diễn hơi lố. Trên mái có tiếng thở dài rất khẽ.",
             "d": {
               "hac": 2,
               "hao": -1
@@ -844,7 +844,7 @@
           },
           "b": 0.35,
           "bad": {
-            "x": "Hắn tin là cô chẳng hề bận lòng. Mấy đêm liền hắn không đến.",
+            "x": "Hắn tin là bạn chẳng hề bận lòng. Mấy đêm liền hắn không đến.",
             "d": {
               "hac": 4,
               "hao": -3
@@ -874,7 +874,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô cài hoa, nói: đi đâu cũng được, miễn không phải về cung Thần Hi. Hắn cười, lần đầu cười trọn vẹn.",
+            "x": "Bạn cài hoa, nói: đi đâu cũng được, miễn không phải về cung Thần Hi. Hắn cười, lần đầu cười trọn vẹn.",
             "d": {
               "ac": -6,
               "hao": 8,
@@ -883,7 +883,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Cành đào gãy đôi trong tay cô. Hắn nhìn mảnh gãy, mặt tối lại.",
+            "x": "Cành đào gãy đôi trong tay bạn. Hắn nhìn mảnh gãy, mặt tối lại.",
             "d": {
               "hac": 3
             }
@@ -944,7 +944,7 @@
       "place": "Điện Ngự Hoa, yến tiệc Trung thu",
       "kind": "nan",
       "title": "Yến tiệc Trung thu",
-      "text": "Đêm Trung thu, vua cho gọi Quý phi lãnh cung đến yến, bắt cô mặc áo cung nữ, quỳ rót rượu trước mặt các phi tần. Hạ Thục phi che miệng cười. Cả điện chờ xem cô khóc.",
+      "text": "Đêm Trung thu, vua cho gọi Quý phi lãnh cung đến yến, bắt bạn mặc áo cung nữ, quỳ rót rượu trước mặt các phi tần. Hạ Thục phi che miệng cười. Cả điện chờ xem bạn khóc.",
       "tieu": "Hắn làm vậy là để chứng tỏ với chính hắn rằng hắn không mềm lòng. Đừng để hắn thắng, mà cũng đừng làm hắn mất mặt.",
       "cast": "vc,hu,htp",
       "ch": [
@@ -953,7 +953,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô mượn kiếm thị vệ, múa giữa điện. Áo cung nữ tung bay như cánh hạc. Lúc dừng, cả điện lặng ngắt, chỉ có vua vỗ tay một mình.",
+            "x": "Bạn mượn kiếm thị vệ, múa giữa điện. Áo cung nữ tung bay như cánh hạc. Lúc dừng, cả điện lặng ngắt, chỉ có vua vỗ tay một mình.",
             "d": {
               "ac": -6,
               "hao": 7,
@@ -975,7 +975,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô nói đủ cho mỗi Thục phi nghe: chén này ta rót, kiếp sau nàng rót trả. Thục phi đánh đổ chén, bị vua mắng thất lễ.",
+            "x": "Bạn nói đủ cho mỗi Thục phi nghe: chén này ta rót, kiếp sau nàng rót trả. Thục phi đánh đổ chén, bị vua mắng thất lễ.",
             "d": {
               "ac": -3,
               "hao": 3
@@ -984,7 +984,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Thục phi kêu cô hắt rượu vào váy mình. Vua phạt cô quỳ đến tàn yến.",
+            "x": "Thục phi kêu bạn hắt rượu vào váy mình. Vua phạt bạn quỳ đến tàn yến.",
             "d": {
               "sinh": -10,
               "hac": 3
@@ -996,14 +996,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô rót xong thì lui ra. Vua nhìn theo bóng áo xám, chén rượu trên tay không uống.",
+            "x": "Bạn rót xong thì lui ra. Vua nhìn theo bóng áo xám, chén rượu trên tay không uống.",
             "d": {
               "ac": -1
             }
           },
           "b": 0.6,
           "bad": {
-            "x": "Thục phi thò chân ngáng, cô đổ rượu lên áo vua.",
+            "x": "Thục phi thò chân ngáng, bạn đổ rượu lên áo vua.",
             "d": {
               "hac": 2,
               "hao": -1
@@ -1019,7 +1019,7 @@
       "place": "Lãnh cung Tĩnh Tư, mỗi sáng",
       "kind": "hiem",
       "title": "Bát canh an thần",
-      "text": "Sau đêm yến, tổng quản Lưu Hỉ đích thân mang đến một bát canh an thần, nói là vua ban, ngày nào cũng có. Canh thơm mùi táo đỏ. Uống được vài hôm, cô thấy người uể oải, tay cầm kiếm không còn vững.",
+      "text": "Sau đêm yến, tổng quản Lưu Hỉ đích thân mang đến một bát canh an thần, nói là vua ban, ngày nào cũng có. Canh thơm mùi táo đỏ. Uống được vài hôm, bạn thấy người uể oải, tay cầm kiếm không còn vững.",
       "tieu": "Canh này có vị lạ. Ta không nhìn ra là gì, nhưng uống mãi sẽ không tốt đâu.",
       "cast": "vc,lh,bd",
       "ch": [
@@ -1028,7 +1028,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Con chuột ngủ li bì ba ngày. Từ đó cô vẫn nhận canh, nhưng đổ vào gốc hòe. Lưu Hỉ không hay biết.",
+            "x": "Con chuột ngủ li bì ba ngày. Từ đó bạn vẫn nhận canh, nhưng đổ vào gốc hòe. Lưu Hỉ không hay biết.",
             "d": {
               "ac": -1
             },
@@ -1036,7 +1036,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Con chuột vẫn chạy nhảy bình thường. Cô cho là mình đa nghi.",
+            "x": "Con chuột vẫn chạy nhảy bình thường. Bạn cho là mình đa nghi.",
             "d": {
               "am": 6
             }
@@ -1047,7 +1047,7 @@
           "h": "Chắc chắn",
           "s": null,
           "ok": {
-            "x": "Cô uống cạn. Lưu Hỉ về tâu: Quý phi uống ngoan lắm. Vua không nói gì, chỉ ngồi lặng rất lâu.",
+            "x": "Bạn uống cạn. Lưu Hỉ về tâu: Quý phi uống ngoan lắm. Vua không nói gì, chỉ ngồi lặng rất lâu.",
             "d": {
               "am": 8,
               "hao": 2
@@ -1059,7 +1059,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Lưu Hỉ cười hiền: táo đỏ, long nhãn, và một vị thuốc của Thái y viện. Cô nhớ tên vị thuốc ấy.",
+            "x": "Lưu Hỉ cười hiền: táo đỏ, long nhãn, và một vị thuốc của Thái y viện. Bạn nhớ tên vị thuốc ấy.",
             "d": {
               "am": 4
             },
@@ -1067,7 +1067,7 @@
           },
           "b": 0.45,
           "bad": {
-            "x": "Lưu Hỉ không đáp, chỉ đứng chờ cô uống hết.",
+            "x": "Lưu Hỉ không đáp, chỉ đứng chờ bạn uống hết.",
             "d": {
               "am": 8,
               "hac": 1
@@ -1083,7 +1083,7 @@
       "place": "Lãnh cung Tĩnh Tư, sân giữa",
       "kind": "duyen",
       "title": "Tụ Linh Trận",
-      "text": "Tiểu Châu dạy cô một trận pháp dệt mộng: tám viên đá xếp theo quẻ, một ngọn nến ở giữa, và một vật mang hơi thở của người nằm mơ. Có thể dệt cho hắn một giấc mơ về kiếp trước, nhưng kể lại thế nào là do cô chọn.",
+      "text": "Tiểu Châu dạy bạn một trận pháp dệt mộng: tám viên đá xếp theo quẻ, một ngọn nến ở giữa, và một vật mang hơi thở của người nằm mơ. Có thể dệt cho hắn một giấc mơ về kiếp trước, nhưng kể lại thế nào là do bạn chọn.",
       "tieu": "Gom đủ linh khí mất ba đêm. Ngươi cần một món đồ của hắn, cái mặt nạ là tốt nhất.",
       "cast": "vc,tc",
       "ch": [
@@ -1100,7 +1100,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Một viên đá nứt đôi. Phải làm lại từ đầu, cô kiệt sức.",
+            "x": "Một viên đá nứt đôi. Phải làm lại từ đầu, bạn kiệt sức.",
             "d": {
               "sinh": -8
             }
@@ -1111,7 +1111,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô nói muốn vẽ lại hoa văn. Hắn tháo mặt nạ trao cho cô, quay lưng đi để cô không thấy mặt.",
+            "x": "Bạn nói muốn vẽ lại hoa văn. Hắn tháo mặt nạ trao cho bạn, quay lưng đi để bạn không thấy mặt.",
             "d": {
               "ac": -3,
               "hao": 4
@@ -1131,7 +1131,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Tiểu Châu kể: kiếp trước nàng chưa từng được hắn nhìn một lần, nên đã theo người khác. Cô hiểu mình phải dệt giấc mơ ra sao.",
+            "x": "Tiểu Châu kể: kiếp trước nàng chưa từng được hắn nhìn một lần, nên đã theo người khác. Bạn hiểu mình phải dệt giấc mơ ra sao.",
             "d": {
               "ac": -2,
               "hac": -2
@@ -1139,7 +1139,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Tiểu Châu ấp úng không kể hết. Cô phải tự đoán.",
+            "x": "Tiểu Châu ấp úng không kể hết. Bạn phải tự đoán.",
             "d": {}
           }
         }
@@ -1208,7 +1208,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô thổi tắt nến. Có những thứ không nên đổi trong lòng người khác.",
+            "x": "Bạn thổi tắt nến. Có những thứ không nên đổi trong lòng người khác.",
             "d": {
               "ac": -2,
               "hao": 1
@@ -1216,7 +1216,7 @@
           },
           "b": 0.6,
           "bad": {
-            "x": "Ngọn nến đổ, cháy sém tay cô.",
+            "x": "Ngọn nến đổ, cháy sém tay bạn.",
             "d": {
               "hac": 2,
               "hao": -1
@@ -1263,7 +1263,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô bắt hắn hứa không giết người vô tội nữa. Hắn hứa, rồi mới vén khăn.",
+            "x": "Bạn bắt hắn hứa không giết người vô tội nữa. Hắn hứa, rồi mới vén khăn.",
             "d": {
               "ac": -7,
               "hac": -4,
@@ -1293,7 +1293,7 @@
           },
           "b": 0.6,
           "bad": {
-            "x": "Hắn nghĩ cô đang tìm cớ từ chối.",
+            "x": "Hắn nghĩ bạn đang tìm cớ từ chối.",
             "d": {
               "hac": 2,
               "hao": -1
@@ -1309,7 +1309,7 @@
       "place": "Lãnh cung Tĩnh Tư, buổi chiều",
       "kind": "hiem",
       "title": "Khang vương ở lãnh cung",
-      "text": "Khang vương Tiêu Cẩn, em trai vua, lẻn vào lãnh cung. Áo trắng, quạt ngọc, giọng dịu như nước: Vãn Ca, ta đến muộn. Hắn ôm chầm lấy cô. Tiểu Châu hét: tay hắn vừa sờ vào đâu là ta thấy ác ý đến đó.",
+      "text": "Khang vương Tiêu Cẩn, em trai vua, lẻn vào lãnh cung. Áo trắng, quạt ngọc, giọng dịu như nước: Vãn Ca, ta đến muộn. Hắn ôm chầm lấy bạn. Tiểu Châu hét: tay hắn vừa sờ vào đâu là ta thấy ác ý đến đó.",
       "tieu": "Hắn cần Lục gia hơn cần ngươi. Từ chối thì hắn mất mặt, nhưng nhận lời thì vua sẽ biết.",
       "cast": "vc,kv,tc",
       "ch": [
@@ -1318,7 +1318,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô lùi hai bước: Khang vương quên đây là hậu cung của hoàng huynh sao. Hắn đỏ mặt, nhưng vẫn cười dịu. Cô nhờ hắn chuyển lời bình an cho ông nội.",
+            "x": "Bạn lùi hai bước: Khang vương quên đây là hậu cung của hoàng huynh sao. Hắn đỏ mặt, nhưng vẫn cười dịu. Bạn nhờ hắn chuyển lời bình an cho ông nội.",
             "d": {
               "ac": -3,
               "hac": -2
@@ -1327,7 +1327,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Hắn nắm cổ tay cô không buông. Đúng lúc đó có tiếng bước chân ngoài cổng.",
+            "x": "Hắn nắm cổ tay bạn không buông. Đúng lúc đó có tiếng bước chân ngoài cổng.",
             "d": {
               "hac": 4
             }
@@ -1348,7 +1348,7 @@
           },
           "b": 0.45,
           "bad": {
-            "x": "Hắn bắt được tay cô, kéo mạnh. Cô ngã đập vai vào cột.",
+            "x": "Hắn bắt được tay bạn, kéo mạnh. Bạn ngã đập vai vào cột.",
             "d": {
               "sinh": -8,
               "hac": 2
@@ -1360,7 +1360,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn buột miệng: ông nội muội chỉ cần một cớ. Cô hiểu hắn định làm gì.",
+            "x": "Hắn buột miệng: ông nội muội chỉ cần một cớ. Bạn hiểu hắn định làm gì.",
             "d": {
               "ac": -2
             },
@@ -1368,7 +1368,7 @@
           },
           "b": 0.45,
           "bad": {
-            "x": "Hắn tin cô vẫn còn tình cũ. Đêm đó Hắc hóa của vua vọt lên.",
+            "x": "Hắn tin bạn vẫn còn tình cũ. Đêm đó Hắc hóa của vua vọt lên.",
             "d": {
               "hac": 6,
               "hao": -4
@@ -1393,7 +1393,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Hai người lưng tựa lưng giữa sân. Kiếm của cô chậm, nhưng đủ chặn một nhát đâm sau lưng hắn.",
+            "x": "Hai người lưng tựa lưng giữa sân. Kiếm của bạn chậm, nhưng đủ chặn một nhát đâm sau lưng hắn.",
             "d": {
               "ac": -5,
               "hac": -3,
@@ -1404,7 +1404,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô bị chém trúng cánh tay. Hàn Thất phát cuồng, giết sạch không chừa ai.",
+            "x": "Bạn bị chém trúng cánh tay. Hàn Thất phát cuồng, giết sạch không chừa ai.",
             "d": {
               "sinh": -18,
               "hac": 6,
@@ -1447,7 +1447,7 @@
           },
           "b": 0.45,
           "bad": {
-            "x": "Một tên đuổi theo vào tận trong. Bích Đào đỡ thay cô một nhát.",
+            "x": "Một tên đuổi theo vào tận trong. Bích Đào đỡ thay bạn một nhát.",
             "d": {
               "sinh": -12,
               "bs": -6,
@@ -1464,7 +1464,7 @@
       "place": "Lãnh cung Tĩnh Tư, sân đầy máu",
       "kind": "nan",
       "title": "Chiếc mặt nạ rơi",
-      "text": "Trận đánh sắp tàn. Hàn Thất quay lưng về phía cô, mặt nạ lỏng dây. Tiểu Châu nói: giờ là lúc. Để hắn tự tháo thì hắn sẽ mãi đứng trên. Ngươi giật xuống thì hắn phải đứng dưới.",
+      "text": "Trận đánh sắp tàn. Hàn Thất quay lưng về phía bạn, mặt nạ lỏng dây. Tiểu Châu nói: giờ là lúc. Để hắn tự tháo thì hắn sẽ mãi đứng trên. Ngươi giật xuống thì hắn phải đứng dưới.",
       "tieu": "Giật ra rồi, nhớ là phải giận cho thật. Hắn đã lừa ngươi mấy tháng trời.",
       "cast": "vc,hu,bd",
       "ch": [
@@ -1473,7 +1473,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Mặt nạ rơi xuống vũng máu. Cô kề kiếm vào cổ hắn: hoàng thượng diễn đủ chưa. Cút khỏi Tĩnh Tư của ta. Hắn lùi từng bước, mặt trắng bệch.",
+            "x": "Mặt nạ rơi xuống vũng máu. Bạn kề kiếm vào cổ hắn: hoàng thượng diễn đủ chưa. Cút khỏi Tĩnh Tư của ta. Hắn lùi từng bước, mặt trắng bệch.",
             "d": {
               "ac": -4,
               "hao": 2
@@ -1482,7 +1482,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô run tay, kiếm rơi. Hắn nhặt mặt nạ đeo lại, như chưa có gì xảy ra.",
+            "x": "Bạn run tay, kiếm rơi. Hắn nhặt mặt nạ đeo lại, như chưa có gì xảy ra.",
             "d": {
               "hac": 3,
               "hao": -3
@@ -1494,7 +1494,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Hắn tự tháo mặt nạ, quỳ một gối: ta xin lỗi. Cô quay lưng vào điện, không nói gì.",
+            "x": "Hắn tự tháo mặt nạ, quỳ một gối: ta xin lỗi. Bạn quay lưng vào điện, không nói gì.",
             "d": {
               "ac": -5,
               "hao": 3
@@ -1521,7 +1521,7 @@
           },
           "b": 0.35,
           "bad": {
-            "x": "Hắn gỡ tay cô ra, lạnh lùng bỏ đi.",
+            "x": "Hắn gỡ tay bạn ra, lạnh lùng bỏ đi.",
             "d": {
               "hao": -6,
               "hac": 4
@@ -1538,7 +1538,7 @@
       "place": "Lãnh cung Tĩnh Tư, trưa hôm sau",
       "kind": "chon",
       "title": "Cái tát ở Tĩnh Tư",
-      "text": "Vua quay lại, lần này không đeo mặt nạ, đi sau là cả đoàn thái giám. Lưu Hỉ quát: Quý phi to gan, sao không hành lễ. Cô vẫn ngồi cắn hạt dưa. Vua quát lại Lưu Hỉ: câm miệng. Rồi hắn đuổi hết người ra ngoài.",
+      "text": "Vua quay lại, lần này không đeo mặt nạ, đi sau là cả đoàn thái giám. Lưu Hỉ quát: Quý phi to gan, sao không hành lễ. Bạn vẫn ngồi cắn hạt dưa. Vua quát lại Lưu Hỉ: câm miệng. Rồi hắn đuổi hết người ra ngoài.",
       "tieu": "Hắn đến xin lỗi, nhưng không biết xin lỗi. Ngươi dạy hắn đi.",
       "cast": "vc,hu,lh",
       "ch": [
@@ -1557,7 +1557,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Hắn bắt được cổ tay cô, siết chặt. Rồi buông ra, bỏ đi.",
+            "x": "Hắn bắt được cổ tay bạn, siết chặt. Rồi buông ra, bỏ đi.",
             "d": {
               "hac": 4,
               "hao": -2
@@ -1615,7 +1615,7 @@
       "place": "Ngự hoa viên, hồ sen mùa đông",
       "kind": "hiem",
       "title": "Hồ sen mùa đông",
-      "text": "Ở cung Lâm Nguyệt chưa được mười ngày, Hạ Thục phi chặn đường cô bên hồ sen. Nói được hai câu, nàng ta tự ngả người xuống hồ, kêu cứu: Quý phi đẩy ta. Đám cung nhân sợ hãi nhìn cô.",
+      "text": "Ở cung Lâm Nguyệt chưa được mười ngày, Hạ Thục phi chặn đường bạn bên hồ sen. Nói được hai câu, nàng ta tự ngả người xuống hồ, kêu cứu: Quý phi đẩy ta. Đám cung nhân sợ hãi nhìn bạn.",
       "tieu": "Thục phi lớn lên ở Giang Nam, bơi giỏi hơn cá. Ngươi chỉ cần chờ.",
       "cast": "vc,htp,bd",
       "ch": [
@@ -1624,7 +1624,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô hỏi Bích Đào: Thục phi rơi xuống bao lâu rồi. Đã hai tuần trà. Rơi xuống hai tuần trà mà chưa chìm. Thục phi đỏ mặt bơi vào bờ.",
+            "x": "Bạn hỏi Bích Đào: Thục phi rơi xuống bao lâu rồi. Đã hai tuần trà. Rơi xuống hai tuần trà mà chưa chìm. Thục phi đỏ mặt bơi vào bờ.",
             "d": {
               "ac": -3,
               "hao": 3
@@ -1633,7 +1633,7 @@
           },
           "b": 0.6,
           "bad": {
-            "x": "Thục phi ngất thật vì nước lạnh. Mọi người đổ lỗi cho cô.",
+            "x": "Thục phi ngất thật vì nước lạnh. Mọi người đổ lỗi cho bạn.",
             "d": {
               "hac": 3,
               "sinh": -4
@@ -1645,7 +1645,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô kéo Thục phi vào bờ trước mặt mọi người. Ai cũng thấy ai mới là người cứu.",
+            "x": "Bạn kéo Thục phi vào bờ trước mặt mọi người. Ai cũng thấy ai mới là người cứu.",
             "d": {
               "ac": -2,
               "hao": 2,
@@ -1654,7 +1654,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Nước lạnh cắt da, cô bị chuột rút. Bích Đào phải nhảy xuống kéo cả hai.",
+            "x": "Nước lạnh cắt da, bạn bị chuột rút. Bích Đào phải nhảy xuống kéo cả hai.",
             "d": {
               "sinh": -14
             }
@@ -1688,7 +1688,7 @@
       "place": "Cung Lâm Nguyệt, buổi trưa",
       "kind": "chon",
       "title": "Tin có thai",
-      "text": "Lưu Hỉ hớt hải chạy vào: cung Thần Hi báo tin, Thục phi có thai ba tháng. Vua tái mặt quay sang nhìn cô. Hắn nói ngay: trẫm không, trẫm chưa từng. Cô không biết hắn nói thật hay không.",
+      "text": "Lưu Hỉ hớt hải chạy vào: cung Thần Hi báo tin, Thục phi có thai ba tháng. Vua tái mặt quay sang nhìn bạn. Hắn nói ngay: trẫm không, trẫm chưa từng. Bạn không biết hắn nói thật hay không.",
       "tieu": "Ta xem rồi, bụng Thục phi không có gì. Thái y bắt mạch cho nàng ta là người nàng ta mua.",
       "cast": "vc,hu,htp,lh",
       "ch": [
@@ -1719,7 +1719,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô cầm cổ tay Thục phi trước mặt vua: mạch phẳng, không có thai. Thục phi run như cầy sấy.",
+            "x": "Bạn cầm cổ tay Thục phi trước mặt vua: mạch phẳng, không có thai. Thục phi run như cầy sấy.",
             "d": {
               "ac": -3,
               "hao": 5
@@ -1739,7 +1739,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn đứng ngoài cửa cả đêm, gõ ba tiếng một lần như sợ làm cô giật mình.",
+            "x": "Hắn đứng ngoài cửa cả đêm, gõ ba tiếng một lần như sợ làm bạn giật mình.",
             "d": {
               "hao": 2
             }
@@ -1767,7 +1767,7 @@
       "place": "Hậu cung, sau lệnh của vua",
       "kind": "nan",
       "title": "Lệnh xử phạt hậu cung",
-      "text": "Triệu tiệp dư vô ý va phải cô ở hành lang, cô trượt chân ngã. Hôm sau vua hạ lệnh đánh Triệu tiệp dư năm mươi trượng, và tra xét mọi phi tần từng gây khó dễ cho Quý phi. Cả hậu cung sợ đến không dám thở mạnh.",
+      "text": "Triệu tiệp dư vô ý va phải bạn ở hành lang, bạn trượt chân ngã. Hôm sau vua hạ lệnh đánh Triệu tiệp dư năm mươi trượng, và tra xét mọi phi tần từng gây khó dễ cho Quý phi. Cả hậu cung sợ đến không dám thở mạnh.",
       "tieu": "Hắn làm thế để bảo vệ ngươi, nhưng tạo nghiệt thì Ác niệm không giảm được.",
       "cast": "vc,hu,tt",
       "ch": [
@@ -1776,7 +1776,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô quỳ trước điện, nói: chàng hứa không giết người vô tội. Hắn ra đỡ cô dậy, hủy lệnh, cho các phi tần muốn về nhà được xuất cung.",
+            "x": "Bạn quỳ trước điện, nói: chàng hứa không giết người vô tội. Hắn ra đỡ bạn dậy, hủy lệnh, cho các phi tần muốn về nhà được xuất cung.",
             "d": {
               "ac": -8,
               "hac": -5,
@@ -1797,7 +1797,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô mang thuốc đến cung Triệu tiệp dư, nói trước mặt người của vua: ta tự ngã. Lệnh được thu lại.",
+            "x": "Bạn mang thuốc đến cung Triệu tiệp dư, nói trước mặt người của vua: ta tự ngã. Lệnh được thu lại.",
             "d": {
               "ac": -6,
               "hac": -3,
@@ -1842,7 +1842,7 @@
       "place": "Điện Thái Hòa, ngày đại lễ",
       "kind": "duyen",
       "title": "Lập hậu, giải tán hậu cung",
-      "text": "Vua hạ chiếu lập Lục Vãn Ca làm hoàng hậu, đồng thời cho toàn bộ phi tần xuất cung, ban vàng bạc về nhà. Triều thần sôi sục, gọi cô là yêu hậu. Lục gia từ chỗ bị chèn ép thành cái đích cho cả triều nhắm vào. Đêm đại lễ, hắn hỏi cô muốn gì.",
+      "text": "Vua hạ chiếu lập bạn làm hoàng hậu, đồng thời cho toàn bộ phi tần xuất cung, ban vàng bạc về nhà. Triều thần sôi sục, gọi bạn là yêu hậu. Lục gia từ chỗ bị chèn ép thành cái đích cho cả triều nhắm vào. Đêm đại lễ, hắn hỏi bạn muốn gì.",
       "tieu": "Kiếp trước, ngai vàng là thứ làm hắn chết. Kiếp này, ngươi có thể xin hắn thứ khác.",
       "cast": "vc,hu,lc",
       "ch": [
@@ -1873,7 +1873,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn trả, kèm một chiếu chỉ cho Lục gia giữ thành phía bắc. Ông nội cô gửi vào một câu: cháu ta chọn đúng người.",
+            "x": "Hắn trả, kèm một chiếu chỉ cho Lục gia giữ thành phía bắc. Ông nội bạn gửi vào một câu: cháu ta chọn đúng người.",
             "d": {
               "ac": -4,
               "hao": 4
@@ -1924,7 +1924,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Mẹ cô nói: Khang vương gửi qua người hầu. Cô cất gói bột vào tay áo, biết mình sắp phải gặp ai.",
+            "x": "Mẹ bạn nói: Khang vương gửi qua người hầu. Bạn cất gói bột vào tay áo, biết mình sắp phải gặp ai.",
             "d": {
               "am": -10,
               "ac": -2
@@ -1933,7 +1933,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Mẹ cô không chịu nói, chỉ khóc. Cô giữ gói bột, lòng rối như tơ.",
+            "x": "Mẹ bạn không chịu nói, chỉ khóc. Bạn giữ gói bột, lòng rối như tơ.",
             "d": {
               "hac": 2
             }
@@ -1944,7 +1944,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn quỳ xuống trước mặt cô: trẫm sai, từ đêm giấc mơ trẫm đã cho dừng. Hắn sai thái y viện điều thuốc giải ngay trong đêm.",
+            "x": "Hắn quỳ xuống trước mặt bạn: trẫm sai, từ đêm giấc mơ trẫm đã cho dừng. Hắn sai thái y viện điều thuốc giải ngay trong đêm.",
             "d": {
               "am": -20,
               "ac": -6,
@@ -1967,7 +1967,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Gói bột cháy thành khói xanh. Cô quyết không để chuyện cũ ăn mòn chuyện mới.",
+            "x": "Gói bột cháy thành khói xanh. Bạn quyết không để chuyện cũ ăn mòn chuyện mới.",
             "d": {
               "am": -4,
               "ac": -2
@@ -1975,7 +1975,7 @@
           },
           "b": 0.6,
           "bad": {
-            "x": "Khói xanh làm cô ho sặc sụa cả đêm.",
+            "x": "Khói xanh làm bạn ho sặc sụa cả đêm.",
             "d": {
               "hac": 2,
               "hao": -1
@@ -1996,7 +1996,7 @@
       "place": "Chùa Thanh Liên, phòng khách sau chánh điện",
       "kind": "chon",
       "title": "Chùa Thanh Liên lần một",
-      "text": "Mẹ hẹn cô lên chùa Thanh Liên dâng hương. Trong phòng khách sau chánh điện, người chờ cô không phải mẹ mà là Khang vương. Hắn rót trà, cười hiền: hoàng tẩu, cho thần đệ nói một câu.",
+      "text": "Mẹ hẹn bạn lên chùa Thanh Liên dâng hương. Trong phòng khách sau chánh điện, người chờ bạn không phải mẹ mà là Khang vương. Hắn rót trà, cười hiền: hoàng tẩu, cho thần đệ nói một câu.",
       "tieu": "Phòng này cách âm, ảnh vệ của vua không nghe được. Nhưng mùi đàn hương của hắn thì sẽ bám lên áo ngươi.",
       "cast": "vc,kv,tc",
       "ch": [
@@ -2013,7 +2013,7 @@
           },
           "b": 0.55,
           "bad": {
-            "x": "Hắn chối, nụ cười không đổi. Cô không moi được gì.",
+            "x": "Hắn chối, nụ cười không đổi. Bạn không moi được gì.",
             "d": {
               "hac": 1
             }
@@ -2024,7 +2024,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô đặt gói bột lên bàn: cái này của vương gia. Hắn biến sắc, rồi bật cười: muội thật khác xưa.",
+            "x": "Bạn đặt gói bột lên bàn: cái này của vương gia. Hắn biến sắc, rồi bật cười: muội thật khác xưa.",
             "d": {
               "ac": -2,
               "hac": -1
@@ -2043,7 +2043,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô về đến cung, vua đang chờ ở cửa. Hắn ngửi thấy mùi đàn hương, mặt lạnh đi.",
+            "x": "Bạn về đến cung, vua đang chờ ở cửa. Hắn ngửi thấy mùi đàn hương, mặt lạnh đi.",
             "d": {
               "hac": 3,
               "hao": -2
@@ -2051,7 +2051,7 @@
           },
           "b": 0.35,
           "bad": {
-            "x": "Hắn chặn cô ở cửa cung, hỏi một câu cô không trả lời được.",
+            "x": "Hắn chặn bạn ở cửa cung, hỏi một câu bạn không trả lời được.",
             "d": {
               "hac": 6,
               "hao": -4
@@ -2067,7 +2067,7 @@
       "place": "Chùa Thanh Liên, lần thứ hai",
       "kind": "nan",
       "title": "Chùa Thanh Liên lần hai",
-      "text": "Vua không chịu nhường ngôi. Cô chủ động hẹn Khang vương lần nữa: ta giúp ngươi lên ngôi danh chính ngôn thuận, đổi lại ngươi tha cho hoàng huynh và Lục gia, cả đời không truy. Trên đường về, Tiểu Châu báo: hắn biết ngươi lại đi gặp Khang vương.",
+      "text": "Vua không chịu nhường ngôi. Bạn chủ động hẹn Khang vương lần nữa: ta giúp ngươi lên ngôi danh chính ngôn thuận, đổi lại ngươi tha cho hoàng huynh và Lục gia, cả đời không truy. Trên đường về, Tiểu Châu báo: hắn biết ngươi lại đi gặp Khang vương.",
       "tieu": "Hắc hóa đang lên rất nhanh. Ta không chặn được. Ngươi chỉ có thể làm cho cú này nhẹ đi.",
       "cast": "vc,kv,hu,tc",
       "ch": [
@@ -2076,7 +2076,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Khang vương quỳ trước tượng Phật, thề không động đến hoàng huynh. Cô cất tờ thệ ước vào người.",
+            "x": "Khang vương quỳ trước tượng Phật, thề không động đến hoàng huynh. Bạn cất tờ thệ ước vào người.",
             "d": {
               "ac": -3
             },
@@ -2084,7 +2084,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Hắn chỉ hứa miệng. Cô biết lời hứa ấy không đáng tin.",
+            "x": "Hắn chỉ hứa miệng. Bạn biết lời hứa ấy không đáng tin.",
             "d": {
               "hac": 2
             }
@@ -2095,7 +2095,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô nói hết, trừ một điều. Hắn nghe xong ngồi lặng rất lâu, nhưng không tin hẳn.",
+            "x": "Bạn nói hết, trừ một điều. Hắn nghe xong ngồi lặng rất lâu, nhưng không tin hẳn.",
             "d": {
               "ac": -4,
               "hao": 2
@@ -2103,7 +2103,7 @@
           },
           "b": 0.4,
           "bad": {
-            "x": "Hắn không cho cô nói hết: đủ rồi.",
+            "x": "Hắn không cho bạn nói hết: đủ rồi.",
             "d": {
               "hac": 3,
               "hao": -3
@@ -2115,7 +2115,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô không nói gì. Đêm đó hắn không về cung Lâm Nguyệt.",
+            "x": "Bạn không nói gì. Đêm đó hắn không về cung Lâm Nguyệt.",
             "d": {
               "hac": 1,
               "hao": -2
@@ -2140,7 +2140,7 @@
       "place": "Cung Lâm Nguyệt, hoàng hôn",
       "kind": "nan",
       "title": "Chén trà hoa",
-      "text": "Vua về cung, cô chạy ra đón như mọi khi, rồi vào bếp pha trà hoa. Ảnh vệ Mặc Nhất thấy cô bỏ một gói bột vào trà. Vua nâng chén lên, nhìn cô rất lâu: Vãn Ca, nàng đã bao giờ yêu trẫm chưa.",
+      "text": "Vua về cung, bạn chạy ra đón như mọi khi, rồi vào bếp pha trà hoa. Ảnh vệ Mặc Nhất thấy bạn bỏ một gói bột vào trà. Vua nâng chén lên, nhìn bạn rất lâu: Vãn Ca, nàng đã bao giờ yêu trẫm chưa.",
       "tieu": "Trong trà là thuốc ngủ ngươi chế, không phải độc. Nhưng hắn tin là độc, và hắn vẫn định uống.",
       "cast": "vc,hu,mn",
       "ch": [
@@ -2149,7 +2149,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn cười, uống cạn: nếu là độc, trẫm cũng uống. Rồi gục xuống. Lúc mất ý thức, hắn vẫn nắm tay cô không buông.",
+            "x": "Hắn cười, uống cạn: nếu là độc, trẫm cũng uống. Rồi gục xuống. Lúc mất ý thức, hắn vẫn nắm tay bạn không buông.",
             "d": {
               "ac": -10,
               "hac": -8,
@@ -2171,7 +2171,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô uống trước một ngụm. Hắn giật lấy chén, uống phần còn lại, rồi cả hai cùng gục bên bàn.",
+            "x": "Bạn uống trước một ngụm. Hắn giật lấy chén, uống phần còn lại, rồi cả hai cùng gục bên bàn.",
             "d": {
               "ac": -8,
               "hac": -6,
@@ -2182,7 +2182,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Thuốc ngấm vào cô trước. Cô ngất, để lại hắn ngồi một mình với chén trà.",
+            "x": "Thuốc ngấm vào bạn trước. Bạn ngất, để lại hắn ngồi một mình với chén trà.",
             "d": {
               "sinh": -10,
               "hac": 4
@@ -2245,11 +2245,11 @@
           }
         },
         {
-          "t": "Để hắn cầm kiếm, cô giữ cương",
+          "t": "Để hắn cầm kiếm, bạn giữ cương",
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Hắn đánh lùi truy binh, cô ghìm cương cho xe không lật. Sáng ra, hai người nhìn nhau cười như hai kẻ trốn nợ.",
+            "x": "Hắn đánh lùi truy binh, bạn ghìm cương cho xe không lật. Sáng ra, hai người nhìn nhau cười như hai kẻ trốn nợ.",
             "d": {
               "ac": -5,
               "hac": -4,
@@ -2272,7 +2272,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô giơ tờ thệ ước có ấn Khang vương. Đoạn Kiêu chần chừ, rồi rút quân.",
+            "x": "Bạn giơ tờ thệ ước có ấn Khang vương. Đoạn Kiêu chần chừ, rồi rút quân.",
             "d": {
               "ac": -3,
               "hac": -2
@@ -2310,7 +2310,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Đêm thứ ba, hắn hạ sốt. Hắn tỉnh dậy nói: nếu ta đi trước, nàng phải sống tiếp, sống cho vui. Cô gật đầu. Ác niệm về không.",
+            "x": "Đêm thứ ba, hắn hạ sốt. Hắn tỉnh dậy nói: nếu ta đi trước, nàng phải sống tiếp, sống cho vui. Bạn gật đầu. Ác niệm về không.",
             "d": {
               "ac": -14,
               "hac": -10,
@@ -2333,7 +2333,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn sững người, rồi bật cười trong cơn ho: được, nàng không hứa, nàng chỉ ở lại. Hắn thôi nắm chặt tay cô.",
+            "x": "Hắn sững người, rồi bật cười trong cơn ho: được, nàng không hứa, nàng chỉ ở lại. Hắn thôi nắm chặt tay bạn.",
             "d": {
               "ac": -12,
               "hac": -8,
@@ -2342,7 +2342,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Hắn hoảng loạn, siết tay cô đến bầm tím.",
+            "x": "Hắn hoảng loạn, siết tay bạn đến bầm tím.",
             "d": {
               "hac": 5,
               "sinh": -4

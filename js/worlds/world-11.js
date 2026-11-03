@@ -37,7 +37,7 @@ function w11cover(){
 
 var W11K={};
 
-WORLDS.w11={roles:{unh:["Nữ chính", "main", "Nữ sinh 17 tuổi nằm viện nửa tháng, nửa mặt phải quấn băng."],udt:["Nam chính, giáo bá", "main", "Bạn cùng bàn, giáo bá cuối bảng, từng là thần đồng, mẹ mất sớm, bị cha và dì ghẻ bỏ mặc."],umg:["Bạn gái giáo thảo", "foe", "Bạn gái của Tần Dĩ Hằng, đổi đồ ăn lấy đồ quý ở nhóm liên thế giới để giữ dung mạo."],udh:["Giáo thảo", "foe", "Giáo thảo của lớp, bạn trai của Chu Mộng Giai."],udp:["Cháu Quan Tú Anh", "foe", "Cháu của Quan Tú Anh, kẻ đứng sau vụ làm hại nữ sinh Nhất Trung."],uqq:["Quan phu nhân", "neutral", "Mẹ của Quan Đình Phong, giữ con ở nhà."],uta:["Dì ghẻ", "foe", "Dì ghẻ của Dịch Trì, bỏ mặc hắn."],uch:["Cha", "foe", "Cha của Dịch Trì, bỏ mặc con trai."],utt:["Nữ sinh lớp bên", "foe", "Nữ sinh lớp bên vốn thích Dịch Trì, chê Nhược Hi xấu."],udl:["Bạn thân Dịch Trì", "ally", "Bạn thân của Dịch Trì, được dặn để mắt tới Nhược Hi."],uco:["Ông ngoại", "ally", "Ông ngoại của Dịch Trì."],ucd:["Thầy giáo", "neutral", "Thầy dạy toán, gọi Nhược Hi lên bảng giải bài hình vượt chương."],uba:["Ba", "family", "Ba của Nhược Hi, muốn kiện ngay dù chưa có chứng cứ."],ume:["Mẹ", "family", "Mẹ của Nhược Hi."],uth:["Đàn hữu nhóm liên thế giới", "neutral", "Thành viên của nhóm giao lưu vị diện, một trong ba đàn hữu."],uel:["Nữ phù thủy", "neutral", "Nữ phù thủy, thành viên nhóm giao lưu vị diện."],uso:["Thợ chỉnh nhan", "neutral", "Thợ chỉnh nhan từ một thế giới tinh tế, thành viên nhóm giao lưu vị diện."]},
+WORLDS.w11={roles:{unh:["Nữ chính", "main", "Nữ sinh 17 tuổi nằm viện nửa tháng, nửa mặt phải quấn băng."],udt:["Nam chính, giáo bá", "main", "Bạn cùng bàn, giáo bá cuối bảng, từng là thần đồng, mẹ mất sớm, bị cha và dì ghẻ bỏ mặc."],umg:["Bạn gái giáo thảo", "foe", "Bạn gái của Tần Dĩ Hằng, đổi đồ ăn lấy đồ quý ở nhóm liên thế giới để giữ dung mạo."],udh:["Giáo thảo", "foe", "Giáo thảo của lớp, bạn trai của Chu Mộng Giai."],udp:["Cháu Quan Tú Anh", "foe", "Cháu của Quan Tú Anh, kẻ đứng sau vụ làm hại nữ sinh Nhất Trung."],uqq:["Quan phu nhân", "neutral", "Mẹ của Quan Đình Phong, giữ con ở nhà."],uta:["Dì ghẻ", "foe", "Dì ghẻ của Dịch Trì, bỏ mặc hắn."],uch:["Cha", "foe", "Cha của Dịch Trì, bỏ mặc con trai."],utt:["Nữ sinh lớp bên", "foe", "Nữ sinh lớp bên vốn thích Dịch Trì, chê bạn xấu."],udl:["Bạn thân Dịch Trì", "ally", "Bạn thân của Dịch Trì, được dặn để mắt tới bạn."],uco:["Ông ngoại", "ally", "Ông ngoại của Dịch Trì."],ucd:["Thầy giáo", "neutral", "Thầy dạy toán, gọi bạn lên bảng giải bài hình vượt chương."],uba:["Ba", "family", "Ba của bạn, muốn kiện ngay dù chưa có chứng cứ."],ume:["Mẹ", "family", "Mẹ của bạn."],uth:["Đàn hữu nhóm liên thế giới", "neutral", "Thành viên của nhóm giao lưu vị diện, một trong ba đàn hữu."],uel:["Nữ phù thủy", "neutral", "Nữ phù thủy, thành viên nhóm giao lưu vị diện."],uso:["Thợ chỉnh nhan", "neutral", "Thợ chỉnh nhan từ một thế giới tinh tế, thành viên nhóm giao lưu vị diện."]},
  init:function(){return {ac:100,hac:W11K.h0,sinh:100,bs:100,hao:0}},
  mod:function(){return 0},
  adj:function(d,good,c,e){var o=Object.assign({},d);
@@ -49,20 +49,20 @@ WORLDS.w11={roles:{unh:["Nữ chính", "main", "Nữ sinh 17 tuổi nằm viện
  hud:function(){return ''},
  extraSk:function(){return ''},
  bossView:function(){
-  if(S.end)return {k:"udt",n:"Hoắc Dịch Trì",s:"Giáo bá cuối bảng từng là thần đồng, người cô muốn kéo ra khỏi bóng tối."};
-  if(S.i>=IX11.h40)return {k:"udt",n:"Hoắc Dịch Trì",s:"Kiệt sức vì lọ làn da tái sinh, tự trách vì năm đó không bảo vệ được cô. Tự trách đang đẩy hắn về phía bóng tối."};
+  if(S.end)return {k:"udt",n:"Hoắc Dịch Trì",s:"Giáo bá cuối bảng từng là thần đồng, người bạn muốn kéo ra khỏi bóng tối."};
+  if(S.i>=IX11.h40)return {k:"udt",n:"Hoắc Dịch Trì",s:"Kiệt sức vì lọ làn da tái sinh, tự trách vì năm đó không bảo vệ được bạn. Tự trách đang đẩy hắn về phía bóng tối."};
   if(S.i>=IX11.h38)return {k:"udt",n:"Hoắc Dịch Trì",s:"Vừa học sinh học vừa điều hành Hoắc thị, lập phòng thí nghiệm riêng. Sức khỏe đang xuống vì làm việc quá độ."};
-  if(S.i>=IX11.h29)return {k:"udt",n:"Hoắc Dịch Trì",s:"Về Hoắc thị đòi lại phần của mẹ, vẫn hứa cùng cô thi vào Kinh Đại."};
-  if(S.i>=IX11.h20)return {k:"udt",n:"Hoắc Dịch Trì",s:"Đã viết thư tay nói thích cô. Hắn bắt đầu học thật sự."};
+  if(S.i>=IX11.h29)return {k:"udt",n:"Hoắc Dịch Trì",s:"Về Hoắc thị đòi lại phần của mẹ, vẫn hứa cùng bạn thi vào Kinh Đại."};
+  if(S.i>=IX11.h20)return {k:"udt",n:"Hoắc Dịch Trì",s:"Đã viết thư tay nói thích bạn. Hắn bắt đầu học thật sự."};
   if(S.i>=IX11.h13)return {k:"udt",n:"Hoắc Dịch Trì",s:"Biết ai là kẻ gây ra chuyện. Cơn giận của hắn cần được kéo lại."};
-  if(S.i>=IX11.h09)return {k:"udt",n:"Hoắc Dịch Trì",s:"Bắt đầu lo cho cô: đỡ cô xuống phòng y tế, mua cơm trưa. Chưa chịu nhận mình lo."};
+  if(S.i>=IX11.h09)return {k:"udt",n:"Hoắc Dịch Trì",s:"Bắt đầu lo cho bạn: đỡ bạn xuống phòng y tế, mua cơm trưa. Chưa chịu nhận mình lo."};
   if(S.i>=IX11.h06)return {k:"udt",n:"Hoắc Dịch Trì",s:"Bạn cùng bàn lạnh lùng ở góc lớp, hạng cuối, từng là thần đồng."};
-  return {k:"udt",n:"Bạn cùng bàn",s:"Giáo bá cuối bảng từng là thần đồng, mẹ mất sớm, bị cha và dì ghẻ bỏ mặc. Cô chưa gặp hắn."}},
+  return {k:"udt",n:"Bạn cùng bàn",s:"Giáo bá cuối bảng từng là thần đồng, mẹ mất sớm, bị cha và dì ghẻ bỏ mặc. Bạn chưa gặp hắn."}},
  emblem:w11emblem,
  cover:w11cover,
  intro:function(){return pastelIntro({W:WORLDS.w11,diff:"Độ khó: Học đường, đua với kỳ thi và nhà Quan",hook:"Duyên khởi: Tỉnh dậy trong bệnh viện Thanh Giang",
-  hero:{key:"unh",name:"Trình Nhược Hi",role:"Nữ chính · Học sinh giỏi nhất khối",desc:"17 tuổi, bị nhầm với người khác nên mang sẹo nửa má phải trước khi game mở. Quỹ đạo gốc là nhà Trình sụp đổ và cô sống cô độc cả đời, dù không làm gì sai.",g2:null,note:"Cô đi bằng Mị lực, Trí và Vận. Học thêm kỹ năng thật như khôi phục dữ liệu, dạy kèm, đọc báo cáo tài chính thì các phép thử về sau dễ hơn."},
-  boss:{key:"udt",name:"Hoắc Dịch Trì",role:"Bạn cùng bàn, giáo bá cuối bảng",desc:"17 tuổi, từng là thần đồng, mẹ mất sớm, bị cha và dì ghẻ bỏ mặc. Hắn lạnh lùng ngoài mặt nhưng dần lo cho cô, và tự trách nặng nề.",quote:"“Đừng hiểu lầm.”",tag:"Giáo bá lạnh lùng"},
+  hero:{key:"unh",name:"Trình Nhược Hi",role:"Nữ chính · Học sinh giỏi nhất khối",desc:"17 tuổi, bị nhầm với người khác nên mang sẹo nửa má phải trước khi game mở. Quỹ đạo gốc là nhà Trình sụp đổ và bạn sống cô độc cả đời, dù không làm gì sai.",g2:null,note:"Bạn đi bằng Mị lực, Trí và Vận. Học thêm kỹ năng thật như khôi phục dữ liệu, dạy kèm, đọc báo cáo tài chính thì các phép thử về sau dễ hơn."},
+  boss:{key:"udt",name:"Hoắc Dịch Trì",role:"Bạn cùng bàn, giáo bá cuối bảng",desc:"17 tuổi, từng là thần đồng, mẹ mất sớm, bị cha và dì ghẻ bỏ mặc. Hắn lạnh lùng ngoài mặt nhưng dần lo cho bạn, và tự trách nặng nề.",quote:"“Đừng hiểu lầm.”",tag:"Giáo bá lạnh lùng"},
   tc:"“Ta xuyên tới đây còn mệt lắm, nói được ít thôi. Kẻ Ác niệm 100 là bạn cùng bàn của ngươi, và hắn giận người ta thay cho cả hai. Giữ hắn lại trước khi cơn giận biến thành thứ khác, nhớ có một lọ dung dịch đang chờ phía trước. Chúc may mắn nhé!”"})}
 };
 IXS.w11=IX11;PARAMS.w11=W11K;

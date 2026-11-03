@@ -95,7 +95,7 @@
   "ends": {
     "true": {
       "n": "Một đĩa đùi gà thật",
-      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Thịnh Trạch Dương về không. Anh không còn sợ bị tách khỏi cô mỗi khi ván chơi đổi, cũng không còn sợ cô muốn quay về thân thể cũ. Hai mươi năm điều hành mạng quốc gia trôi qua như một buổi chiều dài. Đến ngày cô phải đi, cô cười, tan thành những đốm sáng nhỏ trong tòa nhà mạng. Anh đứng đó, không siết tay, chỉ nói rất khẽ: «Anh chờ em.» Trên bàn là một đĩa đùi gà anh nấu cả buổi, lần đầu tiên thơm đúng như cô từng kể.",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Thịnh Trạch Dương về không. Anh không còn sợ bị tách khỏi bạn mỗi khi ván chơi đổi, cũng không còn sợ bạn muốn quay về thân thể cũ. Hai mươi năm điều hành mạng quốc gia trôi qua như một buổi chiều dài. Đến ngày bạn phải đi, bạn cười, tan thành những đốm sáng nhỏ trong tòa nhà mạng. Anh đứng đó, không siết tay, chỉ nói rất khẽ: «Anh chờ em.» Trên bàn là một đĩa đùi gà anh nấu cả buổi, lần đầu tiên thơm đúng như bạn từng kể.",
       "gain": 120,
       "piece": 1,
       "heat": 0.1,
@@ -103,7 +103,7 @@
     },
     "near": {
       "n": "Mạng đóng băng ba hôm",
-      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người điều hành mạng quốc gia đến tận cuối, người ta gọi họ là đầu não duy nhất, chẳng ai dám động vào. Chỉ có điều đến ngày cô phải đi, tay anh siết quá chặt vì sợ mất, mạng cả nước đóng băng ba hôm cho tới khi anh buông. Cô không giận. Cô biết anh đang học cách tin rằng lần này không ai bị bỏ lại, và vết lo trong mắt anh nhạt dần theo từng mùa.",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Hai người điều hành mạng quốc gia đến tận cuối, người ta gọi họ là đầu não duy nhất, chẳng ai dám động vào. Chỉ có điều đến ngày bạn phải đi, tay anh siết quá chặt vì sợ mất, mạng cả nước đóng băng ba hôm cho tới khi anh buông. Bạn không giận. Bạn biết anh đang học cách tin rằng lần này không ai bị bỏ lại, và vết lo trong mắt anh nhạt dần theo từng mùa.",
       "gain": 90,
       "piece": 1,
       "heat": 0.35,
@@ -111,7 +111,7 @@
     },
     "half": {
       "n": "Một mình trong lâu đài Huyết Nguyệt",
-      "c": "Tiểu Châu đọc kết quả: chưa đạt. Cô đã làm gần hết nhiệm vụ: Duật Lâm bị trừng phạt, Tiểu Nghi tìm lại cuộc sống, mạng quốc gia ổn định. Nhưng vết sợ mất trong anh chưa lành. Đến ngày cô rời đi, anh ở lại một mình trong lâu đài Huyết Nguyệt của trò chơi, vẫn đặt hai chiếc ly mỗi tối cạnh bàn vũ hội. Có những vết, tình thương không đủ để lấp, và cả hai đều biết điều đó.",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt. Bạn đã làm gần hết nhiệm vụ: Duật Lâm bị trừng phạt, Tiểu Nghi tìm lại cuộc sống, mạng quốc gia ổn định. Nhưng vết sợ mất trong anh chưa lành. Đến ngày bạn rời đi, anh ở lại một mình trong lâu đài Huyết Nguyệt của trò chơi, vẫn đặt hai chiếc ly mỗi tối cạnh bàn vũ hội. Có những vết, tình thương không đủ để lấp, và cả hai đều biết điều đó.",
       "gain": 60,
       "piece": 0,
       "heat": 0.6,
@@ -119,7 +119,7 @@
     },
     "black": {
       "n": "Quỷ Vương thức giấc",
-      "c": "Hắc hóa chạm 100. Nỗi sợ bị tách khỏi cô và cơn giận với cháu trai đã nuốt trọn Thịnh Trạch Dương. Trong cả ba trò chơi, Cương Thi vương, Huyết hoàng và Quỷ Vương hòa làm một. Anh không còn nghe tên cô, lưới mạng cả nước chớp đỏ rồi tối sầm. Tiểu Châu khẽ gọi cô đi trước khi tín hiệu cuối cùng tắt hẳn.",
+      "c": "Hắc hóa chạm 100. Nỗi sợ bị tách khỏi bạn và cơn giận với cháu trai đã nuốt trọn Thịnh Trạch Dương. Trong cả ba trò chơi, Cương Thi vương, Huyết hoàng và Quỷ Vương hòa làm một. Anh không còn nghe tên bạn, lưới mạng cả nước chớp đỏ rồi tối sầm. Tiểu Châu khẽ gọi bạn đi trước khi tín hiệu cuối cùng tắt hẳn.",
       "gain": 0,
       "piece": 0,
       "heat": 1,
@@ -127,7 +127,7 @@
     },
     "bdead": {
       "n": "Sóng điện não tan dần",
-      "c": "Sinh mệnh của Thịnh Trạch Dương về 0. Những dòng mã đã quét quá sâu, sóng điện não của anh mỏng dần rồi tắt. Căn phòng tân hôn vẫn nguyên vẹn, đĩa đùi gà còn nóng trên bàn. Tiểu Châu khẽ gọi cô về.",
+      "c": "Sinh mệnh của Thịnh Trạch Dương về 0. Những dòng mã đã quét quá sâu, sóng điện não của anh mỏng dần rồi tắt. Căn phòng tân hôn vẫn nguyên vẹn, đĩa đùi gà còn nóng trên bàn. Tiểu Châu khẽ gọi bạn về.",
       "gain": 0,
       "piece": 0,
       "heat": 0.9,
@@ -135,7 +135,7 @@
     },
     "dead": {
       "n": "Ngọn sóng chưa kịp chạm tay",
-      "c": "Sinh mệnh của cô cạn kiệt. Một nhát điện, hay một cú dò quét quá mạnh đưa hồn cô đi nhanh hơn dự tính, và Trạch Dương chưa kịp nắm lấy tay cô. Tiểu Châu kéo linh hồn cô đi trước khi anh nghe thấy tiếng gọi.",
+      "c": "Sinh mệnh của bạn cạn kiệt. Một nhát điện, hay một cú dò quét quá mạnh đưa hồn bạn đi nhanh hơn dự tính, và Trạch Dương chưa kịp nắm lấy tay bạn. Tiểu Châu kéo linh hồn bạn đi trước khi anh nghe thấy tiếng gọi.",
       "gain": 0,
       "piece": 0,
       "heat": 0.8,
@@ -146,10 +146,10 @@
     {
       "id": "m01",
       "scene": "yroom",
-      "place": "Nhà riêng của Tiểu Hạnh · Phòng tắm",
+      "place": "Nhà riêng của bạn · Phòng tắm",
       "kind": "duyen",
       "title": "Hồ sơ trong bồn tắm",
-      "text": "Tối đầu tiên, cô tỉnh lại trong bồn nước ấm, trong thân một cô gái hai mươi ba tuổi. Ký ức nguyên chủ ùa vào đầu: Ngu Tiểu Hạnh, nữ streamer game kinh dị nổi nhất nền tảng, khoảng hai triệu người xem, biệt danh phòng phát sóng là Hạnh Hạnh, được cha mẹ yêu thương hết mực. Bạn trai cô là Thịnh Duật Lâm, thiên tài trò chơi của Thịnh thị. Hồ sơ nói rõ hắn đã dựng sẵn một kế hoạch: dùng khoang trò chơi đẩy hồn cô ra khỏi thân, để Cát Tiểu Nghi vào ở. Tiểu Nghi là cô bé 17 tuổi mất vì chơi game thâu đêm, chỉ còn là sóng điện não trong máy, bị hắn thuyết phục rằng đây là cách cứu cô bé. Hắn chọn Tiểu Hạnh trong mười bốn cô gái thử VR, vì cô ít ra ngoài. Người cô phải cảm hóa là Thịnh Trạch Dương, tiểu thúc của Duật Lâm, thiên tài đã mất bảy năm, sóng điện não bị kẹt trong ba trò chơi kinh dị trên chiếc USB của hắn. Cô hỏi có nên ngăn hắn ngay không. Tiểu Châu đáp: nếu cô tránh, hắn sẽ chọn cô gái khác trong danh sách; còn linh hồn cô khác sóng điện não, máy không xóa được cô. Cô có thể chép nguyên hồ sơ làm bằng chứng, hoặc chỉ ghi ý chính.",
+      "text": "Tối đầu tiên, tỉnh lại trong bồn nước ấm, trong thân một cô gái hai mươi ba tuổi. Ký ức nguyên chủ ùa vào đầu: Ngu Tiểu Hạnh, nữ streamer game kinh dị nổi nhất nền tảng, khoảng hai triệu người xem, biệt danh phòng phát sóng là Hạnh Hạnh, được cha mẹ yêu thương hết mực. Bạn trai của bạn là Thịnh Duật Lâm, thiên tài trò chơi của Thịnh thị. Hồ sơ nói rõ hắn đã dựng sẵn một kế hoạch: dùng khoang trò chơi đẩy hồn bạn ra khỏi thân, để Cát Tiểu Nghi vào ở. Tiểu Nghi là cô bé 17 tuổi mất vì chơi game thâu đêm, chỉ còn là sóng điện não trong máy, bị hắn thuyết phục rằng đây là cách cứu cô bé. Hắn chọn bạn trong mười bốn cô gái thử VR, vì bạn ít ra ngoài. Người bạn phải cảm hóa là Thịnh Trạch Dương, tiểu thúc của Duật Lâm, thiên tài đã mất bảy năm, sóng điện não bị kẹt trong ba trò chơi kinh dị trên chiếc USB của hắn. Bạn hỏi có nên ngăn hắn ngay không. Tiểu Châu đáp: nếu bạn tránh, hắn sẽ chọn cô gái khác trong danh sách; còn linh hồn bạn khác sóng điện não, máy không xóa được bạn. Bạn có thể chép nguyên hồ sơ làm bằng chứng, hoặc chỉ ghi ý chính.",
       "tieu": "Ngươi biết trước kế hoạch của hắn, hắn thì không biết ngươi biết. Đừng vội vạch ra.",
       "cast": "mg_hanh,mg_lam,mg_nghi,mg_duong,tc",
       "ch": [
@@ -158,7 +158,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô chép từng dòng vào sổ giấy, cất kỹ ngoài máy tính. Tiểu Châu khẽ gật: bằng chứng thật phải nằm ở nơi hắn không với tới.",
+            "x": "Bạn chép từng dòng vào sổ giấy, cất kỹ ngoài máy tính. Tiểu Châu khẽ gật: bằng chứng thật phải nằm ở nơi hắn không với tới.",
             "d": {
               "sinh": 1
             },
@@ -166,7 +166,7 @@
           },
           "b": 0.6006666666666669,
           "bad": {
-            "x": "Cô chép vội nên sót hai dòng cuối. Tiểu Châu nhắc cô xem lại, mất cả buổi mới đủ.",
+            "x": "Bạn chép vội nên sót hai dòng cuối. Tiểu Châu nhắc bạn xem lại, mất cả buổi mới đủ.",
             "d": {
               "sinh": -2
             }
@@ -178,14 +178,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô ghi mười dòng ngắn rồi thấy đầu óc sáng ra. Cô sẽ diễn tự nhiên hơn nhiều.",
+            "x": "Bạn ghi mười dòng ngắn rồi thấy đầu óc sáng ra. Bạn sẽ diễn tự nhiên hơn nhiều.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.48386666666666683,
           "bad": {
-            "x": "Cô ghi quá ngắn, quên cả tên một người trong danh sách. Phải hỏi Tiểu Châu lại.",
+            "x": "Bạn ghi quá ngắn, quên cả tên một người trong danh sách. Phải hỏi Tiểu Châu lại.",
             "d": {
               "sinh": -2
             }
@@ -197,14 +197,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Tiểu Châu kể gọn: anh hài hước, dịu dàng, rất thích đùi gà. Cô thấy lòng nhẹ đi, như đã có người đợi ở cuối đường.",
+            "x": "Tiểu Châu kể gọn: anh hài hước, dịu dàng, rất thích đùi gà. Bạn thấy lòng nhẹ đi, như đã có người đợi ở cuối đường.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.42546666666666677,
           "bad": {
-            "x": "Tiểu Châu chỉ trả lời nửa chừng vì thông tin còn bị khóa. Cô hơi hụt hẫng.",
+            "x": "Tiểu Châu chỉ trả lời nửa chừng vì thông tin còn bị khóa. Bạn hơi hụt hẫng.",
             "d": {
               "sinh": -2
             }
@@ -212,7 +212,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Nhà riêng của Tiểu Hạnh, tối đầu tiên. Tiểu Châu giao nhiệm vụ và đọc hồ sơ.",
+      "ctx": "Nhà riêng của bạn, tối đầu tiên. Tiểu Châu giao nhiệm vụ và đọc hồ sơ.",
       "no": 1
     },
     {
@@ -221,23 +221,23 @@
       "place": "Nhà hàng quen · Bàn cạnh cửa sổ",
       "kind": "chon",
       "title": "Bữa tối chỗ cũ",
-      "text": "Cùng tối, Duật Lâm đón cô ở cửa nhà hàng quen với một cành hồng. Anh gọi đúng món cô thích. Suốt mấy tháng yêu nhau, hai người vẫn chỉ nói chuyện trò chơi. Cô biết anh đang nhìn cô như nhìn một ván cờ đã đi xong nước đầu. Cô có thể nói thẳng «Em thích anh, không phải kiểu thích trò chơi của anh», hoặc nói ngọt ngào cho anh yên tâm. Dù chọn cách nào, cô cũng báo luôn: từ nay cô đổi giờ phát sóng, buổi chiều ngồi cạnh anh ở công ty cho công bằng. Anh biết ở đó Tiểu Nghi không ra khỏi chiếc USB được, nhưng anh không từ chối nổi.",
+      "text": "Cùng tối, Duật Lâm đón bạn ở cửa nhà hàng quen với một cành hồng. Anh gọi đúng món bạn thích. Suốt mấy tháng yêu nhau, hai người vẫn chỉ nói chuyện trò chơi. Bạn biết anh đang nhìn bạn như nhìn một ván cờ đã đi xong nước đầu. Bạn có thể nói thẳng «Em thích anh, không phải kiểu thích trò chơi của anh», hoặc nói ngọt ngào cho anh yên tâm. Dù chọn cách nào, bạn cũng báo luôn: từ nay bạn đổi giờ phát sóng, buổi chiều ngồi cạnh anh ở công ty cho công bằng. Anh biết ở đó Tiểu Nghi không ra khỏi chiếc USB được, nhưng anh không từ chối nổi.",
       "tieu": "Hắn vừa đi nước đầu, còn ngươi chỉ cần giữ nhịp. Diễn quá lố là hắn nghi ngay.",
       "cast": "mg_hanh,mg_lam,tc",
       "ch": [
         {
-          "t": "Nói thẳng rằng cô thích anh, không phải thích trò chơi của anh",
+          "t": "Nói thẳng rằng bạn thích anh, không phải thích trò chơi của anh",
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh khựng lại rồi mỉm cười, ánh mắt thoáng mềm đi. Cô thấy hắn thật sự chạm vào câu ấy.",
+            "x": "Anh khựng lại rồi mỉm cười, ánh mắt thoáng mềm đi. Bạn thấy hắn thật sự chạm vào câu ấy.",
             "d": {
               "nn": -2
             }
           },
           "b": 0.6168000000000001,
           "bad": {
-            "x": "Câu nói đúng nhưng tới sai lúc, anh nhíu mày nhìn cô lâu hơn cần thiết.",
+            "x": "Câu nói đúng nhưng tới sai lúc, anh nhíu mày nhìn bạn lâu hơn cần thiết.",
             "d": {
               "nn": 4,
               "sinh": -1
@@ -257,14 +257,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh cười khẽ, rót thêm nước cho cô. Hắn không đề phòng gì thêm.",
+            "x": "Anh cười khẽ, rót thêm nước cho bạn. Hắn không đề phòng gì thêm.",
             "d": {
               "nn": 0
             }
           },
           "b": 0.3831999999999999,
           "bad": {
-            "x": "Cô nói hơi nhiều và hơi ngọt. Anh gắp thức ăn cho cô, nhưng ánh nhìn hơi lạ.",
+            "x": "Bạn nói hơi nhiều và hơi ngọt. Anh gắp thức ăn cho bạn, nhưng ánh nhìn hơi lạ.",
             "d": {
               "nn": 3,
               "sinh": -1
@@ -284,14 +284,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô nắm tay anh, cái nắm tay giữ nguyên giữa bữa. Anh không rút ra.",
+            "x": "Bạn nắm tay anh, cái nắm tay giữ nguyên giữa bữa. Anh không rút ra.",
             "d": {
               "nn": -1
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Tay cô lạnh, anh cúi nhìn rồi hỏi «em không khỏe à?». Cô phải cười trừ.",
+            "x": "Tay bạn lạnh, anh cúi nhìn rồi hỏi «em không khỏe à?». Bạn phải cười trừ.",
             "d": {
               "nn": 3,
               "sinh": -1
@@ -307,7 +307,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Nhà hàng quen, tối đầu tiên. Duật Lâm đón cô bằng một cành hồng.",
+      "ctx": "Nhà hàng quen, tối đầu tiên. Duật Lâm đón bạn bằng một cành hồng.",
       "no": 2
     },
     {
@@ -316,7 +316,7 @@
       "place": "Phòng phát sóng · 20 giờ",
       "kind": "chon",
       "title": "Giờ phát sóng mới",
-      "text": "Khuya hôm đó, Tiểu Hạnh mở phòng phát sóng, hai triệu người xem. Đỗ Tiểu Mãn, quản trị viên phòng, một cô gái hai mươi hai tuổi là fan cứng của cô từ những ngày đầu, ghim thông báo sẵn. Cô nói mình đổi khung giờ: 20 giờ đến 24 giờ, bỏ khung đêm khuya vì buổi chiều muốn ở cạnh bạn trai. Phòng chat phản đối ầm ĩ, Tiểu Mãn xin mọi người giữ trật tự. Cô hứa thỉnh thoảng sẽ phát sóng đời thường của một nhà thiết kế game, ai cũng hóng. Cô có thể trấn an họ bằng lời hứa phát sóng thêm, hoặc bằng một trò chơi kinh dị mới tặng cả phòng.",
+      "text": "Khuya hôm đó, bạn mở phòng phát sóng, hai triệu người xem. Đỗ Tiểu Mãn, quản trị viên phòng, một cô gái hai mươi hai tuổi là fan cứng của bạn từ những ngày đầu, ghim thông báo sẵn. Bạn nói mình đổi khung giờ: 20 giờ đến 24 giờ, bỏ khung đêm khuya vì buổi chiều muốn ở cạnh bạn trai. Phòng chat phản đối ầm ĩ, Tiểu Mãn xin mọi người giữ trật tự. Bạn hứa thỉnh thoảng sẽ phát sóng đời thường của một nhà thiết kế game, ai cũng hóng. Bạn có thể trấn an họ bằng lời hứa phát sóng thêm, hoặc bằng một trò chơi kinh dị mới tặng cả phòng.",
       "tieu": "Phòng chat này sẽ là tai mắt của ngươi sau này. Cư xử cho đúng với người điều hành nó.",
       "cast": "mg_hanh,mg_man,tc",
       "ch": [
@@ -344,14 +344,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cả phòng quên cả chuyện đổi giờ, nhao nhao hỏi ngày chơi. Cô nhẹ cả người.",
+            "x": "Cả phòng quên cả chuyện đổi giờ, nhao nhao hỏi ngày chơi. Bạn nhẹ cả người.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Trò chơi cô chọn quá quen, vài người chê «cũ rồi chị ơi». Phòng chat hơi nguội.",
+            "x": "Trò chơi bạn chọn quá quen, vài người chê «cũ rồi chị ơi». Phòng chat hơi nguội.",
             "d": {
               "sinh": -2
             }
@@ -363,7 +363,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Tiểu Mãn làm gọn gàng đến bất ngờ. Cô học được cách giao việc cho người đáng tin.",
+            "x": "Tiểu Mãn làm gọn gàng đến bất ngờ. Bạn học được cách giao việc cho người đáng tin.",
             "d": {
               "sinh": 1
             }
@@ -392,7 +392,7 @@
       "place": "Cao ốc Thịnh thị · Sảnh và văn phòng",
       "kind": "duyen",
       "title": "Bữa sáng đầu tiên ở Thịnh thị",
-      "text": "Sáng hôm sau, Tiểu Hạnh đứng đón gió trước sảnh cao ốc Thịnh thị, tay ôm hộp giữ nhiệt. Duật Lâm bước ra, kinh ngạc: cô vốn ngủ đến trưa. Thôi Tiểu Khải, kỹ thuật viên hay xem phát sóng của cô, nhận ra Hạnh Hạnh và suýt xỉu giữa sảnh. Lên văn phòng, anh ăn bữa sáng rồi sững lại vì quá ngon. Cô thấy chiếc USB đen anh luôn đeo sát người, và bàn tay anh thoáng che nó khi ngồi xuống. Cô có thể hỏi «đó là gì», hoặc bỏ qua.",
+      "text": "Sáng hôm sau, bạn đứng đón gió trước sảnh cao ốc Thịnh thị, tay ôm hộp giữ nhiệt. Duật Lâm bước ra, kinh ngạc: bạn vốn ngủ đến trưa. Thôi Tiểu Khải, kỹ thuật viên hay xem phát sóng của bạn, nhận ra Hạnh Hạnh và suýt xỉu giữa sảnh. Lên văn phòng, anh ăn bữa sáng rồi sững lại vì quá ngon. Bạn thấy chiếc USB đen anh luôn đeo sát người, và bàn tay anh thoáng che nó khi ngồi xuống. Bạn có thể hỏi «đó là gì», hoặc bỏ qua.",
       "tieu": "Chiếc USB ấy là thứ ngươi tìm. Nhưng hỏi quá sớm thì hắn giữ nó chặt hơn.",
       "cast": "mg_hanh,mg_lam,mg_khai,tc",
       "ch": [
@@ -401,7 +401,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh đáp «quà của một người rất quan trọng» rồi cười. Cô ghi nhớ cái nhìn hơi lạc đi ấy.",
+            "x": "Anh đáp «quà của một người rất quan trọng» rồi cười. Bạn ghi nhớ cái nhìn hơi lạc đi ấy.",
             "d": {
               "nn": 4
             },
@@ -409,7 +409,7 @@
           },
           "b": 0.48386666666666683,
           "bad": {
-            "x": "Anh nắm chặt USB hơn, đổi chủ đề rất nhanh. Cô thấy mình hơi lộ liễu.",
+            "x": "Anh nắm chặt USB hơn, đổi chủ đề rất nhanh. Bạn thấy mình hơi lộ liễu.",
             "d": {
               "nn": 6,
               "sinh": -1
@@ -436,7 +436,7 @@
           },
           "b": 0.6006666666666669,
           "bad": {
-            "x": "Cô nói đúng lúc anh đang bận điện thoại nên chẳng ai nghe. Cô mỉm cười trừ.",
+            "x": "Bạn nói đúng lúc anh đang bận điện thoại nên chẳng ai nghe. Bạn mỉm cười trừ.",
             "d": {
               "sinh": -2
             }
@@ -455,7 +455,7 @@
           },
           "b": 0.42546666666666677,
           "bad": {
-            "x": "Tiểu Khải cuống lên, buột miệng «chị Hạnh Hạnh!» ngay giữa văn phòng. Cô phải cười chữa.",
+            "x": "Tiểu Khải cuống lên, buột miệng «chị Hạnh Hạnh!» ngay giữa văn phòng. Bạn phải cười chữa.",
             "d": {
               "nn": 3,
               "sinh": -1
@@ -471,7 +471,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Sảnh và văn phòng Thịnh thị, sáng hôm sau. Cô mang bữa sáng tới.",
+      "ctx": "Sảnh và văn phòng Thịnh thị, sáng hôm sau. Bạn mang bữa sáng tới.",
       "no": 4
     },
     {
@@ -480,7 +480,7 @@
       "place": "Cao ốc Thịnh thị · Phòng pha cà phê và hành lang tầng 18",
       "kind": "duyen",
       "title": "Cà phê và phòng truyền thống",
-      "text": "Giờ nghỉ buổi sáng, Tiểu Hạnh học một nhân viên pha cà phê thủ công để bưng cho Duật Lâm. Trên đường về qua hành lang tầng 18, cô thấy phòng truyền thống của Thịnh thị. Trên tường có tấm ảnh Thịnh Trạch Dương, tiểu thúc của Duật Lâm, thiên tài trò chơi mất bảy năm trước khi thử chiếc khoang trò chơi đầu tiên của chính mình. Bên dưới là cuốn sổ phác thảo của anh, mở ở một trang: góc giấy có hình đùi gà nguệch ngoạc kèm dòng chữ «thưởng cho mình khi sửa xong lỗi». Cô có thể đứng lại đọc kỹ cuốn sổ, hoặc pha cà phê xong rồi đi.",
+      "text": "Giờ nghỉ buổi sáng, bạn học một nhân viên pha cà phê thủ công để bưng cho Duật Lâm. Trên đường về qua hành lang tầng 18, bạn thấy phòng truyền thống của Thịnh thị. Trên tường có tấm ảnh Thịnh Trạch Dương, tiểu thúc của Duật Lâm, thiên tài trò chơi mất bảy năm trước khi thử chiếc khoang trò chơi đầu tiên của chính mình. Bên dưới là cuốn sổ phác thảo của anh, mở ở một trang: góc giấy có hình đùi gà nguệch ngoạc kèm dòng chữ «thưởng cho mình khi sửa xong lỗi». Bạn có thể đứng lại đọc kỹ cuốn sổ, hoặc pha cà phê xong rồi đi.",
       "tieu": "Đây là người ngươi cần tìm. Nhớ lấy nét chữ và hình đùi gà ấy, sau này sẽ cần.",
       "cast": "mg_hanh,mg_duong,tc",
       "ch": [
@@ -489,7 +489,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô đọc thuộc mấy trang cuối, nhớ cả chuyện đùi gà. Cô thấy mình đã biết anh một chút.",
+            "x": "Bạn đọc thuộc mấy trang cuối, nhớ cả chuyện đùi gà. Bạn thấy mình đã biết anh một chút.",
             "d": {
               "sinh": 1
             },
@@ -497,7 +497,7 @@
           },
           "b": 0.5745333333333335,
           "bad": {
-            "x": "Bảo vệ nhắc phòng truyền thống đóng cửa, cô chỉ kịp đọc nửa trang.",
+            "x": "Bảo vệ nhắc phòng truyền thống đóng cửa, bạn chỉ kịp đọc nửa trang.",
             "d": {
               "sinh": -2
             }
@@ -509,7 +509,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Tách cà phê thơm đúng ý. Cô nhìn ảnh anh một lúc, thấy anh cười như đang trêu người xem.",
+            "x": "Tách cà phê thơm đúng ý. Bạn nhìn ảnh anh một lúc, thấy anh cười như đang trêu người xem.",
             "d": {
               "sinh": 1
             },
@@ -517,7 +517,7 @@
           },
           "b": 0.5161333333333334,
           "bad": {
-            "x": "Cà phê hơi đắng. Cô nhăn mặt nhưng vẫn mang đi, hy vọng anh không để ý.",
+            "x": "Cà phê hơi đắng. Bạn nhăn mặt nhưng vẫn mang đi, hy vọng anh không để ý.",
             "d": {
               "sinh": -2
             }
@@ -529,7 +529,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô nhân viên kể anh từng ăn đùi gà ngay giữa phòng họp. Cô cười, nhớ kỹ.",
+            "x": "Cô nhân viên kể anh từng ăn đùi gà ngay giữa phòng họp. Bạn cười, nhớ kỹ.",
             "d": {
               "sinh": 1
             }
@@ -544,7 +544,7 @@
           "b0": 0.48
         }
       ],
-      "ctx": "Phòng pha cà phê và hành lang tầng 18, giờ nghỉ sáng. Cô thấy ảnh Thịnh Trạch Dương.",
+      "ctx": "Phòng pha cà phê và hành lang tầng 18, giờ nghỉ sáng. Bạn thấy ảnh Thịnh Trạch Dương.",
       "learn": {
         "n": "Pha cà phê",
         "s": "mi",
@@ -558,7 +558,7 @@
       "place": "Văn phòng Duật Lâm · Trưa và chiều",
       "kind": "chon",
       "title": "Cơm trưa và buổi phát sóng ở văn phòng",
-      "text": "Trưa, Tiểu Hạnh mang hai hộp cơm tới văn phòng Duật Lâm. Anh ăn gần hết rồi mới ngượng. Anh cho phép cô phát sóng một buổi «đời thường nhà thiết kế game». Phòng chat hú hét, mấy bạn nam ghen tị với anh; anh nghe thấy và thoáng thấy tự hào, rồi tự nhắc mình về mục đích. Quý Vân Hy, trưởng nhóm kỹ thuật nữ của Thịnh thị, nói đùa: «Tổng giám đốc không để ý thì tôi để ý giùm Hạnh Hạnh.» Cô có thể quay hết quá trình anh làm việc, hoặc quay ít cho thấy sự tôn trọng.",
+      "text": "Trưa, bạn mang hai hộp cơm tới văn phòng Duật Lâm. Anh ăn gần hết rồi mới ngượng. Anh cho phép bạn phát sóng một buổi «đời thường nhà thiết kế game». Phòng chat hú hét, mấy bạn nam ghen tị với anh; anh nghe thấy và thoáng thấy tự hào, rồi tự nhắc mình về mục đích. Quý Vân Hy, trưởng nhóm kỹ thuật nữ của Thịnh thị, nói đùa: «Tổng giám đốc không để ý thì tôi để ý giùm Hạnh Hạnh.» Bạn có thể quay hết quá trình anh làm việc, hoặc quay ít cho thấy sự tôn trọng.",
       "tieu": "Càng có nhiều người nhìn thấy hai người ở cạnh nhau, về sau càng khó cho hắn nói dối.",
       "cast": "mg_hanh,mg_lam,mg_hy,tc",
       "ch": [
@@ -574,7 +574,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Anh liếc ống kính mấy lần, tập trung kém đi. Cô phải tắt sớm.",
+            "x": "Anh liếc ống kính mấy lần, tập trung kém đi. Bạn phải tắt sớm.",
             "d": {
               "nn": 3,
               "sinh": -1
@@ -594,7 +594,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Phòng chat cười vì «lưng đẹp quá». Anh không biết, và cô cũng không nhắc.",
+            "x": "Phòng chat cười vì «lưng đẹp quá». Anh không biết, và bạn cũng không nhắc.",
             "d": {
               "sinh": 1
             }
@@ -618,7 +618,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Vân Hy bắt đúng nhịp, phòng chat cười lăn. Cô thấy mình có thêm một đồng minh trong công ty.",
+            "x": "Vân Hy bắt đúng nhịp, phòng chat cười lăn. Bạn thấy mình có thêm một đồng minh trong công ty.",
             "d": {
               "sinh": 1
             }
@@ -638,7 +638,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Văn phòng Duật Lâm, trưa và chiều. Cô phát sóng một buổi đời thường.",
+      "ctx": "Văn phòng Duật Lâm, trưa và chiều. Bạn phát sóng một buổi đời thường.",
       "no": 6
     },
     {
@@ -647,7 +647,7 @@
       "place": "Nhà anh và công ty · Một tháng",
       "kind": "duyen",
       "title": "Một tháng đưa cơm",
-      "text": "Đêm hôm sau, Duật Lâm gọi nói khoang trò chơi sẽ dùng được sau một tháng và mời cô làm người thử đầu tiên, dặn đừng công bố để dành bất ngờ. Tiểu Châu tóm lại cả tháng: bữa sáng đúng giờ, phòng tập, thẩm mỹ viện, bữa tối hẹn hò. Cô cắt tóc, chọn cả một tủ quần áo cho anh. Anh bắt đầu chờ cô ở đầu gió, làm việc bỗng ngẩng lên nhìn chỗ cô hay ngồi. Cô có thể nhận lời thử khoang ngay, hoặc hỏi thêm về độ an toàn của khoang.",
+      "text": "Đêm hôm sau, Duật Lâm gọi nói khoang trò chơi sẽ dùng được sau một tháng và mời bạn làm người thử đầu tiên, dặn đừng công bố để dành bất ngờ. Tiểu Châu tóm lại cả tháng: bữa sáng đúng giờ, phòng tập, thẩm mỹ viện, bữa tối hẹn hò. Bạn cắt tóc, chọn cả một tủ quần áo cho anh. Anh bắt đầu chờ bạn ở đầu gió, làm việc bỗng ngẩng lên nhìn chỗ bạn hay ngồi. Bạn có thể nhận lời thử khoang ngay, hoặc hỏi thêm về độ an toàn của khoang.",
       "tieu": "Hỏi thêm thì hắn đưa ngươi tài liệu có sẵn, nhưng cũng chú ý thêm đến ngươi. Nhận ngay thì quá dễ dàng.",
       "cast": "mg_hanh,mg_lam,tc",
       "ch": [
@@ -663,7 +663,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Cô nhận lời nhanh quá. Anh ngập ngừng mới nói «em tin anh vậy sao?».",
+            "x": "Bạn nhận lời nhanh quá. Anh ngập ngừng mới nói «em tin anh vậy sao?».",
             "d": {
               "nn": 3,
               "sinh": -1
@@ -680,14 +680,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh đưa tài liệu in sẵn, từng tờ đầy chữ. Cô đọc kỹ rồi gật đầu thật nhẹ nhàng.",
+            "x": "Anh đưa tài liệu in sẵn, từng tờ đầy chữ. Bạn đọc kỹ rồi gật đầu thật nhẹ nhàng.",
             "d": {
               "nn": 4
             }
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Anh đưa tài liệu rất nhanh, như đã soạn từ trước. Cô hơi bất an.",
+            "x": "Anh đưa tài liệu rất nhanh, như đã soạn từ trước. Bạn hơi bất an.",
             "d": {
               "nn": 6,
               "sinh": -1
@@ -707,14 +707,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô chọn rất chuẩn, anh mặc thử thấy lạ mắt mà dễ chịu. Cô học thêm cách phối đồ cho người khác.",
+            "x": "Bạn chọn rất chuẩn, anh mặc thử thấy lạ mắt mà dễ chịu. Bạn học thêm cách phối đồ cho người khác.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô chọn sai cỡ vai, phải đổi lại. Anh cười, đáp «để em chọn lại cũng được».",
+            "x": "Bạn chọn sai cỡ vai, phải đổi lại. Anh cười, đáp «để em chọn lại cũng được».",
             "d": {
               "sinh": -2
             }
@@ -733,10 +733,10 @@
     {
       "id": "m08",
       "scene": "zmall",
-      "place": "Trung tâm thương mại · Nhà cô",
+      "place": "Trung tâm thương mại · Nhà bạn",
       "kind": "chon",
       "title": "Chiếc thẻ và mật mã",
-      "text": "Một chiều ở trung tâm thương mại, Tiểu Hạnh quẹt chiếc thẻ Duật Lâm đưa để mua gần hết đồ cho anh, gửi nửa về nhà anh, nửa về nhà cô. Tối hôm sau ở nhà, cô nghĩ: người chiếm thân này sẽ chỉ dùng được những gì cô để lại, rồi phải đi hỏi Duật Lâm từng thứ. Cô chuyển toàn bộ tiền thưởng của tài khoản phát sóng vào quỹ quyên hằng tháng cho các cô nhi viện và đặt mật mã khó đoán cho mọi tài khoản khác; chỉ tài khoản phát sóng là mở được. Cô có thể quyên toàn bộ, hoặc để lại một phần cho cha mẹ giữ.",
+      "text": "Một chiều ở trung tâm thương mại, bạn quẹt chiếc thẻ Duật Lâm đưa để mua gần hết đồ cho anh, gửi nửa về nhà anh, nửa về nhà bạn. Tối hôm sau ở nhà, bạn nghĩ: người chiếm thân này sẽ chỉ dùng được những gì bạn để lại, rồi phải đi hỏi Duật Lâm từng thứ. Bạn chuyển toàn bộ tiền thưởng của tài khoản phát sóng vào quỹ quyên hằng tháng cho các cô nhi viện và đặt mật mã khó đoán cho mọi tài khoản khác; chỉ tài khoản phát sóng là mở được. Bạn có thể quyên toàn bộ, hoặc để lại một phần cho cha mẹ giữ.",
       "tieu": "Mật mã là hàng rào đầu tiên. Đặt cho kỹ, vì sau này có người sẽ thử phá nó.",
       "cast": "mg_hanh,tc",
       "ch": [
@@ -745,14 +745,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Mọi tài khoản đóng chặt như két sắt. Cô học được cách dựng mật mã chia lớp.",
+            "x": "Mọi tài khoản đóng chặt như két sắt. Bạn học được cách dựng mật mã chia lớp.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5584,
           "bad": {
-            "x": "Cô đặt trùng một mật mã cho hai tài khoản, phải làm lại lúc nửa đêm.",
+            "x": "Bạn đặt trùng một mật mã cho hai tài khoản, phải làm lại lúc nửa đêm.",
             "d": {
               "sinh": -2
             }
@@ -764,14 +764,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cha mẹ nhận tiền mà không hỏi, chỉ dặn cô giữ sức. Cô thấy ấm lòng.",
+            "x": "Cha mẹ nhận tiền mà không hỏi, chỉ dặn bạn giữ sức. Bạn thấy ấm lòng.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Mẹ lo lắng hỏi «con gặp chuyện gì à?». Cô phải bịa một cái cớ dài.",
+            "x": "Mẹ lo lắng hỏi «con gặp chuyện gì à?». Bạn phải bịa một cái cớ dài.",
             "d": {
               "sinh": -2
             }
@@ -783,14 +783,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Tiểu Mãn nhận bản hướng dẫn và hứa giữ bí mật. Cô thấy yên tâm hơn.",
+            "x": "Tiểu Mãn nhận bản hướng dẫn và hứa giữ bí mật. Bạn thấy yên tâm hơn.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Bản hướng dẫn của cô có chỗ sai, Tiểu Mãn gọi hỏi liền mấy lần.",
+            "x": "Bản hướng dẫn của bạn có chỗ sai, Tiểu Mãn gọi hỏi liền mấy lần.",
             "d": {
               "sinh": -2
             }
@@ -798,7 +798,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Trung tâm thương mại và nhà cô. Cô quyên tiền và đặt mật mã.",
+      "ctx": "Trung tâm thương mại và nhà bạn. Bạn quyên tiền và đặt mật mã.",
       "learn": {
         "n": "Mã hóa tài khoản",
         "s": "tri",
@@ -809,10 +809,10 @@
     {
       "id": "m09",
       "scene": "zdine",
-      "place": "Nhà cha mẹ cô · Chủ nhật",
+      "place": "Nhà cha mẹ bạn · Chủ nhật",
       "kind": "chon",
       "title": "Bữa cơm nhà ba mẹ",
-      "text": "Chủ nhật, Tiểu Hạnh về nhà cha mẹ ăn cơm. Cha, Ngu Chấn Hoa, pha trà bằng một bộ ấm cổ mà cả nước chỉ có mười bộ. Mẹ, Tạ Mai Lan, hỏi chuyện chàng trai cô đang yêu. Cô để lại cho cha một phong bì: nếu ba ngày không liên lạc được với cô thì đưa nó cho đội trưởng Lữ Kiến Bình của đội chuyên án mạng. Bên trong là bản sao hồ sơ tráo hồn và danh sách mười bốn cô gái. Cô chỉ nói «con có kế hoạch», chứ chưa giải thích hết. Cô có thể nói đủ để cha mẹ phối hợp, hoặc nói ngắn để họ khỏi lo.",
+      "text": "Chủ nhật, bạn về nhà cha mẹ ăn cơm. Cha, Ngu Chấn Hoa, pha trà bằng một bộ ấm cổ mà cả nước chỉ có mười bộ. Mẹ, Tạ Mai Lan, hỏi chuyện chàng trai bạn đang yêu. Bạn để lại cho cha một phong bì: nếu ba ngày không liên lạc được với bạn thì đưa nó cho đội trưởng Lữ Kiến Bình của đội chuyên án mạng. Bên trong là bản sao hồ sơ tráo hồn và danh sách mười bốn cô gái. Bạn chỉ nói «con có kế hoạch», chứ chưa giải thích hết. Bạn có thể nói đủ để cha mẹ phối hợp, hoặc nói ngắn để họ khỏi lo.",
       "tieu": "Ba ngày là khoảng cách an toàn. Cha mẹ ngươi hiền, nhưng họ còn thương ngươi hơn cả sợ.",
       "cast": "mg_hanh,mg_chan,mg_mai,mg_binh,tc",
       "ch": [
@@ -821,7 +821,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cha lặng đi, nhấp ngụm trà rồi gật. Mẹ nắm tay cô thật chặt. Họ hiểu cô cần họ làm gì.",
+            "x": "Cha lặng đi, nhấp ngụm trà rồi gật. Mẹ nắm tay bạn thật chặt. Họ hiểu bạn cần họ làm gì.",
             "d": {
               "sinh": 1
             },
@@ -829,7 +829,7 @@
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Mẹ òa khóc ngay, cha phải dỗ cả buổi. Cô kịp dặn nhưng bữa cơm hỏng hết.",
+            "x": "Mẹ òa khóc ngay, cha phải dỗ cả buổi. Bạn kịp dặn nhưng bữa cơm hỏng hết.",
             "d": {
               "sinh": -2
             }
@@ -841,7 +841,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cha nhìn phong bì rất lâu rồi cất vào ngăn trà. «Ba hiểu.» Cô thấy sống mũi cay cay.",
+            "x": "Cha nhìn phong bì rất lâu rồi cất vào ngăn trà. «Ba hiểu.» Bạn thấy sống mũi cay cay.",
             "d": {
               "sinh": 1
             },
@@ -849,7 +849,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Mẹ hỏi dồn nhiều quá, cô phải đổi chủ đề. Bữa cơm hơi gượng.",
+            "x": "Mẹ hỏi dồn nhiều quá, bạn phải đổi chủ đề. Bữa cơm hơi gượng.",
             "d": {
               "sinh": -2
             }
@@ -861,14 +861,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cha rạng rỡ kể chuyện bộ ấm cổ. Cô khéo léo đưa phong bì lúc ông đang vui.",
+            "x": "Cha rạng rỡ kể chuyện bộ ấm cổ. Bạn khéo léo đưa phong bì lúc ông đang vui.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô làm đổ chén trà quý. Cha tiếc đứt ruột nhưng vẫn cười, phong bì đưa trong im lặng.",
+            "x": "Bạn làm đổ chén trà quý. Cha tiếc đứt ruột nhưng vẫn cười, phong bì đưa trong im lặng.",
             "d": {
               "sinh": -2
             }
@@ -876,7 +876,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Nhà cha mẹ cô, ngày Chủ nhật. Cô đưa cha phong bì chứng cứ.",
+      "ctx": "Nhà cha mẹ bạn, ngày Chủ nhật. Bạn đưa cha phong bì chứng cứ.",
       "no": 9
     },
     {
@@ -885,7 +885,7 @@
       "place": "Tiệm bánh sang trọng · Chiều",
       "kind": "chon",
       "title": "Bánh kem và đồng hồ",
-      "text": "Chiều hôm trước ngày thử khoang trò chơi, Tiểu Hạnh tới một tiệm bánh sang trọng. Sinh nhật Duật Lâm còn mấy ngày nữa, nhưng cô đặt trước: một chiếc bánh kem viết «Thích anh còn nóng bỏng hơn thích trò chơi», kèm chiếc đồng hồ đắt nhất cô tìm được, nhờ cửa hàng trưởng mang tận Thịnh thị đúng ngày. Cô nói với cửa hàng trưởng: «Tôi từng coi trò chơi là sinh mệnh.» Cô có thể viết thêm một tấm thiệp tay, hoặc chỉ để dòng chữ trên bánh.",
+      "text": "Chiều hôm trước ngày thử khoang trò chơi, bạn tới một tiệm bánh sang trọng. Sinh nhật Duật Lâm còn mấy ngày nữa, nhưng bạn đặt trước: một chiếc bánh kem viết «Thích anh còn nóng bỏng hơn thích trò chơi», kèm chiếc đồng hồ đắt nhất bạn tìm được, nhờ cửa hàng trưởng mang tận Thịnh thị đúng ngày. Bạn nói với cửa hàng trưởng: «Tôi từng coi trò chơi là sinh mệnh.» Bạn có thể viết thêm một tấm thiệp tay, hoặc chỉ để dòng chữ trên bánh.",
       "tieu": "Món quà này sẽ tới khi cô đã không còn ở đó. Hắn sẽ phải tự nhận lấy nó.",
       "cast": "mg_hanh,tc",
       "ch": [
@@ -894,7 +894,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô viết ba chữ cuối cùng rồi gấp tấm thiệp lại. Chữ cô nắn nót hơn mọi khi.",
+            "x": "Bạn viết ba chữ cuối cùng rồi gấp tấm thiệp lại. Chữ bạn nắn nót hơn mọi khi.",
             "d": {
               "sinh": 1
             },
@@ -902,7 +902,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô viết hỏng hai tờ, tờ thứ ba nét chữ hơi run. Cô nhìn nó rất lâu.",
+            "x": "Bạn viết hỏng hai tờ, tờ thứ ba nét chữ hơi run. Bạn nhìn nó rất lâu.",
             "d": {
               "sinh": -2
             }
@@ -921,7 +921,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Cửa hàng trưởng đọc dòng chữ rồi bật cười thành tiếng. Cô hơi đỏ mặt.",
+            "x": "Cửa hàng trưởng đọc dòng chữ rồi bật cười thành tiếng. Bạn hơi đỏ mặt.",
             "d": {
               "sinh": -2
             }
@@ -940,7 +940,7 @@
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Chiếc đồng hồ hơi rộng, phải điều chỉnh dây. Cô đành đợi thêm một lúc.",
+            "x": "Chiếc đồng hồ hơi rộng, phải điều chỉnh dây. Bạn đành đợi thêm một lúc.",
             "d": {
               "sinh": -2
             }
@@ -948,16 +948,16 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Tiệm bánh sang trọng, chiều hôm trước ngày thử khoang. Cô đặt bánh và đồng hồ.",
+      "ctx": "Tiệm bánh sang trọng, chiều hôm trước ngày thử khoang. Bạn đặt bánh và đồng hồ.",
       "no": 10
     },
     {
       "id": "m11",
       "scene": "yroom",
-      "place": "Nhà cô · Phòng phát sóng",
+      "place": "Nhà bạn · Phòng phát sóng",
       "kind": "chon",
       "title": "Chén trà và lời hứa",
-      "text": "Chiều hôm thử khoang trò chơi, Duật Lâm tới nhà cô, tay nắm chặt chiếc USB trong túi áo. Anh xin uống trà «xem có ngon như cà phê không». Cô pha bằng bộ trà của cha; anh nhấp một ngụm rồi thầm nghĩ cô là cô gái hoàn hảo. Hai người vào phòng phát sóng; anh cài trò chơi, không dám ngoảnh lại. Cô nhắc nhẹ: tháng sau cô sẽ mang anh về gặp ba mẹ, và quà sinh nhật gửi tới công ty nhớ ký nhận. Cô có thể nói nhẹ nhàng, hoặc đùa để anh bớt căng.",
+      "text": "Chiều hôm thử khoang trò chơi, Duật Lâm tới nhà bạn, tay nắm chặt chiếc USB trong túi áo. Anh xin uống trà «xem có ngon như cà phê không». Bạn pha bằng bộ trà của cha; anh nhấp một ngụm rồi thầm nghĩ bạn là cô gái hoàn hảo. Hai người vào phòng phát sóng; anh cài trò chơi, không dám ngoảnh lại. Bạn nhắc nhẹ: tháng sau bạn sẽ mang anh về gặp ba mẹ, và quà sinh nhật gửi tới công ty nhớ ký nhận. Bạn có thể nói nhẹ nhàng, hoặc đùa để anh bớt căng.",
       "tieu": "Hắn đang run. Đừng nói quá rõ, cũng đừng để mình run theo.",
       "cast": "mg_hanh,mg_lam,tc",
       "ch": [
@@ -973,7 +973,7 @@
           },
           "b": 0.5906666666666667,
           "bad": {
-            "x": "Cô nói đúng lúc anh đang nghĩ chuyện khác, anh giật mình hỏi lại «em nói gì?».",
+            "x": "Bạn nói đúng lúc anh đang nghĩ chuyện khác, anh giật mình hỏi lại «em nói gì?».",
             "d": {
               "nn": 3,
               "sinh": -1
@@ -1020,14 +1020,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh nghe xong thở ra một hơi dài. Hắn tin cô cũng háo hức như hắn tưởng.",
+            "x": "Anh nghe xong thở ra một hơi dài. Hắn tin bạn cũng háo hức như hắn tưởng.",
             "d": {
               "nn": 2
             }
           },
           "b": 0.3570666666666664,
           "bad": {
-            "x": "Câu ấy nghe như đã tập từ trước. Anh nhìn cô lâu, ngón tay siết chặt túi áo.",
+            "x": "Câu ấy nghe như đã tập từ trước. Anh nhìn bạn lâu, ngón tay siết chặt túi áo.",
             "d": {
               "nn": 8,
               "sinh": -2
@@ -1043,7 +1043,7 @@
           "b0": 0.47
         }
       ],
-      "ctx": "Nhà cô, chiều hôm thử khoang trò chơi. Cô pha trà cho anh.",
+      "ctx": "Nhà bạn, chiều hôm thử khoang trò chơi. Bạn pha trà cho anh.",
       "no": 11
     },
     {
@@ -1052,7 +1052,7 @@
       "place": "Khoang trò chơi · Khoảnh khắc đầu tiên",
       "kind": "nan",
       "title": "Nút ẩn",
-      "text": "Tiểu Hạnh nằm xuống khoang, nháy mắt «lát nữa gặp» rồi nhắm mắt. Năm phút sau, Duật Lâm ấn nút ẩn ngoài khoang. Một chương trình trói linh hồn cô trong nửa giờ, và một mảnh sóng điện não nhỏ, Cát Tiểu Nghi, chui vào đầu cô, chưa thức dậy. Tiểu Châu nhắc: kháng cự mạnh thì lộ, để mặc thì không đau. Cô có thể để mặc, hoặc giữ một lõi tỉnh táo trong đầu. Nếu Duật Lâm đã nghi ngờ nhiều, anh sẽ trói chặt hơn.",
+      "text": "Bạn nằm xuống khoang, nháy mắt «lát nữa gặp» rồi nhắm mắt. Năm phút sau, Duật Lâm ấn nút ẩn ngoài khoang. Một chương trình trói linh hồn bạn trong nửa giờ, và một mảnh sóng điện não nhỏ, Cát Tiểu Nghi, chui vào đầu bạn, chưa thức dậy. Tiểu Châu nhắc: kháng cự mạnh thì lộ, để mặc thì không đau. Bạn có thể để mặc, hoặc giữ một lõi tỉnh táo trong đầu. Nếu Duật Lâm đã nghi ngờ nhiều, anh sẽ trói chặt hơn.",
       "tieu": "Hắn cẩn thận hơn ngươi nghĩ. Càng nhiều nghi ngờ, càng bị trói chặt.",
       "cast": "mg_hanh,mg_lam,mg_nghi,tc",
       "ch": [
@@ -1061,12 +1061,12 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô thả lỏng như ngủ. Chương trình chạy mượt, không đau, không dấu vết.",
+            "x": "Bạn thả lỏng như ngủ. Chương trình chạy mượt, không đau, không dấu vết.",
             "d": {}
           },
           "b": 0.6168000000000001,
           "bad": {
-            "x": "Cô vô thức gồng lại một chút. Dây trói siết lên, buốt như kim châm.",
+            "x": "Bạn vô thức gồng lại một chút. Dây trói siết lên, buốt như kim châm.",
             "d": {
               "sinh": -8
             }
@@ -1081,12 +1081,12 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô giữ được một đốm sáng nhỏ trong đầu. Mọi bước của chương trình in vào trí nhớ.",
+            "x": "Bạn giữ được một đốm sáng nhỏ trong đầu. Mọi bước của chương trình in vào trí nhớ.",
             "d": {}
           },
           "b": 0.3831999999999999,
           "bad": {
-            "x": "Lõi tỉnh táo bị chương trình quét qua, cô choáng váng rất lâu.",
+            "x": "Lõi tỉnh táo bị chương trình quét qua, bạn choáng váng rất lâu.",
             "d": {
               "sinh": -10
             }
@@ -1101,12 +1101,12 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Nghĩ đến người đang đợi ở phía trước, cô thấy nhẹ lòng. Nửa giờ trôi nhanh hơn cô tưởng.",
+            "x": "Nghĩ đến người đang đợi ở phía trước, bạn thấy nhẹ lòng. Nửa giờ trôi nhanh hơn bạn tưởng.",
             "d": {}
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô bị phân tâm đúng lúc chương trình đổi nhịp. Một nhát đau chạy dọc sống lưng.",
+            "x": "Bạn bị phân tâm đúng lúc chương trình đổi nhịp. Một nhát đau chạy dọc sống lưng.",
             "d": {
               "sinh": -9
             }
@@ -1126,7 +1126,7 @@
       "place": "Trong laptop · Mạng lưới nhiều tầng",
       "kind": "duyen",
       "title": "Dưới lớp tường lửa",
-      "text": "Linh hồn cô rơi vào những lớp lưới đủ màu; cô nhận ra chúng không ngăn được mình. Ngoài màn hình, Duật Lâm ngồi trước laptop, xin lỗi rất khẽ, hứa một ngày nào đó sẽ đưa cô trở lại và «mỗi ngày mang cô bên người». Cô nghe, quyết định không để anh biết cô tỉnh. Cô có thể nghe hết lời anh nói, hoặc rời đi ngay vào vùng mạng ngoài.",
+      "text": "Linh hồn bạn rơi vào những lớp lưới đủ màu; bạn nhận ra chúng không ngăn được mình. Ngoài màn hình, Duật Lâm ngồi trước laptop, xin lỗi rất khẽ, hứa một ngày nào đó sẽ đưa bạn trở lại và «mỗi ngày mang cô bên người». Bạn nghe, quyết định không để anh biết bạn tỉnh. Bạn có thể nghe hết lời anh nói, hoặc rời đi ngay vào vùng mạng ngoài.",
       "tieu": "Nghe hết cũng được, không nghe cũng được. Điều quan trọng là hắn không biết ngươi đã nghe.",
       "cast": "mg_hanh,mg_lam,tc",
       "ch": [
@@ -1135,7 +1135,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô hiểu thêm: hắn thật sự đau, nhưng vẫn làm. Cô không tha thứ, chỉ ghi nhớ.",
+            "x": "Bạn hiểu thêm: hắn thật sự đau, nhưng vẫn làm. Bạn không tha thứ, chỉ ghi nhớ.",
             "d": {
               "sinh": 1
             },
@@ -1143,7 +1143,7 @@
           },
           "b": 0.48386666666666683,
           "bad": {
-            "x": "Cô lơ đãng bỏ qua mấy câu giữa chừng. Cô đành đoán phần còn thiếu.",
+            "x": "Bạn lơ đãng bỏ qua mấy câu giữa chừng. Bạn đành đoán phần còn thiếu.",
             "d": {
               "sinh": -2
             }
@@ -1155,14 +1155,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô lướt qua lớp lưới cuối như đi qua màn nước. Phía trước rộng thênh thang.",
+            "x": "Bạn lướt qua lớp lưới cuối như đi qua màn nước. Phía trước rộng thênh thang.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.6006666666666669,
           "bad": {
-            "x": "Cô lao quá nhanh, sượt qua một lớp tường lửa. Một dòng điện mảnh cắt qua cô.",
+            "x": "Bạn lao quá nhanh, sượt qua một lớp tường lửa. Một dòng điện mảnh cắt qua bạn.",
             "d": {
               "sinh": -4
             }
@@ -1177,14 +1177,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô rời đi đúng lúc anh gục đầu xuống bàn. Cô không muốn nhìn tiếp.",
+            "x": "Bạn rời đi đúng lúc anh gục đầu xuống bàn. Bạn không muốn nhìn tiếp.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.42546666666666677,
           "bad": {
-            "x": "Cô chọn nhầm lúc, tiếng anh thì thầm đuổi theo suốt quãng đường.",
+            "x": "Bạn chọn nhầm lúc, tiếng anh thì thầm đuổi theo suốt quãng đường.",
             "d": {
               "sinh": -3
             }
@@ -1204,7 +1204,7 @@
       "place": "Phòng phát sóng · Ly nước đổ",
       "kind": "hiem",
       "title": "Ly nước đổ",
-      "text": "Cát Tiểu Nghi thức dậy trong thân xác mới. Cô bé bò ra khỏi khoang, chân chưa quen, vấp một cái, hất ly nước lên laptop rồi đẩy máy rơi xuống sàn. Điện chập. Tiểu Hạnh đang đậu trong ổ cứng thấy dòng điện quét qua như lưỡi dao. Duật Lâm bỏ rơi Nghi mà lao tới cứu máy. Cô có thể trượt ra theo dây mạng, hoặc nép vào ổ nhớ phụ. Chọn sai thì chịu nguyên một nhát điện. Tiểu Nghi ngã khóc phía sau, anh không quay đầu lại.",
+      "text": "Cát Tiểu Nghi thức dậy trong thân xác mới. Cô bé bò ra khỏi khoang, chân chưa quen, vấp một cái, hất ly nước lên laptop rồi đẩy máy rơi xuống sàn. Điện chập. Bạn đang đậu trong ổ cứng thấy dòng điện quét qua như lưỡi dao. Duật Lâm bỏ rơi Nghi mà lao tới cứu máy. Bạn có thể trượt ra theo dây mạng, hoặc nép vào ổ nhớ phụ. Chọn sai thì chịu nguyên một nhát điện. Tiểu Nghi ngã khóc phía sau, anh không quay đầu lại.",
       "tieu": "Đây là lần đầu máy suýt hủy ngươi. Đừng nghĩ đến những người xung quanh, hãy nghĩ cách thoát.",
       "cast": "mg_hanh,mg_lam,mg_nghi,tc",
       "ch": [
@@ -1213,12 +1213,12 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô trượt ra khỏi ổ cứng đúng lúc dòng điện quét qua chỗ cô vừa đứng. Cô thở ra, người run bần bật.",
+            "x": "Bạn trượt ra khỏi ổ cứng đúng lúc dòng điện quét qua chỗ bạn vừa đứng. Bạn thở ra, người run bần bật.",
             "d": {}
           },
           "b": 0.49,
           "bad": {
-            "x": "Dòng điện đuổi kịp cô giữa đường dây. Một nhát buốt đến tận hồn.",
+            "x": "Dòng điện đuổi kịp bạn giữa đường dây. Một nhát buốt đến tận hồn.",
             "d": {
               "sinh": -12
             }
@@ -1233,12 +1233,12 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Phân vùng khóa lại đúng lúc, điện chạy qua rồi tắt. Cô an toàn trong một góc nhỏ.",
+            "x": "Phân vùng khóa lại đúng lúc, điện chạy qua rồi tắt. Bạn an toàn trong một góc nhỏ.",
             "d": {}
           },
           "b": 0.43159999999999993,
           "bad": {
-            "x": "Cô khóa chậm nửa nhịp, dòng điện quét qua một góc hồn cô.",
+            "x": "Bạn khóa chậm nửa nhịp, dòng điện quét qua một góc hồn bạn.",
             "d": {
               "sinh": -12
             }
@@ -1253,12 +1253,12 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Tiểu Châu chỉ ngay một cổng nhỏ ở bên phải. Cô chui qua trong chớp mắt.",
+            "x": "Tiểu Châu chỉ ngay một cổng nhỏ ở bên phải. Bạn chui qua trong chớp mắt.",
             "d": {}
           },
           "b": 0.5484,
           "bad": {
-            "x": "Tiểu Châu bị nhiễu, chỉ hướng chậm. Cô chạy theo, bị quét trúng.",
+            "x": "Tiểu Châu bị nhiễu, chỉ hướng chậm. Bạn chạy theo, bị quét trúng.",
             "d": {
               "sinh": -12
             }
@@ -1275,10 +1275,10 @@
     {
       "id": "m15",
       "scene": "ydesk",
-      "place": "Nhà Tiểu Hạnh · Laptop đã sửa xong",
+      "place": "Nhà bạn · Laptop đã sửa xong",
       "kind": "duyen",
       "title": "Tìm không thấy",
-      "text": "Laptop được sửa xong. Duật Lâm khôi phục cả dữ liệu đã xóa nhưng không thấy Tiểu Hạnh đâu. Tiểu Nghi, ngồi bên cạnh trong thân xác của Tiểu Hạnh, hỏi anh đang tìm gì; anh đáp «không tìm lại được». Anh nhận ra mình vừa lo cho cái máy hơn lo cho Tiểu Nghi, nên dỗ cô bé: «Nhiều cười đi, khuôn mặt này không nên khóc.» Tiểu Hạnh, đậu trong một góc mạng, nghe tất cả. Cô có thể tiếp tục ngồi nghe, hoặc đi dạo vào những vùng mạng xa hơn.",
+      "text": "Laptop được sửa xong. Duật Lâm khôi phục cả dữ liệu đã xóa nhưng không thấy bạn đâu. Tiểu Nghi, ngồi bên cạnh trong thân xác của bạn, hỏi anh đang tìm gì; anh đáp «không tìm lại được». Anh nhận ra mình vừa lo cho cái máy hơn lo cho Tiểu Nghi, nên dỗ cô bé: «Nhiều cười đi, khuôn mặt này không nên khóc.» Bạn, đậu trong một góc mạng, nghe tất cả. Bạn có thể tiếp tục ngồi nghe, hoặc đi dạo vào những vùng mạng xa hơn.",
       "tieu": "Hắn đang tự lừa mình, còn ngươi không thể chen vào. Cứ nghe và ghi nhớ.",
       "cast": "mg_hanh,mg_lam,mg_nghi,tc",
       "ch": [
@@ -1287,7 +1287,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô nhận ra giọng hắn nhẹ hẳn đi mỗi lần nói «Tiểu Hạnh». Điều ấy hữu ích về sau.",
+            "x": "Bạn nhận ra giọng hắn nhẹ hẳn đi mỗi lần nói «Tiểu Hạnh». Điều ấy hữu ích về sau.",
             "d": {
               "sinh": 1
             },
@@ -1295,7 +1295,7 @@
           },
           "b": 0.5161333333333334,
           "bad": {
-            "x": "Cô nghe lẫn lộn hai giọng nói, đầu óc rối như tơ vò.",
+            "x": "Bạn nghe lẫn lộn hai giọng nói, đầu óc rối như tơ vò.",
             "d": {
               "sinh": -2
             }
@@ -1307,14 +1307,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô đi qua những vùng sáng như thành phố ban đêm. Lần đầu cô thấy mạng đẹp.",
+            "x": "Bạn đi qua những vùng sáng như thành phố ban đêm. Lần đầu bạn thấy mạng đẹp.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5745333333333335,
           "bad": {
-            "x": "Cô lạc vào một vùng nhiễu, mất khá lâu mới tìm được đường về.",
+            "x": "Bạn lạc vào một vùng nhiễu, mất khá lâu mới tìm được đường về.",
             "d": {
               "sinh": -2
             }
@@ -1329,14 +1329,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Một dòng chữ mờ hiện lên rồi biến mất. Cô thấy mình chưa hoàn toàn bị nhốt.",
+            "x": "Một dòng chữ mờ hiện lên rồi biến mất. Bạn thấy mình chưa hoàn toàn bị nhốt.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.3993333333333333,
           "bad": {
-            "x": "Dấu hiệu bị bộ lọc của máy xóa ngay. Cô chỉ còn biết thở dài.",
+            "x": "Dấu hiệu bị bộ lọc của máy xóa ngay. Bạn chỉ còn biết thở dài.",
             "d": {
               "sinh": -2
             }
@@ -1347,7 +1347,7 @@
           "b0": 0.48
         }
       ],
-      "ctx": "Nhà Tiểu Hạnh, laptop đã sửa xong. Cô nằm trong một góc mạng, nghe cả hai người nói.",
+      "ctx": "Nhà bạn, laptop đã sửa xong. Bạn nằm trong một góc mạng, nghe cả hai người nói.",
       "no": 15
     },
     {
@@ -1356,7 +1356,7 @@
       "place": "Phòng phát sóng · Một tuần sau",
       "kind": "chon",
       "title": "Phát sóng giả",
-      "text": "Tuần sau, Duật Lâm dạy Tiểu Nghi bắt chước cách nói của Hạnh Hạnh qua những video cũ. Giọng vẫn là giọng ấy, nên hầu hết người xem chưa nhận ra. Chỉ có Đỗ Tiểu Mãn, quản trị viên, nhắn riêng cho cô bé: «Chủ bá hôm nay lạ lạ.» Tiểu Hạnh nhìn qua camera, thấy hết. Cô có thể để Tiểu Mãn tự nghi, hoặc thả một dấu hiệu nhỏ lên màn hình để cô ấy chắc chắn hơn.",
+      "text": "Tuần sau, Duật Lâm dạy Tiểu Nghi bắt chước cách nói của Hạnh Hạnh qua những video cũ. Giọng vẫn là giọng ấy, nên hầu hết người xem chưa nhận ra. Chỉ có Đỗ Tiểu Mãn, quản trị viên, nhắn riêng cho cô bé: «Chủ bá hôm nay lạ lạ.» Bạn nhìn qua camera, thấy hết. Bạn có thể để Tiểu Mãn tự nghi, hoặc thả một dấu hiệu nhỏ lên màn hình để cô ấy chắc chắn hơn.",
       "tieu": "Tiểu Mãn là người tin ngươi nhất. Đừng làm cô ấy hoảng, nhưng cũng đừng để cô ấy bị lừa.",
       "cast": "mg_hanh,mg_man,mg_nghi,tc",
       "ch": [
@@ -1405,14 +1405,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Tiểu Nghi cười gượng trước ống kính, tay run run. Cô hiểu cô bé cũng đang bị lừa.",
+            "x": "Tiểu Nghi cười gượng trước ống kính, tay run run. Bạn hiểu cô bé cũng đang bị lừa.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô nhìn quá lâu, quên cả theo dõi diễn biến phòng chat.",
+            "x": "Bạn nhìn quá lâu, quên cả theo dõi diễn biến phòng chat.",
             "d": {
               "sinh": -2
             }
@@ -1429,7 +1429,7 @@
       "place": "Mạng lưới · Nhiều ngày sau",
       "kind": "duyen",
       "title": "Lướt trong mạng",
-      "text": "Nhiều ngày sau, Tiểu Hạnh thử xuyên các lớp tường nhưng không xem tư liệu riêng của ai. Cô tìm những nơi người ta bày mưu: tin nhắn lừa đảo, rao bán thông tin cá nhân, chuyển tiền giả. Cô tập nhận ra dấu vết của giao dịch giả: giờ giấc bất thường, số tiền tròn, địa chỉ nhận trùng lặp. Cô có thể theo vụ lừa đảo lớn nhất mà cô vừa thấy, hoặc giữ thời gian để nghiên cứu cách mạng vận hành.",
+      "text": "Nhiều ngày sau, bạn thử xuyên các lớp tường nhưng không xem tư liệu riêng của ai. Bạn tìm những nơi người ta bày mưu: tin nhắn lừa đảo, rao bán thông tin cá nhân, chuyển tiền giả. Bạn tập nhận ra dấu vết của giao dịch giả: giờ giấc bất thường, số tiền tròn, địa chỉ nhận trùng lặp. Bạn có thể theo vụ lừa đảo lớn nhất mà bạn vừa thấy, hoặc giữ thời gian để nghiên cứu cách mạng vận hành.",
       "tieu": "Không ai dạy ngươi điều này, nhưng ngươi có thời gian. Tập nhận diện cho thật chắc.",
       "cast": "mg_hanh,tc",
       "ch": [
@@ -1438,14 +1438,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô theo tới tận đầu mối, ghi lại từng bước. Mười hai nạn nhân sắp được cảnh báo.",
+            "x": "Bạn theo tới tận đầu mối, ghi lại từng bước. Mười hai nạn nhân sắp được cảnh báo.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô bám theo quá sát, đầu mối đóng cửa trước khi cô ghi đủ.",
+            "x": "Bạn bám theo quá sát, đầu mối đóng cửa trước khi bạn ghi đủ.",
             "d": {
               "sinh": -2
             }
@@ -1457,14 +1457,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô vẽ được bản đồ thô của vùng mạng quanh nhà. Cô thấy mình bắt đầu hiểu.",
+            "x": "Bạn vẽ được bản đồ thô của vùng mạng quanh nhà. Bạn thấy mình bắt đầu hiểu.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5584,
           "bad": {
-            "x": "Bản đồ vẽ sai một tuyến, cô phải xóa đi làm lại.",
+            "x": "Bản đồ vẽ sai một tuyến, bạn phải xóa đi làm lại.",
             "d": {
               "sinh": -2
             }
@@ -1476,14 +1476,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hai người nhận cảnh báo và hủy giao dịch kịp. Cô thấy mình làm được điều gì đó.",
+            "x": "Hai người nhận cảnh báo và hủy giao dịch kịp. Bạn thấy mình làm được điều gì đó.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Tin nhắn cảnh báo bị đánh dấu là spam. Cô đành chấp nhận.",
+            "x": "Tin nhắn cảnh báo bị đánh dấu là spam. Bạn đành chấp nhận.",
             "d": {
               "sinh": -2
             }
@@ -1491,7 +1491,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Mạng lưới, nhiều ngày sau. Cô tập nhận ra dấu vết giao dịch giả.",
+      "ctx": "Mạng lưới, nhiều ngày sau. Bạn tập nhận ra dấu vết giao dịch giả.",
       "learn": {
         "n": "Nhận diện lừa đảo mạng",
         "s": "tri",
@@ -1505,7 +1505,7 @@
       "place": "Diễn đàn Vô Cương · Máy chủ nước ngoài",
       "kind": "hiem",
       "title": "Diễn đàn Vô Cương",
-      "text": "Theo dấu vụ lừa đảo, cô tìm ra một diễn đàn ẩn tên Vô Cương, đặt máy chủ nước ngoài. Kẻ cầm đầu, biệt danh Hạc Sát, khoe giữa diễn đàn: «Máy chủ nước ngoài, ai quản được?» Cô thu bằng chứng gửi vào hộp thư đội trưởng Lữ Kiến Bình của đội chuyên án mạng. Hạc Sát thấy dòng truy ngược liền phản công. Cô phải chọn: cắt đường quay lại, hoặc vòng qua một máy chủ trung gian. Sau cú này, cảnh sát bắt nhiều thành viên, còn Hạc Sát chạy ra nước ngoài và thề trả thù kẻ «làm cả diễn đàn sụp».",
+      "text": "Theo dấu vụ lừa đảo, bạn tìm ra một diễn đàn ẩn tên Vô Cương, đặt máy chủ nước ngoài. Kẻ cầm đầu, biệt danh Hạc Sát, khoe giữa diễn đàn: «Máy chủ nước ngoài, ai quản được?» Bạn thu bằng chứng gửi vào hộp thư đội trưởng Lữ Kiến Bình của đội chuyên án mạng. Hạc Sát thấy dòng truy ngược liền phản công. Bạn phải chọn: cắt đường quay lại, hoặc vòng qua một máy chủ trung gian. Sau cú này, cảnh sát bắt nhiều thành viên, còn Hạc Sát chạy ra nước ngoài và thề trả thù kẻ «làm cả diễn đàn sụp».",
       "tieu": "Hạc Sát sẽ ghi nhớ kẻ làm sập diễn đàn của hắn. Nhưng bằng chứng này đáng giá hơn nỗi sợ.",
       "cast": "mg_hanh,mg_sat,mg_binh,tc",
       "ch": [
@@ -1519,7 +1519,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Hạc Sát bắt kịp nửa nhịp trước khi đường dây đứt. Một nhát đau chạy qua người cô.",
+            "x": "Hạc Sát bắt kịp nửa nhịp trước khi đường dây đứt. Một nhát đau chạy qua người bạn.",
             "d": {
               "sinh": -10
             }
@@ -1534,7 +1534,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô vòng ba lớp, gửi đi từ một máy chủ xa lạ. Hạc Sát không lần ra được.",
+            "x": "Bạn vòng ba lớp, gửi đi từ một máy chủ xa lạ. Hạc Sát không lần ra được.",
             "d": {}
           },
           "b": 0.5484,
@@ -1554,7 +1554,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô để lại dấu vết giả, Hạc Sát tưởng truy ngược về một kẻ khác. Cô thoát nhẹ nhàng.",
+            "x": "Bạn để lại dấu vết giả, Hạc Sát tưởng truy ngược về một kẻ khác. Bạn thoát nhẹ nhàng.",
             "d": {}
           },
           "b": 0.43159999999999993,
@@ -1584,7 +1584,7 @@
       "place": "Văn phòng Duật Lâm · Sinh nhật",
       "kind": "duyen",
       "title": "Bánh kem tới Thịnh thị",
-      "text": "Sinh nhật Duật Lâm. Cô xem qua camera văn phòng: cửa hàng trưởng mang bánh kem và đồng hồ tới, hát chúc mừng. Duật Lâm đọc dòng chữ «Thích anh còn nóng bỏng hơn thích trò chơi» rồi gục xuống bàn khóc; đồng nghiệp tưởng anh vui quá. Anh đeo chiếc đồng hồ, không dám chạm vào nữa. Chiều họp nhóm khoang trò chơi, anh thất thần, bảo tìm người thử khác, không dùng Hạnh Hạnh nữa. Cô có thể xem tiếp, hoặc ngắt cảnh.",
+      "text": "Sinh nhật Duật Lâm. Bạn xem qua camera văn phòng: cửa hàng trưởng mang bánh kem và đồng hồ tới, hát chúc mừng. Duật Lâm đọc dòng chữ «Thích anh còn nóng bỏng hơn thích trò chơi» rồi gục xuống bàn khóc; đồng nghiệp tưởng anh vui quá. Anh đeo chiếc đồng hồ, không dám chạm vào nữa. Chiều họp nhóm khoang trò chơi, anh thất thần, bảo tìm người thử khác, không dùng Hạnh Hạnh nữa. Bạn có thể xem tiếp, hoặc ngắt cảnh.",
       "tieu": "Hắn có tim, và đó là lý do ngươi phải cẩn thận. Cái tim ấy không ngăn được bàn tay hắn.",
       "cast": "mg_hanh,mg_lam,mg_hy,tc",
       "ch": [
@@ -1593,7 +1593,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô thấy anh nhìn mãi chiếc đồng hồ, tay gõ nhịp không đều. Cô hiểu hắn đang chịu đựng.",
+            "x": "Bạn thấy anh nhìn mãi chiếc đồng hồ, tay gõ nhịp không đều. Bạn hiểu hắn đang chịu đựng.",
             "d": {
               "sinh": 1
             },
@@ -1601,7 +1601,7 @@
           },
           "b": 0.5484,
           "bad": {
-            "x": "Camera ngắt kết nối giữa chừng, cô chỉ kịp xem một nửa.",
+            "x": "Camera ngắt kết nối giữa chừng, bạn chỉ kịp xem một nửa.",
             "d": {
               "sinh": -2
             }
@@ -1613,7 +1613,7 @@
           "h": "Chắc chắn",
           "s": null,
           "ok": {
-            "x": "Cô quay đi. Cô không muốn nhìn thêm một giọt nước mắt nào của hắn.",
+            "x": "Bạn quay đi. Bạn không muốn nhìn thêm một giọt nước mắt nào của hắn.",
             "d": {}
           }
         },
@@ -1622,14 +1622,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Hắn thốt lên «không dùng Hạnh Hạnh nữa». Cô ghi nhớ lời ấy, và cả cái giọng khản đặc.",
+            "x": "Hắn thốt lên «không dùng Hạnh Hạnh nữa». Bạn ghi nhớ lời ấy, và cả cái giọng khản đặc.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.43159999999999993,
           "bad": {
-            "x": "Lời nói bị tiếng ồn lấn át, cô nghe không rõ.",
+            "x": "Lời nói bị tiếng ồn lấn át, bạn nghe không rõ.",
             "d": {
               "sinh": -2
             }
@@ -1637,7 +1637,7 @@
           "b0": 0.48
         }
       ],
-      "ctx": "Văn phòng Duật Lâm, sinh nhật anh. Cô xem qua camera.",
+      "ctx": "Văn phòng Duật Lâm, sinh nhật anh. Bạn xem qua camera.",
       "no": 19
     },
     {
@@ -1646,7 +1646,7 @@
       "place": "Nhà họ Thịnh · Phòng thay đồ",
       "kind": "duyen",
       "title": "Phòng thay đồ đầy ắp",
-      "text": "Tối sinh nhật, Đàm Thục Phân, mẹ của Duật Lâm, gọi hỏi sao mấy hôm không thấy Hạnh. Duật Lâm đưa Tiểu Nghi đến dự tiệc ở nhà họ Thịnh, dặn cô bé ít nói. Ông bà Thịnh thấy cô khác lạ nhưng tin cô «mệt». Mẹ anh nhắc tới tủ đồ cô chuẩn bị cho anh. Khuya, Duật Lâm mở phòng thay đồ ở nhà mình và nhà cô: toàn quần áo nam đủ bốn mùa, từng bộ có ghi cách phối. Anh ngồi xuống sàn mà khóc. Cha anh, Thịnh Vĩnh Khang, đứng ở cửa, nhìn con, lặng lẽ. Cô có thể xem tiếp, hoặc ngắt cảnh.",
+      "text": "Tối sinh nhật, Đàm Thục Phân, mẹ của Duật Lâm, gọi hỏi sao mấy hôm không thấy Hạnh. Duật Lâm đưa Tiểu Nghi đến dự tiệc ở nhà họ Thịnh, dặn cô bé ít nói. Ông bà Thịnh thấy bạn khác lạ nhưng tin bạn «mệt». Mẹ anh nhắc tới tủ đồ bạn chuẩn bị cho anh. Khuya, Duật Lâm mở phòng thay đồ ở nhà mình và nhà bạn: toàn quần áo nam đủ bốn mùa, từng bộ có ghi cách phối. Anh ngồi xuống sàn mà khóc. Cha anh, Thịnh Vĩnh Khang, đứng ở cửa, nhìn con, lặng lẽ. Bạn có thể xem tiếp, hoặc ngắt cảnh.",
       "tieu": "Cha của hắn nhìn thấy nhiều hơn hắn tưởng. Ghi nhớ ánh mắt ấy.",
       "cast": "mg_hanh,mg_lam,mg_khang,mg_phan,tc",
       "ch": [
@@ -1663,7 +1663,7 @@
           },
           "b": 0.5242,
           "bad": {
-            "x": "Camera chuyển cảnh trước khi cô kịp nhìn rõ nét mặt ông.",
+            "x": "Camera chuyển cảnh trước khi bạn kịp nhìn rõ nét mặt ông.",
             "d": {
               "sinh": -2
             }
@@ -1675,7 +1675,7 @@
           "h": "Chắc chắn",
           "s": null,
           "ok": {
-            "x": "Cô nghỉ trong một vùng mạng yên tĩnh, nhìn dòng dữ liệu trôi chậm chạp.",
+            "x": "Bạn nghỉ trong một vùng mạng yên tĩnh, nhìn dòng dữ liệu trôi chậm chạp.",
             "d": {}
           }
         },
@@ -1684,14 +1684,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Bà Phân nắn tay Tiểu Nghi rất dịu, nhưng ánh mắt bà thoáng lạ. Cô ghi nhớ.",
+            "x": "Bà Phân nắn tay Tiểu Nghi rất dịu, nhưng ánh mắt bà thoáng lạ. Bạn ghi nhớ.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.4658,
           "bad": {
-            "x": "Cô bị lẫn giữa mấy giọng nói trong bữa tiệc, bỏ lỡ câu quan trọng.",
+            "x": "Bạn bị lẫn giữa mấy giọng nói trong bữa tiệc, bỏ lỡ câu quan trọng.",
             "d": {
               "sinh": -2
             }
@@ -1699,16 +1699,16 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Nhà họ Thịnh và nhà cô, tối sinh nhật. Duật Lâm mở phòng thay đồ.",
+      "ctx": "Nhà họ Thịnh và nhà bạn, tối sinh nhật. Duật Lâm mở phòng thay đồ.",
       "no": 20
     },
     {
       "id": "m21",
       "scene": "ydesk",
-      "place": "Nhà Tiểu Hạnh · Đêm đó",
+      "place": "Nhà bạn · Đêm đó",
       "kind": "duyen",
       "title": "USB bị bỏ quên",
-      "text": "Đêm đó, Duật Lâm để quên chiếc USB ở nhà Tiểu Hạnh. Tiểu Nghi tò mò cắm vào, thấy ba trò chơi kinh dị: Cương Thi tân nương, Hấp Huyết Quỷ tân nương, Quỷ Vương tân nương. Cô bé gọi báo anh rồi chọn chơi thử. Tiểu Châu nhắc: người cần cảm hóa ở trong đó. Cô học cách đọc mã lệnh trò chơi để tìm đường vào. Cô có thể vào ngay, hoặc đợi Tiểu Nghi thao tác trước để xem cách ván chơi chạy.",
+      "text": "Đêm đó, Duật Lâm để quên chiếc USB ở nhà bạn. Tiểu Nghi tò mò cắm vào, thấy ba trò chơi kinh dị: Cương Thi tân nương, Hấp Huyết Quỷ tân nương, Quỷ Vương tân nương. Cô bé gọi báo anh rồi chọn chơi thử. Tiểu Châu nhắc: người cần cảm hóa ở trong đó. Bạn học cách đọc mã lệnh trò chơi để tìm đường vào. Bạn có thể vào ngay, hoặc đợi Tiểu Nghi thao tác trước để xem cách ván chơi chạy.",
       "tieu": "Ba ván, một người. Nếu ngươi vào sai chỗ thì mất công đi lòng vòng. Đọc mã cho kỹ.",
       "cast": "mg_hanh,mg_nghi,mg_duong,tc",
       "ch": [
@@ -1717,14 +1717,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô chui vào tệp Cương Thi tân nương khi màn hình còn đang tải. Mọi thứ trước mặt đỏ rực.",
+            "x": "Bạn chui vào tệp Cương Thi tân nương khi màn hình còn đang tải. Mọi thứ trước mặt đỏ rực.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5322666666666666,
           "bad": {
-            "x": "Cô vào hơi sớm, cảnh chưa dựng xong, phải đứng đợi giữa khoảng trắng một lúc.",
+            "x": "Bạn vào hơi sớm, cảnh chưa dựng xong, phải đứng đợi giữa khoảng trắng một lúc.",
             "d": {
               "sinh": -2
             }
@@ -1736,14 +1736,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Tiểu Nghi bấm nút, kiệu hoa hiện ra. Cô thuộc bước đầu của ván chơi.",
+            "x": "Tiểu Nghi bấm nút, kiệu hoa hiện ra. Bạn thuộc bước đầu của ván chơi.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5322666666666666,
           "bad": {
-            "x": "Tiểu Nghi chọn sai nút, ván chơi đặt lại. Cô phải đợi thêm một lượt.",
+            "x": "Tiểu Nghi chọn sai nút, ván chơi đặt lại. Bạn phải đợi thêm một lượt.",
             "d": {
               "sinh": -2
             }
@@ -1755,14 +1755,14 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Ba tệp hiện ra thành ba cánh cửa. Cô biết người cần tìm nằm sau cả ba.",
+            "x": "Ba tệp hiện ra thành ba cánh cửa. Bạn biết người cần tìm nằm sau cả ba.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.4154666666666665,
           "bad": {
-            "x": "Mã lệnh dày đặc, cô chỉ đọc kịp phần đầu.",
+            "x": "Mã lệnh dày đặc, bạn chỉ đọc kịp phần đầu.",
             "d": {
               "sinh": -2
             }
@@ -1770,7 +1770,7 @@
           "b0": 0.48
         }
       ],
-      "ctx": "Nhà Tiểu Hạnh, đêm đó. Tiểu Nghi mở ba trò chơi trên chiếc USB.",
+      "ctx": "Nhà bạn, đêm đó. Tiểu Nghi mở ba trò chơi trên chiếc USB.",
       "learn": {
         "n": "Đọc mã lệnh trò chơi",
         "s": "tri",
@@ -1784,7 +1784,7 @@
       "place": "Trấn Âm Lĩnh · Kiệu hoa",
       "kind": "chon",
       "title": "Kiệu hoa và bữa ăn đầu tiên",
-      "text": "Tiểu Hạnh tỉnh lại trong hỉ phục đỏ, ngồi trong kiệu do cương thi khiêng giữa đêm không trăng. Xa phu và hỉ nương đã bỏ chạy. Cương thi cầm đầu, Bác Cửu, vén mành ngửi mùi người rồi kinh ngạc vì cô không sợ. Vào đại trạch ở trấn Âm Lĩnh, cô ngồi trong phòng tân hôn và gặm đùi gà trong đĩa, trong khi Bác Cửu đứng ngẩn nhìn. Cô có thể vén mành ngắm kỹ trấn Âm Lĩnh trên đường đi, hoặc ngồi yên chờ tới nơi.",
+      "text": "Bạn tỉnh lại trong hỉ phục đỏ, ngồi trong kiệu do cương thi khiêng giữa đêm không trăng. Xa phu và hỉ nương đã bỏ chạy. Cương thi cầm đầu, Bác Cửu, vén mành ngửi mùi người rồi kinh ngạc vì bạn không sợ. Vào đại trạch ở trấn Âm Lĩnh, bạn ngồi trong phòng tân hôn và gặm đùi gà trong đĩa, trong khi Bác Cửu đứng ngẩn nhìn. Bạn có thể vén mành ngắm kỹ trấn Âm Lĩnh trên đường đi, hoặc ngồi yên chờ tới nơi.",
       "tieu": "Đây là ván Cương Thi tân nương. Chủ nhà là người cô đang tìm, và hắn chưa biết cô là ai.",
       "cast": "mg_hanh,mg_cuu,tc",
       "ch": [
@@ -1793,14 +1793,14 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô thấy từng ngôi nhà đóng cửa, cờ phướn đỏ treo kín mái. Đường về cổng trấn in vào đầu cô.",
+            "x": "Bạn thấy từng ngôi nhà đóng cửa, cờ phướn đỏ treo kín mái. Đường về cổng trấn in vào đầu bạn.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.5,
           "bad": {
-            "x": "Gió thổi tung mành, một cương thi ghé mặt vào sát cửa. Cô giật mình, buông tay.",
+            "x": "Gió thổi tung mành, một cương thi ghé mặt vào sát cửa. Bạn giật mình, buông tay.",
             "d": {
               "sinh": -2
             }
@@ -1812,7 +1812,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Bác Cửu trả lời lúng túng nhưng rất lễ phép. Cô hiểu đây là một «quản gia» đáng tin.",
+            "x": "Bác Cửu trả lời lúng túng nhưng rất lễ phép. Bạn hiểu đây là một «quản gia» đáng tin.",
             "d": {
               "sinh": 1
             }
@@ -1831,14 +1831,14 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô nghỉ được vài khắc, tỉnh táo hơn hẳn. Kiệu dừng trước cổng đại trạch.",
+            "x": "Bạn nghỉ được vài khắc, tỉnh táo hơn hẳn. Kiệu dừng trước cổng đại trạch.",
             "d": {
               "sinh": 1
             }
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Cô ngủ gật, kiệu rung mạnh làm cô va đầu vào thành kiệu.",
+            "x": "Bạn ngủ gật, kiệu rung mạnh làm bạn va đầu vào thành kiệu.",
             "d": {
               "sinh": -2
             }
@@ -1846,7 +1846,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Trấn Âm Lĩnh, đêm không trăng. Cô ngồi trong kiệu hoa do cương thi khiêng.",
+      "ctx": "Trấn Âm Lĩnh, đêm không trăng. Bạn ngồi trong kiệu hoa do cương thi khiêng.",
       "no": 22
     },
     {
@@ -1855,7 +1855,7 @@
       "place": "Đại trạch · Phòng tân hôn",
       "kind": "chon",
       "title": "Cương Thi vương bước vào",
-      "text": "Ngay đêm đầu, một người đàn ông mặc hỉ phục đỏ bước vào phòng tân hôn. Anh đi đứng bình thường, sắc mặt tái nhưng tuấn mỹ. Anh nắn má cô, khen «trò chơi bây giờ làm giống thật», rồi buột miệng «xem ra Thịnh thị có người làm nhân vật lợi hại». Cô nghe họ Thịnh và nhận ra đây là Thịnh Trạch Dương, người cô cần tìm. Anh hỏi cô có muốn thêm đùi gà. Anh đề nghị: «Làm tân nương của bổn vương, mỗi ngày có đùi gà.» Cô có thể nhận lời ngay, mặc cả vài điều kiện, hoặc nói một câu mà chỉ người từng thấy cuốn sổ phác thảo của anh mới nói được.",
+      "text": "Ngay đêm đầu, một người đàn ông mặc hỉ phục đỏ bước vào phòng tân hôn. Anh đi đứng bình thường, sắc mặt tái nhưng tuấn mỹ. Anh nắn má bạn, khen «trò chơi bây giờ làm giống thật», rồi buột miệng «xem ra Thịnh thị có người làm nhân vật lợi hại». Bạn nghe họ Thịnh và nhận ra đây là Thịnh Trạch Dương, người bạn cần tìm. Anh hỏi bạn có muốn thêm đùi gà. Anh đề nghị: «Làm tân nương của bổn vương, mỗi ngày có đùi gà.» Bạn có thể nhận lời ngay, mặc cả vài điều kiện, hoặc nói một câu mà chỉ người từng thấy cuốn sổ phác thảo của anh mới nói được.",
       "tieu": "Đây là người trong ảnh. Anh ấy là Cương Thi vương và cũng là Thịnh Trạch Dương. Ngươi đã thấy cuốn sổ của anh ấy chưa?",
       "cast": "mg_hanh,mg_duong,mg_cuu,tc",
       "ch": [
@@ -1874,7 +1874,7 @@
           },
           "b": 0.5645333333333334,
           "bad": {
-            "x": "Cô nhận lời quá nhanh, anh nheo mắt nghi hoặc rồi lại bật cười chuyển đề tài.",
+            "x": "Bạn nhận lời quá nhanh, anh nheo mắt nghi hoặc rồi lại bật cười chuyển đề tài.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -1959,16 +1959,16 @@
       "place": "Đại trạch · Phòng tân hôn",
       "kind": "chon",
       "title": "Tướng công",
-      "text": "Sau khi nhận lời, Tiểu Hạnh ôm tay anh, gọi «tướng công», kể chuyện nhà nghèo, đệ muội đông, gia đình gả cô để đổi lấy sính lễ. Anh thương, nói «bổn vương không đuổi nàng, ở bao lâu cũng được», nhưng trong lòng tiếc nàng chỉ là nhân vật. Cô nhận ra anh quen cô đơn: anh nói chuyện như người rất lâu rồi không có ai nghe. Cô có thể kể bằng giọng đáng thương, hoặc kể bằng giọng vui để anh cười.",
+      "text": "Sau khi nhận lời, bạn ôm tay anh, gọi «tướng công», kể chuyện nhà nghèo, đệ muội đông, gia đình gả bạn để đổi lấy sính lễ. Anh thương, nói «bổn vương không đuổi nàng, ở bao lâu cũng được», nhưng trong lòng tiếc nàng chỉ là nhân vật. Bạn nhận ra anh quen cô đơn: anh nói chuyện như người rất lâu rồi không có ai nghe. Bạn có thể kể bằng giọng đáng thương, hoặc kể bằng giọng vui để anh cười.",
       "tieu": "Anh ấy đã bị nhốt bảy năm. Điều anh ấy cần nhất là có ai đó ngồi nghe.",
       "cast": "mg_hanh,mg_duong,tc",
       "ch": [
         {
-          "t": "Kể bằng giọng đáng thương, để anh thương và giữ cô lại",
+          "t": "Kể bằng giọng đáng thương, để anh thương và giữ bạn lại",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh nghe xong, vỗ nhẹ lên đầu cô. «Từ nay có bổn vương.» Giọng anh mềm hẳn.",
+            "x": "Anh nghe xong, vỗ nhẹ lên đầu bạn. «Từ nay có bổn vương.» Giọng anh mềm hẳn.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -1978,7 +1978,7 @@
           },
           "b": 0.4577333333333334,
           "bad": {
-            "x": "Cô kể hơi lố, anh nghe xong cười «ngươi diễn giỏi lắm», nhưng vẫn không để cô đi.",
+            "x": "Bạn kể hơi lố, anh nghe xong cười «ngươi diễn giỏi lắm», nhưng vẫn không để bạn đi.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2016,7 +2016,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh im lặng một lúc rồi đáp «không nhớ rõ nữa». Cô nắm tay anh thật nhẹ.",
+            "x": "Anh im lặng một lúc rồi đáp «không nhớ rõ nữa». Bạn nắm tay anh thật nhẹ.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -2036,7 +2036,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Đại trạch, phòng tân hôn. Cô kể chuyện nhà nghèo cho anh nghe.",
+      "ctx": "Đại trạch, phòng tân hôn. Bạn kể chuyện nhà nghèo cho anh nghe.",
       "no": 24
     },
     {
@@ -2045,7 +2045,7 @@
       "place": "Đại trạch · Phòng tân hôn · Đêm và sáng",
       "kind": "duyen",
       "title": "Bồn tắm và giấc ngủ",
-      "text": "Tiểu Hạnh xin tắm rửa; Trạch Dương sai Bác Cửu chuẩn bị nước rồi tự mình ra đứng nghiêm ngoài cửa. Cô hỏi tướng công có cần cô hầu hạ không, anh đỏ cả tai và chạy mất. Đêm đó, cô tựa vai anh ngồi trên giường rồi ngủ ngay; anh thức cả đêm, lần đầu thấy ngực mình ấm lên. Sáng ra, anh để sẵn một đĩa đùi gà ở cạnh giường. Cô có thể tựa vai anh ngủ, hoặc bắt anh kể chuyện đến khi cô ngủ.",
+      "text": "Bạn xin tắm rửa; Trạch Dương sai Bác Cửu chuẩn bị nước rồi tự mình ra đứng nghiêm ngoài cửa. Bạn hỏi tướng công có cần bạn hầu hạ không, anh đỏ cả tai và chạy mất. Đêm đó, bạn tựa vai anh ngồi trên giường rồi ngủ ngay; anh thức cả đêm, lần đầu thấy ngực mình ấm lên. Sáng ra, anh để sẵn một đĩa đùi gà ở cạnh giường. Bạn có thể tựa vai anh ngủ, hoặc bắt anh kể chuyện đến khi bạn ngủ.",
       "tieu": "Hắn không dám nhìn ngươi. Hãy để hắn quen với việc có người bên cạnh.",
       "cast": "mg_hanh,mg_duong,mg_cuu,tc",
       "ch": [
@@ -2054,7 +2054,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh ngồi bất động suốt đêm, sợ cử động làm cô tỉnh. Sáng ra, đĩa đùi gà vẫn còn ấm.",
+            "x": "Anh ngồi bất động suốt đêm, sợ cử động làm bạn tỉnh. Sáng ra, đĩa đùi gà vẫn còn ấm.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2064,7 +2064,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô ngả đầu hơi mạnh, anh giật mình ngã ra sau, phải ngồi dậy xoa vai.",
+            "x": "Bạn ngả đầu hơi mạnh, anh giật mình ngã ra sau, phải ngồi dậy xoa vai.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2080,11 +2080,11 @@
           "b0": 0.5
         },
         {
-          "t": "Bắt anh kể chuyện hồi nhỏ đến khi cô ngủ",
+          "t": "Bắt anh kể chuyện hồi nhỏ đến khi bạn ngủ",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh kể chuyện nghịch ngợm hồi nhỏ, càng kể càng tươi. Cô ngủ lúc nào không hay.",
+            "x": "Anh kể chuyện nghịch ngợm hồi nhỏ, càng kể càng tươi. Bạn ngủ lúc nào không hay.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2094,7 +2094,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Anh kể chuyện buồn, giọng nghẹn dần. Cô phải ngồi dậy vỗ lưng anh.",
+            "x": "Anh kể chuyện buồn, giọng nghẹn dần. Bạn phải ngồi dậy vỗ lưng anh.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2114,7 +2114,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh gật đầu rất nhanh, rồi kê giường như người đã chờ sẵn. Cô thấy anh nhẹ cả người.",
+            "x": "Anh gật đầu rất nhanh, rồi kê giường như người đã chờ sẵn. Bạn thấy anh nhẹ cả người.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2140,7 +2140,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Đại trạch, phòng tân hôn. Cô tắm rửa, rồi nghỉ đêm đầu.",
+      "ctx": "Đại trạch, phòng tân hôn. Bạn tắm rửa, rồi nghỉ đêm đầu.",
       "no": 25
     },
     {
@@ -2149,7 +2149,7 @@
       "place": "Đại trạch · Phòng tân hôn · Đêm thứ hai",
       "kind": "hiem",
       "title": "Người chơi đầu tiên",
-      "text": "Đêm thứ hai, một nhân vật mặt xám chui qua lỗ tường vào phòng tân hôn, nói: «Tôi đến cứu em, theo tôi ra khỏi trấn.» Tiểu Hạnh nhận ra đây là người thật điều khiển, chính là Cát Tiểu Nghi từ ngoài màn hình. Cô đáp: «Sao tôi phải nghe cô?» Người chơi kéo cô tới cổng. Cô có thể tự đẩy nhân vật ra, hoặc kêu «tướng công, có kẻ muốn chia rẽ chúng ta». Nếu không kêu kịp, cô chịu cú kéo mạnh. Cô biết Trạch Dương sẽ đập nhân vật vào tường rồi bảo Bác Cửu trói lại mà đuổi đi; màn hình của Tiểu Nghi hiện chữ thất bại.",
+      "text": "Đêm thứ hai, một nhân vật mặt xám chui qua lỗ tường vào phòng tân hôn, nói: «Tôi đến cứu em, theo tôi ra khỏi trấn.» Bạn nhận ra đây là người thật điều khiển, chính là Cát Tiểu Nghi từ ngoài màn hình. Bạn đáp: «Sao tôi phải nghe cô?» Người chơi kéo bạn tới cổng. Bạn có thể tự đẩy nhân vật ra, hoặc kêu «tướng công, có kẻ muốn chia rẽ chúng ta». Nếu không kêu kịp, bạn chịu cú kéo mạnh. Bạn biết Trạch Dương sẽ đập nhân vật vào tường rồi bảo Bác Cửu trói lại mà đuổi đi; màn hình của Tiểu Nghi hiện chữ thất bại.",
       "tieu": "Cô bé ấy không xấu, chỉ bị lừa. Nhưng ván này phải thắng bằng cách giữ chặt tay anh ấy.",
       "cast": "mg_hanh,mg_duong,mg_nghi,mg_cuu,tc",
       "ch": [
@@ -2158,7 +2158,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô đẩy mạnh, chạy thẳng vào lòng anh. Anh ôm cô, quát Bác Cửu «trói nó lại!».",
+            "x": "Bạn đẩy mạnh, chạy thẳng vào lòng anh. Anh ôm bạn, quát Bác Cửu «trói nó lại!».",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -2167,7 +2167,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Người chơi giữ chặt tay cô, kéo mấy bước trước khi cô gỡ ra.",
+            "x": "Người chơi giữ chặt tay bạn, kéo mấy bước trước khi bạn gỡ ra.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2192,7 +2192,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh lao tới như một cơn gió, đập nhân vật vào tường. Cô thấy anh thở dốc vì giận.",
+            "x": "Anh lao tới như một cơn gió, đập nhân vật vào tường. Bạn thấy anh thở dốc vì giận.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -2201,7 +2201,7 @@
           },
           "b": 0.6068000000000001,
           "bad": {
-            "x": "Cô hô hơi muộn, người chơi đã kéo cô tới cổng, anh mới chạy kịp.",
+            "x": "Bạn hô hơi muộn, người chơi đã kéo bạn tới cổng, anh mới chạy kịp.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2226,7 +2226,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô dẫn người chơi đi đúng chỗ anh đang đứng. Anh ra tay đúng lúc, cô không mất gì.",
+            "x": "Bạn dẫn người chơi đi đúng chỗ anh đang đứng. Anh ra tay đúng lúc, bạn không mất gì.",
             "d": {
               "ac": -7,
               "hac": -4,
@@ -2235,7 +2235,7 @@
           },
           "b": 0.37319999999999987,
           "bad": {
-            "x": "Cô tính lệch một nhịp, người chơi siết tay cô đau điếng.",
+            "x": "Bạn tính lệch một nhịp, người chơi siết tay bạn đau điếng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2265,16 +2265,16 @@
       "place": "Đại trạch · Sân và phòng tân hôn · Nửa tháng",
       "kind": "duyen",
       "title": "Những ngày bị chơi",
-      "text": "Hơn nửa tháng sau, Tiểu Châu tóm lại: mỗi chiều Tiểu Nghi chơi lại ván này, lần nào cũng bị trói trước cổng nhìn hai người thân mật; phòng phát sóng cười nghiêng ngả. Trạch Dương không giết, chỉ trói rồi thả. Tiểu Hạnh giữ vai tân nương thật thà, ai đến cũng cảnh giác. Cô có thể chơi tiếp trò «chia rẽ» cho đủ vở, hoặc làm mềm bớt để cô bé người chơi đỡ bị cười.",
+      "text": "Hơn nửa tháng sau, Tiểu Châu tóm lại: mỗi chiều Tiểu Nghi chơi lại ván này, lần nào cũng bị trói trước cổng nhìn hai người thân mật; phòng phát sóng cười nghiêng ngả. Trạch Dương không giết, chỉ trói rồi thả. Bạn giữ vai tân nương thật thà, ai đến cũng cảnh giác. Bạn có thể chơi tiếp trò «chia rẽ» cho đủ vở, hoặc làm mềm bớt để cô bé người chơi đỡ bị cười.",
       "tieu": "Tiểu Nghi cũng là người bị lừa. Nhưng ngươi chưa thể nói điều ấy trong ván này.",
       "cast": "mg_hanh,mg_duong,mg_nghi,tc",
       "ch": [
         {
-          "t": "Chơi tiếp trò «chia rẽ», giữ nhịp đúng như kịch bản cô nhớ",
+          "t": "Chơi tiếp trò «chia rẽ», giữ nhịp đúng như kịch bản bạn nhớ",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh diễn rất ăn ý, hai người như đã tập từ kiếp trước. Cô thấy lòng thoải mái lạ.",
+            "x": "Anh diễn rất ăn ý, hai người như đã tập từ kiếp trước. Bạn thấy lòng thoải mái lạ.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2284,7 +2284,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Cô diễn quá lố, anh bật cười giữa cảnh, phá hỏng cả đoạn.",
+            "x": "Bạn diễn quá lố, anh bật cười giữa cảnh, phá hỏng cả đoạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2304,7 +2304,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Một cánh cửa nhỏ hé mở bên hông. Tiểu Nghi chạy tới, rồi lại bị bắt. Cô thấy mình đã giảm bớt cú sốc.",
+            "x": "Một cánh cửa nhỏ hé mở bên hông. Tiểu Nghi chạy tới, rồi lại bị bắt. Bạn thấy mình đã giảm bớt cú sốc.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2334,7 +2334,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Hai người cược bằng một đĩa đùi gà. Anh thua và phải gọi cô là «tiểu thư nhà ta» cả ngày.",
+            "x": "Hai người cược bằng một đĩa đùi gà. Anh thua và phải gọi bạn là «tiểu thư nhà ta» cả ngày.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2369,7 +2369,7 @@
       "place": "Trấn Âm Lĩnh · Kho phù",
       "kind": "hiem",
       "title": "Lá bùa",
-      "text": "Một chiều, Tiểu Nghi mò đến kho phù trong trấn, tìm phù chú: Định Thân, Liễm Tức, Ẩn Thân và một lá tiêu thi phù có thể diệt Cương Thi vương. Tiểu Hạnh biết trước. Cô phải đến trước, xé lá bùa rồi vo ném xuống nước, nói «không để ai hại tướng công». Nếu chậm một bước, lá bùa vào tay Tiểu Nghi; khi ấy Trạch Dương sẽ bị cú đánh nặng ngay trong ván. Cô có thể giấu bùa đi, hoặc xé luôn. Bác Cửu rồi sẽ trói Tiểu Nghi giữa sân nửa giờ.",
+      "text": "Một chiều, Tiểu Nghi mò đến kho phù trong trấn, tìm phù chú: Định Thân, Liễm Tức, Ẩn Thân và một lá tiêu thi phù có thể diệt Cương Thi vương. Bạn biết trước. Bạn phải đến trước, xé lá bùa rồi vo ném xuống nước, nói «không để ai hại tướng công». Nếu chậm một bước, lá bùa vào tay Tiểu Nghi; khi ấy Trạch Dương sẽ bị cú đánh nặng ngay trong ván. Bạn có thể giấu bùa đi, hoặc xé luôn. Bác Cửu rồi sẽ trói Tiểu Nghi giữa sân nửa giờ.",
       "tieu": "Đây là lá bùa duy nhất có thể diệt anh ấy. Nhanh tay, đừng để nó rơi vào tay ai.",
       "cast": "mg_hanh,mg_duong,mg_nghi,mg_cuu,tc",
       "ch": [
@@ -2378,7 +2378,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Lá bùa tan trong nước. Cô đứng đó thở dốc, thấy cả người nhẹ bẫng.",
+            "x": "Lá bùa tan trong nước. Bạn đứng đó thở dốc, thấy cả người nhẹ bẫng.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -2387,7 +2387,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Cô tới hơi muộn, lá bùa chạm vào tay Tiểu Nghi một nhịp rồi rơi xuống. Trạch Dương ôm ngực lùi lại.",
+            "x": "Bạn tới hơi muộn, lá bùa chạm vào tay Tiểu Nghi một nhịp rồi rơi xuống. Trạch Dương ôm ngực lùi lại.",
             "d": {
               "ac": -1,
               "hac": 2,
@@ -2414,7 +2414,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Lá bùa nằm yên trong tay cô. Tiểu Nghi tìm khắp kho không thấy.",
+            "x": "Lá bùa nằm yên trong tay bạn. Tiểu Nghi tìm khắp kho không thấy.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -2423,7 +2423,7 @@
           },
           "b": 0.43159999999999993,
           "bad": {
-            "x": "Cô giấu chưa kịp, Tiểu Nghi nhìn thấy mép bùa lòi ra ngoài.",
+            "x": "Bạn giấu chưa kịp, Tiểu Nghi nhìn thấy mép bùa lòi ra ngoài.",
             "d": {
               "ac": -1,
               "hac": 2,
@@ -2491,7 +2491,7 @@
       "place": "Đại trạch · Phòng tân hôn · Đêm",
       "kind": "chon",
       "title": "Điều muốn ăn nhất và cái tên",
-      "text": "Đêm, trước khi Tiểu Nghi vào lại, Trạch Dương hỏi cô còn muốn ăn gì. Cô tựa vào tai anh nói «chỉ ở chỗ tướng công mới có món ấy», rồi giải thích đó là món chính tay anh nấu; anh ngẩn người rồi cười, hẹn «để sau». Anh hỏi tên cô; cô đáp «Ngu Tiểu Hạnh, người thôn Ngu». Anh nói «Ta là Thịnh Trạch Dương». Cô có thể hứa «đi đâu em cũng tìm anh», hoặc chỉ ôm anh thật chặt mà không nói gì.",
+      "text": "Đêm, trước khi Tiểu Nghi vào lại, Trạch Dương hỏi bạn còn muốn ăn gì. Bạn tựa vào tai anh nói «chỉ ở chỗ tướng công mới có món ấy», rồi giải thích đó là món chính tay anh nấu; anh ngẩn người rồi cười, hẹn «để sau». Anh hỏi tên bạn; bạn đáp «Ngu Tiểu Hạnh, người thôn Ngu». Anh nói «Ta là Thịnh Trạch Dương». Bạn có thể hứa «đi đâu em cũng tìm anh», hoặc chỉ ôm anh thật chặt mà không nói gì.",
       "tieu": "Câu này nặng hơn ngươi nghĩ. Anh ấy sẽ nhớ nó mỗi lần bị tách khỏi ngươi.",
       "cast": "mg_hanh,mg_duong,tc",
       "ch": [
@@ -2500,7 +2500,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh im lặng rất lâu, siết tay cô. «Ta nhớ rồi.» Giọng anh khản đi.",
+            "x": "Anh im lặng rất lâu, siết tay bạn. «Ta nhớ rồi.» Giọng anh khản đi.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2511,7 +2511,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô nói hơi vội, anh chỉ gật đầu như đã nghe nhiều lời hứa kiểu này.",
+            "x": "Bạn nói hơi vội, anh chỉ gật đầu như đã nghe nhiều lời hứa kiểu này.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2531,7 +2531,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh ôm lại, cằm tựa vào tóc cô. Cô nghe thấy tim anh đập, dù anh vốn là sóng điện não.",
+            "x": "Anh ôm lại, cằm tựa vào tóc bạn. Bạn nghe thấy tim anh đập, dù anh vốn là sóng điện não.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2541,7 +2541,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Cô ôm hơi mạnh, anh khẽ kêu «đau» rồi bật cười.",
+            "x": "Bạn ôm hơi mạnh, anh khẽ kêu «đau» rồi bật cười.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2561,7 +2561,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh ngẩn ra rồi giải thích đủ thứ chuyện: ba mẹ đặt, cái tên có mặt trời. Cô nghe say sưa.",
+            "x": "Anh ngẩn ra rồi giải thích đủ thứ chuyện: ba mẹ đặt, cái tên có mặt trời. Bạn nghe say sưa.",
             "d": {
               "ac": -4,
               "hac": -3,
@@ -2587,7 +2587,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Đại trạch, phòng tân hôn, đêm trước khi Tiểu Nghi vào lại. Anh hỏi tên cô.",
+      "ctx": "Đại trạch, phòng tân hôn, đêm trước khi Tiểu Nghi vào lại. Anh hỏi tên bạn.",
       "no": 29
     },
     {
@@ -2596,7 +2596,7 @@
       "place": "Trấn Âm Lĩnh · Mặt đất vỡ",
       "kind": "nan",
       "title": "Mặt đất vỡ vụn",
-      "text": "Ngoài trời chớp lóe. Cát Tiểu Nghi tắt Cương Thi tân nương và mở Hấp Huyết Quỷ tân nương. Căn phòng, mặt đất và vòng tay anh vỡ thành mảnh; Tiểu Hạnh bị cuốn đi, anh gào tên cô. Tiểu Châu nhắc: mỗi lần người chơi đổi ván, hai người sẽ bị tách. Cô có thể nắm tay anh đến phút cuối, nói một câu để anh nhớ, hoặc cố bám vào chiếc giường như một mỏ neo cuối cùng.",
+      "text": "Ngoài trời chớp lóe. Cát Tiểu Nghi tắt Cương Thi tân nương và mở Hấp Huyết Quỷ tân nương. Căn phòng, mặt đất và vòng tay anh vỡ thành mảnh; bạn bị cuốn đi, anh gào tên bạn. Tiểu Châu nhắc: mỗi lần người chơi đổi ván, hai người sẽ bị tách. Bạn có thể nắm tay anh đến phút cuối, nói một câu để anh nhớ, hoặc cố bám vào chiếc giường như một mỏ neo cuối cùng.",
       "tieu": "Đây là lần đầu bị tách, sẽ không là lần cuối. Điều ngươi nói bây giờ là thứ anh ấy giữ lại.",
       "cast": "mg_hanh,mg_duong,tc",
       "ch": [
@@ -2605,7 +2605,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Lời cô tan theo ánh sáng nhưng anh nghe được. Anh gào «Tiểu Hạnh!» cho tới khi mọi thứ im bặt.",
+            "x": "Lời bạn tan theo ánh sáng nhưng anh nghe được. Anh gào «Tiểu Hạnh!» cho tới khi mọi thứ im bặt.",
             "d": {
               "ac": -6,
               "hao": 8
@@ -2613,7 +2613,7 @@
           },
           "b": 0.5484,
           "bad": {
-            "x": "Giọng cô bị tiếng vỡ nuốt mất. Anh chỉ thấy miệng cô mấp máy.",
+            "x": "Giọng bạn bị tiếng vỡ nuốt mất. Anh chỉ thấy miệng bạn mấp máy.",
             "d": {
               "ac": -1,
               "sinh": -5
@@ -2626,7 +2626,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Chiếc giường vỡ sau cô một nhịp. Cô nghe tiếng anh gọi và gọi lại thật to.",
+            "x": "Chiếc giường vỡ sau bạn một nhịp. Bạn nghe tiếng anh gọi và gọi lại thật to.",
             "d": {
               "ac": -6,
               "hao": 8
@@ -2634,7 +2634,7 @@
           },
           "b": 0.43159999999999993,
           "bad": {
-            "x": "Chiếc giường tan trước khi cô kịp bám. Cô rơi vào khoảng trắng.",
+            "x": "Chiếc giường tan trước khi bạn kịp bám. Bạn rơi vào khoảng trắng.",
             "d": {
               "ac": -1,
               "sinh": -5
@@ -2647,7 +2647,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô gọi tên ba ván, anh bật ra tiếng cười giữa tiếng gào. Anh hiểu: cô đang chỉ đường.",
+            "x": "Bạn gọi tên ba ván, anh bật ra tiếng cười giữa tiếng gào. Anh hiểu: bạn đang chỉ đường.",
             "d": {
               "ac": -6,
               "hao": 8
@@ -2655,7 +2655,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Cô nói thiếu một ván. Anh chỉ nghe được hai cái tên trước khi mất tín hiệu.",
+            "x": "Bạn nói thiếu một ván. Anh chỉ nghe được hai cái tên trước khi mất tín hiệu.",
             "d": {
               "ac": -1,
               "sinh": -5
@@ -2674,7 +2674,7 @@
       "place": "Lâu đài Huyết Nguyệt · Xe ngựa",
       "kind": "duyen",
       "title": "Xe ngựa tới lâu đài",
-      "text": "Tiểu Hạnh ngồi trên xe ngựa kiểu châu Âu cổ dưới ánh trăng bạc, trước một lâu đài kim bích huy hoàng. Một người đàn ông cao gầy, dáng quản gia, cúi chào: ngài Valen, quản gia lâu đài Huyết Nguyệt. Ông gọi cô là «tiểu thư phương Đông» và mời cô xuống xe. Cô đoán đây là ván thứ hai, và Huyết hoàng quỷ hút máu chính là người cô đang tìm. Cô có thể tìm anh trước, hoặc dò xét lâu đài để biết đường.",
+      "text": "Bạn ngồi trên xe ngựa kiểu châu Âu cổ dưới ánh trăng bạc, trước một lâu đài kim bích huy hoàng. Một người đàn ông cao gầy, dáng quản gia, cúi chào: ngài Valen, quản gia lâu đài Huyết Nguyệt. Ông gọi bạn là «tiểu thư phương Đông» và mời bạn xuống xe. Bạn đoán đây là ván thứ hai, và Huyết hoàng quỷ hút máu chính là người bạn đang tìm. Bạn có thể tìm anh trước, hoặc dò xét lâu đài để biết đường.",
       "tieu": "Ván mới, luật mới, nhưng người cô tìm vẫn là một. Đừng vội, nhưng cũng đừng chậm.",
       "cast": "mg_hanh,mg_valen,tc",
       "ch": [
@@ -2713,7 +2713,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô thấy ba hành lang, hai lối thoát, một cầu thang lớn. Mọi thứ khớp với tưởng tượng của cô.",
+            "x": "Bạn thấy ba hành lang, hai lối thoát, một cầu thang lớn. Mọi thứ khớp với tưởng tượng của bạn.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -2723,7 +2723,7 @@
           },
           "b": 0.5161333333333334,
           "bad": {
-            "x": "Cô lạc vào hành lang tối, phải nhờ ngài Valen dẫn lại.",
+            "x": "Bạn lạc vào hành lang tối, phải nhờ ngài Valen dẫn lại.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2743,7 +2743,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Trăng bạc làm cô nghĩ đến người sắp gặp lại. Cô bước vào lâu đài với lòng thật yên.",
+            "x": "Trăng bạc làm bạn nghĩ đến người sắp gặp lại. Bạn bước vào lâu đài với lòng thật yên.",
             "d": {
               "ac": -4,
               "hac": -4,
@@ -2753,7 +2753,7 @@
           },
           "b": 0.4577333333333334,
           "bad": {
-            "x": "Gió lạnh làm cô rùng mình, nhưng cũng đủ tỉnh táo để bước tiếp.",
+            "x": "Gió lạnh làm bạn rùng mình, nhưng cũng đủ tỉnh táo để bước tiếp.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2769,7 +2769,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Lâu đài Huyết Nguyệt, xe ngựa. Ngài Valen đón cô.",
+      "ctx": "Lâu đài Huyết Nguyệt, xe ngựa. Ngài Valen đón bạn.",
       "no": 31
     },
     {
@@ -2778,7 +2778,7 @@
       "place": "Lâu đài Huyết Nguyệt · Sảnh vũ hội",
       "kind": "chon",
       "title": "Vũ hội đêm",
-      "text": "Đêm, sảnh vũ hội đầy quỷ hút máu nhảy waltz; chúng thì thầm «đồ ăn của Huyết hoàng». Tiểu Hạnh nhấp rượu vang đỏ, mặc kệ. Huyết hoàng xuống thang, mời cô khiêu vũ; hai người ăn ý ngay từ bước đầu. Cô nói «Ngu Tiểu Hạnh», tay anh run lên; anh thì thầm: «Là em sao? Anh là Trạch Dương.» Cô gọi «tướng công», và anh bật cười thành tiếng giữa sảnh. Cô có thể để anh dẫn, hoặc dẫn anh bước qua vài nhịp khó.",
+      "text": "Đêm, sảnh vũ hội đầy quỷ hút máu nhảy waltz; chúng thì thầm «đồ ăn của Huyết hoàng». Bạn nhấp rượu vang đỏ, mặc kệ. Huyết hoàng xuống thang, mời bạn khiêu vũ; hai người ăn ý ngay từ bước đầu. Bạn nói «Ngu Tiểu Hạnh», tay anh run lên; anh thì thầm: «Là em sao? Anh là Trạch Dương.» Bạn gọi «tướng công», và anh bật cười thành tiếng giữa sảnh. Bạn có thể để anh dẫn, hoặc dẫn anh bước qua vài nhịp khó.",
       "tieu": "Anh ấy nhận ra ngươi trước khi ngươi nhận ra anh ấy. Đừng làm hỏng điệu nhảy này.",
       "cast": "mg_hanh,mg_duong,mg_valen,tc",
       "ch": [
@@ -2787,7 +2787,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh dẫn rất vững, mỗi bước như đã tập từ lâu. Cô thấy mình nhẹ như lông chim.",
+            "x": "Anh dẫn rất vững, mỗi bước như đã tập từ lâu. Bạn thấy mình nhẹ như lông chim.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -2797,7 +2797,7 @@
           },
           "b": 0.5906666666666667,
           "bad": {
-            "x": "Cô giẫm lên chân anh một cái. Anh kêu «ui!» rồi cả hai cười vang cả sảnh.",
+            "x": "Bạn giẫm lên chân anh một cái. Anh kêu «ui!» rồi cả hai cười vang cả sảnh.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2813,7 +2813,7 @@
           "b0": 0.51
         },
         {
-          "t": "Dẫn anh bước qua nhịp khó, như thể cô là người dạy",
+          "t": "Dẫn anh bước qua nhịp khó, như thể bạn là người dạy",
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
@@ -2827,7 +2827,7 @@
           },
           "b": 0.4154666666666665,
           "bad": {
-            "x": "Cô đổi nhịp bất ngờ, hai người suýt ngã vào nhau. Anh đỡ kịp, cười toe.",
+            "x": "Bạn đổi nhịp bất ngờ, hai người suýt ngã vào nhau. Anh đỡ kịp, cười toe.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2847,7 +2847,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh bật cười, siết eo cô nhẹ hơn. «Ta học bảy năm rồi đấy.»",
+            "x": "Anh bật cười, siết eo bạn nhẹ hơn. «Ta học bảy năm rồi đấy.»",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -2857,7 +2857,7 @@
           },
           "b": 0.47386666666666655,
           "bad": {
-            "x": "Câu trêu của cô làm anh đỏ mặt, bước nhầm một nhịp.",
+            "x": "Câu trêu của bạn làm anh đỏ mặt, bước nhầm một nhịp.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2873,7 +2873,7 @@
           "b0": 0.49
         }
       ],
-      "ctx": "Sảnh vũ hội lâu đài Huyết Nguyệt, đêm. Huyết hoàng mời cô khiêu vũ.",
+      "ctx": "Sảnh vũ hội lâu đài Huyết Nguyệt, đêm. Huyết hoàng mời bạn khiêu vũ.",
       "learn": {
         "n": "Nhảy waltz",
         "s": "van",
@@ -2887,7 +2887,7 @@
       "place": "Lâu đài Huyết Nguyệt · Hành lang tối",
       "kind": "chon",
       "title": "Dấu răng nơi cổ tay",
-      "text": "Sau vũ hội, trong hành lang tối, anh hỏi cô có muốn ở lại lâu đài. Tiểu Hạnh tò mò «nghe nói bị cắn không đau», và để anh cắn nhẹ ở cổ tay; anh băng vết cắn ngay, tay run run. Sáng sau, cô thấy mình mạnh hơn hẳn; mấy quỷ hút máu cúi chào «thân vương điện hạ», vì cô giờ là thân vương đời hai của Huyết hoàng. Cô có thể ra lệnh cho chúng bằng giọng nghiêm, hoặc chỉ mỉm cười gật đầu.",
+      "text": "Sau vũ hội, trong hành lang tối, anh hỏi bạn có muốn ở lại lâu đài. Bạn tò mò «nghe nói bị cắn không đau», và để anh cắn nhẹ ở cổ tay; anh băng vết cắn ngay, tay run run. Sáng sau, bạn thấy mình mạnh hơn hẳn; mấy quỷ hút máu cúi chào «thân vương điện hạ», vì bạn giờ là thân vương đời hai của Huyết hoàng. Bạn có thể ra lệnh cho chúng bằng giọng nghiêm, hoặc chỉ mỉm cười gật đầu.",
       "tieu": "Một vết cắn nhỏ mà thành chức vị lớn. Anh ấy sẽ nhớ lần này ngươi tin anh ấy.",
       "cast": "mg_hanh,mg_duong,mg_valen,tc",
       "ch": [
@@ -2906,7 +2906,7 @@
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Một con quỷ nhỏ nhìn cô nghi ngờ rồi cúi chào chậm. Anh ho nhẹ để chữa ngượng.",
+            "x": "Một con quỷ nhỏ nhìn bạn nghi ngờ rồi cúi chào chậm. Anh ho nhẹ để chữa ngượng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2936,7 +2936,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Một con quỷ lớn tiếng hỏi «sao thân vương không ra lệnh?». Cô đành cười xòa.",
+            "x": "Một con quỷ lớn tiếng hỏi «sao thân vương không ra lệnh?». Bạn đành cười xòa.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2966,7 +2966,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Anh băng hơi chặt, cô nhăn mặt. Anh luống cuống xin lỗi rối rít.",
+            "x": "Anh băng hơi chặt, bạn nhăn mặt. Anh luống cuống xin lỗi rối rít.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -2982,7 +2982,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Hành lang tối lâu đài Huyết Nguyệt, sau vũ hội và sáng hôm sau. Anh cắn nhẹ cổ tay cô.",
+      "ctx": "Hành lang tối lâu đài Huyết Nguyệt, sau vũ hội và sáng hôm sau. Anh cắn nhẹ cổ tay bạn.",
       "no": 33
     },
     {
@@ -2991,7 +2991,7 @@
       "place": "Lâu đài Huyết Nguyệt · Phòng ngủ",
       "kind": "hiem",
       "title": "Người hầu bưng trà",
-      "text": "Cát Tiểu Nghi lẻn vào phòng ngủ của cô bằng thân phận người hầu, bưng khay trà. Cô bé thì thầm: «Tôi đến cứu cô.» Tiểu Hạnh bất ngờ để lộ răng nanh hỏi «có phải thế này không?», Tiểu Nghi lùi lại. Trong tay cô bé là một bình nước thánh, vật phẩm của ván này. Cô có thể lấy bình nước thánh trước, hoặc ra lệnh cho ngài Valen mời Tiểu Nghi ở lại bữa tiệc, học khiêu vũ đến khi nhảy được. Nếu cô chậm, Tiểu Nghi sẽ ném bình nước thánh vào người cô.",
+      "text": "Cát Tiểu Nghi lẻn vào phòng ngủ của bạn bằng thân phận người hầu, bưng khay trà. Cô bé thì thầm: «Tôi đến cứu cô.» Bạn bất ngờ để lộ răng nanh hỏi «có phải thế này không?», Tiểu Nghi lùi lại. Trong tay cô bé là một bình nước thánh, vật phẩm của ván này. Bạn có thể lấy bình nước thánh trước, hoặc ra lệnh cho ngài Valen mời Tiểu Nghi ở lại bữa tiệc, học khiêu vũ đến khi nhảy được. Nếu bạn chậm, Tiểu Nghi sẽ ném bình nước thánh vào người bạn.",
       "tieu": "Cô bé không muốn hại ngươi, chỉ muốn cứu một người cô bé tưởng là bị ép. Đừng làm cô bé sợ thêm.",
       "cast": "mg_hanh,mg_nghi,mg_valen,tc",
       "ch": [
@@ -3000,7 +3000,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô giật nhanh, bình rơi xuống thảm mềm không vỡ. Tiểu Nghi tròn mắt, không kịp phản ứng.",
+            "x": "Bạn giật nhanh, bình rơi xuống thảm mềm không vỡ. Tiểu Nghi tròn mắt, không kịp phản ứng.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3009,7 +3009,7 @@
           },
           "b": 0.47386666666666655,
           "bad": {
-            "x": "Bình nước thánh văng ra, một vệt sáng quét qua tay cô. Rát như bỏng.",
+            "x": "Bình nước thánh văng ra, một vệt sáng quét qua tay bạn. Rát như bỏng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3043,7 +3043,7 @@
           },
           "b": 0.5906666666666667,
           "bad": {
-            "x": "Lệnh của cô quá chậm, Tiểu Nghi đã ném. Nước thánh vẩy lên vai cô.",
+            "x": "Lệnh của bạn quá chậm, Tiểu Nghi đã ném. Nước thánh vẩy lên vai bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3068,7 +3068,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Tiểu Nghi bối rối rút tay lại. Cô nhẹ nhàng cầm khay, đặt bình nước thánh sang chỗ an toàn.",
+            "x": "Tiểu Nghi bối rối rút tay lại. Bạn nhẹ nhàng cầm khay, đặt bình nước thánh sang chỗ an toàn.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3077,7 +3077,7 @@
           },
           "b": 0.4154666666666665,
           "bad": {
-            "x": "Tiểu Nghi hoảng, vung tay, bình nước thánh văng trúng cô.",
+            "x": "Tiểu Nghi hoảng, vung tay, bình nước thánh văng trúng bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3098,16 +3098,16 @@
           "b0": 0.48
         }
       ],
-      "ctx": "Lâu đài Huyết Nguyệt, phòng ngủ của cô. Tiểu Nghi lẻn vào bằng thân phận người hầu.",
+      "ctx": "Lâu đài Huyết Nguyệt, phòng ngủ của bạn. Tiểu Nghi lẻn vào bằng thân phận người hầu.",
       "no": 34
     },
     {
       "id": "m35",
       "scene": "ydesk",
-      "place": "Nhà Tiểu Hạnh · Duật Lâm lái xe tới",
+      "place": "Nhà bạn · Duật Lâm lái xe tới",
       "kind": "hiem",
       "title": "Nút trọng trí",
-      "text": "Cát Tiểu Nghi gọi cầu cứu, kể trò chơi kỳ lạ. Thịnh Duật Lâm lái xe tới nhà Tiểu Hạnh, kiểm tra số liệu: bình thường, nhưng tân nương không có lời thoại như hắn viết. Hắn định bấm trọng trí, đặt lại cả ván. Tiểu Hạnh thấy, dùng khả năng đọc mã để chặn lệnh. Nếu thất bại, ván đặt lại và cô cùng anh lại bị tách. Hắn nghi ngờ, quyết định mở bản Cương Thi gốc. Cô có thể khóa tệp lại, hoặc giăng một lỗi giả để hắn tin ván này bị hỏng ngẫu nhiên.",
+      "text": "Cát Tiểu Nghi gọi cầu cứu, kể trò chơi kỳ lạ. Thịnh Duật Lâm lái xe tới nhà bạn, kiểm tra số liệu: bình thường, nhưng tân nương không có lời thoại như hắn viết. Hắn định bấm trọng trí, đặt lại cả ván. Bạn thấy, dùng khả năng đọc mã để chặn lệnh. Nếu thất bại, ván đặt lại và bạn cùng anh lại bị tách. Hắn nghi ngờ, quyết định mở bản Cương Thi gốc. Bạn có thể khóa tệp lại, hoặc giăng một lỗi giả để hắn tin ván này bị hỏng ngẫu nhiên.",
       "tieu": "Một cú bấm của hắn là đủ xóa sạch những ngày qua. Ngươi chỉ có vài giây.",
       "cast": "mg_hanh,mg_lam,mg_nghi,tc",
       "ch": [
@@ -3125,7 +3125,7 @@
           },
           "b": 0.5384,
           "bad": {
-            "x": "Một lớp khóa bị sót. Lệnh trọng trí chạy được nửa vòng rồi dừng, cú sốc làm cô choáng.",
+            "x": "Một lớp khóa bị sót. Lệnh trọng trí chạy được nửa vòng rồi dừng, cú sốc làm bạn choáng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3193,7 +3193,7 @@
           },
           "b": 0.4215999999999999,
           "bad": {
-            "x": "Nhật ký xóa chưa kịp, dòng lệnh lọt qua. Một cú đẩy quét qua cô.",
+            "x": "Nhật ký xóa chưa kịp, dòng lệnh lọt qua. Một cú đẩy quét qua bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3214,7 +3214,7 @@
           "b0": 0.47
         }
       ],
-      "ctx": "Nhà Tiểu Hạnh, Duật Lâm kiểm tra số liệu và định trọng trí ván chơi.",
+      "ctx": "Nhà bạn, Duật Lâm kiểm tra số liệu và định trọng trí ván chơi.",
       "no": 35
     },
     {
@@ -3223,7 +3223,7 @@
       "place": "Cương Thi tân nương · Phòng tân hôn",
       "kind": "duyen",
       "title": "Hai ván chồng lên nhau",
-      "text": "Bản Cương Thi tân nương gốc khởi động. Cảnh đổi, và Tiểu Hạnh cùng Trạch Dương nằm trên một chiếc giường, ôm nhau như thể chưa từng bị tách. Anh nói: «Anh đã sợ không gặp lại em.» Anh nói thêm: giá em giống anh, một sóng điện não, thì tốt, vì dù ở trong trò chơi anh cũng không sợ em biến mất. Cô nói «Em là người thật». Anh cười, không tin. Cô có thể thử nói lại bằng một chi tiết ngoài đời mà trò chơi không thể bịa ra, hoặc để anh tự hiểu theo thời gian.",
+      "text": "Bản Cương Thi tân nương gốc khởi động. Cảnh đổi, và bạn cùng Trạch Dương nằm trên một chiếc giường, ôm nhau như thể chưa từng bị tách. Anh nói: «Anh đã sợ không gặp lại em.» Anh nói thêm: giá em giống anh, một sóng điện não, thì tốt, vì dù ở trong trò chơi anh cũng không sợ em biến mất. Bạn nói «Em là người thật». Anh cười, không tin. Bạn có thể thử nói lại bằng một chi tiết ngoài đời mà trò chơi không thể bịa ra, hoặc để anh tự hiểu theo thời gian.",
       "tieu": "Anh ấy tin ngươi là nhân vật. Chứng minh ngay lúc này chưa chắc có tác dụng. Nhưng nếu có chi tiết thật thì...",
       "cast": "mg_hanh,mg_duong,tc",
       "ch": [
@@ -3243,7 +3243,7 @@
           },
           "b": 0.4154666666666665,
           "bad": {
-            "x": "Anh nghe xong cười lớn, bảo «trò chơi này tinh vi thật» và vỗ đầu cô.",
+            "x": "Anh nghe xong cười lớn, bảo «trò chơi này tinh vi thật» và vỗ đầu bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3263,7 +3263,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh siết nhẹ rồi thả ra, nhìn cô rất lâu. «Em lạ lắm... nhưng anh không bận tâm.»",
+            "x": "Anh siết nhẹ rồi thả ra, nhìn bạn rất lâu. «Em lạ lắm... nhưng anh không bận tâm.»",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3273,7 +3273,7 @@
           },
           "b": 0.5906666666666667,
           "bad": {
-            "x": "Cô im lặng quá lâu, anh hỏi «em có giận không?».",
+            "x": "Bạn im lặng quá lâu, anh hỏi «em có giận không?».",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3293,7 +3293,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh nghĩ rất lâu rồi nói: «Anh sẽ nấu cho em một đĩa đùi gà thật.» Cô cười đến cay mắt.",
+            "x": "Anh nghĩ rất lâu rồi nói: «Anh sẽ nấu cho em một đĩa đùi gà thật.» Bạn cười đến cay mắt.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3328,7 +3328,7 @@
       "place": "Cương Thi tân nương · Phòng tân hôn",
       "kind": "chon",
       "title": "Em là người thật",
-      "text": "Ngay sau đó, Trạch Dương nghĩ cô là nhân vật có thuộc tính ẩn. Anh thử nắm tay cô, hôn lên trán cô xem có mở khóa gì không; cô để mặc. Rồi anh thú thật: «Phu thê không nên có bí mật.» Anh là sóng điện não của một người thật, Thịnh Trạch Dương, từ nhỏ mê trò chơi, sớm nghiên cứu ra khoang trò chơi, chưa thử đủ an toàn đã tự chơi, rồi mất ý thức và tỉnh lại trong tệp này. Tiểu Châu bổ sung hồ sơ: mất lúc 24 tuổi, bảy năm trước, tiểu thúc của Duật Lâm, em ruột Thịnh Vĩnh Khang. Cô có thể kể thật mình cũng là người, hoặc nói «em muốn nghe anh kể tiếp».",
+      "text": "Ngay sau đó, Trạch Dương nghĩ bạn là nhân vật có thuộc tính ẩn. Anh thử nắm tay bạn, hôn lên trán bạn xem có mở khóa gì không; bạn để mặc. Rồi anh thú thật: «Phu thê không nên có bí mật.» Anh là sóng điện não của một người thật, Thịnh Trạch Dương, từ nhỏ mê trò chơi, sớm nghiên cứu ra khoang trò chơi, chưa thử đủ an toàn đã tự chơi, rồi mất ý thức và tỉnh lại trong tệp này. Tiểu Châu bổ sung hồ sơ: mất lúc 24 tuổi, bảy năm trước, tiểu thúc của Duật Lâm, em ruột Thịnh Vĩnh Khang. Bạn có thể kể thật mình cũng là người, hoặc nói «em muốn nghe anh kể tiếp».",
       "tieu": "Anh ấy vừa nói thật. Ngươi cũng nên nói thật, dù anh ấy chưa tin.",
       "cast": "mg_hanh,mg_duong,tc",
       "ch": [
@@ -3337,7 +3337,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh nhìn cô như nhìn một giấc mơ. «Em nói thật à?» Anh không tin, nhưng nhớ rất kỹ từng chữ.",
+            "x": "Anh nhìn bạn như nhìn một giấc mơ. «Em nói thật à?» Anh không tin, nhưng nhớ rất kỹ từng chữ.",
             "d": {
               "ac": -6,
               "hac": -6,
@@ -3348,7 +3348,7 @@
           },
           "b": 0.4154666666666665,
           "bad": {
-            "x": "Anh bật cười, bảo «em diễn giỏi quá» và xoa đầu cô. Nhưng ánh mắt anh có chút chần chừ.",
+            "x": "Anh bật cười, bảo «em diễn giỏi quá» và xoa đầu bạn. Nhưng ánh mắt anh có chút chần chừ.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3368,7 +3368,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh nói tiếp thật lâu, kể cả chuyện ba mẹ và anh trai. Cô ngồi nghe đến sáng.",
+            "x": "Anh nói tiếp thật lâu, kể cả chuyện ba mẹ và anh trai. Bạn ngồi nghe đến sáng.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3398,7 +3398,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh im lặng rất lâu, rồi đáp «không biết». Cô nắm tay anh thật chặt.",
+            "x": "Anh im lặng rất lâu, rồi đáp «không biết». Bạn nắm tay anh thật chặt.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3433,7 +3433,7 @@
       "place": "Cương Thi tân nương · Cổng đại trạch",
       "kind": "chon",
       "title": "Duật Lâm gõ cửa",
-      "text": "Thịnh Duật Lâm sửa số liệu để người chơi có thể gõ lời thay cho nhân vật. Hắn vào ván Cương Thi tân nương, hỏi: «Tên em là gì?» Tiểu Hạnh đáp «Ngu Tiểu Hạnh, anh là ai?». Hắn gõ liên tục: bữa sáng, cà phê, chiếc bánh kem, chiếc đồng hồ, dòng chữ «Thích anh còn nóng bỏng hơn thích trò chơi». Trạch Dương nghe tên «Duật Lâm» qua Tiểu Châu: «chất nhi của ta». Cô có thể giả mất trí nhớ rồi bảo Bác Cửu kéo hắn ra, hoặc nói một lời thật để hắn nản.",
+      "text": "Thịnh Duật Lâm sửa số liệu để người chơi có thể gõ lời thay cho nhân vật. Hắn vào ván Cương Thi tân nương, hỏi: «Tên em là gì?» Bạn đáp «Ngu Tiểu Hạnh, anh là ai?». Hắn gõ liên tục: bữa sáng, cà phê, chiếc bánh kem, chiếc đồng hồ, dòng chữ «Thích anh còn nóng bỏng hơn thích trò chơi». Trạch Dương nghe tên «Duật Lâm» qua Tiểu Châu: «chất nhi của ta». Bạn có thể giả mất trí nhớ rồi bảo Bác Cửu kéo hắn ra, hoặc nói một lời thật để hắn nản.",
       "tieu": "Hắn là cháu của anh ấy, và anh ấy chưa biết hắn đã làm gì. Đừng để hai người này gặp nhau lúc này.",
       "cast": "mg_hanh,mg_lam,mg_duong,mg_cuu,tc",
       "ch": [
@@ -3442,7 +3442,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô nhìn hắn bằng ánh mắt xa lạ, Bác Cửu đẩy hắn ra cổng. Hắn đứng chết lặng trong gió.",
+            "x": "Bạn nhìn hắn bằng ánh mắt xa lạ, Bác Cửu đẩy hắn ra cổng. Hắn đứng chết lặng trong gió.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3472,7 +3472,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Hắn sững người, gõ không nổi một chữ. Cô thấy mình đã chặn được hắn ở cửa.",
+            "x": "Hắn sững người, gõ không nổi một chữ. Bạn thấy mình đã chặn được hắn ở cửa.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3482,7 +3482,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Câu nói của cô khiến hắn càng muốn hỏi thêm. Hắn đập tay vào bàn phím.",
+            "x": "Câu nói của bạn khiến hắn càng muốn hỏi thêm. Hắn đập tay vào bàn phím.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3537,7 +3537,7 @@
       "place": "Cương Thi tân nương · Phòng tân hôn",
       "kind": "nan",
       "title": "Cuộn phim cho tiểu thúc",
-      "text": "Tối, Tiểu Hạnh nói với Trạch Dương: «Phu thê không nên có bí mật.» Cô nhờ Tiểu Châu chiếu lại những gì xảy ra ngoài đời: Duật Lâm tự độc thoại khi sửa máy, kế hoạch tráo hồn, mười bốn cô gái, chiếc USB. Trạch Dương im lặng rất lâu, thở nặng, rồi nói: «Nhà họ Thịnh nợ em.» Cô có thể giữ tay anh khi anh định xóa Duật Lâm khỏi mạng, hoặc để anh trút giận một lúc rồi mới can.",
+      "text": "Tối, bạn nói với Trạch Dương: «Phu thê không nên có bí mật.» Bạn nhờ Tiểu Châu chiếu lại những gì xảy ra ngoài đời: Duật Lâm tự độc thoại khi sửa máy, kế hoạch tráo hồn, mười bốn cô gái, chiếc USB. Trạch Dương im lặng rất lâu, thở nặng, rồi nói: «Nhà họ Thịnh nợ em.» Bạn có thể giữ tay anh khi anh định xóa Duật Lâm khỏi mạng, hoặc để anh trút giận một lúc rồi mới can.",
       "tieu": "Anh ấy vừa biết cháu trai mình hại người. Đây là lúc anh ấy dễ sụp nhất. Giữ lấy tay anh ấy.",
       "cast": "mg_hanh,mg_duong,mg_lam,tc",
       "ch": [
@@ -3554,7 +3554,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Anh gạt tay cô ra, rồi lại nắm lấy tay cô trong im lặng. Anh vẫn run lên vì giận.",
+            "x": "Anh gạt tay bạn ra, rồi lại nắm lấy tay bạn trong im lặng. Anh vẫn run lên vì giận.",
             "d": {
               "ac": -1,
               "sinh": -5
@@ -3567,7 +3567,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh đập vào bàn, rồi ngồi sụp xuống. Cô nhẹ nhàng đặt tay lên lưng anh.",
+            "x": "Anh đập vào bàn, rồi ngồi sụp xuống. Bạn nhẹ nhàng đặt tay lên lưng anh.",
             "d": {
               "ac": -6,
               "hao": 9
@@ -3575,7 +3575,7 @@
           },
           "b": 0.5484,
           "bad": {
-            "x": "Anh trút giận quá mức, chiếc ghế vỡ nát. Cô phải nhờ Bác Cửu thu dọn.",
+            "x": "Anh trút giận quá mức, chiếc ghế vỡ nát. Bạn phải nhờ Bác Cửu thu dọn.",
             "d": {
               "ac": -1,
               "sinh": -5
@@ -3612,10 +3612,10 @@
     {
       "id": "m40",
       "scene": "ydesk",
-      "place": "Nhà Tiểu Hạnh · Sau khi Duật Lâm lỡ lời",
+      "place": "Nhà bạn · Sau khi Duật Lâm lỡ lời",
       "kind": "duyen",
       "title": "Tiểu Nghi bỏ trốn",
-      "text": "Nhà Tiểu Hạnh, ngay sau khi Duật Lâm lỡ lời. Hắn vừa gõ phím vừa lẩm bẩm mưu cũ; Cát Tiểu Nghi nghe thấy: hắn lừa cô bé từ đầu, thân thể này thuộc về người khác. Cô bé lấy thẻ, điện thoại, trang sức quý rồi bỏ đi. Tiểu Châu tóm lại một năm sau: ở một thị trấn xa, Tiểu Nghi phát hiện thẻ chỉ còn mấy trăm vì tiền đã quyên từ lâu, bán trang sức, sống chật vật. Cô có thể để mặc, hoặc bí mật nhắn Tiểu Nghi đi gặp cảnh sát.",
+      "text": "Nhà bạn, ngay sau khi Duật Lâm lỡ lời. Hắn vừa gõ phím vừa lẩm bẩm mưu cũ; Cát Tiểu Nghi nghe thấy: hắn lừa cô bé từ đầu, thân thể này thuộc về người khác. Cô bé lấy thẻ, điện thoại, trang sức quý rồi bỏ đi. Tiểu Châu tóm lại một năm sau: ở một thị trấn xa, Tiểu Nghi phát hiện thẻ chỉ còn mấy trăm vì tiền đã quyên từ lâu, bán trang sức, sống chật vật. Bạn có thể để mặc, hoặc bí mật nhắn Tiểu Nghi đi gặp cảnh sát.",
       "tieu": "Cô bé ấy là người bị lừa lớn nhất ở đây. Nếu có thể chỉ cho cô bé một lối thoát thì tốt hơn là để cô bé tự mò.",
       "cast": "mg_hanh,mg_nghi,mg_lam,tc",
       "ch": [
@@ -3655,7 +3655,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô quan sát từ xa, thấy cô bé dần chững lại. Có lẽ cô bé đủ mạnh để tự thoát.",
+            "x": "Bạn quan sát từ xa, thấy cô bé dần chững lại. Có lẽ cô bé đủ mạnh để tự thoát.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3685,7 +3685,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Tiểu Mãn nhận tin, nhắn lại «Em sẽ lo». Cô thấy lòng yên hơn.",
+            "x": "Tiểu Mãn nhận tin, nhắn lại «Em sẽ lo». Bạn thấy lòng yên hơn.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -3711,7 +3711,7 @@
           "b0": 0.48
         }
       ],
-      "ctx": "Nhà Tiểu Hạnh, ngay sau khi Duật Lâm lỡ lời trước mặt Tiểu Nghi.",
+      "ctx": "Nhà bạn, ngay sau khi Duật Lâm lỡ lời trước mặt Tiểu Nghi.",
       "no": 40
     },
     {
@@ -3720,7 +3720,7 @@
       "place": "Văn phòng Duật Lâm · Khuya",
       "kind": "hiem",
       "title": "Xóa số liệu",
-      "text": "Văn phòng Duật Lâm, khuya. Hắn quyết xóa Cương Thi vương và thay chỗ anh bằng một nhân vật khác; mã lệnh đổ xuống như thác, thân hình Trạch Dương lập lòe tan dần. Tiểu Châu nói anh là sóng điện não chứ không phải số liệu nên xóa không dứt, nhưng nếu chậm anh sẽ bị thương nặng. Tiểu Hạnh nắm tay anh, dùng khả năng đọc mã để dựng lại. Cô có thể dựng lại từ lõi, hoặc kéo anh sang ván khác tạm lánh.",
+      "text": "Văn phòng Duật Lâm, khuya. Hắn quyết xóa Cương Thi vương và thay chỗ anh bằng một nhân vật khác; mã lệnh đổ xuống như thác, thân hình Trạch Dương lập lòe tan dần. Tiểu Châu nói anh là sóng điện não chứ không phải số liệu nên xóa không dứt, nhưng nếu chậm anh sẽ bị thương nặng. Bạn nắm tay anh, dùng khả năng đọc mã để dựng lại. Bạn có thể dựng lại từ lõi, hoặc kéo anh sang ván khác tạm lánh.",
       "tieu": "Đây là lúc anh ấy gần biến mất nhất. Mọi thứ ngươi học về mã lệnh bây giờ mới dùng đến.",
       "cast": "mg_hanh,mg_duong,mg_lam,tc",
       "ch": [
@@ -3738,7 +3738,7 @@
           },
           "b": 0.5384,
           "bad": {
-            "x": "Cô dựng chậm một nhịp, anh gào lên đau đớn khi một phần tan đi.",
+            "x": "Bạn dựng chậm một nhịp, anh gào lên đau đớn khi một phần tan đi.",
             "d": {
               "ac": -1,
               "hac": 8,
@@ -3765,7 +3765,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô kéo anh qua giữa lúc mã sắp chạm. Hai người rơi vào khu rừng trăng bạc, thở hổn hển.",
+            "x": "Bạn kéo anh qua giữa lúc mã sắp chạm. Hai người rơi vào khu rừng trăng bạc, thở hổn hển.",
             "d": {
               "ac": -6,
               "hac": -6,
@@ -3774,7 +3774,7 @@
           },
           "b": 0.48,
           "bad": {
-            "x": "Cô kéo hơi chậm, mã đã quét qua nửa người anh trước khi cả hai thoát.",
+            "x": "Bạn kéo hơi chậm, mã đã quét qua nửa người anh trước khi cả hai thoát.",
             "d": {
               "ac": -1,
               "hac": 8,
@@ -3801,7 +3801,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Tiểu Châu nói nhịp, cô dựng nhịp. Dòng mã khựng lại giữa chừng như bị chặn bởi một bức tường vô hình.",
+            "x": "Tiểu Châu nói nhịp, bạn dựng nhịp. Dòng mã khựng lại giữa chừng như bị chặn bởi một bức tường vô hình.",
             "d": {
               "ac": -6,
               "hac": -6,
@@ -3842,7 +3842,7 @@
       "place": "Thịnh thị · Bản tin trong mạng",
       "kind": "chon",
       "title": "Khoang trò chơi ra thị trường",
-      "text": "Nửa năm sau, trên bản tin trong mạng: Thịnh thị mở bán khoang trò chơi trên cả nước, thế giới bước vào thời thực tế ảo. Trạch Dương nhận ra thiết kế gốc là bản thảo của mình; Duật Lâm đã mất sáu bảy năm hoàn thiện mới dám đưa ra. Anh vừa tự hào vừa cay. Tiểu Châu tóm lại nửa năm qua. Cô có thể khuyên anh «công trình đứng được là đủ», hoặc đồng ý đòi lại tên người phát minh.",
+      "text": "Nửa năm sau, trên bản tin trong mạng: Thịnh thị mở bán khoang trò chơi trên cả nước, thế giới bước vào thời thực tế ảo. Trạch Dương nhận ra thiết kế gốc là bản thảo của mình; Duật Lâm đã mất sáu bảy năm hoàn thiện mới dám đưa ra. Anh vừa tự hào vừa cay. Tiểu Châu tóm lại nửa năm qua. Bạn có thể khuyên anh «công trình đứng được là đủ», hoặc đồng ý đòi lại tên người phát minh.",
       "tieu": "Anh ấy đang giằng co giữa niềm tự hào và nỗi cay. Hãy chọn lời khiến anh ấy nhẹ hơn.",
       "cast": "mg_hanh,mg_duong,mg_lam,tc",
       "ch": [
@@ -3881,7 +3881,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Anh gật đầu chắc chắn. Cô thấy anh rạng rỡ như người vừa lấy lại một phần mình.",
+            "x": "Anh gật đầu chắc chắn. Bạn thấy anh rạng rỡ như người vừa lấy lại một phần mình.",
             "d": {
               "ac": -4,
               "hac": 6,
@@ -3951,7 +3951,7 @@
       "place": "Trong mạng · Nhiều tháng sau",
       "kind": "duyen",
       "title": "Đầu não của mạng",
-      "text": "Trạch Dương muốn làm chủ lưới mạng cả nước để bảo vệ cô; Tiểu Hạnh thấy hợp lý. Tiểu Châu mở kho giáo trình «Nhập môn điều hành mạng lõi». Hai người học tường lửa, nhật ký giao dịch, lọc lừa đảo. Mỗi ngày anh đòi cô kể chuyện, và nấu cho cô một đĩa đùi gà giả lập; cô chê vị vẫn chưa ra gì. Cô có thể học tường lửa trước, hoặc học phần lọc lừa đảo trước.",
+      "text": "Trạch Dương muốn làm chủ lưới mạng cả nước để bảo vệ bạn; bạn thấy hợp lý. Tiểu Châu mở kho giáo trình «Nhập môn điều hành mạng lõi». Hai người học tường lửa, nhật ký giao dịch, lọc lừa đảo. Mỗi ngày anh đòi bạn kể chuyện, và nấu cho bạn một đĩa đùi gà giả lập; bạn chê vị vẫn chưa ra gì. Bạn có thể học tường lửa trước, hoặc học phần lọc lừa đảo trước.",
       "tieu": "Muốn bảo vệ nhau thì phải biết làm chủ nơi ở. Học cho kỹ, vì sau này sẽ cần dùng.",
       "cast": "mg_hanh,mg_duong,tc",
       "ch": [
@@ -3960,7 +3960,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô dựng xong ba lớp, anh gật gù «ta đã nói em thông minh mà». Cô thấy mình có chỗ đứng.",
+            "x": "Bạn dựng xong ba lớp, anh gật gù «ta đã nói em thông minh mà». Bạn thấy mình có chỗ đứng.",
             "d": {
               "ac": -6,
               "hac": -6,
@@ -3970,7 +3970,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô đặt nhầm một lớp, phải gỡ ra làm lại từ đầu.",
+            "x": "Bạn đặt nhầm một lớp, phải gỡ ra làm lại từ đầu.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -3990,7 +3990,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô lọc được hai nghìn tin nhắn giả trong buổi đầu. Anh cười «em hợp làm cảnh sát mạng».",
+            "x": "Bạn lọc được hai nghìn tin nhắn giả trong buổi đầu. Anh cười «em hợp làm cảnh sát mạng».",
             "d": {
               "ac": -6,
               "hac": -6,
@@ -4000,7 +4000,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Cô lọc nhầm vài tin thật, phải xin lỗi người bị chặn nhầm.",
+            "x": "Bạn lọc nhầm vài tin thật, phải xin lỗi người bị chặn nhầm.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4016,7 +4016,7 @@
           "b0": 0.51
         },
         {
-          "t": "Nhờ anh dạy phần mã lõi, đổi lại cô dạy anh nấu ăn thật",
+          "t": "Nhờ anh dạy phần mã lõi, đổi lại bạn dạy anh nấu ăn thật",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
@@ -4030,7 +4030,7 @@
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Cô dạy món khó quá, anh làm cháy cả đĩa. Cô cười nghiêng ngả.",
+            "x": "Bạn dạy món khó quá, anh làm cháy cả đĩa. Bạn cười nghiêng ngả.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4057,10 +4057,10 @@
     {
       "id": "m44",
       "scene": "zsofa",
-      "place": "Nhà cha mẹ cô · Điện thoại tối",
+      "place": "Nhà cha mẹ bạn · Điện thoại tối",
       "kind": "chon",
       "title": "Lời nói với ba mẹ",
-      "text": "Tối, Tiểu Hạnh nhờ Tiểu Châu nối vào điện thoại của Ngu Chấn Hoa và Tạ Mai Lan, kể lại chân tướng kèm chứng cứ. Lúc đầu họ tưởng kẻ lừa đảo, rồi tin sau khi xem lại video phòng phát sóng. Cô cho họ thấy Thịnh Trạch Dương; mẹ khóc, cha hỏi về họ Thịnh. Cô dặn thêm: sau này nếu Cát Tiểu Nghi rời đi, thân thể này sẽ được tiễn đưa yên tĩnh, không giữ làm vật thí nghiệm. Cô có thể nói hết mọi chuyện và cho cha mẹ gặp anh, hoặc chỉ nói «con vẫn ổn» để họ đỡ lo.",
+      "text": "Tối, bạn nhờ Tiểu Châu nối vào điện thoại của Ngu Chấn Hoa và Tạ Mai Lan, kể lại chân tướng kèm chứng cứ. Lúc đầu họ tưởng kẻ lừa đảo, rồi tin sau khi xem lại video phòng phát sóng. Bạn cho họ thấy Thịnh Trạch Dương; mẹ khóc, cha hỏi về họ Thịnh. Bạn dặn thêm: sau này nếu Cát Tiểu Nghi rời đi, thân thể này sẽ được tiễn đưa yên tĩnh, không giữ làm vật thí nghiệm. Bạn có thể nói hết mọi chuyện và cho cha mẹ gặp anh, hoặc chỉ nói «con vẫn ổn» để họ đỡ lo.",
       "tieu": "Cha mẹ ngươi là hai người tin ngươi nhất. Nhưng họ cũng là hai người dễ bị tổn thương nhất.",
       "cast": "mg_hanh,mg_chan,mg_mai,mg_duong,tc",
       "ch": [
@@ -4080,7 +4080,7 @@
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Mẹ hoảng, cha phải trấn an bà. Cuộc nói chuyện dài và nặng nề hơn cô nghĩ.",
+            "x": "Mẹ hoảng, cha phải trấn an bà. Cuộc nói chuyện dài và nặng nề hơn bạn nghĩ.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4100,7 +4100,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cha mẹ nghe giọng cô, bớt lo hẳn. Họ dặn cô nhớ ăn uống rồi cúp máy.",
+            "x": "Cha mẹ nghe giọng bạn, bớt lo hẳn. Họ dặn bạn nhớ ăn uống rồi cúp máy.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -4110,7 +4110,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Mẹ nghe ra giọng cô run. Bà hỏi dồn, cô đành cười chữa.",
+            "x": "Mẹ nghe ra giọng bạn run. Bà hỏi dồn, bạn đành cười chữa.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4130,7 +4130,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cha mẹ xem hết video trước khi nghe cô nói. Họ hiểu từ trước khi cô mở lời.",
+            "x": "Cha mẹ xem hết video trước khi nghe bạn nói. Họ hiểu từ trước khi bạn mở lời.",
             "d": {
               "ac": -6,
               "hac": -4,
@@ -4156,7 +4156,7 @@
           "b0": 0.5
         }
       ],
-      "ctx": "Nhà cha mẹ cô, tối. Tiểu Châu nối máy vào điện thoại của họ.",
+      "ctx": "Nhà cha mẹ bạn, tối. Tiểu Châu nối máy vào điện thoại của họ.",
       "no": 44
     },
     {
@@ -4165,7 +4165,7 @@
       "place": "Biệt thự trên núi · Viện nghiên cứu sóng điện não",
       "kind": "duyen",
       "title": "Còng tay",
-      "text": "Sáng, đội trưởng Lữ Kiến Bình dẫn người xông vào biệt thự trên núi của Duật Lâm, đọc lệnh bắt hắn dựa trên bằng chứng Tiểu Hạnh đã gửi. Ông bà Thịnh nhận con làm sai và quyết định bán mảng trò chơi; Thịnh Vĩnh Khang nói: «Trò chơi đã cướp một em trai, nay còn cướp một đứa con.» Quách chủ nhiệm của viện nghiên cứu sóng điện não mời Tiểu Nghi hợp tác; cô bé sợ bị giữ lại nên chạy vào mạng. Tiểu Hạnh và Trạch Dương tìm thấy cô bé ở rìa lưới, đưa vào một khu nhỏ để học lại cách sống. Cô có thể dạy cô bé từng bước, hoặc để cô bé tự chọn.",
+      "text": "Sáng, đội trưởng Lữ Kiến Bình dẫn người xông vào biệt thự trên núi của Duật Lâm, đọc lệnh bắt hắn dựa trên bằng chứng bạn đã gửi. Ông bà Thịnh nhận con làm sai và quyết định bán mảng trò chơi; Thịnh Vĩnh Khang nói: «Trò chơi đã cướp một em trai, nay còn cướp một đứa con.» Quách chủ nhiệm của viện nghiên cứu sóng điện não mời Tiểu Nghi hợp tác; cô bé sợ bị giữ lại nên chạy vào mạng. Bạn và Trạch Dương tìm thấy cô bé ở rìa lưới, đưa vào một khu nhỏ để học lại cách sống. Bạn có thể dạy cô bé từng bước, hoặc để cô bé tự chọn.",
       "tieu": "Cô bé từng là kẻ chiếm thân ngươi, nhưng cũng từng là nạn nhân. Cho cô bé một chỗ đứng.",
       "cast": "mg_hanh,mg_binh,mg_khang,mg_quach,mg_nghi,mg_duong,tc",
       "ch": [
@@ -4184,7 +4184,7 @@
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Tiểu Nghi sợ hãi, rụt rè không dám thử. Cô phải kiên nhẫn nhiều hơn.",
+            "x": "Tiểu Nghi sợ hãi, rụt rè không dám thử. Bạn phải kiên nhẫn nhiều hơn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4204,7 +4204,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô bé đi quanh khu nhỏ, chạm vào từng thứ. Cuối ngày cô bé nói «em muốn học thử». Cô gật đầu.",
+            "x": "Cô bé đi quanh khu nhỏ, chạm vào từng thứ. Cuối ngày cô bé nói «em muốn học thử». Bạn gật đầu.",
             "d": {
               "ac": -6,
               "hac": -6,
@@ -4214,7 +4214,7 @@
           },
           "b": 0.5584,
           "bad": {
-            "x": "Cô bé ngồi ở góc suốt cả ngày, không nói gì. Cô đành để cô bé yên.",
+            "x": "Cô bé ngồi ở góc suốt cả ngày, không nói gì. Bạn đành để cô bé yên.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4230,11 +4230,11 @@
           "b0": 0.51
         },
         {
-          "t": "Kể cho cô bé nghe người thật tên Ngu Tiểu Hạnh là ai",
+          "t": "Kể cho cô bé nghe người thật tên bạn là ai",
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Cô bé nghe xong khóc, nói «xin lỗi chị». Cô lau nước mắt cho cô bé.",
+            "x": "Cô bé nghe xong khóc, nói «xin lỗi chị». Bạn lau nước mắt cho cô bé.",
             "d": {
               "ac": -6,
               "hac": -6,
@@ -4269,7 +4269,7 @@
       "place": "Trong mạng · Sau vụ bắt",
       "kind": "chon",
       "title": "Giấu mình sau kịch bản",
-      "text": "Sau vụ bắt, viện nghiên cứu nhận lệnh tìm hồn Tiểu Hạnh; công chúng chờ. Tiểu Hạnh và Trạch Dương bàn: nếu lộ mặt, hai người sẽ bị kéo ra khỏi mạng để nghiên cứu. Họ quyết giấu mình. Anh viết các lời thoại cố định cho tân nương của ba tệp để qua mắt, cô học cách thiết kế màn chơi, và hai người giấu trong đó một câu ẩn: «Quỷ Vương tuy hung nhưng hình như sẽ không hại em.» Đỗ Tiểu Mãn và các fan lặng lẽ xóa video của Tiểu Nghi, chờ Hạnh Hạnh quay về. Cô có thể viết lời lạnh lùng, hoặc viết lời hơi ngô nghê.",
+      "text": "Sau vụ bắt, viện nghiên cứu nhận lệnh tìm hồn bạn; công chúng chờ. Bạn và Trạch Dương bàn: nếu lộ mặt, hai người sẽ bị kéo ra khỏi mạng để nghiên cứu. Họ quyết giấu mình. Anh viết các lời thoại cố định cho tân nương của ba tệp để qua mắt, bạn học cách thiết kế màn chơi, và hai người giấu trong đó một câu ẩn: «Quỷ Vương tuy hung nhưng hình như sẽ không hại em.» Đỗ Tiểu Mãn và các fan lặng lẽ xóa video của Tiểu Nghi, chờ Hạnh Hạnh quay về. Bạn có thể viết lời lạnh lùng, hoặc viết lời hơi ngô nghê.",
       "tieu": "Lời thoại cố định là chiếc mặt nạ của hai người. Viết sao cho giống một nhân vật, không giống một người thật.",
       "cast": "mg_hanh,mg_duong,mg_man,tc",
       "ch": [
@@ -4338,7 +4338,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Hai người dựng một lối đi bí mật. Cô thấy mình như một nhà thiết kế thật sự.",
+            "x": "Hai người dựng một lối đi bí mật. Bạn thấy mình như một nhà thiết kế thật sự.",
             "d": {
               "ac": -6,
               "hac": -6,
@@ -4378,7 +4378,7 @@
       "place": "Trại giam đặc biệt · Buổi phát sóng toàn quốc",
       "kind": "hiem",
       "title": "Buổi phát sóng một trăm triệu người",
-      "text": "Trại giam đặc biệt có một máy tính duy nhất dành cho phạm nhân, và toàn quốc cùng xem. Thịnh Duật Lâm mở lại từng trò chơi, hỏi: «Tên em là gì?» Tân nương chỉ đọc lời đã viết. Hắn đổi sang Hấp Huyết rồi Quỷ Vương, nghe câu ẩn, và Quách chủ nhiệm kết luận: đây không phải Tiểu Hạnh. Nếu Tiểu Hạnh trả lời đúng tên mình, hệ thống sẽ dò ra cô; một nhát dò quét ngang người cô. Cô có thể đọc đúng kịch bản, hoặc cho phép một câu «tôi không nhớ». Duật Lâm gục xuống; từ đó chỉ còn là một phạm nhân thường.",
+      "text": "Trại giam đặc biệt có một máy tính duy nhất dành cho phạm nhân, và toàn quốc cùng xem. Thịnh Duật Lâm mở lại từng trò chơi, hỏi: «Tên em là gì?» Tân nương chỉ đọc lời đã viết. Hắn đổi sang Hấp Huyết rồi Quỷ Vương, nghe câu ẩn, và Quách chủ nhiệm kết luận: đây không phải bạn. Nếu bạn trả lời đúng tên mình, hệ thống sẽ dò ra bạn; một nhát dò quét ngang người bạn. Bạn có thể đọc đúng kịch bản, hoặc cho phép một câu «tôi không nhớ». Duật Lâm gục xuống; từ đó chỉ còn là một phạm nhân thường.",
       "tieu": "Một trăm triệu người đang xem. Một chữ sai là bị kéo ra khỏi mạng. Giữ đúng kịch bản.",
       "cast": "mg_hanh,mg_lam,mg_quach,mg_man,tc",
       "ch": [
@@ -4387,7 +4387,7 @@
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
-            "x": "Cô đọc không lệch một chữ. Hắn chờ mãi một câu khác, và nó không bao giờ đến.",
+            "x": "Bạn đọc không lệch một chữ. Hắn chờ mãi một câu khác, và nó không bao giờ đến.",
             "d": {
               "ac": -7,
               "hac": -6,
@@ -4396,7 +4396,7 @@
           },
           "b": 0.5484,
           "bad": {
-            "x": "Cô lỡ nhịp một từ, hệ thống dò quét qua. Cô choáng váng.",
+            "x": "Bạn lỡ nhịp một từ, hệ thống dò quét qua. Bạn choáng váng.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4430,7 +4430,7 @@
           },
           "b": 0.43159999999999993,
           "bad": {
-            "x": "Giọng cô lệch một chút so với giọng nhân vật. Hệ thống dò quét qua.",
+            "x": "Giọng bạn lệch một chút so với giọng nhân vật. Hệ thống dò quét qua.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4455,7 +4455,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Phòng chat tràn bình luận, hệ thống dò loạn nhịp. Cô nói xong mà không bị dò.",
+            "x": "Phòng chat tràn bình luận, hệ thống dò loạn nhịp. Bạn nói xong mà không bị dò.",
             "d": {
               "ac": -7,
               "hac": -6,
@@ -4464,7 +4464,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Bình luận quá nhiều làm nghẽn cả hệ thống, và dòng dò quét qua cô.",
+            "x": "Bình luận quá nhiều làm nghẽn cả hệ thống, và dòng dò quét qua bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4494,7 +4494,7 @@
       "place": "Năm năm sau · Máy tính mới",
       "kind": "nan",
       "title": "Tiểu thúc và tiểu thím",
-      "text": "Năm năm sau, Thịnh Duật Lâm ra tù sớm vì cải tạo tốt. Hắn mở Quỷ Vương tân nương trên một chiếc máy mới và nói: «Tiểu Hạnh, anh đưa em ra.» Tiểu Hạnh và Trạch Dương hiện thật trước mặt hắn. Hắn kinh hoàng nhận ra khuôn mặt tiểu thúc. Cô nói: «Từ khi em nằm vào khoang, anh và em đã hết.» Hắn nói: «Em nên về thân thể.» Cô đáp: «Đã tiễn đưa rồi.» Trạch Dương ôm cô, nhưng trong lòng thầm sợ cô muốn quay lại. Cô có thể trấn an anh ngay trước mặt hắn, hoặc đợi hắn đi rồi mới nói.",
+      "text": "Năm năm sau, Thịnh Duật Lâm ra tù sớm vì cải tạo tốt. Hắn mở Quỷ Vương tân nương trên một chiếc máy mới và nói: «Tiểu Hạnh, anh đưa em ra.» Bạn và Trạch Dương hiện thật trước mặt hắn. Hắn kinh hoàng nhận ra khuôn mặt tiểu thúc. Bạn nói: «Từ khi em nằm vào khoang, anh và em đã hết.» Hắn nói: «Em nên về thân thể.» Bạn đáp: «Đã tiễn đưa rồi.» Trạch Dương ôm bạn, nhưng trong lòng thầm sợ bạn muốn quay lại. Bạn có thể trấn an anh ngay trước mặt hắn, hoặc đợi hắn đi rồi mới nói.",
       "tieu": "Anh ấy sợ nhất điều này: ngươi muốn quay về. Nói cho anh ấy biết, ngay bây giờ.",
       "cast": "mg_hanh,mg_duong,mg_lam,tc",
       "ch": [
@@ -4503,7 +4503,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Anh nghe rồi siết tay cô, giọng khàn: «Anh nghe thấy rồi.» Hắn cúi đầu quay đi.",
+            "x": "Anh nghe rồi siết tay bạn, giọng khàn: «Anh nghe thấy rồi.» Hắn cúi đầu quay đi.",
             "d": {
               "ac": -6,
               "hao": 9
@@ -4511,7 +4511,7 @@
           },
           "b": 0.47386666666666655,
           "bad": {
-            "x": "Anh nghe nhưng ánh mắt vẫn còn bất an. Cô phải nắm tay anh thật lâu.",
+            "x": "Anh nghe nhưng ánh mắt vẫn còn bất an. Bạn phải nắm tay anh thật lâu.",
             "d": {
               "ac": -1,
               "sinh": -5
@@ -4524,7 +4524,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Khi hắn đi khuất, cô ôm anh thật lâu. «Em ở đây.» Anh thở ra, như vừa đặt gánh nặng xuống.",
+            "x": "Khi hắn đi khuất, bạn ôm anh thật lâu. «Em ở đây.» Anh thở ra, như vừa đặt gánh nặng xuống.",
             "d": {
               "ac": -6,
               "hao": 9
@@ -4541,7 +4541,7 @@
           "b0": 0.51
         },
         {
-          "t": "Hỏi anh có sợ mình bị bỏ lại không, và nói rõ cô sẽ không đi",
+          "t": "Hỏi anh có sợ mình bị bỏ lại không, và nói rõ bạn sẽ không đi",
           "h": "Thử bằng Trí",
           "s": "tri",
           "ok": {
@@ -4553,7 +4553,7 @@
           },
           "b": 0.4154666666666665,
           "bad": {
-            "x": "Câu hỏi đúng chỗ đau, anh quay đi không nói. Cô phải đợi cả buổi.",
+            "x": "Câu hỏi đúng chỗ đau, anh quay đi không nói. Bạn phải đợi cả buổi.",
             "d": {
               "ac": -1,
               "sinh": -5
@@ -4572,7 +4572,7 @@
       "place": "Phòng họp báo toàn mạng · Ba ngày sau",
       "kind": "hiem",
       "title": "Ngày công bố",
-      "text": "Ba ngày sau, họp báo toàn mạng. Tiểu Hạnh và Trạch Dương xuất hiện trước toàn nhân loại với thân phận đầu não duy nhất của mạng quốc gia; hai người đưa giấy hôn thú, hẹn hôn lễ. Hạc Sát cùng hội Ngân Tuyến thử tấn công tường lửa; hai người phản công, mạng của chúng sụp trong một ngày. Các nước ngầm hiểu không thể động vào. Nếu cô điều chỉnh tường lửa sai, một nhát tấn công sẽ trúng cô. Cô có thể chặn, hoặc phản công ngay.",
+      "text": "Ba ngày sau, họp báo toàn mạng. Bạn và Trạch Dương xuất hiện trước toàn nhân loại với thân phận đầu não duy nhất của mạng quốc gia; hai người đưa giấy hôn thú, hẹn hôn lễ. Hạc Sát cùng hội Ngân Tuyến thử tấn công tường lửa; hai người phản công, mạng của chúng sụp trong một ngày. Các nước ngầm hiểu không thể động vào. Nếu bạn điều chỉnh tường lửa sai, một nhát tấn công sẽ trúng bạn. Bạn có thể chặn, hoặc phản công ngay.",
       "tieu": "Hạc Sát chờ ngày này đã lâu. Tường lửa ngươi dựng sẽ là phép thử cuối cùng.",
       "cast": "mg_hanh,mg_duong,mg_sat,tc",
       "ch": [
@@ -4590,7 +4590,7 @@
           },
           "b": 0.49,
           "bad": {
-            "x": "Một lớp bị thủng, nhát tấn công trúng thẳng người cô.",
+            "x": "Một lớp bị thủng, nhát tấn công trúng thẳng người bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4624,7 +4624,7 @@
           },
           "b": 0.43159999999999993,
           "bad": {
-            "x": "Phản công hơi sớm, hàng rào của cô để hở một nhịp. Tấn công trúng cô.",
+            "x": "Phản công hơi sớm, hàng rào của bạn để hở một nhịp. Tấn công trúng bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4645,7 +4645,7 @@
           "b0": 0.48
         },
         {
-          "t": "Nhờ Trạch Dương trấn giữ lõi, còn cô lo lớp ngoài",
+          "t": "Nhờ Trạch Dương trấn giữ lõi, còn bạn lo lớp ngoài",
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
@@ -4688,7 +4688,7 @@
       "place": "Tòa nhà mạng quốc gia · Hai mươi năm sau",
       "kind": "nan",
       "title": "Lời kết",
-      "text": "Hai mươi năm sau, trong tòa nhà mạng quốc gia. Tiểu Châu báo nhiệm vụ đã xong, và Tiểu Hạnh sắp phải đi. Trạch Dương linh cảm: «Em đi đâu, mang anh theo được không?» Cô nói không biết. Anh hỏi: «Kiếp sau em vẫn là tân nương của anh chứ?» Cô đáp: «Tùy anh biểu hiện.» Anh hứa: «Anh sẽ nấu cho em một đĩa đùi gà thật.» Cô có thể nói câu cuối bằng nụ cười, hoặc nắm tay anh thật chặt và hứa chờ.",
+      "text": "Hai mươi năm sau, trong tòa nhà mạng quốc gia. Tiểu Châu báo nhiệm vụ đã xong, và bạn sắp phải đi. Trạch Dương linh cảm: «Em đi đâu, mang anh theo được không?» Bạn nói không biết. Anh hỏi: «Kiếp sau em vẫn là tân nương của anh chứ?» Bạn đáp: «Tùy anh biểu hiện.» Anh hứa: «Anh sẽ nấu cho em một đĩa đùi gà thật.» Bạn có thể nói câu cuối bằng nụ cười, hoặc nắm tay anh thật chặt và hứa chờ.",
       "tieu": "Đây là lời cuối của thế giới này. Nói sao cho anh ấy không còn sợ bị bỏ lại.",
       "cast": "mg_hanh,mg_duong,tc",
       "ch": [
@@ -4697,7 +4697,7 @@
           "h": "Thử bằng Mị lực",
           "s": "mi",
           "ok": {
-            "x": "Cô cười, anh cười theo, nước mắt rơi mà vẫn cười. «Anh chờ em.»",
+            "x": "Bạn cười, anh cười theo, nước mắt rơi mà vẫn cười. «Anh chờ em.»",
             "d": {
               "ac": -9,
               "hac": -7,
@@ -4706,7 +4706,7 @@
           },
           "b": 0.5,
           "bad": {
-            "x": "Cô cười hơi gượng, anh nhìn ra nỗi lo trong mắt cô.",
+            "x": "Bạn cười hơi gượng, anh nhìn ra nỗi lo trong mắt bạn.",
             "d": {
               "ac": -1,
               "hac": 1,
@@ -4731,7 +4731,7 @@
           "h": "Thử bằng Vận",
           "s": "van",
           "ok": {
-            "x": "Anh nắm lại, nhẹ như nắm một cánh hoa. «Anh sẽ đợi.» Giọng anh vững hơn cô tưởng.",
+            "x": "Anh nắm lại, nhẹ như nắm một cánh hoa. «Anh sẽ đợi.» Giọng anh vững hơn bạn tưởng.",
             "d": {
               "ac": -9,
               "hac": -7,
@@ -4740,7 +4740,7 @@
           },
           "b": 0.44159999999999994,
           "bad": {
-            "x": "Cô nắm quá chặt, anh khẽ kêu rồi bật cười, nhưng ánh mắt đã đỏ hoe.",
+            "x": "Bạn nắm quá chặt, anh khẽ kêu rồi bật cười, nhưng ánh mắt đã đỏ hoe.",
             "d": {
               "ac": -1,
               "hac": 1,

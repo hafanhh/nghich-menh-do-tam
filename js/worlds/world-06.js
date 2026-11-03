@@ -83,7 +83,7 @@ function w6cover(){
   return '<img src="assets/w06/bia.webp" alt="Bìa Biệt thự Dạ Khúc" loading="lazy">';
 }
 
-WORLDS.w6={roles:{ha:["Nữ chính", "main", "Cô nhi 19 tuổi vừa tốt nghiệp nhạc viện, bị bạn trai chia tay và từng là thế thân của Hiểu Mi."],tnh:["Nam chính, chủ tập đoàn Lam Tinh", "main", "Cha nuôi của Tư Triệt, chủ tập đoàn Lam Tinh, nổi tiếng tàn nhẫn và mất ngủ nhiều năm."],ttr:["Bạn trai cũ", "foe", "23 tuổi, quản Lam Tinh Điện ảnh. Chia tay Hoài An để quay lại với tình đầu."],him:["Tình đầu của Tư Triệt", "foe", "Tiểu thư nhà họ Ân, tình đầu của Tư Triệt, vừa về nước."],dkh:["Trợ lý của Tông Nhiên", "ally", "Trợ lý của Phó Tông Nhiên, đứng cạnh ghế anh ở bữa sáng."],kta:["Người đại diện", "ally", "Người đại diện của Hoài An, lo giữ nhân khí cho cô."],dth:["Đạo diễn", "neutral", "Đạo diễn «Bậc Thầy Âm Nhạc», bạn cũ của Phó Tông Nhiên."],lbv:["Giám khảo", "neutral", "Giám khảo mới của cuộc thi, nghiêng về Hiểu Mi theo lời Tư Triệt."],htq:["Giám khảo", "neutral", "Giám khảo mới của cuộc thi, nghiêng về Hiểu Mi theo lời Tư Triệt."],nbn:["Thí sinh số 17", "foe", "Thí sinh thi «Giọng Ca Vàng», hay chơi xấu sau lưng."],tvp:["Nhà đầu tư địa ốc", "foe", "Nhà đầu tư địa ốc có tiếng thích ép nghệ sĩ mới."]},
+WORLDS.w6={roles:{ha:["Nữ chính", "main", "Cô nhi 19 tuổi vừa tốt nghiệp nhạc viện, bị bạn trai chia tay và từng là thế thân của Hiểu Mi."],tnh:["Nam chính, chủ tập đoàn Lam Tinh", "main", "Cha nuôi của Tư Triệt, chủ tập đoàn Lam Tinh, nổi tiếng tàn nhẫn và mất ngủ nhiều năm."],ttr:["Bạn trai cũ", "foe", "23 tuổi, quản Lam Tinh Điện ảnh. Chia tay bạn để quay lại với tình đầu."],him:["Tình đầu của Tư Triệt", "foe", "Tiểu thư nhà họ Ân, tình đầu của Tư Triệt, vừa về nước."],dkh:["Trợ lý của Tông Nhiên", "ally", "Trợ lý của Phó Tông Nhiên, đứng cạnh ghế anh ở bữa sáng."],kta:["Người đại diện", "ally", "Người đại diện của bạn, lo giữ nhân khí cho bạn."],dth:["Đạo diễn", "neutral", "Đạo diễn «Bậc Thầy Âm Nhạc», bạn cũ của Phó Tông Nhiên."],lbv:["Giám khảo", "neutral", "Giám khảo mới của cuộc thi, nghiêng về Hiểu Mi theo lời Tư Triệt."],htq:["Giám khảo", "neutral", "Giám khảo mới của cuộc thi, nghiêng về Hiểu Mi theo lời Tư Triệt."],nbn:["Thí sinh số 17", "foe", "Thí sinh thi «Giọng Ca Vàng», hay chơi xấu sau lưng."],tvp:["Nhà đầu tư địa ốc", "foe", "Nhà đầu tư địa ốc có tiếng thích ép nghệ sĩ mới."]},
  init:function(){return {ac:100,hac:W6K.h0,sinh:100,bs:100,hao:10,ks:0,tt:0}},
  /* Kiệt sức (khóa ks) và Tai tiếng (khóa tt) làm mọi phép thử khó hơn khi vượt ngưỡng. */
  mod:function(){return -.004*Math.max(0,S.ks-40)-.002*Math.max(0,S.tt-30)},
@@ -94,20 +94,20 @@ WORLDS.w6={roles:{ha:["Nữ chính", "main", "Cô nhi 19 tuổi vừa tốt nghi
  tick:function(){S.ks=Math.max(0,S.ks-(hasSk("Quản lý sức khỏe")?3:1))},
  pick:function(){if(S.ac<=0&&S.hac<=0&&S.hao>=100)return "true";if(S.hao>=70&&S.ac<=30&&S.hac<=30)return "near";return "half"},
  perfect:function(ln){return ln(S.ac<=0,'Ác niệm còn '+Math.round(S.ac)+' (cần 0)')+ln(S.hac<=0,'Hắc hóa còn '+Math.round(S.hac)+' (cần 0)')+ln(S.hao>=100,'Hảo cảm '+Math.round(S.hao)+' (cần 100)')+ln(S.bs>0,'Phó Tông Nhiên còn sống ('+Math.round(S.bs)+')')},
- hud:function(){if(S.i<IX6.k08&&!S.ks&&!S.tt)return '';return '<div class="attr"><span class="lbl">Trạng thái</span> '+wchip("Kiệt sức",S.ks,"Cô làm việc quá sức thì Kiệt sức tăng. Càng thấp càng tốt. Trên 40 thì mọi phép thử khó hơn; trên 60 ở đêm cuối thì bệnh lạ bùng ra.","down",40,70)+wchip("Tai tiếng",S.tt,"Dư luận xấu về cô. Càng thấp càng tốt. Trên 30 thì mọi phép thử khó hơn.","down",30,60)+'</div>'},
+ hud:function(){if(S.i<IX6.k08&&!S.ks&&!S.tt)return '';return '<div class="attr"><span class="lbl">Trạng thái</span> '+wchip("Kiệt sức",S.ks,"Bạn làm việc quá sức thì Kiệt sức tăng. Càng thấp càng tốt. Trên 40 thì mọi phép thử khó hơn; trên 60 ở đêm cuối thì bệnh lạ bùng ra.","down",40,70)+wchip("Tai tiếng",S.tt,"Dư luận xấu về bạn. Càng thấp càng tốt. Trên 30 thì mọi phép thử khó hơn.","down",30,60)+'</div>'},
  extraSk:function(){return ''},
  bossView:function(){
   if(S.i<IX6.k02&&!S.end)return {k:"tnh",n:"Người chưa lộ mặt",s:"Tiểu Châu dò thấy một người Ác niệm 100 ở thành phố này."};
   if(S.end)return {k:"tnh",n:"Phó Tông Nhiên",s:"Chủ tập đoàn Lam Tinh, từng mất ngủ nhiều năm."};
-  if(S.i>=IX6.k36)return {k:"tnh",n:"Phó Tông Nhiên",s:"Sợ bị ruồng bỏ, ghê tởm thứ người khác từng chạm vào. Cho cô ở lại bằng hai bước chân cách biệt."};
-  if(S.i>=IX6.k33)return {k:"tnh",n:"Phó Tông Nhiên",s:"Bị mẹ bỏ, bị cha bỏ, tự dựng cơ nghiệp. Chỉ ngủ yên khi nghe cô hát."};
+  if(S.i>=IX6.k36)return {k:"tnh",n:"Phó Tông Nhiên",s:"Sợ bị ruồng bỏ, ghê tởm thứ người khác từng chạm vào. Cho bạn ở lại bằng hai bước chân cách biệt."};
+  if(S.i>=IX6.k33)return {k:"tnh",n:"Phó Tông Nhiên",s:"Bị mẹ bỏ, bị cha bỏ, tự dựng cơ nghiệp. Chỉ ngủ yên khi nghe bạn hát."};
   if(S.i>=IX6.k05)return {k:"tnh",n:"Phó Tông Nhiên",s:"Chủ tập đoàn Lam Tinh, 38 tuổi, mất ngủ nhiều năm. Đổi tiếng hát lấy sự che chở."};
-  return {k:"tnh",n:"Phó Tông Nhiên",s:"Chủ tập đoàn Lam Tinh, tàn nhẫn và mất ngủ. Cô chưa biết mặt anh."}},
+  return {k:"tnh",n:"Phó Tông Nhiên",s:"Chủ tập đoàn Lam Tinh, tàn nhẫn và mất ngủ. Bạn chưa biết mặt anh."}},
  emblem:w6emblem,
  cover:w6cover,
  intro:function(){return pastelIntro({W:WORLDS.w6,diff:"Độ khó: Giới giải trí, đua với kịch bản",hook:"Duyên khởi: Một bài hát ru đổi lấy giấc ngủ",
-  hero:{key:"ha",name:"Kiều Hoài An",role:"Nữ chính · Ca sĩ mới nổi",desc:"19 tuổi, cô nhi vừa tốt nghiệp nhạc viện, bị bạn trai bỏ để quay về với tình đầu. Cô mang một căn bệnh lạ khám chưa ra; làm việc đến kiệt sức thì nó sẽ bùng lên.",g2:["Kiệt sức",0,0],note:"Kiệt sức tăng khi cô dồn lịch, giảm khi nghỉ ngơi. Trên 40 thì mọi phép thử khó hơn; học được cách xếp lịch có nghỉ ngơi thì giữ được sức."},
-  boss:{key:"tnh",name:"Phó Tông Nhiên",role:"Chủ tập đoàn Lam Tinh",desc:"38 tuổi, nổi tiếng tàn nhẫn, mất ngủ nhiều năm, chỉ ngủ yên khi nghe cô hát. Sợ bị ruồng bỏ hơn bất cứ điều gì.",quote:"“Hát cho ta nghe.”",tag:"Mất ngủ"},
+  hero:{key:"ha",name:"Kiều Hoài An",role:"Nữ chính · Ca sĩ mới nổi",desc:"19 tuổi, cô nhi vừa tốt nghiệp nhạc viện, bị bạn trai bỏ để quay về với tình đầu. Bạn mang một căn bệnh lạ khám chưa ra; làm việc đến kiệt sức thì nó sẽ bùng lên.",g2:["Kiệt sức",0,0],note:"Kiệt sức tăng khi bạn dồn lịch, giảm khi nghỉ ngơi. Trên 40 thì mọi phép thử khó hơn; học được cách xếp lịch có nghỉ ngơi thì giữ được sức."},
+  boss:{key:"tnh",name:"Phó Tông Nhiên",role:"Chủ tập đoàn Lam Tinh",desc:"38 tuổi, nổi tiếng tàn nhẫn, mất ngủ nhiều năm, chỉ ngủ yên khi nghe bạn hát. Sợ bị ruồng bỏ hơn bất cứ điều gì.",quote:"“Hát cho ta nghe.”",tag:"Mất ngủ"},
   tc:"“Ta xuyên tới đây hết sạch sức, nói được ít thôi. Kẻ Ác niệm 100 ở thành phố này chỉ ngủ được khi nghe ngươi hát, nhưng cũng chính vì thế mà hắn sợ ngươi bỏ đi. Và nhớ giữ sức, thân thể này có bệnh. Chúc may mắn nhé!”"})}
 };
 var W6K={};

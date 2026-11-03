@@ -47,7 +47,7 @@ export function endPage(){
    +(fail?'<div class="ep-why">Thế giới này chưa đạt nên không nhận công đức, kỹ năng hay mảnh hồn nào.</div>':'')
    +'<div class="ep-tot"><div><span>Công đức nhận được</span><strong>+'+gain+' Điểm</strong></div><div><span>Mảnh hồn nhận thêm</span><strong>+'+piece+' Mảnh Hồn</strong></div></div></div>'
    +'<div class="ep-foot"><span>Khế ước luân hồi: '+(fail?'Chưa đóng dấu':'Đóng dấu')+'</span><b>'+W.heroName.toUpperCase()+' &amp; '+W.bossName.toUpperCase()+'</b></div></section></div>'
-   +'<section class="ep-act"><button class="ep-b" id="reset2"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7M3 4v5h5"/></svg><span>Chơi Lại Thế Giới Này</span></button>'
-   +'<button class="ep-b pri" id="toCover2"><span>Rút Thế Giới Mới</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button></section>'
+   +'<section class="ep-act"><button class="ep-b" id="reset2"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7M3 4v5h5"/></svg><span>Cho Tôi Thử Lại Kiếp Này</span></button>'
+   +'<button class="ep-b pri" id="toCover2"><span>Tiểu Châu, Đưa Tôi Tới Giới Khác</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button></section>'
    +'<details class="ep-log"><summary>Nhật ký chặng đường</summary><ul>'+logs+'</ul></details></div>';
 }

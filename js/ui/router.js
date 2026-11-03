@@ -6,12 +6,13 @@ import { choose, next } from '../choices.js';
 import { pt } from '../portraits.js';
 import { S, W, reset, useWorld } from '../state.js';
 import { render } from './game.js';
-import { clearHome, nmGo, nmHero, renderHome } from './home.js';
+import { clearHome, nmArt, nmGo, nmHero, renderHome } from './home.js';
 import { $ } from '../util.js';
 import { bootFail, loadWorld } from '../worlds/loader.js';
 import { OPEN, WORLDS } from '../worlds/registry.js';
 
 /* Tên game: đổi một chỗ duy nhất ở đây. */
+/* "chon": bấm thẻ thế giới ở trang chủ để vào thẳng. Đổi thành "ngau_nhien" để khóa thẻ, chỉ cho nút của Tiểu Châu chọn giúp. */
 export var PICK="chon";
 var GAME={name:"Nghịch Mệnh Độ Tâm",tag:"Mỗi thế giới có một kẻ ác chờ được tha thứ. Bạn chỉ có vài ngày."};
 var STEP=0,wtimer=null;
@@ -28,16 +29,20 @@ function goStep(n){
   svg.style.display=(n===3&&W&&W.id==="w1")?"":"none";cov.innerHTML=(n===3&&W&&W.cover)?W.cover():"";
   /* Bước 0: trang chủ mới, vẽ bằng renderHome() ở đầu hàm. */
   if(n===1){w.innerHTML='<div class="cv-step"><div class="panel"><div class="cv-row">'+pt("tc")+'<div><h2>Tiểu Châu</h2><p class="sub" style="margin:4px 0 0">Hệ thống của bạn, ở mọi thế giới.</p></div></div>'
-    +'<p class="bubble" style="margin-top:14px"><b>Tiểu Châu</b>Chào mừng. Ta là Tiểu Châu, hệ thống duy nhất đi cùng ngươi qua mọi thế giới. Mỗi thế giới có một kẻ ác đang chờ được tha thứ. Ở mỗi thế giới, ngươi là nữ chính của câu chuyện ấy, và phải độ hóa hắn trước khi hết ngày. Ta sẽ chỉ đường, còn chọn lựa là của ngươi.</p></div><button class="btn primary big" data-step="2">Rút thế giới</button></div>'}
-  if(n===2&&PICK==="chon"){
-    /* Chế độ thử: người chơi tự chọn thế giới. Đổi PICK thành "ngau_nhien" để bật lại nút rút ngẫu nhiên. */
-    w.innerHTML='<div class="cv-step"><div class="panel"><span class="mono">Chọn thế giới để chơi</span><div class="wl" style="margin-top:10px">'+OPEN.map(function(id){var x=WORLDS[id];return '<button class="wpick" data-w="'+id+'"><b>Thế giới '+x.no+' · '+x.name+'</b>'+x.genre+'</button>'}).join("")+'</div></div></div>';return}
-  if(n===2){w.innerHTML='<div class="cv-step"><div class="panel"><span class="mono">Đang rút thế giới</span><div class="wl" id="wl" style="margin-top:10px"></div></div><div id="wbtn"></div></div>';
-    /* Rút ngẫu nhiên trong các thế giới đã mở. Người chơi không tự chọn. */
-    var open=OPEN.map(function(id){return WORLDS[id]}),worlds=open.map(function(x){return [x.name,x.genre]}).concat([["Thế giới "+(open.length+1),"Chưa mở"]]),t=0,el=$("wl"),pick=Math.floor(Math.random()*open.length),spins=8+pick+open.length*(1+Math.floor(Math.random()*2));
-    var draw=function(sel){el.innerHTML=worlds.map(function(x,i){return '<div class="'+(i===sel?'on':'')+'"><b>'+x[0]+'</b>'+x[1]+'</div>'}).join("")};
-    var tick=function(){t++;draw(t%open.length);if(t<spins){wtimer=setTimeout(tick,120+t*12)}else{draw(pick);loadWorld(open[pick].id).then(function(){useWorld(open[pick].id);$("wbtn").innerHTML='<button class="btn primary big" data-step="3">Vào thế giới</button>'},bootFail)}};
-    draw(-1);wtimer=setTimeout(tick,200)}
+    +'<p class="bubble" style="margin-top:14px"><b>Tiểu Châu</b>Chào mừng. Ta là Tiểu Châu, hệ thống duy nhất đi cùng ngươi qua mọi thế giới. Mỗi thế giới có một kẻ ác đang chờ được tha thứ. Ở mỗi thế giới, ngươi là nữ chính của câu chuyện ấy, và phải độ hóa hắn trước khi hết ngày. Ta sẽ chỉ đường, còn chọn lựa là của ngươi.</p></div><button class="btn primary big" data-step="2">Tiểu Châu, đưa tôi đi</button></div>'}
+  if(n===2){
+    /* Trang chỉ có ảnh bìa các thế giới, một nút chọn ngẫu nhiên ở trên cùng. Người chơi không tự chọn. */
+    var open=OPEN.map(function(id){return WORLDS[id]});
+    w.innerHTML='<div class="cv-step rp"><div class="rp-top"><button class="back" id="toCover2">← Tôi chưa sẵn sàng</button><button class="rp-btn" id="rpBtn" type="button"><span class="material-symbols-outlined" aria-hidden="true">casino</span>Tiểu Châu, hãy giúp tôi chọn</button></div>'
+      +'<div class="rp-grid" id="rpGrid">'+open.map(function(x){return '<div class="rp-it" role="img" aria-label="Bìa thế giới '+x.no+'">'+(nmArt(x)||'<span class="rp-ph">'+x.no+'</span>')+'</div>'}).join("")+'</div></div>';
+    var items=document.querySelectorAll("#rpGrid .rp-it"),grid=$("rpGrid"),btn=$("rpBtn"),mark=function(i){Array.prototype.forEach.call(items,function(el,k){el.classList.toggle("on",k===i)})};
+    btn.onclick=function(){
+      btn.disabled=true;grid.classList.add("spin");
+      var pick=Math.floor(Math.random()*open.length),t=0,spins=open.length+pick+4;
+      var tick=function(){t++;mark(t%open.length);
+        if(t<spins){wtimer=setTimeout(tick,45+t*5)}
+        else{mark(pick);wtimer=setTimeout(function(){loadWorld(open[pick].id).then(function(){useWorld(open[pick].id);goStep(3)},function(e){btn.disabled=false;grid.classList.remove("spin");bootFail(e)})},900)}};
+      tick()}}
   if(n===3){h.textContent=W.name;p.textContent=W.genre;
     w.innerHTML=W.intro()}
   if(n===4){return goStep(3)}

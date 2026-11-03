@@ -45,7 +45,7 @@ function w10cover(){
 }
 
 var W10K={};
-WORLDS.w10={roles:{qv:["Nữ chính", "main", "Đích nữ nhà Phù 18 tuổi, bị đoàn rèn luyện bỏ rơi trong rừng giữa bầy yêu thú."],qh:["Nam chính, tiểu vương gia", "main", "Tiểu vương gia 20 tuổi, vị hôn phu cũ từng trốn Tư Vi suốt mười năm."],qm:["Em cùng cha khác mẹ", "foe", "Em cùng cha khác mẹ của Tư Vi, đã trọng sinh và cướp mất Hồi Xuân Hoa trước cô."],qd:["Thị thiếp, mẹ Mộ Dao", "foe", "Thị thiếp được cha Tư Vi sủng ái, mẹ ruột của Mộ Dao.", ["Diêu di nương"]],qc:["Cha, gia chủ", "family", "Gia chủ nhà Phù, cha của Tư Vi. Thấy cô về mà không hỏi han."],qk:["Mẹ", "family", "Mẹ của Tư Vi, hay trách cô thua Mộ Dao."],qp:["Anh họ", "neutral", "Anh họ bên ngoại, chạy đến cầu tình cho Mộ Dao."],ql:["Chị họ bên ngoại", "neutral", "Chị họ bên ngoại, bị Mộ Dao đẩy ra làm bia chỉ trích."],qt:["Hoàng đế", "ally", "Hoàng đế, anh ruột của Hiên Dật."],qs:["Thất hoàng tử", "foe", "Thất hoàng tử, thân cận với Mộ Dao, nhờ người đổi đề khó cho Tư Vi."],qg:["Nhị công tử hầu phủ Giang", "foe", "Nhị công tử hầu phủ Trấn Viễn họ Giang, tiếng ôn nhu nhưng hay bắt nạt người yếu thế."],qn:["Đại tổng quản", "ally", "Đại tổng quản trong cung, mang vết thương cũ ở đan điền vì chắn đao cho hoàng đế."],qz:["Tộc trưởng", "ally", "Tộc trưởng họ Phù, phong Tư Vi làm trưởng lão."]},
+WORLDS.w10={roles:{qv:["Nữ chính", "main", "Đích nữ nhà Phù 18 tuổi, bị đoàn rèn luyện bỏ rơi trong rừng giữa bầy yêu thú."],qh:["Nam chính, tiểu vương gia", "main", "Tiểu vương gia 20 tuổi, vị hôn phu cũ từng trốn bạn suốt mười năm."],qm:["Em cùng cha khác mẹ", "foe", "Em cùng cha khác mẹ của bạn, đã trọng sinh và cướp mất Hồi Xuân Hoa trước bạn."],qd:["Thị thiếp, mẹ Mộ Dao", "foe", "Thị thiếp được cha bạn sủng ái, mẹ ruột của Mộ Dao.", ["Diêu di nương"]],qc:["Cha, gia chủ", "family", "Gia chủ nhà Phù, cha của bạn. Thấy bạn về mà không hỏi han."],qk:["Mẹ", "family", "Mẹ của bạn, hay trách bạn thua Mộ Dao."],qp:["Anh họ", "neutral", "Anh họ bên ngoại, chạy đến cầu tình cho Mộ Dao."],ql:["Chị họ bên ngoại", "neutral", "Chị họ bên ngoại, bị Mộ Dao đẩy ra làm bia chỉ trích."],qt:["Hoàng đế", "ally", "Hoàng đế, anh ruột của Hiên Dật."],qs:["Thất hoàng tử", "foe", "Thất hoàng tử, thân cận với Mộ Dao, nhờ người đổi đề khó cho bạn."],qg:["Nhị công tử hầu phủ Giang", "foe", "Nhị công tử hầu phủ Trấn Viễn họ Giang, tiếng ôn nhu nhưng hay bắt nạt người yếu thế."],qn:["Đại tổng quản", "ally", "Đại tổng quản trong cung, mang vết thương cũ ở đan điền vì chắn đao cho hoàng đế."],qz:["Tộc trưởng", "ally", "Tộc trưởng họ Phù, phong bạn làm trưởng lão."]},
  init:function(){return {ac:100,hac:W10K.h0,sinh:100,bs:100,hao:0}},
  mod:function(){return 0},
  adj:function(d,good,c,e){var o=Object.assign({},d);
@@ -57,19 +57,19 @@ WORLDS.w10={roles:{qv:["Nữ chính", "main", "Đích nữ nhà Phù 18 tuổi, 
  hud:function(){return ''},
  extraSk:function(){return ''},
  bossView:function(){
-  if(S.end)return {k:"qh",n:"Doãn Hiên Dật",s:"Tiểu vương gia, người vị hôn phu cũ từng trốn cô suốt mười năm."};
-  if(S.i>=IX10.q43)return {k:"qh",n:"Doãn Hiên Dật",s:"Đứng cạnh cô ở nơi bầu trời mỏng nhất, tay không chịu buông."};
-  if(S.i>=IX10.q40)return {k:"qh",n:"Doãn Hiên Dật",s:"Biết thọ nguyên của cô chỉ còn mười năm. Chấp niệm sợ mất cô đang đẩy hắn về phía bóng tối."};
-  if(S.i>=IX10.q36)return {k:"qh",n:"Doãn Hiên Dật",s:"Lời nguyền của Mộ Dao khiến hắn hối hận sâu hơn, nhưng đã thề không ép cô."};
-  if(S.i>=IX10.q30)return {k:"qh",n:"Doãn Hiên Dật",s:"Hứa cố gắng mỗi ngày và đi cùng cô rèn luyện, không ép."};
+  if(S.end)return {k:"qh",n:"Doãn Hiên Dật",s:"Tiểu vương gia, người vị hôn phu cũ từng trốn bạn suốt mười năm."};
+  if(S.i>=IX10.q43)return {k:"qh",n:"Doãn Hiên Dật",s:"Đứng cạnh bạn ở nơi bầu trời mỏng nhất, tay không chịu buông."};
+  if(S.i>=IX10.q40)return {k:"qh",n:"Doãn Hiên Dật",s:"Biết thọ nguyên của bạn chỉ còn mười năm. Chấp niệm sợ mất bạn đang đẩy hắn về phía bóng tối."};
+  if(S.i>=IX10.q36)return {k:"qh",n:"Doãn Hiên Dật",s:"Lời nguyền của Mộ Dao khiến hắn hối hận sâu hơn, nhưng đã thề không ép bạn."};
+  if(S.i>=IX10.q30)return {k:"qh",n:"Doãn Hiên Dật",s:"Hứa cố gắng mỗi ngày và đi cùng bạn rèn luyện, không ép."};
   if(S.i>=IX10.q21)return {k:"qh",n:"Doãn Hiên Dật",s:"Đã tỏ tình và bị từ chối. Hắn vẫn đứng canh ngoài cửa mỗi tối."};
   if(S.i>=IX10.q10)return {k:"qh",n:"Doãn Hiên Dật",s:"Vừa mất hôn ước, hắn bắt đầu hối hận: mang quà, đứng ra bênh vực trước đám đông."};
-  if(S.i>=IX10.q04)return {k:"qh",n:"Doãn Hiên Dật",s:"Tiểu vương gia 20 tuổi, Ác niệm 100. Hắn chưa nhận ra cô là vị hôn thê cũ."};
-  return {k:"qh",n:"Vị hôn phu cũ",s:"Tiểu vương gia 20 tuổi, Ác niệm 100, từng trốn nguyên chủ suốt mười năm. Cô chưa gặp hắn."}},
+  if(S.i>=IX10.q04)return {k:"qh",n:"Doãn Hiên Dật",s:"Tiểu vương gia 20 tuổi, Ác niệm 100. Hắn chưa nhận ra bạn là vị hôn thê cũ."};
+  return {k:"qh",n:"Vị hôn phu cũ",s:"Tiểu vương gia 20 tuổi, Ác niệm 100, từng trốn nguyên chủ suốt mười năm. Bạn chưa gặp hắn."}},
  emblem:w10emblem,
  cover:w10cover,
  intro:function(){return pastelIntro({W:WORLDS.w10,diff:"Độ khó: Thế gia đua tu vi, đối thủ trọng sinh biết trước",hook:"Duyên khởi: Chạy yêu thú ngoài kinh thành Ninh An",
-  hero:{key:"qv",name:"Phù Tư Vi",role:"Nữ chính · Đích nữ nhà Phù",desc:"18 tuổi, thiên phú luyện đan tốt nhưng bị cha mẹ bỏ rơi. Người em Mộ Dao đã trọng sinh và cướp cơ duyên của cô, quỹ đạo gốc là bị phế tu vi rồi gả đi làm người luyện đan không công.",g2:null,note:"Cô đi bằng Mị lực, Trí và Vận. Học thêm kỹ năng thật như điều lửa luyện đan, bố trận, đọc địa mạch thì các phép thử về sau dễ hơn."},
+  hero:{key:"qv",name:"Phù Tư Vi",role:"Nữ chính · Đích nữ nhà Phù",desc:"18 tuổi, thiên phú luyện đan tốt nhưng bị cha mẹ bỏ rơi. Người em Mộ Dao đã trọng sinh và cướp cơ duyên của bạn, quỹ đạo gốc là bị phế tu vi rồi gả đi làm người luyện đan không công.",g2:null,note:"Bạn đi bằng Mị lực, Trí và Vận. Học thêm kỹ năng thật như điều lửa luyện đan, bố trận, đọc địa mạch thì các phép thử về sau dễ hơn."},
   boss:{key:"qh",name:"Doãn Hiên Dật",role:"Tiểu vương gia, vị hôn phu cũ",desc:"20 tuổi, kẻ cuồng tu luyện. Hắn từng trốn nguyên chủ suốt mười năm vì tưởng đó chỉ là trò đùa trẻ con, nay hối hận và sợ mất người mình đã bỏ rơi.",quote:"“Ta cố gắng tiếp.”",tag:"Vị hôn phu cũ hối hận"},
   tc:"“Ta xuyên tới đây còn mệt lắm, nói được ít thôi. Kẻ Ác niệm 100 là vị hôn phu cũ của ngươi, và hắn chưa biết mình đã làm nguyên chủ đau thế nào. Cẩn thận người em trọng sinh của ngươi, nhớ có một đêm hang kín đang chờ phía trước. Chúc may mắn nhé!”"})}
 };

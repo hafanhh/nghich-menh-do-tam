@@ -39,7 +39,7 @@ export function render(){
    +'<div class="gauges">'+bar("Sinh mệnh","bs","f-sinh")+bar("Ác niệm","ac","f-ac")+bar("Hắc hóa","hac","f-hac")+bar("Hảo cảm","hao","f-hao")+'</div>';
   var r='<div class="ctrl"><div class="seg" role="group" aria-label="Tốc độ">'
    +[1,2,4].map(function(v){return '<button data-sp="'+v+'" aria-pressed="'+(speed===v)+'">x'+v+'</button>'}).join("")+'</div>'
-   +'<div style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn" id="auto" aria-pressed="'+auto+'">Để số mệnh tự quyết</button><button class="btn" id="reset">Kiếp mới</button></div></div>';
+   +'<div style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn" id="auto" aria-pressed="'+auto+'">Mặc cho số mệnh dẫn lối</button><button class="btn" id="reset">Tôi muốn sang kiếp khác</button></div></div>';
   $("stage").classList.toggle("ended",S.phase==="end");
   if(S.phase==="end"){
     $("scene").innerHTML="";$("hero").innerHTML="";$("boss").innerHTML="";$("right").innerHTML=endPage();return;
@@ -49,7 +49,7 @@ export function render(){
      +(function(){var m=merit(S.end);return '<div class="merit"><b>Công đức</b>'+(m.v===null?'<p>0 điểm. Thế giới này chưa đạt nên không nhận công đức, kỹ năng hay mảnh hồn nào.</p>'
        :'<div class="mrow"><span>Ác niệm đã tinh lọc</span><span>'+m.a+'%</span></div><div class="mrow"><span>Hắc hóa đã hóa giải</span><span>'+m.h+'%</span></div><div class="mrow"><span>Hảo cảm đạt được</span><span>'+m.o+'%</span></div><div class="mrow tot"><span>Mức hoàn thành '+m.c+'% × '+MERIT_MAX+'</span><span>+'+m.v+'</span></div>')+'</div>'})()
      +'<div class="deltas" style="justify-content:center"><span class="d up">Công đức +'+(merit(S.end).v||0)+'</span><span class="d '+(en.piece?'up':'')+'">Mảnh hồn '+(en.piece?'+1':'+0')+'</span></div>'
-     +'<button class="btn primary" id="reset2">Chơi lại thế giới này</button></div>';
+     +'<button class="btn primary" id="reset2">Cho tôi thử lại kiếp này</button></div>';
   }else{
     r+='<div class="tieu"><div>'+pt("tc")+'</div><p class="bubble"><b>Tiểu Châu</b>'+(typeof e.tieu==="function"?e.tieu():e.tieu)+'</p></div>';
     r+='<div class="panel ev k-'+e.kind+'"><span class="mono kind">'+KIND[e.kind]+'</span><span class="mono">'+e.place+'</span><span class="mono mk">MỐC #'+nmPad(S.i+1)+'</span><h3>'+e.title+'</h3>'+(e.ctx?'<p class="ctx"><b>Bối cảnh</b>'+ctxOf(e)+'</p>':'')+'<p>'+markNames(typeof e.text==="function"?e.text():e.text)+'</p>';
@@ -60,7 +60,7 @@ export function render(){
     }else{
       var L=S.last;
       r+='<div class="res'+(L.good?'':' bad')+'"><div class="roll">'+L.c+' · '+(L.s===null?'':(L.good?'Thành công':'Thất bại'))+'</div><p>'+L.x+'</p></div>'
-        +'<div class="deltas">'+dchips(L.deltas)+(L.learn?'<span class="d up">Kỹ năng mới: '+L.learn.n+'</span>':'')+'</div><button class="btn primary" id="next">Tiếp tục</button>';
+        +'<div class="deltas">'+dchips(L.deltas)+(L.learn?'<span class="d up">Kỹ năng mới: '+L.learn.n+'</span>':'')+'</div><button class="btn primary" id="next">Bước tiếp</button>';
     }
     r+='</div>';
   }
