@@ -77,6 +77,7 @@ Mục tiêu: người chơi đọc lại nhật ký sau khi kết thúc ván, k�
 
 - Lời dẫn truyện (chữ mốc, kết quả sau lựa chọn, bối cảnh, kết cục) dùng ngôi "bạn" cho nữ chính, vì người chơi đang nhập vai. Không gọi nữ chính là "cô" và không dùng tên nữ chính làm chủ ngữ.
 - Mốc 1 mở bằng cảm giác của thân thể, rồi đến khối ký ức nguyên chủ, trong đó tên và tuổi đứng trước, các câu sau dùng "bạn". Thế giới mất ký ức thì không dùng khối ký ức; tên và thông tin mở dần theo mốc.
+- Câu cuối của chữ mốc phải dẫn thẳng vào các lựa chọn bên dưới ("Bạn phải quyết định…"), và chữ mốc không được kể trước kết quả của lựa chọn.
 - Giữ nguyên "cô" khi chỉ người khác (cô gái, cô bé, cô ta, cô ấy, cô giáo...), trong lời thoại của nhân vật, và lời Tiểu Châu (Tiểu Châu gọi người chơi là "ngươi").
 
 **Số mốc**

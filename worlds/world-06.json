@@ -190,7 +190,7 @@
       "place": "Ngoài tiệm trà sữa · Ngay sau đó",
       "kind": "duyen",
       "title": "Tiểu Châu giao nhiệm vụ",
-      "text": "Ra khỏi tiệm, chi phiếu đã nằm trong túi. Tiểu Châu hiện lên trong đầu bạn, ngái ngủ: bạn là Kiều Hoài An, mồ côi, từng là thế thân của Hiểu Mi. Kịch bản gốc kể bạn ghen, hãm hại không thành, bị vạch trần, bị ruồng bỏ rồi mất sớm ở tuổi 26. Người duy nhất có thể đổi kết cục ấy là Phó Tông Nhiên, cha nuôi của Tư Triệt, chủ tập đoàn Lam Tinh, nổi tiếng tàn nhẫn và mất ngủ nhiều năm. Ác niệm của anh là 100. Tiểu Châu nói thêm, ngập ngừng: thân thể này còn mang một căn bệnh lạ, khám chưa ra.",
+      "text": "Ra khỏi tiệm, chi phiếu đã nằm trong túi. Tiểu Châu hiện lên trong đầu bạn, ngái ngủ: bạn là Kiều Hoài An, mồ côi, từng là thế thân của Hiểu Mi. Kịch bản gốc kể bạn ghen, hãm hại không thành, bị vạch trần, bị ruồng bỏ rồi mất sớm ở tuổi 26. Người duy nhất có thể đổi kết cục ấy là Phó Tông Nhiên, cha nuôi của Tư Triệt, chủ tập đoàn Lam Tinh, nổi tiếng tàn nhẫn và mất ngủ nhiều năm. Ác niệm của anh là 100. Tiểu Châu nói thêm, ngập ngừng: thân thể này còn mang một căn bệnh lạ, khám chưa ra. Bạn phải quyết định hỏi điều gì trước.",
       "tieu": "Ta chỉ còn sức nói ít thôi. Nhớ kỹ: Tông Nhiên là người cần ngươi cứu, còn cái bệnh kia... ngươi tự giữ gìn sức khỏe. Đừng làm việc đến kiệt sức.",
       "cast": "ha,tc",
       "ch": [
@@ -256,7 +256,7 @@
       "place": "Quán nhạc Dư Âm · Cùng tối",
       "kind": "duyen",
       "title": "Nửa bài hát ở Dư Âm",
-      "text": "Quán nhạc Dư Âm bên kia đường vừa mở cửa. Tiểu Châu chỉ một người đàn ông cao lớn đang bước vào phòng khách quý: Phó Tông Nhiên. Bạn cầm micro hát một bài tình ca chậm, hát được nửa bài thì dừng, cười và xin lỗi rồi bước xuống. Trong phòng khách quý, anh đã nghe hết. Một người phụ nữ do kẻ khác cài vào mang rượu tới dò tin; anh bóp vỡ chiếc ly và đuổi cô ta ra ngoài. Tiểu Châu kể lại cho bạn nghe. Anh sai người đi tìm cô gái vừa hát.",
+      "text": "Quán nhạc Dư Âm bên kia đường vừa mở cửa. Tiểu Châu chỉ một người đàn ông cao lớn đang bước vào phòng khách quý: Phó Tông Nhiên. Bạn cầm micro hát một bài tình ca chậm, hát được nửa bài thì dừng, cười và xin lỗi rồi bước xuống. Trong phòng khách quý, anh đã nghe hết. Một người phụ nữ do kẻ khác cài vào mang rượu tới dò tin; anh bóp vỡ chiếc ly và đuổi cô ta ra ngoài. Tiểu Châu kể lại cho bạn nghe. Anh sai người đi tìm cô gái vừa hát. Bạn phải quyết định hát bài này theo cách nào.",
       "tieu": "Hắn nghe được rồi! Hắn mất ngủ đã mấy năm, mà chỉ nghe nửa bài của ngươi đã ngồi im... Mau, hát cho đúng hơi!",
       "cast": "ha,tnh,tc",
       "ch": [
@@ -414,7 +414,7 @@
       "place": "Phòng khách biệt thự Phó gia · Đêm",
       "kind": "chon",
       "title": "Điều kiện hát ru",
-      "text": "Phòng khách rộng, đèn vàng. Phó Tông Nhiên ngồi xuống đối diện bạn, mắt thâm quầng của người nhiều năm không ngủ. Anh hỏi thẳng: bạn muốn làm Phó thái thái, hay muốn danh lợi? Anh cần được nghe bạn hát mỗi tối. Bạn nói bạn muốn được phủng thành ca sĩ và được bảo vệ khỏi tin đồn. Anh chặn trước một điều: không bao giờ là Phó thái thái. Hai bên bắt đầu thương lượng.",
+      "text": "Phòng khách rộng, đèn vàng. Phó Tông Nhiên ngồi xuống đối diện bạn, mắt thâm quầng của người nhiều năm không ngủ. Anh hỏi thẳng: bạn muốn làm Phó thái thái, hay muốn danh lợi? Anh cần được nghe bạn hát mỗi tối. Bạn nói bạn muốn được phủng thành ca sĩ và được bảo vệ khỏi tin đồn. Anh chặn trước một điều: không bao giờ là Phó thái thái. Hai bên bắt đầu thương lượng. Bạn phải quyết định thương lượng thế nào.",
       "tieu": "Zzz... cẩn thận từng chữ... hắn thích người nói thẳng... nhưng không thích bị lừa...",
       "cast": "ha,tnh,dkh",
       "ch": [
@@ -502,7 +502,7 @@
       "place": "Bàn ăn sáng biệt thự · Sáng hôm sau",
       "kind": "duyen",
       "title": "Giấc ngủ đầu tiên",
-      "text": "Sáng hôm sau, bàn ăn sáng trải khăn trắng. Trợ lý Đoàn Khải đứng cạnh ghế anh, hơi lúng túng như vừa gặp chuyện lạ: tiên sinh ngủ một mạch tới lúc mặt trời lên, lần đầu sau nhiều năm. Tông Nhiên đưa bạn bản hợp đồng của Lam Tinh Âm nhạc: tối qua hát không tệ. Bạn đọc kỹ từng điều khoản trước khi ký. Anh nói người đại diện sẽ đến vào ngày mai.",
+      "text": "Sáng hôm sau, bàn ăn sáng trải khăn trắng. Trợ lý Đoàn Khải đứng cạnh ghế anh, hơi lúng túng như vừa gặp chuyện lạ: tiên sinh ngủ một mạch tới lúc mặt trời lên, lần đầu sau nhiều năm. Tông Nhiên đưa bạn bản hợp đồng của Lam Tinh Âm nhạc: tối qua hát không tệ. Bạn đọc kỹ từng điều khoản trước khi ký. Anh nói người đại diện sẽ đến vào ngày mai. Bạn phải quyết định xử lý bản hợp đồng này ra sao.",
       "tieu": "Hắn ngủ được rồi! Hảo cảm của hắn nhúc nhích rồi này, nhỏ thôi, nhưng là lần đầu tiên!",
       "cast": "ha,tnh,dkh",
       "ch": [
@@ -722,7 +722,7 @@
       "place": "Hậu trường bán kết · Hai mươi phút trước giờ thi",
       "kind": "chon",
       "title": "Hiểu Mi và Tư Triệt",
-      "text": "Còn hai mươi phút nữa tới lượt bạn. Hiểu Mi, dáng thanh tú trong chiếc váy trắng, bước tới cùng Tư Triệt, muốn nói chuyện riêng. Bạn giả vờ không nhận ra, hỏi đây là ai. Hiểu Mi nghiến răng. Tư Triệt xin bạn đừng phá chuyện của hai người; bạn vỗ vai cậu như người lớn trấn an đứa nhỏ.",
+      "text": "Còn hai mươi phút nữa tới lượt bạn. Hiểu Mi, dáng thanh tú trong chiếc váy trắng, bước tới cùng Tư Triệt, muốn nói chuyện riêng. Bạn giả vờ không nhận ra, hỏi đây là ai. Hiểu Mi nghiến răng. Tư Triệt xin bạn đừng phá chuyện của hai người; bạn vỗ vai cậu như người lớn trấn an đứa nhỏ. Bạn phải quyết định đối đáp với họ thế nào.",
       "tieu": "Zzz... đây là chỗ ngươi nên nhẹ tay... đừng gây thêm kẻ thù không cần thiết...",
       "cast": "ha,him,ttr",
       "ch": [
@@ -795,7 +795,7 @@
       "place": "Sân khấu bán kết · Cùng buổi",
       "kind": "hiem",
       "title": "Điểm mãn phân",
-      "text": "Đèn sân khấu bật. Hiểu Mi vừa được 97 điểm. Đến lượt bạn, bản nhạc nhẹ vang lên, bạn hát chậm như hát ru. Hội trường im phăng phắc. Ba giám khảo cùng giơ bảng 100 điểm. Một người lau mắt, bảo sau bài hát này ông sẽ ngủ ngon, sau nhiều năm mất ngủ. Ở hàng ghế sau, Hiểu Mi nhìn thấy kết quả, siết chặt tà váy.",
+      "text": "Đèn sân khấu bật. Hiểu Mi vừa được 97 điểm. Đến lượt bạn, bản nhạc nhẹ vang lên, bạn hát chậm như hát ru. Hội trường im phăng phắc. Ba giám khảo cùng giơ bảng 100 điểm. Một người lau mắt, bảo sau bài hát này ông sẽ ngủ ngon, sau nhiều năm mất ngủ. Ở hàng ghế sau, Hiểu Mi nhìn thấy kết quả, siết chặt tà váy. Bạn phải quyết định hát bài cuối cùng này theo cách nào.",
       "tieu": "Đừng quên thở! Ngươi hát cho hắn nghe mỗi tối, hát cho cả hội trường nghe thì cũng như nhau thôi.",
       "cast": "ha,him,lbv",
       "ch": [
@@ -960,7 +960,7 @@
       "place": "Hành lang biệt thự · Đêm",
       "kind": "duyen",
       "title": "Hơn nửa tháng ở chung",
-      "text": "Tông Nhiên đã quen nghe bạn hát mỗi đêm và ngủ đến sáng. Đoàn Khải nói riêng với bạn: có quy tắc ở biệt thự, không ai ở quá một tháng. Anh để bạn ngồi gần hơn mỗi tuần, từ chiếc ghế dài cuối hành lang vào đến cửa phòng. Bạn hỏi anh về quy tắc ấy. Anh không đáp, chỉ nhìn bạn thật lâu. Tiểu Châu ghi nhận Ác niệm giảm rất chậm.",
+      "text": "Tông Nhiên đã quen nghe bạn hát mỗi đêm và ngủ đến sáng. Đoàn Khải nói riêng với bạn: có quy tắc ở biệt thự, không ai ở quá một tháng. Anh để bạn ngồi gần hơn mỗi tuần, từ chiếc ghế dài cuối hành lang vào đến cửa phòng. Bạn hỏi anh về quy tắc ấy. Anh không đáp, chỉ nhìn bạn thật lâu. Tiểu Châu ghi nhận Ác niệm giảm rất chậm. Bạn phải quyết định ứng xử thế nào với quy tắc này.",
       "tieu": "Hắn nhìn ngươi như nhìn thứ sợ mất. Tiến chậm cũng được, đừng làm hắn hoảng.",
       "cast": "ha,tnh,dkh",
       "ch": [
@@ -1107,7 +1107,7 @@
       "place": "Hành lang cạnh phòng Tông Nhiên · Đêm",
       "kind": "chon",
       "title": "Nhờ Phó Tông Nhiên",
-      "text": "Đêm đó bạn nhờ anh can thiệp. Bạn có thể làm nũng, đưa bằng chứng, hoặc tự lo. Tông Nhiên nghe xong, im lặng hồi lâu. Anh đồng ý để Hiểu Mi ký hợp đồng với Lam Tinh Âm nhạc theo lời Tư Triệt, nhưng từ chối chống lưng cho cô ta. Rồi anh gọi điện cho hai giám khảo.",
+      "text": "Đêm đó bạn nhờ anh can thiệp. Bạn có thể làm nũng, đưa bằng chứng, hoặc tự lo. Tông Nhiên nghe xong, im lặng hồi lâu. Anh đồng ý để Hiểu Mi ký hợp đồng với Lam Tinh Âm nhạc theo lời Tư Triệt, nhưng từ chối chống lưng cho cô ta. Rồi anh gọi điện cho hai giám khảo. Bạn phải quyết định nhờ anh theo cách nào.",
       "tieu": "Hắn sẽ giúp ngươi, nhưng đừng để hắn thấy ngươi dựa dẫm quá. Đây là chỗ cần khéo.",
       "cast": "ha,tnh,lbv,htq",
       "ch": [
@@ -1357,7 +1357,7 @@
       "place": "Sân khấu chung kết · Tối chung kết",
       "kind": "hiem",
       "title": "Thế Giới Sa Ngã",
-      "text": "Bạn lên sân khấu cuối cùng, mặc váy đen. Hiểu Mi vừa nhận 99, 98, 98, 99, 98 điểm. Bạn hát bài do chính mình viết lời, «Thế Giới Sa Ngã», về một người phá giới suốt đời không rửa sạch được tội lỗi. Ở đoạn cuối đèn tắt, váy bạn chuyển sang trắng. Cả hội trường lặng đi. Ở cánh gà, Tông Nhiên lần đầu rời khỏi biệt thự để nghe bạn hát.",
+      "text": "Bạn lên sân khấu cuối cùng, mặc váy đen. Hiểu Mi vừa nhận 99, 98, 98, 99, 98 điểm. Bạn hát bài do chính mình viết lời, «Thế Giới Sa Ngã», về một người phá giới suốt đời không rửa sạch được tội lỗi. Ở đoạn cuối đèn tắt, váy bạn chuyển sang trắng. Cả hội trường lặng đi. Ở cánh gà, Tông Nhiên lần đầu rời khỏi biệt thự để nghe bạn hát. Bạn phải quyết định hát bài này theo cách nào.",
       "tieu": "Đây là bài hát của ngươi, cũng là của hắn. Hát cho hết đi, đừng sợ.",
       "cast": "ha,tnh,him",
       "ch": [
@@ -1606,7 +1606,7 @@
       "place": "Phòng thu nhỏ · Một tuần sau",
       "kind": "duyen",
       "title": "Ghi năm bài hát",
-      "text": "Một tuần sau, bạn chuyển vào căn nhà mới, thuê một phòng thu nhỏ và nhờ Kha Tú Anh đưa năm bài lên ứng dụng «Âm Tuyền» để người nghe biết bạn trước khi chương trình phát sóng. Ngày nào bạn cũng thu âm thâu đêm, kỹ sư thu âm là một cậu trai trẻ hay ngủ gật. Bạn sắp có cả năm bài trong tay, nhưng cũng sắp kiệt sức.",
+      "text": "Một tuần sau, bạn chuyển vào căn nhà mới, thuê một phòng thu nhỏ và nhờ Kha Tú Anh đưa năm bài lên ứng dụng «Âm Tuyền» để người nghe biết bạn trước khi chương trình phát sóng. Ngày nào bạn cũng thu âm thâu đêm, kỹ sư thu âm là một cậu trai trẻ hay ngủ gật. Bạn sắp có cả năm bài trong tay, nhưng cũng sắp kiệt sức. Bạn phải quyết định sắp xếp việc thu âm ra sao.",
       "tieu": "Thu âm thâu đêm là việc ngươi rất thích làm, nhưng thân thể này thì không. Nhớ nghỉ cho đúng giờ.",
       "cast": "ha,kta",
       "ch": [
@@ -1772,7 +1772,7 @@
       "place": "Văn phòng Kha Tú Anh · Vài ngày sau",
       "kind": "chon",
       "title": "Từ chối chân nhân tú",
-      "text": "Văn phòng Kha Tú Anh chất đầy thư mời show thực tế. Kha muốn bạn nhận để giữ nhân khí, vì người nổi tiếng mà vắng bóng lâu sẽ bị lãng quên. Bạn từ chối, nói muốn ra đĩa nhạc trước. Kha lo thiếu người và thiếu tiền; bạn đáp đã có người giúp.",
+      "text": "Văn phòng Kha Tú Anh chất đầy thư mời show thực tế. Kha muốn bạn nhận để giữ nhân khí, vì người nổi tiếng mà vắng bóng lâu sẽ bị lãng quên. Bạn từ chối, nói muốn ra đĩa nhạc trước. Kha lo thiếu người và thiếu tiền; bạn đáp đã có người giúp. Bạn phải quyết định giữ lập trường hay tìm cách khác.",
       "tieu": "Kha lo cho ngươi thật đấy. Nghe cô ấy một chút, nhưng đừng để bị cuốn theo.",
       "cast": "ha,kta",
       "ch": [
@@ -1848,7 +1848,7 @@
       "place": "Dạ tiệc hiến xướng · Tối",
       "kind": "duyen",
       "title": "Giọng hát lúc anh ra về",
-      "text": "Dạ tiệc của một tiền bối trong giới. Tiểu Châu báo tiệc có Tông Nhiên và có cả Thạch Vạn Phúc, nhà đầu tư địa ốc có tiếng thích ép nghệ sĩ mới. Bạn được mời hát một bài. Đúng lúc bạn cất giọng, Tông Nhiên đang đứng dậy ra về. Anh dừng bước ở cửa, quay lại, đứng nghe đến cuối. Thạch Vạn Phúc để mắt tới bạn, chủ tiệc mời bạn hát tiệc sau.",
+      "text": "Dạ tiệc của một tiền bối trong giới. Tiểu Châu báo tiệc có Tông Nhiên và có cả Thạch Vạn Phúc, nhà đầu tư địa ốc có tiếng thích ép nghệ sĩ mới. Bạn được mời hát một bài. Đúng lúc bạn cất giọng, Tông Nhiên đang đứng dậy ra về. Anh dừng bước ở cửa, quay lại, đứng nghe đến cuối. Thạch Vạn Phúc để mắt tới bạn, chủ tiệc mời bạn hát tiệc sau. Bạn phải quyết định hát bài nào và rời đi ra sao.",
       "tieu": "Hắn quay lại rồi! Nhìn kìa, hắn quay lại! Còn tên mập kia thì cẩn thận đấy, tiếng xấu đồn xa.",
       "cast": "ha,tnh,tvp",
       "ch": [
@@ -1923,7 +1923,7 @@
       "place": "Phòng riêng khóa cửa · Sau tiệc",
       "kind": "hiem",
       "title": "Cánh cửa bị khóa",
-      "text": "Sau tiệc, người của Thạch Vạn Phúc mời bạn lên một phòng riêng để bàn hợp đồng độc quyền. Cửa vừa đóng thì bị khóa từ bên ngoài. Thạch Vạn Phúc ngồi xuống đối diện, đẩy bản hợp đồng bất lợi sang: ký đi, bạn sẽ có tất cả. Giọng ông ta ngọt như đường, nhưng đôi mắt thì không.",
+      "text": "Sau tiệc, người của Thạch Vạn Phúc mời bạn lên một phòng riêng để bàn hợp đồng độc quyền. Cửa vừa đóng thì bị khóa từ bên ngoài. Thạch Vạn Phúc ngồi xuống đối diện, đẩy bản hợp đồng bất lợi sang: ký đi, bạn sẽ có tất cả. Giọng ông ta ngọt như đường, nhưng đôi mắt thì không. Cánh cửa vẫn khóa, và bạn phải quyết định xử lý ra sao.",
       "tieu": "Bình tĩnh... ghi âm... Điện thoại trong túi áo... Ta nghe thấy tiếng bước chân ngoài hành lang rồi...",
       "cast": "ha,tvp",
       "ch": [
@@ -1993,7 +1993,7 @@
       "place": "Hành lang khách sạn · Ngay sau đó",
       "kind": "duyen",
       "title": "Anh quay lại",
-      "text": "Tông Nhiên vừa nghe người trong tiệc nhắc tên Thạch Vạn Phúc và nhận ra chuyện không ổn. Anh đá tung cánh cửa. Bạn đưa điện thoại cho anh, anh nghe hết đoạn ghi âm, mặt tối lại, rồi giao Thạch Vạn Phúc cho cảnh sát. Anh đưa bạn về biệt thự, không nói câu nào suốt đường. Đến cửa xe, anh nhắc tới Dương Thiệu Hằng, bạn cũ làm đạo diễn «Bậc Thầy Âm Nhạc», sẽ giúp bạn.",
+      "text": "Tông Nhiên vừa nghe người trong tiệc nhắc tên Thạch Vạn Phúc và nhận ra chuyện không ổn. Anh đá tung cánh cửa. Bạn đưa điện thoại cho anh, anh nghe hết đoạn ghi âm, mặt tối lại, rồi giao Thạch Vạn Phúc cho cảnh sát. Anh đưa bạn về biệt thự, không nói câu nào suốt đường. Đến cửa xe, anh nhắc tới Dương Thiệu Hằng, bạn cũ làm đạo diễn «Bậc Thầy Âm Nhạc», sẽ giúp bạn. Bạn phải quyết định đáp lại anh thế nào.",
       "tieu": "Hắn giận đến mức không nói nổi một câu. Nhưng hắn đến nhanh hơn ngươi tưởng đấy.",
       "cast": "ha,tnh,tvp",
       "ch": [
@@ -2068,7 +2068,7 @@
       "place": "Trường quay «Bậc Thầy Âm Nhạc» · Vài ngày sau",
       "kind": "duyen",
       "title": "Khách mời «Bậc Thầy Âm Nhạc»",
-      "text": "Bạn vào «Bậc Thầy Âm Nhạc» với tư cách khách mời. Hiểu Mi là thí sinh của chương trình, mất bình tĩnh khi thấy bạn ở hậu trường. Đạo diễn Dương Thiệu Hằng nghe bản thu của bạn rồi đề nghị hợp tác ra đĩa. Anh bắt đầu dạy bạn đệm guitar mỗi buổi chiều, kiên nhẫn như một người thầy thật sự.",
+      "text": "Bạn vào «Bậc Thầy Âm Nhạc» với tư cách khách mời. Hiểu Mi là thí sinh của chương trình, mất bình tĩnh khi thấy bạn ở hậu trường. Đạo diễn Dương Thiệu Hằng nghe bản thu của bạn rồi đề nghị hợp tác ra đĩa. Anh bắt đầu dạy bạn đệm guitar mỗi buổi chiều, kiên nhẫn như một người thầy thật sự. Bạn phải quyết định ứng xử thế nào trong những buổi quay này.",
       "tieu": "Thiệu Hằng là người tốt, ngươi cứ học. Nhưng nhớ giữ khoảng cách nhé, kịch bản gốc rất thích dựng chuyện ở chỗ này.",
       "cast": "ha,dth,him",
       "ch": [
@@ -2159,7 +2159,7 @@
       "place": "Mạng xã hội «Tiếng Vang» · Hai tháng sau",
       "kind": "nan",
       "title": "Bài báo thượng vị",
-      "text": "Hai tháng sau, bạn và Thiệu Hằng thường xuyên gặp nhau bàn đĩa nhạc. Một tài khoản ẩn danh đăng ảnh chụp lén hai người cùng tiêu đề «tiểu hoa thượng vị bằng tiền bối». Dư luận nhanh chóng quay lưng. Nếu bạn từng học cách xử lý khủng hoảng truyền thông, thì đây là lúc dùng.",
+      "text": "Hai tháng sau, bạn và Thiệu Hằng thường xuyên gặp nhau bàn đĩa nhạc. Một tài khoản ẩn danh đăng ảnh chụp lén hai người cùng tiêu đề «tiểu hoa thượng vị bằng tiền bối». Dư luận nhanh chóng quay lưng. Nếu bạn từng học cách xử lý khủng hoảng truyền thông, thì đây là lúc dùng. Dư luận đang quay lưng, và bạn phải quyết định xử lý ra sao.",
       "tieu": "Dư luận quay lưng nhanh hơn ngươi tưởng. Nhưng lần này ngươi có công cụ, đừng bỏ phí.",
       "cast": "ha,dth,him",
       "ch": [
@@ -2236,7 +2236,7 @@
       "place": "Quán ăn yên tĩnh · Tối",
       "kind": "chon",
       "title": "Hẹn hò giả",
-      "text": "Thiệu Hằng mời bạn đến một quán ăn yên tĩnh, đề nghị công bố hai người đang hẹn hò, nửa năm sau thì chia tay êm đẹp. Với anh, đó là cách chặn miệng thiên hạ. Bạn có thể đồng ý hoặc tìm cách khác. Giữa bữa, bạn nói thẳng Tông Nhiên là kim chủ của mình; Thiệu Hằng sửng sốt, nhưng vẫn đứng về phía bạn. Điện thoại bạn reo: Tông Nhiên giục bạn về sớm.",
+      "text": "Thiệu Hằng mời bạn đến một quán ăn yên tĩnh, đề nghị công bố hai người đang hẹn hò, nửa năm sau thì chia tay êm đẹp. Với anh, đó là cách chặn miệng thiên hạ. Bạn có thể đồng ý hoặc tìm cách khác. Giữa bữa, bạn nói thẳng Tông Nhiên là kim chủ của mình; Thiệu Hằng sửng sốt, nhưng vẫn đứng về phía bạn. Điện thoại bạn reo: Tông Nhiên giục bạn về sớm. Bạn phải quyết định đáp lại chuyện hẹn hò giả này ra sao.",
       "tieu": "Thiệu Hằng nghĩ cho ngươi thật lòng. Nhưng ngươi biết hắn thích kiểu gì rồi... nghĩ cho kỹ nhé.",
       "cast": "ha,dth,tnh",
       "ch": [
@@ -2389,7 +2389,7 @@
       "place": "Họp mặt fan · Hai tháng sau",
       "kind": "nan",
       "title": "Chai nước có mùi lạ",
-      "text": "Hai tháng sau, album đã bán hết. Kha báo có người phá hoại bạn ở hậu trường buổi họp mặt fan: váy bị rạch, chai nước đặt sẵn trên bàn có mùi lạ, ảnh chụp lén bị tung lên mạng. Bạn không biết ai làm, nhưng bạn biết mình phải cẩn thận. Bạn kiểm tra đồ uống, nhờ nhân viên đổi chai.",
+      "text": "Hai tháng sau, album đã bán hết. Kha báo có người phá hoại bạn ở hậu trường buổi họp mặt fan: váy bị rạch, chai nước đặt sẵn trên bàn có mùi lạ, ảnh chụp lén bị tung lên mạng. Bạn không biết ai làm, nhưng bạn biết mình phải cẩn thận. Bạn kiểm tra đồ uống, nhờ nhân viên đổi chai. Bạn phải quyết định xử lý chai nước này ra sao.",
       "tieu": "Mùi lạ thì đừng uống, cũng đừng vứt đi. Giữ làm chứng cứ!",
       "cast": "ha,kta,nbn",
       "ch": [
@@ -2556,7 +2556,7 @@
       "place": "Studio của Thiệu Hằng · Cùng chiều",
       "kind": "chon",
       "title": "Phó thái thái hay chim hoàng yến",
-      "text": "Trước mặt Thiệu Hằng và Kha Tú Anh, Tông Nhiên hỏi thẳng bạn có muốn làm Phó thái thái không. Cả phòng nín thở. Bạn từ chối, rồi nói rõ: bạn muốn làm chim hoàng yến, được hát cho anh nghe và được tự do bay ra khỏi lồng khi muốn. Thiệu Hằng đăng thông báo chia tay hai người ngay sau đó.",
+      "text": "Trước mặt Thiệu Hằng và Kha Tú Anh, Tông Nhiên hỏi thẳng bạn có muốn làm Phó thái thái không. Cả phòng nín thở. Bạn từ chối, rồi nói rõ: bạn muốn làm chim hoàng yến, được hát cho anh nghe và được tự do bay ra khỏi lồng khi muốn. Thiệu Hằng đăng thông báo chia tay hai người ngay sau đó. Bạn phải quyết định trả lời anh thế nào.",
       "tieu": "Câu hỏi này là ngã rẽ lớn nhất ở nửa đầu. Ngươi nghĩ kỹ trước khi đáp.",
       "cast": "ha,tnh,dth,kta",
       "ch": [
@@ -2714,7 +2714,7 @@
       "place": "Biệt thự và thành phố · Ba tháng sau",
       "kind": "duyen",
       "title": "Những ngày được nâng niu",
-      "text": "Ba tháng trôi qua êm đềm. Bạn nấu ăn, làm bánh, chọn áo cho anh, kéo anh đi công viên giải trí. Anh bắt đầu đưa tay ra rồi lại rụt về, nhiều lần như thế. Người hầu ở biệt thự nói chưa từng thấy tiên sinh ăn hết bữa sáng. Hảo cảm tăng đều đều, nhưng bạn cũng bắt đầu thấy mình mệt hơn bình thường.",
+      "text": "Ba tháng trôi qua êm đềm. Bạn nấu ăn, làm bánh, chọn áo cho anh, kéo anh đi công viên giải trí. Anh bắt đầu đưa tay ra rồi lại rụt về, nhiều lần như thế. Người hầu ở biệt thự nói chưa từng thấy tiên sinh ăn hết bữa sáng. Hảo cảm tăng đều đều, nhưng bạn cũng bắt đầu thấy mình mệt hơn bình thường. Bạn phải quyết định dành những ngày này cho việc gì.",
       "tieu": "Đây là quãng yên ả hiếm hoi. Hưởng đi, nhưng đừng quên chừa sức cho mình.",
       "cast": "ha,tnh,dkh",
       "ch": [
@@ -2810,7 +2810,7 @@
       "place": "Sân vận động · Đêm diễn đầu tiên",
       "kind": "hiem",
       "title": "Giàn đèn đổ",
-      "text": "Đêm diễn đầu tiên tại sân vận động, mười vạn khán giả. Tiểu Châu đã cảnh báo về giàn đèn trên đầu từ chiều. Bạn kịp kiểm tra sân khấu thì tránh được; nếu không, Tông Nhiên lao tới che cho bạn giữa lúc giàn đèn đổ xuống. Sau đó, anh lên sân khấu, đứng trước vạn người và tuyên bố đây là Phó thái thái của anh.",
+      "text": "Đêm diễn đầu tiên tại sân vận động, mười vạn khán giả. Tiểu Châu đã cảnh báo về giàn đèn trên đầu từ chiều. Bạn kịp kiểm tra sân khấu thì tránh được; nếu không, Tông Nhiên lao tới che cho bạn giữa lúc giàn đèn đổ xuống. Sau đó, anh lên sân khấu, đứng trước vạn người và tuyên bố đây là Phó thái thái của anh. Bạn phải quyết định chuẩn bị gì cho buổi diễn tiếp theo.",
       "tieu": "Giàn đèn trên đầu ngươi không chắc đâu! Kiểm tra trước đi, đừng chờ đến khi nó rơi!",
       "cast": "ha,tnh,dkh",
       "ch": [
@@ -2911,7 +2911,7 @@
       "place": "Hậu trường sân vận động · Ngay sau buổi diễn",
       "kind": "nan",
       "title": "Lời tố của Phó Tư Triệt",
-      "text": "Hậu trường sau buổi diễn, Hiểu Mi giận bỏ về. Tông Nhiên bảo Tư Triệt từ nay phải kính bạn như người nhà họ Phó. Tư Triệt tái mặt, hét lên rằng bạn từng là bạn gái của cậu. Cả hậu trường im bặt. Tông Nhiên không đuổi bạn, nhưng từ giây phút ấy, ánh mắt anh đổi khác, và anh không để bạn chạm vào mình nữa. Tiểu Châu báo Hắc hóa của anh vừa vọt lên.",
+      "text": "Hậu trường sau buổi diễn, Hiểu Mi giận bỏ về. Tông Nhiên bảo Tư Triệt từ nay phải kính bạn như người nhà họ Phó. Tư Triệt tái mặt, hét lên rằng bạn từng là bạn gái của cậu. Cả hậu trường im bặt. Tông Nhiên không đuổi bạn, nhưng từ giây phút ấy, ánh mắt anh đổi khác, và anh không để bạn chạm vào mình nữa. Tiểu Châu báo Hắc hóa của anh vừa vọt lên. Bạn phải quyết định đối diện với anh ra sao.",
       "tieu": "Hắn đang cố bình tĩnh nhưng tay hắn run... đây là chỗ hắn tổn thương nhất: người hắn tin lại từng thuộc về đứa con nuôi của hắn.",
       "cast": "ha,tnh,ttr",
       "ch": [
@@ -3234,7 +3234,7 @@
       "place": "Sân bay · Trước ngày ra nước ngoài",
       "kind": "chon",
       "title": "Chuyến bay và cuốn sách",
-      "text": "Trước ngày bạn ra nước ngoài thu âm, Tư Triệt tìm đến sân bay xin lỗi, nói sẽ giải thích với cha. Bạn bảo cậu đừng giải thích hộ, bạn muốn anh tự hỏi. Trên máy bay, bạn bắt đầu viết cuốn sách «Nếu, đây là một kết cục khác», kể lại câu chuyện của mình từ góc nhìn của một cô gái từng bị đẩy vào kịch bản.",
+      "text": "Trước ngày bạn ra nước ngoài thu âm, Tư Triệt tìm đến sân bay xin lỗi, nói sẽ giải thích với cha. Bạn bảo cậu đừng giải thích hộ, bạn muốn anh tự hỏi. Trên máy bay, bạn bắt đầu viết cuốn sách «Nếu, đây là một kết cục khác», kể lại câu chuyện của mình từ góc nhìn của một cô gái từng bị đẩy vào kịch bản. Bạn phải quyết định làm gì trước khi máy bay cất cánh.",
       "tieu": "Ngươi định viết gì thì viết, nhưng đừng để cả cuốn sách thành lời phàn nàn. Hãy viết như đang hát.",
       "cast": "ha,ttr,tc",
       "ch": [
@@ -3409,7 +3409,7 @@
       "place": "Sân bay trong nước · Ngày về nước",
       "kind": "chon",
       "title": "Buổi diễn cuối",
-      "text": "Về nước, fan vây kín sân bay. Hiểu Mi sắp có buổi diễn đầu vào tháng mười. Bạn tuyên bố sắp có buổi diễn cuối vào ngày 9/9 rồi sẽ rời giới âm nhạc. Tông Nhiên đón bạn ở ngoài cửa. Hai chiếc xe chạy song song trên đường về, không ai nói gì.",
+      "text": "Về nước, fan vây kín sân bay. Hiểu Mi sắp có buổi diễn đầu vào tháng mười. Bạn tuyên bố sắp có buổi diễn cuối vào ngày 9/9 rồi sẽ rời giới âm nhạc. Tông Nhiên đón bạn ở ngoài cửa. Hai chiếc xe chạy song song trên đường về, không ai nói gì. Bạn phải quyết định nói gì với anh trên đường về.",
       "tieu": "Ngươi nói rời giới, nhưng hắn nghe thành rời hắn. Đừng quên giải thích.",
       "cast": "ha,tnh,kta",
       "ch": [
@@ -3722,7 +3722,7 @@
       "place": "Sân khấu mười vạn chỗ · Đêm 9/9",
       "kind": "hiem",
       "title": "Buổi diễn cuối",
-      "text": "Đêm 9/9, sân khấu mười vạn chỗ do Tông Nhiên dựng riêng cho bạn. Bạn hát hai mươi bài mới, từng bài là một khúc ru khác nhau. Đến bài cuối, hơi thở bạn nghẹn lại, mắt tối sầm, và bạn gục xuống giữa sân khấu. Tông Nhiên chạy lên đỡ bạn dù đang run vì sợ. Cả sân vận động nín thở.",
+      "text": "Đêm 9/9, sân khấu mười vạn chỗ do Tông Nhiên dựng riêng cho bạn. Bạn hát hai mươi bài mới, từng bài là một khúc ru khác nhau. Đến bài cuối, hơi thở bạn nghẹn lại, mắt tối sầm, và bạn gục xuống giữa sân khấu. Tông Nhiên chạy lên đỡ bạn dù đang run vì sợ. Cả sân vận động nín thở. Cả sân vận động đang nín thở, và bạn phải quyết định làm gì.",
       "tieu": "Đây rồi... đây là bước ngoặt. Thân thể này sẽ ra sao còn tùy vào những gì ngươi đã làm suốt thời gian qua...",
       "cast": "ha,tnh,kta",
       "ch": [

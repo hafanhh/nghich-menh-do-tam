@@ -149,7 +149,7 @@
       "place": "Hứa gia thôn · Phòng cưới nhà họ Hứa",
       "kind": "duyen",
       "title": "Sáng đầu tiên làm vợ",
-      "text": "Tỉnh dậy trong một căn phòng cưới còn dán chữ hỷ đỏ, trong thân một cô gái hai mươi tuổi. Ký ức nguyên chủ ùa vào đầu: Hứa Tiểu Đào, thôn hoa của Hứa gia thôn, được cả nhà cưng như bảo bối; thông minh hơn người nghĩ, viết chữ đẹp, vẽ bản đồ giỏi. Hôm trước, bờ sông sụt đúng lúc Tần Dã đi qua, rồi Ninh Anh dẫn bạn tới vớt anh và gọi cả thôn ra xem, nên hai người phải cưới. Nhiệm vụ của bạn: sống trọn đời cùng Tần Dã và giữ anh khỏi con đường cô độc anh từng đi. Cuốn truyện gốc dừng ở đó, phần sau bạn phải tự đi.",
+      "text": "Tỉnh dậy trong một căn phòng cưới còn dán chữ hỷ đỏ, trong thân một cô gái hai mươi tuổi. Ký ức nguyên chủ ùa vào đầu: Hứa Tiểu Đào, thôn hoa của Hứa gia thôn, được cả nhà cưng như bảo bối; thông minh hơn người nghĩ, viết chữ đẹp, vẽ bản đồ giỏi. Hôm trước, bờ sông sụt đúng lúc Tần Dã đi qua, rồi Ninh Anh dẫn bạn tới vớt anh và gọi cả thôn ra xem, nên hai người phải cưới. Nhiệm vụ của bạn: sống trọn đời cùng Tần Dã và giữ anh khỏi con đường cô độc anh từng đi. Cuốn truyện gốc dừng ở đó, phần sau bạn phải tự đi. Bạn phải quyết định xử lý hồ sơ nguyên chủ ra sao.",
       "tieu": "Ninh Anh gài bẫy chuyện rơi nước vì sợ ngươi cướp vị hôn phu của nàng. Nhớ cái tên đó. Còn lại, ngươi có một người chồng mặt lạnh.",
       "cast": "h_dao,h_da,h_anh,tc",
       "ch": [
@@ -330,7 +330,7 @@
       "place": "Hứa gia thôn · Trưa",
       "kind": "chon",
       "title": "Tần Dã trở về",
-      "text": "Anh làm việc đồng xong thì tắm rửa sạch sẽ mới dám vào phòng. Anh rón rén tới bên giường, kéo chân bạn lại trong chăn rồi đỏ tai khi bạn mở mắt. Bạn nói «chúng ta đã cưới rồi». Anh hứa sẽ chịu trách nhiệm. Bạn đòi thêm: phải yêu và thương bạn nữa. Anh đáp «vâng» ngay, rồi nói đó là điều hiển nhiên. Trong tay bạn còn nửa phần màn thầu chưa ăn.",
+      "text": "Anh làm việc đồng xong thì tắm rửa sạch sẽ mới dám vào phòng. Anh rón rén tới bên giường, kéo chân bạn lại trong chăn rồi đỏ tai khi bạn mở mắt. Bạn nói «chúng ta đã cưới rồi». Anh hứa sẽ chịu trách nhiệm. Bạn đòi thêm: phải yêu và thương bạn nữa. Anh đáp «vâng» ngay, rồi nói đó là điều hiển nhiên. Trong tay bạn còn nửa phần màn thầu chưa ăn. Bạn phải quyết định đáp lại anh thế nào.",
       "tieu": "Đừng cười anh. Anh đang cố giữ mặt lạnh mà tai đã đỏ hết.",
       "cast": "h_dao,h_da,tc",
       "ch": [
@@ -1286,7 +1286,7 @@
       "place": "Hứa gia thôn · Nhà họ Ninh",
       "kind": "chon",
       "title": "Ninh Anh gả đi",
-      "text": "Một tháng sau, Giang Thế Quân về báo cáo kết hôn. Ninh Hiểu Phương nháo đòi gả thay chị, nhà họ Ninh còn xúi giục, nhưng bà Phương Thu Lan, mẹ Thế Quân, chê cô ta ngang ngược. Ninh Anh làm ra vẻ cần mẫn trước mặt mẹ chồng để thắng lòng bà. Rồi Ninh Anh theo chồng vào quân đội, bỏ lại Hiểu Phương và em trai Ninh Thư Bảo ở thôn. Bạn được mời ra tiễn.",
+      "text": "Một tháng sau, Giang Thế Quân về báo cáo kết hôn. Ninh Hiểu Phương nháo đòi gả thay chị, nhà họ Ninh còn xúi giục, nhưng bà Phương Thu Lan, mẹ Thế Quân, chê cô ta ngang ngược. Ninh Anh làm ra vẻ cần mẫn trước mặt mẹ chồng để thắng lòng bà. Rồi Ninh Anh theo chồng vào quân đội, bỏ lại Hiểu Phương và em trai Ninh Thư Bảo ở thôn. Bạn được mời ra tiễn. Bạn phải quyết định tiễn Ninh Anh theo cách nào.",
       "tieu": "Nàng đi rồi. Nhưng cái bẫy ở bờ sông vẫn chưa ai nhắc tới.",
       "cast": "h_dao,h_anh,h_quan,h_lan,h_hphuong,h_bao,tc",
       "ch": [
@@ -3377,7 +3377,7 @@
       "place": "Huyện Hứa · Ngoài bờ sông",
       "kind": "nan",
       "title": "Lời khai của Ninh Thư Bảo",
-      "text": "Tối đó, ngoài bờ sông, Ninh Thư Bảo vô tình nghe được cuộc hỏi, do dự rồi kể: đêm trước ngày đó, cậu thấy chị mình đào bờ sông rồi lấy cỏ che; Ninh Anh còn cho cậu kẹo để đi gọi người tới. Cậu tưởng chị muốn ép Tần Dã cưới, không ngờ lại kéo bạn xuống nước. Tần Dã ôm bạn thật chặt: «may mà cô ta ghét anh», vì nếu không người vớt anh lên là Ninh Anh và họ sẽ không bao giờ gặp. Anh siết bạn lâu đến mức bạn thấy lồng ngực anh run.",
+      "text": "Tối đó, ngoài bờ sông, Ninh Thư Bảo vô tình nghe được cuộc hỏi, do dự rồi kể: đêm trước ngày đó, cậu thấy chị mình đào bờ sông rồi lấy cỏ che; Ninh Anh còn cho cậu kẹo để đi gọi người tới. Cậu tưởng chị muốn ép Tần Dã cưới, không ngờ lại kéo bạn xuống nước. Tần Dã ôm bạn thật chặt: «may mà cô ta ghét anh», vì nếu không người vớt anh lên là Ninh Anh và họ sẽ không bao giờ gặp. Anh siết bạn lâu đến mức bạn thấy lồng ngực anh run. Bạn phải quyết định ở bên anh thế nào lúc này.",
       "tieu": "Đây là chuyện anh chưa từng muốn biết. Anh đang vừa mừng vừa sợ: mừng vì gặp cô, sợ vì suýt không gặp.",
       "cast": "h_dao,h_da,h_bao,h_anh,tc",
       "ch": [
@@ -4319,7 +4319,7 @@
       "place": "Hứa gia thôn · Căn nhà cũ",
       "kind": "nan",
       "title": "Lời kết",
-      "text": "Một sáng ở căn nhà cũ tại Hứa gia thôn, Tiểu Châu báo nhiệm vụ ở thế giới này đã xong. Tần Dã linh cảm bạn sắp rời đi, hỏi «em đi đâu, mang anh theo được không?». Bạn nói không biết nên không mang được. Anh xin ở bên bạn tới phút cuối, và bạn đồng ý. Ngoài sân, dân huyện và dân thành phố đã đến đứng chật bên cổng, vì tin lan nhanh. Anh nắm tay bạn, và tay anh run.",
+      "text": "Một sáng ở căn nhà cũ tại Hứa gia thôn, Tiểu Châu báo nhiệm vụ ở thế giới này đã xong. Tần Dã linh cảm bạn sắp rời đi, hỏi «em đi đâu, mang anh theo được không?». Bạn nói không biết nên không mang được. Anh xin ở bên bạn tới phút cuối, và bạn đồng ý. Ngoài sân, dân huyện và dân thành phố đã đến đứng chật bên cổng, vì tin lan nhanh. Anh nắm tay bạn, và tay anh run. Bạn phải quyết định nói gì với anh trong những giờ cuối.",
       "tieu": "Anh sẽ siết hay buông, còn tùy chuyện anh học được suốt những năm qua.",
       "cast": "h_dao,h_da,h_thanh,h_ngoc,h_hang,tc",
       "ch": [

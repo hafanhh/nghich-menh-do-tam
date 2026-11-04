@@ -137,7 +137,7 @@
       "place": "Điện Quý Phi · Chiều trước đêm đầu tiên",
       "kind": "chon",
       "title": "Tỉnh dậy trong điện Quý Phi",
-      "text": "Mở mắt giữa màn lụa đỏ và mùi thuốc ngải. Thu Quyên bưng chậu nước thuốc ngâm chân vào, miệng lẩm bẩm mây đen kéo tới, chắc mai lại mưa. Ký ức nguyên chủ ùa vào đầu: Giang Tiểu Đào, 20 tuổi, Quý Phi của vua Mộ Dung Dực, con gái đại tướng quân Giang Trọng Khanh. Từ nhỏ bạn khỏe mạnh, luyện võ, nhưng năm chín tuổi rơi sông giữa mùa đông nên mưa dầm là đau đầu gối. Dực «độc sủng» bạn, nhưng thật ra dùng bạn làm tấm chắn cho Kha Thư Doanh, người hắn thương mà nhà còn thấp. Đêm nay hắn nhờ huynh trưởng song sinh Mộ Dung Triệt, Ẩn Đế ngầm bảo vệ nước, thay hắn tới đây. Nếu cứ thế, Giang gia sẽ bị vu thông địch, bạn bị đày lãnh cung và mất trong cô độc.",
+      "text": "Mở mắt giữa màn lụa đỏ và mùi thuốc ngải. Thu Quyên bưng chậu nước thuốc ngâm chân vào, miệng lẩm bẩm mây đen kéo tới, chắc mai lại mưa. Ký ức nguyên chủ ùa vào đầu: Giang Tiểu Đào, 20 tuổi, Quý Phi của vua Mộ Dung Dực, con gái đại tướng quân Giang Trọng Khanh. Từ nhỏ bạn khỏe mạnh, luyện võ, nhưng năm chín tuổi rơi sông giữa mùa đông nên mưa dầm là đau đầu gối. Dực «độc sủng» bạn, nhưng thật ra dùng bạn làm tấm chắn cho Kha Thư Doanh, người hắn thương mà nhà còn thấp. Đêm nay hắn nhờ huynh trưởng song sinh Mộ Dung Triệt, Ẩn Đế ngầm bảo vệ nước, thay hắn tới đây. Nếu cứ thế, Giang gia sẽ bị vu thông địch, bạn bị đày lãnh cung và mất trong cô độc. Bạn phải quyết định xử lý viên thuốc của Tiểu Châu thế nào.",
       "tieu": "Chuyện cũ ta nói gọn thôi, còn việc cần làm thì dài. Ta có một viên chắn đau để đổi, ngươi muốn nhận không?",
       "cast": "d_dao,d_triet,d_duc,d_kha,d_cha,d_tq,d_th,tc",
       "ch": [
@@ -222,7 +222,7 @@
       "place": "Điện Quý Phi · Đêm cùng ngày",
       "kind": "chon",
       "title": "Người lạ trong màn đêm",
-      "text": "Đêm xuống, bạn ngồi đọc sách dưới đèn mờ. Một người đàn ông mặc áo Hoàng Thượng bước vào, bước chân nặng và chậm hơn Dực. Tiểu Châu thì thầm: không phải Dực, là Mộ Dung Triệt, 25 tuổi, huynh trưởng song sinh, hứa với tiên đế không soán ngôi. Trong tay áo hắn có một viên thuốc làm người ta mê man. Hắn nhìn bạn ngẩng lên cười, tim hắn đập lạ, rồi lặng lẽ cất viên thuốc đi. Bạn không đứng dậy hành lễ vì Dực cho phép khi chỉ có hai người, và gọi hắn «Hoàng Thượng» như đang diễn.",
+      "text": "Đêm xuống, bạn ngồi đọc sách dưới đèn mờ. Một người đàn ông mặc áo Hoàng Thượng bước vào, bước chân nặng và chậm hơn Dực. Tiểu Châu thì thầm: không phải Dực, là Mộ Dung Triệt, 25 tuổi, huynh trưởng song sinh, hứa với tiên đế không soán ngôi. Trong tay áo hắn có một viên thuốc làm người ta mê man. Hắn nhìn bạn ngẩng lên cười, tim hắn đập lạ, rồi lặng lẽ cất viên thuốc đi. Bạn không đứng dậy hành lễ vì Dực cho phép khi chỉ có hai người, và gọi hắn «Hoàng Thượng» như đang diễn. Bạn phải quyết định tiếp người lạ này ra sao.",
       "tieu": "Cô nhận ra hắn ngay từ cái nhìn đầu. Đừng vạch ra vội, nhưng cũng đừng diễn quá tay.",
       "cast": "d_dao,d_triet,tc",
       "ch": [
@@ -404,7 +404,7 @@
       "place": "Điện Quý Phi · Sáng hôm sau",
       "kind": "chon",
       "title": "Thỉnh an và chiếc túi thơm của Kha",
-      "text": "Sáng hôm sau, các phi tần tới thỉnh an. Tiểu Châu giới thiệu từng người: Tạ Tố Y thục nghi con nhà chế hương, Quan Nhã Chi tu nghi, Cảnh Thải Linh tiệp dư là tâm phúc của vua và luôn đứng ra gánh lời khi ai làm khó Kha. Cuối hàng là Kha Thư Doanh mỹ nhân, áo nhạt mà thêu rất lạ. Bạn khen thêu của Kha trước mọi người; Cảnh Thải Linh vội nói «ai cũng thích». Nhân đó bạn bảo Kha ở lại kể nguyên liệu và người thêu cho Cảnh Thải Linh nghe rồi tự lui về nghỉ, để mọi ánh mắt dồn sang họ.",
+      "text": "Sáng hôm sau, các phi tần tới thỉnh an. Tiểu Châu giới thiệu từng người: Tạ Tố Y thục nghi con nhà chế hương, Quan Nhã Chi tu nghi, Cảnh Thải Linh tiệp dư là tâm phúc của vua và luôn đứng ra gánh lời khi ai làm khó Kha. Cuối hàng là Kha Thư Doanh mỹ nhân, áo nhạt mà thêu rất lạ. Bạn khen thêu của Kha trước mọi người; Cảnh Thải Linh vội nói «ai cũng thích». Nhân đó bạn bảo Kha ở lại kể nguyên liệu và người thêu cho Cảnh Thải Linh nghe rồi tự lui về nghỉ, để mọi ánh mắt dồn sang họ. Bạn phải quyết định đáp lại chiếc túi thơm này thế nào.",
       "tieu": "Khen thẳng thì chắc, khen bóng thì khó đoán. Ngươi muốn họ đoán ngươi hay tin ngươi?",
       "cast": "d_dao,d_tay,d_quan,d_canh,d_kha,tc",
       "ch": [
@@ -494,7 +494,7 @@
       "place": "Điện Quý Phi · Buổi chiều",
       "kind": "chon",
       "title": "Ban thưởng và lời nói ở cửa",
-      "text": "Buổi chiều, Ngô công công, thái giám thân tín của vua, mang quà ban thưởng tới. Bạn đòi dùng hết, mỗi ngày đổi một món, nói «Hoàng Thượng sủng thiếp thế này, thiếp không dám cất đi». Ngô công công lo lắng ra mặt. Mộ Dung Dực đứng ngoài cửa, nghe bạn nói «Hoàng Thượng sẽ bảo vệ thiếp», thấy trong lòng khó chịu. Hắn bước vào; bạn lao tới nũng nịu, mời hắn bát chè hạt sen nguội mà bạn nói do đầu bếp riêng của điện nấu, thật ra chính tay bạn làm lén. Hắn ăn sạch.",
+      "text": "Buổi chiều, Ngô công công, thái giám thân tín của vua, mang quà ban thưởng tới. Bạn đòi dùng hết, mỗi ngày đổi một món, nói «Hoàng Thượng sủng thiếp thế này, thiếp không dám cất đi». Ngô công công lo lắng ra mặt. Mộ Dung Dực đứng ngoài cửa, nghe bạn nói «Hoàng Thượng sẽ bảo vệ thiếp», thấy trong lòng khó chịu. Hắn bước vào; bạn lao tới nũng nịu, mời hắn bát chè hạt sen nguội mà bạn nói do đầu bếp riêng của điện nấu, thật ra chính tay bạn làm lén. Hắn ăn sạch. Bạn phải quyết định đối xử với hắn ra sao.",
       "tieu": "Hắn tới để dỗ ngươi tiếp tục làm tấm chắn. Ngươi đáp thế nào cho hắn yên tâm mà không kéo hắn lại gần?",
       "cast": "d_dao,d_duc,d_ngo,tc",
       "ch": [
@@ -674,7 +674,7 @@
       "place": "Điện Quý Phi · Trưa hôm sau",
       "kind": "nan",
       "title": "Vòng ngọc đen và lời hứa của vua",
-      "text": "Trước khi rời điện lúc rạng sáng, Triệt đã đeo vào cổ tay bạn chiếc vòng ngọc đen của hắn, nói «giữ cho ấm». Trưa hôm sau Dực tới dùng cơm, nhìn thấy vòng, biến sắc, vì đây là vật của huynh trưởng. Bạn nhìn hắn, nước mắt đã chực rơi: nói mình bệnh không phục vụ được, xin hắn cứ sang cung khác. Dực vội hứa mỗi đêm sẽ tới điện Quý Phi, mỗi ngày dùng cơm ở đây; bạn đáp «thiếp tin». Thu Quyên đứng sau, nhìn thấy cả hai, và im lặng.",
+      "text": "Trước khi rời điện lúc rạng sáng, Triệt đã đeo vào cổ tay bạn chiếc vòng ngọc đen của hắn, nói «giữ cho ấm». Trưa hôm sau Dực tới dùng cơm, nhìn thấy vòng, biến sắc, vì đây là vật của huynh trưởng. Bạn nhìn hắn, nước mắt đã chực rơi: nói mình bệnh không phục vụ được, xin hắn cứ sang cung khác. Dực vội hứa mỗi đêm sẽ tới điện Quý Phi, mỗi ngày dùng cơm ở đây; bạn đáp «thiếp tin». Thu Quyên đứng sau, nhìn thấy cả hai, và im lặng. Bạn phải quyết định đáp lại lời hứa này thế nào.",
       "tieu": "Vòng ngọc là bằng chứng nhỏ nhất, và cũng dễ gây chuyện nhất. Ngươi muốn hắn thấy cô yếu đuối hay mạnh mẽ?",
       "cast": "d_dao,d_duc,d_tq,tc",
       "ch": [
@@ -786,7 +786,7 @@
       "place": "Điện Quý Phi · Một tháng sau",
       "kind": "chon",
       "title": "Bàn mạt chược cho bốn phi tần",
-      "text": "Một tháng sau, Dực ở lại điện Quý Phi đều đặn, các phi tần bất mãn ra mặt. Bạn gọi bốn người: Tạ Tố Y, Quan Nhã Chi, Ngu Tiểu Man dễ mếu và Chu Ngọc Lộ bạn thân Tiểu Man. Bạn lấy đồ ban thưởng làm vốn, bày ra một bộ quân bài ngà do Tiểu Châu vẽ kiểu, dạy luật mạt chược và dặn không được dạy cho Cảnh Thải Linh và Kha, cũng không chơi khi hai người đó có mặt. Bạn biết Cảnh là tay chân của vua và Kha là người vua che.",
+      "text": "Một tháng sau, Dực ở lại điện Quý Phi đều đặn, các phi tần bất mãn ra mặt. Bạn gọi bốn người: Tạ Tố Y, Quan Nhã Chi, Ngu Tiểu Man dễ mếu và Chu Ngọc Lộ bạn thân Tiểu Man. Bạn lấy đồ ban thưởng làm vốn, bày ra một bộ quân bài ngà do Tiểu Châu vẽ kiểu, dạy luật mạt chược và dặn không được dạy cho Cảnh Thải Linh và Kha, cũng không chơi khi hai người đó có mặt. Bạn biết Cảnh là tay chân của vua và Kha là người vua che. Bạn phải quyết định dạy mạt chược cho họ theo cách nào.",
       "tieu": "Bàn bài này sẽ là lớp bảo vệ lâu dài của ngươi. Dạy kỹ thì họ mê, dạy ẩu thì họ cãi nhau.",
       "cast": "d_dao,d_tay,d_quan,d_ngu,d_chu,tc",
       "ch": [
@@ -971,7 +971,7 @@
       "place": "Điện Quý Phi · Chiều mưa",
       "kind": "chon",
       "title": "Mưa dầm, thái y và «đầu bếp về quê»",
-      "text": "Chiều mưa, bạn đau đầu gối nặng, nằm không dậy nổi. Dực tới ăn trưa, hỏi người đầu bếp lạ nấu chè ngon mấy hôm trước; bạn nói đầu bếp về quê có việc. Hắn gọi Phùng thái y, thái y lâu năm của cung; ông nói bệnh cũ không chữa tận gốc, chỉ có ngâm chân bằng nước thuốc và tránh nước lạnh. Dực hứa tìm thuốc; bạn cười gật. Đêm đó Triệt mang thuốc mỡ tới.",
+      "text": "Chiều mưa, bạn đau đầu gối nặng, nằm không dậy nổi. Dực tới ăn trưa, hỏi người đầu bếp lạ nấu chè ngon mấy hôm trước; bạn nói đầu bếp về quê có việc. Hắn gọi Phùng thái y, thái y lâu năm của cung; ông nói bệnh cũ không chữa tận gốc, chỉ có ngâm chân bằng nước thuốc và tránh nước lạnh. Dực hứa tìm thuốc; bạn cười gật. Đêm đó Triệt mang thuốc mỡ tới. Bạn phải quyết định nói gì với hắn.",
       "tieu": "Lần đầu ngươi để hắn thấy ngươi yếu thật. Nhờ hắn ở lại hay đuổi hắn đi, đều có giá.",
       "cast": "d_dao,d_duc,d_phung,d_triet,tc",
       "ch": [
@@ -1061,7 +1061,7 @@
       "place": "Điện Quý Phi · Đêm mưa vài ngày sau",
       "kind": "hiem",
       "title": "Thu Quyên thấy người thứ hai",
-      "text": "Đêm mưa vài ngày sau, Thu Quyên bưng nước thuốc vào đúng lúc Triệt còn ngồi bên giường. Nàng vừa hầu Dực ban ngày, giờ lại thấy cùng gương mặt ấy ban đêm, và chợt hiểu đó là hai người khác nhau. Tay nàng run, chậu nước suýt đổ. Triệt thấy ánh mắt đó, ngón tay hắn khẽ nhúc nhích. Tiểu Châu báo: hắn đang cân nhắc cho người đưa nàng đi thật xa để giữ bí mật. Nếu bạn lỡ lời, mọi chuyện sẽ đi theo hướng khác hẳn.",
+      "text": "Đêm mưa vài ngày sau, Thu Quyên bưng nước thuốc vào đúng lúc Triệt còn ngồi bên giường. Nàng vừa hầu Dực ban ngày, giờ lại thấy cùng gương mặt ấy ban đêm, và chợt hiểu đó là hai người khác nhau. Tay nàng run, chậu nước suýt đổ. Triệt thấy ánh mắt đó, ngón tay hắn khẽ nhúc nhích. Tiểu Châu báo: hắn đang cân nhắc cho người đưa nàng đi thật xa để giữ bí mật. Nếu bạn lỡ lời, mọi chuyện sẽ đi theo hướng khác hẳn. Bạn phải quyết định xử lý chuyện của Thu Quyên ra sao.",
       "tieu": "Đây là ngã rẽ nguy hiểm nhất đến giờ. Một câu nói sai và hắn sẽ tự quyết thay ngươi.",
       "cast": "d_dao,d_triet,d_tq,tc",
       "ch": [
@@ -1174,7 +1174,7 @@
       "place": "Điện Quý Phi · Sáng hôm sau",
       "kind": "chon",
       "title": "Lời nói thật và viên mộng cũ",
-      "text": "Sáng hôm sau, Thu Quyên đuổi hết cung nhân ra ngoài rồi khóc hỏi thẳng: ban ngày là vua thật phải không? Bạn thừa nhận, và nói ban đêm «không phải kẻ lừa dối, hắn xoa chân cho thiếp». Triệt đã đứng nghe sau bình phong, bước ra hỏi bạn nhận ra từ khi nào; bạn đáp từ lần đầu hắn bước vào. Hắn xin bạn cùng rời cung, bạn từ chối. Tiểu Châu đổi cho bạn một «viên mộng cũ»: ai uống sẽ thấy một giấc mơ về kiếp trước của nguyên chủ.",
+      "text": "Sáng hôm sau, Thu Quyên đuổi hết cung nhân ra ngoài rồi khóc hỏi thẳng: ban ngày là vua thật phải không? Bạn thừa nhận, và nói ban đêm «không phải kẻ lừa dối, hắn xoa chân cho thiếp». Triệt đã đứng nghe sau bình phong, bước ra hỏi bạn nhận ra từ khi nào; bạn đáp từ lần đầu hắn bước vào. Hắn xin bạn cùng rời cung, bạn từ chối. Tiểu Châu đổi cho bạn một «viên mộng cũ»: ai uống sẽ thấy một giấc mơ về kiếp trước của nguyên chủ. Bạn phải quyết định xử lý viên mộng cũ này thế nào.",
       "tieu": "Hắn đang mở lòng, nhưng chưa biết mình mở vì cái gì. Mộng cũ cho hắn biết, nhưng đưa lúc nào thì tùy ngươi.",
       "cast": "d_dao,d_triet,d_tq,tc",
       "ch": [
@@ -1266,7 +1266,7 @@
       "place": "Giấc mơ của Triệt · Ngay sau khi uống thuốc",
       "kind": "duyen",
       "title": "Giấc mơ về kiếp trước",
-      "text": "Triệt thấy nguyên chủ: bạn được vua sủng một thời, rồi Giang gia bị vu thông địch, bạn bị đày vào lãnh cung. Bệnh cũ ngày một nặng, bạn một mình hỏi mãi «vì sao» với bức tường, cho tới khi nghe tin Kha được phong hậu, rồi bạn không qua nổi mùa đông. Bạn ngồi cạnh giường, nắm tay hắn suốt giấc mơ. Tỉnh dậy, hắn ôm bạn thật chặt: «Kiếp này ta che chở em». Bạn nói mình không cần được che chở mà cần người cùng đi.",
+      "text": "Triệt thấy nguyên chủ: bạn được vua sủng một thời, rồi Giang gia bị vu thông địch, bạn bị đày vào lãnh cung. Bệnh cũ ngày một nặng, bạn một mình hỏi mãi «vì sao» với bức tường, cho tới khi nghe tin Kha được phong hậu, rồi bạn không qua nổi mùa đông. Bạn ngồi cạnh giường, nắm tay hắn suốt giấc mơ. Tỉnh dậy, hắn ôm bạn thật chặt: «Kiếp này ta che chở em». Bạn nói mình không cần được che chở mà cần người cùng đi. Bạn phải quyết định đáp lại lời hứa che chở của hắn thế nào.",
       "tieu": "Hắn vừa thấy ngươi chết một lần. Đừng để lời hứa che chở biến thành cái lồng.",
       "cast": "d_dao,d_triet,tc",
       "ch": [
@@ -1357,7 +1357,7 @@
       "place": "Điện Quý Phi · Vài ngày sau",
       "kind": "chon",
       "title": "Giao kèo và đôi bàn tay",
-      "text": "Vài ngày sau, hai người ngồi bàn kế. Bạn nói rõ: bạn sẽ ở lại cung, làm Quý Phi được sủng nhất để Dực phải trả giá bằng chính hình ảnh của hắn. Triệt giúp được mọi việc trừ giết Dực và tranh ngôi. Hắn đồng ý với điều kiện bạn không đến gần Dực quá mức và không nấu cho Dực nữa; bạn nói «thích thêm một chút nếu hắn ngoan». Hắn dạy bạn vài thế bấm huyệt giảm đau, để dùng khi hắn đi vắng.",
+      "text": "Vài ngày sau, hai người ngồi bàn kế. Bạn nói rõ: bạn sẽ ở lại cung, làm Quý Phi được sủng nhất để Dực phải trả giá bằng chính hình ảnh của hắn. Triệt giúp được mọi việc trừ giết Dực và tranh ngôi. Hắn đồng ý với điều kiện bạn không đến gần Dực quá mức và không nấu cho Dực nữa; bạn nói «thích thêm một chút nếu hắn ngoan». Hắn dạy bạn vài thế bấm huyệt giảm đau, để dùng khi hắn đi vắng. Bạn phải quyết định đáp lại giao kèo này ra sao.",
       "tieu": "Hắn đưa điều kiện như một đứa trẻ giữ đồ chơi. Nhận hay đáp lại, hắn đều nghe kỹ.",
       "cast": "d_dao,d_triet,tc",
       "ch": [
@@ -1452,7 +1452,7 @@
       "place": "Điện Quý Phi · Buổi trưa",
       "kind": "chon",
       "title": "Câu chuyện bà đầu bếp",
-      "text": "Giữa trưa, Dực lại hỏi về người đầu bếp lạ. Bạn kể câu chuyện về một bà đầu bếp bị chồng phụ bạc: bà đã đốt sạch nhà cửa của hắn rồi đi biệt xứ, không quay lại. Bạn nói: «Hứa mà không làm được thì đừng hứa, A Dực nhỉ». Dực gượng gật, nghe tới đâu mặt tái tới đó rồi bỏ dở bữa đi sớm.",
+      "text": "Giữa trưa, Dực lại hỏi về người đầu bếp lạ. Bạn kể câu chuyện về một bà đầu bếp bị chồng phụ bạc: bà đã đốt sạch nhà cửa của hắn rồi đi biệt xứ, không quay lại. Bạn nói: «Hứa mà không làm được thì đừng hứa, A Dực nhỉ». Dực gượng gật, nghe tới đâu mặt tái tới đó rồi bỏ dở bữa đi sớm. Bạn phải quyết định kể câu chuyện này thế nào.",
       "tieu": "Một câu chuyện nhỏ là một mũi kim. Ngươi muốn hắn thấy rõ mũi kim, hay chỉ thấy nhói?",
       "cast": "d_dao,d_duc,tc",
       "ch": [
@@ -1550,7 +1550,7 @@
       "place": "Điện Quý Phi · Đêm cùng ngày",
       "kind": "chon",
       "title": "Ghen và «vua đội nón xanh»",
-      "text": "Đêm cùng ngày, Triệt nghe tin bạn khen Dực «người tốt nhất» trước mặt cung nhân. Hắn lạnh mặt, im lặng rót trà mà không uống. Bạn giải thích: mọi lời khen ban ngày đều là châm chọc, hắn là người đang đội nón xanh mà không biết. Triệt bật cười, nhận «vua đội nón xanh» làm bí danh của Dực. Ác niệm trong mắt hắn dịu đi một chút.",
+      "text": "Đêm cùng ngày, Triệt nghe tin bạn khen Dực «người tốt nhất» trước mặt cung nhân. Hắn lạnh mặt, im lặng rót trà mà không uống. Bạn giải thích: mọi lời khen ban ngày đều là châm chọc, hắn là người đang đội nón xanh mà không biết. Triệt bật cười, nhận «vua đội nón xanh» làm bí danh của Dực. Ác niệm trong mắt hắn dịu đi một chút. Bạn phải quyết định dỗ hắn ra sao.",
       "tieu": "Hắn ghen vì tưởng ngươi mềm lòng. Giải thích xong rồi, dỗ nhẹ hay trêu thêm?",
       "cast": "d_dao,d_triet,tc",
       "ch": [
@@ -1752,7 +1752,7 @@
       "place": "Điện Quý Phi · Vài tuần sau",
       "kind": "chon",
       "title": "Phi tần bỏ tranh sủng",
-      "text": "Vài tuần sau, các phi tần ngày ngày tới ngồi quanh bàn mạt chược, đọc những cuốn sách về cung đấu và làm đẹp mà bạn đưa. Ít còn nhớ tới Dực. Bạn dạy họ làm mặt nạ dưỡng da từ nguyên liệu trong kho nguyên chủ, chia cho từng người. Tiểu Châu: nhóm người đang đắm vào đó là lớp bảo vệ lâu dài của bạn. Dực nghe nói nhưng không thấy hại.",
+      "text": "Vài tuần sau, các phi tần ngày ngày tới ngồi quanh bàn mạt chược, đọc những cuốn sách về cung đấu và làm đẹp mà bạn đưa. Ít còn nhớ tới Dực. Bạn dạy họ làm mặt nạ dưỡng da từ nguyên liệu trong kho nguyên chủ, chia cho từng người. Tiểu Châu: nhóm người đang đắm vào đó là lớp bảo vệ lâu dài của bạn. Dực nghe nói nhưng không thấy hại. Bạn phải quyết định chia sẻ công thức này ra sao.",
       "tieu": "Một người đẹp lên thì tám người theo. Chia hết công thức hay chia chọn lọc, đều là cách giữ họ ở lại.",
       "cast": "d_dao,d_tay,d_quan,d_ngu,d_chu,tc",
       "ch": [
@@ -1847,7 +1847,7 @@
       "place": "Điện Quý Phi · Trưa hôm sau",
       "kind": "chon",
       "title": "Ninh Thần Hương",
-      "text": "Trưa hôm sau, Ngô công công đem tới một lư hương và vài hộp hương quý của Dực. Hắn nói hương giúp bạn ngủ ngon. Bạn ngửi thấy và nhận ra mùi lạ: hương làm hao nguyên khí, dùng lâu thì khó có con. Bạn vẫn nhận, nói «thiếp thích độc hưởng», chỉ dùng buổi ngủ trưa. Dực nhẹ nhõm, dặn Ngô công công đừng nói cho Triệt. Tiểu Châu: bạn cố ý nhận để giữ chỗ cho bước sau.",
+      "text": "Trưa hôm sau, Ngô công công đem tới một lư hương và vài hộp hương quý của Dực. Hắn nói hương giúp bạn ngủ ngon. Bạn ngửi thấy và nhận ra mùi lạ: hương làm hao nguyên khí, dùng lâu thì khó có con. Bạn vẫn nhận, nói «thiếp thích độc hưởng», chỉ dùng buổi ngủ trưa. Dực nhẹ nhõm, dặn Ngô công công đừng nói cho Triệt. Tiểu Châu: bạn cố ý nhận để giữ chỗ cho bước sau. Bạn phải quyết định xử lý chuyện hương này thế nào.",
       "tieu": "Hắn tưởng hắn đang hại ngươi bí mật. Ngươi nói thẳng hay để hắn tưởng mình thắng?",
       "cast": "d_dao,d_ngo,d_duc,tc",
       "ch": [
@@ -1942,7 +1942,7 @@
       "place": "Điện Quý Phi · Đêm cùng ngày",
       "kind": "chon",
       "title": "Thư gửi cha",
-      "text": "Đêm đó Tiểu Châu nghe lén cung Kha và báo lại: Dực vừa nói với Kha rằng sẽ dùng Giang gia làm đá kê chân cho Kha lên hậu, và Kha mừng thầm. Bạn giao Triệt một bức thư kể rõ mọi chuyện gửi cha, kèm một rương ngân phiếu đổi từ đồ ban thưởng và quyển bí kíp của Tiểu Châu: cách chế vũ khí và giống cây mới, để cha chiêu binh. Triệt nhận chuyển thư. Giang Trọng Khanh đọc thì nổi giận, đọc tới lời con thì bình tĩnh, rồi bắt đầu gom người trung thành.",
+      "text": "Đêm đó Tiểu Châu nghe lén cung Kha và báo lại: Dực vừa nói với Kha rằng sẽ dùng Giang gia làm đá kê chân cho Kha lên hậu, và Kha mừng thầm. Bạn giao Triệt một bức thư kể rõ mọi chuyện gửi cha, kèm một rương ngân phiếu đổi từ đồ ban thưởng và quyển bí kíp của Tiểu Châu: cách chế vũ khí và giống cây mới, để cha chiêu binh. Triệt nhận chuyển thư. Giang Trọng Khanh đọc thì nổi giận, đọc tới lời con thì bình tĩnh, rồi bắt đầu gom người trung thành. Bạn phải quyết định giao bí kíp cho cha ra sao.",
       "tieu": "Ngươi chỉ gửi một lá thư, nhưng quyết định của cha ngươi sau lá thư ấy sẽ thay đổi cả câu chuyện. Giao nhiều hay ít, đều có cái giá.",
       "cast": "d_dao,d_triet,d_cha,tc",
       "ch": [
@@ -2144,7 +2144,7 @@
       "place": "Điện Quý Phi · Một buổi trưa",
       "kind": "chon",
       "title": "Lời nhắc của Tạ phi",
-      "text": "Một buổi trưa trong nửa năm đó, bạn ngủ trưa còn Tạ Tố Y tới thăm. Nàng ngửi thấy Ninh Thần Hương, biến sắc: mẹ nàng là truyền nhân chế hương, nàng biết loại hương này hại người. Nàng khẽ khuyên «nên bớt dùng». Bạn đáp «hắn cấp, ta cam nguyện». Tố Y hiểu thế cuộc, im lặng đi ra; Tiểu Châu: từ nay nàng nghiêng hẳn về phía bạn.",
+      "text": "Một buổi trưa trong nửa năm đó, bạn ngủ trưa còn Tạ Tố Y tới thăm. Nàng ngửi thấy Ninh Thần Hương, biến sắc: mẹ nàng là truyền nhân chế hương, nàng biết loại hương này hại người. Nàng khẽ khuyên «nên bớt dùng». Bạn đáp «hắn cấp, ta cam nguyện». Tố Y hiểu thế cuộc, im lặng đi ra; Tiểu Châu: từ nay nàng nghiêng hẳn về phía bạn. Bạn phải quyết định đáp lại Tạ phi thế nào.",
       "tieu": "Nàng nói câu ấy vì thật lòng lo cho ngươi. Hãy nói cho nàng biết ngươi đang làm gì, ít nhất là một nửa.",
       "cast": "d_dao,d_tay,tc",
       "ch": [
@@ -2235,7 +2235,7 @@
       "place": "Điện Quý Phi · Cuối nửa năm «ốm»",
       "kind": "nan",
       "title": "Lời hứa che chở",
-      "text": "Cuối nửa năm «ốm», Dực ghé thăm và ngồi cạnh giường. Bạn hỏi nếu một ngày hắn thích người khác thì bạn ra sao. Hắn đáp: «Ta sẽ che chở nàng, dù không còn Giang tướng quân». Bạn mỉm cười như tin. Từ hôm sau Dực không còn tới ban ngày. Tối đó Triệt kể lại trong mật thất, căn phòng tối nối tẩm cung vua với nơi ở của Ẩn Đế: hắn đã cảnh cáo đệ đệ không được đụng tới bạn, Dực nhận ra hắn thật lòng với bạn và chịu đổi lịch.",
+      "text": "Cuối nửa năm «ốm», Dực ghé thăm và ngồi cạnh giường. Bạn hỏi nếu một ngày hắn thích người khác thì bạn ra sao. Hắn đáp: «Ta sẽ che chở nàng, dù không còn Giang tướng quân». Bạn mỉm cười như tin. Từ hôm sau Dực không còn tới ban ngày. Tối đó Triệt kể lại trong mật thất, căn phòng tối nối tẩm cung vua với nơi ở của Ẩn Đế: hắn đã cảnh cáo đệ đệ không được đụng tới bạn, Dực nhận ra hắn thật lòng với bạn và chịu đổi lịch. Bạn phải quyết định đáp lại hắn ra sao.",
       "tieu": "Đây là lần đầu hắn nói dối trước mặt ngươi mà ngươi biết. Đêm nay hắn cần ngươi nhiều hơn ngươi nghĩ.",
       "cast": "d_dao,d_duc,d_triet,tc",
       "ch": [
@@ -2347,7 +2347,7 @@
       "place": "Ngự Hoa Viên · Mùa xuân",
       "kind": "chon",
       "title": "Ngự Hoa Viên và chiếc túi thơm của Kha",
-      "text": "Mùa xuân sau nửa năm, bạn ra vườn lần đầu. Cảnh Thải Linh và Kha, nay là quý nhân nhờ công của nhà Kha, đang đi dạo cùng cung nữ Ngọc Trúc nóng tính, thân với Kha. Bạn thấy túi thơm bên hông Kha, nói thêu pháp quen mắt: giống chiếc túi của mẹ, người tái ngoại, mà bạn đánh mất hồi nhỏ, có tám mươi tám sắc và một khóa vàng nhỏ. Kha biến sắc, vì nàng đã nhặt đúng một chiếc ven sông mà chưa dám nói. Bạn vẽ lại túi thơm bằng bút mực ngay tại chỗ, cả đám phi tần thán phục; Kha cúi đầu, giữ im lặng.",
+      "text": "Mùa xuân sau nửa năm, bạn ra vườn lần đầu. Cảnh Thải Linh và Kha, nay là quý nhân nhờ công của nhà Kha, đang đi dạo cùng cung nữ Ngọc Trúc nóng tính, thân với Kha. Bạn thấy túi thơm bên hông Kha, nói thêu pháp quen mắt: giống chiếc túi của mẹ, người tái ngoại, mà bạn đánh mất hồi nhỏ, có tám mươi tám sắc và một khóa vàng nhỏ. Kha biến sắc, vì nàng đã nhặt đúng một chiếc ven sông mà chưa dám nói. Bạn vẽ lại túi thơm bằng bút mực ngay tại chỗ, cả đám phi tần thán phục; Kha cúi đầu, giữ im lặng. Bạn phải quyết định xử lý chiếc túi thơm này thế nào.",
       "tieu": "Nàng đang dò lại mọi thứ và sẽ không nói ra. Đây là mũi tên đầu tiên bắn vào chỗ yếu nhất của nàng.",
       "cast": "d_dao,d_kha,d_canh,d_truc,tc",
       "ch": [
@@ -2442,7 +2442,7 @@
       "place": "Triều đình · Vài ngày sau",
       "kind": "duyen",
       "title": "Sổ con buộc tội",
-      "text": "Vài ngày sau, ở triều đình, Âu Dương đại nhân, quan lớn tuổi chê Quý Phi xa hoa, cùng vài quan thượng sổ xin Dực «mưa móc đều dính». Dực chế giễu: «Các khanh nhàn thì ra biên ải lập quân công đi». Tạ đại nhân, cha Tạ Tố Y, đứng im, không buộc tội. Tiểu Châu: cha các phi tần đã nghe con nói chuyện.",
+      "text": "Vài ngày sau, ở triều đình, Âu Dương đại nhân, quan lớn tuổi chê Quý Phi xa hoa, cùng vài quan thượng sổ xin Dực «mưa móc đều dính». Dực chế giễu: «Các khanh nhàn thì ra biên ải lập quân công đi». Tạ đại nhân, cha Tạ Tố Y, đứng im, không buộc tội. Tiểu Châu: cha các phi tần đã nghe con nói chuyện. Bạn phải quyết định đối phó sổ con này ra sao.",
       "tieu": "Sổ con là mũi dao ngoài mặt, nhưng đỡ được hay không còn tùy cha các phi. Ngươi nhắn một lời, hay lờ đi?",
       "cast": "d_dao,d_au,d_tadai,d_duc,tc",
       "ch": [
@@ -2627,7 +2627,7 @@
       "place": "Điện Quý Phi · Đêm cùng tuần",
       "kind": "chon",
       "title": "Túi thơm hình chú chó",
-      "text": "Đêm cùng tuần, bạn đang thêu còn Triệt ngồi xem. Hóa ra bạn thêu một chú chó con rất đáng yêu; Triệt cầm lấy, cười như trẻ con rồi treo vào đai. Bạn nói thật lòng thêu cho hắn, nhưng cũng có mục đích: cho tới khi bạn nhắc, hắn không được để Dực nhìn thấy. Hắn đồng ý, báo tin từ biên ải: cha đã đủ người. Bạn gửi thêm quyển thứ hai cho cha.",
+      "text": "Đêm cùng tuần, bạn đang thêu còn Triệt ngồi xem. Hóa ra bạn thêu một chú chó con rất đáng yêu; Triệt cầm lấy, cười như trẻ con rồi treo vào đai. Bạn nói thật lòng thêu cho hắn, nhưng cũng có mục đích: cho tới khi bạn nhắc, hắn không được để Dực nhìn thấy. Hắn đồng ý, báo tin từ biên ải: cha đã đủ người. Bạn gửi thêm quyển thứ hai cho cha. Bạn phải quyết định xử lý chiếc túi này thế nào.",
       "tieu": "Đây là lần đầu hắn nhận một món quà mà không có tội gì đi kèm. Đừng để hắn đeo mà quên mất lời dặn.",
       "cast": "d_dao,d_triet,tc",
       "ch": [
@@ -2831,7 +2831,7 @@
       "place": "Điện Quý Phi · Mùa hè, hơn ba năm sau",
       "kind": "chon",
       "title": "Lời đồn Hiền phi đủ đức làm hậu",
-      "text": "Mùa hè hơn ba năm sau, lời khen phẩm hạnh của Kha lan khắp cung và triều; nhà Kha dập mọi lời ra vẻ khiêm tốn. Phía nam có thủy tai, Dực quyết dẫn các phi cấp cao đi thăm dân. Triệt không muốn bạn đi vì sợ nguy hiểm; bạn muốn đi để chờ cơ hội. Bạn cầm nhuyễn kiếm tìm hắn so ngay trong điện, vừa thử vừa khoe sức cho hắn yên tâm. Thu Quyên đứng ngoài giữ cửa.",
+      "text": "Mùa hè hơn ba năm sau, lời khen phẩm hạnh của Kha lan khắp cung và triều; nhà Kha dập mọi lời ra vẻ khiêm tốn. Phía nam có thủy tai, Dực quyết dẫn các phi cấp cao đi thăm dân. Triệt không muốn bạn đi vì sợ nguy hiểm; bạn muốn đi để chờ cơ hội. Bạn cầm nhuyễn kiếm tìm hắn so ngay trong điện, vừa thử vừa khoe sức cho hắn yên tâm. Thu Quyên đứng ngoài giữ cửa. Bạn phải quyết định tỉ thí với hắn theo cách nào.",
       "tieu": "Hắn lo cho ngươi nhiều hơn lo cho chính mình. So kiếm để hắn thấy ngươi đủ sức, đừng để hắn thấy ngươi liều.",
       "cast": "d_dao,d_triet,d_tq,tc",
       "ch": [
@@ -2926,7 +2926,7 @@
       "place": "Xe ngựa và vùng thủy tai · Mấy ngày sau",
       "kind": "chon",
       "title": "Xe ngựa tới vùng thủy tai",
-      "text": "Mấy ngày sau, trong xe ngựa chung với Dực, bạn nói: «A Dực ngày càng xa ta», rồi hỏi hắn từng thật lòng chưa. Hắn đáp «tự nhiên», không dám nhìn thẳng. Tới vùng thủy tai, Kha ăn lương thực phụ không chê, được dân và quan ca ngợi; bạn ăn cùng nhưng nhăn mày. Kha hỏi bạn có không quen; bạn đáp «khó ăn thì khó ăn, nhưng đói thì rễ cây cũng phải gặm». Tiểu Châu ghi nhận Kha đưa tay lên bụng: nàng có thai.",
+      "text": "Mấy ngày sau, trong xe ngựa chung với Dực, bạn nói: «A Dực ngày càng xa ta», rồi hỏi hắn từng thật lòng chưa. Hắn đáp «tự nhiên», không dám nhìn thẳng. Tới vùng thủy tai, Kha ăn lương thực phụ không chê, được dân và quan ca ngợi; bạn ăn cùng nhưng nhăn mày. Kha hỏi bạn có không quen; bạn đáp «khó ăn thì khó ăn, nhưng đói thì rễ cây cũng phải gặm». Tiểu Châu ghi nhận Kha đưa tay lên bụng: nàng có thai. Bạn phải quyết định đáp lại lời của Kha thế nào.",
       "tieu": "Nàng đang đóng vai hiền hậu. Ngươi đóng vai thật thà. Ai chịu được lâu hơn?",
       "cast": "d_dao,d_duc,d_kha,tc",
       "ch": [
@@ -3016,7 +3016,7 @@
       "place": "Giữa đường · Ngày thứ tư",
       "kind": "hiem",
       "title": "Thích khách",
-      "text": "Ngày thứ tư giữa đường, hơn hai mươi hắc y nhân vây xe. Triệt đi ngầm theo đoàn, không lộ mặt. Dực lo cho bạn, quên bảo vệ mình; một mũi tên bay vào lưng hắn, Kha lao ra đỡ rồi ngất. Bạn rút nhuyễn kiếm, chém những kẻ còn lại, mỗi nhát hạ một người, váy áo không dính máu. Triệt đứng xa nhìn, không ra tay vì sợ lộ. Dực bế Kha chạy về, thái y báo nàng có thai một tháng. Nàng tỉnh dậy xin bạn đừng trách.",
+      "text": "Ngày thứ tư giữa đường, hơn hai mươi hắc y nhân vây xe. Triệt đi ngầm theo đoàn, không lộ mặt. Dực lo cho bạn, quên bảo vệ mình; một mũi tên bay vào lưng hắn, Kha lao ra đỡ rồi ngất. Bạn rút nhuyễn kiếm, chém những kẻ còn lại, mỗi nhát hạ một người, váy áo không dính máu. Triệt đứng xa nhìn, không ra tay vì sợ lộ. Dực bế Kha chạy về, thái y báo nàng có thai một tháng. Nàng tỉnh dậy xin bạn đừng trách. Bạn phải quyết định ra tay ra sao.",
       "tieu": "Hơn hai mươi người, nhưng chỉ cần một kẻ còn sống là có lời khai. Kẻ nào còn thở cũng có thể thay đổi cuộc chiến sau này.",
       "cast": "d_dao,d_duc,d_kha,d_triet,tc",
       "ch": [
@@ -3230,7 +3230,7 @@
       "place": "Ngự Hoa Viên · Vài tuần sau",
       "kind": "hiem",
       "title": "Cái tát ở Ngự Hoa Viên",
-      "text": "Vài tuần sau, chiếu chỉ phong hậu đã ban, đại điển chưa tổ chức. Kha dẫn Ngọc Trúc đi dạo ở Ngự Hoa Viên, bụng đã lộ. Kha gặp bạn và hơi gật chào; bạn gật lại, chúc mừng. Ngọc Trúc quát bạn phải đứng dậy hành lễ trước Hoàng Hậu. Bạn hỏi tên và vị trí của nàng rồi ra lệnh cho Thu Quyên vả miệng, bảo Thu Hòa dìu Kha về cung vì có thai không nên thấy cảnh này. Bạn nói chỉ nhắc nhở để Kha khỏi mất mặt, thật ra là chặn trước tai tiếng.",
+      "text": "Vài tuần sau, chiếu chỉ phong hậu đã ban, đại điển chưa tổ chức. Kha dẫn Ngọc Trúc đi dạo ở Ngự Hoa Viên, bụng đã lộ. Kha gặp bạn và hơi gật chào; bạn gật lại, chúc mừng. Ngọc Trúc quát bạn phải đứng dậy hành lễ trước Hoàng Hậu. Bạn hỏi tên và vị trí của nàng rồi ra lệnh cho Thu Quyên vả miệng, bảo Thu Hòa dìu Kha về cung vì có thai không nên thấy cảnh này. Bạn nói chỉ nhắc nhở để Kha khỏi mất mặt, thật ra là chặn trước tai tiếng. Bạn phải quyết định xử phạt Ngọc Trúc thế nào.",
       "tieu": "Nhẹ tay thì chuyện dễ lớn, nặng tay thì lời đồn lớn hơn. Ngươi đang đứng trên dây.",
       "cast": "d_dao,d_kha,d_truc,d_tq,d_th,tc",
       "ch": [
@@ -3342,7 +3342,7 @@
       "place": "Điện Quý Phi · Chiều cùng ngày",
       "kind": "chon",
       "title": "Rương vàng và lệnh miễn hành lễ",
-      "text": "Chiều cùng ngày, Dực tới điện Quý Phi đòi người, xin bạn trả Ngọc Trúc về cho Hoàng Hậu. Bạn đáp: «Cả thiên hạ là của ngài, người nào ngài cần cứ mang đi», rồi nhắc chính hắn từng cho phép bạn không phải hành lễ trước ai. Dực nhớ ra, hứa nhắc Hoàng Hậu. Hắn sai mang một rương vàng đến bù; bạn mừng nhận và chia cho Thu Quyên, Thu Hòa.",
+      "text": "Chiều cùng ngày, Dực tới điện Quý Phi đòi người, xin bạn trả Ngọc Trúc về cho Hoàng Hậu. Bạn đáp: «Cả thiên hạ là của ngài, người nào ngài cần cứ mang đi», rồi nhắc chính hắn từng cho phép bạn không phải hành lễ trước ai. Dực nhớ ra, hứa nhắc Hoàng Hậu. Hắn sai mang một rương vàng đến bù; bạn mừng nhận và chia cho Thu Quyên, Thu Hòa. Bạn phải quyết định xử lý rương vàng này ra sao.",
       "tieu": "Vàng là món quà bù cho sự thiếu hụt trong lòng hắn. Giữ lại hay đem đi ngay, đều là một lời nói.",
       "cast": "d_dao,d_duc,d_tq,d_th,tc",
       "ch": [
@@ -3432,7 +3432,7 @@
       "place": "Điện Quý Phi · Đêm cùng ngày",
       "kind": "chon",
       "title": "Địa đồ của cha",
-      "text": "Đêm cùng ngày, Triệt tới khi rương vàng đã mở. Bạn trải tấm bản đồ cha đã chiếm được: một vùng mênh mông ngoài biên cương, gấp nhiều lần «một phương nhỏ». Triệt giật mình. Bạn giải thích vì sao cha cần có đất, có người để bảo vệ, để không phải sống như kẻ bị vu thông địch. Hắn xin bạn nhờ cha chậm mở rộng kẻo hắn không xứng với bạn; bạn cười: «Ta chọn là được». Hắn nhận chuyển rương vàng cho cha.",
+      "text": "Đêm cùng ngày, Triệt tới khi rương vàng đã mở. Bạn trải tấm bản đồ cha đã chiếm được: một vùng mênh mông ngoài biên cương, gấp nhiều lần «một phương nhỏ». Triệt giật mình. Bạn giải thích vì sao cha cần có đất, có người để bảo vệ, để không phải sống như kẻ bị vu thông địch. Hắn xin bạn nhờ cha chậm mở rộng kẻo hắn không xứng với bạn; bạn cười: «Ta chọn là được». Hắn nhận chuyển rương vàng cho cha. Bạn phải quyết định đánh dấu vùng nào trên địa đồ.",
       "tieu": "Tấm bản đồ này nói về nơi ngươi sẽ về, không chỉ nơi cha ngươi sẽ đứng. Đánh dấu cẩn thận.",
       "cast": "d_dao,d_triet,d_cha,tc",
       "ch": [
@@ -3618,7 +3618,7 @@
       "place": "Đại điện · Một tháng sau",
       "kind": "duyen",
       "title": "Đại điển phong hậu và đêm chia đôi",
-      "text": "Một tháng sau, đại điển phong hậu diễn ra; Dực đứng cạnh Kha trước bá quan. Bạn không dự. Dực xao nhãng suốt lễ; sau đó hắn hứa với Kha sẽ ở cung nàng, nói «Quý Phi sẽ không có con» và nhớ ra mình đã gửi Ninh Thần Hương. Rồi hắn gặp Triệt trong mật thất, đề nghị ban ngày hắn không sang điện Quý Phi nữa; Triệt đồng ý nhưng buổi tối phải chia một nửa số đêm cho điện Quý Phi. Tiểu Châu báo lại cho bạn.",
+      "text": "Một tháng sau, đại điển phong hậu diễn ra; Dực đứng cạnh Kha trước bá quan. Bạn không dự. Dực xao nhãng suốt lễ; sau đó hắn hứa với Kha sẽ ở cung nàng, nói «Quý Phi sẽ không có con» và nhớ ra mình đã gửi Ninh Thần Hương. Rồi hắn gặp Triệt trong mật thất, đề nghị ban ngày hắn không sang điện Quý Phi nữa; Triệt đồng ý nhưng buổi tối phải chia một nửa số đêm cho điện Quý Phi. Tiểu Châu báo lại cho bạn. Bạn phải quyết định trải qua ngày đại điển ra sao.",
       "tieu": "Họ chia đêm ngươi như chia một thửa ruộng. Ngươi xem lễ từ xa hay ở lại, đều là một cách nói «ta không cần».",
       "cast": "d_dao,d_duc,d_kha,d_triet,tc",
       "ch": [
@@ -3797,7 +3797,7 @@
       "place": "Mật thất và điện Quý Phi · Hai ngày liền",
       "kind": "chon",
       "title": "Túi chó, thêu thùa và lư hương",
-      "text": "Đêm đổi gác ở mật thất, Triệt đeo túi chó trên đai. Dực nhìn thấy hoa văn nền giống chiếc túi xưa hắn cất kỹ, hỏi; Triệt đáp «đồ vợ ta thêu, thích thì đi tìm vợ mà đòi» rồi đi, về kể lại cho bạn. Dực lục chiếc túi cũ, thấy hoa văn tương tự nhưng đường thêu khác, và nhờ Kha thêu cho mình một chiếc mang hoa văn ấy. Kha biến sắc nói không làm được, đáp lấp lửng khi hắn hỏi ai dạy nàng; Dực nhận ra nàng nói dối. Hôm sau hắn tới điện Quý Phi, hỏi bạn có biết thêu không, nhìn lư hương; bạn nói «hương ngài ban, thiếp ngày nào cũng dùng». Hắn tái mặt, nói sẽ đổi hương.",
+      "text": "Đêm đổi gác ở mật thất, Triệt đeo túi chó trên đai. Dực nhìn thấy hoa văn nền giống chiếc túi xưa hắn cất kỹ, hỏi; Triệt đáp «đồ vợ ta thêu, thích thì đi tìm vợ mà đòi» rồi đi, về kể lại cho bạn. Dực lục chiếc túi cũ, thấy hoa văn tương tự nhưng đường thêu khác, và nhờ Kha thêu cho mình một chiếc mang hoa văn ấy. Kha biến sắc nói không làm được, đáp lấp lửng khi hắn hỏi ai dạy nàng; Dực nhận ra nàng nói dối. Hôm sau hắn tới điện Quý Phi, hỏi bạn có biết thêu không, nhìn lư hương; bạn nói «hương ngài ban, thiếp ngày nào cũng dùng». Hắn tái mặt, nói sẽ đổi hương. Bạn phải quyết định đáp lại hắn thế nào.",
       "tieu": "Hắn đang lần theo một sợi chỉ. Ngươi cho hắn kéo, hay cắt ngang?",
       "cast": "d_dao,d_duc,d_triet,tc",
       "ch": [
@@ -3889,7 +3889,7 @@
       "place": "Ngự Thư Phòng và điện Quý Phi · Hai ngày sau",
       "kind": "nan",
       "title": "Chân tướng người cứu",
-      "text": "Hai ngày sau, ám vệ của Dực báo kết quả điều tra. Hắn biết người cứu mình giữa mùa đông năm nào là Giang Tiểu Đào chứ không phải Kha, rồi ngồi lặng một mình trong thư phòng, rơi nước mắt. Cùng lúc đó Triệt tìm ra sự thật và ôm bạn thật chặt: «Hóa ra khi đó người ấy là em. Ta vừa ghen, vừa may, vừa đau». Hắn tự trách vì đã suýt là đồng lõa. Bạn nói bạn chỉ thích hắn, không thích Dực.",
+      "text": "Hai ngày sau, ám vệ của Dực báo kết quả điều tra. Hắn biết người cứu mình giữa mùa đông năm nào là Giang Tiểu Đào chứ không phải Kha, rồi ngồi lặng một mình trong thư phòng, rơi nước mắt. Cùng lúc đó Triệt tìm ra sự thật và ôm bạn thật chặt: «Hóa ra khi đó người ấy là em. Ta vừa ghen, vừa may, vừa đau». Hắn tự trách vì đã suýt là đồng lõa. Bạn nói bạn chỉ thích hắn, không thích Dực. Bạn phải quyết định đáp lại hắn ra sao.",
       "tieu": "Đây là lúc hắn mềm nhất và cũng nguy hiểm nhất. Ghen với một đứa trẻ đã chết đuối nhưng được cứu, rồi hóa thành một người trưởng thành đang ôm ngươi.",
       "cast": "d_dao,d_triet,d_duc,tc",
       "ch": [
@@ -4002,7 +4002,7 @@
       "place": "Điện Quý Phi và cung Hoàng Hậu · Những ngày sau",
       "kind": "duyen",
       "title": "Kho vàng và lệnh cấm túc",
-      "text": "Những ngày sau, Ngô công công khuân từng rương vào điện Quý Phi. Dực ra lệnh mang cả kho vàng, tơ lụa và vật trang trí tới. Phi tần sợ có âm mưu, bạn nói «cứ như thường». Kha nổi nóng tới Ngự Thư Phòng chất vấn; Dực nói hắn nhận nhầm người và ra lệnh cấm túc nàng trong cung vì nàng đang mang thai. Hắn tới nói với bạn «trẫm sẽ che chở ngươi»; bạn đáp «đa tạ Hoàng Thượng», giọng lạnh. Dực xin Triệt «cạnh tranh công bằng»; Triệt từ chối thẳng.",
+      "text": "Những ngày sau, Ngô công công khuân từng rương vào điện Quý Phi. Dực ra lệnh mang cả kho vàng, tơ lụa và vật trang trí tới. Phi tần sợ có âm mưu, bạn nói «cứ như thường». Kha nổi nóng tới Ngự Thư Phòng chất vấn; Dực nói hắn nhận nhầm người và ra lệnh cấm túc nàng trong cung vì nàng đang mang thai. Hắn tới nói với bạn «trẫm sẽ che chở ngươi»; bạn đáp «đa tạ Hoàng Thượng», giọng lạnh. Dực xin Triệt «cạnh tranh công bằng»; Triệt từ chối thẳng. Bạn phải quyết định xử lý kho vàng này thế nào.",
       "tieu": "Hắn muốn đền bù bằng của cải. Ngươi cất cho cha hay chia cho phi tần, đều là một câu trả lời.",
       "cast": "d_dao,d_duc,d_ngo,d_kha,tc",
       "ch": [
@@ -4093,7 +4093,7 @@
       "place": "Điện Quý Phi · Buổi trưa vài ngày sau",
       "kind": "hiem",
       "title": "Hoàng Hậu đến điện Quý Phi",
-      "text": "Buổi trưa vài ngày sau, Kha trốn lệnh cấm túc cùng Cảnh Thải Linh tới điện Quý Phi. Thu Quyên và Thu Hòa đứng ở cửa. Kha vạch trước mặt bạn hai điều: Ninh Thần Hương làm hại bạn, và người ban ngày với người ban đêm không phải một người. Dực chạy tới ngăn. Kha nói mẹ nàng đã xuất gia, nhà Kha đã đẩy nàng vào chỗ này, nay nàng không còn gì để mất. Bạn bình tĩnh nói: «Ta biết hương hại người, ta biết hai người khác nhau từ đêm đầu tiên». Kha sững sờ.",
+      "text": "Buổi trưa vài ngày sau, Kha trốn lệnh cấm túc cùng Cảnh Thải Linh tới điện Quý Phi. Thu Quyên và Thu Hòa đứng ở cửa. Kha vạch trước mặt bạn hai điều: Ninh Thần Hương làm hại bạn, và người ban ngày với người ban đêm không phải một người. Dực chạy tới ngăn. Kha nói mẹ nàng đã xuất gia, nhà Kha đã đẩy nàng vào chỗ này, nay nàng không còn gì để mất. Bạn bình tĩnh nói: «Ta biết hương hại người, ta biết hai người khác nhau từ đêm đầu tiên». Kha sững sờ. Bạn phải quyết định nói với Kha bao nhiêu.",
       "tieu": "Nàng đã bước tới vực thẳm. Ngươi nói hết, hay chừa một đường lui cho nàng?",
       "cast": "d_dao,d_kha,d_canh,d_duc,tc",
       "ch": [
@@ -4183,7 +4183,7 @@
       "place": "Giữa điện Quý Phi · Cùng buổi trưa",
       "kind": "chon",
       "title": "Công bố Mộ Dung Triệt",
-      "text": "Cùng buổi trưa, giữa điện có Dực, Kha, Cảnh Thải Linh, Thu Quyên và Thu Hòa. Bạn tuyên bố: «Người ở bên ta mỗi đêm là Mộ Dung Triệt. Ta rất hài lòng, từ nay hắn là người của ta». Triệt bước ra từ sau bình phong, hôn lên mu bàn tay bạn, đứng sát bên. Dực van xin một cơ hội; bạn nói: «Anh đưa người khác tới bên ta, rồi lại vu cho cha ta thông địch». Kha ngất đi, Cảnh Thải Linh đỡ nàng về. Dực loạng choạng rời đi.",
+      "text": "Cùng buổi trưa, giữa điện có Dực, Kha, Cảnh Thải Linh, Thu Quyên và Thu Hòa. Bạn tuyên bố: «Người ở bên ta mỗi đêm là Mộ Dung Triệt. Ta rất hài lòng, từ nay hắn là người của ta». Triệt bước ra từ sau bình phong, hôn lên mu bàn tay bạn, đứng sát bên. Dực van xin một cơ hội; bạn nói: «Anh đưa người khác tới bên ta, rồi lại vu cho cha ta thông địch». Kha ngất đi, Cảnh Thải Linh đỡ nàng về. Dực loạng choạng rời đi. Bạn phải quyết định nói với Dực nặng hay nhẹ.",
       "tieu": "Lời đã nói ra thì không rút lại được. Nặng hay nhẹ, hắn cũng đang nghe.",
       "cast": "d_dao,d_triet,d_duc,d_kha,d_canh,tc",
       "ch": [
@@ -4275,7 +4275,7 @@
       "place": "Ngự Hoa Viên · Chiều và ngày hôm sau",
       "kind": "duyen",
       "title": "Dạo Ngự Hoa Viên và tin lan",
-      "text": "Chiều và sáng hôm sau, Triệt cõng bạn đi dạo Ngự Hoa Viên công khai, hái hoa cài tóc. Các phi tần chạy tới; bạn giới thiệu «Mộ Dung Triệt, anh trai Dực, món quà vua tặng ta». Họ sợ rồi cảm thán, khuyên bạn cùng Triệt bỏ đi; bạn từ chối vì ở lại cung ăn ngon hơn. Tiểu Châu báo: Kha tìm Dực nói «chàng không xứng được yêu thuần túy». Tin lan ra kinh thành, các đại thần bàn cách xử tử bạn.",
+      "text": "Chiều và sáng hôm sau, Triệt cõng bạn đi dạo Ngự Hoa Viên công khai, hái hoa cài tóc. Các phi tần chạy tới; bạn giới thiệu «Mộ Dung Triệt, anh trai Dực, món quà vua tặng ta». Họ sợ rồi cảm thán, khuyên bạn cùng Triệt bỏ đi; bạn từ chối vì ở lại cung ăn ngon hơn. Tiểu Châu báo: Kha tìm Dực nói «chàng không xứng được yêu thuần túy». Tin lan ra kinh thành, các đại thần bàn cách xử tử bạn. Bạn phải quyết định xử lý tin lan này ra sao.",
       "tieu": "Ngươi vừa đặt cả cung vào một canh bạc. Mời các phi ở lại xem, hay bảo họ về trước khi chuyện nổ?",
       "cast": "d_dao,d_triet,d_tay,d_quan,d_ngu,d_chu,tc",
       "ch": [
@@ -4455,7 +4455,7 @@
       "place": "Tường thành · Giữa trưa",
       "kind": "nan",
       "title": "Trên tường thành",
-      "text": "Giữa trưa, bạn đứng trên tường thành, Triệt đứng cạnh. Đám đông phía dưới mắng bạn hành xử không đứng đắn, đòi bạn nhận tội và nói bạn làm nhục Giang gia. Triệt nắm chặt kiếm, suýt nhảy xuống đánh; bạn giữ tay hắn. Tiểu Châu báo: hắn nghe từng câu chửi và không phân biệt nổi đâu là lời, đâu là đòn.",
+      "text": "Giữa trưa, bạn đứng trên tường thành, Triệt đứng cạnh. Đám đông phía dưới mắng bạn hành xử không đứng đắn, đòi bạn nhận tội và nói bạn làm nhục Giang gia. Triệt nắm chặt kiếm, suýt nhảy xuống đánh; bạn giữ tay hắn. Tiểu Châu báo: hắn nghe từng câu chửi và không phân biệt nổi đâu là lời, đâu là đòn. Bạn phải quyết định làm gì trên tường thành này.",
       "tieu": "Mỗi lời chửi thấm vào hắn như một nhát dao. Giữ hắn chặt thì hắn nghẹt, buông thì hắn lao xuống.",
       "cast": "d_dao,d_triet,tc",
       "ch": [
@@ -4569,7 +4569,7 @@
       "place": "Tường thành · Ngay sau đó",
       "kind": "chon",
       "title": "Lời đáp trên tường thành",
-      "text": "Ngay sau đó, Dực lên tường thành đứng cạnh bạn. Bạn cười đáp từng câu: khuyên người đọc sách đọc thêm kiến thức trước khi mắng người khác, rồi vung nhuyễn kiếm chém vỡ một góc đá trên tường để họ thấy mình từng giết thích khách, và nói thẳng: người bên bạn là Triệt, và chính Dực đã đưa hắn tới. Dực không phản bác. Quan thần chết lặng, vài vị già ngất.",
+      "text": "Ngay sau đó, Dực lên tường thành đứng cạnh bạn. Bạn cười đáp từng câu: khuyên người đọc sách đọc thêm kiến thức trước khi mắng người khác, rồi vung nhuyễn kiếm chém vỡ một góc đá trên tường để họ thấy mình từng giết thích khách, và nói thẳng: người bên bạn là Triệt, và chính Dực đã đưa hắn tới. Dực không phản bác. Quan thần chết lặng, vài vị già ngất. Bạn phải quyết định nói bao nhiêu trước mặt quan thần.",
       "tieu": "Cả kinh thành đang nghe một người phụ nữ nói thật. Ngươi nói hết chuyện vu cha, hay giữ lại một đường lui?",
       "cast": "d_dao,d_duc,d_triet,d_au,tc",
       "ch": [
@@ -4754,7 +4754,7 @@
       "place": "Lầu Quý Phi và Giang thành · Nhiều tháng sau",
       "kind": "chon",
       "title": "Lầu Quý Phi và những người đến cầu cứu",
-      "text": "Nhiều tháng sau, cha dựng Lầu Quý Phi và Giang thành bên ngoài hoàng thành; dân dần thích tới đây mua đồ và xem. Một người phụ nữ bị chồng cờ bạc bóc lột, đuổi ra khỏi nhà, quỳ trước xe xin bạn giúp hòa ly. Bạn giúp vì thấy chị ta muốn tự đứng lên. Người đến sau nhiều hơn, bạn chỉ giúp ai thật sự cố gắng. Nhiều phụ nữ trong kinh thành bắt đầu đứng thẳng hơn.",
+      "text": "Nhiều tháng sau, cha dựng Lầu Quý Phi và Giang thành bên ngoài hoàng thành; dân dần thích tới đây mua đồ và xem. Một người phụ nữ bị chồng cờ bạc bóc lột, đuổi ra khỏi nhà, quỳ trước xe xin bạn giúp hòa ly. Bạn giúp vì thấy chị ta muốn tự đứng lên. Người đến sau nhiều hơn, bạn chỉ giúp ai thật sự cố gắng. Nhiều phụ nữ trong kinh thành bắt đầu đứng thẳng hơn. Bạn phải quyết định giúp những người cầu cứu ra sao.",
       "tieu": "Ngươi đã đủ mạnh để giúp. Giúp tất cả hay chỉ người có chí là chuyện lòng ngươi chọn.",
       "cast": "d_dao,d_cha,d_triet,tc",
       "ch": [
@@ -4845,7 +4845,7 @@
       "place": "Ngự Hoa Viên · Nhiều năm sau",
       "kind": "nan",
       "title": "Thái tử, lời từ biệt và lời kết",
-      "text": "Nhiều năm sau, ở Ngự Hoa Viên, Thái tử Mộ Dung Thuần, con trai Dực và Kha, đã tám tuổi. Cậu bé đứng nhìn bạn và Triệt từ xa, hỏi mẹ vì sao nữ tử không được làm quan; Kha rơi nước mắt dặn con phải thương người. Chân bạn ngày một yếu. Bạn nói với Triệt: «Ta muốn về Giang thành», hắn bế bạn lên xe. Các phi tần chạy lên tường thành vẫy chào; bạn hứa Giang thành sẽ rút quân, không gây hại cho ai. Dực thoái vị nhường ngôi cho Thái tử, giữ chiếc túi bạn từng thêu. Đêm cuối, Triệt hỏi bạn có hối hận không.",
+      "text": "Nhiều năm sau, ở Ngự Hoa Viên, Thái tử Mộ Dung Thuần, con trai Dực và Kha, đã tám tuổi. Cậu bé đứng nhìn bạn và Triệt từ xa, hỏi mẹ vì sao nữ tử không được làm quan; Kha rơi nước mắt dặn con phải thương người. Chân bạn ngày một yếu. Bạn nói với Triệt: «Ta muốn về Giang thành», hắn bế bạn lên xe. Các phi tần chạy lên tường thành vẫy chào; bạn hứa Giang thành sẽ rút quân, không gây hại cho ai. Dực thoái vị nhường ngôi cho Thái tử, giữ chiếc túi bạn từng thêu. Đêm cuối, Triệt hỏi bạn có hối hận không. Bạn phải quyết định trả lời hắn thế nào.",
       "tieu": "Đây là mốc cuối. Hắn hỏi em có hối hận không. Câu trả lời của ngươi quyết định hắn có thôi canh chừng ngươi hay không.",
       "cast": "d_dao,d_triet,d_thuan,d_kha,tc",
       "ch": [

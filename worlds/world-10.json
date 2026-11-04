@@ -125,7 +125,7 @@
       "place": "Rừng núi ngoài kinh thành Ninh An · Chiều tối",
       "kind": "duyen",
       "title": "Tỉnh dậy giữa lúc chạy yêu thú",
-      "text": "Mở mắt trên nền đất ẩm, mắt cá sưng đau. Phía trước, đoàn rèn luyện nhà Phù đang bỏ chạy khỏi một bầy yêu thú, không ai ngoái lại tìm bạn. Ký ức nguyên chủ ùa vào đầu: Tư Vi, 18 tuổi, đích nữ nhà Phù, thiên phú luyện đan tốt nhưng bị cha mẹ bỏ rơi; nếu cứ thế, bạn sẽ bị phế tu vi rồi bị gả đi làm người luyện đan không công. Kẻ đứng sau là người em cùng cha khác mẹ Phù Mộ Dao, đã trọng sinh và cướp mất Hồi Xuân Hoa trước bạn. Còn vị hôn phu cũ Doãn Hiên Dật, tiểu vương gia 20 tuổi, từng trốn bạn suốt mười năm.",
+      "text": "Mở mắt trên nền đất ẩm, mắt cá sưng đau. Phía trước, đoàn rèn luyện nhà Phù đang bỏ chạy khỏi một bầy yêu thú, không ai ngoái lại tìm bạn. Ký ức nguyên chủ ùa vào đầu: Tư Vi, 18 tuổi, đích nữ nhà Phù, thiên phú luyện đan tốt nhưng bị cha mẹ bỏ rơi; nếu cứ thế, bạn sẽ bị phế tu vi rồi bị gả đi làm người luyện đan không công. Kẻ đứng sau là người em cùng cha khác mẹ Phù Mộ Dao, đã trọng sinh và cướp mất Hồi Xuân Hoa trước bạn. Còn vị hôn phu cũ Doãn Hiên Dật, tiểu vương gia 20 tuổi, từng trốn bạn suốt mười năm. Bạn phải quyết định làm gì trước khi bầy yêu thú tới gần.",
       "tieu": "Dậy rồi hả? Nghe ta nhanh đây, yêu thú còn vài chục bước. Người ngươi phải cứu là Hiên Dật, nhưng việc trước mắt là giữ cái mạng của ngươi.",
       "cast": "qv,qm,qh,tc",
       "ch": [
@@ -335,7 +335,7 @@
       "place": "Đường về Ninh An · Sáng sớm",
       "kind": "chon",
       "title": "Hiên Dật xin đi nhờ xe",
-      "text": "Sáng sớm, trên đường về Ninh An, bạn thuê một cỗ xe ngựa. Một thiếu niên áo gấm chặn xe, nói ngựa của hắn chết giữa đường, xin đi nhờ một đoạn. Hắn cười, nhìn bạn bằng ánh mắt ranh mãnh, trêu «tú sắc khả xan». Tiểu Châu thì thào: đó chính là Doãn Hiên Dật, tiểu vương gia, vị hôn phu cũ từng trốn bạn suốt mười năm, và hắn không nhận ra bạn.",
+      "text": "Sáng sớm, trên đường về Ninh An, bạn thuê một cỗ xe ngựa. Một thiếu niên áo gấm chặn xe, nói ngựa của hắn chết giữa đường, xin đi nhờ một đoạn. Hắn cười, nhìn bạn bằng ánh mắt ranh mãnh, trêu «tú sắc khả xan». Tiểu Châu thì thào: đó chính là Doãn Hiên Dật, tiểu vương gia, vị hôn phu cũ từng trốn bạn suốt mười năm, và hắn không nhận ra bạn. Bạn phải quyết định đáp lại hắn thế nào.",
       "tieu": "Đây là hắn đấy, kẻ cần được cảm hóa. Hắn tưởng cô là người xa lạ. Muốn biết hắn nghĩ gì thì cứ nói chuyện, nhưng nói cho khôn.",
       "cast": "qv,qh,tc",
       "ch": [
@@ -412,7 +412,7 @@
       "place": "Cổng kinh thành Ninh An · Ba ngày sau",
       "kind": "nan",
       "title": "Hắn đi theo xe, kinh thành đồn đại",
-      "text": "Ba ngày sau, xe đến cổng kinh thành Ninh An. Dân phố bàn tán xôn xao về nhà Phù: đại tiểu thư biến mất, Phù phủ lại giấu chuyện Mộ Dao bị trọng thương. Người ta đồn bạn chết ngoài thành, hoặc trốn đi vì không chịu nổi chuyện. Hiên Dật vẫn còn đi theo xe dù bị từ chối, vì hắn tò mò vì sao bạn nhắc đến hôn ước bằng giọng nhẹ như gió thoảng.",
+      "text": "Ba ngày sau, xe đến cổng kinh thành Ninh An. Dân phố bàn tán xôn xao về nhà Phù: đại tiểu thư biến mất, Phù phủ lại giấu chuyện Mộ Dao bị trọng thương. Người ta đồn bạn chết ngoài thành, hoặc trốn đi vì không chịu nổi chuyện. Hiên Dật vẫn còn đi theo xe dù bị từ chối, vì hắn tò mò vì sao bạn nhắc đến hôn ước bằng giọng nhẹ như gió thoảng. Bạn phải quyết định xử lý hắn và đám tin đồn ra sao.",
       "tieu": "Tin đồn đầy kinh thành rồi. Đừng bực mình, ghi lại xem ai đang đổ nước bẩn lên ngươi.",
       "cast": "qv,qh,tc",
       "ch": [
@@ -485,7 +485,7 @@
       "place": "Sảnh Phù phủ · Chiều muộn",
       "kind": "chon",
       "title": "Về phủ, Diêu di nương đối đầu",
-      "text": "Người hầu ở Phù phủ hoảng hồn như gặp ma khi bạn bước vào sảnh. Trên ghế chủ mẫu là một phụ nhân trang điểm như chính thất: Diêu Tố Nga, thị thiếp được cha sủng ái, mẹ ruột của Phù Mộ Dao. Bà trách bạn «chạy loạn làm Mộ Dao lo». Tiểu Châu nhắc: Mộ Dao là người em trọng sinh, người đã cướp cơ duyên của bạn.",
+      "text": "Người hầu ở Phù phủ hoảng hồn như gặp ma khi bạn bước vào sảnh. Trên ghế chủ mẫu là một phụ nhân trang điểm như chính thất: Diêu Tố Nga, thị thiếp được cha sủng ái, mẹ ruột của Phù Mộ Dao. Bà trách bạn «chạy loạn làm Mộ Dao lo». Tiểu Châu nhắc: Mộ Dao là người em trọng sinh, người đã cướp cơ duyên của bạn. Bạn phải quyết định đối đáp với bà ta thế nào.",
       "tieu": "Bà ta mặc áo chủ mẫu đấy, để ý đi. Đừng nổi nóng, hỏi những câu khiến bà ta tự lộ ra.",
       "cast": "qv,qd,qm,tc",
       "ch": [
@@ -620,7 +620,7 @@
       "place": "Thiên điện hoàng cung · Sáng hôm sau",
       "kind": "chon",
       "title": "Từ hôn trong cung",
-      "text": "Sáng hôm sau, bạn vào thiên điện hoàng cung. Hoàng đế Doãn Vĩnh Trác, anh ruột của Hiên Dật, ngồi trên ghế rồng, hỏi bạn vì sao muốn từ hôn. Hiên Dật đứng cạnh, vẻ mặt hờ hững. Bạn nói thẳng rằng hắn không thích bạn thì bạn cũng không đuổi theo nữa. Hiên Dật khựng lại, nhận ra bạn nói thật.",
+      "text": "Sáng hôm sau, bạn vào thiên điện hoàng cung. Hoàng đế Doãn Vĩnh Trác, anh ruột của Hiên Dật, ngồi trên ghế rồng, hỏi bạn vì sao muốn từ hôn. Hiên Dật đứng cạnh, vẻ mặt hờ hững. Bạn nói thẳng rằng hắn không thích bạn thì bạn cũng không đuổi theo nữa. Hiên Dật khựng lại, nhận ra bạn nói thật. Bạn phải quyết định đáp lại hắn ra sao.",
       "tieu": "Hoàng đế đấy, nói năng cho cẩn thận. Nhưng chuyện này ngươi đúng, nói thật thì hợp nhất.",
       "cast": "qv,qh,qt,tc",
       "ch": [
@@ -701,7 +701,7 @@
       "place": "Viện của Hạ Vân Khanh · Chiều",
       "kind": "nan",
       "title": "Mẹ lạnh nhạt",
-      "text": "Chiều đó, bạn ghé viện của mẹ, Hạ Vân Khanh, người vừa nghe tin hôn ước bị hủy. Bà không hỏi bạn có bị thương hay không, chỉ trách: «Con thua Mộ Dao nên mới bị hắn bỏ. Không biết tiến thủ.» Nỗi đau cũ của nguyên chủ chợt dội về, nhưng bạn tự trấn tĩnh. Hai chuyện còn dở: Mộ Dao đã đi trước một bước, và ánh mắt Hiên Dật khi bạn rời cung.",
+      "text": "Chiều đó, bạn ghé viện của mẹ, Hạ Vân Khanh, người vừa nghe tin hôn ước bị hủy. Bà không hỏi bạn có bị thương hay không, chỉ trách: «Con thua Mộ Dao nên mới bị hắn bỏ. Không biết tiến thủ.» Nỗi đau cũ của nguyên chủ chợt dội về, nhưng bạn tự trấn tĩnh. Hai chuyện còn dở: Mộ Dao đã đi trước một bước, và ánh mắt Hiên Dật khi bạn rời cung. Bạn phải quyết định đối diện với mẹ thế nào.",
       "tieu": "Mẹ ngươi chưa bao giờ nghe ngươi nói. Cú đau này là của nguyên chủ, đừng nhận hết về mình. Mốc này khó, ta ở đây.",
       "cast": "qv,qk,tc",
       "ch": [
@@ -770,7 +770,7 @@
       "place": "Phố Ninh An · Vài ngày sau",
       "kind": "chon",
       "title": "Lời đồn và Hiên Dật bênh vực",
-      "text": "Vài ngày sau, dân phố Ninh An bàn tán đủ điều: bạn hại đại tiểu thư rồi bỏ trốn, hoặc bạn bị bỏ vì tính xấu. Hiên Dật nghe thấy, nổi giận, tuyên bố ngay giữa đám đông rằng chính bạn là người từ hôn, bắt những kẻ đồn bậy phải đính chính. Dân phố sững sờ. Bạn đứng ở góc quán trà, nhìn hắn bênh vực mình.",
+      "text": "Vài ngày sau, dân phố Ninh An bàn tán đủ điều: bạn hại đại tiểu thư rồi bỏ trốn, hoặc bạn bị bỏ vì tính xấu. Hiên Dật nghe thấy, nổi giận, tuyên bố ngay giữa đám đông rằng chính bạn là người từ hôn, bắt những kẻ đồn bậy phải đính chính. Dân phố sững sờ. Bạn đứng ở góc quán trà, nhìn hắn bênh vực mình. Bạn phải quyết định xử lý lời đồn này ra sao.",
       "tieu": "Hắn tự đứng ra bênh ngươi đấy. Muốn để hắn lo, tự lo, hay mặc kệ đều được. Mỗi cách một giá.",
       "cast": "qv,qh,tc",
       "ch": [
@@ -846,7 +846,7 @@
       "place": "Cửa viện của bạn · Nhiều ngày liền",
       "kind": "duyen",
       "title": "Quà bồi thường",
-      "text": "Mấy ngày liền, Hiên Dật mang quà tới cửa viện của bạn: đan dược, ngọc dịch và bộ áo phòng ngự. Hắn nghe hoàng đế kể rõ hoàn cảnh nhà Phù nên áy náy, hứa sẽ che chở bạn như một người biểu ca. Bạn nhận quà nhưng không quên nhắc hắn nhớ lời hứa hôm nay. Tiểu Châu nhẹ nhàng ghi thêm chỉ số vào hồ sơ.",
+      "text": "Mấy ngày liền, Hiên Dật mang quà tới cửa viện của bạn: đan dược, ngọc dịch và bộ áo phòng ngự. Hắn nghe hoàng đế kể rõ hoàn cảnh nhà Phù nên áy náy, hứa sẽ che chở bạn như một người biểu ca. Bạn nhận quà nhưng không quên nhắc hắn nhớ lời hứa hôm nay. Tiểu Châu nhẹ nhàng ghi thêm chỉ số vào hồ sơ. Bạn phải quyết định nhận món quà này theo cách nào.",
       "tieu": "Hắn áy náy thật rồi đấy. Nhận quà không sao, nhưng cân nhắc kẻo mang nợ.",
       "cast": "qv,qh,tc",
       "ch": [
@@ -923,7 +923,7 @@
       "place": "Sảnh Phù phủ · Trưa",
       "kind": "hiem",
       "title": "Thất hoàng tử tới phủ",
-      "text": "Một buổi trưa, Thất hoàng tử Doãn Cảnh Dục đến thăm Mộ Dao. Cha và Diêu di nương cũng có mặt trong sảnh. Bạn bước vào, hỏi thẳng ai đã vướng chân mình lúc ở trong rừng. Mộ Dao chối, Cảnh Dục bênh nàng và đòi bạn nhường Hồi Xuân Hoa. Đúng lúc đó, Hiên Dật bước vào, đặt Hàn Sương Tiên Chi trước mặt bạn. Cả sảnh nín lặng.",
+      "text": "Một buổi trưa, Thất hoàng tử Doãn Cảnh Dục đến thăm Mộ Dao. Cha và Diêu di nương cũng có mặt trong sảnh. Bạn bước vào, hỏi thẳng ai đã vướng chân mình lúc ở trong rừng. Mộ Dao chối, Cảnh Dục bênh nàng và đòi bạn nhường Hồi Xuân Hoa. Đúng lúc đó, Hiên Dật bước vào, đặt Hàn Sương Tiên Chi trước mặt bạn. Cả sảnh nín lặng. Cả sảnh đang nín lặng, và bạn phải quyết định xử lý ra sao.",
       "tieu": "Thất hoàng tử là người của Mộ Dao, nhớ lấy. Hiên Dật đặt linh dược trước mặt ngươi giữa sảnh, hắn đang ra mặt thay ngươi đấy.",
       "cast": "qv,qm,qs,qh,qd,qc,tc",
       "ch": [
@@ -1002,7 +1002,7 @@
       "place": "Viện của bạn · Hôm sau",
       "kind": "duyen",
       "title": "Hẹn đại hội luyện dược",
-      "text": "Hôm sau, Mộ Dao hỏi bạn có dự đại hội luyện dược ba ngày nữa hay không; giải nhất là một đan lô. Bạn đáp: «Đệ nhất sẽ là tôi.» Hiên Dật mang dược liệu cao cấp tới giúp bạn tập luyện. Bạn thử luyện hai lò đan trong viện, tập cách điều lửa cho đều tay. Tiểu Châu nhắc: kỹ năng này sẽ theo bạn đến cuối.",
+      "text": "Hôm sau, Mộ Dao hỏi bạn có dự đại hội luyện dược ba ngày nữa hay không; giải nhất là một đan lô. Bạn đáp: «Đệ nhất sẽ là tôi.» Hiên Dật mang dược liệu cao cấp tới giúp bạn tập luyện. Bạn thử luyện hai lò đan trong viện, tập cách điều lửa cho đều tay. Tiểu Châu nhắc: kỹ năng này sẽ theo bạn đến cuối. Bạn phải quyết định chuẩn bị cho đại hội theo cách nào.",
       "tieu": "Điều lửa là nền của luyện đan. Học cho kỹ, sau này khỏi bị lò phản.",
       "cast": "qv,qm,qh,tc",
       "ch": [
@@ -1087,7 +1087,7 @@
       "place": "Sân đại hội luyện dược Ninh An · Sáng",
       "kind": "hiem",
       "title": "Vòng một và vòng hai",
-      "text": "Sáng hôm thi, hơn trăm người dự thi tụ họp ở sân đại hội, ba vị giám khảo ngồi trên cao. Mộ Dao cũng dự thi, ánh mắt nhìn bạn đầy khiêu khích. Vòng một, bạn luyện ba lò đều thành. Mộ Dao hỏng một lò vì giật mình. Vòng hai, bạn luyện thành hai lò nữa, còn Mộ Dao nổ lò, bị đồn thất thế.",
+      "text": "Sáng hôm thi, hơn trăm người dự thi tụ họp ở sân đại hội, ba vị giám khảo ngồi trên cao. Mộ Dao cũng dự thi, ánh mắt nhìn bạn đầy khiêu khích. Vòng một phải luyện ba lò, vòng hai thêm hai lò nữa, và bạn phải chọn cách vượt qua cả hai vòng.",
       "tieu": "Sân đấu hơn trăm người đấy, giữ tay vững. Đừng để Mộ Dao làm ngươi phân tâm.",
       "cast": "qv,qm,tc",
       "ch": [
@@ -1171,7 +1171,7 @@
       "place": "Sân đại hội · Cuối ngày thi",
       "kind": "chon",
       "title": "Vòng ba: Dưỡng Hồn Đan",
-      "text": "Cuối ngày, chín người còn lại bốc thăm đề cho vòng ba. Ngọc bài của bạn bị Cảnh Dục nhờ người đổi sang đề khó nhất: Dưỡng Hồn Đan. Lò rung lên nửa canh giờ làm cả sân tưởng sắp nổ. Bạn phải chọn: giữ nhịp, làm dịu lò hay dừng chờ lò lặng. Cuối cùng đan thành, giám khảo hô lên. Bạn thắng.",
+      "text": "Cuối ngày, chín người còn lại bốc thăm đề cho vòng ba. Ngọc bài của bạn bị Cảnh Dục nhờ người đổi sang đề khó nhất: Dưỡng Hồn Đan. Lò rung lên nửa canh giờ làm cả sân tưởng sắp nổ. Bạn phải chọn: giữ nhịp, làm dịu lò hay dừng chờ lò lặng.",
       "tieu": "Cảnh Dục đổi đề của ngươi đấy, ta thấy rõ. Lò sắp nổ, quyết đi, nhưng phối phương mới là chìa khóa.",
       "cast": "qv,qs,tc",
       "ch": [
@@ -1261,7 +1261,7 @@
       "place": "Hậu đài sân đại hội · Sau khi thi",
       "kind": "hiem",
       "title": "Đan lô là Thần Khí",
-      "text": "Sau đại hội, ở hậu đài, giám khảo trao giải nhất là một chiếc đan lô cổ. Bạn nhận ra ngay: đó không phải đan lô thường mà là Thần Khí. Mộ Dao, Cảnh Dục và Hiên Dật có mặt. Cảnh Dục lập tức đề nghị đổi một đan lô cực phẩm cùng nhiều điều kiện, nghe như cướp. Hiên Dật chặn ngay trước cả hậu đài.",
+      "text": "Sau đại hội, ở hậu đài, giám khảo trao giải nhất là một chiếc đan lô cổ. Bạn nhận ra ngay: đó không phải đan lô thường mà là Thần Khí. Mộ Dao, Cảnh Dục và Hiên Dật có mặt. Cảnh Dục lập tức đề nghị đổi một đan lô cực phẩm cùng nhiều điều kiện, nghe như cướp. Hiên Dật chặn ngay trước cả hậu đài. Bạn phải quyết định đáp lại lời đề nghị này thế nào.",
       "tieu": "Thần Khí đấy! Mọi người đang nhìn chằm chằm vào nó. Kiểm tra cho chắc rồi hãy quyết, đừng để bị lừa bằng giọng ngọt.",
       "cast": "qv,qs,qm,qh,tc",
       "ch": [
@@ -1510,7 +1510,7 @@
       "place": "Thư phòng của Phù Chính Hoằng · Tối cùng ngày",
       "kind": "nan",
       "title": "Hôn sự hầu phủ",
-      "text": "Tối cùng ngày, bạn đi ngang thư phòng cha, nghe qua cửa sổ tiếng Diêu di nương: «Gả cô ta cho Giang Tụng, nhị công tử hầu phủ Trấn Viễn họ Giang.» Bà nói hắn tiếng là ôn nhu nhưng hay bắt nạt người yếu thế dựa vào quyền thế. Thật ra hầu phủ cần một người luyện đan giỏi để giữ bạn trọn đời, và họ hứa tiền cho Diêu di nương. Cha bạn đồng ý ngay.",
+      "text": "Tối cùng ngày, bạn đi ngang thư phòng cha, nghe qua cửa sổ tiếng Diêu di nương: «Gả cô ta cho Giang Tụng, nhị công tử hầu phủ Trấn Viễn họ Giang.» Bà nói hắn tiếng là ôn nhu nhưng hay bắt nạt người yếu thế dựa vào quyền thế. Thật ra hầu phủ cần một người luyện đan giỏi để giữ bạn trọn đời, và họ hứa tiền cho Diêu di nương. Cha bạn đồng ý ngay. Bạn phải quyết định xử lý tin này ra sao.",
       "tieu": "Họ bán ngươi đấy. Thư hứa tiền chắc chắn có, tìm ra thì ngươi có bằng chứng. Nhưng giờ cứ nghe cho đủ đã.",
       "cast": "qv,qd,qc,qg,tc",
       "ch": [
@@ -1656,7 +1656,7 @@
       "place": "Vườn viện của bạn · Sáng",
       "kind": "chon",
       "title": "Lời tỏ tình bị từ chối",
-      "text": "Sáng hôm sau, Hiên Dật đứng chờ ngoài vườn viện bạn cả đêm vì đã nghe chuyện hôn sự hầu phủ. Hắn nói thẳng: hắn hối hận, hắn xin nối lại hôn ước. Bạn từ chối: «Tôi mang thù, tôi không ăn cỏ quay đầu.» Hắn đáp, mắt đỏ lên: «Vậy ta cố gắng tiếp.» Tiểu Châu im lặng, rồi thì thầm: đây là chỗ then chốt của hắn.",
+      "text": "Sáng hôm sau, Hiên Dật đứng chờ ngoài vườn viện bạn cả đêm vì đã nghe chuyện hôn sự hầu phủ. Hắn nói thẳng: hắn hối hận, hắn xin nối lại hôn ước. Bạn từ chối: «Tôi mang thù, tôi không ăn cỏ quay đầu.» Hắn đáp, mắt đỏ lên: «Vậy ta cố gắng tiếp.» Tiểu Châu im lặng, rồi thì thầm: đây là chỗ then chốt của hắn. Bạn phải quyết định đáp lại hắn thế nào.",
       "tieu": "Đây là mốc quan trọng. Hắn nói thật, ngươi cũng nói thật, và nói cho cẩn thận. Hắn đứng cả đêm đấy.",
       "cast": "qv,qh,tc",
       "ch": [
@@ -1734,7 +1734,7 @@
       "place": "Cổng viện của bạn · Sáng hôm sau",
       "kind": "chon",
       "title": "Mộ Dao đòi lục soát sân",
-      "text": "Sáng hôm sau, Diêu di nương phát hiện thư mất và nghi bạn, bèn sai Mộ Dao dẫn người tới cổng viện đòi lục soát. Hàng xóm đứng nghe. Bạn không cho vào: bạn là đích nữ, không ai có quyền lục soát viện của bạn. Bạn hỏi lại: mấy tháng trước, ai vướng chân mình? Mộ Dao nhìn Hiên Dật rồi nhượng bộ, hứa sẽ trả lời.",
+      "text": "Sáng hôm sau, Diêu di nương phát hiện thư mất và nghi bạn, bèn sai Mộ Dao dẫn người tới cổng viện đòi lục soát. Hàng xóm đứng nghe. Bạn không cho vào: bạn là đích nữ, không ai có quyền lục soát viện của bạn. Bạn hỏi lại: mấy tháng trước, ai vướng chân mình? Mộ Dao nhìn Hiên Dật rồi nhượng bộ, hứa sẽ trả lời. Bạn phải quyết định xử lý cuộc lục soát này thế nào.",
       "tieu": "Người đứng nghe đông lắm, nói trước đám đông thì phải có lý. Mộ Dao đang sợ đấy.",
       "cast": "qv,qm,qd,qh,tc",
       "ch": [
@@ -1818,7 +1818,7 @@
       "place": "Cổng viện của bạn · Cùng lúc",
       "kind": "nan",
       "title": "Lời khai về Hạ Linh Lung",
-      "text": "Mộ Dao nhìn đám hàng xóm, rồi bất ngờ khai: người vướng chân là Hạ Linh Lung, chị họ bên ngoại của hai người. Tin lan khắp kinh thành trong buổi trưa; Linh Lung bị chỉ trích dữ dội. Anh họ Hạ Thừa Phong chạy đến cầu tình cho Mộ Dao. Linh Lung thì hiểu mình bị đẩy ra làm bia, bắt đầu hận Mộ Dao.",
+      "text": "Mộ Dao nhìn đám hàng xóm, rồi bất ngờ khai: người vướng chân là Hạ Linh Lung, chị họ bên ngoại của hai người. Tin lan khắp kinh thành trong buổi trưa; Linh Lung bị chỉ trích dữ dội. Anh họ Hạ Thừa Phong chạy đến cầu tình cho Mộ Dao. Linh Lung thì hiểu mình bị đẩy ra làm bia, bắt đầu hận Mộ Dao. Bạn phải quyết định xử lý chuyện của Linh Lung ra sao.",
       "tieu": "Mộ Dao đổ tội cho người khác để thoát thân. Linh Lung là người đã bị đẩy ra làm bia, ghi nhớ cô ấy.",
       "cast": "qv,qm,ql,qp,tc",
       "ch": [
@@ -1895,7 +1895,7 @@
       "place": "Quán trà Ninh An · Hai ngày sau",
       "kind": "duyen",
       "title": "Gia tộc cầu luyện đan",
-      "text": "Hai ngày sau, mấy gia tộc lớn ở Ninh An bắt đầu tránh nhà Hạ và tìm đến cầu bạn luyện đan. Bạn ngồi ở quán trà, nhận linh dược của họ, luyện đủ bộ đan, mỗi lò đều đủ mười viên. Các gia tộc biết ơn, đưa bạn nhà ở riêng nếu muốn dọn đi. Tiểu Châu nhẹ nhàng nói: đó là danh tiếng đầu tiên của bạn.",
+      "text": "Hai ngày sau, mấy gia tộc lớn ở Ninh An bắt đầu tránh nhà Hạ và tìm đến cầu bạn luyện đan. Bạn ngồi ở quán trà, nhận linh dược của họ, luyện đủ bộ đan, mỗi lò đều đủ mười viên. Các gia tộc biết ơn, đưa bạn nhà ở riêng nếu muốn dọn đi. Tiểu Châu nhẹ nhàng nói: đó là danh tiếng đầu tiên của bạn. Bạn phải quyết định nhận sự biết ơn này ra sao.",
       "tieu": "Mười viên một lò! Họ nhớ ơn ngươi đấy. Giữ lấy uy tín này.",
       "cast": "qv,tc",
       "ch": [
@@ -1975,7 +1975,7 @@
       "place": "Từ đường Phù thị · Ba ngày sau",
       "kind": "duyen",
       "title": "Tông tộc ra mặt",
-      "text": "Ba ngày sau, bạn được gọi tới từ đường Phù thị. Tộc trưởng Phù Chấn Sơn đã nghe chuyện cha và Diêu di nương định gả bạn đi. Ông nhìn bạn rất lâu rồi phong bạn làm trưởng lão, cho hai hộ vệ Thanh quân và quyền tự định hôn sự. Cha bị cảnh cáo trước từ đường. Diêu di nương bị phạt ra trang viên ngoại thành.",
+      "text": "Ba ngày sau, bạn được gọi tới từ đường Phù thị. Tộc trưởng Phù Chấn Sơn đã nghe chuyện cha và Diêu di nương định gả bạn đi. Ông nhìn bạn rất lâu rồi phong bạn làm trưởng lão, cho hai hộ vệ Thanh quân và quyền tự định hôn sự. Cha bị cảnh cáo trước từ đường. Diêu di nương bị phạt ra trang viên ngoại thành. Bạn phải quyết định đáp lại quyết định của tông tộc thế nào.",
       "tieu": "Tộc trưởng ra mặt vì ngươi có giá trị. Nhận quyền tự định hôn sự, nó là lá chắn rất tốt.",
       "cast": "qv,qz,qc,qd,tc",
       "ch": [
@@ -2056,7 +2056,7 @@
       "place": "Sân hầu phủ Giang · Tuần sau",
       "kind": "nan",
       "title": "Mộ Dao đẩy ngã công tử hầu phủ",
-      "text": "Tuần sau, cha đưa Mộ Dao sang hầu phủ Giang để ra mắt thay bạn. Giang Tụng chặn đường, ép Mộ Dao đi cùng hắn vào nội viện. Mộ Dao tức giận, đẩy hắn ngã xuống bậc đá. Đan điền của Tụng vỡ. Hầu phủ ầm ĩ, đòi Phù gia bồi thường. Tiểu Châu báo tin này cho bạn qua tiếng thì thầm.",
+      "text": "Tuần sau, cha đưa Mộ Dao sang hầu phủ Giang để ra mắt thay bạn. Giang Tụng chặn đường, ép Mộ Dao đi cùng hắn vào nội viện. Mộ Dao tức giận, đẩy hắn ngã xuống bậc đá. Đan điền của Tụng vỡ. Hầu phủ ầm ĩ, đòi Phù gia bồi thường. Tiểu Châu báo tin này cho bạn qua tiếng thì thầm. Bạn phải quyết định đối phó chuyện hầu phủ ra sao.",
       "tieu": "Chuyện này ngoài tay ngươi, nhưng hậu quả sẽ rơi vào ngươi. Nghe tin trước, nghĩ kỹ rồi mới ra mặt.",
       "cast": "qv,qm,qg,qc,tc",
       "ch": [
@@ -2213,7 +2213,7 @@
       "place": "Hoàng cung · Chiều",
       "kind": "duyen",
       "title": "Vào cung ở",
-      "text": "Chiều, Hiên Dật mời bạn vào cung ở vài hôm cho thanh tĩnh. Hoàng đế Doãn Vĩnh Trác kể rõ hoàn cảnh nhà Phù cho em trai hiểu thêm. Đại tổng quản Nghiêm Nguyên đứng hầu bên cạnh, ánh mắt lặng lẽ. Bạn bày trận phòng thủ quanh viện trong cung. Hiên Dật ngồi canh ngoài cửa mỗi tối, không nói gì.",
+      "text": "Chiều, Hiên Dật mời bạn vào cung ở vài hôm cho thanh tĩnh. Hoàng đế Doãn Vĩnh Trác kể rõ hoàn cảnh nhà Phù cho em trai hiểu thêm. Đại tổng quản Nghiêm Nguyên đứng hầu bên cạnh, ánh mắt lặng lẽ. Bạn bày trận phòng thủ quanh viện trong cung. Hiên Dật ngồi canh ngoài cửa mỗi tối, không nói gì. Bạn phải quyết định xử lý những ngày ở cung này ra sao.",
       "tieu": "Cung là chỗ an toàn nhất, nhưng trận thì tự bày vẫn hơn. Hiên Dật canh cửa mỗi tối đấy, ghi nhớ.",
       "cast": "qv,qh,qt,qn,tc",
       "ch": [
@@ -2297,7 +2297,7 @@
       "place": "Bữa tối trong cung · Hôm sau",
       "kind": "duyen",
       "title": "Chữa vết thương cũ cho đại tổng quản",
-      "text": "Bữa tối hôm sau, đại tổng quản Nghiêm Nguyên ngồi cạnh, thỉnh thoảng đưa tay xoa bụng dưới. Hoàng đế nói ông mang vết thương cũ ở đan điền từ lần chắn đao cho ông. Bạn nói bạn có thể chữa. Hoàng đế hứa đáp mọi yêu cầu của bạn. Bạn chỉ nhờ họ giúp loan tin sau khi thành công. Nghiêm Nguyên bình phục, được phong tước.",
+      "text": "Bữa tối hôm sau, đại tổng quản Nghiêm Nguyên ngồi cạnh, thỉnh thoảng đưa tay xoa bụng dưới. Hoàng đế nói ông mang vết thương cũ ở đan điền từ lần chắn đao cho ông. Bạn nói bạn có thể chữa. Hoàng đế hứa đáp mọi yêu cầu của bạn. Bạn chỉ nhờ họ giúp loan tin sau khi thành công. Nghiêm Nguyên bình phục, được phong tước. Bạn phải quyết định xử lý lời đề nghị của hoàng đế thế nào.",
       "tieu": "Đan điền bị vỡ cũ là khó chữa nhất. Ngươi tự tin thì cứ làm, nhưng phải cẩn thận từng bước.",
       "cast": "qv,qt,qn,qh,tc",
       "ch": [
@@ -2382,7 +2382,7 @@
       "place": "Hoàng cung · Sáng",
       "kind": "chon",
       "title": "Mẹ cầu bạn cứu hầu phủ",
-      "text": "Sáng, Hạ Vân Khanh lần đầu vào cung vì hầu phủ chặn hết mọi đường. Bà bảo bạn cứu Giang Tụng để giữ tiếng cho nhà. Bạn đáp: «Muốn tôi giúp thì cầu tôi.» Mẹ bỏ đi, mắng bạn bất hiếu. Hiên Dật đứng cạnh đỡ lời, rồi không nói thêm.",
+      "text": "Sáng, Hạ Vân Khanh lần đầu vào cung vì hầu phủ chặn hết mọi đường. Bà bảo bạn cứu Giang Tụng để giữ tiếng cho nhà. Bạn đáp: «Muốn tôi giúp thì cầu tôi.» Mẹ bỏ đi, mắng bạn bất hiếu. Hiên Dật đứng cạnh đỡ lời, rồi không nói thêm. Bạn phải quyết định đáp lại mẹ ra sao.",
       "tieu": "Mẹ ngươi chỉ đến khi cần. Nhưng bà vẫn là mẹ. Quyết định thế nào là chuyện của ngươi.",
       "cast": "qv,qk,qh,tc",
       "ch": [
@@ -2541,7 +2541,7 @@
       "place": "Sân trong cung · Cùng chiều",
       "kind": "chon",
       "title": "«Ta sẽ cố gắng»",
-      "text": "Cùng chiều, sau khi hầu phu nhân đi, Hiên Dật nắm tay bạn trong sân cung. Hắn nói hắn thích bạn và xin hôn ước lại. Bạn đáp: «Ngoan, đừng lòng tham.» Hắn không giận, chỉ hứa cố gắng mỗi ngày và không ép. Tay hắn run, nhưng giọng hắn vững.",
+      "text": "Cùng chiều, sau khi hầu phu nhân đi, Hiên Dật nắm tay bạn trong sân cung. Hắn nói hắn thích bạn và xin hôn ước lại. Bạn đáp: «Ngoan, đừng lòng tham.» Hắn không giận, chỉ hứa cố gắng mỗi ngày và không ép. Tay hắn run, nhưng giọng hắn vững. Bạn phải quyết định đáp lại hắn thế nào.",
       "tieu": "Hắn nói là hắn sẽ không ép. Ngươi không cần trả lời gấp, nhưng đừng đẩy hắn đi quá xa.",
       "cast": "qv,qh,tc",
       "ch": [
@@ -2620,7 +2620,7 @@
       "place": "Cổng thành Ninh An · Hai tháng sau",
       "kind": "duyen",
       "title": "Rời cung đi rèn luyện",
-      "text": "Hai tháng sau, bạn đứng ở cổng thành Ninh An, chuẩn bị lên đường đi tìm cơ duyên vốn thuộc về nguyên chủ. Hiên Dật xin đi cùng, hắn nói không ép, chỉ muốn hộ tống. Tiểu Châu tóm tắt mười năm sau: hai người đi hết các bí cảnh, thu hết cơ duyên của nguyên chủ, bạn lên Thanh Vương, Mộ Dao theo sau nhưng luôn chậm một bước.",
+      "text": "Hai tháng sau, bạn đứng ở cổng thành Ninh An, chuẩn bị lên đường đi tìm cơ duyên vốn thuộc về nguyên chủ. Hiên Dật xin đi cùng, hắn nói không ép, chỉ muốn hộ tống. Tiểu Châu tóm tắt mười năm sau: hai người đi hết các bí cảnh, thu hết cơ duyên của nguyên chủ, bạn lên Thanh Vương, Mộ Dao theo sau nhưng luôn chậm một bước. Bạn phải quyết định lên đường cùng ai và đi theo cách nào.",
       "tieu": "Mười năm ngắn lắm. Có hắn đi cùng thì cũng đỡ vất vả. Học cách đọc địa mạch đi, nó dẫn đường tốt nhất.",
       "cast": "qv,qh,tc",
       "ch": [
@@ -2793,7 +2793,7 @@
       "place": "Hang trứng phượng hoàng · Mười năm sau",
       "kind": "hiem",
       "title": "Hang trứng phượng hoàng",
-      "text": "Mười năm sau, trên đường rèn luyện, hai người tới hang cổ nơi giấu trứng phượng hoàng. Mộ Dao dẫn Cảnh Dục tới vì biết trước. Nhưng bạn đã đến trước, nướng ăn một quả trứng thường giống hệt, còn quả trứng thật bạn đã giao cho Hiên Dật khế ước. Mộ Dao hét lên rằng đó là thần thú.",
+      "text": "Mười năm sau, trên đường rèn luyện, hai người tới hang cổ nơi giấu trứng phượng hoàng. Mộ Dao dẫn Cảnh Dục tới vì biết trước. Nhưng bạn đã đến trước, nướng ăn một quả trứng thường giống hệt, còn quả trứng thật bạn đã giao cho Hiên Dật khế ước. Mộ Dao hét lên rằng đó là thần thú. Bạn phải quyết định xử lý quả trứng thật này ra sao.",
       "tieu": "Mộ Dao biết trước cơ duyên, nhưng ngươi tới trước. Đây là lúc ngươi nói rõ với hắn mọi điều.",
       "cast": "qv,qh,qm,qs,tc",
       "ch": [
@@ -2875,7 +2875,7 @@
       "place": "Cuối hang · Ngay sau đó",
       "kind": "nan",
       "title": "Lời nguyền của Mộ Dao",
-      "text": "Cuối hang, Mộ Dao mất lý trí. Nàng hét lên rằng nếu không có nàng, hắn sẽ không bao giờ nhìn bạn; chính nàng đã đưa nguyên chủ đến chỗ này. Hiên Dật nghe rõ từng chữ và hiểu ra mình đã khiến nguyên chủ đuổi theo mười năm. Hối hận chồng lên hối hận, đôi mắt hắn đỏ lên. Cảnh Dục đánh ngất Mộ Dao mang đi.",
+      "text": "Cuối hang, Mộ Dao mất lý trí. Nàng hét lên rằng nếu không có nàng, hắn sẽ không bao giờ nhìn bạn; chính nàng đã đưa nguyên chủ đến chỗ này. Hiên Dật nghe rõ từng chữ và hiểu ra mình đã khiến nguyên chủ đuổi theo mười năm. Hối hận chồng lên hối hận, đôi mắt hắn đỏ lên. Cảnh Dục đánh ngất Mộ Dao mang đi. Bạn phải quyết định nói gì với hắn.",
       "tieu": "Đây là mốc nặng. Hắn đang vỡ ra trước mắt ngươi. Hãy ở lại bên cạnh hắn và nói thật cho khéo.",
       "cast": "qv,qh,qm,qs,tc",
       "ch": [
@@ -3049,7 +3049,7 @@
       "place": "Từ đường Phù thị · Một ngày thu",
       "kind": "duyen",
       "title": "Về kinh, trả ơn tông tộc",
-      "text": "Một ngày thu, bạn đã là Thanh Vương, cùng Hiên Dật về từ đường Phù thị. Bạn trao tộc trưởng một chiếc nhẫn chứa đan dược và tâm đắc luyện đan, dặn không để lọt vào tay cha hay mẹ. Nghe tin: cha bị cách chức gia chủ, Mộ Dao sa sút, Diêu di nương già yếu ở trang viên. Bạn nhận ra mình không còn giận nữa.",
+      "text": "Một ngày thu, bạn đã là Thanh Vương, cùng Hiên Dật về từ đường Phù thị. Bạn trao tộc trưởng một chiếc nhẫn chứa đan dược và tâm đắc luyện đan, dặn không để lọt vào tay cha hay mẹ. Nghe tin: cha bị cách chức gia chủ, Mộ Dao sa sút, Diêu di nương già yếu ở trang viên. Bạn nhận ra mình không còn giận nữa. Bạn phải quyết định trả ơn tông tộc ra sao.",
       "tieu": "Họ đã nhận quả của mình. Ngươi không cần làm gì thêm. Nhẫn này sẽ giúp tông tộc sống tốt hơn.",
       "cast": "qv,qh,qz,qc,qm,qd,tc",
       "ch": [
@@ -3131,7 +3131,7 @@
       "place": "Đại lục · Năm trăm năm sau",
       "kind": "nan",
       "title": "Năm trăm năm",
-      "text": "Tiểu Châu tóm tắt năm trăm năm trôi qua: hai người đi hết đại lục và mọi bí cảnh. Bạn lên Thanh Đế viên mãn, nhưng Hiên Dật chỉ ở Thanh Đế hậu kỳ, tu vi đứng yên mấy trăm năm. Bạn nhận ra thọ mệnh nguyên chủ chỉ còn mười năm, mà hắn vẫn chưa biết.",
+      "text": "Tiểu Châu tóm tắt năm trăm năm trôi qua: hai người đi hết đại lục và mọi bí cảnh. Bạn lên Thanh Đế viên mãn, nhưng Hiên Dật chỉ ở Thanh Đế hậu kỳ, tu vi đứng yên mấy trăm năm. Bạn nhận ra thọ mệnh nguyên chủ chỉ còn mười năm, mà hắn vẫn chưa biết. Bạn phải quyết định nói với hắn chuyện này thế nào.",
       "tieu": "Năm trăm năm trôi qua rồi. Đã đến lúc cho hắn biết sự thật. Bình tĩnh nghĩ cách nói.",
       "cast": "qv,qh,tc",
       "ch": [
@@ -3475,7 +3475,7 @@
       "place": "Bầu trời nơi mỏng nhất · Ngày hẹn",
       "kind": "chon",
       "title": "Ngày xé hư không",
-      "text": "Đến ngày hẹn, ở nơi bầu trời mỏng nhất, Hiên Dật nắm tay bạn. Hai người cùng xé hư không. Lực hút của thế giới mới kéo họ rời nhau, như hai con thuyền bị sóng chia. Bạn phải chọn: nắm chặt tay hắn, hay tin vào lời hứa tìm nhau. Hắc hóa của hắn bị giữ ở mức tối đa 99 bởi sức mạnh của lời hứa.",
+      "text": "Đến ngày hẹn, ở nơi bầu trời mỏng nhất, Hiên Dật nắm tay bạn. Hai người cùng xé hư không. Lực hút của thế giới mới kéo họ rời nhau, như hai con thuyền bị sóng chia. Bạn phải chọn: nắm chặt tay hắn, hay tin vào lời hứa tìm nhau. Hắc hóa của hắn bị giữ ở mức tối đa 99 bởi sức mạnh của lời hứa. Bạn phải quyết định nắm hay buông tay hắn.",
       "tieu": "Đây rồi, thời khắc cuối cùng. Dù tách hay nắm tay, hắn sẽ đi tìm ngươi. Chọn cách mà ngươi thấy đúng nhất.",
       "cast": "qv,qh,tc",
       "ch": [
@@ -3567,7 +3567,7 @@
       "place": "Thế giới mới · Sau cánh cổng",
       "kind": "nan",
       "title": "Cánh cổng bên kia",
-      "text": "Tiểu Châu tóm tắt những gì xảy ra sau đó. Dù tách ra hay nắm tay tới được, Hiên Dật vẫn đang tìm bạn. Hắn đi qua từng thành, từng núi, từng bờ sông của thế giới mới, mỗi nơi để lại một dấu phượng hoàng nhỏ. Bạn đứng nơi cuối con đường, nghe tiếng chuông bên kia cánh cổng ngân lên.",
+      "text": "Tiểu Châu tóm tắt những gì xảy ra sau đó. Dù tách ra hay nắm tay tới được, Hiên Dật vẫn đang tìm bạn. Hắn đi qua từng thành, từng núi, từng bờ sông của thế giới mới, mỗi nơi để lại một dấu phượng hoàng nhỏ. Bạn đứng nơi cuối con đường, nghe tiếng chuông bên kia cánh cổng ngân lên. Bạn phải quyết định làm gì trước cánh cổng này.",
       "tieu": "Đây là mốc cuối: ngươi đã đi cùng hắn một chặng rất dài. Kết cục thế nào, các con số của ngươi sẽ nói.",
       "cast": "qv,qh,tc",
       "ch": [

@@ -114,7 +114,7 @@
       "place": "Căn phòng thuê, ban công có xích đu",
       "kind": "duyen",
       "title": "Cuộc gọi lúc trưa",
-      "text": "Bạn là Ôn Niệm, hai mươi hai tuổi, ca sĩ hát đêm ở quán Lam Đăng để sống qua ngày. Trưa nay bạn đang lim dim trên chiếc xích đu tre thì điện thoại reo. Một giọng đàn ông trầm, chậm, hơi lạnh: Mình là Cố Trầm, cậu còn nhớ mình không? Cố Trầm, bạn học cũ của bạn.",
+      "text": "Bạn là Ôn Niệm, hai mươi hai tuổi, ca sĩ hát đêm ở quán Lam Đăng để sống qua ngày. Trưa nay bạn đang lim dim trên chiếc xích đu tre thì điện thoại reo. Một giọng đàn ông trầm, chậm, hơi lạnh: Mình là Cố Trầm, cậu còn nhớ mình không? Cố Trầm là bạn học cũ của bạn. Bạn phải quyết định đáp lại anh thế nào.",
       "tieu": "Zzz... Linh khí thế giới này mỏng quá, ta ngủ đây. Boss sẽ tự tìm đến... zzz",
       "cast": "on,tc",
       "ch": [
@@ -184,7 +184,7 @@
       "place": "Trang trại ven thành phố, bờ ao",
       "kind": "hiem",
       "title": "Đứa bé dưới ao",
-      "text": "Buổi họp lớp đông đủ ba mươi người, chỉ không thấy Cố Trầm. Đi dạo bên ao, bạn thấy một cậu bé rơi xuống nước giãy giụa. Những người khác vẫn cười nói như không nhìn thấy gì.",
+      "text": "Buổi họp lớp đông đủ ba mươi người, chỉ không thấy Cố Trầm. Đi dạo bên ao, bạn thấy một cậu bé rơi xuống nước giãy giụa. Những người khác vẫn cười nói như không nhìn thấy gì. Bạn phải quyết định cứu cậu bé bằng cách nào.",
       "tieu": "Zzz... ao sâu... đừng có nhảy... à mà ngươi biết bơi... zzz",
       "cast": "on,tc",
       "ch": [
@@ -262,7 +262,7 @@
       "place": "Trang trại ven thành phố, gốc liễu",
       "kind": "chon",
       "title": "Tin dữ từ Tống Thư Kỳ",
-      "text": "Tống Thư Kỳ lái xe tới muộn, váy đen, trang điểm nhạt. Cô ta kéo bạn ra một góc, giọng lạnh tanh: Cố Trầm chết rồi, ba ngày trước, tai nạn giao thông. Bạn mở nhật ký cuộc gọi, và số máy hôm ấy trùng đúng số của anh.",
+      "text": "Tống Thư Kỳ lái xe tới muộn, váy đen, trang điểm nhạt. Cô ta kéo bạn ra một góc, giọng lạnh tanh: Cố Trầm chết rồi, ba ngày trước, tai nạn giao thông. Bạn mở nhật ký cuộc gọi, và số máy hôm ấy trùng đúng số của anh. Bạn phải quyết định nói gì với Thư Kỳ.",
       "tieu": "Zzz... cô gái váy đen này không ưa ngươi đâu... ta nói rồi đấy... zzz",
       "cast": "on,stk",
       "ch": [
@@ -333,7 +333,7 @@
       "place": "Đường đồng về thành phố, chạng vạng",
       "kind": "hiem",
       "title": "Bó cúc dại trên đường về",
-      "text": "Dắt chiếc xe đạp mượn ra cổng, bạn va phải một cậu bé áo trắng im lìm. Cậu đưa bạn bó cúc dại, bàn tay lạnh như nước giếng. Đạp qua cánh đồng có mấy nấm mộ, xe nặng dần như có người ngồi sau. Phía xa sau lưng có tiếng gọi: này.",
+      "text": "Dắt chiếc xe đạp mượn ra cổng, bạn va phải một cậu bé áo trắng im lìm. Cậu đưa bạn bó cúc dại, bàn tay lạnh như nước giếng. Đạp qua cánh đồng có mấy nấm mộ, xe nặng dần như có người ngồi sau. Phía xa sau lưng có tiếng gọi: này. Có tiếng gọi sau lưng, và bạn phải quyết định có quay lại hay không.",
       "tieu": "...Không... ngoái đầu... zzz",
       "cast": "on,tc",
       "ch": [
@@ -409,7 +409,7 @@
       "place": "Quán Lam Đăng, giờ diễn tối",
       "kind": "hiem",
       "title": "Thiếu gia ở quán Lam Đăng",
-      "text": "Mấy hôm liền, thiếu gia Đỗ Khải Thịnh ngồi bàn đầu cổ vũ bạn. Tối nay hắn chặn bạn ở quầy, buông lời bẩn thỉu và chìa ra một xấp tiền mua một đêm. Cả quán im phăng phắc.",
+      "text": "Mấy hôm liền, thiếu gia Đỗ Khải Thịnh ngồi bàn đầu cổ vũ bạn. Tối nay hắn chặn bạn ở quầy, buông lời bẩn thỉu và chìa ra một xấp tiền mua một đêm. Cả quán im phăng phắc. Cả quán đang nhìn, và bạn phải quyết định ứng xử thế nào.",
       "tieu": "Zzz... đập... à không, ta đang mơ... zzz",
       "cast": "on,dkt",
       "ch": [
@@ -487,7 +487,7 @@
       "place": "Ngã tư trung tâm, đêm",
       "kind": "nan",
       "title": "Tai nạn kỳ lạ",
-      "text": "Hai hôm sau, Đỗ Khải Thịnh chết. Camera ghi lại cảnh hắn đứng một mình bên đường, rồi bị hất văng ra trước mũi xe như có ai đẩy. Đêm ấy, căn phòng thuê của bạn lạnh như ướp đá.",
+      "text": "Hai hôm sau, Đỗ Khải Thịnh chết. Camera ghi lại cảnh hắn đứng một mình bên đường, rồi bị hất văng ra trước mũi xe như có ai đẩy. Đêm ấy, căn phòng thuê của bạn lạnh như ướp đá. Bạn phải quyết định làm gì trong căn phòng lạnh buốt này.",
       "tieu": "Ta... ngửi thấy mùi máu... cẩn thận... zzz",
       "cast": "on,tc",
       "ch": [
@@ -560,7 +560,7 @@
       "place": "Phố trung tâm, buổi chiều",
       "kind": "duyen",
       "title": "Chiếc ví và người lạ tốt bụng",
-      "text": "Giữa phố đông, một gã thanh niên giật phăng túi xách của bạn rồi chạy. Bạn chưa kịp đuổi thì một người đàn ông mặc vest đã lao theo, vài phút sau quay lại với chiếc ví trên tay. Anh tên Hứa Gia Minh, anh trai một bạn học cũ của bạn.",
+      "text": "Giữa phố đông, một gã thanh niên giật phăng túi xách của bạn rồi chạy. Bạn chưa kịp đuổi thì một người đàn ông mặc vest đã lao theo, vài phút sau quay lại với chiếc ví trên tay. Anh tên Hứa Gia Minh, anh trai một bạn học cũ của bạn. Bạn phải quyết định đáp lại người lạ này ra sao.",
       "tieu": "Zzz... người tốt... đứng gần ngươi lúc này... không tốt cho hắn đâu... zzz",
       "cast": "on,hgm",
       "ch": [
@@ -711,7 +711,7 @@
       "place": "Căn phòng thuê, sau bữa tiệc",
       "kind": "chon",
       "title": "Rời căn phòng thuê",
-      "text": "Bạn cùng phòng mở tiệc ồn ào ngay trong phòng bạn, ly cốc vỡ đầy sàn, giường bạn ướt đẫm rượu. Bạn quyết định dọn đi. Gia Minh nghe chuyện, nói anh có một căn biệt thự để trống, bạn cứ ở tạm.",
+      "text": "Bạn cùng phòng mở tiệc ồn ào ngay trong phòng bạn, ly cốc vỡ đầy sàn, giường bạn ướt đẫm rượu. Bạn quyết định dọn đi. Gia Minh nghe chuyện, nói anh có một căn biệt thự để trống, bạn cứ ở tạm. Bạn phải quyết định có nhận lời giúp đỡ này hay không.",
       "tieu": "Zzz... nhận nhà của đàn ông khác... ngươi chắc chứ... zzz",
       "cast": "on,hgm",
       "ch": [
@@ -860,7 +860,7 @@
       "place": "Quán Lam Đăng, đêm vắng khách",
       "kind": "hiem",
       "title": "Tiếng vỗ tay sau lưng",
-      "text": "Tối nay quán Lam Đăng vắng khách. Bạn hát xong bài Yêu thầm thì nghe tiếng vỗ tay từng tiếng một, rất rõ, từ phía sau sân khấu, nơi không có ai đứng. Gọi cho Gia Minh, máy cứ báo bận.",
+      "text": "Tối nay quán Lam Đăng vắng khách. Bạn hát xong bài Yêu thầm thì nghe tiếng vỗ tay từng tiếng một, rất rõ, từ phía sau sân khấu, nơi không có ai đứng. Gọi cho Gia Minh, máy cứ báo bận. Bạn phải quyết định làm gì trước tiếng vỗ tay vô hình ấy.",
       "tieu": "Zzz... ta nghe thấy rồi... hắn thích bài đó lắm... zzz",
       "cast": "on,tc",
       "ch": [
@@ -934,7 +934,7 @@
       "place": "Chuyến xe buýt cuối",
       "kind": "duyen",
       "title": "Người đàn ông trên chuyến xe cuối",
-      "text": "Bác sĩ Ngụy Thần ngã quỵ trước chiếc đồng hồ treo tường, giờ đang nằm khoa thần kinh. Đêm đó, chuyến xe buýt cuối chỉ có một người đàn ông áo sơ mi trắng ngồi hàng ghế cuối. Anh trò chuyện rất dễ chịu, rồi đưa bạn về tận cửa.",
+      "text": "Bác sĩ Ngụy Thần ngã quỵ trước chiếc đồng hồ treo tường, giờ đang nằm khoa thần kinh. Đêm đó, chuyến xe buýt cuối chỉ có một người đàn ông áo sơ mi trắng ngồi hàng ghế cuối. Anh trò chuyện rất dễ chịu, rồi đưa bạn về tận cửa. Bạn phải quyết định đối xử thế nào với người đàn ông này ở cổng nhà.",
       "tieu": "Ồ, đẹp trai... hừm... ta biết cái mặt này ở đâu... zzz",
       "cast": "on,can",
       "ch": [
@@ -1000,7 +1000,7 @@
       "place": "Ngã tư trước nhà hàng, buổi sáng",
       "kind": "nan",
       "title": "Bó hồng giữa ngã tư",
-      "text": "Sáng hôm sau, Gia Minh cầm bó hồng vẫy bạn bên kia đường. Một giây sau, anh bị hất văng ra giữa lòng đường như có bàn tay vô hình ghì chặt, ngay trước mũi một chiếc xe tải. Trong đầu bạn vang lên một giọng quen thuộc.",
+      "text": "Sáng hôm sau, Gia Minh cầm bó hồng vẫy bạn bên kia đường. Một giây sau, anh bị hất văng ra giữa lòng đường như có bàn tay vô hình ghì chặt, ngay trước mũi một chiếc xe tải. Trong đầu bạn vang lên một giọng quen thuộc. Bạn phải quyết định làm gì ngay lúc này.",
       "tieu": "Ta vừa tỉnh đã thấy cảnh này! Hắc hóa của mục tiêu vọt lên, ác niệm không giảm điểm nào. Gia Minh không phải boss. Kẻ làm chuyện này mới là.",
       "cast": "on,tc,hgm",
       "ch": [
@@ -1144,7 +1144,7 @@
       "place": "Khu nhà cũ, căn hộ tầng sáu",
       "kind": "chon",
       "title": "Người thuê chung lúc chín giờ",
-      "text": "Bạn thuê được một căn hộ rẻ lạ lùng trong khu nhà cũ, đủ đồ đạc, có cả cây đàn piano trắng, còn hàng xóm thì đã dọn đi hết. Bạn đăng tin tìm người ở chung. Đúng chín giờ tối, một người đàn ông đứng dưới gốc cây chờ bạn. Anh nói anh tên Cố Ảnh.",
+      "text": "Bạn thuê được một căn hộ rẻ lạ lùng trong khu nhà cũ, đủ đồ đạc, có cả cây đàn piano trắng, còn hàng xóm thì đã dọn đi hết. Bạn đăng tin tìm người ở chung. Đúng chín giờ tối, một người đàn ông đứng dưới gốc cây chờ bạn. Anh nói anh tên Cố Ảnh. Bạn phải quyết định đối xử thế nào với người thuê chung này.",
       "tieu": "Đây rồi, mục tiêu đây! Từ giờ ta thức để trông ngươi. Ừm, đừng hỏi ta vì sao hắn không mang hành lý.",
       "cast": "on,can",
       "ch": [
@@ -1305,7 +1305,7 @@
       "place": "Căn hộ tầng sáu, buổi tối",
       "kind": "duyen",
       "title": "Tờ tiền âm phủ",
-      "text": "Cố Ảnh trả trước ba ngày tiền nhà, bạn cầm đi siêu thị mua đầy tủ lạnh. Tối đó, bạn thu ngân khóc vì phát hiện trong két có hai tờ tiền âm phủ. Còn trong phòng anh, mặt bàn phủ một lớp bụi mỏng, chăn gấp vuông vức như chưa ai nằm.",
+      "text": "Cố Ảnh trả trước ba ngày tiền nhà, bạn cầm đi siêu thị mua đầy tủ lạnh. Tối đó, bạn thu ngân khóc vì phát hiện trong két có hai tờ tiền âm phủ. Còn trong phòng anh, mặt bàn phủ một lớp bụi mỏng, chăn gấp vuông vức như chưa ai nằm. Bạn phải quyết định có hỏi chuyện này hay giả như không biết.",
       "tieu": "Ta không nói gì đâu. Ngươi tự nhìn đi.",
       "cast": "on,can",
       "ch": [
@@ -1380,7 +1380,7 @@
       "place": "Căn hộ tầng sáu, nửa đêm",
       "kind": "hiem",
       "title": "Tiếng đàn lúc nửa đêm",
-      "text": "Nửa đêm có tiếng kéo đàn rít trên sàn, rồi tiếng phím gõ loạn xạ. Bạn hé cửa: trên ghế đàn là một bé gái khóc ra máu, lẩm bẩm xin mẹ đừng giận. Cố Ảnh đứng sau lưng con bé, tay đã giơ lên.",
+      "text": "Nửa đêm có tiếng kéo đàn rít trên sàn, rồi tiếng phím gõ loạn xạ. Bạn hé cửa: trên ghế đàn là một bé gái khóc ra máu, lẩm bẩm xin mẹ đừng giận. Cố Ảnh đứng sau lưng con bé, tay đã giơ lên. Anh đang giơ tay, và bạn phải quyết định hành động ngay.",
       "tieu": "Đó là bé Tiểu Cầm, chủ cũ của cây đàn. Hắn sắp nuốt con bé. Ngươi có muốn xen vào không?",
       "cast": "on,tcm,can",
       "ch": [
@@ -1460,7 +1460,7 @@
       "place": "Trấn Hạ Khê, nhà cũ hai tầng",
       "kind": "chon",
       "title": "Anh đi rồi, em làm sao",
-      "text": "Ngày thứ tư, Cố Ảnh nói phải về nhà cũ ít lâu. Anh để lại một địa chỉ ở trấn Hạ Khê, quê nhà của bạn. Chiếc điện thoại anh bỏ quên đổ chuông bằng chính bài hát bạn từng hát ở quán.",
+      "text": "Ngày thứ tư, Cố Ảnh nói phải về nhà cũ ít lâu. Anh để lại một địa chỉ ở trấn Hạ Khê, quê nhà của bạn. Chiếc điện thoại anh bỏ quên đổ chuông bằng chính bài hát bạn từng hát ở quán. Bạn phải quyết định xử lý chiếc điện thoại này ra sao.",
       "tieu": "Hắn cố tình để quên đấy. Ngươi đi hay không, hắn đều biết.",
       "cast": "on,can",
       "ch": [
@@ -1537,7 +1537,7 @@
       "place": "Bến xe trấn Hạ Khê, giữa trưa",
       "kind": "hiem",
       "title": "Cậu Đàm Quý",
-      "text": "Ở bến xe trấn Hạ Khê, cậu ruột của bạn là Đàm Quý nhận ra bạn. Ông ta đòi phần tiền bán nhà của mẹ bạn, rồi lôi chuyện gả bạn cho ông chủ quán đầu trấn ra đe dọa. Gió lạnh nổi lên giữa trưa hè, cành cây trên đầu ông ta kêu rắc một tiếng.",
+      "text": "Ở bến xe trấn Hạ Khê, cậu ruột của bạn là Đàm Quý nhận ra bạn. Ông ta đòi phần tiền bán nhà của mẹ bạn, rồi lôi chuyện gả bạn cho ông chủ quán đầu trấn ra đe dọa. Gió lạnh nổi lên giữa trưa hè, cành cây trên đầu ông ta kêu rắc một tiếng. Bạn phải quyết định đối phó ông ta thế nào.",
       "tieu": "Hắn đang đứng ngay sau ngươi. Ngươi không ra tay trước thì hắn sẽ ra tay.",
       "cast": "on,dq",
       "ch": [
@@ -1611,7 +1611,7 @@
       "place": "Căn hộ tầng sáu, có bạn cùng phòng mới",
       "kind": "duyen",
       "title": "Gương trừ tà",
-      "text": "Bạn cùng phòng mới là Lạc Tuệ, nữ cảnh sát tóc ngắn, cháu nội một đại sư trừ tà. Cô ấy đang điều tra hai vụ tai nạn kỳ lạ. Lạc Tuệ rắc gạo nếp ở khe cửa, đặt chiếc gương đồng đối diện. Trong gương, quanh người bạn phủ một lớp khí đen.",
+      "text": "Bạn cùng phòng mới là Lạc Tuệ, nữ cảnh sát tóc ngắn, cháu nội một đại sư trừ tà. Cô ấy đang điều tra hai vụ tai nạn kỳ lạ. Lạc Tuệ rắc gạo nếp ở khe cửa, đặt chiếc gương đồng đối diện. Trong gương, quanh người bạn phủ một lớp khí đen. Bạn phải quyết định nhận món đồ nào, hoặc nói thật với cô ấy đến đâu.",
       "tieu": "Lạc Tuệ là người được thiên đạo ưu ái của thế giới này, rất khó chết. Nếu không có ngươi, kết cục gốc là cô ấy diệt hắn.",
       "cast": "on,lth",
       "ch": [
@@ -1690,7 +1690,7 @@
       "place": "Nhà cũ họ Cố, nửa đêm",
       "kind": "nan",
       "title": "Bức ảnh trên tủ đầu giường",
-      "text": "Lạc Tuệ tra số máy của Cố Ảnh: chủ thuê bao là Cố Trầm, tổng giám đốc tập đoàn Tư Niệm, chết vì tai nạn một tháng trước. Hai người đến nhà cũ lúc nửa đêm. Bụi phủ dày, phòng ngủ ngăn nắp. Trên tủ đầu giường là ảnh một nữ sinh ngủ dưới bóng cây, quyển sách che mặt: chính là Ôn Niệm năm lớp 11.",
+      "text": "Lạc Tuệ tra số máy của Cố Ảnh: chủ thuê bao là Cố Trầm, tổng giám đốc tập đoàn Tư Niệm, chết vì tai nạn một tháng trước. Hai người đến nhà cũ lúc nửa đêm. Bụi phủ dày, phòng ngủ ngăn nắp. Trên tủ đầu giường là ảnh một nữ sinh ngủ dưới bóng cây, quyển sách che mặt: chính là Ôn Niệm năm lớp 11. Bạn phải quyết định làm gì trước bức ảnh này.",
       "tieu": "Ngươi đã ở chung ba ngày với một lệ quỷ. Tin tốt: hắn yêu ngươi. Tin xấu: hắn yêu ngươi.",
       "cast": "on,lth,ctr",
       "ch": [
@@ -1767,7 +1767,7 @@
       "place": "Căn hộ tầng sáu, một mình",
       "kind": "duyen",
       "title": "Chăn của ai",
-      "text": "Lạc Tuệ lên chùa Linh Ẩn mời đại sư Huyền Tĩnh, dặn bạn không được ra khỏi nhà. Ở nhà một mình, bạn ngủ quên trên ghế, tỉnh dậy đã có chăn đắp ngang người. Lúc gội đầu quên khăn, vừa đưa tay ra đã có chiếc khăn đặt vào lòng bàn tay.",
+      "text": "Lạc Tuệ lên chùa Linh Ẩn mời đại sư Huyền Tĩnh, dặn bạn không được ra khỏi nhà. Ở nhà một mình, bạn ngủ quên trên ghế, tỉnh dậy đã có chăn đắp ngang người. Lúc gội đầu quên khăn, vừa đưa tay ra đã có chiếc khăn đặt vào lòng bàn tay. Bạn phải quyết định đáp lại sự chăm sóc vô hình này ra sao.",
       "tieu": "Ta che mắt ngươi rồi, ngươi chẳng thấy gì đâu. Ừm, hắn ở đây từ sáng.",
       "cast": "on,ctr",
       "ch": [
@@ -1842,7 +1842,7 @@
       "place": "Ký ức: cổng trường cấp ba, chiều tan học",
       "kind": "duyen",
       "title": "Giấc mơ năm lớp 11",
-      "text": "Đêm đó bạn mơ thấy một chiều tan học năm lớp 11. Mấy tên côn đồ chặn một cậu nam sinh tóc mái dài che mắt, giật tiền rồi đánh túi bụi. Bạn đang vội đến viện chăm mẹ, nhưng vẫn xắn tay áo lao vào.",
+      "text": "Đêm đó bạn mơ thấy một chiều tan học năm lớp 11. Mấy tên côn đồ chặn một cậu nam sinh tóc mái dài che mắt, giật tiền rồi đánh túi bụi. Bạn đang vội đến viện chăm mẹ, nhưng vẫn xắn tay áo lao vào. Bạn phải quyết định làm gì sau khi lao vào giữa bọn họ.",
       "tieu": "Ngươi quên chiều hôm ấy từ lâu rồi. Hắn thì giữ nó suốt bốn năm.",
       "cast": "on,ctr",
       "ch": [
@@ -1918,7 +1918,7 @@
       "place": "Nhà cũ họ Cố, xế chiều",
       "kind": "hiem",
       "title": "Tống Thư Kỳ ở nhà cũ",
-      "text": "Tống Thư Kỳ lẻn vào nhà cũ họ Cố, mang theo bật lửa và can xăng. Cô ta muốn đốt sạch bức ảnh, cuốn nhật ký và mọi thứ có tên bạn. Cánh cửa tự đóng sập sau lưng cô ta. Bạn đến đúng lúc nghe tiếng thét.",
+      "text": "Tống Thư Kỳ lẻn vào nhà cũ họ Cố, mang theo bật lửa và can xăng. Cô ta muốn đốt sạch bức ảnh, cuốn nhật ký và mọi thứ có tên bạn. Cánh cửa tự đóng sập sau lưng cô ta. Bạn đến đúng lúc nghe tiếng thét. Lửa đang bốc lên, và bạn phải quyết định làm gì.",
       "tieu": "Ta không ép. Nhưng nếu hắn giết thêm một người nữa, ác niệm sẽ bật ngược.",
       "cast": "on,stk,ctr",
       "ch": [
@@ -2071,7 +2071,7 @@
       "place": "Nhà cũ họ Cố, phòng ngủ tầng hai",
       "kind": "nan",
       "title": "Nghi thức con rối",
-      "text": "Bạn tự đến nhà cũ để nói chuyện với anh, chưa kịp mở lời đã ngất đi trong nụ cười của anh. Tỉnh lại, bạn nằm giữa vòng nến xanh và bùa vẽ máu, hai cổ tay rỉ máu: anh muốn giữ linh hồn bạn trong thân xác này mãi mãi. Lạc Tuệ và đại sư Huyền Tĩnh phá cửa xông vào, nhưng bùa lửa của đại sư bị khói đen nuốt sạch.",
+      "text": "Bạn tự đến nhà cũ để nói chuyện với anh, chưa kịp mở lời đã ngất đi trong nụ cười của anh. Tỉnh lại, bạn nằm giữa vòng nến xanh và bùa vẽ máu, hai cổ tay rỉ máu: anh muốn giữ linh hồn bạn trong thân xác này mãi mãi. Lạc Tuệ và đại sư Huyền Tĩnh phá cửa xông vào, nhưng bùa lửa của đại sư bị khói đen nuốt sạch. Bạn phải quyết định làm gì để kéo anh ra khỏi nghi thức này.",
       "tieu": "Ta cho ngươi uống Hộ Tâm Hoàn rồi. Còn tỉnh thì làm gì đi, nhanh lên, Lạc Tuệ sắp bị hắn giết.",
       "cast": "on,ctr,lth,hti",
       "ch": [
@@ -2153,7 +2153,7 @@
       "place": "Nhà cũ họ Cố, cổng vườn",
       "kind": "duyen",
       "title": "Làm bạn trai em nhé",
-      "text": "Đưa Lạc Tuệ vào viện xong, bạn ghé chợ, xách về túi lớn túi nhỏ. Anh đứng chờ ở cổng từ sáng sớm. Bạn chìa túi đồ ra: làm bạn trai em mà không xách đồ giúp à? Anh đứng sững, như người vừa được trả lại nhịp tim.",
+      "text": "Đưa Lạc Tuệ vào viện xong, bạn ghé chợ, xách về túi lớn túi nhỏ. Anh đứng chờ ở cổng từ sáng sớm. Bạn chìa túi đồ ra: làm bạn trai em mà không xách đồ giúp à? Anh đứng sững, như người vừa được trả lại nhịp tim. Bạn phải quyết định bắt đầu những ngày yêu đương này thế nào.",
       "tieu": "Ngươi gan thật. Nhưng ta phải công nhận, ác niệm vừa rơi một đoạn dài.",
       "cast": "on,ctr",
       "ch": [
@@ -2233,7 +2233,7 @@
       "place": "Con hẻm âm khí gần siêu thị",
       "kind": "chon",
       "title": "Cơ hội cuối cùng",
-      "text": "Lạc Tuệ, đầu còn quấn băng, chặn bạn ở siêu thị. Đại sư Huyền Tĩnh đã viên tịch đêm qua, để lại một lá bùa vẽ bằng máu tim và một túi bột lõi đào nghìn năm. Chỉ cần cho anh uống, dán bùa lên ngực, anh sẽ tan thành mây khói.",
+      "text": "Lạc Tuệ, đầu còn quấn băng, chặn bạn ở siêu thị. Đại sư Huyền Tĩnh đã viên tịch đêm qua, để lại một lá bùa vẽ bằng máu tim và một túi bột lõi đào nghìn năm. Chỉ cần cho anh uống, dán bùa lên ngực, anh sẽ tan thành mây khói. Bạn phải quyết định xử lý bùa và túi bột này ra sao.",
       "tieu": "Tiểu quỷ trong vòng trăm dặm đều báo tin cho hắn. Ngươi làm gì, hắn biết hết.",
       "cast": "on,lth",
       "ch": [

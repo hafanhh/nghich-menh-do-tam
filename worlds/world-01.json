@@ -117,7 +117,7 @@
       "place": "Ngoài hoang, giữa trận đánh",
       "kind": "hiem",
       "title": "Nhập vai trong tiếng đánh nhau",
-      "text": "Mở mắt giữa tiếng gầm của quái thú. Ký ức nguyên chủ ùa vào đầu: Lăng Tuyết, con gái độc nhất của gia chủ tộc Lăng, bị gia tộc gả cho Xà Vương Thương Dạ để cầu hòa; theo số mệnh, ba ngày nữa bạn sẽ bị hắn ăn thịt. Một chàng trai kéo bạn nép sau tảng đá, che chắn bằng cả tấm lưng. Đó là người anh họ của bạn, đang cùng bạn trốn khỏi cuộc hôn nhân ấy. Trong đầu bạn vang lên một giọng nói nhỏ xíu, vui vẻ lạ thường.",
+      "text": "Mở mắt giữa tiếng gầm của quái thú. Ký ức nguyên chủ ùa vào đầu: Lăng Tuyết, con gái độc nhất của gia chủ tộc Lăng, bị gia tộc gả cho Xà Vương Thương Dạ để cầu hòa; theo số mệnh, ba ngày nữa bạn sẽ bị hắn ăn thịt. Một chàng trai kéo bạn nép sau tảng đá, che chắn bằng cả tấm lưng. Đó là người anh họ của bạn, đang cùng bạn trốn khỏi cuộc hôn nhân ấy. Trong đầu bạn vang lên một giọng nói nhỏ xíu, vui vẻ lạ thường, nhưng quái thú đã áp sát từ mọi phía. Bạn chỉ có vài nhịp thở để quyết định phải làm gì.",
       "tieu": "Chào mừng đến thế giới cao cấp. Ngươi là Lăng Tuyết, và ba ngày nữa ngươi bị ăn.",
       "cast": "lt,mtt,tc",
       "ch": [
@@ -187,7 +187,7 @@
       "place": "Ngoài hoang, sau trận đánh",
       "kind": "chon",
       "title": "Ba ngày để sống",
-      "text": "Khi tiếng đánh nhau lắng xuống, Tiểu Châu giải thích: theo số mệnh, bạn sẽ bị Xà Vương ăn thịt trong ba ngày nữa. Nhiệm vụ là độ hóa hắn, và công đức của chính Tiểu Châu cũng đang treo trên bạn.",
+      "text": "Khi tiếng đánh nhau lắng xuống, Tiểu Châu giải thích: theo số mệnh, bạn sẽ bị Xà Vương ăn thịt trong ba ngày nữa. Nhiệm vụ là độ hóa hắn, và công đức của chính Tiểu Châu cũng đang treo trên bạn. Bạn chỉ còn ba ngày, nên phải quyết định ngay mình bắt đầu từ đâu.",
       "tieu": "Ba ngày. Ta nói rồi nhé, ba ngày. Đừng nhìn ta như thế.",
       "cast": "lt,tc",
       "ch": [
@@ -249,7 +249,7 @@
         "s": "van",
         "v": 2
       },
-      "text": "Bạn vừa trốn khỏi nhà cùng người anh họ. Bên suối, bạn gội tóc và nhặt được một con thỏ tai dài, mắt đỏ như hạt lựu chín. Nó nhìn bạn hơi lâu so với một con thỏ.",
+      "text": "Bạn vừa trốn khỏi nhà cùng người anh họ. Bên suối, bạn gội tóc và nhặt được một con thỏ tai dài, mắt đỏ như hạt lựu chín. Nó nhìn bạn hơi lâu so với một con thỏ. Bạn phải quyết định xử lý con thỏ này thế nào.",
       "tieu": "Ba ngày nữa ngươi bị ăn. Đừng ôm bất cứ thứ gì có mắt đỏ.",
       "ch": [
         {
@@ -304,7 +304,7 @@
       "place": "Bờ suối Lạc Mai",
       "kind": "hiem",
       "title": "Thỏ uống máu người",
-      "text": "Người anh họ bất ngờ đổi sắc mặt, lộ ý đồ đen tối và giữ chặt cổ tay bạn. Con thỏ nhảy lên cắn vào tay hắn. Máu chảy, hắn ngã lăn bất tỉnh. Mắt thỏ đỏ rực như vừa uống thứ gì ngọt.",
+      "text": "Người anh họ bất ngờ đổi sắc mặt, lộ ý đồ đen tối và giữ chặt cổ tay bạn. Con thỏ nhảy lên cắn vào tay hắn. Máu chảy, hắn ngã lăn bất tỉnh. Mắt thỏ đỏ rực như vừa uống thứ gì ngọt. Anh họ nằm bất tỉnh giữa đường, và bạn phải quyết định xử lý ra sao.",
       "tieu": "Chim thanh loan ở gần đây. Đi thôi trước khi hắn tỉnh.",
       "cast": "lt,mtt,bong",
       "ch": [
@@ -372,7 +372,7 @@
         "s": "mi",
         "v": 1
       },
-      "text": "Trưởng lão nhốt bạn trong sân với ba lớp kết giới và một bầu rượu. Bạn nâng bầu, rót cho con thỏ một ngụm, rồi bắt đầu múa. Đồng tử nó dựng thành khe hẹp, nhưng bạn chỉ thấy rượu ngon.",
+      "text": "Trưởng lão nhốt bạn trong sân với ba lớp kết giới và một bầu rượu. Bạn nâng bầu, rót cho con thỏ một ngụm, rồi bắt đầu múa. Đồng tử nó dựng thành khe hẹp, nhưng bạn chỉ thấy rượu ngon. Đây là đêm cuối cùng, bạn phải chọn cách trải qua nó cùng con thỏ.",
       "tieu": "Ngươi đang nhảy múa trước mặt boss mà không biết. Tuyệt vời.",
       "ch": [
         {
@@ -425,7 +425,7 @@
       "place": "Phủ gia tộc, đêm kết giới nứt",
       "kind": "nan",
       "title": "Xà Vương xé kết giới",
-      "text": "Một tiếng nổ chặn ngang đêm. Con thỏ biến mất, thay vào đó là một bóng cao lớn đứng giữa sân. Thương Dạ hiện thân, xé kết giới nhà Lăng bằng một cái vẫy tay. Tiểu Châu im bặt suốt mấy ngày.",
+      "text": "Một tiếng nổ chặn ngang đêm. Con thỏ biến mất, thay vào đó là một bóng cao lớn đứng giữa sân. Thương Dạ hiện thân, xé kết giới nhà Lăng bằng một cái vẫy tay. Tiểu Châu im bặt suốt mấy ngày. Hắn đứng đó, im lặng chờ, và bạn phải quyết định đối diện ra sao.",
       "tieu": "Đừng nhìn hắn. Ta không có ở đây.",
       "cast": "lt,td,tc",
       "ch": [
@@ -497,7 +497,7 @@
         "s": "mi",
         "v": 2
       },
-      "text": "Trưởng lão ép bạn phải hy sinh vì gia tộc. Đêm đó, váy cưới đỏ được đưa vào phòng. Sáng ra, chiếc kiệu đến đón lại trắng toát, dệt bằng tơ tuyết vạn năm.",
+      "text": "Trưởng lão ép bạn phải hy sinh vì gia tộc. Đêm đó, váy cưới đỏ được đưa vào phòng. Sáng ra, chiếc kiệu đến đón lại trắng toát, dệt bằng tơ tuyết vạn năm. Gia tộc đang chờ bạn lên kiệu, và bạn phải chọn cách bước vào cuộc hôn nhân này.",
       "tieu": "Hắn chọn màu trắng vì thấy hợp với ngươi. Ta nói thật đấy.",
       "ch": [
         {
@@ -553,7 +553,7 @@
         "s": "tri",
         "v": 1
       },
-      "text": "Hắn không xuất hiện. Bạn thức dậy giữa bốn bạn tỳ nữ xinh đẹp, thái độ lười nhác như chẳng để ý tân nương loài người. Trong chưa đầy một canh giờ, tiếng cười đã vang khắp điện.",
+      "text": "Hắn không xuất hiện. Bạn thức dậy giữa bốn bạn tỳ nữ xinh đẹp, thái độ lười nhác như chẳng để ý tân nương loài người. Trong chưa đầy một canh giờ, tiếng cười đã vang khắp điện. Bạn phải chọn cách chung sống với bốn người này.",
       "tieu": "Không có hắn thì không có điểm công đức. Hãy nghĩ cách đi.",
       "ch": [
         {
@@ -606,7 +606,7 @@
       "kind": "hiem",
       "title": "Đêm bịt mắt",
       "learn": null,
-      "text": "Chơi trò bịt mắt với đám tỳ nữ, bạn ôm chầm lấy một người cao lớn và hôn lên môi hắn trước khi kịp hiểu ra. Kéo dải lụa xuống, bạn thấy đôi mắt đỏ sẫm quen thuộc. Hắn nói đã nghe hết mọi câu đùa của bạn suốt một tháng.",
+      "text": "Chơi trò bịt mắt với đám tỳ nữ, bạn ôm chầm lấy một người cao lớn và hôn lên môi hắn trước khi kịp hiểu ra. Kéo dải lụa xuống, bạn thấy đôi mắt đỏ sẫm quen thuộc. Hắn nói đã nghe hết mọi câu đùa của bạn suốt một tháng. Hắn đang chờ phản ứng của bạn, và bạn phải chọn nói gì.",
       "tieu": "Nhiệm vụ thất bại! Đùa thôi, hắn chưa ăn ngươi. Chưa.",
       "ch": [
         {
@@ -661,7 +661,7 @@
       "place": "Vực Xích Hà, tẩm cung",
       "kind": "chon",
       "title": "Vượt cám dỗ huyết nhục",
-      "text": "Đêm đó hắn nhìn bạn lâu hơn mọi khi, và Tiểu Châu thì thầm: Hắn đang đói. Muốn hắn đừng ăn thịt ngươi thì hãy làm hắn thấy dễ chịu cả thân lẫn tâm. Bạn thấy tim đập mạnh.",
+      "text": "Đêm đó hắn nhìn bạn lâu hơn mọi khi, và Tiểu Châu thì thầm: Hắn đang đói. Muốn hắn đừng ăn thịt ngươi thì hãy làm hắn thấy dễ chịu cả thân lẫn tâm. Bạn thấy tim đập mạnh. Bạn phải chọn cách làm hắn dịu lại.",
       "tieu": "Làm hắn dễ chịu. Đúng như tên gọi, nhẹ thôi, nghe chưa.",
       "cast": "lt,td,tc",
       "ch": [
@@ -874,7 +874,7 @@
         "s": "tri",
         "v": 1
       },
-      "text": "Vài tháng liền hắn không đến phòng bạn. Cả điện đồn rằng hắn đang sủng ái các nữ yêu. Bạn ngồi cắn hạt dưa, hát một bài vu vơ.",
+      "text": "Vài tháng liền hắn không đến phòng bạn. Cả điện đồn rằng hắn đang sủng ái các nữ yêu. Bạn ngồi cắn hạt dưa, hát một bài vu vơ. Bạn phải chọn cách đối diện với những lời đồn này.",
       "tieu": "Ác niệm của hắn vừa tụt mười điểm! Ta không hiểu tại sao.",
       "ch": [
         {
@@ -929,7 +929,7 @@
       "place": "Vực Xích Hà, tẩm cung",
       "kind": "chon",
       "title": "Cánh và điểm yếu",
-      "text": "Hắn nói muốn hiện thú thể trước mặt bạn. Nghe vậy, tim bạn suýt rơi khỏi lồng ngực. Bạn xin thêm thời gian, và hắn đồng ý. Đêm đó hắn tự để lộ đôi cánh, thứ hắn chưa từng cho ai thấy.",
+      "text": "Hắn nói muốn hiện thú thể trước mặt bạn. Nghe vậy, tim bạn suýt rơi khỏi lồng ngực. Bạn xin thêm thời gian, và hắn đồng ý. Đêm đó hắn tự để lộ đôi cánh, thứ hắn chưa từng cho ai thấy. Hắn vừa để lộ điểm yếu trước mặt bạn, và bạn phải chọn cách đáp lại.",
       "tieu": "Cánh. Điểm yếu của hắn. Ngươi vừa được trao nó như một món quà.",
       "cast": "lt,td",
       "ch": [
@@ -1005,7 +1005,7 @@
         "s": "mi",
         "v": 1
       },
-      "text": "Bạn mang một chiếc lò nướng nhỏ vào tẩm cung vì muốn nướng thịt cho hắn ăn. Chu Linh, tỳ nữ vẫn cười dịu dàng mỗi sáng, bỗng đổi sắc mặt: vương không ăn thứ đồ chín dơ bẩn ấy.",
+      "text": "Bạn mang một chiếc lò nướng nhỏ vào tẩm cung vì muốn nướng thịt cho hắn ăn. Chu Linh, tỳ nữ vẫn cười dịu dàng mỗi sáng, bỗng đổi sắc mặt: vương không ăn thứ đồ chín dơ bẩn ấy. Bạn phải chọn cách xử lý chuyện này.",
       "tieu": "Ta ngửi thấy mùi ghen tuông. Chạy đi hoặc dỗ ngọt, tùy ngươi.",
       "ch": [
         {
@@ -1059,7 +1059,7 @@
       "kind": "nan",
       "title": "Vu độc phát tác",
       "setf": "vu",
-      "text": "Long thú và Dực Xà liên thủ bắt hắn, nhờ một loại vu độc đã nằm sẵn trong người bạn từ trước khi gả mà chính bạn cũng không biết. Hắn bị nhốt trong lồng, máu loang khắp sàn. Tiểu Châu gào lên: Hắc hóa 100, Ác niệm 99.",
+      "text": "Long thú và Dực Xà liên thủ bắt hắn, nhờ một loại vu độc đã nằm sẵn trong người bạn từ trước khi gả mà chính bạn cũng không biết. Hắn bị nhốt trong lồng, máu loang khắp sàn. Tiểu Châu gào lên: Hắc hóa 100, Ác niệm 99. Tình thế đã rối loạn, bạn phải chọn bỏ chạy hay ở lại.",
       "tieu": "Chuyện lớn rồi. Thoát thân trước đã.",
       "forced": true,
       "ch": [
@@ -1116,7 +1116,7 @@
       "place": "Phủ Lăng gia, đại sảnh",
       "kind": "chon",
       "title": "Anh hùng không mong muốn",
-      "text": "Bạn trở về phủ Lăng và bị cả nhà đứng chờ ở cổng, hoa tung đầy trời. Họ tôn bạn là nữ anh hùng, vì tin rằng chính bạn đã hạ vu độc của tộc Ngự thú lên Xà Vương. Bạn không hiểu họ đang nói gì.",
+      "text": "Bạn trở về phủ Lăng và bị cả nhà đứng chờ ở cổng, hoa tung đầy trời. Họ tôn bạn là nữ anh hùng, vì tin rằng chính bạn đã hạ vu độc của tộc Ngự thú lên Xà Vương. Bạn không hiểu họ đang nói gì. Bạn phải chọn cách đáp lại lời tung hô vô lý này.",
       "tieu": "Họ gọi ngươi là anh hùng. Ta nghĩ ngươi nên lo lắng thì hơn.",
       "cast": "lt,hn,mtt",
       "ch": [
@@ -1186,7 +1186,7 @@
       "place": "Phủ Lăng gia, sân hạnh",
       "kind": "nan",
       "title": "Bị làm nhục và xem phát sóng",
-      "text": "Mạc Thanh Tuấn và Lăng Doanh dắt bạn ra sân, rồi bày một tấm gương đá ra giữa đất. Họ muốn bạn xem cảnh Xà Vương bị nhốt, như xem một vở kịch. Bạn bắt Tiểu Châu mở thiên lý nhãn, và nhìn thấy hắn.",
+      "text": "Mạc Thanh Tuấn và Lăng Doanh dắt bạn ra sân, rồi bày một tấm gương đá ra giữa đất. Họ muốn bạn xem cảnh Xà Vương bị nhốt, như xem một vở kịch. Bạn bắt Tiểu Châu mở thiên lý nhãn, và nhìn thấy hắn. Họ đang đợi phản ứng của bạn, và bạn phải chọn đáp lại ra sao.",
       "tieu": "Ta mở thiên lý nhãn là phạm quy. Nhưng ngươi cứ nhìn đi.",
       "cast": "lt,mtt,sd,tc",
       "ch": [
@@ -1254,7 +1254,7 @@
       "place": "Phủ gia tộc, đêm chuông reo",
       "kind": "chon",
       "title": "Hắn đến phủ",
-      "text": "Chuông cảm ứng yêu vang lên giữa phủ. Hắn vừa thoát khỏi hai tháng bị giam, đẫm máu thuấn di tới. Hắn tin bạn đã hạ vu độc và suýt cắn chết bạn, cho tới khi nhận ra chính bạn cũng bị hạ độc từ trước. Năm trưởng lão đã thành tro.",
+      "text": "Chuông cảm ứng yêu vang lên giữa phủ. Hắn vừa thoát khỏi hai tháng bị giam, đẫm máu thuấn di tới. Hắn tin bạn đã hạ vu độc và suýt cắn chết bạn, cho tới khi nhận ra chính bạn cũng bị hạ độc từ trước. Năm trưởng lão đã thành tro. Bạn phải chọn cách ngăn máu đổ thêm trước khi quá muộn.",
       "tieu": "Khoảnh khắc quyết định. Hảo cảm càng cao, hắn càng dễ tin ngươi.",
       "ch": [
         {
@@ -1318,7 +1318,7 @@
       "place": "Phủ Lăng, phòng đêm",
       "kind": "chon",
       "title": "Đoàn tụ",
-      "text": "Hắn mang bạn về, đặt bạn xuống giường. Thú đan của hắn dịu dịu phát sáng, khống chế thứ vu độc trong người bạn. Chỉ trong một đêm, ác niệm của hắn tụt từ 99 xuống rất thấp.",
+      "text": "Hắn mang bạn về, đặt bạn xuống giường. Thú đan của hắn dịu dịu phát sáng, khống chế thứ vu độc trong người bạn. Chỉ trong một đêm, ác niệm của hắn tụt từ 99 xuống rất thấp. Bạn phải chọn cách đón nhận sự chăm sóc của hắn.",
       "tieu": "Tuyệt vời! Ác niệm xuống như thác. Ta không hiểu tại sao nhưng ta thích.",
       "cast": "lt,td,tc",
       "ch": [
@@ -1382,7 +1382,7 @@
       "place": "Phủ riêng, sau mười năm",
       "kind": "chon",
       "title": "Mười năm không ra khỏi cửa",
-      "text": "Mười năm trôi qua trong sân vườn kín. Bạn sống như một tình nhân giấu mặt, và hắn đến mỗi tối, mỗi tối. Hắn trao cho bạn chiếc vòng tay vảy đỏ và hứa không một cọng lông nào của hắn sẽ về gặp bạn nếu bạn không cho phép. Ác niệm còn năm, rồi một.",
+      "text": "Mười năm trôi qua trong sân vườn kín. Bạn sống như một tình nhân giấu mặt, và hắn đến mỗi tối, mỗi tối. Hắn trao cho bạn chiếc vòng tay vảy đỏ và hứa không một cọng lông nào của hắn sẽ về gặp bạn nếu bạn không cho phép. Ác niệm còn năm, rồi một. Bạn phải chọn cách sống tiếp những ngày này.",
       "tieu": "Mười năm, một cánh cổng, một vòng tay. Ta ghét chuyện tình cảm, nhưng đây thì ta chịu.",
       "cast": "lt,td,tc",
       "ch": [
@@ -1456,7 +1456,7 @@
       "place": "Phủ riêng, đêm mưa",
       "kind": "chon",
       "title": "Vì sao hắn hắc hóa",
-      "text": "Một đêm mưa, hắn kể cho bạn nghe: hồi nhỏ, chính anh ruột hắn đã dựng bẫy hại hắn. Giọng hắn đều đều như kể chuyện của người khác. Nghe xong, bạn không còn nhìn các tộc Dực Xà và Thanh Long bằng đôi mắt cũ.",
+      "text": "Một đêm mưa, hắn kể cho bạn nghe: hồi nhỏ, chính anh ruột hắn đã dựng bẫy hại hắn. Giọng hắn đều đều như kể chuyện của người khác. Nghe xong, bạn không còn nhìn các tộc Dực Xà và Thanh Long bằng đôi mắt cũ. Bạn phải chọn cách lắng nghe câu chuyện của hắn.",
       "tieu": "Hắn kể hết rồi. Câu chuyện này đáng tiền hơn mọi điểm công đức.",
       "cast": "lt,td",
       "ch": [
@@ -1528,7 +1528,7 @@
       "place": "Phủ Lăng gia, đại sảnh",
       "kind": "nan",
       "title": "Cha tát, bạn bị bắt",
-      "text": "Gia chủ tưởng bạn đã cấu kết với quái vật và tát bạn một cái giữa đại sảnh. Chưa kịp giải thích, Mặc Khuê và Mạc Thanh Tuấn đã mang bạn đi. Họ cần dùng bạn làm mồi.",
+      "text": "Gia chủ tưởng bạn đã cấu kết với quái vật và tát bạn một cái giữa đại sảnh. Chưa kịp giải thích, Mặc Khuê và Mạc Thanh Tuấn đã mang bạn đi. Họ cần dùng bạn làm mồi. Bạn phải chọn cách đối diện với họ.",
       "tieu": "Cha ngươi vừa tát ngươi. Ta không biết nên an ủi thế nào.",
       "cast": "lt,mk,mtt,hn",
       "ch": [
@@ -1594,7 +1594,7 @@
       "place": "Cánh đồng hoang, trận đại chiến",
       "kind": "nan",
       "title": "Mồi nhử",
-      "text": "Ác niệm của hắn đã xuống rất thấp. Nhưng kẻ đã dựng bẫy từ thuở ấu thơ giữ trong tay chiếc áo dính máu của bạn và vòng tay vảy đỏ bạn đang đeo. Chỉ cần một khoảnh khắc hắn tin bạn đã chết.",
+      "text": "Ác niệm của hắn đã xuống rất thấp. Nhưng kẻ đã dựng bẫy từ thuở ấu thơ giữ trong tay chiếc áo dính máu của bạn và vòng tay vảy đỏ bạn đang đeo. Chỉ cần một khoảnh khắc hắn tin bạn đã chết. Bạn phải chọn cách cứu hắn trước khi hắn tin bạn đã chết.",
       "tieu": "Nếu hắn nổ thú đan, ta mất sạch công đức. Làm gì đó, nhanh lên.",
       "ch": [
         {
@@ -1773,7 +1773,7 @@
       "place": "Cánh đồng hoang, sau tiếng nổ",
       "kind": "nan",
       "title": "Bầy thú đến giúp",
-      "text": "Giữa cánh đồng cháy sém, bạn nghe thấy tiếng cánh vỗ từ bốn phía. Chim bay, thú chạy, tất cả đổ về như nước xuôi dòng, đáp lại tiếng gọi mà chính bạn cũng không biết mình đã phát ra.",
+      "text": "Giữa cánh đồng cháy sém, bạn nghe thấy tiếng cánh vỗ từ bốn phía. Chim bay, thú chạy, tất cả đổ về như nước xuôi dòng, đáp lại tiếng gọi mà chính bạn cũng không biết mình đã phát ra. Bạn phải chọn cách dùng sức mạnh bất ngờ này.",
       "tieu": "Ngươi gọi cả bầy thú về. Ngươi biết không, ngươi ngầu lắm.",
       "cast": "lt,mk,mtt",
       "ch": [
@@ -2004,7 +2004,7 @@
       "place": "Chân núi phương Bắc, bình minh",
       "kind": "duyen",
       "title": "Căn nhà dưới chân núi",
-      "text": "Họ dừng lại ở một căn nhà gỗ bỏ hoang dưới chân núi. Thương Dạ nhóm lửa, nấu nồi cháo đầu tiên trong đời, và nhìn bạn như hỏi đã đúng chưa. Tiểu Châu ngồi trên bậu cửa, giả vờ không nhìn.",
+      "text": "Họ dừng lại ở một căn nhà gỗ bỏ hoang dưới chân núi. Thương Dạ nhóm lửa, nấu nồi cháo đầu tiên trong đời, và nhìn bạn như hỏi đã đúng chưa. Tiểu Châu ngồi trên bậu cửa, giả vờ không nhìn. Bạn phải chọn cách đáp lại món cháo đầu tiên của hắn.",
       "tieu": "Hắn nấu cháo. Ta sống ngàn năm chưa thấy cảnh này.",
       "cast": "lt,td,tc",
       "ch": [

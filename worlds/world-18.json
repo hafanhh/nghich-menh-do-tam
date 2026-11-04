@@ -221,7 +221,7 @@
       "place": "Nhà hàng quen · Bàn cạnh cửa sổ",
       "kind": "chon",
       "title": "Bữa tối chỗ cũ",
-      "text": "Cùng tối, Duật Lâm đón bạn ở cửa nhà hàng quen với một cành hồng. Anh gọi đúng món bạn thích. Suốt mấy tháng yêu nhau, hai người vẫn chỉ nói chuyện trò chơi. Bạn biết anh đang nhìn bạn như nhìn một ván cờ đã đi xong nước đầu. Bạn có thể nói thẳng «Em thích anh, không phải kiểu thích trò chơi của anh», hoặc nói ngọt ngào cho anh yên tâm. Dù chọn cách nào, bạn cũng báo luôn: từ nay bạn đổi giờ phát sóng, buổi chiều ngồi cạnh anh ở công ty cho công bằng. Anh biết ở đó Tiểu Nghi không ra khỏi chiếc USB được, nhưng anh không từ chối nổi.",
+      "text": "Cùng tối, Duật Lâm đón bạn ở cửa nhà hàng quen với một cành hồng. Anh gọi đúng món bạn thích. Suốt mấy tháng yêu nhau, hai người vẫn chỉ nói chuyện trò chơi. Bạn biết anh đang nhìn bạn như nhìn một ván cờ đã đi xong nước đầu. Bạn có thể nói thẳng «Em thích anh, không phải kiểu thích trò chơi của anh», hoặc nói ngọt ngào cho anh yên tâm. Dù chọn cách nào, bạn cũng báo luôn: từ nay bạn đổi giờ phát sóng, buổi chiều ngồi cạnh anh ở công ty cho công bằng. Anh biết ở đó Tiểu Nghi không ra khỏi chiếc USB được, nhưng anh không từ chối nổi. Bạn phải quyết định nói gì với anh.",
       "tieu": "Hắn vừa đi nước đầu, còn ngươi chỉ cần giữ nhịp. Diễn quá lố là hắn nghi ngay.",
       "cast": "mg_hanh,mg_lam,tc",
       "ch": [
@@ -1505,7 +1505,7 @@
       "place": "Diễn đàn Vô Cương · Máy chủ nước ngoài",
       "kind": "hiem",
       "title": "Diễn đàn Vô Cương",
-      "text": "Theo dấu vụ lừa đảo, bạn tìm ra một diễn đàn ẩn tên Vô Cương, đặt máy chủ nước ngoài. Kẻ cầm đầu, biệt danh Hạc Sát, khoe giữa diễn đàn: «Máy chủ nước ngoài, ai quản được?» Bạn thu bằng chứng gửi vào hộp thư đội trưởng Lữ Kiến Bình của đội chuyên án mạng. Hạc Sát thấy dòng truy ngược liền phản công. Bạn phải chọn: cắt đường quay lại, hoặc vòng qua một máy chủ trung gian. Sau cú này, cảnh sát bắt nhiều thành viên, còn Hạc Sát chạy ra nước ngoài và thề trả thù kẻ «làm cả diễn đàn sụp».",
+      "text": "Theo dấu vụ lừa đảo, bạn tìm ra một diễn đàn ẩn tên Vô Cương, đặt máy chủ nước ngoài. Kẻ cầm đầu, biệt danh Hạc Sát, khoe giữa diễn đàn: «Máy chủ nước ngoài, ai quản được?» Bạn thu bằng chứng gửi vào hộp thư đội trưởng Lữ Kiến Bình của đội chuyên án mạng. Hạc Sát thấy dòng truy ngược liền phản công. Bạn phải chọn: cắt đường quay lại, hoặc vòng qua một máy chủ trung gian. Sau cú này, cảnh sát bắt nhiều thành viên, còn Hạc Sát chạy ra nước ngoài và thề trả thù kẻ «làm cả diễn đàn sụp». Bạn phải quyết định thoát khỏi diễn đàn này bằng cách nào.",
       "tieu": "Hạc Sát sẽ ghi nhớ kẻ làm sập diễn đàn của hắn. Nhưng bằng chứng này đáng giá hơn nỗi sợ.",
       "cast": "mg_hanh,mg_sat,mg_binh,tc",
       "ch": [
@@ -2149,7 +2149,7 @@
       "place": "Đại trạch · Phòng tân hôn · Đêm thứ hai",
       "kind": "hiem",
       "title": "Người chơi đầu tiên",
-      "text": "Đêm thứ hai, một nhân vật mặt xám chui qua lỗ tường vào phòng tân hôn, nói: «Tôi đến cứu em, theo tôi ra khỏi trấn.» Bạn nhận ra đây là người thật điều khiển, chính là Cát Tiểu Nghi từ ngoài màn hình. Bạn đáp: «Sao tôi phải nghe cô?» Người chơi kéo bạn tới cổng. Bạn có thể tự đẩy nhân vật ra, hoặc kêu «tướng công, có kẻ muốn chia rẽ chúng ta». Nếu không kêu kịp, bạn chịu cú kéo mạnh. Bạn biết Trạch Dương sẽ đập nhân vật vào tường rồi bảo Bác Cửu trói lại mà đuổi đi; màn hình của Tiểu Nghi hiện chữ thất bại.",
+      "text": "Đêm thứ hai, một nhân vật mặt xám chui qua lỗ tường vào phòng tân hôn, nói: «Tôi đến cứu em, theo tôi ra khỏi trấn.» Bạn nhận ra đây là người thật điều khiển, chính là Cát Tiểu Nghi từ ngoài màn hình. Bạn đáp: «Sao tôi phải nghe cô?» Người chơi kéo bạn tới cổng. Bạn có thể tự đẩy nhân vật ra, hoặc kêu «tướng công, có kẻ muốn chia rẽ chúng ta». Nếu không kêu kịp, bạn chịu cú kéo mạnh. Bạn biết Trạch Dương sẽ đập nhân vật vào tường rồi bảo Bác Cửu trói lại mà đuổi đi; màn hình của Tiểu Nghi hiện chữ thất bại. Bạn phải quyết định đối phó người chơi này thế nào.",
       "tieu": "Cô bé ấy không xấu, chỉ bị lừa. Nhưng ván này phải thắng bằng cách giữ chặt tay anh ấy.",
       "cast": "mg_hanh,mg_duong,mg_nghi,mg_cuu,tc",
       "ch": [

@@ -115,7 +115,7 @@
       "place": "Lãnh cung Tĩnh Tư, sáng sớm",
       "kind": "chon",
       "title": "Tỉnh dậy ở Tĩnh Tư",
-      "text": "Mở mắt trên chiếc giường gãy chân trong lãnh cung Tĩnh Tư. Mái dột, sân mọc cỏ ngang gối. Ký ức nguyên chủ ùa vào đầu: Lục Vãn Ca, Quý phi, cháu gái lão tướng quân Lục Chấn. Kiếp trước bạn cùng Khang vương và ông nội Lục Chấn lật đổ hoàng đế Tiêu Hàn Uyên, ép hắn uống chén thuốc độc. Kiếp này hắn sống lại, nhớ hết, và đày bạn vào đây để trả thù.",
+      "text": "Mở mắt trên chiếc giường gãy chân trong lãnh cung Tĩnh Tư. Mái dột, sân mọc cỏ ngang gối. Ký ức nguyên chủ ùa vào đầu: Lục Vãn Ca, Quý phi, cháu gái lão tướng quân Lục Chấn. Kiếp trước bạn cùng Khang vương và ông nội Lục Chấn lật đổ hoàng đế Tiêu Hàn Uyên, ép hắn uống chén thuốc độc. Kiếp này hắn sống lại, nhớ hết, và đày bạn vào đây để trả thù. Bạn phải quyết định bắt đầu sống trong lãnh cung này từ đâu.",
       "tieu": "Ác niệm 100, Hắc hóa 70, Hảo cảm âm hai mươi. Hắn hận ngươi thật đấy. Nhưng ngươi khóc lóc van xin thì hắn chỉ càng thích hành hạ thôi.",
       "cast": "vc,bd,tc",
       "ch": [
@@ -186,7 +186,7 @@
       "place": "Lãnh cung Tĩnh Tư, vườn sau",
       "kind": "duyen",
       "title": "Vườn rau và chiếc xích đu",
-      "text": "Một tháng trôi qua. Bạn cuốc đất trồng rau, buộc dây thừng lên cành hòe làm xích đu, sáng sáng múa kiếm gỗ giữa sân. Bích Đào lỡ tay đỡ một viên ngói rơi bằng một chiêu gọn gàng: hóa ra cô hầu nhỏ này là cao thủ võ công. Tin Quý phi sống vui trong lãnh cung bay đến tai vua.",
+      "text": "Một tháng trôi qua. Bạn cuốc đất trồng rau, buộc dây thừng lên cành hòe làm xích đu, sáng sáng múa kiếm gỗ giữa sân. Bích Đào lỡ tay đỡ một viên ngói rơi bằng một chiêu gọn gàng: hóa ra cô hầu nhỏ này là cao thủ võ công. Tin Quý phi sống vui trong lãnh cung bay đến tai vua. Bạn phải quyết định dành những ngày này cho việc gì.",
       "tieu": "Hắn nghe tin ngươi vui vẻ thì tức lắm. Hắc hóa lên một chút rồi. Mà kệ, ngươi cứ sống tốt đi, người ta chỉ chịu nhìn kỹ kẻ không sợ mình.",
       "cast": "vc,bd",
       "ch": [
@@ -263,7 +263,7 @@
       "place": "Lãnh cung Tĩnh Tư, đêm",
       "kind": "hiem",
       "title": "Rắn trong viện",
-      "text": "Nửa đêm, Bích Đào hét lên: sân đầy rắn, bò ra từ các khe tường. Đây là quà của vua. Tiểu Châu bảo đều là rắn có độc.",
+      "text": "Nửa đêm, Bích Đào hét lên: sân đầy rắn, bò ra từ các khe tường. Đây là quà của vua. Tiểu Châu bảo đều là rắn có độc. Bạn phải quyết định đối phó đàn rắn này ra sao.",
       "tieu": "Bình tĩnh. Ta rải được ít linh khí, rắn sẽ không cắn ngươi, nhưng Bích Đào thì không chắc.",
       "cast": "vc,bd,tc",
       "ch": [
@@ -337,7 +337,7 @@
       "place": "Lãnh cung Tĩnh Tư, giữa trưa",
       "kind": "hiem",
       "title": "Đám thị vệ phá viện",
-      "text": "Vua sai một toán thị vệ đến lãnh cung. Chúng giẫm nát vườn rau, chặt dây xích đu, rồi đòi lôi Quý phi ra quỳ giữa nắng để chịu phạt. Bích Đào chắn trước cửa.",
+      "text": "Vua sai một toán thị vệ đến lãnh cung. Chúng giẫm nát vườn rau, chặt dây xích đu, rồi đòi lôi Quý phi ra quỳ giữa nắng để chịu phạt. Bích Đào chắn trước cửa. Bích Đào đang chắn cửa, và bạn phải quyết định xử lý ra sao.",
       "tieu": "Đừng đánh tay không với cả đám. Trong vườn có hoa mạn đà la ngươi trồng hôm trước, nhớ chưa?",
       "cast": "vc,bd",
       "ch": [
@@ -418,7 +418,7 @@
       "place": "Điện Thái Hòa, buổi chầu sớm",
       "kind": "chon",
       "title": "Ông nội trên triều",
-      "text": "Tin Quý phi bị phạt lọt ra ngoài. Giữa buổi chầu, lão tướng quân Lục Chấn đập gậy xuống nền điện, mắng vua bạc tình. Vua cười lạnh, tước luôn ấn soái của Lục gia. Bích Đào mua chuộc được người đưa thư ra ngoài cho bạn.",
+      "text": "Tin Quý phi bị phạt lọt ra ngoài. Giữa buổi chầu, lão tướng quân Lục Chấn đập gậy xuống nền điện, mắng vua bạc tình. Vua cười lạnh, tước luôn ấn soái của Lục gia. Bích Đào mua chuộc được người đưa thư ra ngoài cho bạn. Bạn phải quyết định có can thiệp vào chuyện của ông nội hay không.",
       "tieu": "Kiếp trước, chính ông nội ngươi dẫn quân vào cung. Ông càng giận thì cái kết kia càng gần.",
       "cast": "vc,lc,hu",
       "ch": [
@@ -488,7 +488,7 @@
       "place": "Lãnh cung Tĩnh Tư, canh ba",
       "kind": "hiem",
       "title": "Kẻ áo đen trốn vào điện",
-      "text": "Một kẻ áo đen máu me đầy ngực lẻn vào điện, kề dao vào cổ Bích Đào: cho ta trốn một lát. Thị vệ lùng sục khắp nơi, đi ngang cổng Tĩnh Tư mà không bước vào. Như có người đã dặn trước.",
+      "text": "Một kẻ áo đen máu me đầy ngực lẻn vào điện, kề dao vào cổ Bích Đào: cho ta trốn một lát. Thị vệ lùng sục khắp nơi, đi ngang cổng Tĩnh Tư mà không bước vào. Như có người đã dặn trước. Bạn phải quyết định xử lý kẻ lạ này thế nào.",
       "tieu": "Có người đang dõi theo ngươi từ trên mái. Ta không nói là ai đâu.",
       "cast": "vc,bd",
       "ch": [
@@ -560,7 +560,7 @@
       "place": "Lãnh cung Tĩnh Tư, tường viện dưới trăng",
       "kind": "duyen",
       "title": "Người đeo mặt nạ",
-      "text": "Từ đêm ấy, cứ canh hai lại có một người đàn ông đeo mặt nạ bạc ngồi trên tường viện, xem bạn múa kiếm. Hắn không nói gì, chỉ ngồi đến khi bạn dừng. Đêm thứ mười, hắn nhảy xuống, nhặt thanh kiếm gỗ bạn làm rơi: ta là Hàn Thất, thị vệ trong cung.",
+      "text": "Từ đêm ấy, cứ canh hai lại có một người đàn ông đeo mặt nạ bạc ngồi trên tường viện, xem bạn múa kiếm. Hắn không nói gì, chỉ ngồi đến khi bạn dừng. Đêm thứ mười, hắn nhảy xuống, nhặt thanh kiếm gỗ bạn làm rơi: ta là Hàn Thất, thị vệ trong cung. Bạn phải quyết định tiếp đón người lạ này ra sao.",
       "tieu": "Giọng hắn trầm, tay có vết chai cầm bút nhiều hơn cầm kiếm. Ngươi đoán thử xem thị vệ nào lại đi giày thêu rồng?",
       "cast": "vc,ht",
       "ch": [
@@ -638,7 +638,7 @@
       "place": "Cung Thần Hi của Hạ Thục phi",
       "kind": "chon",
       "title": "Lời khuyên của Hạ Thục phi",
-      "text": "Ở cung Thần Hi, Hạ Thục phi vừa đấm vai cho vua vừa thủ thỉ: giết một người thì dễ, khiến người ấy yêu mình rồi vứt bỏ mới là đau. Vua im lặng rất lâu. Đêm đó, Tiểu Châu kể lại tất cả cho bạn nghe, kèm một câu: Hàn Thất chính là hắn.",
+      "text": "Ở cung Thần Hi, Hạ Thục phi vừa đấm vai cho vua vừa thủ thỉ: giết một người thì dễ, khiến người ấy yêu mình rồi vứt bỏ mới là đau. Vua im lặng rất lâu. Đêm đó, Tiểu Châu kể lại tất cả cho bạn nghe, kèm một câu: Hàn Thất chính là hắn. Bạn phải quyết định đối xử với Hàn Thất thế nào, khi đã biết hắn là ai.",
       "tieu": "Giờ ngươi biết rồi, giữ bí mật đi. Hắn diễn thì ngươi diễn, ai diễn hay hơn thì thắng.",
       "cast": "vc,htp,hu,tc",
       "ch": [
@@ -785,7 +785,7 @@
       "place": "Lãnh cung Tĩnh Tư, sáng mưa",
       "kind": "hiem",
       "title": "Thích khách vào Hình bộ",
-      "text": "Bích Đào chạy về, mặt trắng bệch: đêm qua thị vệ bắt được một thích khách đeo mặt nạ bạc trên mái lãnh cung, đã giải vào Hình bộ. Không ai biết tên. Tiểu Châu cười khẩy: thích khách nào, đó là phép thử của hắn.",
+      "text": "Bích Đào chạy về, mặt trắng bệch: đêm qua thị vệ bắt được một thích khách đeo mặt nạ bạc trên mái lãnh cung, đã giải vào Hình bộ. Không ai biết tên. Tiểu Châu cười khẩy: thích khách nào, đó là phép thử của hắn. Bạn phải quyết định xử lý nỗi lo này thế nào.",
       "tieu": "Hắn đang núp ở đâu đó nhìn ngươi. Ngươi không lo thì hắn biết ngươi biết. Lo quá thì giả.",
       "cast": "vc,bd,tc",
       "ch": [
@@ -865,7 +865,7 @@
       "place": "Lãnh cung Tĩnh Tư, dưới gốc đào",
       "kind": "duyen",
       "title": "Hẹn ước dưới trăng",
-      "text": "Hàn Thất trở lại, cầm theo một cành đào nở sớm. Hắn nói: nếu có ngày ta đưa nàng ra khỏi đây, nàng có đi cùng ta không? Giọng hắn run. Tiểu Châu báo Ác niệm vừa tụt mấy điểm, còn Hắc hóa thì dao động như sóng.",
+      "text": "Hàn Thất trở lại, cầm theo một cành đào nở sớm. Hắn nói: nếu có ngày ta đưa nàng ra khỏi đây, nàng có đi cùng ta không? Giọng hắn run. Tiểu Châu báo Ác niệm vừa tụt mấy điểm, còn Hắc hóa thì dao động như sóng. Bạn phải quyết định đáp lại lời hẹn ấy ra sao.",
       "tieu": "Hắn đang cãi nhau với chính hắn. Một nửa muốn trả thù, một nửa muốn ngươi đi theo thật.",
       "cast": "vc,ht",
       "ch": [
@@ -1019,7 +1019,7 @@
       "place": "Lãnh cung Tĩnh Tư, mỗi sáng",
       "kind": "hiem",
       "title": "Bát canh an thần",
-      "text": "Sau đêm yến, tổng quản Lưu Hỉ đích thân mang đến một bát canh an thần, nói là vua ban, ngày nào cũng có. Canh thơm mùi táo đỏ. Uống được vài hôm, bạn thấy người uể oải, tay cầm kiếm không còn vững.",
+      "text": "Sau đêm yến, tổng quản Lưu Hỉ đích thân mang đến một bát canh an thần, nói là vua ban, ngày nào cũng có. Canh thơm mùi táo đỏ. Uống được vài hôm, bạn thấy người uể oải, tay cầm kiếm không còn vững. Bạn phải quyết định có dám uống bát canh này hay không.",
       "tieu": "Canh này có vị lạ. Ta không nhìn ra là gì, nhưng uống mãi sẽ không tốt đâu.",
       "cast": "vc,lh,bd",
       "ch": [
@@ -1157,7 +1157,7 @@
       "place": "Giấc mơ của vua, kiếp trước",
       "kind": "nan",
       "title": "Giấc mơ kiếp trước",
-      "text": "Đêm ấy vua mơ. Hắn thấy kiếp trước: cô gái họ Lục đứng dưới mưa trước cửa điện suốt ba năm mà hắn không mở cửa. Thấy nàng nhận lời Khang vương trong tuyệt vọng. Và thấy ngày hắn uống chén độc, nàng cũng uống một chén y hệt ở lãnh cung, chết cùng giờ với hắn.",
+      "text": "Đêm ấy vua mơ. Hắn thấy kiếp trước: cô gái họ Lục đứng dưới mưa trước cửa điện suốt ba năm mà hắn không mở cửa. Thấy nàng nhận lời Khang vương trong tuyệt vọng. Và thấy ngày hắn uống chén độc, nàng cũng uống một chén y hệt ở lãnh cung, chết cùng giờ với hắn. Bạn phải quyết định để giấc mơ này dừng ở đâu.",
       "tieu": "Giấc mơ này nửa thật nửa dệt. Ngươi chọn cho hắn tỉnh dậy với điều gì.",
       "cast": "vc,hu,tc",
       "ch": [
@@ -1232,7 +1232,7 @@
       "place": "Lãnh cung Tĩnh Tư, dưới gốc đào nở hoa",
       "kind": "duyen",
       "title": "Hôn lễ dưới gốc đào",
-      "text": "Hàn Thất quay lại sau giấc mơ, mắt đỏ hoe. Hắn mang theo hai ngọn nến đỏ và một tấm khăn trùm đầu: ta không có kiệu hoa, nàng có chịu lạy trời đất với ta không. Bích Đào lén lau nước mắt.",
+      "text": "Hàn Thất quay lại sau giấc mơ, mắt đỏ hoe. Hắn mang theo hai ngọn nến đỏ và một tấm khăn trùm đầu: ta không có kiệu hoa, nàng có chịu lạy trời đất với ta không. Bích Đào lén lau nước mắt. Bạn phải quyết định đáp lại lời cầu hôn này ra sao.",
       "tieu": "Hắn biết ngươi vẫn là Quý phi của hắn. Hắn chỉ muốn được cưới ngươi bằng tên thật của lòng mình một lần.",
       "cast": "vc,ht,bd",
       "ch": [
@@ -1309,7 +1309,7 @@
       "place": "Lãnh cung Tĩnh Tư, buổi chiều",
       "kind": "hiem",
       "title": "Khang vương ở lãnh cung",
-      "text": "Khang vương Tiêu Cẩn, em trai vua, lẻn vào lãnh cung. Áo trắng, quạt ngọc, giọng dịu như nước: Vãn Ca, ta đến muộn. Hắn ôm chầm lấy bạn. Tiểu Châu hét: tay hắn vừa sờ vào đâu là ta thấy ác ý đến đó.",
+      "text": "Khang vương Tiêu Cẩn, em trai vua, lẻn vào lãnh cung. Áo trắng, quạt ngọc, giọng dịu như nước: Vãn Ca, ta đến muộn. Hắn ôm chầm lấy bạn. Tiểu Châu hét: tay hắn vừa sờ vào đâu là ta thấy ác ý đến đó. Bạn phải quyết định đối xử với hắn thế nào.",
       "tieu": "Hắn cần Lục gia hơn cần ngươi. Từ chối thì hắn mất mặt, nhưng nhận lời thì vua sẽ biết.",
       "cast": "vc,kv,tc",
       "ch": [
@@ -1384,7 +1384,7 @@
       "place": "Lãnh cung Tĩnh Tư, đêm không trăng",
       "kind": "nan",
       "title": "Thích khách mặc áo thị vệ",
-      "text": "Nửa đêm, mười mấy kẻ mặc đồng phục thị vệ đại nội trèo tường vào, mặt không che. Hàn Thất đang ở trong viện, lập tức đeo mặt nạ rút kiếm. Tiểu Châu nói: người của Đoạn Kiêu, mưu sĩ phủ Khang vương. Giết ngươi, đổ cho vua, Lục gia sẽ khởi binh.",
+      "text": "Nửa đêm, mười mấy kẻ mặc đồng phục thị vệ đại nội trèo tường vào, mặt không che. Hàn Thất đang ở trong viện, lập tức đeo mặt nạ rút kiếm. Tiểu Châu nói: người của Đoạn Kiêu, mưu sĩ phủ Khang vương. Giết ngươi, đổ cho vua, Lục gia sẽ khởi binh. Bạn phải quyết định xử lý tên thích khách này thế nào.",
       "tieu": "Bích Đào giữ được cửa sau. Ngươi muốn giúp hắn, hay muốn lợi dụng lúc loạn?",
       "cast": "vc,ht,bd,dk",
       "ch": [
@@ -1538,7 +1538,7 @@
       "place": "Lãnh cung Tĩnh Tư, trưa hôm sau",
       "kind": "chon",
       "title": "Cái tát ở Tĩnh Tư",
-      "text": "Vua quay lại, lần này không đeo mặt nạ, đi sau là cả đoàn thái giám. Lưu Hỉ quát: Quý phi to gan, sao không hành lễ. Bạn vẫn ngồi cắn hạt dưa. Vua quát lại Lưu Hỉ: câm miệng. Rồi hắn đuổi hết người ra ngoài.",
+      "text": "Vua quay lại, lần này không đeo mặt nạ, đi sau là cả đoàn thái giám. Lưu Hỉ quát: Quý phi to gan, sao không hành lễ. Bạn vẫn ngồi cắn hạt dưa. Vua quát lại Lưu Hỉ: câm miệng. Rồi hắn đuổi hết người ra ngoài. Bạn phải quyết định nói gì với hắn trong căn phòng vắng này.",
       "tieu": "Hắn đến xin lỗi, nhưng không biết xin lỗi. Ngươi dạy hắn đi.",
       "cast": "vc,hu,lh",
       "ch": [
@@ -1615,7 +1615,7 @@
       "place": "Ngự hoa viên, hồ sen mùa đông",
       "kind": "hiem",
       "title": "Hồ sen mùa đông",
-      "text": "Ở cung Lâm Nguyệt chưa được mười ngày, Hạ Thục phi chặn đường bạn bên hồ sen. Nói được hai câu, nàng ta tự ngả người xuống hồ, kêu cứu: Quý phi đẩy ta. Đám cung nhân sợ hãi nhìn bạn.",
+      "text": "Ở cung Lâm Nguyệt chưa được mười ngày, Hạ Thục phi chặn đường bạn bên hồ sen. Nói được hai câu, nàng ta tự ngả người xuống hồ, kêu cứu: Quý phi đẩy ta. Đám cung nhân sợ hãi nhìn bạn. Cả đám cung nhân đang nhìn, và bạn phải quyết định làm gì.",
       "tieu": "Thục phi lớn lên ở Giang Nam, bơi giỏi hơn cá. Ngươi chỉ cần chờ.",
       "cast": "vc,htp,bd",
       "ch": [
@@ -1767,7 +1767,7 @@
       "place": "Hậu cung, sau lệnh của vua",
       "kind": "nan",
       "title": "Lệnh xử phạt hậu cung",
-      "text": "Triệu tiệp dư vô ý va phải bạn ở hành lang, bạn trượt chân ngã. Hôm sau vua hạ lệnh đánh Triệu tiệp dư năm mươi trượng, và tra xét mọi phi tần từng gây khó dễ cho Quý phi. Cả hậu cung sợ đến không dám thở mạnh.",
+      "text": "Triệu tiệp dư vô ý va phải bạn ở hành lang, bạn trượt chân ngã. Hôm sau vua hạ lệnh đánh Triệu tiệp dư năm mươi trượng, và tra xét mọi phi tần từng gây khó dễ cho Quý phi. Cả hậu cung sợ đến không dám thở mạnh. Bạn phải quyết định xử lý lệnh phạt này ra sao.",
       "tieu": "Hắn làm thế để bảo vệ ngươi, nhưng tạo nghiệt thì Ác niệm không giảm được.",
       "cast": "vc,hu,tt",
       "ch": [
@@ -1996,7 +1996,7 @@
       "place": "Chùa Thanh Liên, phòng khách sau chánh điện",
       "kind": "chon",
       "title": "Chùa Thanh Liên lần một",
-      "text": "Mẹ hẹn bạn lên chùa Thanh Liên dâng hương. Trong phòng khách sau chánh điện, người chờ bạn không phải mẹ mà là Khang vương. Hắn rót trà, cười hiền: hoàng tẩu, cho thần đệ nói một câu.",
+      "text": "Mẹ hẹn bạn lên chùa Thanh Liên dâng hương. Trong phòng khách sau chánh điện, người chờ bạn không phải mẹ mà là Khang vương. Hắn rót trà, cười hiền: hoàng tẩu, cho thần đệ nói một câu. Bạn phải quyết định đối đáp với hắn thế nào.",
       "tieu": "Phòng này cách âm, ảnh vệ của vua không nghe được. Nhưng mùi đàn hương của hắn thì sẽ bám lên áo ngươi.",
       "cast": "vc,kv,tc",
       "ch": [
@@ -2067,7 +2067,7 @@
       "place": "Chùa Thanh Liên, lần thứ hai",
       "kind": "nan",
       "title": "Chùa Thanh Liên lần hai",
-      "text": "Vua không chịu nhường ngôi. Bạn chủ động hẹn Khang vương lần nữa: ta giúp ngươi lên ngôi danh chính ngôn thuận, đổi lại ngươi tha cho hoàng huynh và Lục gia, cả đời không truy. Trên đường về, Tiểu Châu báo: hắn biết ngươi lại đi gặp Khang vương.",
+      "text": "Vua không chịu nhường ngôi. Bạn chủ động hẹn Khang vương lần nữa: ta giúp ngươi lên ngôi danh chính ngôn thuận, đổi lại ngươi tha cho hoàng huynh và Lục gia, cả đời không truy. Trên đường về, Tiểu Châu báo: hắn biết ngươi lại đi gặp Khang vương. Bạn phải quyết định xử lý thỏa thuận này ra sao.",
       "tieu": "Hắc hóa đang lên rất nhanh. Ta không chặn được. Ngươi chỉ có thể làm cho cú này nhẹ đi.",
       "cast": "vc,kv,hu,tc",
       "ch": [
@@ -2140,7 +2140,7 @@
       "place": "Cung Lâm Nguyệt, hoàng hôn",
       "kind": "nan",
       "title": "Chén trà hoa",
-      "text": "Vua về cung, bạn chạy ra đón như mọi khi, rồi vào bếp pha trà hoa. Ảnh vệ Mặc Nhất thấy bạn bỏ một gói bột vào trà. Vua nâng chén lên, nhìn bạn rất lâu: Vãn Ca, nàng đã bao giờ yêu trẫm chưa.",
+      "text": "Vua về cung, bạn chạy ra đón như mọi khi, rồi vào bếp pha trà hoa. Ảnh vệ Mặc Nhất thấy bạn bỏ một gói bột vào trà. Vua nâng chén lên, nhìn bạn rất lâu: Vãn Ca, nàng đã bao giờ yêu trẫm chưa. Vua đang nâng chén chờ bạn, và bạn phải quyết định làm gì.",
       "tieu": "Trong trà là thuốc ngủ ngươi chế, không phải độc. Nhưng hắn tin là độc, và hắn vẫn định uống.",
       "cast": "vc,hu,mn",
       "ch": [

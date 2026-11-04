@@ -146,7 +146,7 @@
    "place": "Vách Đoạn Hồn · Đêm",
    "kind": "duyen",
    "title": "Tỉnh dậy làm A Phiêu",
-   "text": "Đêm đã khuya. Hồn nhập vào Dịch Tiểu Lựu và lơ lửng giữa không trung, ngay trên vách Đoạn Hồn sau Thanh Hà thôn. Bạn biết mình phải ở lại thế giới này đúng hai mươi năm, và người cần cảm hóa là Mục Cửu, một đạo sĩ bắt yêu mà bạn chưa gặp. Bạn là Tiểu Lựu, sinh viên đã mất ba năm, nay là một «A Phiêu», tức hồn phiêu bạt, mạnh bất thường. Trong tay bạn tự có dải lụa trắng, Chiêu Hồn Phiên, nắm đan bổ hồn và một kho thù lao gồm hạt châu, thanh kiếm cổ và nạp giới để trả công người thuê; bạn biết dùng chúng như biết cử động tay chân. Bạn nhìn bộ xương kẹt trên vách và thấy «có điểm thân thiết».",
+   "text": "Đêm đã khuya. Hồn nhập vào Dịch Tiểu Lựu và lơ lửng giữa không trung, ngay trên vách Đoạn Hồn sau Thanh Hà thôn. Bạn biết mình phải ở lại thế giới này đúng hai mươi năm, và người cần cảm hóa là Mục Cửu, một đạo sĩ bắt yêu mà bạn chưa gặp. Bạn là Tiểu Lựu, sinh viên đã mất ba năm, nay là một «A Phiêu», tức hồn phiêu bạt, mạnh bất thường. Trong tay bạn tự có dải lụa trắng, Chiêu Hồn Phiên, nắm đan bổ hồn và một kho thù lao gồm hạt châu, thanh kiếm cổ và nạp giới để trả công người thuê; bạn biết dùng chúng như biết cử động tay chân. Bạn nhìn bộ xương kẹt trên vách và thấy «có điểm thân thiết». Bạn phải quyết định bắt đầu từ việc gì.",
    "tieu": "Dậy rồi hả? Nghe ta nhanh đây: ngươi chỉ có hai mươi năm, kho thù lao là thứ ngươi dùng để thuê người, và kẻ Ác niệm 100 là một đạo sĩ tên Mục Cửu. Đừng bỏ phí đêm đầu tiên nhé!",
    "cast": "hd_luu,tc",
    "ch": [
@@ -217,7 +217,7 @@
    "place": "Vách Đoạn Hồn · Cùng đêm",
    "kind": "duyen",
    "title": "Ký ức của nguyên chủ",
-   "text": "Tiểu Châu chiếu lại ký ức của bạn. Ba năm trước, bạn cùng sáu bảy bạn sinh viên đi du lịch tự túc và ghé Thanh Hà thôn, nơi dân làng lừa các cô gái đi lạc vào rồi giữ lại. Bạn và bạn thân Sở Vũ Ni bị nhốt khi các bạn nam bị dẫn đi chơi. Bạn trốn được, bị đuổi lên vách, trượt chân rơi xuống và mắc vào đá nhọn. Vũ Ni không trốn được, chống cự đến cùng và qua đời. Suốt ba năm sau, hồn bạn thổi gió ở giao lộ để dọa các cô gái khác quay đầu. Tiểu Châu tóm cốt truyện nguyên tác: bốn ngày nữa nữ chính Kha Nhược Tư tới thôn, nhờ đạo sĩ Quan Vân Sơn diệt hồn bạn; hai người thành đôi nhờ chuyện đó, và nhiều năm sau con gái họ sẽ gặp nạn ở chính thôn này.",
+   "text": "Tiểu Châu chiếu lại ký ức của bạn. Ba năm trước, bạn cùng sáu bảy bạn sinh viên đi du lịch tự túc và ghé Thanh Hà thôn, nơi dân làng lừa các cô gái đi lạc vào rồi giữ lại. Bạn và bạn thân Sở Vũ Ni bị nhốt khi các bạn nam bị dẫn đi chơi. Bạn trốn được, bị đuổi lên vách, trượt chân rơi xuống và mắc vào đá nhọn. Vũ Ni không trốn được, chống cự đến cùng và qua đời. Suốt ba năm sau, hồn bạn thổi gió ở giao lộ để dọa các cô gái khác quay đầu. Tiểu Châu tóm cốt truyện nguyên tác: bốn ngày nữa nữ chính Kha Nhược Tư tới thôn, nhờ đạo sĩ Quan Vân Sơn diệt hồn bạn; hai người thành đôi nhờ chuyện đó, và nhiều năm sau con gái họ sẽ gặp nạn ở chính thôn này. Bạn phải quyết định ghi nhớ nguyên tác đến đâu.",
    "tieu": "Cốt truyện cũ là thế đấy, ngươi nhớ cho kỹ. Lần này ngươi không cần thổi gió nữa. Ta nhắc: Nhược Tư và Vân Sơn là hai người ngươi phải để ý nhất.",
    "cast": "hd_luu,hd_vuni,tc",
    "ch": [
@@ -499,7 +499,7 @@
    "place": "Một căn nhà trong thôn · Đêm thứ ba",
    "kind": "duyen",
    "title": "Căn nhà thứ nhất",
-   "text": "Đêm thứ ba, dân thôn đưa mỗi bạn về một nhà và khóa trong phòng. Ở nhà đầu tiên, Diêu Ngọc Chi bị một gã đàn ông lực lưỡng và bà mẹ canh giữ, ép ở lại làm dâu. Bạn dựng trận cách âm quanh nhà, rồi dùng dải lụa trắng trói chặt cả hai và treo lơ lửng. Bạn nhẹ giọng hỏi Ngọc Chi: «Cô muốn rời nơi này không?». Cô gái run rẩy gật đầu. Tiểu Châu nhắc: nút dây nào càng gọn thì càng ít gây thương tích cho người bị trói.",
+   "text": "Đêm thứ ba, dân thôn đưa mỗi bạn về một nhà và khóa trong phòng. Ở nhà đầu tiên, Diêu Ngọc Chi bị một gã đàn ông lực lưỡng và bà mẹ canh giữ, ép ở lại làm dâu. Bạn dựng trận cách âm quanh nhà, rồi dùng dải lụa trắng trói chặt cả hai và treo lơ lửng. Bạn nhẹ giọng hỏi Ngọc Chi: «Cô muốn rời nơi này không?». Cô gái run rẩy gật đầu. Tiểu Châu nhắc: nút dây nào càng gọn thì càng ít gây thương tích cho người bị trói. Bạn phải quyết định xử lý căn nhà này ra sao.",
    "tieu": "Không ai bị hại trong đêm nay, ngươi nhớ. Trói gọn, dọa đủ, rồi đưa người ra.",
    "cast": "hd_luu,hd_ngoc,tc",
    "ch": [
@@ -785,7 +785,7 @@
    "place": "Thanh Hà thôn · Vài ngày sau",
    "kind": "chon",
    "title": "Thôn bị phanh phui",
-   "text": "Các cô gái đã báo cảnh sát; nhóm công tác kéo vào thôn đưa những phụ nữ bị lừa đi. Không ai nhắc tới bạn: Lam Lam và Ngọc Chi biết ơn, còn Nhược Tư nghĩ chỉ người chuyên môn mới quản được bạn. Phùng Mỹ Hà, bị lừa từ mười năm trước, ôm con ngồi chết lặng giữa sân; bạn thì thầm bên tai: «nếu ở lại, ngươi sẽ thành bà lão kia». Mỹ Hà cuối cùng đi cùng ba con trai là Phùng Đại, Phùng Nhị, Phùng Tam. Nghiêm Tú Anh, một người phụ nữ khác, bỏ nhà không ngoảnh lại. Vài người ở lại, bạn không ép và không đồng tình.",
+   "text": "Các cô gái đã báo cảnh sát; nhóm công tác kéo vào thôn đưa những phụ nữ bị lừa đi. Không ai nhắc tới bạn: Lam Lam và Ngọc Chi biết ơn, còn Nhược Tư nghĩ chỉ người chuyên môn mới quản được bạn. Phùng Mỹ Hà, bị lừa từ mười năm trước, ôm con ngồi chết lặng giữa sân; bạn thì thầm bên tai: «nếu ở lại, ngươi sẽ thành bà lão kia». Mỹ Hà cuối cùng đi cùng ba con trai là Phùng Đại, Phùng Nhị, Phùng Tam. Nghiêm Tú Anh, một người phụ nữ khác, bỏ nhà không ngoảnh lại. Vài người ở lại, bạn không ép và không đồng tình. Bạn phải quyết định xử lý những người ở lại ra sao.",
    "tieu": "Có người đi, có người ở lại. Ngươi cứu được người muốn được cứu, chứ không cứu hộ được kẻ đã chọn ở lại.",
    "cast": "hd_luu,hd_my,hd_tuanh,tc",
    "ch": [
@@ -1065,7 +1065,7 @@
    "place": "Thanh Hà thôn · Đêm trăng cong",
    "kind": "chon",
    "title": "Đêm tiểu quỷ báo thù",
-   "text": "Bạn chia đan bổ hồn cho các tiểu quỷ để hồn thể thành hình, rồi nói: «ai hại các ngươi thì tìm người đó, người không liên quan thì đừng đụng». Hàng chục hồn tản đi. Cả đêm không ai trong thôn ngủ được: nạn nhân cũ hiện ra trước mặt kẻ đã hại mình, kể lại từng lời chúng nói, khiến chúng hoảng loạn tự khai. Kẻ nào bỏ chạy thì bị lụa trắng trói lại chờ công an. Một đốm sáng nhỏ rơi vào tay bạn: mảnh hồn Sở Vũ Ni; Giác Không nhận giữ để siêu độ khi hồn đủ rõ. Vài hồn không còn kẻ thù xin theo bạn làm quỷ tu.",
+   "text": "Bạn chia đan bổ hồn cho các tiểu quỷ để hồn thể thành hình, rồi nói: «ai hại các ngươi thì tìm người đó, người không liên quan thì đừng đụng». Hàng chục hồn tản đi. Cả đêm không ai trong thôn ngủ được: nạn nhân cũ hiện ra trước mặt kẻ đã hại mình, kể lại từng lời chúng nói, khiến chúng hoảng loạn tự khai. Kẻ nào bỏ chạy thì bị lụa trắng trói lại chờ công an. Một đốm sáng nhỏ rơi vào tay bạn: mảnh hồn Sở Vũ Ni; Giác Không nhận giữ để siêu độ khi hồn đủ rõ. Vài hồn không còn kẻ thù xin theo bạn làm quỷ tu. Bạn phải quyết định xử lý các hồn này ra sao.",
    "tieu": "Đêm nay không ai bị hại, chỉ là bị nói ra sự thật. Còn các hồn không còn kẻ thù, hỏi họ muốn đi đâu.",
    "cast": "hd_luu,hd_vuni,hd_giac,tc",
    "ch": [
@@ -1202,7 +1202,7 @@
    "place": "Nhà thôn trưởng · Cùng đêm",
    "kind": "chon",
    "title": "Hai mươi phút",
-   "text": "Quan Vân Sơn rút hồ lô, kiếm gỗ đào, bùa chú: hồ lô bị bóp vỡ, kiếm bị gập, bùa bị xé; hắn nói bạn là «Quỷ Vương cấp». Bạn lạnh giọng: mọi người đàn ông từng tham gia phải tự khai, giao nộp sổ ghi những người bị bán và nộp mình cho công an trong hai mươi phút, nếu không bạn dựng kết giới nhốt cả thôn cho tới khi tiểu quỷ nói chuyện với từng người. Nhược Tư khuyên họ làm theo. Quan Vân Sơn nghiến răng: «hôm nay ta chưa thu được ngươi». Khi thời hạn gần hết, vẫn có người run quá không đứng dậy nổi.",
+   "text": "Quan Vân Sơn rút hồ lô, kiếm gỗ đào, bùa chú: hồ lô bị bóp vỡ, kiếm bị gập, bùa bị xé; hắn nói bạn là «Quỷ Vương cấp». Bạn lạnh giọng: mọi người đàn ông từng tham gia phải tự khai, giao nộp sổ ghi những người bị bán và nộp mình cho công an trong hai mươi phút, nếu không bạn dựng kết giới nhốt cả thôn cho tới khi tiểu quỷ nói chuyện với từng người. Nhược Tư khuyên họ làm theo. Quan Vân Sơn nghiến răng: «hôm nay ta chưa thu được ngươi». Khi thời hạn gần hết, vẫn có người run quá không đứng dậy nổi. Bạn phải quyết định xử lý thời hạn này ra sao.",
    "tieu": "Hai mươi phút là lời ngươi đã nói. Nới hay không là việc của ngươi, nhưng cả thôn đang nhìn.",
    "cast": "hd_luu,hd_son,hd_nhuoc,hd_truong,tc",
    "ch": [
@@ -1270,7 +1270,7 @@
    "place": "Nhà thôn trưởng · Ngay sau đó",
    "kind": "chon",
    "title": "Người đạo sĩ lạ",
-   "text": "Một đạo sĩ trẻ lướt vào; ánh mắt hai người chạm nhau, bạn thấy một linh hồn rất quen. Tiểu Châu khẽ nói: «Đây là người cần cảm hóa». Anh là Mục Cửu, 25 tuổi, đạo sĩ bắt yêu, tình cờ đi ngang vì nghe trong thôn có «nghiệp vụ». Quan Vân Sơn mời anh «thu quỷ» và hứa trả thù lao; anh từ chối vì chỉ bắt yêu, vì «nhân quả quản không được» và vì biết không đánh nổi bạn. Bạn đưa ra thù lao nhờ anh thu liễm hài cốt của mình. Anh nhìn món đồ, rồi nhìn bạn, ánh mắt không rời.",
+   "text": "Một đạo sĩ trẻ lướt vào; ánh mắt hai người chạm nhau, bạn thấy một linh hồn rất quen. Tiểu Châu khẽ nói: «Đây là người cần cảm hóa». Anh là Mục Cửu, 25 tuổi, đạo sĩ bắt yêu, tình cờ đi ngang vì nghe trong thôn có «nghiệp vụ». Quan Vân Sơn mời anh «thu quỷ» và hứa trả thù lao; anh từ chối vì chỉ bắt yêu, vì «nhân quả quản không được» và vì biết không đánh nổi bạn. Bạn đưa ra thù lao nhờ anh thu liễm hài cốt của mình. Anh nhìn món đồ, rồi nhìn bạn, ánh mắt không rời. Bạn phải quyết định trả công anh bằng gì.",
    "tieu": "Đó là Mục Cửu, người ngươi phải cảm hóa. Ác niệm 100, lạnh nhạt và ham tiền. Đưa đúng thứ, đúng lúc.",
    "cast": "hd_luu,hd_cuu,hd_son,tc",
    "ch": [
@@ -1350,7 +1350,7 @@
    "place": "Vách Đoạn Hồn · Chiều",
    "kind": "nan",
    "title": "Nhặt xương và hợp đồng hai mươi năm",
-   "text": "Chiều, Mục Cửu đứng trên mũi kiếm cắm vào vách Đoạn Hồn, nhặt từng khúc xương của bạn bỏ vào túi vải. Bạn dặn «cẩn thận, rơi vỡ thì không đẹp». Anh hỏi sao bạn ngã, bạn kể ngắn gọn. Anh hỏi bạn có đi đầu thai không; bạn đáp «không, ta chỉ ở nhân gian hai mươi năm». Bạn trả thanh kiếm cổ để thuê anh giúp hai mươi năm; anh nhận ngay rồi lặng lẽ tính từng năm trong đầu. Anh không nói gì thêm, nhưng đôi tay đang nhặt xương hơi chậm lại.",
+   "text": "Chiều, Mục Cửu đứng trên mũi kiếm cắm vào vách Đoạn Hồn, nhặt từng khúc xương của bạn bỏ vào túi vải. Bạn dặn «cẩn thận, rơi vỡ thì không đẹp». Anh hỏi sao bạn ngã, bạn kể ngắn gọn. Anh hỏi bạn có đi đầu thai không; bạn đáp «không, ta chỉ ở nhân gian hai mươi năm». Bạn trả thanh kiếm cổ để thuê anh giúp hai mươi năm; anh nhận ngay rồi lặng lẽ tính từng năm trong đầu. Anh không nói gì thêm, nhưng đôi tay đang nhặt xương hơi chậm lại. Bạn phải quyết định nói gì với anh.",
    "tieu": "Hắn đang tính từng năm một. Ngươi nói gì bây giờ, hắn nhớ đến cuối cùng. Nói thẳng hay giấu đều có giá của nó.",
    "cast": "hd_luu,hd_cuu,tc",
    "ch": [
@@ -1434,7 +1434,7 @@
    "place": "Biệt thự mới của họ Dịch · Hôm sau",
    "kind": "chon",
    "title": "Người cha lạnh nhạt",
-   "text": "Hôm sau, Mục Cửu gọi điện cho Dịch Phúc Sinh theo số bạn đọc rồi cả hai tới biệt thự mới. Người cha hỏi «hài cốt ở đâu» bằng giọng bình đạm, chỉ muốn mua mộ để táng, không thiết linh đường; vợ mới Thạch Diễm Chi bồng con trai sơ sinh nói không thể «đen đủi» trong nhà. Ông nói «người chết sao bằng người sống». Mục Cửu hỏi về mẹ bạn; ông đáp bà gặp tai nạn vì đi tìm con. Trong lúc ông nói, Diễm Chi cúi đầu, môi nhếch lên rất khẽ.",
+   "text": "Hôm sau, Mục Cửu gọi điện cho Dịch Phúc Sinh theo số bạn đọc rồi cả hai tới biệt thự mới. Người cha hỏi «hài cốt ở đâu» bằng giọng bình đạm, chỉ muốn mua mộ để táng, không thiết linh đường; vợ mới Thạch Diễm Chi bồng con trai sơ sinh nói không thể «đen đủi» trong nhà. Ông nói «người chết sao bằng người sống». Mục Cửu hỏi về mẹ bạn; ông đáp bà gặp tai nạn vì đi tìm con. Trong lúc ông nói, Diễm Chi cúi đầu, môi nhếch lên rất khẽ. Bạn phải quyết định xử lý cuộc nói chuyện này ra sao.",
    "tieu": "Người cha đó, ngươi thấy rồi đấy. Còn người phụ nữ bên cạnh ông ta, nhớ cái nhếch môi của cô ta. Ta chưa nói gì, nhưng ngươi tự nghĩ đi.",
    "cast": "hd_luu,hd_cuu,hd_phuc,hd_diem,tc",
    "ch": [
@@ -1515,7 +1515,7 @@
    "place": "Nghĩa trang · Ba ngày sau",
    "kind": "duyen",
    "title": "Mua đất an táng",
-   "text": "Ba ngày sau, Mục Cửu mang hoa tươi tới nghĩa trang. Anh tính ra khối đất có phong thủy tốt nhất thành phố, mua bằng tiền của mình rồi đặt xương bạn xuống; anh không lập đàn siêu độ vì biết bạn không thể bị siêu độ như hồn thường. Bạn ngồi trên bia mộ nói chuyện; anh giảng cho bạn cách xem long mạch, vì sao nơi này «đông ấm hạ mát». Anh nói bằng giọng bình thản, nhưng rất tỉ mỉ.",
+   "text": "Ba ngày sau, Mục Cửu mang hoa tươi tới nghĩa trang. Anh tính ra khối đất có phong thủy tốt nhất thành phố, mua bằng tiền của mình rồi đặt xương bạn xuống; anh không lập đàn siêu độ vì biết bạn không thể bị siêu độ như hồn thường. Bạn ngồi trên bia mộ nói chuyện; anh giảng cho bạn cách xem long mạch, vì sao nơi này «đông ấm hạ mát». Anh nói bằng giọng bình thản, nhưng rất tỉ mỉ. Bạn phải quyết định học điều gì từ anh.",
    "tieu": "Hắn mua bằng tiền của hắn. Ngươi biết ý nghĩa thế nào chứ? Học lấy cách xem đất, sau này có ích.",
    "cast": "hd_luu,hd_cuu,tc",
    "ch": [
@@ -1680,7 +1680,7 @@
    "place": "Quán cà phê gần nhà cũ họ Dịch · Hôm sau",
    "kind": "duyen",
    "title": "Hỏi thăm về mẹ",
-   "text": "Hôm sau, Mục Cửu tìm bạn cũ của Kiều Hiểu Dao. Hồng Thục Liên kể mẹ bạn đi tìm con rồi bị tai nạn; hai tháng sau cha cưới Thạch Diễm Chi, người sinh non rồi mất con; nhà họ Dịch dọn đi vì biệt thự «có thứ gì đó» và đạo sĩ đã tới. Bà nhắc thêm Diễm Chi có người anh tên Thạch Đại Hải hay lui tới nhà. Bạn ghi chép từng lời trên khăn giấy.",
+   "text": "Hôm sau, Mục Cửu tìm bạn cũ của Kiều Hiểu Dao. Hồng Thục Liên kể mẹ bạn đi tìm con rồi bị tai nạn; hai tháng sau cha cưới Thạch Diễm Chi, người sinh non rồi mất con; nhà họ Dịch dọn đi vì biệt thự «có thứ gì đó» và đạo sĩ đã tới. Bà nhắc thêm Diễm Chi có người anh tên Thạch Đại Hải hay lui tới nhà. Bạn ghi chép từng lời trên khăn giấy. Bạn phải quyết định hỏi bà điều gì.",
    "tieu": "Ghi từng chữ, từng cái tên. Những thứ nhỏ nhặt này sau sẽ thành sợi dây xâu cả vụ việc lại.",
    "cast": "hd_luu,hd_cuu,hd_lien,tc",
    "ch": [
@@ -1767,7 +1767,7 @@
    "place": "Biệt thự cũ của họ Dịch · Tối",
    "kind": "chon",
    "title": "Biệt thự cũ và nhóm đạo sĩ",
-   "text": "Tối, hai người trèo tường vào biệt thự cũ của họ Dịch, sạch sẽ, chưa bán. Không thấy quỷ nào. Mục Cửu nhắn vào nhóm đạo sĩ của mình hỏi ai từng tới nhà họ Dịch; được biết Quan thiên sĩ và Quan Vân Sơn tới rồi, hồn phía trong «hồn phi phách tán». Anh giải thích vì sao đa số đạo sĩ không nhận vụ có nhân quả nặng còn Quan thiên sĩ thì nhận mọi vụ bắt quỷ. Bạn cười, nụ cười rất lạnh.",
+   "text": "Tối, hai người trèo tường vào biệt thự cũ của họ Dịch, sạch sẽ, chưa bán. Không thấy quỷ nào. Mục Cửu nhắn vào nhóm đạo sĩ của mình hỏi ai từng tới nhà họ Dịch; được biết Quan thiên sĩ và Quan Vân Sơn tới rồi, hồn phía trong «hồn phi phách tán». Anh giải thích vì sao đa số đạo sĩ không nhận vụ có nhân quả nặng còn Quan thiên sĩ thì nhận mọi vụ bắt quỷ. Bạn cười, nụ cười rất lạnh. Bạn phải quyết định hỏi thêm điều gì.",
    "tieu": "Quan thiên sĩ chính là ông thầy của Vân Sơn, người đã diệt hồn mẹ ngươi. Ta nhắc đủ rồi đấy, ngươi tự quyết định đi.",
    "cast": "hd_luu,hd_cuu,hd_thien,hd_son,tc",
    "ch": [
@@ -1936,7 +1936,7 @@
    "place": "Quốc lộ nhỏ · Ngay sau đó",
    "kind": "chon",
    "title": "Cánh cửa luân hồi",
-   "text": "Những hồn ấy là người xứ khác, không ai đón về nên thành cô hồn dã quỷ. Bạn ngồi xếp bằng tụng kinh Vãng Sinh; ánh sáng vàng chảy vào hồn thể, khuôn mặt biến dạng dần trở lại như lúc sống; bạn dựng cánh cửa luân hồi, họ cúi lạy rồi bước vào. Mục Cửu đứng sững: «quỷ siêu độ quỷ, ta chưa từng thấy». Bạn thoáng buồn vì hồn mình chưa thể làm điều đó. Chỉ khi đã học kinh Vãng Sinh, bạn mới siêu độ được.",
+   "text": "Những hồn ấy là người xứ khác, không ai đón về nên thành cô hồn dã quỷ. Bạn ngồi xếp bằng tụng kinh Vãng Sinh; ánh sáng vàng chảy vào hồn thể, khuôn mặt biến dạng dần trở lại như lúc sống; bạn dựng cánh cửa luân hồi, họ cúi lạy rồi bước vào. Mục Cửu đứng sững: «quỷ siêu độ quỷ, ta chưa từng thấy». Bạn thoáng buồn vì hồn mình chưa thể làm điều đó. Chỉ khi đã học kinh Vãng Sinh, bạn mới siêu độ được. Bạn phải quyết định tiễn các hồn đi ra sao.",
    "tieu": "Ngươi học kinh Vãng Sinh chưa? Nếu có rồi thì dựng cửa ngay, họ đang chờ đấy.",
    "cast": "hd_luu,hd_cuu,tc",
    "ch": [
@@ -2017,7 +2017,7 @@
    "place": "Đường ra nhà ga · Chiều muộn",
    "kind": "chon",
    "title": "Chuyện trò trên đường",
-   "text": "Chiều muộn, hai người đi bộ về phía nhà ga. Bạn hỏi tuổi anh (25), có vợ chưa (chưa), từng có người yêu chưa (chưa). Anh kể: cha mẹ tin lời người ngoài cho rằng anh mang vận xui nên khi sư phụ muốn đưa đi họ đồng ý ngay; sư phụ dạy đạo thuật nhưng ít nói. Bạn nói thẳng nếu anh thích bạn thì nói sớm, vì bạn chỉ có hai mươi năm. Anh không đáp, đổi đề tài: «kể về em đi».",
+   "text": "Chiều muộn, hai người đi bộ về phía nhà ga. Bạn hỏi tuổi anh (25), có vợ chưa (chưa), từng có người yêu chưa (chưa). Anh kể: cha mẹ tin lời người ngoài cho rằng anh mang vận xui nên khi sư phụ muốn đưa đi họ đồng ý ngay; sư phụ dạy đạo thuật nhưng ít nói. Bạn nói thẳng nếu anh thích bạn thì nói sớm, vì bạn chỉ có hai mươi năm. Anh không đáp, đổi đề tài: «kể về em đi». Bạn phải quyết định đáp lại anh thế nào.",
    "tieu": "Hắn vừa kể chuyện nhà hắn cho ngươi nghe, tức là hắn tin ngươi rồi. Đừng làm hắn hối hận.",
    "cast": "hd_luu,hd_cuu,tc",
    "ch": [
@@ -2096,7 +2096,7 @@
    "place": "Khu chung cư cao cấp · Hôm sau",
    "kind": "hiem",
    "title": "Chủ xe và lời thú tội",
-   "text": "Hôm sau, từ biển số, hai người tìm ra chủ xe đời hai, rồi tới kẻ gây tai nạn: Thạch Đại Hải, anh trai Thạch Diễm Chi. Mục Cửu đợi ngoài cổng khu chung cư; bạn lướt vào phòng hắn. Hắn hoảng loạn khai hết khi bạn hóa thành hình ảnh quen thuộc: Diễm Chi xúi hắn đâm bà để mở đường cho mình. Bạn thi triển «bị ma quỷ ám ảnh» khiến hắn đi tự thú.",
+   "text": "Hôm sau, từ biển số, hai người tìm ra chủ xe đời hai, rồi tới kẻ gây tai nạn: Thạch Đại Hải, anh trai Thạch Diễm Chi. Mục Cửu đợi ngoài cổng khu chung cư; bạn lướt vào phòng hắn. Hắn hoảng loạn khai hết khi bạn hóa thành hình ảnh quen thuộc: Diễm Chi xúi hắn đâm bà để mở đường cho mình. Bạn thi triển «bị ma quỷ ám ảnh» khiến hắn đi tự thú. Bạn phải quyết định đối phó chủ xe ra sao.",
    "tieu": "Hắn là kẻ cầm lái, nhưng người xúi mới là kẻ đáng sợ. Ngươi biết cách làm hắn khai rồi đấy.",
    "cast": "hd_luu,hd_hai,hd_diem,hd_hieu,tc",
    "ch": [
@@ -2338,7 +2338,7 @@
    "place": "Biệt thự cũ họ Dịch · Sáng",
    "kind": "hiem",
    "title": "Cuộc gặp trong biệt thự",
-   "text": "Quan thiên sĩ cùng Quan Vân Sơn tới, hét «tỉnh lại» khiến Dịch Phúc Sinh thoát khỏi cơn ám; ông hoảng hốt nhận ra mình đã trắng tay và khai tên bạn, ngày sinh. Quan Vân Sơn giật mình vì cái tên. Quan thiên sĩ cầm kiếm xông vào biệt thự; bạn dẫn ông vào, khóa cửa. Ông tinh thông bùa chú và hơn ba mươi năm đạo thuật. Đối đầu trực diện thì nguy, dụ ông ra khỏi trận bàn rồi rút hồn thì nhẹ hơn.",
+   "text": "Quan thiên sĩ cùng Quan Vân Sơn tới, hét «tỉnh lại» khiến Dịch Phúc Sinh thoát khỏi cơn ám; ông hoảng hốt nhận ra mình đã trắng tay và khai tên bạn, ngày sinh. Quan Vân Sơn giật mình vì cái tên. Quan thiên sĩ cầm kiếm xông vào biệt thự; bạn dẫn ông vào, khóa cửa. Ông tinh thông bùa chú và hơn ba mươi năm đạo thuật. Đối đầu trực diện thì nguy, dụ ông ra khỏi trận bàn rồi rút hồn thì nhẹ hơn. Bạn phải quyết định đối phó ông ta ra sao.",
    "tieu": "Ông này không giống Vân Sơn đâu. Đánh thẳng thì đau, dụ ông ra khỏi trận thì dễ hơn. Ngươi tự chọn.",
    "cast": "hd_luu,hd_thien,hd_son,hd_phuc,tc",
    "ch": [
@@ -2416,7 +2416,7 @@
    "place": "Vỉa hè ngoài biệt thự · Cùng ngày",
    "kind": "nan",
    "title": "Một giờ chờ đợi",
-   "text": "Mục Cửu đứng ngoài cổng, không xông vào được vì an bảo; Quan Vân Sơn phá cửa không nổi, Dịch Phúc Sinh ôm con chạy mất. Một giờ trôi qua; anh định phá an bảo xông vào thì bạn bay ra cửa sổ, nhẹ ghé xuống lưng anh. Anh hỏi «có bị thương không?» và tay anh run. Bạn đáp «Quan thiên sĩ đã thành cô hồn dã quỷ». Anh nhìn bạn rất lâu, và bạn thấy đôi mắt anh đỏ.",
+   "text": "Mục Cửu đứng ngoài cổng, không xông vào được vì an bảo; Quan Vân Sơn phá cửa không nổi, Dịch Phúc Sinh ôm con chạy mất. Một giờ trôi qua; anh định phá an bảo xông vào thì bạn bay ra cửa sổ, nhẹ ghé xuống lưng anh. Anh hỏi «có bị thương không?» và tay anh run. Bạn đáp «Quan thiên sĩ đã thành cô hồn dã quỷ». Anh nhìn bạn rất lâu, và bạn thấy đôi mắt anh đỏ. Bạn phải quyết định đáp lại anh thế nào.",
    "tieu": "Hắn đã đứng chờ cả một giờ, một giờ dài nhất đời hắn. Ngươi nói gì lúc này, hắn nhớ cả đời.",
    "cast": "hd_luu,hd_cuu,hd_son,tc",
    "ch": [
@@ -2579,7 +2579,7 @@
    "place": "Đường vắng · Đêm",
    "kind": "chon",
    "title": "Lời thổ lộ",
-   "text": "Đêm, trên đường vắng, bạn nằm trên lưng anh. Bạn gọi anh «A Cửu»; anh nói mình bình thường, không biết vì sao bạn để ý. Bạn khen gương mặt và bản lĩnh của anh. Anh nói «nhân quỷ chi luyến cũng không phải không thể, hình như anh thích em». Bạn cười: «đại khả ái». Anh hỏi «hai mươi năm sau em đi đâu?»; bạn đáp «có lẽ Quỷ giới». Anh quyết tu luyện thật chăm để tìm bạn. Gió đêm lạnh, nhưng lưng anh rất ấm.",
+   "text": "Đêm, trên đường vắng, bạn nằm trên lưng anh. Bạn gọi anh «A Cửu»; anh nói mình bình thường, không biết vì sao bạn để ý. Bạn khen gương mặt và bản lĩnh của anh. Anh nói «nhân quỷ chi luyến cũng không phải không thể, hình như anh thích em». Bạn cười: «đại khả ái». Anh hỏi «hai mươi năm sau em đi đâu?»; bạn đáp «có lẽ Quỷ giới». Anh quyết tu luyện thật chăm để tìm bạn. Gió đêm lạnh, nhưng lưng anh rất ấm. Bạn phải quyết định đáp lại lời thổ lộ này thế nào.",
    "tieu": "Hắn vừa nói ra điều hắn giấu kỹ nhất. Đừng nhìn vào hạn hai mươi năm lúc này, hãy nhìn vào hắn.",
    "cast": "hd_luu,hd_cuu,tc",
    "ch": [
@@ -2659,7 +2659,7 @@
    "place": "Các ngọn núi xa · Nhiều năm",
    "kind": "duyen",
    "title": "Những ngôi làng khác",
-   "text": "Tiểu Châu tóm lược mấy năm: tiểu quỷ báo tin về những thôn tương tự, hai người cùng đi; bạn phanh phui, các cô gái mới bị lừa được cứu, những kẻ chủ mưu bị đưa ra công an; những người phụ nữ ở lâu trong làng mà không muốn đi, bạn không ép và cũng không thương. Cô lập hồ sơ gửi cơ quan chức năng. Trên sườn núi hai người ngồi bên nhau nhìn xuống thôn; Mục Cửu hỏi «Lựu Lựu làm vậy vì chuyện của mình à?»; bạn đáp «đã đến đây thì để lại điều gì đó». Tiếng tăm của bạn lan khắp giới huyền học.",
+   "text": "Tiểu Châu tóm lược mấy năm: tiểu quỷ báo tin về những thôn tương tự, hai người cùng đi; bạn phanh phui, các cô gái mới bị lừa được cứu, những kẻ chủ mưu bị đưa ra công an; những người phụ nữ ở lâu trong làng mà không muốn đi, bạn không ép và cũng không thương. Cô lập hồ sơ gửi cơ quan chức năng. Trên sườn núi hai người ngồi bên nhau nhìn xuống thôn; Mục Cửu hỏi «Lựu Lựu làm vậy vì chuyện của mình à?»; bạn đáp «đã đến đây thì để lại điều gì đó». Tiếng tăm của bạn lan khắp giới huyền học. Bạn phải quyết định xử lý những ngôi làng này ra sao.",
    "tieu": "Bao năm rồi đấy. Ngươi làm được nhiều hơn chính ngươi tưởng, và chuyện này sẽ được nhớ rất lâu.",
    "cast": "hd_luu,hd_cuu,tc",
    "ch": [
@@ -2823,7 +2823,7 @@
    "place": "Một ngôi làng giống Thanh Hà · Đêm",
    "kind": "chon",
    "title": "Phiên tòa của tiểu quỷ",
-   "text": "Nhiều năm sau, ở một ngôi làng giống Thanh Hà, bạn dựng kết giới nhốt Quan Vân Sơn và Kha Nhược Tư bên trong cùng dân thôn: «kẻ thù của người ta ở trong, ngươi đứng xem». Các tiểu quỷ hiện thành hình, nhằm vào kẻ đã hại họ; không ai bị giết, các gã bị trói, khai tội và chờ công an. Quan Vân Sơn gào «thay trời hành đạo không phải thế này»; bạn đáp đạo sĩ cũng là kẻ thay trời, chỉ khác là chọn người để thay. Bạn siêu độ cho các hồn trong ánh sáng vàng; Quan Vân Sơn nhìn, sững sờ.",
+   "text": "Nhiều năm sau, ở một ngôi làng giống Thanh Hà, bạn dựng kết giới nhốt Quan Vân Sơn và Kha Nhược Tư bên trong cùng dân thôn: «kẻ thù của người ta ở trong, ngươi đứng xem». Các tiểu quỷ hiện thành hình, nhằm vào kẻ đã hại họ; không ai bị giết, các gã bị trói, khai tội và chờ công an. Quan Vân Sơn gào «thay trời hành đạo không phải thế này»; bạn đáp đạo sĩ cũng là kẻ thay trời, chỉ khác là chọn người để thay. Bạn siêu độ cho các hồn trong ánh sáng vàng; Quan Vân Sơn nhìn, sững sờ. Bạn phải quyết định xử lý các hồn này ra sao.",
    "tieu": "Hắn chưa từng thấy quỷ làm điều này. Ngươi để họ về đâu, hắn sẽ nhớ.",
    "cast": "hd_luu,hd_son,hd_nhuoc,tc",
    "ch": [
@@ -2983,7 +2983,7 @@
    "place": "Ngoài một ngôi làng đã phanh phui · Hôm sau",
    "kind": "duyen",
    "title": "Trí Huyền đại sư",
-   "text": "Hôm sau, ngoài một ngôi làng đã phanh phui, đại sư Trí Huyền ngồi dưới gốc cây, Quan Vân Sơn đứng cạnh. Trí Huyền nói bạn có «lòng người hộ thể, lời cảm tạ từ bốn phương đổ về», từ chối ra tay dù Quan Vân Sơn trách móc: ông không muốn tự rước nhục. Điện thoại ông reo: đệ tử kêu «hàng trăm tiểu quỷ quấy chùa, áp không nổi». Ông xin bạn dạy kinh Vãng Sinh đầy đủ và cách mở cửa luân hồi; bạn đồng ý với điều kiện ông lo những hồn còn lại sau mỗi lần bạn phanh phui một làng. Quan Vân Sơn bỏ đi, thề sẽ giết hết quỷ trên đời.",
+   "text": "Hôm sau, ngoài một ngôi làng đã phanh phui, đại sư Trí Huyền ngồi dưới gốc cây, Quan Vân Sơn đứng cạnh. Trí Huyền nói bạn có «lòng người hộ thể, lời cảm tạ từ bốn phương đổ về», từ chối ra tay dù Quan Vân Sơn trách móc: ông không muốn tự rước nhục. Điện thoại ông reo: đệ tử kêu «hàng trăm tiểu quỷ quấy chùa, áp không nổi». Ông xin bạn dạy kinh Vãng Sinh đầy đủ và cách mở cửa luân hồi; bạn đồng ý với điều kiện ông lo những hồn còn lại sau mỗi lần bạn phanh phui một làng. Quan Vân Sơn bỏ đi, thề sẽ giết hết quỷ trên đời. Bạn phải quyết định nói gì với ông.",
    "tieu": "Ông ta là người sáng suốt, nhưng ông ta cũng đang cần ngươi. Dạy đủ hay dạy ít, đều tùy ngươi.",
    "cast": "hd_luu,hd_tri,hd_son,hd_cuu,tc",
    "ch": [
@@ -3228,7 +3228,7 @@
    "place": "Sườn núi quen · Tối",
    "kind": "nan",
    "title": "Còn một năm",
-   "text": "Tối, trên sườn núi quen, Tiểu Châu nhắc: còn chưa đầy hai năm. Bạn kể với Mục Cửu «em phải rời đi». Anh siết tay: «anh sẽ xuống Quỷ giới tìm em»; bạn nói «em không ở Quỷ giới, em đi đầu thai, kiếp sau mới gặp được». Anh lo hai người lệch tuổi; bạn trêu «nếu em là bà lão anh có chê không?»; anh đáp «thì anh cũng là ông lão». Giọng anh nhẹ, nhưng bàn tay anh đang nắm bạn run rất khẽ.",
+   "text": "Tối, trên sườn núi quen, Tiểu Châu nhắc: còn chưa đầy hai năm. Bạn kể với Mục Cửu «em phải rời đi». Anh siết tay: «anh sẽ xuống Quỷ giới tìm em»; bạn nói «em không ở Quỷ giới, em đi đầu thai, kiếp sau mới gặp được». Anh lo hai người lệch tuổi; bạn trêu «nếu em là bà lão anh có chê không?»; anh đáp «thì anh cũng là ông lão». Giọng anh nhẹ, nhưng bàn tay anh đang nắm bạn run rất khẽ. Bạn phải quyết định nói gì với anh.",
    "tieu": "Hắn biết rồi, và hắn sợ hơn bao giờ hết. Ngươi nói thế nào lúc này sẽ quyết định hắn bước tiếp ra sao.",
    "cast": "hd_luu,hd_cuu,tc",
    "ch": [
@@ -3389,7 +3389,7 @@
    "place": "Thanh Hà thôn · Vài ngày sau",
    "kind": "hiem",
    "title": "Hạt châu rung",
-   "text": "Vài ngày sau, trên đường, Tiểu Châu báo: hạt châu nứt, Quan Tử Du gặp nguy. Mục Cửu chở bạn tới Thanh Hà thôn; Nhược Tư và Quan Vân Sơn đã đến nhà Phùng Mỹ Hà. Mỹ Hà, người bạn từng cứu, quay lại vì ba con trai đến tuổi cưới vợ, đã lừa Tử Du lên thôn bằng lời ngon ngọt. Bạn nói với Mỹ Hà: «cơ hội đã cho, ngươi đã chọn». Quan Vân Sơn nghiến răng đứng nhìn, không rút kiếm: cảnh sát tới bắt cả nhà.",
+   "text": "Vài ngày sau, trên đường, Tiểu Châu báo: hạt châu nứt, Quan Tử Du gặp nguy. Mục Cửu chở bạn tới Thanh Hà thôn; Nhược Tư và Quan Vân Sơn đã đến nhà Phùng Mỹ Hà. Mỹ Hà, người bạn từng cứu, quay lại vì ba con trai đến tuổi cưới vợ, đã lừa Tử Du lên thôn bằng lời ngon ngọt. Bạn nói với Mỹ Hà: «cơ hội đã cho, ngươi đã chọn». Quan Vân Sơn nghiến răng đứng nhìn, không rút kiếm: cảnh sát tới bắt cả nhà. Bạn phải quyết định đi tới vách đá bằng cách nào.",
    "tieu": "Đứa trẻ đó đang gặp nguy. Còn hạt châu, ngươi đã để lại chưa? Nếu chưa thì ngươi phải tự đỡ thay.",
    "cast": "hd_luu,hd_cuu,hd_my,hd_tu,hd_son,hd_nhuoc,tc",
    "ch": [
@@ -3546,7 +3546,7 @@
    "place": "Nhà Kha Nhược Tư · Vài ngày sau",
    "kind": "chon",
    "title": "Cái giá của nhân quả",
-   "text": "Vài ngày sau, ở nhà và ngoài đường, Nhược Tư tuyên bố ly hôn; Tử Du ủng hộ; Quan Vân Sơn phản đối rồi thấy vết sẹo mới của con gái và đồng ý.",
+   "text": "Vài ngày sau, ở nhà và ngoài đường, Nhược Tư tuyên bố ly hôn; Tử Du ủng hộ; Quan Vân Sơn phản đối rồi thấy vết sẹo mới của con gái và đồng ý. Bạn phải quyết định xử lý hệ quả này ra sao.",
    "tieu": "Chuyện của thầy trò đó cũng là chuyện của ngươi, vì chính ngươi đã gieo nhân. Giờ đứng nhìn hay can thiệp?",
    "cast": "hd_luu,hd_son,hd_thien,hd_nhuoc,hd_tu,tc",
    "ch": [

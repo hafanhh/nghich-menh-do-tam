@@ -132,7 +132,7 @@
       "place": "Căn hộ của bạn · Sáng",
       "kind": "duyen",
       "title": "Tỉnh dậy trong căn hộ bừa bộn",
-      "text": "Mở mắt giữa mùi rượu cũ. Căn hộ ngổn ngang vỏ chai, rèm kéo kín; bạn đã nhốt mình gần một tháng. Ký ức nguyên chủ ùa vào đầu: Tử Hân, 22 tuổi, nữ minh tinh lưu lượng, từng quyên một nửa thù lao nên được yêu mến, nay bị gọi là «bình hoa ôm đùi đạo diễn». Đạo diễn Giản Mặc Hành, 30 tuổi, tiếng «quỷ tài», từng ép bạn rời người bạn yêu là ảnh đế Phan Cảnh Hòa; về sau Cảnh Hòa và bạn gái Khúc Thư Nghi dựng chuyện bôi nhọ bạn. Ba mẹ vẫn thương nhưng chưa dám gọi. Bạn bị cô lập và sắp gục ngã.",
+      "text": "Mở mắt giữa mùi rượu cũ. Căn hộ ngổn ngang vỏ chai, rèm kéo kín; bạn đã nhốt mình gần một tháng. Ký ức nguyên chủ ùa vào đầu: Tử Hân, 22 tuổi, nữ minh tinh lưu lượng, từng quyên một nửa thù lao nên được yêu mến, nay bị gọi là «bình hoa ôm đùi đạo diễn». Đạo diễn Giản Mặc Hành, 30 tuổi, tiếng «quỷ tài», từng ép bạn rời người bạn yêu là ảnh đế Phan Cảnh Hòa; về sau Cảnh Hòa và bạn gái Khúc Thư Nghi dựng chuyện bôi nhọ bạn. Ba mẹ vẫn thương nhưng chưa dám gọi. Bạn bị cô lập và sắp gục ngã. Bạn phải quyết định làm gì đầu tiên khi tỉnh dậy.",
       "tieu": "Dậy rồi à? Chuyện cũ ta nói gọn thôi. Dọn nhà, tắm rửa, rồi hẵng mở điện thoại. Cả mạng đang mắng ngươi đấy.",
       "cast": "n_th,n_mh,n_ch,n_tn,tc",
       "ch": [
@@ -196,7 +196,7 @@
       "place": "Căn hộ · Cùng ngày",
       "kind": "chon",
       "title": "Ba chữ «Chờ xem»",
-      "text": "Điện thoại hiện hàng nghìn bình luận chê. Bạn gõ ba chữ «Chờ xem» và đăng, lập tức lên hot search. Fan trung thành sợ hãi chạy ra nhận. Tiểu Châu đề nghị gỡ hết tin xấu giúp bạn, nhưng bạn từ chối: hắc hồng cũng là hồng. Bạn chỉ nhờ nó lặng lẽ ghi lại ai đứng sau các bài bôi nhọ.",
+      "text": "Điện thoại hiện hàng nghìn bình luận chê. Bạn gõ ba chữ «Chờ xem» và đăng, lập tức lên hot search. Fan trung thành sợ hãi chạy ra nhận. Tiểu Châu đề nghị gỡ hết tin xấu giúp bạn, nhưng bạn từ chối: hắc hồng cũng là hồng. Bạn chỉ nhờ nó lặng lẽ ghi lại ai đứng sau các bài bôi nhọ. Bạn phải quyết định đáp lại cơn bão mạng này ra sao.",
       "tieu": "Gỡ thì dễ, nhưng nước đã đục thì phải để nó lắng đúng chỗ. Chọn cách ngươi muốn bước tiếp.",
       "cast": "n_th,tc",
       "ch": [
@@ -270,7 +270,7 @@
       "place": "Căn hộ · Hôm sau",
       "kind": "duyen",
       "title": "Người đại diện mới",
-      "text": "Hôm sau, Lữ Hồng, người đại diện cũ, gọi tới báo công ty đã bỏ bạn. Bạn cúp máy luôn, rồi một số lạ gọi vào. Chưa đầy nửa giờ, một cô gái 20 tuổi mắt tròn đã đứng trước cửa: Tống Ý, người đại diện mới, hóa ra là fan ngầm từ những ngày bạn còn quyên thù lao. Bạn báo rõ: không nhận quảng cáo, chỉ nhận vai diễn và chương trình thực tế có thử thách. Tống Ý lo nhưng đồng ý.",
+      "text": "Hôm sau, Lữ Hồng, người đại diện cũ, gọi tới báo công ty đã bỏ bạn. Bạn cúp máy luôn, rồi một số lạ gọi vào. Chưa đầy nửa giờ, một cô gái 20 tuổi mắt tròn đã đứng trước cửa: Tống Ý, người đại diện mới, hóa ra là fan ngầm từ những ngày bạn còn quyên thù lao. Bạn báo rõ: không nhận quảng cáo, chỉ nhận vai diễn và chương trình thực tế có thử thách. Tống Ý lo nhưng đồng ý. Bạn phải quyết định nói với Tống Ý thế nào.",
       "tieu": "Người này cầm tay ngươi rất chắc. Đừng làm cô bé sợ trước khi làm cô bé tin.",
       "cast": "n_th,n_ty,n_lh,tc",
       "ch": [
@@ -581,7 +581,7 @@
       "place": "Phòng thử vai · Cuối tuần",
       "kind": "chon",
       "title": "Thử vai",
-      "text": "Cuối tuần, phòng thử vai của Mục Thanh Tùng. Bạn đứng thứ mười một, tay cầm cuốn Toán Olympic. Đạo diễn đã chê chín người trước là «mọt sách nhạt nhẽo». Bạn bước vào, đối thoại với người vắng mặt như thể người ấy có thật, rồi diễn thêm hai đoạn: nữ nhị tức giận và nữ nhị trên cây khi bị thú đuổi. Mục Thanh Tùng đứng bật dậy nhận vai ngay. Lạc Triều Dương, ảnh đế trẻ, nam chính của phim, bước lại gần nói bạn khác hẳn lời đồn.",
+      "text": "Cuối tuần, phòng thử vai của Mục Thanh Tùng. Bạn đứng thứ mười một, tay cầm cuốn Toán Olympic. Đạo diễn đã chê chín người trước là «mọt sách nhạt nhẽo». Bạn bước vào, đối thoại với người vắng mặt như thể người ấy có thật, rồi diễn thêm hai đoạn: nữ nhị tức giận và nữ nhị trên cây khi bị thú đuổi. Mục Thanh Tùng đứng bật dậy nhận vai ngay. Lạc Triều Dương, ảnh đế trẻ, nam chính của phim, bước lại gần nói bạn khác hẳn lời đồn. Bạn phải quyết định diễn buổi thử vai này theo cách nào.",
       "tieu": "Họ cần một người dám bước vào, ngươi có. Giờ chọn cách bước.",
       "cast": "n_th,n_mt,n_td,tc",
       "ch": [
@@ -665,7 +665,7 @@
       "place": "Phòng khách · Hai ngày sau",
       "kind": "duyen",
       "title": "Nhà đầu tư chen ngang",
-      "text": "Hai ngày sau, Tống Ý báo tin: nhà đầu tư Quý Thừa Phong đòi vai nữ nhị cho Khúc Thư Nghi. Trên TV, bản tin đang nhắc một vụ đụng xe trong đêm, kẻ gây ra đã bỏ trốn. Tiểu Châu bật cho bạn xem phần ẩn của cốt truyện: Lạc Triều Dương sẽ gặp tai nạn xe lúc 15:30 chiều nay. Bạn chưa biết hai chuyện có liên quan gì. Bạn gọi hẹn Triều Dương, đeo mặt nạ rồi ra đường.",
+      "text": "Hai ngày sau, Tống Ý báo tin: nhà đầu tư Quý Thừa Phong đòi vai nữ nhị cho Khúc Thư Nghi. Trên TV, bản tin đang nhắc một vụ đụng xe trong đêm, kẻ gây ra đã bỏ trốn. Tiểu Châu bật cho bạn xem phần ẩn của cốt truyện: Lạc Triều Dương sẽ gặp tai nạn xe lúc 15:30 chiều nay. Bạn chưa biết hai chuyện có liên quan gì. Bạn gọi hẹn Triều Dương, đeo mặt nạ rồi ra đường. Bạn phải quyết định xử lý cuộc gặp bất ngờ này ra sao.",
       "tieu": "Tin tức và tai nạn có thể là cùng một sợi chỉ. Đi mau, ba giờ rưỡi không đợi ai.",
       "cast": "n_th,n_ty,n_qp,tc",
       "ch": [
@@ -740,7 +740,7 @@
       "place": "Trên phố · Chiều",
       "kind": "chon",
       "title": "Xe của Giản Mặc Hành",
-      "text": "Trên phố, một chiếc xe tấp vào, người lái hỏi «đi đâu?». Là Giản Mặc Hành. Hắn chở bạn tới nhà Triều Dương. Bạn trêu hắn, hỏi hắn có thích mình không; hắn đáp không. Bạn nói muốn dọn về biệt thự của hắn; hắn do dự rồi hỏi bạn muốn trả thù Cảnh Hòa hay muốn đi đường sự nghiệp. Bạn nói «cả hai» và hắn đồng ý. Trước khi xuống xe bạn hôn nhẹ lên má hắn.",
+      "text": "Trên phố, một chiếc xe tấp vào, người lái hỏi «đi đâu?». Là Giản Mặc Hành. Hắn chở bạn tới nhà Triều Dương. Bạn trêu hắn, hỏi hắn có thích mình không; hắn đáp không. Bạn nói muốn dọn về biệt thự của hắn; hắn do dự rồi hỏi bạn muốn trả thù Cảnh Hòa hay muốn đi đường sự nghiệp. Bạn nói «cả hai» và hắn đồng ý. Trước khi xuống xe bạn hôn nhẹ lên má hắn. Bạn phải quyết định nói gì tiếp theo với hắn.",
       "tieu": "Đừng chơi với lửa quá tay. Hắn nói «không» nhưng tai hắn đỏ đấy.",
       "cast": "n_th,n_mh,tc",
       "ch": [
@@ -905,7 +905,7 @@
       "place": "Căn hộ · 15:10",
       "kind": "hiem",
       "title": "Nữ quỷ nhận nhầm",
-      "text": "15:10, một thôi thúc lạ kéo Triều Dương về phía cửa. Anh lao ra, nghe tiếng thét rồi tỉnh táo lại. Bạn dán bùa lên trán anh để anh thấy: một nữ quỷ nhợt nhạt đứng trong góc, nhận nhầm anh là kẻ đã đụng bạn đêm qua rồi bỏ đi. Triều Dương nói đêm qua anh ở khách sạn, xe có thiết bị ghi hình. Cả ba xuống bãi đỗ xe: xe giống nhau nhưng không có móc khóa hình mèo máy như xe của kẻ đụng.",
+      "text": "15:10, một thôi thúc lạ kéo Triều Dương về phía cửa. Anh lao ra, nghe tiếng thét rồi tỉnh táo lại. Bạn dán bùa lên trán anh để anh thấy: một nữ quỷ nhợt nhạt đứng trong góc, nhận nhầm anh là kẻ đã đụng bạn đêm qua rồi bỏ đi. Triều Dương nói đêm qua anh ở khách sạn, xe có thiết bị ghi hình. Cả ba xuống bãi đỗ xe: xe giống nhau nhưng không có móc khóa hình mèo máy như xe của kẻ đụng. Bạn phải quyết định xử lý nữ quỷ này ra sao.",
       "tieu": "Cô ấy không có ác ý, chỉ đang lạc và sợ. Nói nhỏ thôi.",
       "cast": "n_th,n_td,n_sd,tc",
       "ch": [
@@ -980,7 +980,7 @@
       "place": "Bãi đỗ xe · Cuối chiều",
       "kind": "duyen",
       "title": "Nữ quỷ xin đi theo, nữ chính bị đổi",
-      "text": "Cuối chiều, bãi đỗ xe. Nữ quỷ tên Thi Dĩnh, cúi đầu xin lỗi rồi xin được đi theo bạn. Bạn hứa nếu có dịp sẽ giúp tìm kẻ đã đụng bạn, với điều kiện cô ấy nghe lời, rồi cho cô ấy vào ngọc bội. Triều Dương cảm ơn, hứa giữ vai nữ nhị cho bạn. Hai hôm sau có tin: vai nữ nhị vẫn của bạn, nhưng nữ chính đổi thành Khúc Thư Nghi.",
+      "text": "Cuối chiều, bãi đỗ xe. Nữ quỷ tên Thi Dĩnh, cúi đầu xin lỗi rồi xin được đi theo bạn. Bạn hứa nếu có dịp sẽ giúp tìm kẻ đã đụng bạn, với điều kiện cô ấy nghe lời, rồi cho cô ấy vào ngọc bội. Triều Dương cảm ơn, hứa giữ vai nữ nhị cho bạn. Hai hôm sau có tin: vai nữ nhị vẫn của bạn, nhưng nữ chính đổi thành Khúc Thư Nghi. Bạn phải quyết định đáp lại chuyện đổi vai này thế nào.",
       "tieu": "Giờ ngươi đã có một người đi cùng, dù người ấy không còn thân thể. Đừng bỏ lời hứa.",
       "cast": "n_th,n_td,n_sd,n_tn,tc",
       "ch": [
@@ -1060,7 +1060,7 @@
       "place": "Trường quý tộc làm phim trường · Sáng",
       "kind": "duyen",
       "title": "Khởi máy",
-      "text": "Sáng khởi máy ở trường quý tộc. Đoàn phim còn xa lánh bạn; Mục Thanh Tùng chưa công bố dàn diễn viên. Triều Dương gọi bạn vào phòng hóa trang riêng của anh, dùng rèm ngăn đôi. Rồi Phan Cảnh Hòa đưa Khúc Thư Nghi tới, cả đoàn xôn xao vì ảnh đế đưa bạn gái tới thăm. Bạn thấy cả hai nhìn mình rất lâu.",
+      "text": "Sáng khởi máy ở trường quý tộc. Đoàn phim còn xa lánh bạn; Mục Thanh Tùng chưa công bố dàn diễn viên. Triều Dương gọi bạn vào phòng hóa trang riêng của anh, dùng rèm ngăn đôi. Rồi Phan Cảnh Hòa đưa Khúc Thư Nghi tới, cả đoàn xôn xao vì ảnh đế đưa bạn gái tới thăm. Bạn thấy cả hai nhìn mình rất lâu. Bạn phải quyết định đối diện với hai người họ ra sao.",
       "tieu": "Đây là lần đầu ngươi đứng cùng phòng với hai người đó. Đừng để mặt lộ gì, giữ bình thản.",
       "cast": "n_th,n_td,n_ch,n_tn,tc",
       "ch": [
@@ -1139,7 +1139,7 @@
       "place": "Hành lang ngoài phòng hóa trang · Giờ nghỉ",
       "kind": "chon",
       "title": "Cảnh Hòa nói ác",
-      "text": "Qua Tiểu Châu, bạn nghe được suy nghĩ của Thư Nghi, một thứ lạ như tiếng thì thầm ký sinh trong đầu cô ta. Ngoài hành lang, Cảnh Hòa mỉa mai bạn thông đồng với Triều Dương, nói bạn «chỉ là đồ chơi». Bạn để mắt đỏ lên, nước mắt rơi, đồng thời bật máy ghi âm giấu trong túi. Triều Dương xô Cảnh Hòa một cái. Cảnh Hòa giữ nụ cười, nói với mọi người anh «không so đo».",
+      "text": "Qua Tiểu Châu, bạn nghe được suy nghĩ của Thư Nghi, một thứ lạ như tiếng thì thầm ký sinh trong đầu cô ta. Ngoài hành lang, Cảnh Hòa mỉa mai bạn thông đồng với Triều Dương, nói bạn «chỉ là đồ chơi». Bạn để mắt đỏ lên, nước mắt rơi, đồng thời bật máy ghi âm giấu trong túi. Triều Dương xô Cảnh Hòa một cái. Cảnh Hòa giữ nụ cười, nói với mọi người anh «không so đo». Bạn phải quyết định đáp lại những lời ác ý này thế nào.",
       "tieu": "Máy ghi âm đã chạy. Đây là chứng cứ đầu tiên, giữ cho chắc.",
       "cast": "n_th,n_ch,n_tn,n_td,tc",
       "ch": [
@@ -1233,7 +1233,7 @@
       "place": "Lối ra hành lang · Ngay sau đó",
       "kind": "duyen",
       "title": "Hai người ngã",
-      "text": "Ngay sau đó, Cảnh Hòa tự vấp ngã sấp, Thư Nghi chạy tới đỡ lại vấp ngã đè lên anh. Anh kêu lớn và trẹo chân. Cả đoàn bật cười. Thư Nghi xin nghỉ đi cùng anh tới bệnh viện. Bạn cười thầm: hai lá bùa xui bạn ném đi lúc nãy đã rơi đúng chỗ.",
+      "text": "Ngay sau đó, Cảnh Hòa tự vấp ngã sấp, Thư Nghi chạy tới đỡ lại vấp ngã đè lên anh. Anh kêu lớn và trẹo chân. Cả đoàn bật cười. Thư Nghi xin nghỉ đi cùng anh tới bệnh viện. Bạn cười thầm: hai lá bùa xui bạn ném đi lúc nãy đã rơi đúng chỗ. Bạn phải quyết định xử lý khoảnh khắc này ra sao.",
       "tieu": "Đừng cười lộ ra mặt. Thế mới là cao tay.",
       "cast": "n_th,n_ch,n_tn,tc",
       "ch": [
@@ -1312,7 +1312,7 @@
       "place": "Phòng hóa trang · Cuối buổi",
       "kind": "chon",
       "title": "Mặc Hành tới phim trường",
-      "text": "Cuối buổi, phòng hóa trang. Giản Mặc Hành bước vào, nói «Ta tìm nàng» và hỏi khi nào bạn dọn về. Bạn nói khi nào cũng được nhưng hắn phải tới đón. Hắn cảnh báo tin đồn bị bao dưỡng sẽ thành sự thật, bạn nói bạn không sợ. Triều Dương chặn hắn ở hành lang, bảo đừng làm phiền bạn.",
+      "text": "Cuối buổi, phòng hóa trang. Giản Mặc Hành bước vào, nói «Ta tìm nàng» và hỏi khi nào bạn dọn về. Bạn nói khi nào cũng được nhưng hắn phải tới đón. Hắn cảnh báo tin đồn bị bao dưỡng sẽ thành sự thật, bạn nói bạn không sợ. Triều Dương chặn hắn ở hành lang, bảo đừng làm phiền bạn. Bạn phải quyết định đáp lại lời đề nghị của hắn thế nào.",
       "tieu": "Hắn tới tận phim trường. Đó là lần đầu hắn bước vào chỗ đông người vì ngươi.",
       "cast": "n_th,n_mh,n_td,tc",
       "ch": [
@@ -1487,7 +1487,7 @@
       "place": "Phim trường rồi cổng trường · Chiều",
       "kind": "chon",
       "title": "Cảnh tát và cổng trường",
-      "text": "Cảnh nữ nhị biết nam chính thích em gái. Bạn diễn tát Triều Dương (tiếng vang nhưng không đau), nói «Em sẽ xuất ngoại» rồi chạy khỏi cảnh. Cả phim trường nín thở. Sau buổi quay, ở cổng trường Giản Mặc Hành đã chờ sẵn, đưa khăn giấy. Bạn ôm tay hắn gọi «A Hành», nhờ hắn lau nước mắt. Một tiếng máy ảnh vang lên: có người chụp trộm.",
+      "text": "Cảnh nữ nhị biết nam chính thích em gái. Bạn diễn tát Triều Dương (tiếng vang nhưng không đau), nói «Em sẽ xuất ngoại» rồi chạy khỏi cảnh. Cả phim trường nín thở. Sau buổi quay, ở cổng trường Giản Mặc Hành đã chờ sẵn, đưa khăn giấy. Bạn ôm tay hắn gọi «A Hành», nhờ hắn lau nước mắt. Một tiếng máy ảnh vang lên: có người chụp trộm. Bạn phải quyết định xử lý tiếng máy ảnh này ra sao.",
       "tieu": "Có người chụp. Đừng cuống, chọn cho đúng.",
       "cast": "n_th,n_mh,n_td,tc",
       "ch": [
@@ -1573,7 +1573,7 @@
       "place": "Căn hộ · Sáng hôm sau",
       "kind": "nan",
       "title": "Hot search và những lượt thích",
-      "text": "Sáng hôm sau, tên bạn và hắn cùng lên đầu tin. Mạng mắng cả hắn vì «nuôi bình hoa». Bạn dùng tài khoản lớn bấm thích từng bình luận mắng hắn rồi đăng «Vui vẻ», nói muốn hắn biết cảm giác bị mắng. Hắn cầm điện thoại, nói không cần tự làm xấu mình, rồi đòi dùng quyền thế gỡ hết, bắt từng người mắng phải trả giá. Giọng hắn rất bình thản, và chính điều đó khiến bạn lo.",
+      "text": "Sáng hôm sau, tên bạn và hắn cùng lên đầu tin. Mạng mắng cả hắn vì «nuôi bình hoa». Bạn dùng tài khoản lớn bấm thích từng bình luận mắng hắn rồi đăng «Vui vẻ», nói muốn hắn biết cảm giác bị mắng. Hắn cầm điện thoại, nói không cần tự làm xấu mình, rồi đòi dùng quyền thế gỡ hết, bắt từng người mắng phải trả giá. Giọng hắn rất bình thản, và chính điều đó khiến bạn lo. Bạn phải quyết định ngăn hắn bằng cách nào.",
       "tieu": "Đây là mốc nặng. Đừng để hắn dùng quyền thế như hồi trước, nếu không đường lui của ngươi sẽ khép lại.",
       "cast": "n_th,n_mh,n_ty,tc",
       "ch": [
@@ -1667,7 +1667,7 @@
       "place": "Biệt thự của Mặc Hành · Tối",
       "kind": "chon",
       "title": "Kịch bản mới và lời mời sinh tồn",
-      "text": "Một tối ở phòng khách của Mặc Hành. Tống Ý mang tin: chương trình «Rừng Sâu Thử Thách» có rắn, nhện, rất nguy hiểm; cô bé hỏi bạn có muốn rút không. Mặc Hành ngồi nghe, hỏi chương trình gì rồi để mặc bạn. Bạn xin vai nữ nhị trong phim mới của hắn; hắn đưa kịch bản bảo bạn chọn. Bạn nói nữ nhị mới là người được yêu thật lòng mãi tới cuối. Hắn cầm kịch bản về thư phòng, sửa nam nhị cho hợp.",
+      "text": "Một tối ở phòng khách của Mặc Hành. Tống Ý mang tin: chương trình «Rừng Sâu Thử Thách» có rắn, nhện, rất nguy hiểm; cô bé hỏi bạn có muốn rút không. Mặc Hành ngồi nghe, hỏi chương trình gì rồi để mặc bạn. Bạn xin vai nữ nhị trong phim mới của hắn; hắn đưa kịch bản bảo bạn chọn. Bạn nói nữ nhị mới là người được yêu thật lòng mãi tới cuối. Hắn cầm kịch bản về thư phòng, sửa nam nhị cho hợp. Bạn phải quyết định đáp lại lời mời sinh tồn này thế nào.",
       "tieu": "Nhớ hỏi cho kỹ chương trình ấy trước khi nhận. Ngươi đã nghe giọng hắn khi hắn sửa nam nhị rồi.",
       "cast": "n_th,n_mh,n_ty,tc",
       "ch": [
@@ -1754,7 +1754,7 @@
       "place": "Căn hộ · Tối đầu phát sóng",
       "kind": "chon",
       "title": "Phim học đường lên sóng",
-      "text": "Tối ngày đầu phát sóng. Nhóm hắc phấn tụ họp định mắng bạn, nhưng cảnh keo nước, cảnh bóng rổ và cảnh tát khiến họ khen không dứt. Bạn đăng «Lên sóng, vui vẻ». Thái Vân xào chuyện cho Thư Nghi nhưng không lên nổi. Cuối ngày Tống Ý báo chương trình sinh tồn sẽ phát sóng trực tiếp; hợp đồng đã ký, không rút được.",
+      "text": "Tối ngày đầu phát sóng. Nhóm hắc phấn tụ họp định mắng bạn, nhưng cảnh keo nước, cảnh bóng rổ và cảnh tát khiến họ khen không dứt. Bạn đăng «Lên sóng, vui vẻ». Thái Vân xào chuyện cho Thư Nghi nhưng không lên nổi. Cuối ngày Tống Ý báo chương trình sinh tồn sẽ phát sóng trực tiếp; hợp đồng đã ký, không rút được. Bạn phải quyết định chuẩn bị cho chương trình này ra sao.",
       "tieu": "Phim hay nhưng đừng mừng quá. Ngươi sắp vào rừng thật rồi.",
       "cast": "n_th,n_ty,n_tv,tc",
       "ch": [
@@ -1836,7 +1836,7 @@
       "place": "Trạm tập kết rừng Lâm Hải · Sáng",
       "kind": "chon",
       "title": "Tám người, bốn tổ",
-      "text": "Sáng, trạm tập kết cạnh rừng Lâm Hải. Đạo diễn Đoàn Nguyên giới thiệu tám khách mời: Cảnh Hòa, Triều Dương, Tạ Nặc, Đới Nguyên Bân, Thư Nghi, bạn, Cung Ngưng Thu, Đới Ni. Phát sóng trực tiếp suốt một tháng; nhà đầu tư thưởng một trăm triệu cho mỗi tổ ở tới cuối; đội cứu hộ đi theo. Chia tổ: Tử Hân với Triều Dương, Cảnh Hòa với Thư Nghi, hai chị em họ Đới, Tạ Nặc với Ngưng Thu.",
+      "text": "Sáng, trạm tập kết cạnh rừng Lâm Hải. Đạo diễn Đoàn Nguyên giới thiệu tám khách mời: Cảnh Hòa, Triều Dương, Tạ Nặc, Đới Nguyên Bân, Thư Nghi, bạn, Cung Ngưng Thu, Đới Ni. Phát sóng trực tiếp suốt một tháng; nhà đầu tư thưởng một trăm triệu cho mỗi tổ ở tới cuối; đội cứu hộ đi theo. Chia tổ: Tử Hân với Triều Dương, Cảnh Hòa với Thư Nghi, hai chị em họ Đới, Tạ Nặc với Ngưng Thu. Bạn phải quyết định làm quen với các thành viên theo cách nào.",
       "tieu": "Nhà đầu tư thưởng nhiều đến mức lạ. Có người muốn ngươi ở lại trong rừng.",
       "cast": "n_th,n_td,n_dn,n_ch,n_tn,tc",
       "ch": [
@@ -2602,7 +2602,7 @@
       "place": "Bờ sông · Sáng hôm sau",
       "kind": "hiem",
       "title": "Thư Nghi tiếp cận Triều Dương",
-      "text": "Sáng hôm sau, bờ sông. Thư Nghi mang một giỏ trái cây, khuyên Triều Dương «khuyên Tử Hân bớt chấp nhất», nói Cảnh Hòa đã không để bụng. Triều Dương lạnh mặt. Hệ thống lậu cảnh báo hảo cảm chạm đáy, rồi ù tai khiến Thư Nghi ngã xuống đau đầu mười phút. Cảnh Hòa chạy tới trách Triều Dương; bạn bảo anh không làm gì cả. Tiểu Châu giải thích đó là «trừng phạt» của hệ thống lậu.",
+      "text": "Sáng hôm sau, bờ sông. Thư Nghi mang một giỏ trái cây, khuyên Triều Dương «khuyên Tử Hân bớt chấp nhất», nói Cảnh Hòa đã không để bụng. Triều Dương lạnh mặt. Hệ thống lậu cảnh báo hảo cảm chạm đáy, rồi ù tai khiến Thư Nghi ngã xuống đau đầu mười phút. Cảnh Hòa chạy tới trách Triều Dương; bạn bảo anh không làm gì cả. Tiểu Châu giải thích đó là «trừng phạt» của hệ thống lậu. Bạn phải quyết định xử lý chuyện này ra sao.",
       "tieu": "Thứ ký sinh trong đầu cô ta bắt đầu quay lại cắn chủ. Ngươi chỉ cần đứng ngoài, nhưng phải đứng cho đúng.",
       "cast": "n_th,n_td,n_tn,n_ch,tc",
       "ch": [
@@ -2687,7 +2687,7 @@
       "place": "Trong rừng · Sau hai tuần",
       "kind": "chon",
       "title": "Nửa tháng ăn no",
-      "text": "Sau hai tuần ở rừng, một sáng đi hái lượm. Bạn và Triều Dương săn bắt, hái trái, nhận biết cây ăn được; họ chia thức ăn cho mọi người trừ tổ Cảnh Hòa và Thư Nghi. Đới Ni dặn em trai «đừng đắc tội Tử Hân». Một nhà thực vật học nghe tin tới nghiên cứu vài loài chưa ghi chép.",
+      "text": "Sau hai tuần ở rừng, một sáng đi hái lượm. Bạn và Triều Dương săn bắt, hái trái, nhận biết cây ăn được; họ chia thức ăn cho mọi người trừ tổ Cảnh Hòa và Thư Nghi. Đới Ni dặn em trai «đừng đắc tội Tử Hân». Một nhà thực vật học nghe tin tới nghiên cứu vài loài chưa ghi chép. Bạn phải quyết định chia sẻ thức ăn ra sao.",
       "tieu": "Ăn no là tốt, nhưng chia cho ai mới là chuyện của ngươi.",
       "cast": "n_th,n_td,n_dni,n_dnb,tc",
       "ch": [
@@ -2860,7 +2860,7 @@
       "place": "Rừng sâu Lâm Hải · Giữa buổi",
       "kind": "hiem",
       "title": "Mất tín hiệu",
-      "text": "Giữa buổi, trực thăng báo còn năm phút thả vật phẩm. Rồi tín hiệu và phát sóng đột ngột mất. Bộ đàm báo «tín hiệu bị quấy nhiễu, các tổ ra ngoài»; ba tổ làm theo. Bạn và Triều Dương không nhận được lệnh nào. Tiểu Châu báo có người đang áp sát từ ba hướng.",
+      "text": "Giữa buổi, trực thăng báo còn năm phút thả vật phẩm. Rồi tín hiệu và phát sóng đột ngột mất. Bộ đàm báo «tín hiệu bị quấy nhiễu, các tổ ra ngoài»; ba tổ làm theo. Bạn và Triều Dương không nhận được lệnh nào. Tiểu Châu báo có người đang áp sát từ ba hướng. Bạn phải quyết định ứng phó ngay.",
       "tieu": "Lệnh ra ngoài đó không dành cho ngươi. Có kẻ muốn ngươi ở lại một mình, hoặc muốn ngươi đi vào chỗ chúng đã chuẩn bị.",
       "cast": "n_th,n_td,n_dn,tc",
       "ch": [
@@ -2943,7 +2943,7 @@
       "place": "Rừng sâu Lâm Hải · Vài phút sau",
       "kind": "hiem",
       "title": "Tiếng nổ và rừng sâu",
-      "text": "Vài phút sau, ba hướng có người xuất hiện. Một tiếng nổ chát chúa vang lên, vỏ cây bị tung từng mảng. Bạn kéo Triều Dương nằm xuống né. Bạn nhờ Tiểu Châu chặn tín hiệu của nhóm kia và nối phát sóng qua vệ tinh để cả nước cùng thấy. Triều Dương nói gia sản nhà anh chỉ có mình anh, chắc không ai nhắm anh. Cả hai chạy vào rừng sâu.",
+      "text": "Vài phút sau, ba hướng có người xuất hiện. Một tiếng nổ chát chúa vang lên, vỏ cây bị tung từng mảng. Bạn kéo Triều Dương nằm xuống né. Bạn nhờ Tiểu Châu chặn tín hiệu của nhóm kia và nối phát sóng qua vệ tinh để cả nước cùng thấy. Triều Dương nói gia sản nhà anh chỉ có mình anh, chắc không ai nhắm anh. Cả hai chạy vào rừng sâu. Bạn phải quyết định chạy theo hướng nào.",
       "tieu": "Không ai bị thương thật, đó là may. Nhưng nếu ngươi chạy sai hướng, may sẽ hết ngay.",
       "cast": "n_th,n_td,tc",
       "ch": [
@@ -3026,7 +3026,7 @@
       "place": "Khu đầm lầy · Trước chiều",
       "kind": "hiem",
       "title": "Đầm lầy",
-      "text": "Phía trước là một mảng rêu và đất đen bằng phẳng. Bạn nhận ra đầm lầy và dặn Triều Dương tránh rêu, đất đen. Hai người nhặt đá, tách nhau dụ kẻ truy đuổi rồi vòng lại ném vào cổ tay họ, đẩy họ xuống đầm. Bạn hỏi bằng tiếng Anh ai thuê họ, họ không biết. Bạn tháo vũ khí của họ ném xuống đầm, rồi dùng ná săn mấy con chim; Triều Dương nhặt về nướng.",
+      "text": "Phía trước là một mảng rêu và đất đen bằng phẳng. Bạn nhận ra đầm lầy và dặn Triều Dương tránh rêu, đất đen. Hai người nhặt đá, tách nhau dụ kẻ truy đuổi rồi vòng lại ném vào cổ tay họ, đẩy họ xuống đầm. Bạn hỏi bằng tiếng Anh ai thuê họ, họ không biết. Bạn tháo vũ khí của họ ném xuống đầm, rồi dùng ná săn mấy con chim; Triều Dương nhặt về nướng. Bạn phải quyết định đối phó đám truy đuổi ra sao.",
       "tieu": "Đầm lầy là bạn của ngươi hôm nay. Dụ họ vào, đừng bước vào.",
       "cast": "n_th,n_td,tc",
       "ch": [
@@ -3114,7 +3114,7 @@
       "place": "Bãi đầm lầy · Chiều",
       "kind": "nan",
       "title": "Giản Mặc Hành tới",
-      "text": "Chiều, bãi đầm lầy; bạn đang nướng chim cùng Triều Dương. Giản Mặc Hành tới cùng đội cứu viện, nhìn đầm lầy và hiểu chuyện gì đã xảy ra. Mặt hắn trắng bệch. Hắn ngồi xuống giành miếng chim bạn đang gặm, nói «tới bàn phim mới». Hắn thì thầm: phim sau này nhân vật nào cũng để bạn chọn. Bạn nhìn thấy bàn tay hắn run, và hắn ôm bạn chặt hơn thường lệ, như sợ mất.",
+      "text": "Chiều, bãi đầm lầy; bạn đang nướng chim cùng Triều Dương. Giản Mặc Hành tới cùng đội cứu viện, nhìn đầm lầy và hiểu chuyện gì đã xảy ra. Mặt hắn trắng bệch. Hắn ngồi xuống giành miếng chim bạn đang gặm, nói «tới bàn phim mới». Hắn thì thầm: phim sau này nhân vật nào cũng để bạn chọn. Bạn nhìn thấy bàn tay hắn run, và hắn ôm bạn chặt hơn thường lệ, như sợ mất. Bạn phải quyết định đáp lại hắn thế nào.",
       "tieu": "Đây là mốc nặng. Hắn đã thấy nơi suýt nữa ngươi không còn. Kéo hắn lại trước khi nỗi sợ biến thành cơn giận.",
       "cast": "n_th,n_mh,n_td,tc",
       "ch": [
@@ -3208,7 +3208,7 @@
       "place": "Mép rừng Lâm Hải · Sau đó",
       "kind": "duyen",
       "title": "Đặc nhiệm và chặng ra rừng",
-      "text": "Sau đó, hai mươi đặc nhiệm hạ cánh, kính nể bạn. Bạn mời họ chim nướng, họ từ chối lịch sự và đưa những kẻ truy đuổi ra khỏi đầm. Bạn nói mỏi chân; Mặc Hành ngồi xuống cõng bạn ra khỏi rừng, cả nước xem trực tiếp. Cảnh Hòa nhìn theo; Thư Nghi để ý ánh mắt hắn.",
+      "text": "Sau đó, hai mươi đặc nhiệm hạ cánh, kính nể bạn. Bạn mời họ chim nướng, họ từ chối lịch sự và đưa những kẻ truy đuổi ra khỏi đầm. Bạn nói mỏi chân; Mặc Hành ngồi xuống cõng bạn ra khỏi rừng, cả nước xem trực tiếp. Cảnh Hòa nhìn theo; Thư Nghi để ý ánh mắt hắn. Bạn phải quyết định nói gì với hắn trên đường ra.",
       "tieu": "Ngươi đã làm xong chặng khó nhất. Giờ để hắn cõng ngươi ra khỏi rừng.",
       "cast": "n_th,n_mh,n_ch,n_tn,tc",
       "ch": [
@@ -3295,7 +3295,7 @@
       "place": "Văn phòng Đoàn Nguyên · Vài ngày sau",
       "kind": "chon",
       "title": "Truy tìm người đứng sau",
-      "text": "Vài ngày sau, bạn gọi Đoàn Nguyên hỏi ai là nhà đầu tư; ông nói «Quý tổng». Tiểu Châu lần ra chứng cứ: Quý Thừa Phong cố tình để tín hiệu bị quấy nhiễu, thuê kẻ truy sát, và từng đụng người rồi bỏ trốn đêm hôm ấy. Mặc Hành gửi thư luật sư tới Quý thị ngay trong đêm; Triều Dương đăng xác nhận: bộ đàm không nhận được lệnh ra ngoài.",
+      "text": "Vài ngày sau, bạn gọi Đoàn Nguyên hỏi ai là nhà đầu tư; ông nói «Quý tổng». Tiểu Châu lần ra chứng cứ: Quý Thừa Phong cố tình để tín hiệu bị quấy nhiễu, thuê kẻ truy sát, và từng đụng người rồi bỏ trốn đêm hôm ấy. Mặc Hành gửi thư luật sư tới Quý thị ngay trong đêm; Triều Dương đăng xác nhận: bộ đàm không nhận được lệnh ra ngoài. Bạn phải quyết định gửi chứng cứ theo cách nào.",
       "tieu": "Chứng cứ đã đủ. Quyết định là ngươi tự gửi hay giao cho người đáng tin.",
       "cast": "n_th,n_qp,n_dn,n_mh,n_td,tc",
       "ch": [
@@ -3380,7 +3380,7 @@
       "place": "Buổi xin lỗi của Quý thị · Vài ngày sau",
       "kind": "chon",
       "title": "Quý Thừa Phong sa lưới",
-      "text": "Vài ngày sau, buổi gặp mặt xin lỗi của Quý thị. Ba mẹ bạn (Mạc Trọng Khải, Phùng Tú Lan) và em trai Mạc Duệ cùng tới; ba mẹ nói «con về nhà đi». Quý Thừa Phong xin lỗi, giọng đều đều; Thi Dĩnh thét lên nhận ra hắn. Tiểu Châu đưa chứng cứ cho ba mẹ, nhà Lạc và Mặc Hành; hắn bị bắt. Thi Dĩnh gặp người nhà lần cuối rồi rời đi.",
+      "text": "Vài ngày sau, buổi gặp mặt xin lỗi của Quý thị. Ba mẹ bạn (Mạc Trọng Khải, Phùng Tú Lan) và em trai Mạc Duệ cùng tới; ba mẹ nói «con về nhà đi». Quý Thừa Phong xin lỗi, giọng đều đều; Thi Dĩnh thét lên nhận ra hắn. Tiểu Châu đưa chứng cứ cho ba mẹ, nhà Lạc và Mặc Hành; hắn bị bắt. Thi Dĩnh gặp người nhà lần cuối rồi rời đi. Bạn phải quyết định làm gì trước tiên.",
       "tieu": "Hai chuyện cùng xảy ra một lúc: lời hứa với Thi Dĩnh và lời mời về nhà. Ngươi phải chọn trước hay sau.",
       "cast": "n_th,n_qp,n_sd,n_tk,n_tl,n_md,tc",
       "ch": [
@@ -3469,7 +3469,7 @@
       "place": "Phim trường rồi rạp chiếu · Hai tháng sau",
       "kind": "chon",
       "title": "Phim «Người Giữ Cửa»",
-      "text": "Hai tháng sau, phim trường «Người Giữ Cửa». Mặc Hành mắng mọi người nhưng chỉ nhẹ giọng với bạn: trà chiều, kem, dặn ăn đúng giờ. Phim ra rạp, phòng chiếu kín người; cảnh nữ nhị bác sĩ đưa chứng cứ thuốc giả làm nhiều người rưng rưng. Phim khiến cả nước chú ý chuyện thuốc giả; luật quản lý thuốc được rà soát lại. Bạn đạt giải nữ phụ xuất sắc.",
+      "text": "Hai tháng sau, phim trường «Người Giữ Cửa». Mặc Hành mắng mọi người nhưng chỉ nhẹ giọng với bạn: trà chiều, kem, dặn ăn đúng giờ. Phim ra rạp, phòng chiếu kín người; cảnh nữ nhị bác sĩ đưa chứng cứ thuốc giả làm nhiều người rưng rưng. Phim khiến cả nước chú ý chuyện thuốc giả; luật quản lý thuốc được rà soát lại. Bạn đạt giải nữ phụ xuất sắc. Bạn phải quyết định nhận giải theo cách nào.",
       "tieu": "Phim của ngươi đã làm được điều ngươi chưa nghĩ tới. Giờ chọn cách bước lên bục.",
       "cast": "n_th,n_mh,n_ty,tc",
       "ch": [
@@ -3558,7 +3558,7 @@
       "place": "Thư phòng nhà Mặc Hành · Một buổi tối",
       "kind": "chon",
       "title": "Mặc Hành kể chuyện mẹ hắn",
-      "text": "Một buổi tối, thư phòng nhà Mặc Hành. Hắn kể: mẹ mang hắn rời nhà họ Phan khi biết cha phản bội, mất sớm, để lại một kế hoạch làm ăn nhằm đánh sập nhà họ Phan. Hắn làm theo và kéo bạn vào; hắn nhận đó là sai. Bạn nói: «Xin lỗi chưa đủ, ngươi phải dùng cả đời.» Hắn cho bạn nghe lại đoạn ghi âm ngày hắn đưa điều kiện cho nguyên chủ. Bạn cấm hắn nói cho Cảnh Hòa.",
+      "text": "Một buổi tối, thư phòng nhà Mặc Hành. Hắn kể: mẹ mang hắn rời nhà họ Phan khi biết cha phản bội, mất sớm, để lại một kế hoạch làm ăn nhằm đánh sập nhà họ Phan. Hắn làm theo và kéo bạn vào; hắn nhận đó là sai. Bạn nói: «Xin lỗi chưa đủ, ngươi phải dùng cả đời.» Hắn cho bạn nghe lại đoạn ghi âm ngày hắn đưa điều kiện cho nguyên chủ. Bạn cấm hắn nói cho Cảnh Hòa. Bạn phải quyết định đáp lại lời kể của hắn ra sao.",
       "tieu": "Đây là chỗ hắn lột sạch lớp vỏ. Cái cô nói ra tối nay sẽ ở lại trong hắn rất lâu.",
       "cast": "n_th,n_mh,n_ch,tc",
       "ch": [
@@ -3650,7 +3650,7 @@
       "place": "Hội trường hôn lễ · Một ngày hè",
       "kind": "nan",
       "title": "Hôn lễ của Cảnh Hòa và Thư Nghi",
-      "text": "Một ngày hè, hội trường hôn lễ; bạn và Mặc Hành cùng tới. Cảnh Hòa nhìn thấy ánh mắt bạn và bối rối. Bạn nói «Chúc mừng». Tiểu Châu nuốt hệ thống lậu trên người Thư Nghi; Thư Nghi mất hết kỹ năng giả, hoảng loạn làm đổ rượu lên một vị khách, chuyện lên hot search. Cảnh Hòa bị rút khỏi nhiều dự án và nhận ra mình đã sai. Thư Nghi rút khỏi giới.",
+      "text": "Một ngày hè, hội trường hôn lễ; bạn và Mặc Hành cùng tới. Cảnh Hòa nhìn thấy ánh mắt bạn và bối rối. Bạn nói «Chúc mừng». Tiểu Châu nuốt hệ thống lậu trên người Thư Nghi; Thư Nghi mất hết kỹ năng giả, hoảng loạn làm đổ rượu lên một vị khách, chuyện lên hot search. Cảnh Hòa bị rút khỏi nhiều dự án và nhận ra mình đã sai. Thư Nghi rút khỏi giới. Bạn phải quyết định ứng xử thế nào trong buổi lễ này.",
       "tieu": "Mọi thứ sụp từ bên trong. Ngươi chẳng cần làm gì, chỉ cần đứng vững.",
       "cast": "n_th,n_mh,n_ch,n_tn,tc",
       "ch": [
@@ -3740,7 +3740,7 @@
       "place": "Vùng biển · Cuối năm",
       "kind": "chon",
       "title": "Chuyến đi hai người",
-      "text": "Cuối năm, một vùng biển. Phim «Đôi Ta» do hai người cùng viết đã ra rạp. Bạn và hắn cùng tuyên bố nghỉ làm phim một thời gian. Trong phim «Đôi Ta», mỗi sáng nhân vật hỏi «Hôm nay em có thích anh thêm một chút không?», khiến dân mạng đoán không ra ý nghĩa. Hắn lo cho bạn, đưa đi khám sức khỏe, kết quả bình thường. Giờ hắn đứng trước mặt bạn trên bãi cát, chờ câu trả lời.",
+      "text": "Cuối năm, một vùng biển. Phim «Đôi Ta» do hai người cùng viết đã ra rạp. Bạn và hắn cùng tuyên bố nghỉ làm phim một thời gian. Trong phim «Đôi Ta», mỗi sáng nhân vật hỏi «Hôm nay em có thích anh thêm một chút không?», khiến dân mạng đoán không ra ý nghĩa. Hắn lo cho bạn, đưa đi khám sức khỏe, kết quả bình thường. Giờ hắn đứng trước mặt bạn trên bãi cát, chờ câu trả lời. Hắn đang chờ câu trả lời của bạn, và bạn phải quyết định nói gì.",
       "tieu": "Câu hỏi quen thuộc rồi. Trả lời thế nào cũng được, miễn là thật.",
       "cast": "n_th,n_mh,tc",
       "ch": [

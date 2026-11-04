@@ -138,7 +138,7 @@
       "place": "Lưu Nguyệt Môn · Sảnh phán xử",
       "kind": "chon",
       "title": "Sảnh phán xử",
-      "text": "Mở mắt giữa một sảnh đá lạnh, linh căn trong người trống rỗng như giếng cạn. Bạn không nhớ mình là ai, cũng không nhớ vì sao mình ở đây. Người ngồi trên cao, mọi người gọi là chưởng môn, tuyên bố đệ tử này đã hại sư muội và trộm chí bảo Trấn Linh Ngọc. Ảnh Tượng Thạch đã ghi hình. Một cô gái áo đỏ đứng sau lưng ông. Một thanh niên áo huyền, người vừa ra tay phế linh căn của bạn, đòi trục xuất bạn. Ở góc sảnh, một cô gái đứng thu mình. Giữa sảnh, người áo trắng đứng lạnh nhạt, không nhìn bạn. Bạn không biết mình có trộm thật hay không.",
+      "text": "Mở mắt giữa một sảnh đá lạnh, linh căn trong người trống rỗng như giếng cạn. Bạn không nhớ mình là ai, cũng không nhớ vì sao mình ở đây. Người ngồi trên cao, mọi người gọi là chưởng môn, tuyên bố đệ tử này đã hại sư muội và trộm chí bảo Trấn Linh Ngọc. Ảnh Tượng Thạch đã ghi hình. Một cô gái áo đỏ đứng sau lưng ông. Một thanh niên áo huyền, người vừa ra tay phế linh căn của bạn, đòi trục xuất bạn. Ở góc sảnh, một cô gái đứng thu mình. Giữa sảnh, người áo trắng đứng lạnh nhạt, không nhìn bạn. Bạn không biết mình có trộm thật hay không. Bạn phải quyết định làm gì trước ánh mắt cả sảnh.",
       "tieu": "Ngươi vừa tỉnh dậy giữa phiên xử. Đừng nhận bừa, cũng đừng cãi bừa. Nhìn xem ai không dám nhìn ngươi.",
       "cast": "u_mach,u_ngon,u_yen,u_hanh,u_dung,u_tieuhanh,tc",
       "ch": [
@@ -320,7 +320,7 @@
       "place": "Lưu Nguyệt Môn · Cùng buổi",
       "kind": "nan",
       "title": "Tối hậu thư của Hồng Yên",
-      "text": "Cô gái áo đỏ bước ra, nói chứng cứ đã đủ. Nếu bạn còn ở lại thì Thích Hồng Yên này sẽ rời tông, rồi nàng nhìn thẳng chưởng môn mà chờ. Chưởng môn Cát Tử Dung, người nhìn nàng với vẻ xót xa, tuyên bố tước thân phận đệ tử Lưu Nguyệt Môn của bạn và đuổi bạn khỏi tông. Hạc Ngôn đứng im. Tiểu Châu nhắc nhỏ: từ lúc này, bạn không còn là đệ tử của hắn nữa.",
+      "text": "Cô gái áo đỏ bước ra, nói chứng cứ đã đủ. Nếu bạn còn ở lại thì Thích Hồng Yên này sẽ rời tông, rồi nàng nhìn thẳng chưởng môn mà chờ. Chưởng môn Cát Tử Dung, người nhìn nàng với vẻ xót xa, tuyên bố tước thân phận đệ tử Lưu Nguyệt Môn của bạn và đuổi bạn khỏi tông. Hạc Ngôn đứng im. Tiểu Châu nhắc nhỏ: từ lúc này, bạn không còn là đệ tử của hắn nữa. Bạn phải quyết định đáp lại quyết định này ra sao.",
       "tieu": "Ông ta nghe nàng nói gì cũng gật đầu. Đừng cãi ông. Giữ sức.",
       "cast": "u_mach,u_yen,u_dung,u_ngon,tc",
       "ch": [
@@ -410,7 +410,7 @@
       "place": "Lưu Nguyệt Môn · Sơn đạo",
       "kind": "chon",
       "title": "Lời cuối và bước xuống núi",
-      "text": "Trước khi đi, bạn hỏi Hạc Ngôn vì sao không cản. Đệ tử cần người thân nhất mở lời giúp, dù chỉ hai câu. Bạn nói nguyên chủ từng yêu hắn, từ nay thu hồi, và thì thầm rằng muốn thấy hắn nếm mùi sa chân. Hắn thoáng mất tự nhiên, rõ ràng đã nghe ra điều gì. Bạn gọi thẳng tên hắn rồi tự bước xuống núi. Hắn thoáng nghĩ tới việc giữ bạn lại, nhưng rồi đứng im. Hồng Yên mỉm cười, kéo theo thanh niên áo huyền, Lệ Dạ Hành, rời đi.",
+      "text": "Trước khi đi, bạn hỏi Hạc Ngôn vì sao không cản. Đệ tử cần người thân nhất mở lời giúp, dù chỉ hai câu. Bạn nói nguyên chủ từng yêu hắn, từ nay thu hồi, và thì thầm rằng muốn thấy hắn nếm mùi sa chân. Hắn thoáng mất tự nhiên, rõ ràng đã nghe ra điều gì. Bạn gọi thẳng tên hắn rồi tự bước xuống núi. Hắn thoáng nghĩ tới việc giữ bạn lại, nhưng rồi đứng im. Hồng Yên mỉm cười, kéo theo thanh niên áo huyền, Lệ Dạ Hành, rời đi. Bạn phải quyết định nói gì với hắn trước khi đi.",
       "tieu": "Lời cuối là thứ người ta nhớ lâu nhất. Lạnh hay buồn, hắn đều sẽ nghe.",
       "cast": "u_mach,u_ngon,u_yen,u_hanh,tc",
       "ch": [
@@ -958,7 +958,7 @@
       "place": "Ngoài tửu lầu · Ngay sau đó",
       "kind": "chon",
       "title": "Hạc Ngôn chặn đường",
-      "text": "Ngay khi chia tay hai vị kia, Hạc Ngôn đứng chặn trước mặt bạn. Hắn hỏi bạn đi đâu. Bạn đáp chuyện này không liên quan đến hắn vì bạn không còn là đệ tử, rồi đi cùng Vân Hải. Hắn lặng lẽ đi theo suốt nửa canh giờ. Đến biên giới Thiên Ma Tông, bạn quay lại hỏi «ngươi là tiểu cẩu sao?». Hắn khuyên bạn theo hắn đi, bạn nhắc hắn đã trơ mắt nhìn bạn bị phạt. Hắn nắm tay bạn, bạn nói «buông tay», hắn buông và không cản bạn vào địa bàn.",
+      "text": "Ngay khi chia tay hai vị kia, Hạc Ngôn đứng chặn trước mặt bạn. Hắn hỏi bạn đi đâu. Bạn đáp chuyện này không liên quan đến hắn vì bạn không còn là đệ tử, rồi đi cùng Vân Hải. Hắn lặng lẽ đi theo suốt nửa canh giờ. Đến biên giới Thiên Ma Tông, bạn quay lại hỏi «ngươi là tiểu cẩu sao?». Hắn khuyên bạn theo hắn đi, bạn nhắc hắn đã trơ mắt nhìn bạn bị phạt. Hắn nắm tay bạn, bạn nói «buông tay», hắn buông và không cản bạn vào địa bàn. Bạn phải quyết định đối xử với hắn thế nào.",
       "tieu": "Hắn là người của chính đạo đang đứng trước cổng ma tông. Chuyện này sẽ lan nhanh hơn cả gió.",
       "cast": "u_mach,u_ngon,u_hai,tc",
       "ch": [
@@ -1050,7 +1050,7 @@
       "place": "Cổng Thiên Ma Tông · Ngay sau đó",
       "kind": "chon",
       "title": "Chỗ ngồi ngoài cổng tông",
-      "text": "Trong Thiên Ma Tông, Đồng Vân Hải đưa bạn bản đồ các môn phái chính đạo và giới thiệu tông: khoảng ba nghìn đệ tử dưới Nguyên Anh, vài trăm người từ Phân Thần trở lên, hơn hai mươi người Độ Kiếp; nhưng chỗ đóng tông nghèo, linh khí loãng. Tiểu Châu giải thích: các ma tu khác trong thế giới này hút tu vi của tu sĩ, riêng Thiên Ma Tông không làm vậy nên chính đạo không quá bài xích. Bạn quyết định không đánh chiếm vội vì sẽ đẩy cả tông vào nguy; việc trước mắt là tài nguyên. Thám tử báo Hạc Ngôn đang ngồi trên một tảng đá sạch ngoài cổng tông.",
+      "text": "Trong Thiên Ma Tông, Đồng Vân Hải đưa bạn bản đồ các môn phái chính đạo và giới thiệu tông: khoảng ba nghìn đệ tử dưới Nguyên Anh, vài trăm người từ Phân Thần trở lên, hơn hai mươi người Độ Kiếp; nhưng chỗ đóng tông nghèo, linh khí loãng. Tiểu Châu giải thích: các ma tu khác trong thế giới này hút tu vi của tu sĩ, riêng Thiên Ma Tông không làm vậy nên chính đạo không quá bài xích. Bạn quyết định không đánh chiếm vội vì sẽ đẩy cả tông vào nguy; việc trước mắt là tài nguyên. Thám tử báo Hạc Ngôn đang ngồi trên một tảng đá sạch ngoài cổng tông. Bạn phải quyết định xử lý chuyện của hắn ra sao.",
       "tieu": "Hắn ngồi ngoài đó không phải để canh. Hắn chưa biết đi đâu. Cho nước hay không, ngươi quyết.",
       "cast": "u_mach,u_hai,u_ngon,tc",
       "ch": [
@@ -1231,7 +1231,7 @@
       "place": "Sơn mạch hoang · Vài ngày sau",
       "kind": "duyen",
       "title": "Mỏ linh thạch trên núi trụi",
-      "text": "Vài ngày sau, giữa sơn mạch hoang, linh khí loãng, bạn đội nón lụa mỏng che thần thức và chỉ một vị trí trên sườn núi. Bạn giao hạn ba ngày để đào hết linh thạch trước khi người khác tới. Đệ tử đào sâu vài chục trượng thì thấy linh thạch trắng cả một mảng. Vân Hải ngạc nhiên nhưng vẫn tin bạn. Từ xa, Hạc Ngôn đứng nhìn mà không nói gì. Đào xong, bạn cho lấp lại bằng đá vụn quanh đó để núi không sập.",
+      "text": "Vài ngày sau, giữa sơn mạch hoang, linh khí loãng, bạn đội nón lụa mỏng che thần thức và chỉ một vị trí trên sườn núi. Bạn giao hạn ba ngày để đào hết linh thạch trước khi người khác tới. Đệ tử đào sâu vài chục trượng thì thấy linh thạch trắng cả một mảng. Vân Hải ngạc nhiên nhưng vẫn tin bạn. Từ xa, Hạc Ngôn đứng nhìn mà không nói gì. Đào xong, bạn cho lấp lại bằng đá vụn quanh đó để núi không sập. Bạn phải quyết định đào mỏ theo cách nào.",
       "tieu": "Núi này nghèo nhưng lòng nó thì giàu. Đào nhanh thì kịp, đào kỹ thì lâu. Hồng Yên cũng đang đếm ngày.",
       "cast": "u_mach,u_hai,u_ngon,tc",
       "ch": [
@@ -2993,7 +2993,7 @@
       "place": "Lưu Nguyệt Môn · Vài ngày sau",
       "kind": "nan",
       "title": "Hạc Ngôn điều tra Lưu Nguyệt Môn",
-      "text": "Vài ngày sau, Tiểu Châu bật màn hình cho bạn xem Lưu Nguyệt Môn. Hạc Ngôn gọi sư muội Từ Tiểu Hạnh tới. Nàng quỳ xuống thú nhận: Hồng Yên cho lợi ích, dặn nàng bảo nguyên chủ rằng hắn thích cô gái nghịch ngợm đáng yêu, và rải tin đồn về nguyên chủ. Trước khi Hồng Yên tới, nguyên chủ vốn ít nói và chuyên tâm tu luyện. Hắn xem lại hình ảnh Ảnh Tượng Thạch: ánh mắt nguyên chủ lúc trộm ngọc đờ đẫn như bị khống chế. Hắn nhận ra mình đã đẩy bạn đi vì sợ chính tình cảm của mình. Bạn nhìn qua màn hình mà thấy hơi lạnh chạy dọc sống lưng.",
+      "text": "Vài ngày sau, Tiểu Châu bật màn hình cho bạn xem Lưu Nguyệt Môn. Hạc Ngôn gọi sư muội Từ Tiểu Hạnh tới. Nàng quỳ xuống thú nhận: Hồng Yên cho lợi ích, dặn nàng bảo nguyên chủ rằng hắn thích cô gái nghịch ngợm đáng yêu, và rải tin đồn về nguyên chủ. Trước khi Hồng Yên tới, nguyên chủ vốn ít nói và chuyên tâm tu luyện. Hắn xem lại hình ảnh Ảnh Tượng Thạch: ánh mắt nguyên chủ lúc trộm ngọc đờ đẫn như bị khống chế. Hắn nhận ra mình đã đẩy bạn đi vì sợ chính tình cảm của mình. Bạn nhìn qua màn hình mà thấy hơi lạnh chạy dọc sống lưng. Bạn phải quyết định xử lý những gì vừa thấy ra sao.",
       "tieu": "Hắn vừa hiểu ra, mà hiểu ra thì chẳng ai dễ chịu. Hắn đang giận chính hắn, và giận cả những người từng làm hại ngươi.",
       "cast": "u_mach,u_ngon,u_tieuhanh,tc",
       "ch": [
@@ -4516,7 +4516,7 @@
       "place": "Linh thực viên · Một buổi sáng",
       "kind": "nan",
       "title": "Lời kết",
-      "text": "Một buổi sáng ở linh thực viên, Tiểu Châu báo nhiệm vụ ở thế giới này đã xong. Hạc Ngôn nói điều hắn muốn giữ: ở bên bạn tới phút cuối. Một người quen mang tới một lá thư của Lệ Dạ Hành, kể giấc mơ hai kiếp hắn thấy: bạn bị phế rồi chết trong tay ma tu, Hạc Ngôn và Vân Hải cũng không còn. Bạn đọc xong, gấp thư lại. Trong vườn, cây vẫn xanh, và bóng một người áo trắng vẫn đứng cách bạn vài bước.",
+      "text": "Một buổi sáng ở linh thực viên, Tiểu Châu báo nhiệm vụ ở thế giới này đã xong. Hạc Ngôn nói điều hắn muốn giữ: ở bên bạn tới phút cuối. Một người quen mang tới một lá thư của Lệ Dạ Hành, kể giấc mơ hai kiếp hắn thấy: bạn bị phế rồi chết trong tay ma tu, Hạc Ngôn và Vân Hải cũng không còn. Bạn đọc xong, gấp thư lại. Trong vườn, cây vẫn xanh, và bóng một người áo trắng vẫn đứng cách bạn vài bước. Bạn phải quyết định kết thúc buổi sáng này ra sao.",
       "tieu": "Mọi thứ đã xong. Còn lại là quyết định cuối: ngươi đi hay ở, và hắn học được bao nhiêu.",
       "cast": "u_mach,u_ngon,u_hanh,tc",
       "ch": [

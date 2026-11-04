@@ -130,7 +130,7 @@
       "place": "Bệnh viện thành phố Thanh Giang · Sáng",
       "kind": "duyen",
       "title": "Tỉnh dậy trong bệnh viện",
-      "text": "Mở mắt giữa mùi thuốc sát trùng. Nửa mặt phải quấn băng, đau rát âm ỉ; bạn đã nằm viện nửa tháng. Ký ức nguyên chủ ùa vào đầu: Nhược Hi, 17 tuổi, học giỏi nhất khối, bị nhầm với người khác nên mang vết thương nặng trên nửa má phải. Nhà Trình đấu không lại nhà Quan, nếu cứ thế bạn sẽ sống cô độc cả đời dù không làm gì sai. Còn bạn cùng bàn Hoắc Dịch Trì là giáo bá cuối bảng, từng là thần đồng, mẹ mất sớm, bị cha Hoắc Chấn Hải và dì ghẻ Quan Tú Anh bỏ mặc.",
+      "text": "Mở mắt giữa mùi thuốc sát trùng. Nửa mặt phải quấn băng, đau rát âm ỉ; bạn đã nằm viện nửa tháng. Ký ức nguyên chủ ùa vào đầu: Nhược Hi, 17 tuổi, học giỏi nhất khối, bị nhầm với người khác nên mang vết thương nặng trên nửa má phải. Nhà Trình đấu không lại nhà Quan, nếu cứ thế bạn sẽ sống cô độc cả đời dù không làm gì sai. Còn bạn cùng bàn Hoắc Dịch Trì là giáo bá cuối bảng, từng là thần đồng, mẹ mất sớm, bị cha Hoắc Chấn Hải và dì ghẻ Quan Tú Anh bỏ mặc. Bạn phải quyết định làm gì đầu tiên khi tỉnh dậy.",
       "tieu": "Dậy rồi à? Chuyện cũ ta nói gọn thôi, đừng bắt ta tả. Việc của ngươi là sống cho ra sống, và kéo cái cậu bạn cùng bàn lạnh lùng kia ra khỏi bóng tối.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -194,7 +194,7 @@
       "place": "Phòng bệnh · Tối cùng ngày",
       "kind": "chon",
       "title": "Ba mẹ muốn đòi công bằng",
-      "text": "Tối, Trình Kiến Quốc và Văn Ngọc Chi tới sau giờ làm, mắt đỏ hoe. Hai người đã liên hệ bệnh viện nước ngoài và muốn kiện ngay, dù chưa có chứng cứ nào trong tay. Bạn biết nhà Quan lớn hơn nhà Trình nhiều; kiện lúc này chỉ khiến công ty nhà bạn mất thêm.",
+      "text": "Tối, Trình Kiến Quốc và Văn Ngọc Chi tới sau giờ làm, mắt đỏ hoe. Hai người đã liên hệ bệnh viện nước ngoài và muốn kiện ngay, dù chưa có chứng cứ nào trong tay. Bạn biết nhà Quan lớn hơn nhà Trình nhiều; kiện lúc này chỉ khiến công ty nhà bạn mất thêm. Bạn phải quyết định nói gì với ba mẹ.",
       "tieu": "Ba mẹ ngươi thương con nên nóng. Khuyên cho khéo, đừng để họ nghĩ ngươi sợ.",
       "cast": "unh,uba,ume,tc",
       "ch": [
@@ -269,7 +269,7 @@
       "place": "Giường bệnh · Đêm đó",
       "kind": "duyen",
       "title": "Khôi phục đoạn camera",
-      "text": "Tiểu Châu vừa được nâng cấp, báo rằng camera đầu phố hôm xảy ra chuyện đã bị cắt xóa. Nó có thể khôi phục, nhưng bạn phải học cách kiểm tra từng bản và lưu thêm vài bản để không ai sửa được. Trong đoạn phim hiện ra, Chu Mộng Giai chạy ngang đụng ngã bạn, và Quan Đình Phong đuổi theo ngay sau. Bạn nhìn đến khi hiểu hết, rồi tắt màn hình.",
+      "text": "Tiểu Châu vừa được nâng cấp, báo rằng camera đầu phố hôm xảy ra chuyện đã bị cắt xóa. Nó có thể khôi phục, nhưng bạn phải học cách kiểm tra từng bản và lưu thêm vài bản để không ai sửa được. Trong đoạn phim hiện ra, Chu Mộng Giai chạy ngang đụng ngã bạn, và Quan Đình Phong đuổi theo ngay sau. Bạn nhìn đến khi hiểu hết, rồi tắt màn hình. Bạn phải quyết định xử lý đoạn camera này ra sao.",
       "tieu": "Chứng cứ sạch là thứ đáng giá nhất trong chuyện này. Làm chậm mà chắc, đừng để một bản duy nhất.",
       "cast": "unh,umg,udp,tc",
       "ch": [
@@ -349,7 +349,7 @@
       "place": "Nhóm giao lưu vị diện · Cùng đêm",
       "kind": "duyen",
       "title": "Nhóm giao lưu vị diện",
-      "text": "Tiểu Châu phát hiện Mộng Giai đang ở trong một nhóm trò chuyện liên thế giới, nơi cô ta đổi đồ ăn lấy đồ quý để giữ dung mạo. Bạn dùng nick «Hoa Khôi» xin vào và bất ngờ được trao quyền chủ nhóm. Ba đàn hữu lần lượt giới thiệu: Thanh Hạc đạo nhân, nữ phù thủy Elara và Soren, thợ chỉnh nhan từ một thế giới tinh tế. Mộng Giai chưa biết nhóm đã có chủ mới.",
+      "text": "Tiểu Châu phát hiện Mộng Giai đang ở trong một nhóm trò chuyện liên thế giới, nơi cô ta đổi đồ ăn lấy đồ quý để giữ dung mạo. Bạn dùng nick «Hoa Khôi» xin vào và bất ngờ được trao quyền chủ nhóm. Ba đàn hữu lần lượt giới thiệu: Thanh Hạc đạo nhân, nữ phù thủy Elara và Soren, thợ chỉnh nhan từ một thế giới tinh tế. Mộng Giai chưa biết nhóm đã có chủ mới. Bạn phải quyết định bước vào nhóm này theo cách nào.",
       "tieu": "Chủ nhóm là ngươi rồi đấy. Nói ít, làm khéo, và nhớ cái nhóm này chỉ là màn hình thôi, đừng để nó nuốt thời gian học của ngươi.",
       "cast": "unh,uth,uel,uso,tc",
       "ch": [
@@ -500,7 +500,7 @@
       "place": "Cổng trường Nhất Trung Thanh Giang · Thứ ba",
       "kind": "duyen",
       "title": "Trở lại trường",
-      "text": "Thứ ba, bạn bước qua cổng Nhất Trung Thanh Giang với băng gạc vừa tháo, nửa má phải còn sẹo. Bạn kể thẳng với lớp 11A3 chuyện mình bị nhầm người, không giấu, không khóc. Bạn học sửng sốt rồi nể. Ở góc lớp, Hoắc Dịch Trì ngủ gục trên bàn, giáo thảo Tần Dĩ Hằng ngồi cạnh bạn gái Chu Mộng Giai. Khi bạn ngồi xuống chỗ cạnh Dịch Trì, hắn ngẩng lên nhìn bạn lâu hơn mọi người.",
+      "text": "Thứ ba, bạn bước qua cổng Nhất Trung Thanh Giang với băng gạc vừa tháo, nửa má phải còn sẹo. Bạn kể thẳng với lớp 11A3 chuyện mình bị nhầm người, không giấu, không khóc. Bạn học sửng sốt rồi nể. Ở góc lớp, Hoắc Dịch Trì ngủ gục trên bàn, giáo thảo Tần Dĩ Hằng ngồi cạnh bạn gái Chu Mộng Giai. Khi bạn ngồi xuống chỗ cạnh Dịch Trì, hắn ngẩng lên nhìn bạn lâu hơn mọi người. Bạn phải quyết định trở lại lớp theo cách nào.",
       "tieu": "Ngươi làm rất tốt. Mặt còn sẹo thì kệ, ngẩng đầu là đủ. Hắn nhìn ngươi rồi đó, ghi lại.",
       "cast": "unh,udt,umg,udh,tc",
       "ch": [
@@ -582,7 +582,7 @@
       "place": "Lớp 11A3 · Giờ ra chơi",
       "kind": "chon",
       "title": "Lời cay độc của Tiểu Tuyết",
-      "text": "Giờ ra chơi, bạn đùa với Dịch Trì rằng một người có sẹo, một người cuối bảng thì cũng xứng đôi. Phương Tiểu Tuyết, nữ sinh lớp bên vốn thích Dịch Trì, bước vào chê bạn xấu và bảo bạn đừng bám hắn. Dịch Trì đứng dậy bỏ ra ngoài, không nói một câu chê bạn.",
+      "text": "Giờ ra chơi, bạn đùa với Dịch Trì rằng một người có sẹo, một người cuối bảng thì cũng xứng đôi. Phương Tiểu Tuyết, nữ sinh lớp bên vốn thích Dịch Trì, bước vào chê bạn xấu và bảo bạn đừng bám hắn. Dịch Trì đứng dậy bỏ ra ngoài, không nói một câu chê bạn. Bạn phải quyết định đáp lại lời cay độc ấy thế nào.",
       "tieu": "Cô bé đó cay thật đấy, nhưng không đáng để ngươi giận. Hắn bỏ đi mà không chê ngươi, nhớ cái đó.",
       "cast": "unh,udt,utt,tc",
       "ch": [
@@ -744,7 +744,7 @@
       "place": "Lớp 11A3 và phòng y tế · Giờ nghỉ trưa",
       "kind": "duyen",
       "title": "Giả thiếu máu",
-      "text": "Hôm sau, bạn muốn thử phản ứng của Dịch Trì. Giờ nghỉ trưa, bạn gục xuống bàn, mặt tái đi vì đã bỏ bữa sáng. Dịch Trì đi ra cửa lớp, rồi vòng lại, đỡ bạn xuống phòng y tế. Bác sĩ nói bạn chỉ bỏ bữa. Bạn cười bảo hắn lo cho mình, hắn quay đi, tai đỏ.",
+      "text": "Hôm sau, bạn muốn thử phản ứng của Dịch Trì. Giờ nghỉ trưa, bạn gục xuống bàn, mặt tái đi vì đã bỏ bữa sáng. Dịch Trì đi ra cửa lớp, rồi vòng lại, đỡ bạn xuống phòng y tế. Bác sĩ nói bạn chỉ bỏ bữa. Bạn cười bảo hắn lo cho mình, hắn quay đi, tai đỏ. Bạn phải quyết định ứng xử thế nào với sự quan tâm vụng về này.",
       "tieu": "Hắn quay lại đấy, ghi nhớ. Nhưng lần sau ăn sáng đi, đừng lấy sức khỏe ra thử người ta.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -827,7 +827,7 @@
       "place": "Phòng y tế và lớp học · Cùng trưa",
       "kind": "chon",
       "title": "Cơm trưa",
-      "text": "Dịch Trì mang đến cả một túi hộp cơm, đặt xuống bàn bạn, dặn ăn đúng giờ rồi đỏ mặt nói: «Đừng hiểu lầm.» Bạn nhìn mấy hộp cơm còn ấm, thấy cổ họng nghẹn lại.",
+      "text": "Dịch Trì mang đến cả một túi hộp cơm, đặt xuống bàn bạn, dặn ăn đúng giờ rồi đỏ mặt nói: «Đừng hiểu lầm.» Bạn nhìn mấy hộp cơm còn ấm, thấy cổ họng nghẹn lại. Bạn phải quyết định đáp lại hắn ra sao.",
       "tieu": "Hắn không giỏi nói, nhưng giỏi lo. Nhìn kỹ thì thấy đấy.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -909,7 +909,7 @@
       "place": "Khu nhà Mộng Giai · Chiều cùng ngày",
       "kind": "nan",
       "title": "Quả trứng thối",
-      "text": "Bạn đã báo trong nhóm đừng để quả trứng lâu và đừng đập ra. Mộng Giai giữ nó cả tháng rồi đập ra. Mùi hôi lan khắp khu chung cư, vài trẻ nhỏ và người già choáng váng, hàng xóm báo cảnh sát, Mộng Giai bị gọi lên đồn. Tần Dĩ Hằng không có mặt chiều đó. Bạn theo dõi qua nhóm, chưa can thiệp.",
+      "text": "Bạn đã báo trong nhóm đừng để quả trứng lâu và đừng đập ra. Mộng Giai giữ nó cả tháng rồi đập ra. Mùi hôi lan khắp khu chung cư, vài trẻ nhỏ và người già choáng váng, hàng xóm báo cảnh sát, Mộng Giai bị gọi lên đồn. Tần Dĩ Hằng không có mặt chiều đó. Bạn theo dõi qua nhóm, chưa can thiệp. Bạn phải quyết định có can thiệp vào chuyện này hay không.",
       "tieu": "Cô ta tự chọn đấy, không ai ép. Ngươi đã báo trước rồi, nhớ giữ tin nhắn.",
       "cast": "unh,umg,uel,tc",
       "ch": [
@@ -977,7 +977,7 @@
       "place": "Lớp 11A3 · Sau giờ học",
       "kind": "duyen",
       "title": "Hắn đợi sau giờ học",
-      "text": "Sau giờ học, bạn ở lại làm bài tới sáu giờ rưỡi. Dịch Trì không về. Hắn nói chỉ muốn ngồi cho yên tĩnh rồi lỡ quát một câu, ngượng ngùng bỏ đi. Hôm sau hắn dặn bạn thân Đại Lực và mấy người trong nhóm để mắt tới bạn.",
+      "text": "Sau giờ học, bạn ở lại làm bài tới sáu giờ rưỡi. Dịch Trì không về. Hắn nói chỉ muốn ngồi cho yên tĩnh rồi lỡ quát một câu, ngượng ngùng bỏ đi. Hôm sau hắn dặn bạn thân Đại Lực và mấy người trong nhóm để mắt tới bạn. Bạn phải quyết định đáp lại hắn ra sao.",
       "tieu": "Hắn lo đấy, chỉ là không biết nói. Đừng lấy đó làm chuyện để trêu.",
       "cast": "unh,udt,udl,tc",
       "ch": [
@@ -1058,7 +1058,7 @@
       "place": "Ngõ sau Nhị Trung · Tối",
       "kind": "nan",
       "title": "Hắn biết ai là kẻ gây ra chuyện",
-      "text": "Tối, Dịch Trì hỏi Đại Lực ai đã làm hại một nữ sinh Nhất Trung. Đại Lực nói tên Quan Đình Phong, cháu của Quan Tú Anh, tức dì ghẻ của hắn. Hắn giận run và đi tìm. Hôm sau hắn đến lớp mặt bầm, chỉ nói gọn là có va chạm, rồi quay sang nhìn bạn. Chuyện nặng diễn ra ngoài tầm mắt bạn; Tiểu Châu chỉ kể lại ngắn gọn.",
+      "text": "Tối, Dịch Trì hỏi Đại Lực ai đã làm hại một nữ sinh Nhất Trung. Đại Lực nói tên Quan Đình Phong, cháu của Quan Tú Anh, tức dì ghẻ của hắn. Hắn giận run và đi tìm. Hôm sau hắn đến lớp mặt bầm, chỉ nói gọn là có va chạm, rồi quay sang nhìn bạn. Chuyện nặng diễn ra ngoài tầm mắt bạn; Tiểu Châu chỉ kể lại ngắn gọn. Bạn phải quyết định đáp lại hắn thế nào.",
       "tieu": "Đây là mốc nặng. Hắn đã biết, và ngươi đã chậm một bước. Giờ phải kéo hắn lại trước khi cơn giận biến thành thứ khác.",
       "cast": "unh,udt,udl,tc",
       "ch": [
@@ -1150,7 +1150,7 @@
       "place": "Lớp học · Giờ toán",
       "kind": "duyen",
       "title": "Bài hình trên bảng",
-      "text": "Vài hôm sau, thầy Cao Văn Đạt gọi bạn lên bảng giải một bài hình vượt chương. Bạn giải không cần phác thảo, thầy xác nhận đáp án chuẩn, cả lớp lặng đi. Tần Dĩ Hằng nhìn bạn rất lâu. Dịch Trì đang gục trên bàn khẽ ngẩng lên.",
+      "text": "Vài hôm sau, thầy Cao Văn Đạt gọi bạn lên bảng giải một bài hình vượt chương. Bạn giải không cần phác thảo, thầy xác nhận đáp án chuẩn, cả lớp lặng đi. Tần Dĩ Hằng nhìn bạn rất lâu. Dịch Trì đang gục trên bàn khẽ ngẩng lên. Bạn phải quyết định giải bài này theo cách nào.",
       "tieu": "Hình học không gian là chỗ ngươi mạnh đấy. Giải thích cho người khác hiểu mới là kỹ năng thật.",
       "cast": "unh,udt,udh,ucd,tc",
       "ch": [
@@ -1236,7 +1236,7 @@
       "place": "Nhóm giao lưu vị diện · Cuối tuần",
       "kind": "duyen",
       "title": "Khai Trí Đan",
-      "text": "Mộng Giai điểm kém, sợ lộ ra là nhờ đan dược mới có chút tiến bộ, nên xin món thuốc giúp tăng trí. Bạn nói rõ trong nhóm: tên Khai Trí Đan, mỗi viên giúp nửa canh giờ tỉnh táo, tác dụng phụ là nửa tháng sau tóc rụng một tháng, mỗi viên một tháng. Mộng Giai bỏ qua phần cuối, đổi đồ lấy năm viên. Cả nhóm đều đọc dòng cảnh báo đó.",
+      "text": "Mộng Giai điểm kém, sợ lộ ra là nhờ đan dược mới có chút tiến bộ, nên xin món thuốc giúp tăng trí. Bạn nói rõ trong nhóm: tên Khai Trí Đan, mỗi viên giúp nửa canh giờ tỉnh táo, tác dụng phụ là nửa tháng sau tóc rụng một tháng, mỗi viên một tháng. Mộng Giai bỏ qua phần cuối, đổi đồ lấy năm viên. Cả nhóm đều đọc dòng cảnh báo đó. Bạn phải quyết định bán Khai Trí Đan theo cách nào.",
       "tieu": "Cảnh báo ghi rõ ràng, cả nhóm đều đọc. Cô ta chọn bỏ qua, không phải lỗi của ngươi. Nhưng nhớ ghim dòng cảnh báo lên đầu.",
       "cast": "unh,umg,uth,uso,tc",
       "ch": [
@@ -1317,7 +1317,7 @@
       "place": "Phòng thi và phòng lấy phiếu điểm · Cuối học kỳ I",
       "kind": "chon",
       "title": "Điểm cuối kỳ I",
-      "text": "Cuối học kỳ, bạn đứng nhất khối. Mộng Giai tiến mười chín hạng nhờ đan, Dịch Trì hạng cuối. Bạn nói với hắn rằng nếu muốn đi cùng bạn lên Kinh Đại thì phải đổi cách sống. Hắn không đáp, chỉ nắm chặt phiếu điểm.",
+      "text": "Cuối học kỳ, bạn đứng nhất khối. Mộng Giai tiến mười chín hạng nhờ đan, Dịch Trì hạng cuối. Bạn nói với hắn rằng nếu muốn đi cùng bạn lên Kinh Đại thì phải đổi cách sống. Hắn không đáp, chỉ nắm chặt phiếu điểm. Bạn phải quyết định nói gì với hắn.",
       "tieu": "Hạng cuối là hạng cuối, nhưng hắn cầm phiếu điểm chặt đến vậy là có chuyện. Chọn cách nói cho đúng.",
       "cast": "unh,udt,umg,tc",
       "ch": [
@@ -1400,7 +1400,7 @@
       "place": "Lớp 11A3 · Nửa tháng sau",
       "kind": "hiem",
       "title": "Mộng Giai rụng tóc",
-      "text": "Nửa tháng sau, lúc phát phiếu điểm, Mộng Giai gãi đầu và tóc rụng thành mảng. Cô ta chạy khỏi lớp, vào nhóm cầu cứu. Soren gửi nước mọc tóc nhưng không hợp thể trạng cô ta. Bạn nhắc lại dòng cảnh báo ở mốc trước, đề nghị ba loại thuốc mọc tóc kèm tác dụng phụ: ngủ li bì, mất vị giác, đau đầu từng cơn. Mộng Giai từ chối cả ba, chuyển sang đội tóc giả và mũ. Đàn hữu bắt đầu xa cô ta. Không ai trong lớp cười nhạo ngoại hình cô ta.",
+      "text": "Nửa tháng sau, lúc phát phiếu điểm, Mộng Giai gãi đầu và tóc rụng thành mảng. Cô ta chạy khỏi lớp, vào nhóm cầu cứu. Soren gửi nước mọc tóc nhưng không hợp thể trạng cô ta. Bạn nhắc lại dòng cảnh báo ở mốc trước, đề nghị ba loại thuốc mọc tóc kèm tác dụng phụ: ngủ li bì, mất vị giác, đau đầu từng cơn. Mộng Giai từ chối cả ba, chuyển sang đội tóc giả và mũ. Đàn hữu bắt đầu xa cô ta. Không ai trong lớp cười nhạo ngoại hình cô ta. Bạn phải quyết định xử lý chuyện này ra sao.",
       "tieu": "Đây là hệ quả cô ta tự chọn. Ngươi đã đưa lối thoát, cô ta từ chối. Đừng chê ngoại hình cô ta, kể cả trong lòng.",
       "cast": "unh,umg,uso,uth,tc",
       "ch": [
@@ -1480,7 +1480,7 @@
       "place": "Trước nhà Trình · Mùa hè lớp 11",
       "kind": "chon",
       "title": "Hắn đứng dưới lầu",
-      "text": "Mùa hè, Dịch Trì nhắn tin mỗi ngày. Một chiều hắn đến đứng dưới lầu nhà Trình, chỉ để nhìn lên cửa sổ. Bạn bước xuống nói chuyện. Tiểu Châu ghi nhận hắn đỡ cáu gắt hơn nhiều so với đầu năm.",
+      "text": "Mùa hè, Dịch Trì nhắn tin mỗi ngày. Một chiều hắn đến đứng dưới lầu nhà Trình, chỉ để nhìn lên cửa sổ. Bạn bước xuống nói chuyện. Tiểu Châu ghi nhận hắn đỡ cáu gắt hơn nhiều so với đầu năm. Bạn phải quyết định đáp lại hắn thế nào.",
       "tieu": "Hắn đứng dưới lầu cả buổi rồi đấy. Mời hắn lên hay ra ngoài là ở ngươi, nhưng đừng để hắn đứng ngoài nắng.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -1560,7 +1560,7 @@
       "place": "Căng tin Nhất Trung · Đầu lớp 12",
       "kind": "hiem",
       "title": "Quan Đình Phong chặn đường",
-      "text": "Đầu lớp 12, Quan Đình Phong lẻn vào căng tin Nhất Trung khi Dịch Trì không có mặt. Hắn từng thích Mộng Giai vì nhầm cô ta với cô bé thuở nhỏ từng giúp hắn; mẹ hắn là Quan phu nhân giữ hắn ở nhà nhưng hắn trốn đi. Hắn xin lỗi vụng về, tay run. Bạn trả lời thẳng. Đại Lực và vài người đang kéo tới.",
+      "text": "Đầu lớp 12, Quan Đình Phong lẻn vào căng tin Nhất Trung khi Dịch Trì không có mặt. Hắn từng thích Mộng Giai vì nhầm cô ta với cô bé thuở nhỏ từng giúp hắn; mẹ hắn là Quan phu nhân giữ hắn ở nhà nhưng hắn trốn đi. Hắn xin lỗi vụng về, tay run. Bạn trả lời thẳng. Đại Lực và vài người đang kéo tới. Bạn phải quyết định đối diện với hắn ra sao.",
       "tieu": "Đây là kẻ gây ra chuyện. Hắn đang xin lỗi, nhưng ngươi không nợ hắn sự tha thứ. Cẩn thận nhìn xung quanh.",
       "cast": "unh,udp,udl,tc",
       "ch": [
@@ -1644,7 +1644,7 @@
       "place": "Lớp 12 · Cuối giờ tự học",
       "kind": "chon",
       "title": "Thư tay trong giờ tự học",
-      "text": "Cuối giờ tự học, Dịch Trì viết lên một trang vở rồi đẩy sang: hắn nghĩ mình thật sự thích bạn. Bạn đọc xong, viết lại ba chữ «em cũng vậy». Hắn đỏ mặt, khẽ nắm tay bạn dưới bàn rồi buông ra ngay. Bạn thấy ngón tay hắn run.",
+      "text": "Cuối giờ tự học, Dịch Trì viết lên một trang vở rồi đẩy sang: hắn nghĩ mình thật sự thích bạn. Bạn đọc xong, viết lại ba chữ «em cũng vậy». Hắn đỏ mặt, khẽ nắm tay bạn dưới bàn rồi buông ra ngay. Bạn thấy ngón tay hắn run. Bạn phải quyết định đáp lại bức thư này thế nào.",
       "tieu": "Hai đứa nhỏ viết thư trong giờ tự học, dễ thương thật. Nhưng nhớ mục tiêu: Kinh Đại. Đừng để thứ này lấn át bài vở.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -1726,7 +1726,7 @@
       "place": "Thư viện và nhà ông ngoại · Mấy tháng sau",
       "kind": "duyen",
       "title": "Hắn quyết học",
-      "text": "Dịch Trì không muốn bị bỏ lại. Hắn xin ông ngoại Dư Chấn Hoa tìm thầy dạy thêm, rồi nhờ bạn dạy kèm toán và lý. Hắn ngủ lớp ít dần, xếp sách đầy cặp. Ông ngoại nhìn bạn, gật đầu thật khẽ.",
+      "text": "Dịch Trì không muốn bị bỏ lại. Hắn xin ông ngoại Dư Chấn Hoa tìm thầy dạy thêm, rồi nhờ bạn dạy kèm toán và lý. Hắn ngủ lớp ít dần, xếp sách đầy cặp. Ông ngoại nhìn bạn, gật đầu thật khẽ. Bạn phải quyết định dạy hắn theo cách nào.",
       "tieu": "Hắn đang cố đấy. Dạy người khác là kỹ năng khác với tự giỏi. Làm cho tốt.",
       "cast": "unh,udt,uco,tc",
       "ch": [
@@ -1815,7 +1815,7 @@
       "place": "Bảng điểm trên cửa lớp · Cuối học kỳ II",
       "kind": "duyen",
       "title": "Hắn vào top 10",
-      "text": "Bạn soạn kế hoạch ôn tập từng tuần cho hắn. Điểm của hắn lên rất nhanh, vào top 10 của khối nhờ toán, lý, ngoại ngữ; ngữ văn còn khó khăn mới đạt. Tần Dĩ Hằng giữ hạng ba, Mộng Giai hạng mười hai và nhìn cả hai bằng ánh mắt khó chịu.",
+      "text": "Bạn soạn kế hoạch ôn tập từng tuần cho hắn. Điểm của hắn lên rất nhanh, vào top 10 của khối nhờ toán, lý, ngoại ngữ; ngữ văn còn khó khăn mới đạt. Tần Dĩ Hằng giữ hạng ba, Mộng Giai hạng mười hai và nhìn cả hai bằng ánh mắt khó chịu. Bạn phải quyết định mừng thành tích này ra sao.",
       "tieu": "Top 10 rồi, hắn tự làm được đấy. Kế hoạch tuần là lý do. Đừng quên khen hắn.",
       "cast": "unh,udt,udh,umg,tc",
       "ch": [
@@ -1901,7 +1901,7 @@
       "place": "Nhà Trình · Tuần sau phát phiếu điểm",
       "kind": "hiem",
       "title": "Quan phu nhân tới nhà",
-      "text": "Quan phu nhân thấy con trai cứ tới trường tìm bạn. Bà cho rằng bạn quyến rũ con mình và đe dọa nhà Trình nếu bạn còn lại gần. Ba mẹ bạn giận nhưng không đáp lại. Bạn nói bình tĩnh rằng bà nên hỏi chính con trai mình. Bà ra về.",
+      "text": "Quan phu nhân thấy con trai cứ tới trường tìm bạn. Bà cho rằng bạn quyến rũ con mình và đe dọa nhà Trình nếu bạn còn lại gần. Ba mẹ bạn giận nhưng không đáp lại. Bạn nói bình tĩnh rằng bà nên hỏi chính con trai mình. Bà ra về. Bạn phải quyết định ứng xử với bà ra sao.",
       "tieu": "Bà ta tới để dọa. Ngươi đừng sợ, cũng đừng cãi to. Giữ giọng, và nhớ nhà Trình vẫn đang còn yếu.",
       "cast": "unh,uqq,uba,ume,tc",
       "ch": [
@@ -2066,7 +2066,7 @@
       "place": "Phòng của bạn · Cùng hôm",
       "kind": "duyen",
       "title": "Lần theo sổ sách của Quan gia",
-      "text": "Tiểu Châu có thể thâm nhập dữ liệu công khai và nội bộ của Quan thị. Nó giúp bạn lần ra bằng chứng trốn thuế và các giao dịch ngầm, nhưng bạn phải tự học cách đọc báo cáo tài chính để biết đoạn nào đáng tin. Sau lưng Quan gia còn có một quan chức bảo kê.",
+      "text": "Tiểu Châu có thể thâm nhập dữ liệu công khai và nội bộ của Quan thị. Nó giúp bạn lần ra bằng chứng trốn thuế và các giao dịch ngầm, nhưng bạn phải tự học cách đọc báo cáo tài chính để biết đoạn nào đáng tin. Sau lưng Quan gia còn có một quan chức bảo kê. Bạn phải quyết định tìm bằng chứng theo cách nào.",
       "tieu": "Nhiều con số lắm. Đọc chậm, đối chiếu từng cột. Cái gì cũng phải có nguồn.",
       "cast": "unh,tc",
       "ch": [
@@ -2221,7 +2221,7 @@
       "place": "Tập đoàn Quan thị · Vài giờ sau",
       "kind": "duyen",
       "title": "Quan gia sụp đổ",
-      "text": "Thanh tra tới tập đoàn Quan thị. Quan phu nhân và Quan Tú Anh bị tạm giữ. Quan gia không còn kịp bảo vệ nhà Trình. Hoắc Chấn Hải phải bỏ chèn ép. Ba mẹ Trình thở ra, nhìn con gái thật lâu mà không hỏi gì.",
+      "text": "Thanh tra tới tập đoàn Quan thị. Quan phu nhân và Quan Tú Anh bị tạm giữ. Quan gia không còn kịp bảo vệ nhà Trình. Hoắc Chấn Hải phải bỏ chèn ép. Ba mẹ Trình thở ra, nhìn con gái thật lâu mà không hỏi gì. Bạn phải quyết định làm gì sau chuyện này.",
       "tieu": "Quan gia đổ rồi. Dịch Trì sẽ biết trước ngươi hai phút. Nhắn hắn, đừng để hắn tìm đến ngõ sau Nhị Trung lần nữa.",
       "cast": "unh,uba,ume,uta,uqq,tc",
       "ch": [
@@ -2388,7 +2388,7 @@
       "place": "Nhà họ Hoắc · Cuối tuần",
       "kind": "duyen",
       "title": "Dịch Trì về Hoắc thị",
-      "text": "Hoắc Chấn Hải gọi con về vì Hoắc thị mất đối tác. Dịch Trì nói sẽ lấy lại phần của mẹ hắn, bảo vệ bạn, và vẫn học song song. Cha hắn chịu nhún vì cần hắn. Sau đó hắn tìm bạn, nói: «Anh sẽ cùng em thi vào Kinh Đại.»",
+      "text": "Hoắc Chấn Hải gọi con về vì Hoắc thị mất đối tác. Dịch Trì nói sẽ lấy lại phần của mẹ hắn, bảo vệ bạn, và vẫn học song song. Cha hắn chịu nhún vì cần hắn. Sau đó hắn tìm bạn, nói: «Anh sẽ cùng em thi vào Kinh Đại.» Bạn phải quyết định đáp lại hắn thế nào.",
       "tieu": "Hắn lần đầu tự đứng ra đòi quyền của mình. Cô nên có mặt khi hắn bước ra.",
       "cast": "unh,udt,uch,tc",
       "ch": [
@@ -2471,7 +2471,7 @@
       "place": "Tòa án thành phố Thanh Giang · Một tháng sau",
       "kind": "chon",
       "title": "Phiên tòa",
-      "text": "Đình Phong và Mộng Giai bị gọi làm nhân chứng. Bạn trình chứng cứ camera. Mộng Giai chối rằng không biết mình đã đụng ngã ai. Đoạn phim cho thấy rõ. Đình Phong không biện hộ nhiều. Thẩm phán chờ phần trình bày của bạn.",
+      "text": "Đình Phong và Mộng Giai bị gọi làm nhân chứng. Bạn trình chứng cứ camera. Mộng Giai chối rằng không biết mình đã đụng ngã ai. Đoạn phim cho thấy rõ. Đình Phong không biện hộ nhiều. Thẩm phán chờ phần trình bày của bạn. Thẩm phán đang chờ, và bạn phải quyết định trình bày ra sao.",
       "tieu": "Chứng cứ sạch đã có. Giờ là phần nói. Ngắn gọn hay kỹ lưỡng, đều có cái giá của nó.",
       "cast": "unh,umg,udp,tc",
       "ch": [
@@ -2559,7 +2559,7 @@
       "place": "Hành lang tòa án · Sau phiên tòa",
       "kind": "nan",
       "title": "Lời của Quan Đình Phong",
-      "text": "Sau phiên tòa, Đình Phong xin nói riêng vài câu. Hắn xin lỗi, hỏi bạn có nhớ công viên mười năm trước, nơi bạn đã giúp một cậu bé bị bắt nạt. Bạn nhớ ra. Hắn sụp đổ khi hiểu mình đã làm hại chính cô bé hắn luôn nhớ. Bạn không tha thứ, nhưng cũng không nói lời nặng. Hắn bị tuyên án.",
+      "text": "Sau phiên tòa, Đình Phong xin nói riêng vài câu. Hắn xin lỗi, hỏi bạn có nhớ công viên mười năm trước, nơi bạn đã giúp một cậu bé bị bắt nạt. Bạn nhớ ra. Hắn sụp đổ khi hiểu mình đã làm hại chính cô bé hắn luôn nhớ. Bạn không tha thứ, nhưng cũng không nói lời nặng. Hắn bị tuyên án. Bạn phải quyết định đáp lại lời hắn thế nào.",
       "tieu": "Câu chuyện cũ lộ ra. Ngươi không nợ hắn sự tha thứ, nhưng cũng không cần nói nặng. Hít sâu.",
       "cast": "unh,udp,udt,tc",
       "ch": [
@@ -2645,7 +2645,7 @@
       "place": "Hành lang tòa án · Cùng lúc",
       "kind": "chon",
       "title": "Bạn của Mộng Giai",
-      "text": "Cô bạn cùng bàn của Mộng Giai khuyên cô ta cùng đi xin lỗi bạn. Mộng Giai nổi giận, đẩy bạn ra, nói mình không sai. Mọi người xung quanh đều thấy. Cô bạn nhìn bạn bằng ánh mắt áy náy.",
+      "text": "Cô bạn cùng bàn của Mộng Giai khuyên cô ta cùng đi xin lỗi bạn. Mộng Giai nổi giận, đẩy bạn ra, nói mình không sai. Mọi người xung quanh đều thấy. Cô bạn nhìn bạn bằng ánh mắt áy náy. Bạn phải quyết định nói hay làm gì.",
       "tieu": "Cô ta tự để lộ trước mặt mọi người. Ngươi không cần làm gì thêm, nhưng nói một câu cũng được.",
       "cast": "unh,umg,tc",
       "ch": [
@@ -2726,7 +2726,7 @@
       "place": "Quán cà phê gần trường · Mùa thu lớp 12",
       "kind": "duyen",
       "title": "Vốn đầu tư",
-      "text": "Dịch Trì đang lỡ một dự án vì thiếu vốn. Bạn nói bạn đã dùng tiền tiêu vặt mua vài cổ phiếu theo gợi ý của Tiểu Châu, kiếm được một khoản, và chuyển cho hắn đầu tư. Bạn chỉ hắn cách đọc nhịp thị trường. Hắn chạy xe đến dưới nhà bạn vì quá vui.",
+      "text": "Dịch Trì đang lỡ một dự án vì thiếu vốn. Bạn nói bạn đã dùng tiền tiêu vặt mua vài cổ phiếu theo gợi ý của Tiểu Châu, kiếm được một khoản, và chuyển cho hắn đầu tư. Bạn chỉ hắn cách đọc nhịp thị trường. Hắn chạy xe đến dưới nhà bạn vì quá vui. Bạn phải quyết định hướng dẫn hắn đầu tư theo cách nào.",
       "tieu": "Tiền tiêu vặt là thật, lời cũng là thật. Phân tích từng bước, đừng bảo hắn làm theo vì tin ngươi.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -2813,7 +2813,7 @@
       "place": "Mạng xã hội và văn phòng hiệu trưởng · Học kỳ I lớp 12",
       "kind": "hiem",
       "title": "Tin đồn yêu sớm",
-      "text": "Một bài viết trên mạng chê hai người, nói trường dung túng yêu sớm. Bình luận tăng nhanh. Bạn viết lại một bài ngắn, đính kèm bảng điểm của cả hai. Dư luận đổi chiều. Dịch Trì công khai nhận khoản đầu tư của bạn, không giấu giếm gì.",
+      "text": "Một bài viết trên mạng chê hai người, nói trường dung túng yêu sớm. Bình luận tăng nhanh. Bạn viết lại một bài ngắn, đính kèm bảng điểm của cả hai. Dư luận đổi chiều. Dịch Trì công khai nhận khoản đầu tư của bạn, không giấu giếm gì. Bạn phải quyết định dẹp tin đồn này bằng cách nào.",
       "tieu": "Tin đồn lan nhanh, nhưng bảng điểm thì thật. Viết ngắn, viết rõ, và nhớ nhắc đến thầy cô nữa.",
       "cast": "unh,udt,ucd,tc",
       "ch": [
@@ -2902,7 +2902,7 @@
       "place": "Nhóm giao lưu vị diện · Đêm trước kỳ thi đại học",
       "kind": "chon",
       "title": "Viên đan cuối của Mộng Giai",
-      "text": "Mộng Giai thấy điểm thi thử không đủ nên năn nỉ đổi thêm Khai Trí Đan. Bạn nói rõ chỉ đổi thêm một viên và dùng quá mười lăm viên thì đầu óc kiệt, lâu mới hồi phục. Mộng Giai đã dùng gần hết giới hạn đó và vẫn nhận. Cả nhóm đọc lại lời cảnh báo.",
+      "text": "Mộng Giai thấy điểm thi thử không đủ nên năn nỉ đổi thêm Khai Trí Đan. Bạn nói rõ chỉ đổi thêm một viên và dùng quá mười lăm viên thì đầu óc kiệt, lâu mới hồi phục. Mộng Giai đã dùng gần hết giới hạn đó và vẫn nhận. Cả nhóm đọc lại lời cảnh báo. Bạn phải quyết định đáp lại yêu cầu của Mộng Giai thế nào.",
       "tieu": "Cô ta đã dùng gần hết giới hạn. Ngươi đã nói rõ. Giờ là chọn đổi hay không.",
       "cast": "unh,umg,uth,uel,tc",
       "ch": [
@@ -2986,7 +2986,7 @@
       "place": "Trường thi · Tháng sáu",
       "kind": "chon",
       "title": "Thi đại học",
-      "text": "Tháng sáu, bạn và Dịch Trì thi trong cùng một khu. Hai người ra khỏi phòng thi, đứng đợi nhau dưới tán cây. Bạn hỏi hắn khoa nào khó nhất, hắn nói ngữ văn. Gió thổi qua, hắn chợt đưa bạn cái quạt nhỏ hắn mang theo từ sáng.",
+      "text": "Tháng sáu, bạn và Dịch Trì thi trong cùng một khu. Hai người ra khỏi phòng thi, đứng đợi nhau dưới tán cây. Bạn hỏi hắn khoa nào khó nhất, hắn nói ngữ văn. Gió thổi qua, hắn chợt đưa bạn cái quạt nhỏ hắn mang theo từ sáng. Bạn phải quyết định nói gì với hắn trước giờ thi.",
       "tieu": "Hết thi rồi. Hắn mang quạt cho ngươi từ sáng đấy. Chọn lời cho khéo.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -3152,7 +3152,7 @@
       "place": "Kinh Đại · Năm năm sau",
       "kind": "duyen",
       "title": "Năm năm",
-      "text": "Tiểu Châu tóm tắt năm năm trôi qua. Bạn học xong đại học, vào học tiến sĩ toán, công thức đầu tiên mang tên bạn được công bố. Dịch Trì vừa học sinh học vừa điều hành Hoắc thị, lập phòng thí nghiệm riêng. Hai người vẫn gặp nhau mỗi tuần dù bận.",
+      "text": "Tiểu Châu tóm tắt năm năm trôi qua. Bạn học xong đại học, vào học tiến sĩ toán, công thức đầu tiên mang tên bạn được công bố. Dịch Trì vừa học sinh học vừa điều hành Hoắc thị, lập phòng thí nghiệm riêng. Hai người vẫn gặp nhau mỗi tuần dù bận. Bạn phải quyết định giữ khoảng cách giữa hai người ra sao.",
       "tieu": "Năm năm trôi nhanh lắm. Hai người vẫn gặp nhau mỗi tuần, tốt rồi. Giờ chọn cách giữ nhịp cho thật vững.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -3238,7 +3238,7 @@
       "place": "Cửa hàng kem quen · Chiều thứ bảy",
       "kind": "chon",
       "title": "Cửa hàng kem",
-      "text": "Chiều thứ bảy, cửa hàng kem quen, cả hai hai mươi ba tuổi. Hắn hỏi bạn thích vị nào, như hồi cấp ba. Bạn cười và cầu hôn trước. Hắn đỏ mặt, bảo hắn sẽ tặng món quà quý nhất. Tiểu Châu báo sức khỏe hắn đang xuống vì làm việc quá độ.",
+      "text": "Chiều thứ bảy, cửa hàng kem quen, cả hai hai mươi ba tuổi. Hắn hỏi bạn thích vị nào, như hồi cấp ba. Bạn cười và cầu hôn trước. Hắn đỏ mặt, bảo hắn sẽ tặng món quà quý nhất. Tiểu Châu báo sức khỏe hắn đang xuống vì làm việc quá độ. Bạn phải quyết định xử lý chuyện sức khỏe của hắn ra sao.",
       "tieu": "Cô cầu hôn rồi đấy, nhưng đừng để vui mà quên sức khỏe hắn. Ép hắn nghỉ hay để hắn tự quyết, mỗi cách có cái giá.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -3327,7 +3327,7 @@
       "place": "Phòng bệnh · Một năm sau",
       "kind": "nan",
       "title": "Lọ làn da tái sinh",
-      "text": "Một năm sau, Dịch Trì ngất vì kiệt sức. Tỉnh dậy trong phòng bệnh, hắn đưa bạn một bình dung dịch màu xanh: làn da tái sinh, hắn nghiên cứu suốt nhiều năm để sửa vết sẹo cho bạn. Hắn tự trách vì năm đó đã không bảo vệ được bạn, giọng khản đặc, tay run. Đây là mốc nặng: hắn đang kéo mình xuống vì bạn.",
+      "text": "Một năm sau, Dịch Trì ngất vì kiệt sức. Tỉnh dậy trong phòng bệnh, hắn đưa bạn một bình dung dịch màu xanh: làn da tái sinh, hắn nghiên cứu suốt nhiều năm để sửa vết sẹo cho bạn. Hắn tự trách vì năm đó đã không bảo vệ được bạn, giọng khản đặc, tay run. Đây là mốc nặng: hắn đang kéo mình xuống vì bạn. Bạn phải quyết định ở bên hắn thế nào.",
       "tieu": "Hắn tự trách mình rất nặng. Ngươi đã nói nhiều lần là ngươi không để ý, hãy nói lại, đừng để hắn tự dằn vặt.",
       "cast": "unh,udt,tc",
       "ch": [
@@ -3509,7 +3509,7 @@
       "place": "Sau lễ cưới · Chiều muộn",
       "kind": "nan",
       "title": "Lời kết",
-      "text": "Tiểu Châu tóm tắt những gì xảy ra sau lễ cưới. Dịch Trì ở bên bạn, dù sức khỏe có lúc lên lúc xuống, và hắn học cách nghỉ ngơi đúng giờ. Mỗi chiều thứ bảy, hai người ra cửa hàng kem quen. Câu chuyện không kết bằng một cái chết, chỉ kết bằng việc hai người cùng đi tiếp. Kết cục thế nào, các con số của bạn sẽ nói.",
+      "text": "Tiểu Châu tóm tắt những gì xảy ra sau lễ cưới. Dịch Trì ở bên bạn, dù sức khỏe có lúc lên lúc xuống, và hắn học cách nghỉ ngơi đúng giờ. Mỗi chiều thứ bảy, hai người ra cửa hàng kem quen. Câu chuyện không kết bằng một cái chết, chỉ kết bằng việc hai người cùng đi tiếp. Kết cục thế nào, các con số của bạn sẽ nói. Bạn phải quyết định đáp lại hắn ra sao.",
       "tieu": "Đây là mốc cuối. Ngươi đã đi cùng hắn rất xa. Hắn ra sao, các con số sẽ trả lời.",
       "cast": "unh,udt,tc",
       "ch": [
