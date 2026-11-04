@@ -47,7 +47,7 @@
       "hao": 2
     }
   ],
-  "pbias": -0.033,
+  "pbias": 0.0057,
   "p0": {
     "mi": 60,
     "tri": 58,
@@ -4798,5 +4798,10 @@
       "ctx": "Tòa nhà mạng quốc gia, hai mươi năm sau. Tiểu Châu báo nhiệm vụ đã xong.",
       "no": 50
     }
-  ]
+  ],
+  "wound": {
+    "h": 3.58,
+    "b": 5.42,
+    "x": 1.49
+  }
 }

@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": 0.072,
+  "pbias": 0.0413,
   "p0": {
     "mi": 58,
     "tri": 62,
@@ -3991,5 +3991,10 @@
       "ctx": "Sáng, sân bay, nhiều năm sau. Tiểu Châu tóm tắt mười mấy năm: Mặc Trì chưa lấy ai, bạn chỉ gọi anh là ca ca; anh đã sắp xếp ca mổ từ lâu. Họ lên máy bay.",
       "no": 45
     }
-  ]
+  ],
+  "wound": {
+    "h": 6,
+    "b": 8.62,
+    "x": 0.9
+  }
 }

@@ -41,7 +41,7 @@
       "hao": 2
     }
   ],
-  "pbias": -0.07,
+  "pbias": -0.0792,
   "p0": {
     "mi": 62,
     "tri": 55,
@@ -4405,5 +4405,10 @@
       "ctx": "Căn nhà cũ ở Hứa gia thôn, một sáng. Tiểu Châu báo nhiệm vụ ở thế giới này đã xong.",
       "no": 45
     }
-  ]
+  ],
+  "wound": {
+    "h": 5.78,
+    "b": 7.15,
+    "x": 0.96
+  }
 }

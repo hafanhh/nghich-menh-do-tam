@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": -0.07,
+  "pbias": -0.0858,
   "p0": {
     "mi": 60,
     "tri": 56,
@@ -4964,5 +4964,10 @@
       "ctx": "Ngự Hoa Viên, nhiều năm sau. Thái tử đã tám tuổi; Dực thoái vị; bạn và Triệt chuẩn bị về Giang thành.",
       "no": 50
     }
-  ]
+  ],
+  "wound": {
+    "h": 1.79,
+    "b": 6,
+    "x": 0.86
+  }
 }

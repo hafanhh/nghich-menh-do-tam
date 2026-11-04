@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": 0.085,
+  "pbias": 0.0452,
   "p0": {
     "mi": 62,
     "tri": 56,
@@ -3923,5 +3923,10 @@
       "ctx": "Hoàng hôn, bờ biển. Tiểu Châu chuẩn bị đọc kết quả; bạn chọn lời cuối với Mặc Hành.",
       "no": 45
     }
-  ]
+  ],
+  "wound": {
+    "h": 6.42,
+    "b": 8.78,
+    "x": 0.87
+  }
 }

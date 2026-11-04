@@ -22,6 +22,13 @@ export function choose(n){
   if(good&&!e.forced&&!c.R&&c.s){var pg=PROG[chapOf(S.i)];d=Object.assign({},d);["ac","hac","hao"].forEach(function(k){if(pg[k])d[k]=(d[k]||0)+pg[k]})}
   if(e.aft){d=Object.assign({},d);if(d.ac&&d.ac<0)d.ac=Math.round(d.ac*AFT);if(d.hac&&d.hac<0)d.hac=Math.round(d.hac*AFT);if(d.sinh&&d.sinh<0)d.sinh=Math.round(d.sinh*AFTS);if(d.hao&&d.hao>0)d.hao=Math.round(d.hao*AFTH)}
   if(W.adj)d=W.adj(d,good,c,e);
+  /* Vết thương khi thất bại phép thử (hằng số theo thế giới trong worlds/world-NN.json, mục wound): Sinh mệnh nữ chính mất h
+     (nhân 1,5 ở mốc Hiểm họa và Đại nạn), Sinh mệnh nam chính mất b nhân Hắc hóa/100, Hắc hóa dương nhân x. */
+  var wd=W.WOUND;
+  if(wd&&c.s&&!good&&!e.forced){d=Object.assign({},d);
+    d.sinh=Math.round((d.sinh||0)-wd.h*(e.kind==="hiem"||e.kind==="nan"?1.5:1));
+    d.bs=Math.round((d.bs||0)-wd.b*S.hac/100);
+    if(d.hac>0&&wd.x)d.hac=Math.round(d.hac*wd.x)}
   /* Mốc cuối không được kết thúc như một cái chết, ở mọi thế giới. */
   if(S.i===EV.length-1){d=Object.assign({},d);if(d.set&&d.set.hac>99)d.set=Object.assign({},d.set,{hac:99});var hb=d.set&&d.set.hac!==undefined?d.set.hac:S.hac;if(hb+(d.hac||0)>99)d.hac=99-hb;if(S.sinh+(d.sinh||0)<1)d.sinh=1-S.sinh;if(S.bs+(d.bs||0)<1)d.bs=1-S.bs}
   deltas=applyD(d,e);

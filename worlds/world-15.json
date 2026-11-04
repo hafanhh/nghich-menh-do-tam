@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": -0.073,
+  "pbias": -0.125,
   "p0": {
     "mi": 60,
     "tri": 58,
@@ -4599,5 +4599,10 @@
       "ctx": "Linh thực viên Thiên Ma Tông, một buổi sáng. Nhiệm vụ ở thế giới này đã xong.",
       "no": 48
     }
-  ]
+  ],
+  "wound": {
+    "h": 3.58,
+    "b": 5.52,
+    "x": 0.85
+  }
 }

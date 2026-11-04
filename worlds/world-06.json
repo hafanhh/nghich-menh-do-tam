@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": 0.01,
+  "pbias": 0.014,
   "p0": {
     "mi": 60,
     "tri": 58,
@@ -3881,5 +3881,10 @@
       "ctx": "Nửa đêm 9/9, phòng chờ bệnh viện. Phó Tông Nhiên chờ cùng bạn kết quả khám; bệnh lạ có bùng ra hay không tùy bạn đã giữ Kiệt sức thấp đến đâu.",
       "no": 47
     }
-  ]
+  ],
+  "wound": {
+    "h": 6.27,
+    "b": 7.03,
+    "x": 0.96
+  }
 }

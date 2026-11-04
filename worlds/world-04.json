@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": -0.0125,
+  "pbias": -0.0265,
   "p0": {
     "mi": 60,
     "tri": 58,
@@ -3104,5 +3104,10 @@
       "ctx": "Mười năm sau, ngọn đồi hoa chuông. Rừng đã sống lại; bạn và A Dã ngồi bên nhau trên chiếc ghế bập bênh.",
       "no": 39
     }
-  ]
+  ],
+  "wound": {
+    "h": 3.28,
+    "b": 6.57,
+    "x": 0.87
+  }
 }

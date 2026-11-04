@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": 0.01,
+  "pbias": 0.0032,
   "p0": {
     "mi": 55,
     "tri": 60,
@@ -3142,5 +3142,10 @@
       "ctx": "Sau trận mưa lửa. Bạn đã cầu mưa cứu Tần Dịch, bị tên của hắn bắn xuyên ngực rồi chuyển phản phệ của Quốc sư sang mình; trận hộ tâm trên lưng và viên Cường tâm hoàn của Tiểu Châu đang giữ tim bạn.",
       "no": 38
     }
-  ]
+  ],
+  "wound": {
+    "h": 3.79,
+    "b": 7.02,
+    "x": 0.88
+  }
 }

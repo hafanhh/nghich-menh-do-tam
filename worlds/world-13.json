@@ -3861,5 +3861,10 @@
       "ctx": "Phòng ngủ vương cung, một đêm. Tễ Hàn kể điều hắn giấu từ kiếp trước; Tiểu Châu đề nghị đổi cho bạn một viên mộng cũ.",
       "no": 43
     }
-  ]
+  ],
+  "wound": {
+    "h": 2,
+    "b": 8.3,
+    "x": 1
+  }
 }

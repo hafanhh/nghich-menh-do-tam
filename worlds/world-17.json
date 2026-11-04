@@ -41,7 +41,7 @@
       "hao": 2
     }
   ],
-  "pbias": -0.124,
+  "pbias": -0.1228,
   "p0": {
     "mi": 60,
     "tri": 58,
@@ -4370,5 +4370,10 @@
       "ctx": "Căn phòng trên Vọng Lâm Lâu, một sáng. Tiểu Châu báo nhiệm vụ ở thế giới này đã xong.",
       "no": 45
     }
-  ]
+  ],
+  "wound": {
+    "h": 5.6,
+    "b": 6.92,
+    "x": 1.13
+  }
 }

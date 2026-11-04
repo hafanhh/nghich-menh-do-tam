@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": 0.075,
+  "pbias": 0.0423,
   "p0": {
     "mi": 56,
     "tri": 64,
@@ -3595,5 +3595,10 @@
       "ctx": "Sau lễ cưới, chiều muộn. Tiểu Châu tóm tắt: hai người cùng đi tiếp; không có cái chết.",
       "no": 42
     }
-  ]
+  ],
+  "wound": {
+    "h": 7.45,
+    "b": 8.94,
+    "x": 0.84
+  }
 }

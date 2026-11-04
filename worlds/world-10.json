@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": 0.072,
+  "pbias": 0.0317,
   "p0": {
     "mi": 56,
     "tri": 64,
@@ -3650,5 +3650,10 @@
       "ctx": "Thế giới mới, sau cánh cổng. Tiểu Châu tóm tắt: dù tách ra hay nắm tay tới được, Hiên Dật vẫn đang tìm bạn.",
       "no": 44
     }
-  ]
+  ],
+  "wound": {
+    "h": 5.95,
+    "b": 8.44,
+    "x": 1.06
+  }
 }

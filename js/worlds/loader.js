@@ -24,6 +24,7 @@ function applyWorld(id,d){
   Object.assign(CN,d.names||{});
   if(PARAMS[id])Object.assign(PARAMS[id],d.params||{});
   ["base","canonReason","note","fixed"].forEach(function(k){if(d[k]!==undefined)w[k]=d[k]});
+  w.WOUND=d.wound;
   w.CHAP_END=d.chapEnd;w.PROG=d.prog;w.PBIAS=d.pbias;w.P0=d.p0;w.ENDS=d.ends;
   w.EV=d.events.map(function(e){if(hk[e.id])applyHooks(e,hk[e.id]);return e});
   if(IXS[id])w.EV.forEach(function(e,i){IXS[id][e.id]=i});

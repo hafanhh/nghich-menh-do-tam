@@ -35,7 +35,7 @@
       "hao": 2
     }
   ],
-  "pbias": 0,
+  "pbias": -0.0027,
   "p0": {
     "mi": 58,
     "tri": 60,
@@ -3396,5 +3396,10 @@
       "ctx": "Mấy ngày sau trận ở xưởng bỏ hoang, phòng bệnh. Bạn tỉnh lại; Kỷ Liệt ngồi bên giường và nói ra điều hắn đã giấu từ lâu.",
       "no": 43
     }
-  ]
+  ],
+  "wound": {
+    "h": 3.58,
+    "b": 5.58,
+    "x": 0.89
+  }
 }
