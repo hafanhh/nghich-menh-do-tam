@@ -17,7 +17,7 @@ Người chơi không tự chọn thế giới; hệ thống rút ngẫu nhiên 
 
 Tiểu Châu là hệ thống duy nhất của cả game, luôn là người dẫn truyện và dẫn đường ở mọi thế giới.
 
-- Tiểu Châu không đổi tên, không đổi ngoại hình (quả cầu ngọc xanh trong suốt, mắt xanh to, má hồng, miệng nhỏ luôn cười) và không đổi giọng.
+- Tiểu Châu không đổi tên, không đổi ngoại hình và không đổi giọng. Ngoại hình chuẩn: quả cầu ngọc xanh trong suốt hơi bẹp ngang, mắt xanh có một mảng sáng nhạt trong mắt, má hồng to, miệng nhỏ luôn cười; trên đỉnh có mầm lá hai lá, hai bên có hai chồi tay tròn nhỏ không ngón, ngồi trong một nụ sen xanh nhạt, chân quả cầu thắt nơ chỉ đỏ mảnh. Không có chân. Cảm xúc diễn bằng mầm lá, chồi tay, mắt và má hồng, miệng luôn là nét cười nhỏ.
 - Tiểu Châu mở mỗi thế giới: nói mục tiêu, số ngày, ai là nhân vật nhiệm vụ, và đưa ra lời khuyên ở từng mốc.
 - Tiểu Châu là đồng hành nên luôn xuất hiện trong khung lời thoại cạnh cảnh, kể cả khi nhân vật nhiệm vụ không ở đó.
 - Tiểu Châu không phải nhân vật của thế giới nào: không bị thế giới đó đổi tên hay thay bằng sinh vật khác, dù nhân vật phụ có thể biết hay không biết về nó.

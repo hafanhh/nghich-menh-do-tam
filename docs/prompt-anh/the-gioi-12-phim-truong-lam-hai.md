@@ -9,9 +9,7 @@ Dòng phong cách ở đầu mỗi prompt không gọi tên loại tranh: nó b�
 ### Phân hóa màu sắc theo thể loại, theo cảnh và theo kết cục
 
 1. **Thể loại quyết định tông chung.** truyện nhẹ nhàng, vui, đời thường nên ảnh tươi sáng hơn các thế giới kinh dị: màu cảnh vật sáng, ấm, trong; vùng tối chỉ ở rìa khung và các cảnh nạn; không máu, không bạo lực.
-
 2. **Phân hóa theo cảnh:** `duyên` sáng và ấm hơn tông chung một bậc, `chọn` giữ tông chung và bố cục cân bằng, `hiểm` lạnh hơn và tương phản màu cao hơn, `nạn` tối và xám lạnh nhất, góc nghiêng.
-
 3. **Phân hóa theo kết cục (thang sáng đến tối):** Hoàn hảo sáng nhất; Gần như trọn vẹn sáng vừa; Ở lại bên nhau nửa ấm nửa lạnh; Hắc hóa chạm 100 rất tối; Nam chính hết Sinh mệnh rất tối và tĩnh; Nữ chính hết Sinh mệnh tối nhất. Mỗi prompt kết cục có dòng «Mức sáng». Không máu, không thi thể.
 
 **Quy tắc góc nhìn:** mỗi prompt có người chỉ có một vị trí người xem; mọi chi tiết mô tả phải thấy được từ vị trí đó (nhìn từ phía sau thì không tả nét mặt hay vật cầm phía trước); cần thấy biểu cảm thì dùng nhìn nghiêng hoặc ba phần tư.
@@ -22,56 +20,56 @@ Giới giải trí hiện đại: căn hộ của nữ minh tinh bị cả mạn
 
 ## 2. Hồ sơ nhân vật
 
-| Nhân vật | Tuổi | Vai trò | Ngoại hình cố định |
-| --- | --- | --- | --- |
-| Mạc Tử Hân | 22 tuổi | nữ minh tinh lưu lượng bị mạng mắng là «bình hoa» | tóc nâu sẫm uốn lọn lớn ngang vai; mắt hạnh nâu, mặt trái xoan đẹp, da sáng, dáng mảnh cao khoảng 1m68 (bổ sung); trang phục: áo phao mỏng, quần dài, tai nghe nhỏ (bổ sung) (màu chủ đạo kem và nâu (bổ sung)) |
-| Giản Mặc Hành | 30 tuổi | đạo diễn «quỷ tài», tính tối tăm, hay mắng | tóc đen dài hơi rối buộc thấp (bổ sung); mắt đen sâu quầng thâm, mặt gầy sắc, da tái, cao khoảng 1m84 (bổ sung); trang phục: áo khoác dày, mũ lưỡi trai, cầm loa cầm tay (màu chủ đạo xám đen (bổ sung)) |
-| Tiểu Châu | không tuổi | hệ thống duy nhất của game | quả cầu ngọc xanh trong suốt, mắt xanh to, má hồng, miệng nhỏ luôn cười (đã có ảnh trong game, không cần vẽ lại) |
+| Nhân vật       | Tuổi        | Vai trò                                                     | Ngoại hình cố định                                                                                                                                                                                                                         |
+| ---------------- | ------------ | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mạc Tử Hân    | 22 tuổi     | nữ minh tinh lưu lượng bị mạng mắng là «bình hoa» | tóc nâu sẫm uốn lọn lớn ngang vai; mắt hạnh nâu, mặt trái xoan đẹp, da sáng, dáng mảnh cao khoảng 1m68 (bổ sung); trang phục: áo phao mỏng, quần dài, tai nghe nhỏ (bổ sung) (màu chủ đạo kem và nâu (bổ sung)) |
+| Giản Mặc Hành | 30 tuổi     | đạo diễn «quỷ tài», tính tối tăm, hay mắng        | tóc đen dài hơi rối buộc thấp (bổ sung); mắt đen sâu quầng thâm, mặt gầy sắc, da tái, cao khoảng 1m84 (bổ sung); trang phục: áo khoác dày, mũ lưỡi trai, cầm loa cầm tay (màu chủ đạo xám đen (bổ sung))     |
+| Tiểu Châu      | không tuổi | hệ thống duy nhất của game                               | quả cầu ngọc xanh trong suốt, mắt xanh to, má hồng, miệng nhỏ luôn cười (đã có ảnh trong game, không cần vẽ lại)                                                                                                            |
 
 ## 3. Mô hình ảnh theo lớp
 
-| Lớp | Nội dung | Tỉ lệ |
-| --- | --- | --- |
-| Chân dung | nữ chính, nam chính và hai biến thể biểu cảm của nam chính | 3:4 dọc |
-| Nền | bối cảnh theo `scene`, hoàn toàn không có người | 16:9 |
-| CG đặc biệt | 5 mốc then chốt, chỉ thấy bóng lưng, nghiêng hoặc cảnh xa | 16:9 |
-| CG kết cục | 6 loại kết cục | 16:9 |
+| Lớp           | Nội dung                                                            | Tỉ lệ  |
+| -------------- | -------------------------------------------------------------------- | -------- |
+| Chân dung     | nữ chính, nam chính và hai biến thể biểu cảm của nam chính | 3:4 dọc |
+| Nền           | bối cảnh theo `scene`, hoàn toàn không có người            | 16:9     |
+| CG đặc biệt | 5 mốc then chốt, chỉ thấy bóng lưng, nghiêng hoặc cảnh xa   | 16:9     |
+| CG kết cục   | 6 loại kết cục                                                    | 16:9     |
 
 ### Quy ước đặt tên file ảnh
 
-| Loại | Mẫu | Ví dụ |
-| --- | --- | --- |
-| Chân dung | `w12-nv-ten-nhan-vat[-bien-the]` | `w12-nv-mac-tu-han` |
-| Nền | `w12-nen-<scene>-ten-dia-diem` | `w12-nen-yroom-can-ho-tu-han` |
-| CG đặc biệt | `w12-cg-mSO-ten-canh` | `w12-cg-m01-tinh-day-trong-can-ho-bua-bo` |
-| CG kết cục | `w12-kc-<loai>-ten` | `w12-kc-true-moi-sang-mot-cau-hoi` |
+| Loại          | Mẫu                               | Ví dụ                                     |
+| -------------- | ---------------------------------- | ------------------------------------------- |
+| Chân dung     | `w12-nv-ten-nhan-vat[-bien-the]` | `w12-nv-mac-tu-han`                       |
+| Nền           | `w12-nen-<scene>-ten-dia-diem`   | `w12-nen-yroom-can-ho-tu-han`             |
+| CG đặc biệt | `w12-cg-mSO-ten-canh`            | `w12-cg-m01-tinh-day-trong-can-ho-bua-bo` |
+| CG kết cục   | `w12-kc-<loai>-ten`              | `w12-kc-true-moi-sang-mot-cau-hoi`        |
 
 ### Bảng bối cảnh
 
-| `scene` | Địa điểm | Mốc dùng | Tên file |
-| --- | --- | --- | --- |
-| `yroom` | Căn hộ của Tử Hân | 1, 3 (duyên); 4 (chọn); 10 (hiểm) | `w12-nen-yroom-can-ho-tu-han` |
-| `yphone` | Góc làm việc trong căn hộ | 2, 6, 21 (chọn); 8 (duyên); 19 (nạn) | `w12-nen-yphone-goc-lam-viec-can-ho` |
-| `ygym` | Phòng tập | 5 (chọn) | `w12-nen-ygym-phong-tap` |
-| `ystudio` | Phòng thử vai | 7, 17 (chọn) | `w12-nen-ystudio-phong-thu-vai` |
-| `yroad` | Phố buổi chiều | 9 (chọn) | `w12-nen-yroad-pho-chieu` |
-| `ylot` | Căn hộ lúc 15:10 | 11 (hiểm), 12 (duyên) | `w12-nen-ylot-can-ho-15g10` |
-| `yhall` | Trường quý tộc làm phim trường | 13, 15 (duyên); 14, 40 (chọn) | `w12-nen-yhall-truong-quy-toc-phim-truong` |
-| `ydress` | Phòng hóa trang | 16 (chọn) | `w12-nen-ydress-phong-hoa-trang` |
-| `ystage` | Phim trường và cổng trường | 18 (chọn) | `w12-nen-ystage-phim-truong-va-cong-truong` |
-| `yvilla` | Biệt thự của Mặc Hành | 20 (chọn) | `w12-nen-yvilla-biet-thu-mac-hanh` |
-| `rgreen` | Trạm tập kết rừng Lâm Hải | 22, 23 (duyên); 32, 33 (chọn); 24, 36 (hiểm) | `w12-nen-rgreen-tram-tap-ket-rung` |
-| `rstone` | Dốc đá rừng Lâm Hải | 25 (chọn) | `w12-nen-rstone-doc-da-rung-lam-hai` |
-| `rriver` | Hạ lưu sông | 26, 28 (duyên); 27 (chọn); 31 (hiểm) | `w12-nen-rriver-ha-luu-song` |
-| `rfire` | Bên lửa trại | 29, 30 (chọn) | `w12-nen-rfire-ben-lua-trai` |
-| `rforest` | Rừng sâu Lâm Hải | 34 (hiểm) | `w12-nen-rforest-rung-sau-lam-hai` |
-| `rburn` | Rừng sâu sau tiếng nổ | 35 (hiểm), 37 (nạn) | `w12-nen-rburn-rung-sau-sau-tieng-no` |
-| `rhill` | Mép rừng Lâm Hải | 38 (duyên) | `w12-nen-rhill-mep-rung-lam-hai` |
-| `yoffice` | Văn phòng Đoàn Nguyên | 39 (chọn) | `w12-nen-yoffice-van-phong-doan-nguyen` |
-| `yconcert` | Rạp chiếu phim | 41 (chọn) | `w12-nen-yconcert-rap-chieu-phim` |
-| `ymansion` | Thư phòng nhà Mặc Hành | 42 (chọn) | `w12-nen-ymansion-thu-phong-mac-hanh` |
-| `ywed` | Hội trường hôn lễ | 43 (nạn) | `w12-nen-ywed-hoi-truong-hon-le` |
-| `ysea` | Vùng biển | 44 (chọn), 45 (nạn) | `w12-nen-ysea-vung-bien` |
+| `scene`    | Địa điểm                          | Mốc dùng                                      | Tên file                                     |
+| ------------ | ------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
+| `yroom`    | Căn hộ của Tử Hân                | 1, 3 (duyên); 4 (chọn); 10 (hiểm)            | `w12-nen-yroom-can-ho-tu-han`               |
+| `yphone`   | Góc làm việc trong căn hộ        | 2, 6, 21 (chọn); 8 (duyên); 19 (nạn)         | `w12-nen-yphone-goc-lam-viec-can-ho`        |
+| `ygym`     | Phòng tập                           | 5 (chọn)                                       | `w12-nen-ygym-phong-tap`                    |
+| `ystudio`  | Phòng thử vai                       | 7, 17 (chọn)                                   | `w12-nen-ystudio-phong-thu-vai`             |
+| `yroad`    | Phố buổi chiều                     | 9 (chọn)                                       | `w12-nen-yroad-pho-chieu`                   |
+| `ylot`     | Căn hộ lúc 15:10                   | 11 (hiểm), 12 (duyên)                         | `w12-nen-ylot-can-ho-15g10`                 |
+| `yhall`    | Trường quý tộc làm phim trường | 13, 15 (duyên); 14, 40 (chọn)                 | `w12-nen-yhall-truong-quy-toc-phim-truong`  |
+| `ydress`   | Phòng hóa trang                     | 16 (chọn)                                      | `w12-nen-ydress-phong-hoa-trang`            |
+| `ystage`   | Phim trường và cổng trường      | 18 (chọn)                                      | `w12-nen-ystage-phim-truong-va-cong-truong` |
+| `yvilla`   | Biệt thự của Mặc Hành            | 20 (chọn)                                      | `w12-nen-yvilla-biet-thu-mac-hanh`          |
+| `rgreen`   | Trạm tập kết rừng Lâm Hải       | 22, 23 (duyên); 32, 33 (chọn); 24, 36 (hiểm) | `w12-nen-rgreen-tram-tap-ket-rung`          |
+| `rstone`   | Dốc đá rừng Lâm Hải             | 25 (chọn)                                      | `w12-nen-rstone-doc-da-rung-lam-hai`        |
+| `rriver`   | Hạ lưu sông                        | 26, 28 (duyên); 27 (chọn); 31 (hiểm)         | `w12-nen-rriver-ha-luu-song`                |
+| `rfire`    | Bên lửa trại                       | 29, 30 (chọn)                                  | `w12-nen-rfire-ben-lua-trai`                |
+| `rforest`  | Rừng sâu Lâm Hải                  | 34 (hiểm)                                      | `w12-nen-rforest-rung-sau-lam-hai`          |
+| `rburn`    | Rừng sâu sau tiếng nổ             | 35 (hiểm), 37 (nạn)                           | `w12-nen-rburn-rung-sau-sau-tieng-no`       |
+| `rhill`    | Mép rừng Lâm Hải                  | 38 (duyên)                                     | `w12-nen-rhill-mep-rung-lam-hai`            |
+| `yoffice`  | Văn phòng Đoàn Nguyên            | 39 (chọn)                                      | `w12-nen-yoffice-van-phong-doan-nguyen`     |
+| `yconcert` | Rạp chiếu phim                      | 41 (chọn)                                      | `w12-nen-yconcert-rap-chieu-phim`           |
+| `ymansion` | Thư phòng nhà Mặc Hành           | 42 (chọn)                                      | `w12-nen-ymansion-thu-phong-mac-hanh`       |
+| `ywed`     | Hội trường hôn lễ                | 43 (nạn)                                       | `w12-nen-ywed-hoi-truong-hon-le`            |
+| `ysea`     | Vùng biển                           | 44 (chọn), 45 (nạn)                           | `w12-nen-ysea-vung-bien`                    |
 
 ---
 
@@ -768,7 +766,5 @@ Tỉ lệ khung 16:9. Không chữ, không logo, không watermark.
 ## 4. Ba điểm cần kiểm tra
 
 1. **Nhất quán nhân vật:** Mạc Tử Hân luôn có nâu sẫm uốn lọn lớn ngang vai; Giản Mặc Hành luôn có đen dài hơi rối buộc thấp (bổ sung). Chân dung ở Phần A là chuẩn để đối chiếu, kể cả hai biến thể biểu cảm của nam chính. Các CG chỉ thấy bóng lưng, nghiêng hoặc cảnh xa.
-
 2. **Nhất quán style:** mọi ảnh phải khớp ảnh mẫu đính kèm, không trượt về thói quen ChatGPT (3D, đậm, sắc, chi tiết quá đà, điểm sáng, điện ảnh). Cùng một địa điểm ở các mốc khác nhau phải nhận ra là cùng một nơi.
-
 3. **Tiến triển cảm xúc:** màu và ánh sáng đi theo loại mốc; sáu CG kết cục phải phân biệt được chỉ bằng màu và bố cục, theo thang từ Hoàn hảo (sáng nhất) tới Nữ chính hết Sinh mệnh (tối nhất).

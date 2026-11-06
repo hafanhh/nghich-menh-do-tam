@@ -9,9 +9,7 @@ Dòng phong cách ở đầu mỗi prompt không gọi tên loại tranh: nó b�
 ### Phân hóa màu sắc theo thể loại, theo cảnh và theo kết cục
 
 1. **Thể loại quyết định tông chung.** Mạt thế tang thi nhưng truyện nhẹ, ngọt, hóm hỉnh: tông chung xanh rêu nhạt, xám ấm và kem, tối hơn các thế giới đời thường một bậc nhưng sáng hơn truyện kinh dị. Tang thi vẽ gọn, màu xám nhạt; không máu, không xác, không cảnh cắn xé.
-
 2. **Phân hóa theo cảnh:** `duyên` sáng và ấm hơn tông chung một bậc, `chọn` giữ tông chung và bố cục cân bằng, `hiểm` lạnh hơn và tương phản màu cao hơn, `nạn` tối và xám lạnh nhất, góc nghiêng.
-
 3. **Phân hóa theo kết cục (thang sáng đến tối):** Hoàn hảo sáng nhất; Gần như trọn vẹn sáng vừa; Ở lại bên nhau nửa ấm nửa lạnh; Hắc hóa chạm 100 rất tối; Nam chính hết Sinh mệnh rất tối và tĩnh; Nữ chính hết Sinh mệnh tối nhất. Mỗi prompt kết cục có dòng «Mức sáng». Không máu, không thi thể.
 
 **Quy tắc góc nhìn:** mỗi prompt có người chỉ có một vị trí người xem; mọi chi tiết mô tả phải thấy được từ vị trí đó (nhìn từ phía sau thì không tả nét mặt hay vật cầm phía trước); cần thấy biểu cảm thì dùng nhìn nghiêng hoặc ba phần tư.
@@ -22,53 +20,53 @@ Mạt thế tang thi, từ hiệu thuốc hoang nơi Tiểu Quất tỉnh dậy 
 
 ## 2. Hồ sơ nhân vật
 
-| Nhân vật | Tuổi | Vai trò | Ngoại hình cố định |
-| --- | --- | --- | --- |
-| Bùi Tiểu Quất | 22 tuổi | nữ chính, tiểu thư thói ở sạch, bị cắn thành tang thi vương, điều khiển được tang thi | tóc đen thẳng dài buộc đuôi thấp bằng dây vải trắng (bổ sung); mắt hạnh đen, mặt trái xoan trắng, dáng mảnh cao khoảng 1m65 (bổ sung); trang phục: áo sơ mi trắng sạch, áo khoác kaki nhạt, quần dài, giày thể thao trắng, ngọc bội Bùi gia khắc chữ «Bùi» đeo ở cổ (bổ sung) (màu chủ đạo trắng kem và nâu nhạt (bổ sung)) |
-| Úc Tễ Hàn | 28 tuổi | nam chính, người lập Tịch Chiếu căn cứ, đã trọng sinh, lạnh với người ngoài, chỉ mềm với cô | tóc đen ngắn gọn gàng (bổ sung); mắt xám đen sâu, mặt góc cạnh, da trắng lạnh, cao khoảng 1m88 (bổ sung); trang phục: áo khoác dài đen, găng da, huy hiệu Tịch Chiếu hình nửa mặt trời bạc ở ngực (bổ sung) (màu chủ đạo đen và bạc (bổ sung)) |
-| Tiểu Châu | không tuổi | hệ thống duy nhất của game | quả cầu ngọc xanh trong suốt, mắt xanh to, má hồng, miệng nhỏ luôn cười (đã có ảnh trong game, không cần vẽ lại) |
+| Nhân vật       | Tuổi        | Vai trò                                                                                                        | Ngoại hình cố định                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------- | ------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Bùi Tiểu Quất | 22 tuổi     | nữ chính, tiểu thư thói ở sạch, bị cắn thành tang thi vương, điều khiển được tang thi         | tóc đen thẳng dài buộc đuôi thấp bằng dây vải trắng (bổ sung); mắt hạnh đen, mặt trái xoan trắng, dáng mảnh cao khoảng 1m65 (bổ sung); trang phục: áo sơ mi trắng sạch, áo khoác kaki nhạt, quần dài, giày thể thao trắng, ngọc bội Bùi gia khắc chữ «Bùi» đeo ở cổ (bổ sung) (màu chủ đạo trắng kem và nâu nhạt (bổ sung)) |
+| Úc Tễ Hàn     | 28 tuổi     | nam chính, người lập Tịch Chiếu căn cứ, đã trọng sinh, lạnh với người ngoài, chỉ mềm với cô | tóc đen ngắn gọn gàng (bổ sung); mắt xám đen sâu, mặt góc cạnh, da trắng lạnh, cao khoảng 1m88 (bổ sung); trang phục: áo khoác dài đen, găng da, huy hiệu Tịch Chiếu hình nửa mặt trời bạc ở ngực (bổ sung) (màu chủ đạo đen và bạc (bổ sung))                                                                                             |
+| Tiểu Châu      | không tuổi | hệ thống duy nhất của game                                                                                  | quả cầu ngọc xanh trong suốt, mắt xanh to, má hồng, miệng nhỏ luôn cười (đã có ảnh trong game, không cần vẽ lại)                                                                                                                                                                                                                                                 |
 
 ## 3. Mô hình ảnh theo lớp
 
-| Lớp | Nội dung | Tỉ lệ |
-| --- | --- | --- |
-| Chân dung | nữ chính, nam chính và hai biến thể biểu cảm của nam chính | 3:4 dọc |
-| Nền | bối cảnh theo `scene`, hoàn toàn không có người | 16:9 |
-| CG đặc biệt | 5 mốc then chốt, chỉ thấy bóng lưng, nghiêng hoặc cảnh xa | 16:9 |
-| CG kết cục | 6 loại kết cục | 16:9 |
+| Lớp           | Nội dung                                                            | Tỉ lệ  |
+| -------------- | -------------------------------------------------------------------- | -------- |
+| Chân dung     | nữ chính, nam chính và hai biến thể biểu cảm của nam chính | 3:4 dọc |
+| Nền           | bối cảnh theo `scene`, hoàn toàn không có người            | 16:9     |
+| CG đặc biệt | 5 mốc then chốt, chỉ thấy bóng lưng, nghiêng hoặc cảnh xa   | 16:9     |
+| CG kết cục   | 6 loại kết cục                                                    | 16:9     |
 
 ### Quy ước đặt tên file ảnh
 
-| Loại | Mẫu | Ví dụ |
-| --- | --- | --- |
-| Chân dung | `w13-nv-ten-nhan-vat[-bien-the]` | `w13-nv-bui-tieu-quat` |
-| Nền | `w13-nen-<scene>-ten-dia-diem` | `w13-nen-jclinic-hieu-thuoc-hoang` |
-| CG đặc biệt | `w13-cg-mSO-ten-canh` | `w13-cg-m01-tinh-day-trong-hieu-thuoc` |
-| CG kết cục | `w13-kc-<loai>-ten` | `w13-kc-true-ngai-doi-tren-dinh-tich-chieu` |
+| Loại          | Mẫu                               | Ví dụ                                       |
+| -------------- | ---------------------------------- | --------------------------------------------- |
+| Chân dung     | `w13-nv-ten-nhan-vat[-bien-the]` | `w13-nv-bui-tieu-quat`                      |
+| Nền           | `w13-nen-<scene>-ten-dia-diem`   | `w13-nen-jclinic-hieu-thuoc-hoang`          |
+| CG đặc biệt | `w13-cg-mSO-ten-canh`            | `w13-cg-m01-tinh-day-trong-hieu-thuoc`      |
+| CG kết cục   | `w13-kc-<loai>-ten`              | `w13-kc-true-ngai-doi-tren-dinh-tich-chieu` |
 
 ### Bảng bối cảnh
 
-| `scene` | Địa điểm | Mốc dùng | Tên file |
-| --- | --- | --- | --- |
-| `jclinic` | Hiệu thuốc hoang | 1, 2 (duyên); 4 (chọn) | `w13-nen-jclinic-hieu-thuoc-hoang` |
-| `rforest` | Ngoài hiệu thuốc | 3 (duyên) | `w13-nen-rforest-ngoai-hieu-thuoc` |
-| `rfire` | Sân hiệu thuốc | 5 (duyên) | `w13-nen-rfire-san-hieu-thuoc` |
-| `jfactory` | Xưởng thực phẩm | 6, 8 (chọn); 7, 33 (hiểm) | `w13-nen-jfactory-xuong-thuc-pham` |
-| `jgate` | Cổng căn cứ số 7 | 9 (duyên); 37 (chọn) | `w13-nen-jgate-cong-can-cu-so-7` |
-| `jyard` | Khu người thường | 10 (hiểm) | `w13-nen-jyard-khu-nguoi-thuong` |
-| `yroad` | Đường từ khu người thường tới biệt thự | 11, 27 (nạn); 20 (chọn); 28 (duyên) | `w13-nen-yroad-duong-toi-biet-thu` |
-| `kvilla` | Biệt thự Triêu Dương | 12 (chọn) | `w13-nen-kvilla-biet-thu-trieu-duong` |
-| `ykitchen` | Bếp biệt thự | 13, 16 (chọn); 17 (duyên) | `w13-nen-ykitchen-bep-biet-thu` |
-| `yhall` | Phòng khách biệt thự | 14, 15, 26 (nạn); 24 (duyên); 31 (chọn) | `w13-nen-yhall-phong-khach-biet-thu` |
-| `jsite` | Kho hàng | 18 (hiểm); 19, 22 (chọn); 21 (nạn) | `w13-nen-jsite-kho-hang` |
-| `yoffice` | Văn phòng tiểu đội | 23 (duyên); 25, 30 (chọn) | `w13-nen-yoffice-van-phong-tieu-doi` |
-| `jcity` | Cổng Tịch Chiếu và phòng váy áo | 29, 34 (chọn) | `w13-nen-jcity-cong-tich-chieu-phong-vay-ao` |
-| `ggarden` | Lâu đài trong rừng | 32 (duyên) | `w13-nen-ggarden-lau-dai-trong-rung` |
-| `gpalace` | Cung Tịch Chiếu | 35 (chọn) | `w13-nen-gpalace-cung-tich-chieu` |
-| `gbanquet` | Đại sảnh yến hội Tịch Chiếu | 36, 41 (chọn); 40 (nạn) | `w13-nen-gbanquet-dai-sanh-yen-hoi` |
-| `gdream` | Phòng làm việc Tịch Chiếu | 38 (duyên); 42 (chọn); 43 (nạn) | `w13-nen-gdream-phong-lam-viec-tich-chieu` |
-| `gtemple` | Chợ Tịch Chiếu | 39 (chọn) | `w13-nen-gtemple-cho-tich-chieu` |
-| `rcave` | Hang đá trong rừng (chỉ dùng cho CG kết cục Hắc hóa) | kết cục | `w13-nen-rcave-hang-da-trong-rung` |
+| `scene`    | Địa điểm                                                  | Mốc dùng                                 | Tên file                                      |
+| ------------ | ------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------- |
+| `jclinic`  | Hiệu thuốc hoang                                            | 1, 2 (duyên); 4 (chọn)                   | `w13-nen-jclinic-hieu-thuoc-hoang`           |
+| `rforest`  | Ngoài hiệu thuốc                                           | 3 (duyên)                                 | `w13-nen-rforest-ngoai-hieu-thuoc`           |
+| `rfire`    | Sân hiệu thuốc                                             | 5 (duyên)                                 | `w13-nen-rfire-san-hieu-thuoc`               |
+| `jfactory` | Xưởng thực phẩm                                           | 6, 8 (chọn); 7, 33 (hiểm)                | `w13-nen-jfactory-xuong-thuc-pham`           |
+| `jgate`    | Cổng căn cứ số 7                                          | 9 (duyên); 37 (chọn)                     | `w13-nen-jgate-cong-can-cu-so-7`             |
+| `jyard`    | Khu người thường                                          | 10 (hiểm)                                 | `w13-nen-jyard-khu-nguoi-thuong`             |
+| `yroad`    | Đường từ khu người thường tới biệt thự             | 11, 27 (nạn); 20 (chọn); 28 (duyên)     | `w13-nen-yroad-duong-toi-biet-thu`           |
+| `kvilla`   | Biệt thự Triêu Dương                                     | 12 (chọn)                                 | `w13-nen-kvilla-biet-thu-trieu-duong`        |
+| `ykitchen` | Bếp biệt thự                                               | 13, 16 (chọn); 17 (duyên)                | `w13-nen-ykitchen-bep-biet-thu`              |
+| `yhall`    | Phòng khách biệt thự                                      | 14, 15, 26 (nạn); 24 (duyên); 31 (chọn) | `w13-nen-yhall-phong-khach-biet-thu`         |
+| `jsite`    | Kho hàng                                                     | 18 (hiểm); 19, 22 (chọn); 21 (nạn)      | `w13-nen-jsite-kho-hang`                     |
+| `yoffice`  | Văn phòng tiểu đội                                       | 23 (duyên); 25, 30 (chọn)                | `w13-nen-yoffice-van-phong-tieu-doi`         |
+| `jcity`    | Cổng Tịch Chiếu và phòng váy áo                        | 29, 34 (chọn)                             | `w13-nen-jcity-cong-tich-chieu-phong-vay-ao` |
+| `ggarden`  | Lâu đài trong rừng                                        | 32 (duyên)                                | `w13-nen-ggarden-lau-dai-trong-rung`         |
+| `gpalace`  | Cung Tịch Chiếu                                             | 35 (chọn)                                 | `w13-nen-gpalace-cung-tich-chieu`            |
+| `gbanquet` | Đại sảnh yến hội Tịch Chiếu                            | 36, 41 (chọn); 40 (nạn)                  | `w13-nen-gbanquet-dai-sanh-yen-hoi`          |
+| `gdream`   | Phòng làm việc Tịch Chiếu                                | 38 (duyên); 42 (chọn); 43 (nạn)         | `w13-nen-gdream-phong-lam-viec-tich-chieu`   |
+| `gtemple`  | Chợ Tịch Chiếu                                             | 39 (chọn)                                 | `w13-nen-gtemple-cho-tich-chieu`             |
+| `rcave`    | Hang đá trong rừng (chỉ dùng cho CG kết cục Hắc hóa) | kết cục                                  | `w13-nen-rcave-hang-da-trong-rung`           |
 
 ---
 
@@ -710,7 +708,5 @@ Tỉ lệ khung 16:9. Không chữ, không logo, không watermark.
 ## 4. Ba điểm cần kiểm tra
 
 1. **Nhất quán nhân vật:** Bùi Tiểu Quất luôn có tóc đen dài buộc đuôi ngựa, áo khoác bẩn bụi cố giữ gọn và khẩu trang kéo xuống cằm; Úc Tễ Hàn luôn có áo khoác chiến thuật, băng đen ở cánh tay và đao ngắn bên hông. Chân dung ở Phần A là chuẩn để đối chiếu, kể cả hai biến thể biểu cảm của nam chính. Các CG chỉ thấy bóng lưng, nghiêng hoặc cảnh xa.
-
 2. **Nhất quán style:** mọi ảnh phải khớp ảnh mẫu đính kèm, không trượt về thói quen ChatGPT (3D, đậm, sắc, chi tiết quá đà, điểm sáng, điện ảnh). Tang thi luôn là hình người xám nhạt vẽ gọn, không máu, không xác. Cùng một địa điểm ở các mốc khác nhau phải nhận ra là cùng một nơi.
-
 3. **Tiến triển cảm xúc:** màu và ánh sáng đi theo loại mốc; sáu CG kết cục phải phân biệt được chỉ bằng màu và bố cục, theo thang từ Hoàn hảo (sáng nhất) tới Nữ chính hết Sinh mệnh (tối nhất).

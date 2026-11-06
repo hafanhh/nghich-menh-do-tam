@@ -1,3 +1,5 @@
+tâ
+
 # Prompt vẽ ảnh · Thế giới 14 · Thiên Dận Hậu Cung (Cổ đại cung đình song đế)
 
 Nguồn: [the-gioi-14-thien-dan-hau-cung.md](../../docs/mach-truyen/the-gioi-14-thien-dan-hau-cung.md) và `worlds/world-14.json`. Khi dán vào công cụ vẽ, đính kèm ảnh mẫu phong cách. Chân dung 3:4 dọc; nền, CG và kết cục 16:9. Không chữ, không logo, không watermark. Chi tiết tự đặt ghi «(bổ sung)». Ảnh bìa và nhân vật phụ chưa cần vẽ, nên file này chỉ có chân dung hai nhân vật chính, nền, CG đặc biệt và CG kết cục.
@@ -9,9 +11,7 @@ Dòng phong cách ở đầu mỗi prompt không gọi tên loại tranh: nó b�
 ### Phân hóa màu sắc theo thể loại, theo cảnh và theo kết cục
 
 1. **Thể loại quyết định tông chung.** Cung đình cổ trang, truyện nhẹ, hài xen ngọt và có lúc đau: tông chung hồng đào nhạt, đỏ son nhạt, kem và vàng nhạt, sáng hơn các thế giới tu luyện hay kinh dị. Mưa là màu xanh xám nhạt, vùng tối chỉ ở rìa khung và các cảnh nạn; không máu, không cảnh tự thiêu.
-
 2. **Phân hóa theo cảnh:** `duyên` sáng và ấm hơn tông chung một bậc, `chọn` giữ tông chung và bố cục cân bằng, `hiểm` lạnh hơn và tương phản màu cao hơn, `nạn` tối và xám lạnh nhất, góc nghiêng.
-
 3. **Phân hóa theo kết cục (thang sáng đến tối):** Hoàn hảo sáng nhất; Gần như trọn vẹn sáng vừa; Ở lại bên nhau nửa ấm nửa lạnh; Hắc hóa chạm 100 rất tối; Nam chính hết Sinh mệnh rất tối và tĩnh; Nữ chính hết Sinh mệnh tối nhất. Mỗi prompt kết cục có dòng «Mức sáng». Không máu, không thi thể.
 
 **Quy tắc góc nhìn:** mỗi prompt có người chỉ có một vị trí người xem; mọi chi tiết mô tả phải thấy được từ vị trí đó (nhìn từ phía sau thì không tả nét mặt hay vật cầm phía trước); cần thấy biểu cảm thì dùng nhìn nghiêng hoặc ba phần tư.
@@ -22,42 +22,42 @@ Cung đình Thiên Dận quốc: điện Quý Phi nơi Tiểu Đào tỉnh dậy
 
 ## 2. Hồ sơ nhân vật
 
-| Nhân vật | Tuổi | Vai trò | Ngoại hình cố định |
-| --- | --- | --- | --- |
-| Giang Tiểu Đào | 20 tuổi | nữ chính, Quý Phi, con gái đại tướng quân, đau đầu gối khi mưa | tóc đen búi cao cài trâm vàng hình hoa đào; mắt hạnh đen sáng tỉnh táo, mặt trái xoan, da trắng, dáng mảnh cao khoảng 1m66 (bổ sung); trang phục: phi phục thêu hoa đào, tay rộng, khoác lụa mỏng (bổ sung); từ mốc 7 có thêm vòng ngọc đen ở cổ tay (thay đổi: vòng Triệt đeo cho cô) (màu chủ đạo đỏ rượu và vàng nhạt (bổ sung)) |
-| Mộ Dung Triệt | 25 tuổi | nam chính, Ẩn Đế, huynh trưởng song sinh của vua, tà khí, ngầm bảo vệ nước | tóc đen dài buộc nửa đầu bằng dây đen; mắt đen sâu hơi xếch, mặt tuấn mỹ sắc, da sáng, cao khoảng 1m88 (bổ sung); trang phục: áo choàng thêu rồng vàng thưa, đai ngọc (màu chủ đạo đen và vàng (bổ sung)) |
-| Tiểu Châu | không tuổi | hệ thống duy nhất của game | quả cầu ngọc xanh trong suốt, mắt xanh to, má hồng, miệng nhỏ luôn cười (đã có ảnh trong game, không cần vẽ lại) |
+| Nhân vật        | Tuổi        | Vai trò                                                                                 | Ngoại hình cố định                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------- | ------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giang Tiểu Đào | 20 tuổi     | nữ chính, Quý Phi, con gái đại tướng quân, đau đầu gối khi mưa             | tóc đen búi cao cài trâm vàng hình hoa đào; mắt hạnh đen sáng tỉnh táo, mặt trái xoan, da trắng, dáng mảnh cao khoảng 1m66 (bổ sung); trang phục: phi phục thêu hoa đào, tay rộng, khoác lụa mỏng (bổ sung); từ mốc 7 có thêm vòng ngọc đen ở cổ tay (thay đổi: vòng Triệt đeo cho cô) (màu chủ đạo đỏ rượu và vàng nhạt (bổ sung)) |
+| Mộ Dung Triệt   | 25 tuổi     | nam chính, Ẩn Đế, huynh trưởng song sinh của vua, tà khí, ngầm bảo vệ nước | tóc đen dài buộc nửa đầu bằng dây đen; mắt đen sâu hơi xếch, mặt tuấn mỹ sắc, da sáng, cao khoảng 1m88 (bổ sung); trang phục: áo choàng thêu rồng vàng thưa, đai ngọc (màu chủ đạo đen và vàng (bổ sung))                                                                                                                                               |
+| Tiểu Châu       | không tuổi | hệ thống duy nhất của game                                                           | quả cầu ngọc xanh trong suốt, mắt xanh to, má hồng, miệng nhỏ luôn cười (đã có ảnh trong game, không cần vẽ lại)                                                                                                                                                                                                                                                           |
 
 ## 3. Mô hình ảnh theo lớp
 
-| Lớp | Nội dung | Tỉ lệ |
-| --- | --- | --- |
-| Chân dung | nữ chính, nam chính và hai biến thể biểu cảm của nam chính | 3:4 dọc |
-| Nền | bối cảnh theo `scene`, hoàn toàn không có người | 16:9 |
-| CG đặc biệt | 5 mốc then chốt, chỉ thấy bóng lưng, nghiêng hoặc cảnh xa | 16:9 |
-| CG kết cục | 6 loại kết cục | 16:9 |
+| Lớp           | Nội dung                                                            | Tỉ lệ  |
+| -------------- | -------------------------------------------------------------------- | -------- |
+| Chân dung     | nữ chính, nam chính và hai biến thể biểu cảm của nam chính | 3:4 dọc |
+| Nền           | bối cảnh theo `scene`, hoàn toàn không có người            | 16:9     |
+| CG đặc biệt | 5 mốc then chốt, chỉ thấy bóng lưng, nghiêng hoặc cảnh xa   | 16:9     |
+| CG kết cục   | 6 loại kết cục                                                    | 16:9     |
 
 ### Quy ước đặt tên file ảnh
 
-| Loại | Mẫu | Ví dụ |
-| --- | --- | --- |
-| Chân dung | `w14-nv-ten-nhan-vat[-bien-the]` | `w14-nv-giang-tieu-dao` |
-| Nền | `w14-nen-<scene>-ten-dia-diem` | `w14-nen-gpalace-dien-quy-phi` |
-| CG đặc biệt | `w14-cg-mSO-ten-canh` | `w14-cg-m02-nguoi-la-trong-man-dem` |
-| CG kết cục | `w14-kc-<loai>-ten` | `w14-kc-true-hai-bong-mot-ngai-noi-giang-thanh` |
+| Loại          | Mẫu                               | Ví dụ                                           |
+| -------------- | ---------------------------------- | ------------------------------------------------- |
+| Chân dung     | `w14-nv-ten-nhan-vat[-bien-the]` | `w14-nv-giang-tieu-dao`                         |
+| Nền           | `w14-nen-<scene>-ten-dia-diem`   | `w14-nen-gpalace-dien-quy-phi`                  |
+| CG đặc biệt | `w14-cg-mSO-ten-canh`            | `w14-cg-m02-nguoi-la-trong-man-dem`             |
+| CG kết cục   | `w14-kc-<loai>-ten`              | `w14-kc-true-hai-bong-mot-ngai-noi-giang-thanh` |
 
 ### Bảng bối cảnh
 
-| `scene` | Địa điểm | Mốc dùng | Tên file |
-| --- | --- | --- | --- |
-| `gpalace` | Điện Quý Phi | 1–6, 8–10, 12, 14–16, 18–20, 22, 26–29, 34–36, 38, 39, 41, 43 (chọn); 7, 23, 32 (nạn); 11, 17, 42 (hiểm) | `w14-nen-gpalace-dien-quy-phi` |
-| `gdream` | Giấc mơ của Triệt | 13 (duyên) | `w14-nen-gdream-giac-mo-cua-triet` |
-| `gcourt` | Triều đình | 21, 40 (nạn); 25 (duyên) | `w14-nen-gcourt-trieu-dinh` |
-| `ggarden` | Ngự Hoa Viên | 24 (chọn); 33 (hiểm); 44 (duyên); 50 (nạn) | `w14-nen-ggarden-ngu-hoa-vien` |
-| `gcarriage` | Xe ngựa và vùng thủy tai | 30 (chọn); 31 (hiểm) | `w14-nen-gcarriage-xe-ngua-vung-thuy-tai` |
-| `gbanquet` | Đại điện phong hậu | 37 (duyên) | `w14-nen-gbanquet-dai-dien-phong-hau` |
-| `gwall` | Cửa cung và tường thành | 45 (hiểm); 46 (nạn); 47 (chọn); 48 (duyên) | `w14-nen-gwall-cua-cung-tuong-thanh` |
-| `gtown` | Lầu Quý Phi ở Giang thành | 49 (chọn) | `w14-nen-gtown-lau-quy-phi-giang-thanh` |
+| `scene`     | Địa điểm                  | Mốc dùng                                                                                                        | Tên file                                   |
+| ------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| `gpalace`   | Điện Quý Phi               | 1–6, 8–10, 12, 14–16, 18–20, 22, 26–29, 34–36, 38, 39, 41, 43 (chọn); 7, 23, 32 (nạn); 11, 17, 42 (hiểm) | `w14-nen-gpalace-dien-quy-phi`            |
+| `gdream`    | Giấc mơ của Triệt         | 13 (duyên)                                                                                                       | `w14-nen-gdream-giac-mo-cua-triet`        |
+| `gcourt`    | Triều đình                 | 21, 40 (nạn); 25 (duyên)                                                                                        | `w14-nen-gcourt-trieu-dinh`               |
+| `ggarden`   | Ngự Hoa Viên                | 24 (chọn); 33 (hiểm); 44 (duyên); 50 (nạn)                                                                    | `w14-nen-ggarden-ngu-hoa-vien`            |
+| `gcarriage` | Xe ngựa và vùng thủy tai  | 30 (chọn); 31 (hiểm)                                                                                            | `w14-nen-gcarriage-xe-ngua-vung-thuy-tai` |
+| `gbanquet`  | Đại điện phong hậu       | 37 (duyên)                                                                                                       | `w14-nen-gbanquet-dai-dien-phong-hau`     |
+| `gwall`     | Cửa cung và tường thành  | 45 (hiểm); 46 (nạn); 47 (chọn); 48 (duyên)                                                                    | `w14-nen-gwall-cua-cung-tuong-thanh`      |
+| `gtown`     | Lầu Quý Phi ở Giang thành | 49 (chọn)                                                                                                        | `w14-nen-gtown-lau-quy-phi-giang-thanh`   |
 
 ---
 
@@ -480,7 +480,5 @@ Tỉ lệ khung 16:9. Không chữ, không logo, không watermark.
 ## 4. Ba điểm cần kiểm tra
 
 1. **Nhất quán nhân vật:** Giang Tiểu Đào luôn có tóc búi cao cài trâm vàng hình hoa đào và phi phục thêu hoa đào (từ mốc 7 có vòng ngọc đen ở cổ tay); Mộ Dung Triệt luôn có tóc đen dài buộc nửa đầu và áo choàng đen thêu rồng vàng thưa, đai ngọc. Không vẽ vua Mộ Dung Dực giống Triệt trong cùng khung. Chân dung ở Phần A là chuẩn để đối chiếu, kể cả hai biến thể biểu cảm của nam chính. Các CG chỉ thấy bóng lưng, nghiêng hoặc cảnh xa.
-
 2. **Nhất quán style:** mọi ảnh phải khớp ảnh mẫu đính kèm, không trượt về thói quen ChatGPT (3D, đậm, sắc, chi tiết quá đà, điểm sáng, điện ảnh). Mưa luôn là mảng xanh xám nhạt, không vẽ từng hạt. Cùng một địa điểm ở các mốc khác nhau phải nhận ra là cùng một nơi.
-
 3. **Tiến triển cảm xúc:** màu và ánh sáng đi theo loại mốc; sáu CG kết cục phải phân biệt được chỉ bằng màu và bố cục, theo thang từ Hoàn hảo (sáng nhất) tới Nữ chính hết Sinh mệnh (tối nhất).

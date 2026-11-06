@@ -12,6 +12,8 @@ Trong mỗi thế giới, ảnh xếp theo lớp, trùng tiền tố tên file:
 | `kc/`   | `wNN-kc-…`       | CG kết cục |
 | `bia/`  | `wNN-bia-…`      | ảnh bìa |
 
+Ngoài các thế giới, thư mục `tieu-chau/` giữ ảnh chân dung biểu cảm của Tiểu Châu (tên file `tieu-chau-<biểu-cảm>`, prompt ở `docs/prompt-anh/tieu-chau-bieu-cam.md`).
+
 Lưu ý: thư mục này tách khỏi `assets/` (ảnh WebP game đang dùng). Ảnh ở đây là bản gốc; khi đưa vào game thì chuyển sang WebP và đặt vào `assets/`.
 
 ## Đưa ảnh vào game
