@@ -366,6 +366,46 @@
         40,
         46
       ]
+    },
+    {
+      "id": "w20",
+      "no": 20,
+      "file": "world-20.json",
+      "name": "Tuyên Hòa Nữ Quốc",
+      "genre": "Cổ đại nữ tôn cung đấu",
+      "hero": "th_nhan",
+      "heroName": "Hạ Chiêu Nhan",
+      "bossName": "Tống Nghiễn Kiệt",
+      "heroSub": "Nữ hoàng 18 tuổi của nước Tuyên Hòa, hậu cung hơn ba mươi phu hầu và năm kẻ muốn lật ngai. Nhiệm vụ: cảm hóa hoàng phu Tống Nghiễn Kiệt.",
+      "events": 45,
+      "chapEnd": [
+        8,
+        16,
+        26,
+        34,
+        39,
+        45
+      ]
+    },
+    {
+      "id": "w21",
+      "no": 21,
+      "file": "world-21.json",
+      "name": "Minh Triết Cao Trung",
+      "genre": "Hiện đại học đường lời đồn",
+      "hero": "mt_mat",
+      "heroName": "Đàm Tiểu Mật",
+      "bossName": "Doãn Tư Thanh",
+      "heroSub": "Giáo hoa bị đồn bao nuôi, quỹ đạo gốc là bị khai trừ và mẹ mất việc. Nhiệm vụ: cảm hóa Doãn Tư Thanh.",
+      "events": 46,
+      "chapEnd": [
+        9,
+        19,
+        27,
+        33,
+        41,
+        46
+      ]
     }
   ]
 }

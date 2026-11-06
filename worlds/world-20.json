@@ -1,0 +1,3804 @@
+{
+  "id": "w20",
+  "no": 20,
+  "chapEnd": [
+    8,
+    16,
+    26,
+    34,
+    39,
+    45
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 1
+    },
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 1
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 1
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 1
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 1
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 1
+    }
+  ],
+  "pbias": -0.127,
+  "p0": {
+    "mi": 60,
+    "tri": 58,
+    "van": 52
+  },
+  "params": {
+    "b1": 1.5,
+    "b2": 4,
+    "bad": 12,
+    "ac": 0.85,
+    "hac": 1.1,
+    "hao": 0.7,
+    "h0": 50,
+    "sd": 1,
+    "s21b": 10,
+    "s21s": 5,
+    "s33b": 16,
+    "s33s": 8,
+    "s40b": 13,
+    "s40s": 6
+  },
+  "names": {
+    "th_nhan": "Hạ Chiêu Nhan",
+    "th_kiet": "Tống Nghiễn Kiệt",
+    "th_nguyet": "Hạ Dao Nguyệt",
+    "th_phong": "Sầm Dật Phong",
+    "th_tu": "Chu Thanh Từ",
+    "th_hanh": "Quan Ngọc Hành",
+    "th_duong": "Liễu Thu Đường",
+    "th_lang": "Yến Thế Lãng",
+    "th_van": "Yến Lan Vân",
+    "th_hoang": "Yến hoàng",
+    "th_luong": "Lương thị quân",
+    "th_lduong": "Lương đại nhân",
+    "th_cam": "Ngô Tố Cầm",
+    "th_doan": "Đoàn thái y",
+    "th_tuong": "Tống tướng quân",
+    "th_phunhan": "Tống phu nhân",
+    "tc": "Tiểu Châu"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 20 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh dùng lại hình vẽ tạm của các thế giới trước.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Người giữ biên cương, hẹn kiếp sau",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Nghiễn Kiệt đã về không. Bạn tan thành những đốm sáng nhỏ giữa Ngự Hoa Viên, mỉm cười trong vòng tay anh. Anh không gào lên, chỉ nói rất khẽ: «Kiếp sau anh tìm em.» Sau đó anh ở lại giữ biên cương hai mươi năm nữa, mỗi dịp tất niên đều lên lăng đặt một chén trà nóng, rồi hẹn bạn kiếp sau với nụ cười.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "ggarden"
+    },
+    "near": {
+      "n": "Bàn tay siết quá chặt",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Anh siết tay bạn quá chặt vì sợ mất, đến khi Tiểu Châu phải nhắc đã đến giờ anh mới chịu buông. Cung điện lặng đi ba ngày sau khi bạn rời. Anh vẫn giữ biên cương, vẫn luyện kiếm mỗi sáng, chỉ là sau mỗi bữa cơm, anh lại gắp thừa một phần đặt sang bên.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "gcourt"
+    },
+    "half": {
+      "n": "Người giữ ngai trống",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt... nhưng bạn đã làm được phần việc cần làm. Dao Nguyệt lên ngôi, nước vẫn yên. Nghiễn Kiệt ở lại một mình trong cung hoàng phu, cả nước chỉ còn gọi anh là «người giữ ngai trống». Anh vẫn múa kiếm mỗi chiều trong Ngự Hoa Viên, dành một chỗ ngồi trống bên cạnh, và không cho ai ngồi vào.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "gdream"
+    },
+    "black": {
+      "n": "Cánh cửa đóng chặt",
+      "c": "Hắc hóa của Nghiễn Kiệt chạm 100. Vì quá sợ mất bạn, anh khóa tẩm cung lại, không cho ai bước vào ngoài đại tổng quản. Dao Nguyệt đứng ngoài cửa suốt một đêm mà không nói được lời nào. Tiểu Châu kéo bạn đi khi cánh cửa vẫn đóng, và anh vẫn đứng sau đó, tay còn nắm chặt chiếc áo choàng của bạn.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "gpalace"
+    },
+    "bdead": {
+      "n": "Đèn cung hoàng phu đã tắt",
+      "c": "Sinh mệnh của Nghiễn Kiệt cạn về 0. Anh dồn hết sức giữ biên cương và triều đình, không còn chừa gì cho mình. Một đêm cuối thu, ngọn đèn trong cung hoàng phu tắt, thanh kiếm bạn tặng dựa yên cạnh giường. Dao Nguyệt đứng trước cửa cung rất lâu. Tiểu Châu khẽ gọi bạn về khi những cánh hoa đầu tiên rơi.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "gtemple"
+    },
+    "dead": {
+      "n": "Sức cạn trong Ngự Hoa Viên",
+      "c": "Sinh mệnh của bạn cạn về 0. Bạn gục giữa chừng khi còn đang lo cho quá nhiều việc cùng lúc, trước khi kịp nhường ngôi cho Dao Nguyệt. Tiểu Châu kéo bạn đi khi ở đâu đó trong cung, Nghiễn Kiệt vẫn đang chạy về phía Ngự Hoa Viên với thanh kiếm còn nằm trong vỏ.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "glake"
+    }
+  },
+  "events": [
+    {
+      "id": "x01",
+      "scene": "gdream",
+      "place": "Tẩm cung nữ hoàng · Sáng đầu tiên",
+      "kind": "duyen",
+      "title": "Hồ sơ nữ hoàng",
+      "text": "Bạn mở mắt trên chiếc giường rộng phủ lụa, trần rồng cuốn, rèm vàng khẽ lay. Tiểu Châu vừa đưa bạn vào thân Hạ Chiêu Nhan, mười tám tuổi, nữ hoàng nước Tuyên Hòa, lên ngôi từ năm mười tuổi và có hơn ba mươi phu hầu trong hậu cung. Theo nguyên tác, năm người đàn ông muốn lật đổ chế độ nữ tôn, họ dùng tỷ tỷ Hạ Dao Nguyệt, người sinh ra ngu dại, làm bình phong; nữ hoàng ngã trước họ và nước mất. Tiểu Châu bày hồ sơ năm kẻ bị nghi: Sầm Dật Phong, Chu Thanh Từ trong hậu cung, Quan Ngọc Hành, Liễu Thu Đường quanh Nguyệt Vương, và hoàng tử hạt nhân Bắc Yến Yến Thế Lãng. Người bạn cần cảm hóa là hoàng phu Tống Nghiễn Kiệt, hai mươi mốt tuổi, con nhà tướng, chỉ thích luyện kiếm. Đại tổng quản Ngô Tố Cầm là người thân tín duy nhất bên bạn.",
+      "tieu": "Dậy rồi hả? Nghe cho kỹ: người ngươi cần cảm hóa là hoàng phu Nghiễn Kiệt, còn năm kẻ kia là kẻ muốn lật ngai của ngươi. Đọc hồ sơ cho kỹ, hay ăn sáng rồi tính, tùy ngươi.",
+      "cast": "th_nhan,th_kiet,th_cam,th_phong,th_tu,th_hanh,th_duong,th_lang,tc",
+      "ch": [
+        {
+          "t": "Đọc kỹ hồ sơ năm kẻ bị nghi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn đọc từng dòng, thuộc mặt, thuộc tên, thuộc cả thói quen của năm người. Từ giờ bạn nhìn ai cũng biết họ đang nghĩ gì.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn đọc nhanh quá, nhầm hai cái tên với nhau. Phải đọc lại.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Cho gọi đại tổng quản Ngô Tố Cầm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ngô Tố Cầm vào, nghe bạn dặn một câu đã hiểu ý, và cam đoan sẽ không kể với ai.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Ngô Tố Cầm lo lắng hỏi bệ hạ có khó ở không, bạn phải giải thích mãi.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Ăn sáng trước, đọc sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bữa sáng cung đình có đủ món ngon, bạn ăn no và thấy đầu óc tỉnh táo hơn hẳn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn ăn quá nhiều, ngồi một lúc thì buồn ngủ.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng đầu tiên, tẩm cung nữ hoàng nước Tuyên Hòa. Bạn, mười tám tuổi, vừa vào thân Hạ Chiêu Nhan.",
+      "no": 1
+    },
+    {
+      "id": "x02",
+      "scene": "vyard",
+      "place": "Màn ảnh giám sát · Sáng",
+      "kind": "chon",
+      "title": "Người múa kiếm",
+      "text": "Màn ảnh của Tiểu Châu quét qua cung hoàng phu. Trong sân, một thanh niên đang múa kiếm, tay áo xắn cao, mồ hôi chảy dọc cổ. Tiểu Châu nói đó là Tống Nghiễn Kiệt, hoàng phu do tiên hoàng chọn, từ nhỏ mơ ra trận nhưng vì thân phận phải ở trong cung. Ở Tuyên Hòa nam tử khó làm quan, tòng quân cũng thăng tiến chậm; nhà họ Tống trung với hoàng thất và đối đãi nam nữ ngang nhau hơn các nhà khác. Bạn thấy anh múa xong một đường kiếm, cười một mình rất sáng. Bạn có thể ngừng ở đây xem thêm, hoặc chuyển màn ảnh sang theo dõi Nguyệt Vương.",
+      "tieu": "Đó là hoàng phu của ngươi, người ta đang múa kiếm chứ không phải múa cho ngươi xem đâu. Xem thêm hay đổi sang xem tỷ tỷ?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Xem thêm một lúc, nhìn kỹ anh luyện kiếm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bạn xem cho đến khi anh cất kiếm. Từ giờ bạn nhớ rõ từng thế kiếm của anh, và nhớ cả nụ cười ấy.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "de_y"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Màn ảnh chớp một cái rồi tắt, bạn bỏ lỡ cả đường kiếm cuối.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chuyển sang theo dõi Nguyệt Vương",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn chuyển màn ảnh đúng lúc phủ Nguyệt Vương có chuyện lạ, và ghi nhớ giờ giấc để đối chiếu về sau.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Màn ảnh quét sai phủ, bạn chỉ thấy một sân vắng.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Hỏi Tiểu Châu về nhà họ Tống",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu kể gọn về nhà họ Tống, bạn biết thêm một nhà đáng tin.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Tiểu Châu kể lan man sang chuyện ăn uống, bạn mất cả buổi.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Buổi sáng, màn ảnh giám sát quét tới cung hoàng phu.",
+      "no": 2
+    },
+    {
+      "id": "x03",
+      "scene": "vcourt",
+      "place": "Phủ Nguyệt Vương · Cùng ngày",
+      "kind": "chon",
+      "title": "Màn ảnh giám sát",
+      "text": "Trong phủ Nguyệt Vương, Hạ Dao Nguyệt đứng trước gương đồng, lẩm bẩm rằng nếu được làm lại thì sẽ không bao giờ trúng kế nam nhân. Rồi nàng giả ngây, chạy ra sân, bắt Liễu Thu Đường chơi đuổi bắt cho tới khi anh ta đứng không vững. Hôm sau nàng bắt Quan Ngọc Hành vẽ mực lên mặt nhau, hôm sau nữa bắt cả hai trèo cây. Hai người tức nhưng không dám nói gì, vì người canh phủ do tiên hoàng để lại đều trung với Nguyệt Vương. Tiểu Châu khẽ nói nàng nhớ kiếp trước. Bạn có thể ngầm phái hai người giúp nàng, hoặc để nàng tự xoay xở.",
+      "tieu": "Tỷ tỷ của ngươi nhớ kiếp trước đấy. Ngươi muốn ngầm giúp nàng hay để nàng tự lo?",
+      "cast": "th_nhan,th_nguyet,th_hanh,th_duong,tc",
+      "ch": [
+        {
+          "t": "Ngầm phái hai người canh giữ phủ giúp nàng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người của bạn lặng lẽ vào phủ làm tạp dịch, và Dao Nguyệt nhận ra ngay đó là người của chị mình.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "giup_nv"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Một trong hai người bị Quan Ngọc Hành để ý, phải rút ra ngay.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ ghi lại từng ngày và chờ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn ghi nhật ký từng ngày, và nhận ra mỗi trò của nàng đều nhằm đúng vào điểm yếu của hai người kia.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn ghi nhầm ngày, về sau phải đối chiếu lại.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để nàng tự xoay, xem nàng làm gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dao Nguyệt tự xử lý ổn thỏa, bạn thấy mình khỏi lo thừa.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Nàng suýt bị Thu Đường phát hiện, may là ngã đúng lúc.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Phủ Nguyệt Vương, mấy ngày liền. Dao Nguyệt vừa tỉnh trí nhưng đang giả ngây.",
+      "no": 3
+    },
+    {
+      "id": "x04",
+      "scene": "ggarden",
+      "place": "Ngự Hoa Viên · Sáng hôm sau",
+      "kind": "chon",
+      "title": "Mời ngắm hoa",
+      "text": "Sầm Dật Phong xin gặp bạn ở Ngự Hoa Viên. Anh có đôi mắt đào hoa, tài cầm kỳ thư họa đủ cả, và là người nguyên chủ coi trọng nhất trong hậu cung. Anh khen bạn đẹp hơn hoa, bạn đáp rằng bạn thích trà hoa hơn. Bạn hỏi anh có nhớ nhà không, rồi cho anh ra cung hai ngày và gửi thuốc bổ cho phụ thân anh đang ốm. Anh biết ơn, nhưng ánh mắt thoáng chạnh lòng. Tiểu Châu nhắc: nguyên chủ rất tin anh, và đó là điểm yếu lớn nhất của bạn. Bạn có thể trò chuyện nhẹ nhàng cho anh yên lòng, hoặc giữ vẻ lạnh để dò xem anh nghĩ gì.",
+      "tieu": "Cái người đang khen ngươi là Dật Phong, kẻ mà nguyên chủ tin nhất. Tin nhất cũng là chỗ dễ bị đâm nhất. Ngươi chọn cách nào?",
+      "cast": "th_nhan,th_phong,tc",
+      "ch": [
+        {
+          "t": "Trò chuyện nhẹ nhàng, nói chuyện trà hoa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh cười, kể chuyện nhà nghe rất duyên. Bạn nhận ra anh nói giỏi đến mức khó phân thật giả.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói vụng, Dật Phong chuyển đề tài sang chuyện khác rất nhanh.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Giữ vẻ lạnh, hỏi vài câu dò xét",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn hỏi đúng một câu về phụ thân anh; anh trả lời trơn tru nhưng bạn bắt được chỗ ngập ngừng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn lạnh quá, Dật Phong khép nép hẳn và chẳng nói thêm gì.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để mặc anh nói, chỉ ngồi nghe và uống trà",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nói mãi không dứt, vô tình để lộ cả lịch ra vào của mình.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Trà nguội, anh tưởng bạn chán nên cáo lui sớm.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, Ngự Hoa Viên. Dật Phong mời bạn ngắm hoa.",
+      "no": 4
+    },
+    {
+      "id": "x05",
+      "scene": "ggarden",
+      "place": "Ngự Hoa Viên · Chiều",
+      "kind": "duyen",
+      "title": "Tiếng đàn bi thương",
+      "text": "Các phu hầu đứng dọc lối đi, người ngâm thơ, người vẽ tranh, người để lộ nửa mặt nghiêng cho bạn thấy. Bạn đi qua mà không dừng, cho tới khi nghe một tiếng đàn buồn từ đình bên hồ. Đó là Chu Thanh Từ. Anh nói sắp tới ngày giỗ huynh trưởng mà không ra cung được. Bạn cho anh ra cung hai ngày. Tiểu Châu nhắc: nguyên chủ coi tiếng đàn của anh là nơi yên tĩnh duy nhất trong cung. Bạn nhờ anh chỉ vài nốt cơ bản. Bạn có thể học ngay hôm nay, hoặc hẹn lần sau.",
+      "tieu": "Tiếng đàn này hay thật, và người gảy nó cũng toan tính thật. Học luôn hay hẹn lần sau?",
+      "cast": "th_nhan,th_tu,tc",
+      "ch": [
+        {
+          "t": "Xin anh chỉ vài nốt ngay bây giờ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thanh Từ đặt ngón tay bạn lên dây, chỉ từng nốt một. Bạn gảy được một đoạn ngắn và anh khẽ gật đầu.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Dây đàn cứa vào ngón tay bạn, anh vội xin lỗi và lấy khăn lau cho bạn.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ ngồi nghe, hẹn lần sau mới học",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn ngồi nghe cả khúc, nhớ giai điệu và những nốt anh hay lỡ nhịp.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn lơ đãng, bỏ lỡ nửa khúc đàn.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Hỏi anh về huynh trưởng đã mất",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh kể rất khẽ về ngày giỗ. Bạn hiểu thêm về nỗi buồn thật trong anh.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh im lặng, tiếng đàn tắt hẳn và bạn thấy mình hỏi hớ.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, Ngự Hoa Viên. Các phu hầu tự biểu diễn dọc lối đi.",
+      "no": 5,
+      "learn": {
+        "n": "Gảy đàn tranh",
+        "s": "mi",
+        "v": 1
+      }
+    },
+    {
+      "id": "x06",
+      "scene": "glake",
+      "place": "Bờ hồ cạnh đình đàn · Chiều",
+      "kind": "chon",
+      "title": "Người đứng bên hồ",
+      "text": "Bạn thấy một người đứng xa bên hồ nhìn về phía này: hoàng phu Tống Nghiễn Kiệt. Bạn cười rực rỡ với anh; anh ngẩn ra, tim đập nhanh. Bạn bước tới hỏi sao anh ở đây, anh đáp «ngắm hoa phơi nắng», rồi ngượng vì mọi người đang chờ bạn. Một phu hầu khác tiến tới xin được đi cùng. Bạn có thể khoác tay hoàng phu đi dạo ngay trước mặt họ, hoặc chỉ đi bên cạnh anh một đoạn cho phải phép.",
+      "tieu": "Hoàng phu đang đỏ tai kìa. Ngươi khoác tay hay chỉ đi bên cạnh?",
+      "cast": "th_nhan,th_kiet,th_phong,tc",
+      "ch": [
+        {
+          "t": "Khoác tay anh đi dạo trước mặt mọi người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh cứng đờ nửa bước rồi mới bước theo, tai đỏ rực. Phu hầu kia nhìn anh bằng ánh mắt như dao, nhưng bạn không để tâm.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn khoác hơi vụng, anh giật mình suýt vấp.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Đi bên cạnh anh, hỏi chuyện luyện kiếm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh kể say sưa về thế kiếm mới học, quên cả ngượng. Bạn nhận ra anh nói nhiều khi nói về điều mình thích.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh trả lời cụt lủn rồi im, bạn không biết đã lỡ lời chỗ nào.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Cười với anh rồi đi thẳng, để anh tự nghĩ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn theo bạn rất lâu. Chắc chắn anh sẽ nghĩ về chuyện này cả tối.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh tưởng bạn giận, cúi đầu lùi lại hai bước.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, bờ hồ cạnh đình đàn. Nghiễn Kiệt đứng xa nhìn bạn.",
+      "no": 6
+    },
+    {
+      "id": "x07",
+      "scene": "vyard",
+      "place": "Cung hoàng phu · Giữa trưa",
+      "kind": "duyen",
+      "title": "Bữa trưa ở cung hoàng phu",
+      "text": "Bạn ra lệnh dùng bữa ở cung hoàng phu. Anh vội sai pha trà hoa. Anh ăn rụt rè lúc đầu, rồi quên giữ ý vì món quá ngon, ăn hết bát này đến bát khác. Bạn cười, nói thích nhìn anh ăn. Bạn dặn thêm bốn món vào bữa trưa và bữa tối của anh, cùng điểm tâm. Anh tưởng đó là phần thưởng để sai việc. Bạn có thể ngồi nhìn anh ăn, hoặc ăn cùng anh một bàn.",
+      "tieu": "Hoàng phu ăn như chưa từng được ăn. Ngươi nhìn hay ăn cùng?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Ngồi cạnh nhìn anh ăn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ăn chậm lại vì ngượng, nhưng cuối cùng vẫn ăn hết. Bạn thấy lòng mềm đi.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh nghẹn vì bị nhìn chằm chằm, ho cả buổi.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Gắp thức ăn cho anh, cùng ăn một bàn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh kể món nào hợp khẩu vị, bạn nhớ hết để dặn bếp.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn gắp nhầm món anh dị ứng, anh vẫn lặng lẽ ăn hết.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Hỏi bếp xem anh thích món gì nhất",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bếp trưởng khai ra anh mê món thịt kho. Bạn ghi nhớ.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bếp trưởng ấp úng, bạn mất công hỏi tiếp.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Giữa trưa, cung hoàng phu. Bạn đến dùng bữa cùng anh.",
+      "no": 7
+    },
+    {
+      "id": "x08",
+      "scene": "vyard",
+      "place": "Cung hoàng phu · Chiều",
+      "kind": "duyen",
+      "title": "Thanh kiếm tốt nhất",
+      "text": "Bạn cho người mang thanh kiếm tốt nhất trong kho tới cung hoàng phu. Anh sáng mắt, cầm lên luyện thử vài đường, rồi nghiêm túc nói nếu nữ hoàng cần việc gì anh sẽ làm. Bạn cười, nói sau này sẽ có việc nhờ. Bạn xin anh chỉ vài thế cơ bản; anh bước tới chỉnh tay nắm cho bạn, ngón tay anh chạm vào tay bạn rồi vội rụt lại.",
+      "tieu": "Có người mới được tặng kiếm mà vui như được tặng cả thiên hạ. Ngươi học chiêu nào?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Xin anh chỉnh tay nắm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh chỉnh cho bạn từng ngón, giọng nghiêm như đang dạy binh. Bạn thấy mình nắm kiếm đã vững hơn.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nắm sai, kiếm văng khỏi tay, anh nhanh tay đỡ lấy.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhìn anh làm mẫu, rồi tự tập lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn nhìn kỹ rồi tự tập, đúng thế ngay lần thứ ba.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn bắt chước sai nhịp, anh buồn cười nhưng cố nhịn.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Thử kiếm tùy hứng, mặc may rủi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Kiếm của bạn vung đúng thế bất ngờ, anh trố mắt nhìn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn vung hụt, suýt chém vào chậu hoa.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, cung hoàng phu. Bạn tặng thanh kiếm tốt nhất.",
+      "no": 8,
+      "learn": {
+        "n": "Luyện kiếm cơ bản",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x09",
+      "scene": "gtown",
+      "place": "Ngõ phố ngoài hoàng thành · Vài ngày sau",
+      "kind": "chon",
+      "title": "Chậu hoa ngoài ngõ nhỏ",
+      "text": "Sầm Dật Phong và Chu Thanh Từ vừa ra cung, bàn nhau đi tìm Nguyệt Vương. Dao Nguyệt biết rằng muốn «hết ngốc» mà không bị nghi thì phải có cớ; nàng thuê người ném chậu hoa từ trên xuống đúng lúc đi qua ngõ, tránh một nửa rồi ngất. Nàng được khiêng vào quán trọ, tỉnh lại, nói mình đã hết ngốc. Ba người chứng kiến; Yến Thế Lãng xin đi dò nàng vì không ai nghi một hoàng tử hạt nhân. Tiểu Châu theo dõi giúp bạn. Bạn có thể cho nữ quan canh phủ Nguyệt Vương, hoặc để nàng một mình.",
+      "tieu": "Tỷ tỷ của ngươi diễn khéo thật. Cho người canh phủ hay để nàng tự lo?",
+      "cast": "th_nhan,th_nguyet,th_phong,th_tu,th_lang,tc",
+      "ch": [
+        {
+          "t": "Cho nữ quan canh phủ Nguyệt Vương",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nữ quan canh đúng giờ, Thế Lãng đến thăm nhưng không dò được gì. Dao Nguyệt hiểu ngay đó là người của bạn.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Nữ quan bị Thế Lãng để ý nên phải thay người ngay hôm sau.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Cho người theo dõi Thế Lãng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn biết hắn nói gì với Dao Nguyệt và ghi lại từng câu.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Người của bạn mất dấu hắn ở chợ.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để nàng một mình, tin nàng đủ khéo",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dao Nguyệt vượt qua một mình, nàng tự tin hơn hẳn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Nàng suýt lộ, may nhờ một cơn gió làm đổ chậu hoa thứ hai.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Vài ngày sau, ngõ phố ngoài hoàng thành. Bạn theo dõi qua Tiểu Châu.",
+      "no": 9
+    },
+    {
+      "id": "x10",
+      "scene": "gcourt",
+      "place": "Điện Tuyên Chính · Ba ngày sau",
+      "kind": "chon",
+      "title": "Tứ hôn sườn phu",
+      "text": "Bạn cố ý triệu Dao Nguyệt vào cung vì nàng đã tỉnh trí. Nàng đi cùng Thế Lãng, sợ bạn nghi mà vẫn gắng cười ngây. Bạn hỏi hai người có thật lòng thích nhau không; nàng đáp «thần rất thích», hắn đáp «tôi cũng thế». Bạn nói đã vậy thì phong Thế Lãng làm sườn phu của Nguyệt Vương, hẹn nàng tự chọn ngày. Hắn tái mặt, không dám từ vì tình cảnh; hắn là hoàng tử Bắc Yến, bị nhà mình đưa sang chịu nhục, nên căm ghét việc làm sườn phu của một nữ nhân. Dao Nguyệt thở phào vì được bạn đỡ lời. Bạn có thể tứ hôn ngay, hoặc để nàng tự đề nghị.",
+      "tieu": "Ngươi nói một câu là xong chuyện. Tứ hôn ngay hay để tỷ tỷ tự đề nghị?",
+      "cast": "th_nhan,th_nguyet,th_lang,tc",
+      "ch": [
+        {
+          "t": "Tứ hôn ngay, nói rõ trước triều",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả điện im phăng phắc. Thế Lãng cúi đầu nhận chỉ, hai bàn tay run nhưng không dám cãi.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "tu_hon"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói hơi gắt, vài triều thần xì xào rằng nữ hoàng ép người.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Để Dao Nguyệt tự đề nghị ngày cưới",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nàng đề nghị đúng ngày mà bạn muốn, và Thế Lãng không còn đường lùi.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "tu_hon"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Nàng lúng túng, ngày hẹn bị lùi lại một tháng.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nói chuyện riêng với Dao Nguyệt trước, rồi mới quyết",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dao Nguyệt thì thầm với bạn một câu rất khẽ, rồi hai chị em cùng gật đầu.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Thế Lãng nghe được vài chữ, nhìn bạn đầy dò xét.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Điện Tuyên Chính, ba ngày sau. Bạn triệu Dao Nguyệt và Thế Lãng vào cung.",
+      "no": 10
+    },
+    {
+      "id": "x11",
+      "scene": "vcourt",
+      "place": "Phủ Nguyệt Vương · Mấy ngày sau",
+      "kind": "duyen",
+      "title": "Phủ Nguyệt Vương đổi gió",
+      "text": "Quan Ngọc Hành, vương phu của Nguyệt Vương, đeo khăn che mặt vì còn ngượng sau trò vẽ mực; Liễu Thu Đường đi khập khiễng sau khi bị bắt trèo cây. Hai người tới chúc mừng nàng nạp sườn phu. Dao Nguyệt giả ngây hỏi sao che mặt, sao đi khập khiễng, rồi đuổi cả hai đi ngay trước mặt Thế Lãng. Họ nhìn hắn bằng ánh mắt như dao. Tiểu Châu khẽ nói: nàng cố ý để họ đấu nhau. Bạn có thể tiếp tục xem, hoặc cho Tiểu Châu ghi lại từng cái nhìn.",
+      "tieu": "Tỷ tỷ của ngươi đang để ba người kia cắn nhau đấy. Ngươi xem tiếp hay ghi lại?",
+      "cast": "th_nguyet,th_hanh,th_duong,th_lang,tc",
+      "ch": [
+        {
+          "t": "Xem tiếp, nhìn kỹ nét mặt từng người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn thấy rõ ai ghét ai thật, và ai chỉ diễn. Thế Lãng là người duy nhất không tỏ thái độ.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nhìn nhầm, tưởng Ngọc Hành đang cười mà thực ra là đang tức.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu ghi lại toàn bộ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Châu ghi đủ từng câu từng chữ. Về sau đây là chứng cứ cho bạn.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Tiểu Châu ngủ gật giữa chừng, bỏ sót một đoạn.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Cười xòa cho qua, không xen vào",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Chuyện nhỏ trong phủ, bạn nhìn xong thấy lòng nhẹ hẳn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn mải cười, bỏ lỡ cảnh Thế Lãng bị đuổi ra ngoài.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Mấy ngày sau, phủ Nguyệt Vương. Bạn theo dõi qua Tiểu Châu.",
+      "no": 11
+    },
+    {
+      "id": "x12",
+      "scene": "vyard",
+      "place": "Hoa viên cung hoàng phu · Một trưa nắng",
+      "kind": "chon",
+      "title": "Giấc ngủ trưa trong hoa viên",
+      "text": "Bạn cho dọn một chiếc ghế nằm ngủ trưa giữa hoa viên hoàng phu; cung nhân nhìn nhau vì nữ hoàng chưa từng bất cẩn như vậy. Nghiễn Kiệt luyện kiếm xong mới biết, tắm gội thay áo rồi ngồi lặng lẽ nhìn bạn ngủ, không dám động. Bạn mở mắt ngơ ngác; anh suýt làm rơi chén trà. Bạn nhờ anh đỡ dậy và hỏi anh đã ăn chưa. Bạn có thể ngủ tiếp cho anh yên tâm, hoặc trò chuyện với anh.",
+      "tieu": "Hoàng phu ngồi canh ngươi nãy giờ đấy. Ngủ tiếp hay trò chuyện?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Nhờ anh đỡ dậy, hỏi anh đã ăn chưa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đỡ bạn bằng cả hai tay, giọng hơi run khi nói đã ăn rồi. Bạn nhận ra anh đã đợi bạn tỉnh để dùng bữa cùng.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn đứng lên quá nhanh, chóng mặt, anh phải đỡ cả buổi.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Trò chuyện về thanh kiếm anh mới nhận",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh kể rành rọt từng chỗ, bạn nghe mà quên cả giờ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh ngượng quá, nói vài câu rồi lắp bắp.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Giả vờ ngủ tiếp, xem anh làm gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh lặng lẽ kéo tấm áo choàng đắp cho bạn, rồi ngồi im như tượng.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn ngủ thật, tỉnh dậy thấy trời tối, anh vẫn ngồi đó, tê chân.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một trưa nắng, hoa viên cung hoàng phu.",
+      "no": 12
+    },
+    {
+      "id": "x13",
+      "scene": "vyard",
+      "place": "Cung hoàng phu · Chiều",
+      "kind": "chon",
+      "title": "Lời hẹn về nhà",
+      "text": "Bạn hỏi anh vào cung được mấy năm; anh đáp năm năm chưa về nhà. Bạn hứa chọn ngày bồi anh về. Anh định xin đi một mình để khỏi rêu rao, bạn nói hoàng phu về lần đầu phải có bạn đi cùng. Anh nghĩ bạn nhờ việc, hoặc đã tới lúc nghĩ chuyện nối dõi; tai anh đỏ lên. Bạn có thể hẹn ngày gần, hoặc chờ qua lễ Đăng điển.",
+      "tieu": "Năm năm chưa về nhà, ngươi cũng thấy thương anh ta chứ. Hẹn gần hay chờ qua lễ Đăng điển?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Hẹn ngày gần, trong ba hôm nữa",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh sáng mắt, lập tức hỏi nên mang quà gì. Bạn thấy lòng ấm lên.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Lịch triều bận, bạn phải dời hẹn thêm một lần.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chờ qua lễ Đăng điển rồi hẳn đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh hiểu bạn có tính toán, gật đầu không hỏi thêm.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh nghĩ bạn không thật lòng, tránh nhìn bạn cả buổi.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để anh tự chọn ngày",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh chọn đúng một ngày rảnh triều, trùng lúc sinh nhật mẹ anh.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh chọn ngày triều bận, cả hai phải bàn lại.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, cung hoàng phu. Bạn hứa bồi anh về nhà.",
+      "no": 13
+    },
+    {
+      "id": "x14",
+      "scene": "vyard",
+      "place": "Cung hoàng phu rồi cung Dật Phong · Cuối chiều",
+      "kind": "chon",
+      "title": "Chỉ để ý ngươi",
+      "text": "Bạn sắp sang cung Dật Phong; Nghiễn Kiệt im lặng rất lâu rồi nói bạn đi đi. Bạn nắm tay áo anh, nói «trẫm chỉ để ý ngươi, về sau ngươi sẽ hiểu», và hứa gửi kiếm phổ tốt nhất cho anh. Ở cung Dật Phong bạn uống trà hoa, khen anh pha khéo, rồi cho anh mỗi tháng về nhà một lần. Dật Phong sững sờ, xúc động và cố giữ mình; anh thầm nghĩ nữ hoàng quá tốt. Bạn có thể sang cung Dật Phong ngay, hoặc ở lại với hoàng phu thêm một lúc.",
+      "tieu": "Hoàng phu đang cố nén. Ngươi sang cung Dật Phong ngay hay ở lại thêm chút?",
+      "cast": "th_nhan,th_kiet,th_phong,tc",
+      "ch": [
+        {
+          "t": "Nắm tay áo anh, nói «trẫm chỉ để ý ngươi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh giật mình, mắt ánh lên. Bạn đi mà cảm thấy sau lưng mình có người nhìn theo không rời.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói nhỏ quá, anh không nghe rõ nên vẫn buồn.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Ở lại thêm một chén trà, rồi mới sang",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh pha cho bạn một chén trà hoa. Bạn nhớ rõ mùi hương của nó.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Chén trà nóng quá, bạn bỏng lưỡi, anh luống cuống.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Sang cung Dật Phong luôn, giải thích sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dật Phong tiếp đón nồng hậu, bạn ghi nhớ từng câu anh nói với cung nhân.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn đi vội, bỏ quên lời hứa gửi kiếm phổ.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối chiều, cung hoàng phu rồi cung Dật Phong.",
+      "no": 14
+    },
+    {
+      "id": "x15",
+      "scene": "vhall",
+      "place": "Phủ Tống tướng quân · Ba ngày sau",
+      "kind": "duyen",
+      "title": "Về nhà họ Tống",
+      "text": "Bạn cải trang đi cùng Nghiễn Kiệt về nhà. Tống tướng quân và phu nhân quen nhau từ chiến trường, ngồi ngang hàng và đối đãi bình đẳng; mẹ anh nói muốn anh nhớ thanh kiếm hơn nhớ cung. Cha anh dạy bạn cưỡi ngựa ngoài sân, còn anh đứng giữ dây cương, mắt không rời bạn. Bạn nhận ra nhà họ Tống trung thật lòng. Bạn có thể nói rõ chuyện âm mưu với cha mẹ anh, hoặc chỉ dặn giữ biên cương phía Bắc.",
+      "tieu": "Nhà này trung thật đấy. Ngươi nói hết hay chỉ dặn giữ biên giới?",
+      "cast": "th_nhan,th_kiet,th_tuong,th_phunhan,tc",
+      "ch": [
+        {
+          "t": "Nói rõ chuyện âm mưu với cha mẹ anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tống tướng quân nghe xong, đặt chén xuống, nói nhà họ Tống sẽ đứng sau bệ hạ đến cùng.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "tong_biet"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Phu nhân biến sắc, bàn bạc lúng túng mất cả buổi.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ dặn giữ biên cương phía Bắc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tống tướng quân gật đầu, hứa tăng thêm một đạo quân trấn ải mà không hỏi lý do.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Phu nhân lo lắng hỏi có chuyện gì, bạn không trả lời được.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ cha anh dạy thêm vài bài cưỡi ngựa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bạn phi được một vòng trọn vẹn, cha anh khen có khiếu.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Ngựa nhảy chồm, bạn ngã vào lòng anh, ai cũng giả vờ không thấy.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Ba ngày sau, phủ Tống tướng quân ở kinh thành. Bạn cải trang đi cùng hoàng phu.",
+      "no": 15,
+      "learn": {
+        "n": "Cưỡi ngựa phi nước đại",
+        "s": "van",
+        "v": 1
+      }
+    },
+    {
+      "id": "x16",
+      "scene": "ggarden",
+      "place": "Ngự Hoa Viên · Giữa tháng",
+      "kind": "chon",
+      "title": "Người trên mái nhà",
+      "text": "Bạn ngồi đánh cờ với Dật Phong trong đình, nghe Thanh Từ đàn; thỉnh thoảng bạn nhìn lên mái đình đối diện và thấy Nghiễn Kiệt ngồi xổm trên mái lén nhìn. Bạn cười với anh; anh không tránh cũng không ra mặt. Dật Phong thấy bạn cười và tưởng bạn cười với mình, ngay sau đó anh nói nhỏ với Thanh Từ rằng nữ hoàng ngày càng tin họ. Bạn có thể vẫy tay với hoàng phu, hoặc làm như không thấy.",
+      "tieu": "Có người ngồi trên mái nhà kìa. Vẫy tay hay làm như không thấy?",
+      "cast": "th_nhan,th_kiet,th_phong,th_tu,tc",
+      "ch": [
+        {
+          "t": "Vẫy tay với anh trên mái, mặc người khác nhìn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh giật mình, suýt rơi ngói, rồi cười ngượng ngùng giơ tay đáp lại. Dật Phong chẳng hiểu gì.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn vẫy quá lộ liễu, Dật Phong nhìn theo hướng tay bạn.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Làm như không thấy, đi tiếp nước cờ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn đi nước cờ hiểm khiến Dật Phong phải suy nghĩ; trên mái anh khẽ nhếch môi.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn đi sai nước cờ, Dật Phong thắng một quân.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Cười thật tươi, để mặc ai hiểu thế nào cũng được",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả ba người đều tưởng nụ cười dành cho mình, và vui vẻ như nhau.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Thanh Từ liếc nhìn bạn dò xét một thoáng.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Giữa tháng, Ngự Hoa Viên. Dật Phong và Thanh Từ cùng ngồi trong đình.",
+      "no": 16
+    },
+    {
+      "id": "x17",
+      "scene": "vcourt",
+      "place": "Phủ Nguyệt Vương · Đêm",
+      "kind": "duyen",
+      "title": "Lời nói riêng của Nguyệt Vương",
+      "text": "Dật Phong và Thanh Từ lại tìm Nguyệt Vương; Ngọc Hành và Thu Đường lườm họ, và Dao Nguyệt công khai mắng cả hai, dọa sẽ đuổi khỏi phủ. Đêm đó nàng nói riêng với Ngọc Hành rằng tất cả chỉ là diễn: nàng nghi hai vị khách kia là người của nữ hoàng, và cũng không tin Thế Lãng. Ngọc Hành cảm động, thề theo nàng. Tiểu Châu nói thêm một người đáng tin đã về phía nàng. Bạn có thể để nàng tự quản việc phủ, hoặc nhờ đại tổng quản gửi một bức thư ủng hộ.",
+      "tieu": "Tỷ tỷ của ngươi vừa có thêm một đồng minh. Để nàng tự quản hay gửi thư ủng hộ?",
+      "cast": "th_nguyet,th_hanh,th_duong,th_phong,th_tu,tc",
+      "ch": [
+        {
+          "t": "Nhờ đại tổng quản gửi thư ủng hộ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thư của bạn đến tay Dao Nguyệt đúng lúc nàng đang cần, nàng đọc xong ôm thư vào ngực.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Thư bị lính canh giữ lại một đêm, nàng đợi mãi không thấy.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Để nàng tự quản, chỉ âm thầm quan sát",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nàng tự xử lý rất khéo, bạn ghi lại từng bước để học cách nàng thu phục người.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn bỏ sót lúc Thu Đường lẻn ra ngoài.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Gửi cho Ngọc Hành một món quà nhỏ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ngọc Hành nhận quà, đọc bức thư kèm theo và gật đầu hiểu ý.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Món quà đến muộn, Ngọc Hành đã đi vắng.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm, phủ Nguyệt Vương. Bạn theo dõi qua Tiểu Châu.",
+      "no": 17
+    },
+    {
+      "id": "x18",
+      "scene": "ggarden",
+      "place": "Ngự Hoa Viên · Một chiều",
+      "kind": "duyen",
+      "title": "Bạch ngọc cờ và đàn cổ",
+      "text": "Bạn ngồi đánh cờ với Dật Phong, mất tâm trí vì thấy hoàng phu trên mái nên thua ván. Bạn thưởng anh bộ bạch ngọc cờ, nói hợp với anh nhất; thưởng Thanh Từ một cây đàn cổ, nhờ cầm sư điều âm. Dật Phong sững người; Thanh Từ nói thay anh: «Dật Phong vui quá thành ngốc». Cả hai nhận quà và cúi đầu tạ ơn. Bạn có thể thưởng cả hai, hoặc chỉ thưởng Dật Phong.",
+      "tieu": "Quà càng quý, họ càng thấy mình thắng. Thưởng cả hai hay chỉ một?",
+      "cast": "th_nhan,th_phong,th_tu,tc",
+      "ch": [
+        {
+          "t": "Thưởng cả hai, mỗi người một món",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả hai đều cười. Nụ cười của Thanh Từ ngắn hơn một nhịp so với Dật Phong, bạn ghi nhớ.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói lộn tên người nhận quà, Dật Phong phải khéo léo đỡ lời.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ thưởng Dật Phong, làm Thanh Từ ghen",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thanh Từ im lặng, ngón tay gõ nhẹ vào dây đàn. Anh bắt đầu tính cách khác.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Dật Phong đỡ bộ cờ bằng cả hai tay, run đến mức suýt rơi.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Đổi nước cờ, đánh ván mới để xem tâm tính",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ván mới bạn thắng nhờ một nước đi may mắn, Dật Phong cười gượng.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn lại thua, và lần này là thua thật.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một chiều, Ngự Hoa Viên. Dật Phong và Thanh Từ có mặt.",
+      "no": 18,
+      "learn": {
+        "n": "Đánh cờ vây",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x19",
+      "scene": "vyard",
+      "place": "Cung hoàng phu · Chiều",
+      "kind": "chon",
+      "title": "Bảo vật là trẫm",
+      "text": "Nghiễn Kiệt nhận ra bạn tặng hai người những món quý; anh nói bạn hào phóng, trong lòng thì chua. Bạn nói còn một món chưa tặng, hỏi anh có muốn không, rồi thì thầm: «trẫm». Anh sững người, đáp nếu bạn tặng anh sẽ dùng cả đời để quý trọng. Bạn hứa về sau chỉ đối với một mình anh. Bạn có thể nói thẳng, hoặc trêu anh thêm một chút.",
+      "tieu": "Tên ngốc này sắp đỏ cả cổ rồi. Nói thẳng hay trêu thêm?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Nói thẳng: «trẫm chỉ tặng ngươi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ngẩng đầu, ánh mắt sáng lên như vừa được tha tội. Anh nắm tay bạn, siết rất khẽ.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh nghĩ bạn trêu, quay mặt đi giấu nụ cười buồn.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Trêu anh: «ngươi có dám nhận không»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhìn bạn rất nghiêm: «dám». Rồi cả hai cùng bật cười.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh tưởng bạn thử, đáp rất cẩn thận, giữ khoảng cách.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để anh tự đoán món quà là gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh đoán sai mấy lần, đến lần thứ ba thì chợt hiểu và đỏ mặt.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh đoán là một thanh kiếm khác, vẻ mặt hơi thất vọng.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, cung hoàng phu. Nghiễn Kiệt biết bạn thưởng quà cho hai phu hầu kia.",
+      "no": 19
+    },
+    {
+      "id": "x20",
+      "scene": "vyard",
+      "place": "Cung hoàng phu · Cùng tối",
+      "kind": "chon",
+      "title": "Nói thật với hoàng phu",
+      "text": "Anh hỏi bạn nghi hai người này việc gì và xin được làm giúp. Bạn nói thật: Dật Phong và Thanh Từ muốn lấy mạng bạn và lật đổ chế độ nữ tôn, nhưng bạn định cho họ đi hết đường của mình và cho họ một cơ hội quay đầu. Anh nổi giận định rút kiếm; bạn trấn an. Anh hỏi nếu họ quay đầu thì có nhận lại không; bạn đáp không bao giờ, ai phản bạn thì thôi. Anh nhẹ lòng, thầm nghĩ bạn thật lòng với anh. Bạn có thể nói hết mọi chuyện, hoặc giữ lại vài điều.",
+      "tieu": "Nói thật với người này thì ngươi chắc chắn không thiệt. Nói hết hay giữ lại một chút?",
+      "cast": "th_nhan,th_kiet,th_phong,th_tu,tc",
+      "ch": [
+        {
+          "t": "Nói hết mọi chuyện, không giấu gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe hết, mắt đỏ lên rồi nén lại. Anh đặt tay lên vai bạn: «ta ở đây».",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "hp_biet"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn kể rối, anh phải hỏi lại mấy lần mới hiểu hết.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nói chuyện chính, giữ lại tên các kẻ khác",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhận lời giữ kín, ánh mắt kiên định hơn mọi lần.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "hp_biet"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh nhận ra bạn còn giấu, ánh mắt chùng xuống.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Chỉ nói «ngươi cứ tin ta»",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhìn bạn một lúc lâu rồi gật đầu: «ta tin».",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh gật đầu nhưng trong lòng vẫn nặng trĩu.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Cùng tối, cung hoàng phu. Anh hỏi bạn nghi hai người kia điều gì.",
+      "no": 20
+    },
+    {
+      "id": "x21",
+      "scene": "gpalace",
+      "place": "Hậu cung · Nhiều ngày sau",
+      "kind": "nan",
+      "title": "Thất sủng giả",
+      "text": "Bạn không giấu việc sủng Dật Phong: mỗi ngày ghé đình hoa của anh, ban thưởng không ngớt. Hậu cung đồn Dật Phong thịnh sủng nhất, Thanh Từ thứ hai, hoàng phu thứ ba. Nam hầu cười anh, nhưng anh vẫn đóng cửa luyện kiếm. Đêm đó anh không ngủ; anh tự nhủ đó chỉ là diễn, nhưng vẫn lên mái nhìn bạn và bất giác siết kiếm. Tiểu Châu nhắc: đây là điều khiến anh đau nhất. Bạn có thể sang cung anh trấn an ngay, hoặc ở lại cung mình.",
+      "tieu": "Anh ta đang đứng ở chỗ đau nhất. Sang trấn an hay ở lại cung mình?",
+      "cast": "th_nhan,th_kiet,th_phong,tc",
+      "ch": [
+        {
+          "t": "Sang cung anh trấn an ngay trong đêm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh mở cửa, bạn chưa nói gì anh đã ôm chầm lấy bạn và thì thầm: «ta biết, ta biết».",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn đến muộn, anh đã ngủ gục trên mái, người lạnh buốt.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          },
+          "soft": true
+        },
+        {
+          "t": "Gửi cho anh một bức thư tay",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh đọc đi đọc lại bức thư dưới ánh trăng, tay run nhẹ.",
+            "d": {
+              "ac": -5,
+              "hac": -6,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Thư đến tay anh sau bữa sáng, anh đã chịu đựng suốt đêm.",
+            "d": {
+              "sinh": -2,
+              "hao": -3
+            }
+          },
+          "soft": true
+        },
+        {
+          "t": "Ở lại cung mình, để anh tự vượt qua",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Sáng hôm sau anh vẫn tới thỉnh an như thường lệ, mắt hơi thâm.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Anh không tới thỉnh an, cũng không luyện kiếm cả ngày.",
+            "d": {
+              "sinh": -2,
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Nhiều ngày sau, hậu cung. Bạn đóng vai nữ hoàng sủng Dật Phong.",
+      "no": 21
+    },
+    {
+      "id": "x22",
+      "scene": "gcourt",
+      "place": "Điện hậu cung · Một ngày sau",
+      "kind": "chon",
+      "title": "Lương thị quân vào lãnh cung",
+      "text": "Lương thị quân ghen Dật Phong, cố ý gây khó dễ, nhưng bị Dật Phong dỗ nhỏ to một đêm nên đổi ý, nhận làm người của hắn và hứa gửi thư về nhà kể nỗi oan nam tử. Tiểu Châu báo bạn mọi chuyện. Bạn soạn một thánh chỉ biếm Lương thị quân vào lãnh cung với lý do mạo phạm Dật Phong, rồi gửi mật thư cho Lương đại nhân hỏi vì sao con ông muốn lật đổ chế độ nữ tôn; ông im lặng, không tìm cách cứu. Bạn có thể viết chiếu chỉ nặng, hoặc nhẹ.",
+      "tieu": "Có kẻ vừa tự đưa mình vào bẫy. Chiếu chỉ nặng hay nhẹ?",
+      "cast": "th_nhan,th_luong,th_lduong,th_phong,tc",
+      "ch": [
+        {
+          "t": "Viết chiếu chỉ nặng, phạt thẳng tay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bạn viết một câu, đóng ấn, cả điện lặng đi. Lương thị quân cúi đầu nhận chỉ không dám cãi.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn viết hơi gắt, vài triều thần xì xào rằng nữ hoàng quá nghiêm.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Viết chiếu chỉ nhẹ, để lại đường lui",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Chiếu chỉ của bạn chặt chẽ từng chữ; Lương đại nhân đọc xong biết ngay mình nên im lặng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn viết nhẹ quá, Lương thị quân còn dám xin tha.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Gửi mật thư cho Lương đại nhân trước, rồi mới ra chiếu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Ông không hồi đáp, và tự khắc bạn hiểu điều cần hiểu.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Thư bị chặn giữa đường, ông nhận muộn một ngày.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một ngày sau, điện hậu cung. Lương thị quân vừa bị Dật Phong dỗ.",
+      "no": 22,
+      "learn": {
+        "n": "Soạn chiếu chỉ",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x23",
+      "scene": "gpalace",
+      "place": "Cung Dật Phong · Hôm sau",
+      "kind": "chon",
+      "title": "Cáo ốm",
+      "text": "Dật Phong choáng vì vừa dỗ được người thì người đã bị biếm, hiểu rằng mình được sủng quá mức. Thanh Từ bàn kế: Dật Phong cáo ốm, nhờ thái y kê bệnh truyền nhiễm để ra cung dưỡng bệnh, lấy cớ đi gặp Nguyệt Vương. Triều thần cùng xin bạn cho anh ra cung. Bạn giả vờ do dự rồi đồng ý. Bạn có thể gọi thái y riêng khám cho anh, hoặc để nguyên.",
+      "tieu": "Cái kế này ngươi biết trước từng bước. Gọi thái y khám hay để nguyên?",
+      "cast": "th_nhan,th_phong,th_tu,th_doan,tc",
+      "ch": [
+        {
+          "t": "Gọi thái y riêng khám cho anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Đoàn thái y khám xong, kê một đơn thuốc nhẹ, nháy mắt với bạn: bệnh này không có thật.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Thái y nói không chắc, bạn phải gọi lại lần hai.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Giả vờ lo lắng, tự mình tới thăm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Dật Phong nằm trên giường diễn rất khéo; bạn diễn lại còn khéo hơn, cả hai cùng lừa nhau.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn tới đúng lúc Thanh Từ cũng ở đó, bầu không khí hơi gượng.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để nguyên, cho anh ra cung ngay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh lên xe ra cung gọn gàng, không gây chú ý.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Triều thần xì xào vì nữ hoàng quá dễ dãi.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Hôm sau, cung Dật Phong. Dật Phong cáo ốm theo kế của Thanh Từ.",
+      "no": 23
+    },
+    {
+      "id": "x24",
+      "scene": "ggarden",
+      "place": "Đình đàn · Mấy ngày sau",
+      "kind": "chon",
+      "title": "Thế thân",
+      "text": "Bạn ngày ngày nghe Thanh Từ đàn, bảo anh thận trọng vì bạn nghe tay anh trượt; bạn nói bạn nhớ Dật Phong, nhớ tiếng cười của hắn, còn Thanh Từ cho bạn sự yên tĩnh. Thanh Từ hiểu mình bị coi là thế thân và buột miệng hỏi; bạn nói không, bạn phân hai người rất rõ. Anh thấy mình lỡ lời và hối hận. Bạn có thể nói thật rằng tiếng đàn của anh khác hoàn toàn, hoặc chỉ gật đầu.",
+      "tieu": "Anh ta đang tự tìm đường lui. Nói thật hay chỉ gật?",
+      "cast": "th_nhan,th_tu,tc",
+      "ch": [
+        {
+          "t": "Nói thật: tiếng đàn của anh khác hoàn toàn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thanh Từ im lặng một lúc, rồi tiếng đàn ngân lên chậm hơn và dịu hơn.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói vụng, anh nhíu mày không biết nên tin hay không.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ gật đầu, không giải thích thêm",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhìn bạn dò xét rất lâu rồi cúi xuống đàn tiếp.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh hiểu sai ý bạn, đàn nhanh và gắt hơn.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Hỏi anh về ngày giỗ huynh trưởng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh kể về huynh trưởng với giọng rất khẽ. Lần đầu bạn thấy anh không toan tính.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh khép lại, im lặng cả buổi và cáo lui sớm.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Mấy ngày sau, đình đàn. Bạn ngày ngày nghe Thanh Từ đàn.",
+      "no": 24
+    },
+    {
+      "id": "x25",
+      "scene": "gwall",
+      "place": "Cổng cung · Một sáng",
+      "kind": "chon",
+      "title": "Xe ra khỏi cung",
+      "text": "Bạn nói nhớ Dật Phong nên quyết ra thăm, mang theo đồ bổ và những món hắn thích; trên xe bạn lo lắng thật, tới cổng thì tỏ ra sốt ruột. Đại tổng quản Ngô Tố Cầm run vì bạn chưa từng ra cung như vậy. Bạn nói trước với hộ vệ cấm không ai vào báo tin. Tiểu Châu nhắc: sân nhỏ cũng là nơi Dật Phong hẹn gặp Nguyệt Vương. Bạn có thể báo trước cho Dao Nguyệt, hoặc đi đột ngột.",
+      "tieu": "Hôm nay có người đang hẹn gặp ở sân nhỏ. Báo trước hay đi đột ngột?",
+      "cast": "th_nhan,th_cam,tc",
+      "ch": [
+        {
+          "t": "Đi đột ngột, không báo ai",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hộ vệ kinh ngạc, bạn đi qua cổng nhanh đến mức Ngô Tố Cầm phải chạy theo.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Xe bạn bị một đoàn buôn chặn ngay cổng, mất cả khắc.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Cho người báo sớm cho Dao Nguyệt",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Dao Nguyệt nhận được tin nhắn mật, kịp chuẩn bị mọi thứ, và cả hai ăn ý.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Tin tới muộn, Dao Nguyệt đã ra khỏi phủ.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Mặc cho số mệnh dẫn đường",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Xe đến vừa đúng lúc, không sớm không muộn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Xe bị lỡ giờ, bạn phải đi vòng lối nhỏ.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một sáng, cổng cung. Dật Phong dưỡng bệnh ở sân nhỏ ngoài thành.",
+      "no": 25
+    },
+    {
+      "id": "x26",
+      "scene": "vgate",
+      "place": "Sân dưỡng bệnh ngoài thành · Ngay sau đó",
+      "kind": "nan",
+      "title": "Bắt gặp trong sân nhỏ",
+      "text": "Bạn bước vào đúng lúc Dật Phong đỡ Dao Nguyệt ngã, hai người ôm nhau, mặt sát mặt. Dao Nguyệt hoảng, muốn giải thích; Dật Phong quỳ xuống không biết nói gì. Bạn thất vọng: «ngươi cáo ốm để gặp nàng». Bạn tuyên bố hậu cung từ nay không còn Dật Phong, anh đã «chết bệnh», rồi ban anh cho Nguyệt Vương: «ngươi đón hắn về phủ đi». Bạn để lại đồ bổ và nói: «trẫm từng thích nghe ngươi kể chuyện, từ hôm nay thì không». Anh gọi theo nhưng không đuổi kịp. Bạn có thể nói thêm một câu, hoặc im lặng.",
+      "tieu": "Cú này ngươi diễn không dễ đâu. Nói thêm một câu hay im lặng?",
+      "cast": "th_nhan,th_phong,th_nguyet,tc",
+      "ch": [
+        {
+          "t": "Nói thêm: «từ nay đừng tới trước mặt trẫm»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng bạn lạnh như băng, Dật Phong gục đầu xuống. Dao Nguyệt ngoảnh đi.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Giọng bạn run, Dật Phong ngẩng lên nhìn bạn vẻ dò xét.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Im lặng, chỉ để lại đồ bổ rồi rời đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sự im lặng nặng hơn mọi lời nói. Dật Phong ngã quỵ.",
+            "d": {
+              "ac": -5,
+              "hac": -6,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn bước đi quá nhanh, suýt vấp bậc cửa.",
+            "d": {
+              "sinh": -2,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Nhìn Dao Nguyệt một lần, rồi quay đi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dao Nguyệt khẽ gật đầu: nàng hiểu đây là vở diễn.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Dao Nguyệt không hiểu ánh mắt bạn, nhìn bạn đầy hoang mang.",
+            "d": {
+              "sinh": -2,
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sân dưỡng bệnh ngoài thành. Bạn vừa bắt gặp Dật Phong và Dao Nguyệt.",
+      "no": 26
+    },
+    {
+      "id": "x27",
+      "scene": "vgate",
+      "place": "Sân nhỏ ngoài thành · Những ngày sau",
+      "kind": "duyen",
+      "title": "Người ôm kỷ vật",
+      "text": "Dật Phong từ chối theo Dao Nguyệt về phủ, ở lại sân nhỏ, ôm những thứ bạn tặng, lau mãi bàn cờ ngọc. Dao Nguyệt đến vài lần, thấy anh vô hồn nên bỏ ý dùng anh. Anh nhận ra mình đã quen sự ôn nhu của bạn, và mất đi trái tim thật của nữ hoàng. Tiểu Châu theo dõi giúp bạn. Bạn có thể cho người ngầm trông nom anh, hoặc mặc.",
+      "tieu": "Anh ta đang tự phạt mình. Cho người trông nom hay mặc?",
+      "cast": "th_phong,th_nguyet,tc",
+      "ch": [
+        {
+          "t": "Cho người ngầm trông nom anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Người của bạn báo anh vẫn ăn cơm, vẫn lau bàn cờ mỗi sáng. Bạn thở nhẹ.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Người của bạn bị phát hiện, Dật Phong nhìn họ rất lâu rồi quay đi.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Ghi nhận mọi thứ từ xa qua Tiểu Châu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn thấy anh dần thay đổi: từ mưu mô thành lặng lẽ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Tiểu Châu mất tín hiệu nửa ngày, bạn bỏ lỡ một đoạn.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Mặc, để anh tự đối diện",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Một thời gian sau anh vẫn ở đó, yên ổn, không còn gây rối.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh bỏ ăn hai ngày, may người hầu già phát hiện kịp.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Những ngày sau, sân nhỏ ngoài thành. Bạn theo dõi qua Tiểu Châu.",
+      "no": 27
+    },
+    {
+      "id": "x28",
+      "scene": "vgate",
+      "place": "Sân nhỏ ngoài thành · Vài ngày sau",
+      "kind": "chon",
+      "title": "Thanh Từ tới sân nhỏ",
+      "text": "Chu Thanh Từ biết chuyện, đến sân nhỏ khuyên Dật Phong tỉnh lại và giằng viên ngọc sinh nhật bạn tặng của anh. Dật Phong ôm ngọc đẩy Thanh Từ ra, đuổi khỏi sân. Thanh Từ quay về, quyết tiếp tục một mình, vì tin chỉ có quyền lực mới giữ được người. Bạn có thể truyền lời an ủi cho Thanh Từ, hoặc mặc.",
+      "tieu": "Kẻ còn lại đang quyết tâm hơn bao giờ hết. Truyền lời an ủi hay mặc?",
+      "cast": "th_phong,th_tu,tc",
+      "ch": [
+        {
+          "t": "Truyền lời an ủi cho Thanh Từ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Thanh Từ nghe xong im lặng rất lâu, ánh mắt lóe lên một chút dao động rồi tắt.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Lời nhắn bị người hầu truyền sai, Thanh Từ cau mày.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhờ người nhắc Thanh Từ chuyện huynh trưởng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Thanh Từ khựng lại một nhịp; bạn biết anh vẫn còn điều để giữ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh nhìn người truyền tin rất lạnh và không đáp.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Mặc anh, xem anh còn làm gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh chỉ ngồi ngoài đình đàn suốt buổi, tay không gảy nổi một nốt.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh bắt đầu liên lạc với người bên ngoài cung.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Vài ngày sau, sân nhỏ ngoài thành. Thanh Từ đến gặp Dật Phong.",
+      "no": 28
+    },
+    {
+      "id": "x29",
+      "scene": "ggarden",
+      "place": "Đình đàn · Nửa năm sau",
+      "kind": "chon",
+      "title": "Dây đàn đứt",
+      "text": "Nửa năm trôi qua; Tiểu Châu tóm lại cho bạn: Thanh Từ ở cạnh nữ hoàng như tâm phúc, giữ lòng không để rơi vào sự ôn nhu của bạn. Một buổi chiều bạn nhớ Dật Phong; dây đàn đứt, ngón tay Thanh Từ chảy máu. Bạn băng tay cho anh, thu cây đàn đến khi lành, bảo anh tình cảm quan trọng hơn cầm. Anh thấy lòng nóng lên rồi tự nhủ không được dao động. Bạn có thể hỏi anh vì sao thất thần, hoặc chỉ băng tay.",
+      "tieu": "Dây đàn đứt ngay lúc anh ta nghĩ về ngươi. Hỏi lý do hay chỉ băng tay?",
+      "cast": "th_nhan,th_tu,tc",
+      "ch": [
+        {
+          "t": "Hỏi anh vì sao thất thần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh ngập ngừng, rồi nói một nửa sự thật; bạn thu đủ thông tin cần biết.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh nhìn bạn đầy cảnh giác và đổi đề tài.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ băng tay cho anh, không hỏi",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn bàn tay được băng rất lâu. Bạn thấy trong mắt anh có một thứ gì đó mềm đi.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn băng quá chặt, anh nhăn mặt nhưng không dám nói.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Gọi thái y chữa tay cho anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thái y chữa trong vài ngày, anh khỏi hẳn và bạn có thêm một lần được gặp anh.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Thái y đến muộn, vết thương rát hơn dự tính.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Nửa năm sau, đình đàn. Tiểu Châu tóm lại nửa năm vừa qua.",
+      "no": 29
+    },
+    {
+      "id": "x30",
+      "scene": "vyard",
+      "place": "Cung hoàng phu · Sáng hôm sau",
+      "kind": "chon",
+      "title": "Nụ hôn và lời xin du ngoạn",
+      "text": "Bạn nói ngày mai sẽ ra cung chơi cùng Thanh Từ. Anh hiểu bạn nói trước để anh khỏi nghĩ nhiều, nhưng vẫn tiếc vì người đầu tiên cùng bạn ra cung không phải anh; anh nâng cằm bạn, hôn bạn trước mặt cung nhân. Bạn nhắm mắt; cung nhân gục mặt, đại tổng quản run. Bạn nói còn hai tháng nữa tới lễ Đăng điển. Anh nói muốn làm phu thê thật với bạn. Bạn có thể trêu anh, hoặc hôn đáp lại.",
+      "tieu": "Có người vừa lấy hết can đảm. Trêu hay hôn đáp lại?",
+      "cast": "th_nhan,th_kiet,th_cam,tc",
+      "ch": [
+        {
+          "t": "Hôn đáp lại, rồi nói «chờ lễ Đăng điển»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh sững người, rồi cười, một nụ cười ngốc nghếch rất thật. Cung nhân đỏ mặt quay đi cả.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "hon_dap"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn hôn hơi vụng, anh khẽ bật cười khiến bạn đỏ mặt.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Trêu anh: «ngươi hôn vụng quá»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh đỏ bừng mặt, rồi hôn thêm một lần để chứng minh. Bạn hiểu anh đã yên lòng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh tưởng bạn chê thật, cúi đầu im lặng.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nắm tay anh, hẹn sau chuyến đi sẽ nói chuyện",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh gật đầu, nắm chặt tay bạn như sợ buông là mất.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh nắm quá chặt, tay bạn đau nhưng không dám nói.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, cung hoàng phu. Bạn báo trước chuyến du ngoạn.",
+      "no": 30
+    },
+    {
+      "id": "x31",
+      "scene": "gcarriage",
+      "place": "Xe ngựa ra khỏi cung · Ngày hôm sau",
+      "kind": "chon",
+      "title": "Trên xe ngựa",
+      "text": "Thanh Từ đã chọn đúng ngày này để ra cung; trên xe bạn hứa sau này sẽ cùng anh đi khắp thiên hạ, nếm hết món ngon. Anh hỏi bạn có còn nhớ Dật Phong; bạn nói «Dật Phong đã qua». Anh đàn ngay trong xe, nhưng sai âm vì thất thần. Tiểu Châu nhắc nhỏ: hôm nay là bẫy do anh dựng, thích khách đã mai phục sẵn. Bạn có thể dựa vào tường xe chờ xem, hoặc xuống xe quan sát địa hình.",
+      "tieu": "Hôm nay là bẫy đấy, ngươi biết rồi nhỉ. Dựa tường xe hay xuống quan sát địa hình?",
+      "cast": "th_nhan,th_tu,th_cam,tc",
+      "ch": [
+        {
+          "t": "Xuống xe, quan sát địa hình xung quanh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn thấy hai chỗ khuất mai phục và vẽ nhanh sơ đồ trong đầu. Bạn biết nên chạy hướng nào.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn xuống xe quá lộ liễu, một bóng người lùi vào bụi.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Dựa tường xe, nói chuyện giữ chân Thanh Từ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nói đủ thứ chuyện để bạn không để ý, nhưng bạn đã để ý hết.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn nói lỡ một câu nhắc đến Dật Phong, anh nhìn bạn rất lâu.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Ngô Tố Cầm đổi hướng xe một đoạn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Xe rẽ sang lối khác, bẫy của anh lệch mất vài khắc.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Ngô Tố Cầm nghe lời quá nhanh, Thanh Từ nhíu mày.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày hôm sau, xe ngựa ra khỏi cung cùng Thanh Từ.",
+      "no": 31
+    },
+    {
+      "id": "x32",
+      "scene": "gcarriage",
+      "place": "Con đường núi · Giữa trưa",
+      "kind": "hiem",
+      "title": "Hắc y nhân và mũi tên",
+      "text": "Xe bị chặn lại; hơn hai mươi hắc y nhân bao vây, bốn hộ vệ và đại tổng quản chống cự. Bạn cầm kiếm, kéo Thanh Từ ra khỏi vòng vây, tìm đường lên ngựa. Anh bảo bạn buông anh ra mà chạy trước; bạn nói bỏ anh thì bạn trị thiên hạ thế nào. Khi chạy, tên bay dày; bạn gạt một mũi bằng kiếm; mũi thứ hai nhắm vào Thanh Từ, bạn đẩy anh sang đại tổng quản; mũi thứ ba trúng ngựa của bạn, ngựa lao xuống vực, bạn rơi cùng ngựa. Bạn có thể gạt mũi tên bằng kiếm, hoặc cúi người tránh.",
+      "tieu": "Tên bay tới rồi, ngươi quyết nhanh lên! Gạt bằng kiếm hay cúi tránh?",
+      "cast": "th_nhan,th_tu,th_cam,tc",
+      "ch": [
+        {
+          "t": "Gạt mũi tên bằng kiếm",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bạn xoay cổ tay, lưỡi kiếm gạt mũi tên văng sang bên. Tiếng thép chạm nhau nghe rất rõ.",
+            "d": {
+              "ac": -7,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Mũi tên sượt qua vai bạn, để lại một vệt rát bỏng.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Cúi người tránh, kéo Thanh Từ xuống theo",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn kéo anh xuống đúng lúc, hai mũi tên cắm phập vào thân xe phía sau.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn cúi chậm nửa nhịp, tên lướt qua tóc.",
+            "d": {
+              "sinh": -4,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Lăn sang bên, tìm chỗ nấp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bạn lăn sang một tảng đá lớn, tên cắm đầy xung quanh nhưng bạn không sao.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Bạn lăn trúng cành gai, vài vết xước nhỏ trên tay.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "ctx": "Con đường núi giữa trưa. Hơn hai mươi hắc y nhân bao vây đoàn xe.",
+      "no": 32,
+      "learn": {
+        "n": "Gạt mũi tên",
+        "s": "van",
+        "v": 1
+      }
+    },
+    {
+      "id": "x33",
+      "scene": "rcave",
+      "place": "Dưới đáy vực · Ngay sau đó",
+      "kind": "nan",
+      "title": "Dưới đáy vực",
+      "text": "Nghiễn Kiệt nghe tín hiệu, phi ngựa tới, thấy vực sâu mù sương và bạn đã mất bóng. Anh nhìn Thanh Từ bằng ánh mắt lạnh, dặn đại tổng quản giữ hắn an toàn, rồi lao xuống vực tìm bạn; chân tay anh run vì sợ nhìn thấy bạn gãy xương. Bạn ngồi trên một tảng đá phẳng, không hề hấn gì. Anh chém sạch cỏ dại lao tới ôm chặt bạn. Tiểu Châu nhắc: đây là nỗi sợ lớn nhất của anh, và anh đang sợ đến mức không thở được. Bạn có thể trấn an anh nghiêm túc, hoặc trêu để anh bớt căng.",
+      "tieu": "Người này vừa chạy xuống vực tìm ngươi. Trấn an hay trêu cho anh bớt căng?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Trấn an nghiêm túc: «ta ổn, ngươi hít thở đi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh ôm chặt, vùi mặt vào vai bạn, thở dốc từng nhịp. Bạn vỗ nhẹ lưng anh cho tới khi anh thôi run.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Giọng bạn run, anh nghe ra bạn cũng sợ và ôm chặt hơn nữa.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          },
+          "soft": true
+        },
+        {
+          "t": "Trêu anh: «ngươi đến chậm đấy»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh bật cười trong nước mắt rồi đánh nhẹ lên vai bạn. Bạn biết anh đã thở được.",
+            "d": {
+              "ac": -5,
+              "hac": -6,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh không cười nổi, mặt tái hơn.",
+            "d": {
+              "sinh": -2,
+              "hao": -3
+            }
+          },
+          "soft": true
+        },
+        {
+          "t": "Im lặng ôm lại, để anh bình tĩnh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Phải rất lâu sau anh mới buông ra, mắt đỏ hoe.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Anh ôm đến mức bạn thấy khó thở nhưng không dám nói.",
+            "d": {
+              "sinh": -2,
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Ngay sau đó, dưới đáy vực. Nghiễn Kiệt phi ngựa tới và lao xuống tìm bạn.",
+      "no": 33
+    },
+    {
+      "id": "x34",
+      "scene": "rforest",
+      "place": "Bờ suối dưới vực · Chiều rồi tối",
+      "kind": "duyen",
+      "title": "Dã ngoại săn thú",
+      "text": "Anh săn một con lợn rừng, bắt cá bằng cây giáo tre; bạn đòi nướng thịt, thái miếng rồi ướp bằng mấy lọ gia vị nhỏ bạn mang theo. Anh ăn mà ngạc nhiên vì thịt thơm lạ. Bạn gọi anh «A Kiệt», anh gọi bạn «Nhan Nhi». Bạn nói kế hoạch: nữ hoàng ngã vực, mất trí nhớ, chỉ nhớ người cứu mình, từ đó chỉ sủng ái hoàng phu; anh nhận lời, và nói dù ai chèn ép anh cũng không lùi. Bạn có thể nói rõ bạn sẽ ra sao, hoặc nói gọn.",
+      "tieu": "Hai người nướng thịt dưới vực mà kế hoạch vẫn chạy. Nói rõ hay nói gọn?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Nói rõ từng bước bạn sẽ làm trong những tuần tới",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nghe rất nghiêm túc và nhắc đúng chỗ bạn còn sơ hở. Hai người cùng sửa kế hoạch.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "biet_ke"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói quá nhiều, anh nghe lẫn lộn vài chỗ.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nói gọn, tin anh sẽ diễn ăn ý",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh gật đầu: «ta hiểu rồi». Ánh mắt anh kiên quyết như đang nhận một quân lệnh.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "biet_ke"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh gật đầu nhưng trong lòng vẫn lo, nắm kiếm chặt hơn.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Chỉ ngồi nướng thịt, nói kế hoạch sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Miếng thịt nướng thơm tới mức anh quên hỏi thêm.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Thịt cháy một mặt, anh vẫn ăn hết không chê.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều rồi tối, bờ suối dưới vực. Hai người nướng thịt và bàn kế hoạch.",
+      "no": 34,
+      "learn": {
+        "n": "Nướng thịt ngoài trời",
+        "s": "mi",
+        "v": 1
+      }
+    },
+    {
+      "id": "x35",
+      "scene": "gdream",
+      "place": "Tẩm cung nữ hoàng · Ba ngày sau",
+      "kind": "chon",
+      "title": "Người chờ ngoài cửa",
+      "text": "Nghiễn Kiệt cõng bạn về; thái y vào chữa. Thanh Từ chạy theo nhưng bị chặn ở cửa, đứng chờ suốt ba ngày với gương mặt gầy hẳn đi. Ngày thứ ba bạn tỉnh, nhìn anh bằng đôi mắt xa lạ: «hắn là?». Đoàn thái y nói nữ hoàng va đầu nên mất một phần ký ức; Thanh Từ hỏi từng người ra vào, ai cũng đáp bệ hạ không nhận ra. Khi gặp lại bạn, anh bị lạnh nhạt: «trẫm từng quen Chu thị quân sao?»; bạn nói ấn tượng sâu nhất là hoàng phu. Bạn có thể giả lạnh nhạt, hoặc giả lơ mơ.",
+      "tieu": "Màn mất trí nhớ bắt đầu rồi đó. Lạnh nhạt hay lơ mơ?",
+      "cast": "th_nhan,th_tu,th_doan,tc",
+      "ch": [
+        {
+          "t": "Giả lạnh nhạt, nhìn anh như người lạ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ánh mắt Thanh Từ chùng xuống, bàn tay siết chặt trong tay áo rồi buông. Anh tin.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn lạnh quá, Đoàn thái y liếc nhìn bạn đầy ngờ vực.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Giả lơ mơ, hỏi ngược lại anh là ai",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh trả lời từng câu rất kiên nhẫn, nhưng bạn thấy rõ trong mắt anh có điều gì vừa vỡ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn hỏi sai chỗ, Thanh Từ chớp mắt nghi ngờ.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Đoàn thái y giải thích thay",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Đoàn thái y nói rất lưu loát, Thanh Từ không hỏi thêm câu nào.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Thái y nói quá chi tiết, Thanh Từ nhíu mày.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Ba ngày sau, tẩm cung nữ hoàng. Bạn giả vờ vừa tỉnh dậy và mất trí nhớ.",
+      "no": 35
+    },
+    {
+      "id": "x36",
+      "scene": "gcourt",
+      "place": "Điện Tuyên Chính · Năm ngày sau",
+      "kind": "chon",
+      "title": "Giải tán hậu cung",
+      "text": "Bạn tuyên bố giải tán hậu cung: phu hầu còn trong trắng, ai muốn gả thì ban hôn, ai không muốn thì ban nhà và của hồi môn. Triều thần phản đối; bạn nắm điểm yếu từng người rồi chỉnh, họ đành im. Hơn bốn thành xin ra cung ngay; bạn ban nhà ở kinh thành, mặt tiền và tiền cho họ. Hoàng phu thêm: «nếu bị người nhà làm khó cứ tìm ta». Bạn có thể ban rộng tay, hoặc vừa đủ.",
+      "tieu": "Giải tán hậu cung là một nước cờ lớn. Ban rộng tay hay vừa đủ?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Ban rộng tay, nhà mặt tiền và tiền cho mỗi người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Các phu hầu cúi lạy, nhiều người mắt đỏ hoe. Cả kinh thành sau đó đều nói nữ hoàng nhân hậu.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn ban nhiều hơn dự tính, quốc khố hơi eo hẹp.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Ban vừa đủ, theo đúng lệ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn tính toán chính xác từng khoản, triều thần không bắt bẻ được chỗ nào.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Có hai người chê bai ít ỏi, bạn phải xử lý thêm.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để hoàng phu cùng quyết, hỏi ý kiến anh",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh đề nghị đúng một con số hợp lý; bạn cười và duyệt luôn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh không biết nên đề nghị thế nào, mất cả buổi bàn bạc.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Năm ngày sau, điện Tuyên Chính. Bạn tuyên bố giải tán hậu cung.",
+      "no": 36
+    },
+    {
+      "id": "x37",
+      "scene": "gpalace",
+      "place": "Cung nữ hoàng · Mười ngày sau",
+      "kind": "chon",
+      "title": "Thanh Từ xin từ",
+      "text": "Trong cung chỉ còn hoàng phu và Thanh Từ; bạn hạn một tháng cho anh. Thanh Từ chờ thêm vài ngày hy vọng bạn nhớ ra, rồi đến xin từ. Bạn nói từ trước hình như bạn thích nghe đàn; hiện nay bạn thích xem hoàng phu múa kiếm. Anh lặng người, hành lễ rồi lùi ra; ở cửa anh quay lại nhìn, bạn đã quay sang Nghiễn Kiệt. Bạn có thể tiễn bằng một câu, hoặc không nói gì.",
+      "tieu": "Màn cuối cho kẻ này đây. Tiễn bằng một câu hay không nói gì?",
+      "cast": "th_nhan,th_tu,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Tiễn bằng một câu: «đi bình an»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh khựng lại ở cửa một khắc rồi bước tiếp, lưng thẳng như chưa từng cong.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Giọng bạn nghe quá lạnh, anh mím môi bước đi không ngoảnh lại.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Không nói gì, chỉ gật đầu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh đọc ra rằng đây là câu trả lời cuối cùng, và không nài nữa.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh nấn ná thêm một lát, bạn phải ra hiệu cho cung nhân dẫn đi.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Quay sang hoàng phu, như anh không còn ở đó",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Thanh Từ nhìn cảnh hai người bên nhau, hít một hơi, rồi cúi chào lần cuối.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh đứng lại ở cửa thêm một khắc nữa mới chịu đi.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Mười ngày sau, cung nữ hoàng. Thanh Từ xin được rời cung.",
+      "no": 37
+    },
+    {
+      "id": "x38",
+      "scene": "gbanquet",
+      "place": "Hoàng thành và tửu lâu kín · Vài tuần sau",
+      "kind": "duyen",
+      "title": "Hai kẻ rời cung",
+      "text": "Thanh Từ gặp Yến Thế Lãng trong một tửu lâu kín, nhận ngọc bài và thư mật để sang Bắc Yến, thu lại thế lực cũ của hắn; Thế Lãng không còn tự do vì đã là sườn phu của Nguyệt Vương. Rồi anh tới sân nhỏ, rủ Dật Phong đi cùng; Dật Phong từ chối, nói chỉ muốn ở lại nhìn vật nhớ người. Anh thề sẽ trở lại. Tiểu Châu theo dõi giúp bạn. Bạn có thể cho người đi theo Thanh Từ từ xa, hoặc mặc.",
+      "tieu": "Hai kẻ kia đang đi những con đường khác nhau. Cho người theo từ xa hay mặc?",
+      "cast": "th_tu,th_lang,th_phong,tc",
+      "ch": [
+        {
+          "t": "Cho người theo Thanh Từ từ xa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Người của bạn theo tới tận biên giới, báo lại từng bước anh đi.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "theo_doi"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Người của bạn mất dấu ở một ngã ba, phải quay về.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Ghi nhận lại qua Tiểu Châu, không phái người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Châu ghi đầy đủ lời Thanh Từ hứa với Thế Lãng; bạn đọc đi đọc lại cho thật kỹ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "theo_doi"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Tiểu Châu bị nhiễu tín hiệu, bạn chỉ nghe được nửa câu.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Mặc cho anh đi, chỉ canh biên giới",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh đi rất lặng lẽ, biên giới không có động tĩnh gì.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Một tin báo muộn từ biên giới khiến bạn lo cả đêm.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Vài tuần sau, hoàng thành và tửu lâu kín. Bạn theo dõi qua Tiểu Châu.",
+      "no": 38
+    },
+    {
+      "id": "x39",
+      "scene": "gcourt",
+      "place": "Điện Tuyên Chính · Một sáng",
+      "kind": "chon",
+      "title": "Nhận việc tra quan tham",
+      "text": "Bạn triệu Dao Nguyệt vào, khen nàng khôi phục tốt, nói đã đến lúc nàng làm việc cho nước: đi các nơi tra quan tham, chứng cứ rõ ràng thì xử theo luật. Bạn cho hai lão thần theo làm trợ lý và một nhóm hộ vệ. Dao Nguyệt vui, rồi tái mặt khi thấy cả rương mật chiết; nàng mỗi năm chỉ được về một lần dịp tất niên. Hai tháng sau, lễ Đăng điển của bạn diễn ra yên ả và hoàng phu dọn vào tẩm cung. Bạn có thể dạy nàng cách phân loại mật chiết, hoặc để nàng tự học.",
+      "tieu": "Tỷ tỷ của ngươi sắp thành người trị nước. Dạy nàng phân loại mật chiết hay để nàng tự học?",
+      "cast": "th_nhan,th_nguyet,tc",
+      "ch": [
+        {
+          "t": "Dạy nàng cách phân loại mật chiết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn dạy cách đọc mật chiết theo ba loại: gấp, quan trọng, có thể chờ. Nàng ghi chép lia lịa.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói quá nhanh, nàng ghi nhầm nửa số chỗ.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Để nàng tự học, chỉ nhắc điểm mấu chốt",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nàng tự mày mò, tự rút ra cách riêng, ánh mắt sáng rực khi nhận ra điều gì đó.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Nàng bị rối giữa núi mật chiết, mất cả buổi mới tìm ra đầu mối.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Cho hai lão thần dẫn nàng đi một vòng đầu tiên",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai lão thần dẫn nàng đi đúng vào những chỗ dễ nhất; chuyến đầu thuận lợi.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Hai lão thần cãi nhau suốt đường, nàng nghe đến đau đầu.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một sáng, điện Tuyên Chính. Nguyệt Vương đã hồi phục, bạn giao việc cho nàng.",
+      "no": 39,
+      "learn": {
+        "n": "Phân loại mật chiết",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x40",
+      "scene": "vyard",
+      "place": "Cung hoàng phu · Một tối nhiều năm sau",
+      "kind": "nan",
+      "title": "Thọ mệnh",
+      "text": "Nhiều năm sau, thấy Dao Nguyệt đã thành người làm việc có tài, Nghiễn Kiệt hỏi vì sao bạn dụng tâm bồi dưỡng nàng. Bạn hỏi anh muốn nghe thật không, rồi nói: thọ mệnh của bạn chỉ còn mười mấy năm, «ngươi ngoan thì kiếp sau còn gặp ta». Anh sững, im rất lâu rồi vùi đầu vào đầu gối bạn: «kiếp sau em phải tìm anh». Tiểu Châu đã báo trước chuyện này và nhắc: đây là nỗi đau cuối cùng của anh. Bạn có thể nói hết mọi chuyện, hoặc chỉ hẹn kiếp sau cho anh nhẹ lòng.",
+      "tieu": "Chuyện này ngươi không giấu được nữa. Nói hết hay chỉ hẹn kiếp sau?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Nói hết: thọ mệnh, kế hoạch truyền ngôi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn nói rõ từng điều. Anh nghe xong, siết tay bạn: «ta sẽ giữ nước cho em».",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn nói quá nhiều một lúc, anh nghe mà ngập trong buồn, không đáp nổi một câu.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          },
+          "soft": true
+        },
+        {
+          "t": "Chỉ hẹn kiếp sau, ôm anh thật chặt",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh vùi mặt vào vai bạn, im lặng. Phải rất lâu sau anh mới nói: «ta chờ».",
+            "d": {
+              "ac": -5,
+              "hac": -6,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh nghẹn ngào, nước mắt thấm áo bạn nhưng không nói gì.",
+            "d": {
+              "sinh": -2,
+              "hao": -3
+            }
+          },
+          "soft": true
+        },
+        {
+          "t": "Kể lại kỷ niệm đẹp để anh nguôi dần",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nghe bạn kể về lần ngủ trưa ở hoa viên, bật cười một chút trong nước mắt.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Bạn kể sai một chi tiết, anh nhíu mày rồi im lặng.",
+            "d": {
+              "sinh": -2,
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một tối nhiều năm sau, cung hoàng phu. Tiểu Châu đã báo trước chuyện thọ mệnh.",
+      "no": 40
+    },
+    {
+      "id": "x41",
+      "scene": "gcourt",
+      "place": "Điện Tuyên Chính · Mười năm sau",
+      "kind": "hiem",
+      "title": "Mười năm và chén độc",
+      "text": "Tiểu Châu tóm lại mười năm: Dao Nguyệt đi khắp nước tra quan tham, bị ám sát nhiều lần, thành người bênh dân; trong phủ, Ngọc Hành và Thu Đường ngoan, Thế Lãng bị quản chặt. Rồi Thế Lãng hạ độc vào thức ăn của Nguyệt Vương, may Ngọc Hành phát hiện. Dao Nguyệt đem hắn vào cung; hắn nói hắn không thích nàng và muốn nhục nhã khi bị ép làm sườn phu. Nàng bình tĩnh: «ngươi chỉ cần an phận». Bạn có thể giam hắn ở Thanh Tịnh Tự suốt đời, hoặc trả về Bắc Yến, nhưng trả về sẽ cho Bắc Yến cớ gây chiến.",
+      "tieu": "Một chén độc nhỏ mà thành chuyện lớn. Giam ở Thanh Tịnh Tự hay trả về Bắc Yến?",
+      "cast": "th_nhan,th_nguyet,th_lang,th_hanh,tc",
+      "ch": [
+        {
+          "t": "Giam ở Thanh Tịnh Tự suốt đời",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn đóng ấn chiếu chỉ; hắn bị đưa vào chùa, còn Bắc Yến không có lý do gì gây chiến.",
+            "d": {
+              "ac": -7,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bắc Yến phản đối, bạn phải đưa ra thêm chứng cứ.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Trả về Bắc Yến, kèm thư giải thích",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bạn viết một bức thư vừa mềm vừa cứng; Bắc Yến nhận hắn về và im lặng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bắc Yến nhận hắn về nhưng lấy cớ đòi thêm sính lễ.",
+            "d": {
+              "sinh": -4,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Giao cho Dao Nguyệt quyết định",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dao Nguyệt chọn đúng cách xử, và cả triều đình nhìn nàng bằng ánh mắt khác.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Nàng ngập ngừng, và Thế Lãng thừa cơ nói thêm vài lời khó nghe.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "ctx": "Mười năm sau, điện Tuyên Chính. Thế Lãng bị bắt vì hạ độc Nguyệt Vương.",
+      "no": 41
+    },
+    {
+      "id": "x42",
+      "scene": "rhill",
+      "place": "Biên giới Bắc Yến · Hai mươi năm sau",
+      "kind": "chon",
+      "title": "Bắc Yến đổi chủ",
+      "text": "Tiểu Châu tóm lại hai mươi năm: Chu Thanh Từ ở Bắc Yến từng bước thành tâm phúc, làm phò mã của công chúa Yến Lan Vân, người hiền và hồn nhiên, rồi lão hoàng đế Yến hoàng truyền ngôi cho anh vì các hoàng tử đều bất tài; anh hứa cho con của Lan Vân mang họ Yến. Anh không quên bạn, và đang chuẩn bị tấn công Tuyên Hòa. Biên giới có Tống tướng quân canh giữ. Bạn có thể tăng quân biên giới, hoặc cử sứ giả dò thái độ.",
+      "tieu": "Người cũ giờ là hoàng đế rồi đấy. Tăng quân biên giới hay cử sứ giả dò?",
+      "cast": "th_nhan,th_tu,th_van,th_hoang,th_tuong,tc",
+      "ch": [
+        {
+          "t": "Tăng quân biên giới, giao cho Tống tướng quân",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tống tướng quân nhận lệnh, chỉ thiếu điều thề; quân trấn ải được tăng thêm hai đạo.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Quân tăng chậm vì lương thảo chưa đủ, phải chờ thêm một tuần.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Cử sứ giả dò thái độ, kèm một lá thư riêng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sứ giả trở về với tin tốt: Thanh Từ chưa quyết định đánh, và vẫn giữ lá thư của bạn.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Sứ giả bị chặn ở cửa ải, phải quay về với hai bàn tay trắng.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Ghi nhận và chờ thêm tin, giữ nguyên quân",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tin báo sau đó cho thấy Bắc Yến chỉ diễn tập; bạn tiết kiệm được một khoản lớn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Tin báo sau đó khiến bạn lo: quân Bắc Yến tiến thêm một đoạn.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Hai mươi năm sau, tin báo từ biên giới Bắc Yến. Tiểu Châu tóm lại hai mươi năm qua.",
+      "no": 42
+    },
+    {
+      "id": "x43",
+      "scene": "gcourt",
+      "place": "Điện Tuyên Chính · Một chiều",
+      "kind": "chon",
+      "title": "Truyền ngôi",
+      "text": "Bạn hỏi Dao Nguyệt có muốn làm hoàng đế không; nàng sợ phát run, nghĩ bạn muốn gán tội. Bạn cho dọn long bào thêu công phu, mười tiên sinh là các lão thần đã cáo lão tới dạy; nàng hiểu bạn nghiêm túc và hỏi vì sao. Bạn nói: «vì thời gian của trẫm không nhiều». Hạ Dao Nguyệt lo lắng, đi hỏi hoàng phu; anh đáp bạn sẽ không nói dối chuyện này. Bạn có thể giữ nàng ở lại trong cung, hoặc cho nàng về phủ rồi gọi lại.",
+      "tieu": "Chiếc ngai này sắp có chủ mới rồi. Giữ nàng ở lại hay cho nàng về phủ?",
+      "cast": "th_nhan,th_nguyet,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Giữ nàng ở lại trong cung, học việc từng ngày",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Nàng ở lại, học cách ngồi ghế rồng từng chút một. Mỗi ngày nàng vững hơn.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Nàng mất ngủ, thức trắng mấy đêm vì áp lực.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Cho nàng về phủ, bình tâm suy nghĩ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Nàng về, nói chuyện với Ngọc Hành suốt đêm, hôm sau đã hạ quyết tâm.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Nàng về phủ rồi mãi không vào cung, bạn phải gọi lại.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nói thật với nàng toàn bộ chuyện của bạn",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nàng khóc, rồi lau nước mắt, nói nàng hiểu và sẽ làm tốt.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Nàng quá xúc động, không nói nổi gì trong một canh giờ.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một chiều, điện Tuyên Chính. Dao Nguyệt đã quen việc nước.",
+      "no": 43
+    },
+    {
+      "id": "x44",
+      "scene": "ggarden",
+      "place": "Điện Tuyên Chính và Ngự Hoa Viên · Một tháng sau",
+      "kind": "chon",
+      "title": "Lễ đăng cơ",
+      "text": "Dao Nguyệt mặc long bào đăng cơ, quay đầu lại thì thấy bạn ngồi xem hoàng phu múa kiếm trong Ngự Hoa Viên. Bạn dặn nàng giữ biên giới Bắc Yến, chớ tin hay nghi lời ai chỉ vì họ là nam hay nữ. Nàng hứa. Tối đó hai vợ chồng ngồi ăn cùng nhau, anh múa kiếm, bạn khen; anh hỏi mai bạn còn ở đây không, bạn nói ngày mai Tiểu Châu sẽ đến đón bạn. Bạn có thể nói thêm điều gì đó với anh, hoặc chỉ ngồi cạnh.",
+      "tieu": "Đêm cuối của người này đây. Nói thêm điều gì hay chỉ ngồi cạnh?",
+      "cast": "th_nhan,th_nguyet,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Nói với anh: «ta rất vui vì đã gặp ngươi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đặt kiếm xuống, ngồi cạnh bạn, tay trong tay. Hai người im lặng ngắm trăng thật lâu.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Giọng bạn run, anh nhận ra và nắm chặt tay bạn.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ ngồi cạnh, tựa vai anh",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh không nói gì, chỉ ngồi im để bạn tựa. Gió đêm mát và có mùi hoa.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn ngủ quên trên vai anh, anh ngồi bất động đến sáng.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ anh múa thêm một bài kiếm nữa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh múa bài kiếm đẹp nhất bạn từng thấy, ánh trăng chạy dọc lưỡi kiếm.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh múa sai một thế vì quá xúc động, rồi cười ngượng.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một tháng sau, điện Tuyên Chính và Ngự Hoa Viên. Lễ đăng cơ của Dao Nguyệt.",
+      "no": 44
+    },
+    {
+      "id": "x45",
+      "scene": "ggarden",
+      "place": "Tẩm cung và Ngự Hoa Viên · Sáng hôm sau",
+      "kind": "nan",
+      "title": "Lời kết",
+      "text": "Tiểu Châu báo nhiệm vụ đã xong. Anh siết tay bạn: «mang anh theo được không?» Bạn nói không biết; anh hỏi «kiếp sau em vẫn là Nhan Nhi của anh chứ?»; bạn đáp «tùy anh biểu hiện». Lời kết của bạn tùy vào cách anh nhìn bạn ra đi và những gì hai người đã đi qua. Tiểu Châu kể thêm cho bạn nghe: Dật Phong sống lặng trong sân nhỏ giữ kỷ vật, Thanh Từ nhiều lần lén vào lăng viếng và bị đuổi. Bạn có thể nói lời cuối bằng một câu, hoặc nắm tay anh thật lâu.",
+      "tieu": "Tới lúc rồi, ngươi chọn lời cuối cho mình nhé. Một câu hay nắm tay thật lâu?",
+      "cast": "th_nhan,th_kiet,tc",
+      "ch": [
+        {
+          "t": "Nói: «A Kiệt, kiếp sau ta tìm ngươi»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh cười, nước mắt chảy dài. Gió nổi lên, bạn tan thành những đốm sáng nhỏ trong vòng tay anh.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Giọng bạn nghẹn, anh vòng tay ôm chặt như sợ bạn tan mất ngay.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Nắm tay anh thật lâu, không nói gì",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh hiểu hết. Anh nắm tay bạn cho tới khi bàn tay bạn nhẹ dần.",
+            "d": {
+              "ac": -5,
+              "hac": -6,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nắm quá lâu, Tiểu Châu phải nhắc nhỏ rằng đã đến giờ.",
+            "d": {
+              "sinh": -2,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu cho thêm một khắc nữa",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu thở dài rồi gật đầu. Hai người có thêm một buổi sáng nữa bên nhau.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Tiểu Châu lắc đầu: «đủ rồi, hết giờ». Bạn phải đi ngay.",
+            "d": {
+              "sinh": -2,
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, tẩm cung và Ngự Hoa Viên. Tiểu Châu đến đón bạn.",
+      "no": 45
+    }
+  ],
+  "wound": {
+    "h": 5.06,
+    "b": 8.55,
+    "x": 1.23
+  }
+}

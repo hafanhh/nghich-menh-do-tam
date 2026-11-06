@@ -1,0 +1,3876 @@
+{
+  "id": "w21",
+  "no": 21,
+  "chapEnd": [
+    9,
+    19,
+    27,
+    33,
+    41,
+    46
+  ],
+  "prog": [
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 1
+    },
+    {
+      "ac": -1,
+      "hac": -1,
+      "hao": 1
+    },
+    {
+      "ac": -1,
+      "hac": -2,
+      "hao": 1
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 1
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 1
+    },
+    {
+      "ac": -2,
+      "hac": -2,
+      "hao": 1
+    }
+  ],
+  "pbias": -0.0558,
+  "p0": {
+    "mi": 60,
+    "tri": 58,
+    "van": 52
+  },
+  "params": {
+    "b1": 1.5,
+    "b2": 4.7,
+    "bad": 12,
+    "ac": 0.85,
+    "hac": 1.1,
+    "hao": 0.7,
+    "h0": 58,
+    "sd": 1,
+    "s28b": 16,
+    "s28s": 8
+  },
+  "names": {
+    "mt_mat": "Đàm Tiểu Mật",
+    "mt_doan": "Doãn Tư Thanh",
+    "mt_ta": "Tạ Vân Khiêm",
+    "mt_chu": "Chu Dục Thành",
+    "mt_vien": "Đoàn Tư Viễn",
+    "mt_y": "Lạc Tiểu Y",
+    "mt_dinh": "Phạm Y Đình",
+    "mt_me": "Lương Thục Quyên",
+    "mt_ngo": "Cô Ngô Thúy Hà",
+    "mt_banh": "Cô Bành Tố Trinh",
+    "mt_duong": "Dương tổng",
+    "mt_quach": "Dì Quách",
+    "tc": "Tiểu Châu"
+  },
+  "canonReason": "",
+  "note": "Chân dung thế giới 21 đang chờ ảnh, tạm hiện chữ cái đầu tên. Cảnh dùng lại hình vẽ tạm của các thế giới trước.",
+  "fixed": "",
+  "ends": {
+    "true": {
+      "n": "Chén kem ngày tốt nghiệp",
+      "c": "Tiểu Châu đọc kết quả: đạt, trọn vẹn. Ác niệm của Doãn Tư Thanh đã về không. Anh không còn gọi vệ sĩ, cũng không còn đứng ngoài khi người ta nói xấu bạn. Ngày tốt nghiệp, hai người đi đăng ký kết hôn; anh đưa cổ phần, thẻ ngân hàng và chiếc nhẫn, rồi ngồi cùng bạn trước một chén kem mười hai vị. Quỹ «Lời Thật» vẫn chạy mỗi năm, và anh luôn là người đầu tiên đứng ra làm chứng.",
+      "gain": 120,
+      "piece": 1,
+      "heat": 0.1,
+      "scene": "ztea"
+    },
+    "near": {
+      "n": "Một lời xin lỗi đến muộn",
+      "c": "Tiểu Châu đọc kết quả: đạt, nhưng chưa trọn. Doãn Tư Thanh vẫn còn thói dùng thế lực nhà khi nóng giận, nên mỗi lần bạn phải nhắc anh trước khi anh kịp nhấc điện thoại. Anh nghe, và học dần cách dừng lại. Ngày tốt nghiệp anh nắm tay bạn thật chặt, như sợ chỉ cần buông ra là mọi thứ lại sai.",
+      "gain": 90,
+      "piece": 1,
+      "heat": 0.35,
+      "scene": "street"
+    },
+    "half": {
+      "n": "Hai chiếc ghế cạnh cửa sổ",
+      "c": "Tiểu Châu đọc kết quả: chưa đạt... nhưng bạn đã thắng vụ kiện và giữ được mẹ. Doãn Tư Thanh vẫn ở bên bạn, chỉ là mỗi khi có ai nói xấu, anh vẫn im lặng thêm một nhịp trước khi lên tiếng. Hai người ngồi hai chiếc ghế cạnh cửa sổ thư viện đại học, ngồi rất gần nhau, và rất hay không nói gì.",
+      "gain": 60,
+      "piece": 0,
+      "heat": 0.6,
+      "scene": "school"
+    },
+    "black": {
+      "n": "Chiếc xe đen trước cổng trường",
+      "c": "Hắc hóa của Doãn Tư Thanh chạm 100. Anh dùng cả thế lực nhà để buộc nhà trường, phụ huynh và báo chí phải im lặng, và cả trường lặng đi dưới bóng chiếc xe đen đỗ trước cổng. Bạn đứng giữa sân, nhìn anh bước xuống mà thấy anh xa lạ. Tiểu Châu kéo bạn đi khi anh vẫn đứng đó, bàn tay còn giơ ra nửa chừng.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 1,
+      "scene": "street"
+    },
+    "bdead": {
+      "n": "Ngọn đèn trong phòng học tắt",
+      "c": "Sinh mệnh của Doãn Tư Thanh cạn về 0. Anh dồn mọi thứ vào bạn, vào vụ kiện và vào việc tự sửa mình, không còn chừa gì cho bản thân. Một đêm cuối mùa thi, ngọn đèn trong phòng học của anh tắt, cuốn sổ toán mở ở trang còn dở. Bạn đứng trước cửa phòng rất lâu. Tiểu Châu khẽ gọi bạn về khi trời bắt đầu sáng.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.9,
+      "scene": "zstudy"
+    },
+    "dead": {
+      "n": "Bậc thềm trước tòa án",
+      "c": "Sinh mệnh của bạn cạn về 0. Bạn gục xuống trên bậc thềm trước tòa, sau một mùa lo quá nhiều việc cùng lúc, trước khi kịp đọc hết danh sách. Tiểu Châu kéo bạn đi khi ở đâu đó trong thành phố, Doãn Tư Thanh vẫn đang chạy về phía tòa với tập hồ sơ còn nguyên trong tay.",
+      "gain": 0,
+      "piece": 0,
+      "heat": 0.8,
+      "scene": "zoffice"
+    }
+  },
+  "events": [
+    {
+      "id": "x01",
+      "scene": "ztea",
+      "place": "Quán kem sau giờ học · Chiều",
+      "kind": "duyen",
+      "title": "Quán kem sau giờ học",
+      "text": "Bạn vừa từ chối để Tạ Vân Khiêm đưa về, tự lấy xe đạp theo Tiểu Châu tới một quán kem nhỏ. Ngồi ở góc quán, bạn tiếp nhận ký ức: bạn là Đàm Tiểu Mật, mười bảy tuổi, giáo hoa trường Minh Triết, đứng đầu khối, sống với mẹ đơn thân Lương Thục Quyên và đi làm MC thêm. Ba cậu ấm Tạ Vân Khiêm, Chu Dục Thành và Đoàn Tư Viễn đang chơi trò «công lược» bạn: tung tin bạn bị bao nuôi, rồi vào vai người duy nhất tin bạn. Theo kết cục cũ, bạn bị khai trừ, mẹ mất việc, và bạn không đứng dậy nổi. Tiểu Châu giao nhiệm vụ: cậu ấm thứ tư, Doãn Tư Thanh, người biết trò chơi mà đứng ngoài. Bạn quyết định không bỏ chạy.",
+      "tieu": "Dậy rồi hả? Kịch bản cũ ngươi thấy rồi đấy. Lần này người cần cảm hóa là Doãn Tư Thanh, kẻ biết mà đứng ngoài. Ngươi tính thế nào?",
+      "cast": "mt_mat,mt_ta,mt_chu,mt_vien,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Nhờ Tiểu Châu tóm tắt lại toàn bộ kịch bản cũ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu kể thứ tự từng bước, bạn ghi nhớ từ lời đồn đầu tiên đến ngày bị khai trừ. Từ giờ bạn đi trước họ một nhịp.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nghe nhầm thứ tự hai sự kiện. Phải hỏi lại Tiểu Châu một lần nữa.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Ăn hết cốc kem, bình tĩnh nghĩ cách",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Vị kem lạnh làm đầu óc bạn tỉnh hẳn. Bạn nhìn gương mặt mình trong cửa kính và thấy mình sẵn sàng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn ăn vội, buốt cả đầu, mất cả buổi mới hết tê.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Đạp xe về nhà, để mai tính tiếp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Gió chiều làm bạn nhẹ lòng, bạn về tới nhà lúc mẹ vừa gọi điện hỏi thăm.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Xe đạp xì hơi giữa đường, bạn phải dắt về.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, quán kem sau giờ học. Bạn vừa từ chối để Tạ Vân Khiêm đưa về.",
+      "no": 1
+    },
+    {
+      "id": "x02",
+      "scene": "school",
+      "place": "Lớp học · Sáng hôm sau",
+      "kind": "chon",
+      "title": "Lớp học sáng hôm sau",
+      "text": "Cả lớp nhìn bạn khinh bỉ vì tin đồn «bị người lớn bao nuôi». Phạm Y Đình, bạn cùng bàn, ghen vì bạn xinh và giỏi, lại sợ bị liên lụy, mỉa mai trước lớp: «có người thật là có số». Bạn đứng lên, đòi chứng cứ, và nói sẽ kiện nếu còn bị xúc phạm. Lớp bớt nói trước mặt bạn, nhưng sau lưng thì không. Bạn có thể nói thẳng một câu cuối trước lớp, hoặc chỉ lặng lẽ ngồi xuống và ghi lại.",
+      "tieu": "Họ đang thử xem ngươi chịu được tới đâu. Nói thẳng hay lặng lẽ ghi lại?",
+      "cast": "mt_mat,mt_dinh,tc",
+      "ch": [
+        {
+          "t": "Nói thẳng trước lớp: «ai nói có bằng chứng thì nộp»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả lớp im lặng; Phạm Y Đình đỏ mặt cúi đầu. Bạn ngồi xuống, tay không run.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói quá gắt, vài bạn nữ thì thầm rằng bạn quá đáng.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Lặng lẽ ngồi xuống, bảo Tiểu Châu ghi lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu ghi đủ từng lời mỉa mai, từng ánh mắt. Bạn thấy mình có thêm một xấp bằng chứng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Tiểu Châu bắt hụt một đoạn vì lớp đang ồn.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Mỉm cười với Phạm Y Đình, không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Phạm Y Đình lúng túng, rồi chuyển đề tài sang bài tập.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Phạm Y Đình hiểu nụ cười đó là thách thức và càng ghét bạn.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng hôm sau, lớp học. Cả lớp xì xào về tin đồn bạn bị bao nuôi.",
+      "no": 2
+    },
+    {
+      "id": "x03",
+      "scene": "zstudy",
+      "place": "Căn tin · Giờ ăn trưa",
+      "kind": "chon",
+      "title": "Suất cơm mười lăm đồng",
+      "text": "Dì Quách múc cơm cố tình cho cực ít, bỏ qua bạn cả mười lăm phút vì ghét tin đồn. Cả hàng người nhìn, vài người cười. Bạn lặng lẽ bảo Tiểu Châu ghi hình. Đoạn camera căn tin cũng được Tiểu Châu giữ lại. Bạn cầm khay cơm ít ỏi ngồi xuống một góc, ăn từ tốn như thể không có chuyện gì. Tạ Vân Khiêm và Chu Dục Thành ngồi cách đó vài bàn, nhìn bạn ăn một mình. Bạn có thể đăng đoạn ghi hình lên mạng ngay, hoặc giữ lại làm bằng chứng.",
+      "tieu": "Dì múc cơm vừa tự bỏ vào hồ sơ của ngươi một đoạn rất đáng giá. Đăng ngay hay giữ lại?",
+      "cast": "mt_mat,mt_quach,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Đăng đoạn ghi hình lên mạng ngay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đoạn ghi hình lan nhanh; ngay chiều đó phóng viên vào trường và dì Quách bị đình chỉ.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "ghi_hinh"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Đoạn ghi hình bị xóa nhanh, chỉ còn vài chục lượt xem.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Giữ lại làm bằng chứng, chưa đăng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn giữ nguyên bản gốc, có mốc thời gian, về sau không ai cãi được.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "ghi_hinh"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn quên lưu bản gốc, phải nhờ Tiểu Châu trích lại.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Bình thản ăn tiếp, đi ra không nói gì",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Một bạn nữ đứng sau thấy cảnh đó, lẳng lặng đứng về phía bạn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn vội đi, bỏ quên chiếc khăn tay trong căn tin.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Giờ ăn trưa, căn tin. Dì Quách cố tình múc cho bạn ít cơm.",
+      "no": 3,
+      "learn": {
+        "n": "Ghi hình bằng chứng",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x04",
+      "scene": "school",
+      "place": "Hành lang · Chiều",
+      "kind": "chon",
+      "title": "Hai người «bạn» đầu tiên",
+      "text": "Tạ Vân Khiêm và Chu Dục Thành bước tới nói họ tin bạn và đưa bạn về lớp; Tiểu Châu nhắc đó là bước một của trò chơi. Bạn nhận ngồi ăn cùng nhưng không đụng vào đồ của họ. Chiều đó phóng viên vào trường điều tra đoạn video, dì Quách bị sa thải ngay. Hai cậu ấm càng tin bạn đáng thương, càng muốn ở gần bạn và theo bạn đi làm thêm. Bạn có thể nhận lời cùng đi, hoặc từ chối để giữ khoảng cách.",
+      "tieu": "Bước một của trò chơi đây. Nhận lời cùng đi hay giữ khoảng cách?",
+      "cast": "mt_mat,mt_ta,mt_chu,mt_quach,tc",
+      "ch": [
+        {
+          "t": "Nhận ngồi ăn cùng nhưng không nhận quà",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người nhìn nhau, hơi bối rối vì không thể tặng gì cho bạn. Bạn nhẹ nhàng giữ khoảng cách đúng mức.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Chu Dục Thành nhét một hộp sữa vào cặp bạn lúc bạn không để ý.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Giữ khoảng cách, chỉ nói chuyện ở nơi đông người",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn chỉ nhận cuộc nói chuyện ở chỗ công khai, mọi lời của họ đều có người chứng kiến.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Họ bám bạn hơn khi bị từ chối, và bạn mất thêm một buổi để thoát.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Cười xòa, hẹn lần sau",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người vui vẻ rời đi, tưởng bạn đã dần mềm lòng.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn hẹn nhầm giờ, hai người hiểu là bạn đồng ý đi ngay hôm nay.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, hành lang trường. Hai cậu ấm tới nói họ tin bạn.",
+      "no": 4
+    },
+    {
+      "id": "x05",
+      "scene": "zmall",
+      "place": "Cửa hàng của Dương tổng · Cuối tuần",
+      "kind": "duyen",
+      "title": "Buổi làm MC cho Dương tổng",
+      "text": "Tạ và Chu bám theo bạn tới cửa hàng của Dương tổng, lần đầu thấy bạn tự tin rực rỡ trên sân khấu bán hàng. Bạn nhận hoa hồng lớn cùng một phong bì. Rồi bạn mời họ ăn để trả ơn thay vì nhận quà. Hai người thấy bạn khác hẳn ở trường nên càng muốn vạch trần «bản chất hám vinh hoa» của bạn. Bạn có thể giải thích vì sao bạn đi làm, hoặc không nói gì.",
+      "tieu": "Họ đang nhìn ngươi, và chưa hiểu mình đang nhìn gì. Giải thích hay im lặng?",
+      "cast": "mt_mat,mt_ta,mt_chu,mt_duong,tc",
+      "ch": [
+        {
+          "t": "Giải thích bạn đi làm vì cần tiền chữa bệnh cho mẹ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người im lặng một lúc. Họ không biết đáp thế nào và bạn nhận ra họ cũng có chỗ mềm.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói hơi nhiều, họ nghe xong nghi ngờ nhiều hơn.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Không nói gì, mời họ ăn trả ơn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Họ ăn rất ngon miệng, bạn thấy lòng nhẹ. Bạn nhớ rõ mỗi món họ thích.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn gọi nhầm món họ dị ứng, Tạ Vân Khiêm ho mãi.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Dương tổng nói thay mấy câu",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Dương tổng khen bạn trước mặt hai cậu ấm; họ nhìn bạn khác đi một chút.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Dương tổng nói hơi quá, hai cậu ấm nhìn nhau cười nhếch.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối tuần, cửa hàng của Dương tổng. Bạn làm MC bán hàng, hai cậu ấm đứng xem.",
+      "no": 5,
+      "learn": {
+        "n": "Dẫn chương trình bán hàng",
+        "s": "mi",
+        "v": 1
+      }
+    },
+    {
+      "id": "x06",
+      "scene": "street",
+      "place": "Quán nướng đêm thứ Sáu",
+      "kind": "duyen",
+      "title": "Nướng đêm thứ Sáu",
+      "text": "Bạn dẫn hai cậu ấm tới một quán nướng cay ven đường, lần đầu cho họ đưa bạn về tận nhà. Họ tự cho rằng đã tới gần bạn. Còn bạn về nhà nói với mẹ chuyện kiếm tiền; mẹ ủng hộ và dặn đừng quên học. Tiểu Châu nhắc bạn cần vốn lớn hơn nhiều so với tiền làm thêm. Bạn có thể mượn vốn của mẹ ngay, hoặc thử kiếm thêm bằng cách khác trước.",
+      "tieu": "Họ ăn cay mà mặt đỏ như tôm luộc. Còn ngươi đã nghĩ ra nguồn vốn chưa?",
+      "cast": "mt_mat,mt_ta,mt_chu,mt_me,tc",
+      "ch": [
+        {
+          "t": "Hỏi mẹ mượn vốn, nói thẳng kế hoạch",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mẹ nhìn bạn rất lâu, rồi gật đầu: «con gái mẹ lớn rồi». Bạn thấy sống mũi cay.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Mẹ lo lắng, bạn phải giải thích thêm hai lần mới yên.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu lập kế hoạch kiếm thêm bằng tiền công làm MC",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Tiểu Châu lập một bảng chi tiết, bạn thấy lộ trình rõ ràng dù vốn nhỏ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bảng tính sai một con số, bạn phải làm lại từ đầu.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Ngủ một giấc, mai nghĩ tiếp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Sáng hôm sau bạn tỉnh dậy với một ý tưởng sáng rõ.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn ngủ quên giờ, trễ buổi học đầu.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Đêm thứ Sáu, quán nướng ven đường rồi nhà bạn.",
+      "no": 6
+    },
+    {
+      "id": "x07",
+      "scene": "apart",
+      "place": "Nhà bạn · Chủ nhật",
+      "kind": "duyen",
+      "title": "Mượn mẹ hai mươi vạn",
+      "text": "Chủ nhật, mẹ nấu canh. Bạn mượn mẹ hai mươi vạn, hẹn nửa năm trả, dồn vào cổ phiếu mà Tiểu Châu chỉ; bạn cũng dặn Tiểu Châu ghi lại mọi lời công kích bạn nghe thấy. Mẹ hay đi công tác nên không biết gì về chuyện ở trường. Thứ Hai ở lớp, sóng ngầm vẫn còn đó. Bạn có thể nói thật với mẹ về lời đồn, hoặc giấu để mẹ khỏi lo.",
+      "tieu": "Hai mươi vạn là cả vốn của bạn rồi đấy. Nói thật với mẹ hay giấu?",
+      "cast": "mt_mat,mt_me,tc",
+      "ch": [
+        {
+          "t": "Nói thật với mẹ về lời đồn ở trường",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mẹ siết tay bạn, mắt đỏ lên: «có chuyện gì cũng phải nói với mẹ». Bạn thấy nhẹ nhõm.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "cp_von"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Mẹ hốt hoảng, định đến trường ngay; bạn phải dỗ cả buổi.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Giấu mẹ, chỉ nói là chuyện học tập",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mẹ tin và vui vẻ; bạn thở nhẹ nhưng thấy nặng lòng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "cp_von"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Mẹ nhìn mặt bạn rồi hỏi lại: «thật sự không có gì chứ?».",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Hứa với mẹ sẽ trả đủ trong nửa năm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mẹ cười: «mẹ tin con». Bạn nhớ câu đó rất lâu.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Mẹ bảo nên trả sớm, bạn phải tính lại kế hoạch.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chủ nhật, nhà bạn. Mẹ nấu canh và cho bạn mượn tiền.",
+      "no": 7,
+      "learn": {
+        "n": "Phân tích cổ phiếu",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x08",
+      "scene": "school",
+      "place": "Lớp học · Thứ Hai",
+      "kind": "chon",
+      "title": "Cặp sách bị lục",
+      "text": "Khi bạn ra khỏi lớp, nhóm nữ sinh xúi Phạm Y Đình mở cặp bạn, tìm thấy bộ mỹ phẩm và kết luận bạn «bị bao nuôi». Tiểu Châu ghi lại toàn bộ. Bạn quay về, thấy đồ bị xáo trộn và không nói gì. Trưa đó, Tạ và Chu mời bạn lên căn tin tầng cao. Bạn có thể hỏi thẳng ai đã lục cặp, hoặc im lặng và để Tiểu Châu giữ bằng chứng.",
+      "tieu": "Cặp của ngươi bị lục rồi. Hỏi thẳng hay để Tiểu Châu giữ?",
+      "cast": "mt_mat,mt_dinh,tc",
+      "ch": [
+        {
+          "t": "Hỏi thẳng cả lớp: «ai đã mở cặp của tôi?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả lớp ngoảnh đi. Phạm Y Đình cúi đầu, và bạn thấy rõ ai biết chuyện.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "ghi_cap"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Không ai nhận, bạn mất công hỏi mà chẳng được gì.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Im lặng, để Tiểu Châu giữ nguyên bằng chứng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn lẳng lặng dọn lại cặp. Trong đầu bạn, cuốn sổ bằng chứng dày thêm một trang.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "ghi_cap"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn quên chụp ảnh hiện trường, Tiểu Châu phải trích lại từ camera.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ cô chủ nhiệm Bành xem camera hành lang",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô Bành gật đầu, hứa sẽ xem lại. Bạn thấy có chỗ dựa.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Cô Bành bận họp, hẹn tuần sau mới xem.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Thứ Hai, lớp học. Cặp sách của bạn bị lục khi bạn vắng mặt.",
+      "no": 8
+    },
+    {
+      "id": "x09",
+      "scene": "zstudy",
+      "place": "Căn tin tầng cao nhất · Trưa",
+      "kind": "duyen",
+      "title": "Căn tin tầng cao nhất",
+      "text": "Hai cậu ấm đưa bạn lên căn tin tầng cao nhất. Ở đó có Đoàn Tư Viễn, Lạc Tiểu Y, nữ sinh nghèo từng bị vu trộm đồ, thương bạn thật lòng, và Doãn Tư Thanh đang làm toán ở góc phòng. Bạn nhận ra anh là người nhiệm vụ. Anh nhíu mày, bạn mỉm cười. Từ nay mỗi trưa là bữa ăn của cả nhóm. Bạn có thể ngồi cạnh Lạc Tiểu Y, hoặc ngồi gần Doãn Tư Thanh.",
+      "tieu": "Người ngồi ở góc phòng kia chính là người ngươi cần. Ngồi cạnh Tiểu Y hay lại gần anh?",
+      "cast": "mt_mat,mt_doan,mt_y,mt_vien,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Ngồi cạnh Lạc Tiểu Y, hỏi thăm cô ấy",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Y đỏ mặt, kể lí nhí rằng cô ấy tin bạn. Bạn thấy lòng ấm lên.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "ket_ban_y"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Tiểu Y rụt rè, nói được hai câu rồi im.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Ngồi cách Doãn Tư Thanh một ghế, hỏi anh bài toán",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh liếc bài toán, cầm bút giải trong ba dòng. Bạn ghi nhớ cách anh nghĩ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn hỏi sai chỗ, anh cau mày không giải thích.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Ăn một mình ở bàn gần cửa sổ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả nhóm nhìn bạn, và Doãn Tư Thanh liếc sang một lần rồi lại cúi xuống.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn bị ánh nắng chói mắt, ăn dở bữa.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Trưa, căn tin tầng cao nhất. Bạn gặp nhóm bốn cậu ấm và Lạc Tiểu Y.",
+      "no": 9
+    },
+    {
+      "id": "x10",
+      "scene": "zstudy",
+      "place": "Căn tin tầng cao nhất · Mấy tuần sau",
+      "kind": "duyen",
+      "title": "Bữa trưa bốn người",
+      "text": "Cả nhóm ăn chung mỗi ngày, nhưng trong lớp lời đồn đổi thành «cô quyến rũ cả hai». Tạ và Chu nói sẽ chờ sau kỳ thi, nghỉ đông rồi mới tỏ tình. Lạc Tiểu Y an ủi bạn thật lòng; bạn mời lại họ kem, trà sữa, vẫn không nhận quà. Doãn Tư Thanh bắt đầu thấy hai người bạn cũ cư xử lạ. Bạn có thể kể với Lạc Tiểu Y về kế hoạch, hoặc chỉ nói chuyện nhẹ nhàng.",
+      "tieu": "Cả nhóm tưởng bữa trưa này là thật. Kể với Tiểu Y hay chỉ nói chuyện nhẹ?",
+      "cast": "mt_mat,mt_y,mt_doan,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Kể sơ với Lạc Tiểu Y rằng bạn đang chuẩn bị một việc lớn",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Y nắm tay bạn, nói: «cậu cần gì cứ bảo». Bạn thấy mình có một người thật ở bên.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "ket_ban_y"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Tiểu Y lo đến mức ăn không nổi, bạn phải dỗ.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Quan sát cách Doãn Tư Thanh nhìn hai bạn cũ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn thấy anh nhíu mày mỗi khi hai người kia nói đùa, và ghi nhớ kỹ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh bắt gặp bạn đang nhìn, quay đi.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Chỉ ăn, nói chuyện bình thường",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bữa trưa trôi qua yên ổn, hôm đó không ai gây chuyện.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Một bạn khác chen ngang, bữa trưa ngắt quãng.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Mấy tuần sau, căn tin tầng cao nhất. Bữa trưa cả nhóm như thường lệ.",
+      "no": 10
+    },
+    {
+      "id": "x11",
+      "scene": "alley",
+      "place": "Đầu phố · Chiều",
+      "kind": "chon",
+      "title": "Doãn chặn đường, quán kem",
+      "text": "Doãn Tư Thanh đứng chặn xe đạp của bạn ở đầu phố, nói đã bảo hai bạn dừng nhưng họ không nghe, hỏi bạn có thích Tạ hay Chu không. Trong quán kem bạn nói chỉ là bạn; anh nhẹ nhõm, suýt nói ra sự thật về trò chơi nhưng kìm lại, chỉ khuyên bạn lo học. Bạn biết anh biết mà không nói. Bạn có thể hỏi thẳng rằng anh có biết gì không, hoặc chờ anh tự nói.",
+      "tieu": "Người này biết mà không dám nói. Hỏi thẳng hay chờ anh tự nói?",
+      "cast": "mt_mat,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Hỏi thẳng: «anh biết gì về hai người đó?»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh sững người, nắm chặt chiếc thìa, rồi nói một câu mơ hồ. Bạn hiểu anh đang giằng co.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "hoi_doan"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh quay mặt đi, và cả buổi sau không nói thêm gì.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chờ anh tự nói, chỉ nhìn anh ăn kem",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh ngồi im rất lâu, cuối cùng chỉ nói: «cẩn thận». Bạn ghi nhớ giọng anh lúc đó.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh không nói gì, bạn mất cả buổi chờ vô ích.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Đổi đề tài sang bài toán chưa giải",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh nhẹ nhõm như được tha, hai người tranh luận bài toán suốt buổi.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh nghĩ bạn tránh nói, hơi chạnh lòng.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, đầu phố rồi quán kem. Doãn Tư Thanh chặn xe đạp của bạn.",
+      "no": 11
+    },
+    {
+      "id": "x12",
+      "scene": "school",
+      "place": "Phòng thi · Cuối kỳ",
+      "kind": "duyen",
+      "title": "Thi cuối kỳ",
+      "text": "Bạn đứng đầu khối, hơn hạng hai mấy chục điểm, chỉ bị trừ một điểm văn. Cả trường sững sờ; ghen ghét chuyển thành đi tìm khuyết điểm của bạn, và lời đồn sau lưng càng độc hơn. Bạn đứng nhìn bảng điểm, không cười cũng không buồn. Tiểu Châu khẽ nói bạn xứng đáng. Kỳ nghỉ đông sắp bắt đầu. Bạn có thể ăn mừng nhỏ với mẹ, hoặc về nhà học tiếp.",
+      "tieu": "Điểm cao nhất khối, và một điểm văn bị trừ vì ai đó muốn trừ. Ăn mừng hay học tiếp?",
+      "cast": "mt_mat,mt_me,tc",
+      "ch": [
+        {
+          "t": "Ăn mừng nhỏ với mẹ vào cuối tuần",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mẹ làm bánh, hai mẹ con ăn hết cả đĩa. Bạn thấy đời mình vẫn còn rất nhiều điều tốt.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Mẹ bận đột xuất, buổi ăn mừng dời sang tuần sau.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Về nhà học tiếp, không để tâm điểm số",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn ôn thêm hai chương mới, và thấy đầu óc sáng hơn bao giờ hết.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn học quá khuya, sáng mệt lả.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Đi dạo một vòng ngoài trường cho khuây",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Gió lạnh làm bạn tỉnh táo, bạn nhìn thấy một cành mai nở sớm.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn đi lạc vào con hẻm lạ, mất hơn một giờ mới về.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối kỳ, phòng thi và bảng điểm. Bạn đứng đầu khối.",
+      "no": 12
+    },
+    {
+      "id": "x13",
+      "scene": "apart",
+      "place": "Nhà bạn · Kỳ nghỉ đông",
+      "kind": "duyen",
+      "title": "Kỳ nghỉ đông",
+      "text": "Bạn làm xong bài tập trong một tuần rồi đi làm thêm; Tạ và Chu vẫn theo, mua kem chờ ở cổng. Vốn cổ phiếu từ mấy chục vạn thành mấy trăm vạn; bạn nhắm tới năm nghìn vạn. Mẹ đi công tác liên tục nên không biết gì. Gần hết kỳ nghỉ, hai người bắt đầu ra tay. Bạn có thể bán một phần cổ phiếu chốt lời, hoặc giữ nguyên để chờ mức cao hơn.",
+      "tieu": "Tiền đang lên, ngươi đừng tham quá. Chốt lời hay giữ nguyên?",
+      "cast": "mt_mat,mt_ta,mt_chu,mt_me,tc",
+      "ch": [
+        {
+          "t": "Bán một phần cổ phiếu, chốt lời",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn chốt đúng đỉnh ngắn hạn, số tiền trong tài khoản tăng chắc chắn.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "cp_von"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn bán quá sớm, cổ phiếu lại tăng tiếp thêm hai ngày.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Giữ nguyên, nhờ Tiểu Châu theo dõi sát",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Châu báo thời điểm bán đúng lúc, và bạn thu về cả khoản lớn.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "cp_von"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Cổ phiếu chững lại, bạn mất mấy ngày chờ đợi.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để nguyên, đi làm thêm như thường",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Một tin tốt tình cờ làm cổ phiếu nhích lên đúng lúc.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Một tin xấu làm cổ phiếu tụt nhẹ, bạn không để ý đến khi quá muộn.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Kỳ nghỉ đông, nhà bạn. Vốn cổ phiếu tăng nhanh.",
+      "no": 13
+    },
+    {
+      "id": "x14",
+      "scene": "ztea",
+      "place": "Quán cà phê · Cuối kỳ nghỉ",
+      "kind": "chon",
+      "title": "Tạ Vân Khiêm tỏ tình",
+      "text": "Tạ hẹn bạn ra quán cà phê, nói «thật lòng», hồi hộp đến ra mồ hôi tay. Bạn từ chối ngay, vì trước đại học bạn không yêu ai. Hắn giấu cơn giận sau nụ cười; vài hôm sau sẽ đến lượt Chu. Bạn có thể từ chối nhẹ nhàng và chân thành, hoặc từ chối dứt khoát và giữ khoảng cách.",
+      "tieu": "Cậu ấm này vừa bị từ chối lần đầu trong đời. Nhẹ nhàng hay dứt khoát?",
+      "cast": "mt_mat,mt_ta,tc",
+      "ch": [
+        {
+          "t": "Từ chối nhẹ nhàng: «tôi chưa nghĩ chuyện yêu đương»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn cười gượng, uống cạn cốc cà phê. Bạn thấy rõ nụ cười ấy không đến mắt.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Hắn nghe nhầm là «chưa», ánh mắt sáng lên một thoáng rồi tối lại khi bạn nói rõ.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Từ chối dứt khoát: «tôi không thích cậu»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hắn sững người, mặt tái đi. Bạn rời quán trước khi hắn nói được gì.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Hắn đập tay xuống bàn, cốc cà phê đổ lênh láng.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Cười, nói bạn có hẹn và đứng dậy",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hắn tưởng bạn bận thật, không kịp phản ứng khi bạn đã đi khuất.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Hắn đuổi theo, nắm tay bạn trước cổng quán.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối kỳ nghỉ, quán cà phê. Tạ Vân Khiêm hẹn bạn và tỏ tình.",
+      "no": 14
+    },
+    {
+      "id": "x15",
+      "scene": "street",
+      "place": "Nhà hàng · Vài hôm sau",
+      "kind": "chon",
+      "title": "Chu Dục Thành tỏ tình",
+      "text": "Chu chuẩn bị kỹ hơn: hoa hồng và một bàn nhà hàng, nhưng cũng bị từ chối y như vậy. Hắn giẫm nát hoa, gọi Tạ đi uống; cả hai thẹn quá hóa giận, ngừng tìm bạn, chờ bạn quay lại cầu xin. Bạn tranh thủ lúc này. Bạn có thể nhận lời ăn một bữa nhưng từ chối hoa, hoặc rời đi ngay.",
+      "tieu": "Cậu ấm thứ hai vừa giẫm nát hoa. Nhận bữa ăn hay rời ngay?",
+      "cast": "mt_mat,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Ngồi ăn một bữa, từ chối hoa rõ ràng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hắn ăn không nổi miếng nào; bạn ăn hết phần mình, đứng dậy cảm ơn rồi đi.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Hắn nài thêm và bạn mất cả buổi mới thoát được.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Rời ngay, không ngồi lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn đi nhanh, hắn không kịp phản ứng; bạn nghe tiếng hoa bị giẫm sau lưng.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn đi nhầm cửa, gặp luôn Tạ Vân Khiêm đang tới.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu ghi lại toàn bộ cuộc nói chuyện",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu ghi đủ từng lời hắn nói khi tức giận; bạn có thêm một đoạn bằng chứng.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Tiểu Châu bắt không rõ vì nhà hàng ồn.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Vài hôm sau, nhà hàng. Chu Dục Thành mời bạn ăn tối kèm hoa hồng.",
+      "no": 15
+    },
+    {
+      "id": "x16",
+      "scene": "zgarden",
+      "place": "Hộp thư riêng · Cuối kỳ nghỉ",
+      "kind": "chon",
+      "title": "Thư mời ba mươi luật sư",
+      "text": "Bạn nhờ Tiểu Châu tìm năm mươi luật sư hàng đầu thế giới cùng sở thích riêng, rồi gửi vào hộp thư riêng của họ ảnh món đồ họ mê, lấy từ kho của Tiểu Châu. Ba mươi người nhận vụ kiện lạ, thù lao là món đồ chứ không phải tiền, và hẹn gặp trước ngày khai giảng. Tiểu Châu giải thích vì sao thù lao như vậy, để dùng lại ở những mốc sau. Bạn có thể gửi thư ngay, hoặc kiểm tra lại danh sách trước.",
+      "tieu": "Ba mươi cái tên vừa gật đầu. Gửi ngay hay kiểm tra lại danh sách?",
+      "cast": "mt_mat,tc",
+      "ch": [
+        {
+          "t": "Gửi thư ngay, nói rõ thù lao là món đồ họ mê",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba mươi lời đồng ý về trong chưa đầy một ngày; bạn ghi lại từng cái tên.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "thu_lao"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Có bảy người im lặng, bạn phải nhắn lại lần hai.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Kiểm tra lại danh sách, chọn lọc kỹ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Danh sách cuối cùng chỉ gồm những người có thành tích sạch, không ai có điểm mờ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "thu_lao"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn loại nhầm một người giỏi, phải mời bổ sung.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu chọn ngẫu nhiên thêm mười người dự phòng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mười người dự phòng hóa ra rất giỏi, bạn có thêm một lựa chọn quý.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Hai người dự phòng từ chối, bạn mất công tìm thay.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối kỳ nghỉ, hộp thư riêng. Bạn mời các luật sư hàng đầu thế giới.",
+      "no": 16
+    },
+    {
+      "id": "x17",
+      "scene": "zgarden",
+      "place": "Biệt thự ngoại ô · Một ngày trước khai giảng",
+      "kind": "duyen",
+      "title": "Biệt thự và chồng đĩa CD",
+      "text": "Một ngày trước khai giảng, bạn gặp ba mươi luật sư trong một biệt thự ngoại ô, đưa họ chồng đĩa CD bằng chứng Tiểu Châu đã ghi lại, và chỉ cho họ đúng một tháng để chuẩn bị. Rồi bạn về kịp trước khi mẹ tỉnh dậy. Chương mới sẽ bắt đầu bằng sự lạnh nhạt của hai cậu ấm. Bạn có thể tặng mỗi luật sư một món quà nhỏ ngay, hoặc để dành cho khi họ xong việc.",
+      "tieu": "Ba mươi người lạ vừa nhận lời giúp ngươi. Tặng quà ngay hay để dành?",
+      "cast": "mt_mat,tc",
+      "ch": [
+        {
+          "t": "Tặng mỗi người một món quà nhỏ ngay",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mỗi người nhận quà bằng một nụ cười rất khác nhau. Bạn thấy rõ đây là những người thật lòng.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nhầm món quà giữa hai người, phải xin lỗi.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Để dành quà, đưa kỹ từng xấp bằng chứng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn giải thích từng đĩa, từng mốc thời gian. Các luật sư gật đầu, bắt đầu ghi chú.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn giải thích quá dài, vài người xem đồng hồ.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Mời họ ăn một bữa nhẹ trước khi bàn việc",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Bữa ăn đơn giản nhưng không khí ấm lên rõ rệt.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bếp hết món, bạn phải đổi thực đơn vào phút chót.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một ngày trước khai giảng, biệt thự ngoại ô. Bạn gặp ba mươi luật sư.",
+      "no": 17
+    },
+    {
+      "id": "x18",
+      "scene": "school",
+      "place": "Cổng trường · Khai giảng",
+      "kind": "chon",
+      "title": "Khai giảng, hai người quay lưng",
+      "text": "Tạ và Chu cố ý không chào bạn, không bênh khi người khác nói xấu bạn. Cả trường tưởng bạn bị «chán», và lời đồn chuyển thành bạn bị hai người bao nuôi suốt kỳ nghỉ. Hai cậu ấm vẫn ngầm quan sát, chờ bạn xin giúp; bạn không xin. Bạn có thể lặng lẽ đi qua như không có chuyện gì, hoặc nhìn thẳng vào mắt họ khi đi ngang.",
+      "tieu": "Họ đang chờ ngươi cầu xin. Đi qua lặng lẽ hay nhìn thẳng vào mắt?",
+      "cast": "mt_mat,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Lặng lẽ đi qua, không ngoảnh lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn đi thẳng vào lớp; sau lưng bạn, hai người nhìn nhau, hơi bối rối vì bạn không dừng.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Một nhóm nữ sinh cười lớn sau lưng bạn.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhìn thẳng vào mắt họ khi đi ngang",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người tránh ánh mắt trước. Bạn cảm thấy mình đang thắng một ván cờ lặng lẽ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Chu Dục Thành nhếch mép cười khinh, bạn thấy nóng mặt.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Chào hỏi như bình thường, cười thân thiện",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người ngạc nhiên, không biết đáp thế nào, và bạn bước đi nhẹ nhõm.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Họ làm như không nghe, bạn lỡ cười vào khoảng không.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày khai giảng, cổng trường. Hai cậu ấm làm như không quen bạn.",
+      "no": 18
+    },
+    {
+      "id": "x19",
+      "scene": "alley",
+      "place": "Con hẻm sau trường · Chiều",
+      "kind": "chon",
+      "title": "Doãn chặn lần hai",
+      "text": "Doãn Tư Thanh chặn bạn ở con hẻm, nói anh sẽ khuyên hai bạn đứng ra giải thích, rồi đề nghị chuyển trường giúp bạn. Bạn nói mình không sai, chạy đi chỉ để lời đồn đi theo; anh đề nghị bổ túc toán, bạn từ chối vì đã mãn điểm nhưng nhận lời để anh đưa đón mỗi ngày. Bạn có thể nhận đề nghị bổ túc toán thật, hoặc chỉ nhận đưa đón.",
+      "tieu": "Cậu ấm này bắt đầu biết lo cho ngươi rồi. Nhận bổ túc toán hay chỉ đưa đón?",
+      "cast": "mt_mat,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Nhận bổ túc toán cùng anh mỗi tuần",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh giải thích rất rõ, bạn thấy bài toán khó cũng biết cách nhìn khác.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh giảng nhanh quá, bạn phải xin anh nói chậm lại.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ nhận đưa đón, không bổ túc",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh gật đầu, mắt sáng hơn một chút. Bạn thấy anh bớt căng thẳng hẳn.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh hơi thất vọng nhưng cố che giấu.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Từ chối cả hai, hẹn tuần sau trả lời",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh chờ không phàn nàn, cuối cùng tự đề nghị lại khéo hơn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh hiểu nhầm là bạn không tin anh và im lặng cả buổi.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, con hẻm sau trường. Doãn Tư Thanh chặn đường bạn lần thứ hai.",
+      "no": 19,
+      "learn": {
+        "n": "Giải toán nhanh",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x20",
+      "scene": "street",
+      "place": "Cổng trường và căn tin · Mấy ngày sau",
+      "kind": "duyen",
+      "title": "Cùng xe đi học, cùng ăn trưa",
+      "text": "Doãn đón bạn mỗi sáng; cả trường nhìn bạn xuống xe. Trưa anh đi gọi bạn lên tầng cao, hai người nói chuyện toán. Tạ và Chu chất vấn anh: «cô ta quyến rũ cậu à?». Anh trả lời hai người là bạn, và họ ghen. Họ bắt đầu bàn kế trả đũa. Bạn có thể nhờ anh đừng tranh cãi với họ, hoặc để anh tự quyết.",
+      "tieu": "Hai người bạn cũ của anh bắt đầu ghen đấy. Nhờ anh đừng cãi hay để anh tự quyết?",
+      "cast": "mt_mat,mt_doan,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Nhờ anh đừng tranh cãi với hai người bạn cũ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh gật đầu, nhưng mặt hơi cứng. Bạn hiểu anh đang nuốt lại điều muốn nói.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh bực, bảo bạn không nên bênh hai người đó.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Để anh tự quyết, chỉ quan sát",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nói chuyện khéo, hai người kia không gây thêm chuyện hôm đó.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh nói gắt, hai người kia nhìn bạn đầy ác ý.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Rủ anh ăn trưa ở chỗ khác, tránh mặt họ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người ăn một bữa yên tĩnh, anh cười nhiều hơn thường lệ.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn chọn nhầm quán đóng cửa, hai người phải ăn ở căn tin.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Mấy ngày sau, cổng trường và căn tin. Doãn đón bạn đi học mỗi sáng.",
+      "no": 20
+    },
+    {
+      "id": "x21",
+      "scene": "school",
+      "place": "Diễn đàn trường · Chiều",
+      "kind": "hiem",
+      "title": "Ảnh «thân mật»",
+      "text": "Tạ và Chu tung loạt ảnh chụp lúc đi chơi, chọn góc cho giống thân mật, lên diễn đàn trường. Phụ huynh gọi điện cho cô chủ nhiệm, và bạn bị gọi lên văn phòng. Bạn xem lại từng bức ảnh, nhận ra những chỗ bị cắt ghép. Bạn có thể phân tích ảnh để chứng minh bị cắt ghép, hoặc nhờ Tiểu Châu khôi phục bản gốc.",
+      "tieu": "Ảnh đã lên diễn đàn rồi, ngươi phải xử lý ngay. Phân tích hay khôi phục bản gốc?",
+      "cast": "mt_mat,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Phân tích từng bức ảnh, chỉ ra chỗ cắt ghép",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn lập một bảng đối chiếu rõ ràng, chỉ ra từng điểm bất hợp lý. Cô Bành nhìn bảng và gật đầu.",
+            "d": {
+              "ac": -7,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn bỏ sót một bức, phải làm thêm một lượt.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu khôi phục bản gốc từ thiết bị",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Châu lấy lại bản gốc nguyên vẹn, bạn có ngay một bộ so sánh đầy đủ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Tiểu Châu chỉ khôi phục được một nửa, bạn phải tự bổ sung.",
+            "d": {
+              "sinh": -4,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Đến văn phòng, bình tĩnh nói chuyện với cô chủ nhiệm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô Bành nghe bạn nói, ánh mắt dịu dần.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Cô Bành đang họp, bạn phải ngồi đợi cả khắc.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, diễn đàn trường. Ảnh «thân mật» bị tung ra.",
+      "no": 21
+    },
+    {
+      "id": "x22",
+      "scene": "zoffice",
+      "place": "Văn phòng cô Bành · Chiều",
+      "kind": "chon",
+      "title": "Cô chủ nhiệm Bành",
+      "text": "Cô Bành hỏi chuyện. Bạn trả lời bình tĩnh, đề nghị nhà trường điều tra kẻ bịa đặt. Cô Bành tin bạn, nhưng nhà trường sợ phụ huynh nên gợi ý chuyển trường. Bạn từ chối: «trốn đi thì không phải tôi sai». Cô Bành đồng ý thử xin hai cậu ấm làm chứng. Bạn có thể trình bày bằng chứng đã có, hoặc chỉ khẳng định mình không sai.",
+      "tieu": "Cô chủ nhiệm đang đứng giữa trường và ngươi. Trình bày bằng chứng hay chỉ khẳng định?",
+      "cast": "mt_mat,mt_banh,tc",
+      "ch": [
+        {
+          "t": "Trình bày bằng chứng đã có, từng bước một",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô Bành đọc kỹ từng trang; mắt cô đỏ dần. Cô nói sẽ làm hết khả năng.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn đưa nhầm tập hồ sơ, cô Bành phải xin lại bản đúng.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Khẳng định mình không sai, không chuyển trường",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cô Bành nhìn bạn một lúc rồi gật đầu: «cô tin em». Bạn thấy sống mũi cay.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Cô thở dài, nói áp lực từ nhà trường lớn hơn cô tưởng.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Hỏi cô về cách nhà trường xử lý các trường hợp tương tự",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô kể một ca cũ, và bạn rút ra cách đề nghị phù hợp.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Cô nhìn bạn dò xét, nghĩ bạn đang dò hỏi.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, văn phòng cô Bành. Bạn bị gọi lên sau vụ ảnh bị tung.",
+      "no": 22,
+      "learn": {
+        "n": "Giữ bình tĩnh khi bị chất vấn",
+        "s": "mi",
+        "v": 1
+      }
+    },
+    {
+      "id": "x23",
+      "scene": "school",
+      "place": "Hành lang · Sáng",
+      "kind": "hiem",
+      "title": "Phụ huynh xông vào lớp",
+      "text": "Sau nhiều cuộc gọi, một nhóm phụ huynh kéo đến trường chặn bạn ở hành lang, mắng cả bạn lẫn mẹ bạn, suýt xô đẩy; giáo viên chạy tới ngăn. Mẹ đi công tác, và Tiểu Châu chặn các tin nhắn trên điện thoại mẹ. Bạn thấy phải dứt điểm. Bạn có thể bình tĩnh nói chuyện với họ, hoặc lùi lại và chờ giáo viên can thiệp.",
+      "tieu": "Họ đang kéo đến, và tay của họ không hiền đâu. Nói chuyện hay lùi lại chờ giáo viên?",
+      "cast": "mt_mat,mt_me,tc",
+      "ch": [
+        {
+          "t": "Bình tĩnh nói chuyện, không để họ lại gần",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng bạn đều đều; nhóm phụ huynh ngập ngừng, vài người lùi lại.",
+            "d": {
+              "ac": -7,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "chan_tin"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Một người đẩy bạn, bạn đập vai vào tường.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Lùi lại, ghi hình, gọi giáo viên",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn ghi lại toàn bộ cảnh xô đẩy; giáo viên tới đúng lúc.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "chan_tin"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Giáo viên tới chậm, bạn bị xô nhẹ một lần.",
+            "d": {
+              "sinh": -4,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Chạy vào văn phòng cô Bành",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô Bành đón bạn vào, đóng cửa lại, nhóm phụ huynh bị chặn ở ngoài.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Cửa văn phòng khóa, bạn đứng ngoài hành lang chịu thêm vài lời.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, hành lang trường. Một nhóm phụ huynh chặn bạn.",
+      "no": 23
+    },
+    {
+      "id": "x24",
+      "scene": "school",
+      "place": "Lớp học · Giờ văn",
+      "kind": "chon",
+      "title": "Giờ văn của cô Ngô",
+      "text": "Bạn tới muộn vì buổi gặp cô Bành. Cô Ngô Thúy Hà, người nghi mẹ bạn thăng chức nhờ «quy tắc ngầm», bắt bạn đứng ngoài, mỉa mai: «đừng đem thứ không khí đó vào lớp». Bạn đáp: «cô hỏi cô chủ nhiệm xem tôi đã đi đâu». Cả lớp cười; cô Ngô ghim thù. Bạn có thể xin lỗi vì tới muộn rồi vào lớp, hoặc giữ nguyên lập trường.",
+      "tieu": "Cô giáo văn đang gây khó dễ có chủ ý. Xin lỗi cho yên hay giữ nguyên lập trường?",
+      "cast": "mt_mat,mt_ngo,tc",
+      "ch": [
+        {
+          "t": "Xin lỗi vì tới muộn nhưng nói rõ lý do",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô Ngô mím môi, không bắt bẻ được gì, đành cho bạn vào lớp.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "ghi_ngo"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô Ngô vẫn bắt bạn đứng thêm năm phút để đủ lễ.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Giữ nguyên: «cô hỏi cô chủ nhiệm»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả lớp cười ồ. Cô Ngô đỏ mặt, nhưng bạn thấy rõ ánh mắt thù hằn trong đó.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "ghi_ngo"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Cô Ngô cắt một nửa điểm chuyên cần của bạn vì thái độ.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Đứng ngoài cửa, chờ giờ ra chơi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô giáo khác đi ngang thấy, đứng về phía bạn.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Bạn đứng suốt cả tiết, chân mỏi nhừ.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Giờ văn, lớp học. Bạn tới muộn sau buổi gặp cô chủ nhiệm.",
+      "no": 24
+    },
+    {
+      "id": "x25",
+      "scene": "zoffice",
+      "place": "Văn phòng giáo viên · Chiều",
+      "kind": "chon",
+      "title": "Hai người từ chối làm chứng",
+      "text": "Nhà trường gọi Tạ và Chu, nhờ xác nhận bạn trong sạch; cả hai từ chối, nói đã «chán». Cô Bành báo lại cho bạn, khuyên chuyển trường lần nữa; bạn nói để chính bạn tới hỏi. Bạn có thể nhờ cô Bành tạo điều kiện gặp riêng hai người, hoặc tự đến sân bóng tìm họ.",
+      "tieu": "Hai người đó đã từ chối. Nhờ cô Bành tạo điều kiện hay tự đến sân bóng?",
+      "cast": "mt_mat,mt_banh,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Nhờ cô Bành xếp một buổi gặp riêng",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cô Bành đồng ý, sắp một phòng yên tĩnh; mọi thứ được ghi lại cẩn thận.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Cô Bành bận họp, buổi gặp bị dời lên ngày mai.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Tự đến sân bóng tìm hai người",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bạn bước vào sân bóng với dáng đi vững; cả sân quay lại nhìn.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn đến sai giờ, hai người đã rời sân.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Lạc Tiểu Y nhắn tin hẹn họ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Y nhắn rất khéo, hai người đồng ý ra sân bóng.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Tiểu Y gửi nhầm số, một người lạ trả lời.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, văn phòng giáo viên. Cô Bành báo tin hai cậu ấm từ chối làm chứng.",
+      "no": 25
+    },
+    {
+      "id": "x26",
+      "scene": "school",
+      "place": "Hành lang trường · Chiều",
+      "kind": "chon",
+      "title": "Lời đề nghị của nhà họ Doãn",
+      "text": "Doãn biết chuyện, đề nghị nhờ nhà ép nhà trường và phụ huynh im lặng ngay. Bạn phải chọn giữa giải pháp nhanh và con đường «họ phải chịu trách nhiệm trước pháp luật». Anh bực nhưng nghe. Kết quả sẽ quyết định anh làm gì ở mốc sau. Bạn có thể từ chối đề nghị và nói rõ lý do, hoặc nhờ anh chờ thêm mấy ngày.",
+      "tieu": "Anh ta có quyền lực, và muốn dùng nó vì ngươi. Từ chối hay nhờ chờ thêm?",
+      "cast": "mt_mat,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Từ chối, nói muốn họ chịu trách nhiệm trước pháp luật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh nhíu mày, rồi gật chậm: «anh hiểu». Bạn thấy anh đang nuốt cơn giận.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            },
+            "f": "phap_luat"
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh bực, quay đi không nói gì.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhờ anh chờ thêm mấy ngày, bạn có kế hoạch",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nhìn bạn rất lâu rồi gật đầu. Bạn tin anh sẽ chờ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            },
+            "f": "phap_luat"
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh không muốn chờ, bàn tay siết lại thành nắm.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Cảm ơn rồi hỏi anh có thể làm gì khác ngoài quyền lực",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh ngập ngừng, rồi nói anh có thể làm chứng.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh nghĩ bạn đang chê, tai đỏ lên.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, hành lang trường. Doãn đề nghị dùng thế lực nhà để giải quyết.",
+      "no": 26
+    },
+    {
+      "id": "x27",
+      "scene": "school",
+      "place": "Sân bóng rổ · Chiều",
+      "kind": "nan",
+      "title": "Sân bóng rổ",
+      "text": "Bạn tới sân bóng xin hai người làm chứng. Trước mọi người, Tạ và Chu nhận «đã bao nuôi» bạn và nhét tiền cho bạn; đoạn video lên diễn đàn trong mười phút, phụ huynh gọi điện hàng loạt. Bạn đưa Tiểu Châu lệnh giữ mọi tin về trường khỏi điện thoại của mẹ. Hôm sau, mọi thứ sẽ vỡ ra. Bạn có thể bình tĩnh ghi nhận cảnh này và rời đi, hoặc đối chất ngay tại chỗ.",
+      "tieu": "Họ vừa nhận điều chưa từng có. Ghi nhận rồi rời đi hay đối chất ngay?",
+      "cast": "mt_mat,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Ghi nhận rồi bình tĩnh rời đi",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn quay lưng đi, từng bước đều đặn, không đáp lại một câu nào. Hôm sau bạn có toàn bộ video làm chứng.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn bị xô một cái khi đi qua đám đông.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Đối chất: «hai người nhận thì nhận cho rõ»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả sân im phăng phắc; hai người đứng sững. Bạn biết mình vừa thêm một đoạn bằng chứng.",
+            "d": {
+              "ac": -5,
+              "hac": -6,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Đám đông xô tới, bạn phải lùi vội.",
+            "d": {
+              "sinh": -2,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Đưa tiền lại cho họ, cười nhạt",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai người cầm lại tiền, không biết nói gì. Tiểu Châu ghi lại hết.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Tiền rơi tung tóe, bạn bị lượm ảnh đăng khắp nơi.",
+            "d": {
+              "sinh": -2,
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, sân bóng rổ. Hai cậu ấm nhận «bao nuôi» trước đám đông.",
+      "no": 27
+    },
+    {
+      "id": "x28",
+      "scene": "school",
+      "place": "Sân sau trường · Tối",
+      "kind": "nan",
+      "title": "Doãn xử hai bạn cũ",
+      "text": "Doãn cho vệ sĩ khống chế Tạ và Chu, đánh họ một trận, rồi gọi cho bạn: «họ nằm đó rồi, cô muốn thế nào». Bạn nói bạn muốn họ chịu trách nhiệm trước pháp luật chứ không phải bằng nắm đấm; anh lúng túng. Bạn cúp máy, lo anh làm hỏng mọi thứ. Tiểu Châu nhắc: đây là điều khiến anh nguy hiểm nhất. Bạn có thể gọi lại giải thích kỹ, hoặc để anh tự nghĩ.",
+      "tieu": "Anh ta vừa đi lệch hướng, và gọi cho ngươi như thể đang chờ khen. Gọi lại giải thích hay để anh tự nghĩ?",
+      "cast": "mt_mat,mt_doan,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Gọi lại, giải thích vì sao bạn không muốn thế",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh nghe hết, im lặng rất lâu rồi nói: «anh sai rồi». Bạn nghe tiếng thở dài rất nặng.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn nói vội, anh cúp máy trước khi bạn nói xong.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          },
+          "soft": true
+        },
+        {
+          "t": "Nhắn tin dài, nói rõ lý do và hậu quả",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh đọc tin đến lần thứ ba, rồi trả lời bằng một chữ: «hiểu».",
+            "d": {
+              "ac": -5,
+              "hac": -6,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh đọc rồi không trả lời, cả đêm.",
+            "d": {
+              "sinh": -2,
+              "hao": -3
+            }
+          },
+          "soft": true
+        },
+        {
+          "t": "Không gọi, đến gặp anh sáng mai trước cổng trường",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Sáng hôm sau anh đã đứng sẵn ở cổng, vẻ mặt hối lỗi.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Anh đã đi từ sớm, bạn không tìm thấy anh.",
+            "d": {
+              "sinh": -2,
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Tối, sân sau trường. Doãn đánh Tạ và Chu bằng vệ sĩ.",
+      "no": 28
+    },
+    {
+      "id": "x29",
+      "scene": "street",
+      "place": "Cổng trường · Sáng",
+      "kind": "hiem",
+      "title": "Cổng trường bị vây",
+      "text": "Sáng hôm sau, cổng trường đầy phụ huynh và phóng viên; đồ bị ném vào bạn, Doãn che chở. Hiệu trưởng tuyên bố khai trừ vì «gây ảnh hưởng xấu». Bạn nói qua cửa kính xe: «bịa đặt rồi sẽ trả giá». Doãn đưa bạn về. Nhà trường gọi họp phụ huynh bất thường ngay chiều đó. Bạn có thể bước xuống xe đối diện với họ, hoặc nhờ Doãn lái thẳng đi.",
+      "tieu": "Cổng trường như đang chờ ngươi. Xuống xe hay lái đi?",
+      "cast": "mt_mat,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Xuống xe, đứng thẳng đối diện họ",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Đám đông im lặng một thoáng; bạn nói một câu rồi lên xe trở lại.",
+            "d": {
+              "ac": -7,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Một vật nhỏ trúng vai bạn, đau nhói.",
+            "d": {
+              "sinh": -5
+            }
+          }
+        },
+        {
+          "t": "Ghi hình toàn bộ qua cửa kính xe",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn ghi lại từng khuôn mặt; sau này mỗi người sẽ có tên.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Cửa kính phản chiếu, hình ghi không rõ lắm.",
+            "d": {
+              "sinh": -4,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Doãn lái thẳng đi, rời khỏi đám đông",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Xe thoát khỏi vòng vây, bạn ngồi thở dốc, tay anh trên vô lăng run nhẹ.",
+            "d": {
+              "ac": -6,
+              "hac": -3,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.54,
+          "bad": {
+            "x": "Xe bị chắn đường vài giây, bạn nghe tiếng đập vào thân xe.",
+            "d": {
+              "sinh": -6
+            }
+          }
+        }
+      ],
+      "ctx": "Sáng, cổng trường. Phụ huynh và phóng viên vây kín cổng.",
+      "no": 29
+    },
+    {
+      "id": "x30",
+      "scene": "zbridge",
+      "place": "Lễ đài sân trường · Chiều",
+      "kind": "chon",
+      "title": "Họp phụ huynh bất thường",
+      "text": "Nhà trường họp phụ huynh và phóng viên ở sân trường để «cho mọi người một lời giải thích». Bạn đã gửi tin cho báo chí qua Tiểu Châu, và bạn bước lên lễ đài cầm loa. Bạn nêu bốn điều: bạn trong sạch; trường khai trừ vội mà không điều tra; ai xúc phạm bạn sẽ bị khởi tố; và bạn sẽ đọc tên. Bạn có thể nói thật ngắn gọn, hoặc nói đầy đủ từng điểm.",
+      "tieu": "Cả sân trường đang nhìn ngươi. Nói ngắn gọn hay đầy đủ từng điểm?",
+      "cast": "mt_mat,tc",
+      "ch": [
+        {
+          "t": "Nói ngắn gọn, mỗi điều một câu",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bốn câu của bạn vang qua loa; sân trường im lặng nghe từng chữ.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Loa hú rít một tiếng, mất nửa câu đầu.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nói đầy đủ từng điểm, kèm số liệu",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn trình bày rành mạch, phóng viên ghi chép lia lịa.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn nói dài quá, vài người bắt đầu ngáp.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Đưa loa cho Lạc Tiểu Y trước, rồi mới nói",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Y nói run run nhưng thật lòng, cả sân lặng đi.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Tiểu Y quá hồi hộp, nói không thành lời.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, lễ đài sân trường. Họp phụ huynh bất thường có phóng viên tham dự.",
+      "no": 30,
+      "learn": {
+        "n": "Phát biểu trước đám đông",
+        "s": "mi",
+        "v": 1
+      }
+    },
+    {
+      "id": "x31",
+      "scene": "zbridge",
+      "place": "Lễ đài sân trường · Ngay sau đó",
+      "kind": "chon",
+      "title": "Hai người nhận tội mà không ai tin",
+      "text": "Tạ và Chu chạy tới giữa buổi họp, hét lên rằng mọi chuyện là họ bịa và họ chưa từng bao nuôi bạn. Đám đông cho rằng họ «che cho cô ta vì bị mê hoặc», càng la càng bị cười. Lần đầu hai người hiểu cảm giác không ai tin mình. Doãn sắp bước lên. Bạn có thể để họ nói tiếp cho cả sân thấy, hoặc nhờ cảnh vệ đưa họ ra khỏi đám đông.",
+      "tieu": "Họ đang nếm đúng thứ họ từng gây cho ngươi. Để họ nói tiếp hay đưa ra khỏi sân?",
+      "cast": "mt_mat,mt_ta,mt_chu,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Để họ nói tiếp, ghi hình toàn bộ",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn có thêm một đoạn nữa trong tay: hai người tự nhận, giữa chừng ngày hôm đó.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Đám đông xô tới, bạn phải lùi một bước.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhờ cảnh vệ đưa họ ra khỏi đám đông",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cảnh vệ đưa họ đi gọn gàng; hai người ngoảnh lại nhìn bạn, mắt đỏ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Hai người vùng ra, tiếp tục la thêm vài câu.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhìn thẳng họ, gật đầu rất khẽ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ nhận ra bạn tin họ nói thật nhưng không thể tha, và im lặng.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Họ không hiểu cái gật đầu của bạn, càng hoảng loạn.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Ngay sau đó, lễ đài sân trường. Hai cậu ấm la lên nhận tội.",
+      "no": 31
+    },
+    {
+      "id": "x32",
+      "scene": "zbridge",
+      "place": "Lễ đài sân trường · Ngay sau đó",
+      "kind": "nan",
+      "title": "Doãn đứng cạnh cô",
+      "text": "Doãn lên lễ đài đứng bên bạn, nói trước mọi người rằng anh tin bạn và sẽ cùng bạn; anh thừa nhận mình biết trò chơi từ đầu mà im lặng. Bạn nói anh nên tự nhận phần lỗi, và để bạn nói tiếp. Tiểu Châu nhắc: đây là lần đầu anh đứng ra công khai, và nó có giá của nó. Bạn có thể cho anh nói hết, hoặc nhắc anh nói ngắn gọn.",
+      "tieu": "Anh ta vừa dám đứng ra, dù muộn. Cho anh nói hết hay nhắc nói ngắn?",
+      "cast": "mt_mat,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Cho anh nói hết, không ngắt lời",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng anh run nhưng rõ ràng. Cả sân im lặng nghe một cậu ấm tự nhận mình đã sai.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh nói quá dài, đám đông bắt đầu xì xào.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Nhắc anh nói ngắn gọn, phần còn lại để sau",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh gật đầu, nói ba câu rõ ràng. Bạn thấy mình vừa giữ anh khỏi sa vào tự trách quá mức.",
+            "d": {
+              "ac": -5,
+              "hac": -6,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh nghẹn lời, không nói nổi câu thứ ba.",
+            "d": {
+              "sinh": -2,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Nắm tay anh một thoáng rồi thả ra",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh thôi run; giọng anh vững hơn hẳn khi nói tiếp.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Có người chụp ảnh khoảnh khắc đó, bạn phải kiểm soát hình ảnh.",
+            "d": {
+              "sinh": -2,
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Ngay sau đó, lễ đài sân trường. Doãn đứng cạnh bạn và thừa nhận lỗi im lặng.",
+      "no": 32
+    },
+    {
+      "id": "x33",
+      "scene": "zbridge",
+      "place": "Lễ đài sân trường · Cuối buổi",
+      "kind": "chon",
+      "title": "Danh sách khởi kiện",
+      "text": "Bạn đọc từng tên: học sinh, phụ huynh, giáo viên, cả một số phóng viên; từng người che mặt bỏ đi. Ba mươi luật sư cùng ba mươi trợ lý bước xuống xe ngoài cổng, xác nhận nhận vụ. Bạn nói: «Có thể bắt đầu rồi.» Bạn có thể đọc toàn bộ danh sách, hoặc chỉ đọc những tên chính và để lại phần còn lại cho luật sư.",
+      "tieu": "Danh sách này dài lắm đấy. Đọc hết hay chỉ đọc tên chính?",
+      "cast": "mt_mat,tc",
+      "ch": [
+        {
+          "t": "Đọc toàn bộ danh sách, không bỏ một tên nào",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Từng cái tên vang lên; bạn thấy nhiều khuôn mặt tái đi. Cả sân lặng ngắt.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn đọc nhầm một tên, phải sửa ngay.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ đọc tên chính, giao phần còn lại cho luật sư",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Ba mươi luật sư đồng loạt bước tới; cả sân hiểu chuyện này nghiêm túc.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Một vài người nhân cơ hội lẻn đi.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Đọc từng tên, kèm bằng chứng tương ứng",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mỗi tên một bằng chứng; không một ai chối nổi.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Màn hình chiếu bị lỗi, bạn mất vài phút chờ.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Cuối buổi họp, lễ đài sân trường. Bạn đọc danh sách người bị kiện.",
+      "no": 33,
+      "learn": {
+        "n": "Soạn danh sách khởi kiện",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x34",
+      "scene": "apart",
+      "place": "Nhà bạn và sân trường · Một tháng sau",
+      "kind": "duyen",
+      "title": "Một tháng chuẩn bị",
+      "text": "Vụ kiện thành tin toàn cầu; tòa án tối cao tiếp quản, phát sóng trực tiếp theo yêu cầu của bạn, xử ngay tại sân trường «dưới trời xanh, trên đất này». Mẹ biết qua tin tức, bỏ hạng mục đang làm, bay về, ôm bạn và ngồi cạnh bạn trên ghế nguyên cáo. Bạn giải thích về số tiền đã mượn. Bạn có thể kể hết với mẹ từ đầu, hoặc chỉ nói những điều mẹ cần biết.",
+      "tieu": "Mẹ ngươi biết hết qua tin tức rồi. Kể hết từ đầu hay chỉ nói điều cần biết?",
+      "cast": "mt_mat,mt_me,tc",
+      "ch": [
+        {
+          "t": "Kể hết mọi chuyện từ ngày đầu tiên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mẹ nghe xong không nói gì, chỉ ôm bạn rất lâu. Bạn thấy mình nhẹ hẳn.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Mẹ nghe xong lặng người, hơi giận vì bạn giấu lâu.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nói những điều mẹ cần biết, đưa tài liệu cho mẹ đọc",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Mẹ đọc từng trang, mắt sáng dần. Bà nói: «con làm đúng cách». Bạn thở phào.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Mẹ đọc đến một trang thì bật khóc, mất nửa tiếng mới nguôi.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ mẹ ngồi cạnh trong phiên tòa, chỉ cần có mẹ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mẹ gật đầu: «mẹ ở đây». Bạn thấy đủ rồi.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Mẹ lo quá, phải uống thuốc trước khi lên ghế.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một tháng sau, nhà bạn và sân trường. Mẹ bay về sau khi xem tin tức.",
+      "no": 34
+    },
+    {
+      "id": "x35",
+      "scene": "school",
+      "place": "Sân trường · Ngày xử",
+      "kind": "chon",
+      "title": "Phiên tòa mở màn",
+      "text": "Hàng nghìn bị cáo kín sân, ai cũng chối, dọa kiện ngược bạn tội vu khống. Bạn đứng dậy: «tôi có nhân chứng và chứng cứ». Cả sân im lặng. Chủ tọa gõ búa mời bạn trình bày. Bạn có thể mở đầu bằng lời khai ngắn gọn, hoặc bằng việc chiếu một đoạn bằng chứng.",
+      "tieu": "Phiên tòa bắt đầu rồi. Mở đầu bằng lời khai hay chiếu bằng chứng?",
+      "cast": "mt_mat,tc",
+      "ch": [
+        {
+          "t": "Mở đầu bằng lời khai ngắn gọn, rõ ràng",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Giọng bạn vang đều; chủ tọa gật đầu rất khẽ.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn nói nhanh quá, thư ký phải xin nhắc lại.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chiếu một đoạn bằng chứng ngắn để mở màn",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Màn hình sáng lên; vài bị cáo cúi gằm mặt ngay khi thấy chính mình.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Màn hình bị lóa nắng, đoạn chiếu mờ.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Mời nhân chứng đầu tiên lên trước",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Nhân chứng bước lên chắc chắn, cả sân lặng đi.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Nhân chứng đến chậm vài phút.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Ngày xử, sân trường. Hàng nghìn bị cáo ngồi kín sân.",
+      "no": 35
+    },
+    {
+      "id": "x36",
+      "scene": "school",
+      "place": "Sân trường · Phiên tòa",
+      "kind": "chon",
+      "title": "Nhân chứng",
+      "text": "Lạc Tiểu Y lần đầu đứng trước hàng vạn người, kể rõ từng lời đã nhắm vào bạn. Doãn lên làm chứng chuyện anh đã thấy. Hai lời khai khớp nhau. Hai cậu ấm bị gọi lên. Bạn có thể động viên Tiểu Y trước khi cô lên, hoặc kiểm tra lại lời khai của Doãn lần cuối.",
+      "tieu": "Hai nhân chứng quan trọng nhất của ngươi sắp lên. Động viên Tiểu Y hay kiểm tra lời khai của Doãn?",
+      "cast": "mt_mat,mt_y,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Động viên Tiểu Y trước khi cô lên",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Tiểu Y ôm bạn rất chặt rồi bước lên với đôi chân hết run. Giọng cô vững hơn mọi lần.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Tiểu Y vẫn run, lời khai chậm lại vài lần.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Cùng Doãn kiểm tra lại lời khai lần cuối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Hai người đối chiếu từng chi tiết; anh nói thẳng, không né tránh. Bạn thấy mình có thể tin anh.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh nhớ nhầm một chi tiết, phải chỉnh lại.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để cả hai tự bước lên, chỉ nhìn họ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cả hai nói hay hơn bạn nghĩ; hai lời khai khớp từng chữ.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Một chi tiết nhỏ bị luật sư đối phương bắt bẻ.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sân trường, phiên tòa. Lạc Tiểu Y và Doãn Tư Thanh lên làm chứng.",
+      "no": 36,
+      "learn": {
+        "n": "Đối chiếu lời khai",
+        "s": "tri",
+        "v": 1
+      }
+    },
+    {
+      "id": "x37",
+      "scene": "school",
+      "place": "Sân trường · Phiên tòa",
+      "kind": "chon",
+      "title": "Hai cậu ấm nhận tội",
+      "text": "Tạ và Chu đứng ghế bị cáo, nhận mọi tội, xin chịu phạt. Các bị cáo khác mắng họ là «phản đồ», nói họ vốn xấu từ trước. Luật sư xin chiếu bằng chứng. Bạn có thể lặng im nhìn họ, hoặc nhờ luật sư nhắc chủ tọa ghi nhận lời nhận tội.",
+      "tieu": "Hai cậu ấm đang nhận hết. Im lặng nhìn hay nhờ luật sư ghi nhận?",
+      "cast": "mt_mat,mt_ta,mt_chu,tc",
+      "ch": [
+        {
+          "t": "Im lặng nhìn họ, không nói gì",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Họ nhìn bạn một lần rồi cúi xuống. Bạn không thấy hả hê, chỉ thấy mệt.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Một người la lên chửi họ, tòa phải nhắc nhở.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhờ luật sư ghi nhận lời nhận tội",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Luật sư nhắc chủ tọa; lời nhận tội được ghi nguyên văn.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Luật sư đối phương phản đối, bạn phải đợi chủ tọa quyết.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhìn sang Doãn, thấy anh cũng đang nhìn mình",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh khẽ gật đầu. Bạn thấy mình không đơn độc.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh tránh ánh mắt bạn, vẻ mặt đầy day dứt.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sân trường, phiên tòa. Hai cậu ấm nhận tội trước hàng nghìn người.",
+      "no": 37
+    },
+    {
+      "id": "x38",
+      "scene": "school",
+      "place": "Sân trường · Phiên tòa",
+      "kind": "chon",
+      "title": "Những đoạn video",
+      "text": "Màn hình chiếu: lời công kích ở hành lang và lớp học, nhóm nữ sinh lục cặp, phóng viên bàn nhau bóp méo tin, đám đông và phụ huynh ném đồ ở cổng. Mặt từng người bị phóng to; đỏ mặt, không ai chối được. Đó là những thứ Tiểu Châu đã ghi từ đầu. Bạn có thể để các đoạn video chạy tự nhiên, hoặc nhờ luật sư trích từng đoạn cho mỗi bị cáo.",
+      "tieu": "Mọi thứ Tiểu Châu ghi giờ lên sân khấu. Để video chạy hay trích từng đoạn?",
+      "cast": "mt_mat,mt_dinh,mt_ngo,tc",
+      "ch": [
+        {
+          "t": "Để video chạy tự nhiên từ đầu đến cuối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Cả sân lặng ngắt xem lại chính mình. Có người che mặt, có người rơi nước mắt.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Vài đoạn bị trục trặc kỹ thuật, phải chiếu lại.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Nhờ luật sư trích từng đoạn cho từng bị cáo",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Mỗi bị cáo nhận đúng đoạn của mình; không ai còn cãi được.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Luật sư nhầm đoạn của hai người, phải sửa.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Cho chiếu đoạn Phạm Y Đình và cô Ngô trước",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Phạm Y Đình ngồi chết lặng; cô Ngô cúi gằm mặt.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Hai người xin vắng mặt vì «sức khỏe», bạn mất thêm lượt.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sân trường, phiên tòa. Màn hình chiếu các đoạn video bằng chứng.",
+      "no": 38
+    },
+    {
+      "id": "x39",
+      "scene": "school",
+      "place": "Sân trường · Phán quyết",
+      "kind": "chon",
+      "title": "Phán quyết",
+      "text": "Án nặng nhẹ khác nhau, từ sáu tháng đến ba năm; người chưa đủ tuổi bị phạt tiền, bồi thường «tiền dạy dỗ con». Kháng cáo bị bác nhiều lần. Những người từng bị bôi nhọ trên thế giới vỗ tay. Bạn tiếp tục kiện trường. Bạn có thể đứng dậy cảm ơn chủ tọa và các luật sư, hoặc ngồi yên để mọi thứ lắng xuống.",
+      "tieu": "Phán quyết đã đọc xong. Đứng dậy cảm ơn hay ngồi yên?",
+      "cast": "mt_mat,mt_me,tc",
+      "ch": [
+        {
+          "t": "Đứng dậy cúi chào chủ tọa và các luật sư",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cả sân đứng lên vỗ tay. Mẹ nắm chặt tay bạn, mắt đỏ hoe.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn đứng lên quá nhanh, chóng mặt, phải ngồi xuống lại.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Ngồi yên, nghe luật sư tổng kết",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Luật sư tổng kết rành mạch; bạn hiểu rõ mình đã đi được bao xa.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Luật sư nói dài, bạn chú ý kém.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Quay sang ôm mẹ",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Hai mẹ con ôm nhau; ống kính phóng viên chỉ dám chụp từ xa.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Một phóng viên lao vào chụp cận, vệ sĩ phải can.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sân trường, phán quyết. Hàng nghìn người nghe án tuyên.",
+      "no": 39
+    },
+    {
+      "id": "x40",
+      "scene": "zoffice",
+      "place": "Tòa án · Sau phán quyết",
+      "kind": "chon",
+      "title": "Kiện nhà trường và cô Ngô",
+      "text": "Bạn kiện nhà trường vì khai trừ vội mà không thẩm tra, và kiện cô Ngô vì công kích học sinh khi chưa có chứng cứ. Cả hai thua; cô Ngô bị trường khai trừ, bị thu chứng chỉ giáo viên. Bạn có thể yêu cầu xin lỗi công khai, hoặc chỉ yêu cầu bồi thường theo luật.",
+      "tieu": "Đến lượt nhà trường. Yêu cầu xin lỗi công khai hay chỉ bồi thường theo luật?",
+      "cast": "mt_mat,mt_ngo,mt_banh,tc",
+      "ch": [
+        {
+          "t": "Yêu cầu xin lỗi công khai, ghi vào biên bản",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hiệu trưởng đọc lời xin lỗi giữa sân trường; cô Bành đứng cạnh bạn, mắt hoe.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Lời xin lỗi quá ngắn, bạn yêu cầu đọc lại.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Chỉ yêu cầu bồi thường theo đúng luật",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Con số được tính chính xác; tòa không có gì để bắt bẻ.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Một khoản bị luật sư đối phương phản đối, phải tính lại.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ cô Bành đứng làm chứng thêm",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Cô Bành đồng ý ngay, giọng khàn nhưng rất rõ.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Cô Bành bị nhà trường gây áp lực, ngập ngừng.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Tòa án, sau phán quyết. Bạn kiện nhà trường và cô Ngô.",
+      "no": 40
+    },
+    {
+      "id": "x41",
+      "scene": "zgarden",
+      "place": "Văn phòng quỹ · Sau tòa",
+      "kind": "duyen",
+      "title": "Quỹ «Lời Thật»",
+      "text": "Bạn dùng tiền bồi thường lập quỹ giúp người bị bịa đặt kiện tụng, công khai từng khoản. Ba mươi luật sư nhận làm cho quỹ suốt đời; những người từng bị hại quyên góp. Bạn đã xong việc ở trường cũ, và xin chuyển trường. Bạn có thể đặt tên quỹ là «Lời Thật» theo tên bạn nghĩ ra, hoặc nhờ những người được giúp đặt tên.",
+      "tieu": "Quỹ mới có tên chưa? Tự đặt hay nhờ người được giúp đặt?",
+      "cast": "mt_mat,mt_me,tc",
+      "ch": [
+        {
+          "t": "Tự đặt tên: quỹ «Lời Thật»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Cái tên được ghi lên biển hiệu; bạn nghe tiếng vỗ tay nhẹ của những người đứng cạnh.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Có người nói tên nghe sáo, bạn đành giải thích thêm.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Hỏi ý kiến từng người được giúp, đặt cái tên chung",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Ai cũng góp một chữ, cái tên cuối cùng khiến mọi người mỉm cười.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Mỗi người một ý, bạn mất thêm nửa ngày để chốt.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ mẹ đặt tên giúp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mẹ nghĩ một lúc rồi đề nghị «Lời Thật»; bạn bật cười vì đúng ý.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Mẹ đề nghị một cái tên khác, hơi dài, bạn phải thương lượng lại.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Sau tòa, văn phòng quỹ. Bạn lập quỹ giúp người bị bịa đặt.",
+      "no": 41
+    },
+    {
+      "id": "x42",
+      "scene": "street",
+      "place": "Cổng trường mới · Mấy tháng sau",
+      "kind": "duyen",
+      "title": "Chuyển trường",
+      "text": "Tiểu Châu tóm lại mấy tháng vừa qua. Bạn chuyển sang một trường gần nhà, danh tiếng vừa phải; các trường đại học mời. Doãn vẫn đưa đón bạn trước giờ tới trường anh. Hai người nói về lời xin lỗi sắp tới của hai cậu ấm. Bạn có thể nhờ anh đứng bên cạnh khi họ tới, hoặc muốn tự gặp một mình.",
+      "tieu": "Người cũ sắp tới xin lỗi rồi đấy. Nhờ Doãn đứng cạnh hay tự gặp một mình?",
+      "cast": "mt_mat,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Nhờ Doãn đứng bên cạnh khi họ tới",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh gật đầu ngay, đứng sát bên bạn nhưng không nói gì. Bạn thấy vững hơn.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Anh hơi căng thẳng, siết tay đến trắng ngón.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Tự gặp một mình, nhờ Doãn đứng xa",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Bạn nói chuyện được tự nhiên hơn; anh đứng xa, nhưng đủ gần để bạn biết có anh.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh đứng quá xa, bạn thấy lẻ loi một lúc.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu ghi lại cuộc gặp",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu ghi đủ, bạn thấy yên tâm về sau.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Tiểu Châu sụt sóng, đoạn đầu bị mất.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Mấy tháng sau, cổng trường mới. Bạn sắp gặp lại hai cậu ấm.",
+      "no": 42
+    },
+    {
+      "id": "x43",
+      "scene": "street",
+      "place": "Cổng trường mới · Chiều",
+      "kind": "chon",
+      "title": "Lời xin lỗi trước cổng trường mới",
+      "text": "Tạ và Chu đến xin lỗi giữa cổng trường. Bạn nhận lời xin lỗi nhưng nói sẽ không tha thứ. Hai người hỏi vì sao suốt mấy tháng bạn cho họ ở gần; bạn nói muốn xem họ có tự dừng lại không. Họ hiểu mình đã bỏ phí cơ hội làm lại. Doãn báo tin hai người sắp chấp hành án ba năm. Bạn có thể nói lời cuối bằng một câu ngắn, hoặc im lặng quay đi.",
+      "tieu": "Hai người đã đến. Nói một câu cuối hay im lặng quay đi?",
+      "cast": "mt_mat,mt_ta,mt_chu,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Nói một câu: «các cậu đã có cơ hội, và đã bỏ lỡ»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Hai người cúi đầu; vai họ sụp xuống. Bạn quay đi, nhẹ nhõm kỳ lạ.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Một người định nói gì đó nhưng bạn đã đi khuất.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Im lặng quay đi, không đáp lại",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Sự im lặng nặng hơn bất kỳ lời nói nào. Họ đứng đó rất lâu.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Chu Dục Thành gọi theo, bạn không ngoảnh lại.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Hỏi họ có sẵn sàng chịu án không",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Họ gật đầu, giọng nghẹn. Bạn nhận ra lần đầu họ nói thật.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Họ im lặng, không đáp được câu nào.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, cổng trường mới. Tạ Vân Khiêm và Chu Dục Thành xin lỗi bạn.",
+      "no": 43
+    },
+    {
+      "id": "x44",
+      "scene": "school",
+      "place": "Phòng thi đại học · Mùa thi",
+      "kind": "duyen",
+      "title": "Mùa thi",
+      "text": "Doãn thi đỗ trường hàng đầu cả nước, hẹn «chờ em». Bạn học tiếp, năm sau thi đỗ cùng trường. Bạn có thể ôn thi cùng anh qua video mỗi tối, hoặc tự ôn riêng và gặp anh cuối tuần.",
+      "tieu": "Hai người cách nhau một năm. Ôn cùng qua video hay tự ôn riêng?",
+      "cast": "mt_mat,mt_doan,mt_me,tc",
+      "ch": [
+        {
+          "t": "Ôn cùng anh qua video mỗi tối",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh giảng rất dịu, bạn thấy bài khó hóa dễ. Hai người cười nhiều hơn ôn.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Video lag giữa chừng, bạn mất mấy buổi.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Tự ôn riêng, gặp anh cuối tuần",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Bạn tập trung hơn; cuối tuần anh mang sách tới, ngồi bên bạn suốt buổi.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Bạn học quá khuya, sáng mệt.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Nhờ mẹ làm bữa ăn thật ngon cho ngày thi",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Mẹ nấu món bạn thích; bữa ăn ấm áp giữ bạn vững tâm.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Mẹ nấu hơi nhiều dầu, bạn ăn không quen.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Mùa thi, năm sau. Doãn đã đỗ đại học, bạn chuẩn bị thi.",
+      "no": 44
+    },
+    {
+      "id": "x45",
+      "scene": "ztea",
+      "place": "Quán kem ở đại học · Chiều",
+      "kind": "duyen",
+      "title": "Chén kem lớn",
+      "text": "Ở đại học, Doãn nắm tay bạn tới quán kem mua mấy chục vị, tỏ tình, nói sẽ bảo vệ bạn cả đời. Bạn nhắc anh đừng quên bạn lợi hại thế nào; anh đáp vẫn muốn bảo vệ. Bạn có thể nhận lời ngay, hoặc trêu anh thêm một lúc rồi hãy nhận lời.",
+      "tieu": "Anh ta mua cả quán kem vì ngươi. Nhận lời ngay hay trêu thêm?",
+      "cast": "mt_mat,mt_doan,tc",
+      "ch": [
+        {
+          "t": "Nhận lời ngay, ăn thử từng vị cùng anh",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh cười, nụ cười rất ngốc. Hai người ăn hết mười hai vị mà không thấy lạnh.",
+            "d": {
+              "ac": -8,
+              "hac": -6,
+              "hao": 8,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Kem tan nhanh, bạn phải ăn vội vài vị.",
+            "d": {
+              "sinh": -4
+            }
+          }
+        },
+        {
+          "t": "Trêu anh: «anh chắc là anh bảo vệ nổi em?»",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh trả lời rất nghiêm túc: «bảo vệ được». Bạn bật cười.",
+            "d": {
+              "ac": -6,
+              "hac": -4,
+              "hao": 6,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Anh nghĩ bạn nói thật, ngẩn người một lúc.",
+            "d": {
+              "sinh": -3,
+              "hao": -1
+            }
+          }
+        },
+        {
+          "t": "Để anh đoán vị kem bạn thích nhất",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Anh đoán đúng ngay lần thứ ba, vì đã quan sát bạn từ lâu.",
+            "d": {
+              "ac": -1,
+              "hac": -1,
+              "hao": 3,
+              "sinh": 1
+            }
+          },
+          "b": 0.42,
+          "bad": {
+            "x": "Anh đoán sai bốn lần, mặt hơi đỏ.",
+            "d": {
+              "sinh": -3,
+              "hac": 3,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Chiều, quán kem ở đại học. Doãn mua mấy chục vị kem và tỏ tình.",
+      "no": 45
+    },
+    {
+      "id": "x46",
+      "scene": "school",
+      "place": "Lễ tốt nghiệp · Một sáng",
+      "kind": "nan",
+      "title": "Tốt nghiệp",
+      "text": "Bốn năm đại học êm đềm; trường học im lặng nghị luận bừa. Ngày tốt nghiệp, bạn rủ Doãn đi đăng ký kết hôn; anh đưa cổ phần, thẻ ngân hàng, nhẫn; hai người nói về những kiếp đã ở bên nhau. Đây là mốc cuối. Bạn có thể nhận nhẫn rồi nói lời hứa, hoặc nắm tay anh nói rằng tụi mình đi đăng ký trước.",
+      "tieu": "Mốc cuối rồi đấy. Nhận nhẫn rồi hứa hay nắm tay đi đăng ký trước?",
+      "cast": "mt_mat,mt_doan,mt_me,tc",
+      "ch": [
+        {
+          "t": "Nhận nhẫn, nói: «em hứa»",
+          "h": "Thử bằng Mị lực",
+          "s": "mi",
+          "ok": {
+            "x": "Anh đeo nhẫn vào ngón tay bạn, tay run rất nhẹ. Hai người cười và nước mắt rơi cùng lúc.",
+            "d": {
+              "ac": -4,
+              "hac": -4,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.58,
+          "bad": {
+            "x": "Nhẫn hơi rộng, anh phải đeo lại lần nữa.",
+            "d": {
+              "sinh": -2,
+              "hao": -2
+            }
+          }
+        },
+        {
+          "t": "Nắm tay anh, bảo đi đăng ký trước",
+          "h": "Thử bằng Trí",
+          "s": "tri",
+          "ok": {
+            "x": "Anh cười, nắm tay bạn bước đi, bước chân nhẹ hơn mọi lần.",
+            "d": {
+              "ac": -5,
+              "hac": -6,
+              "hao": 5,
+              "sinh": 1
+            }
+          },
+          "b": 0.56,
+          "bad": {
+            "x": "Bạn đi nhầm hướng, anh dắt bạn quay lại mà không nói gì.",
+            "d": {
+              "sinh": -2,
+              "hao": -3
+            }
+          }
+        },
+        {
+          "t": "Nhờ Tiểu Châu nói lời chúc cuối cho cả hai",
+          "h": "Thử bằng Vận",
+          "s": "van",
+          "ok": {
+            "x": "Tiểu Châu chúc bằng một câu ngắn và đúng; bạn thấy nhẹ nhõm.",
+            "d": {
+              "ac": -1,
+              "hac": 2,
+              "hao": 2,
+              "sinh": 1
+            }
+          },
+          "b": 0.64,
+          "bad": {
+            "x": "Tiểu Châu ngập ngừng, rồi chỉ nói «hạnh phúc nhé».",
+            "d": {
+              "sinh": -2,
+              "hac": 2,
+              "hao": -3
+            }
+          }
+        }
+      ],
+      "ctx": "Một sáng, lễ tốt nghiệp. Bạn và Doãn đi đăng ký kết hôn.",
+      "no": 46
+    }
+  ],
+  "wound": {
+    "h": 5.67,
+    "b": 9.53,
+    "x": 1.51
+  }
+}
