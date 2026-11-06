@@ -65,4 +65,6 @@ WORLDS.w11={roles:{unh:["Nữ chính", "main", "Nữ sinh 17 tuổi nằm viện
   boss:{key:"udt",name:"Hoắc Dịch Trì",role:"Bạn cùng bàn, giáo bá cuối bảng",desc:"17 tuổi, từng là thần đồng, mẹ mất sớm, bị cha và dì ghẻ bỏ mặc. Hắn lạnh lùng ngoài mặt nhưng dần lo cho bạn, và tự trách nặng nề.",quote:"“Đừng hiểu lầm.”",tag:"Giáo bá lạnh lùng"},
   tc:"“Ta xuyên tới đây còn mệt lắm, nói được ít thôi. Kẻ Ác niệm 100 là bạn cùng bàn của ngươi, và hắn giận người ta thay cho cả hai. Giữ hắn lại trước khi cơn giận biến thành thứ khác, nhớ có một lọ dung dịch đang chờ phía trước. Chúc may mắn nhé!”"})}
 };
+/* Chân dung nam chính đổi theo chỉ số: Hắc hóa từ 60 thì mặt lạnh; Hảo cảm từ 60 và Hắc hóa không quá 40 thì dịu lại. */
+(function(){var raw=WORLDS.w11.bossView;WORLDS.w11.bossView=function(){var b=raw();if(!S.end&&b.k==="udt"){if(S.hac>=60)b.k="udt_hac";else if(S.hao>=60&&S.hac<=40)b.k="udt_hao"}return b}})();
 IXS.w11=IX11;PARAMS.w11=W11K;

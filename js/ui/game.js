@@ -13,6 +13,16 @@ import { bar, dchips } from './hud.js';
 import { artScene, scene } from './scenes.js';
 import { $ } from '../util.js';
 
+/* Biểu cảm của Tiểu Châu theo loại mốc và kết quả chọn (chỉ đổi ảnh hiển thị, không đổi luật). */
+function tcMood(e){
+  var L=S.phase==="result"?S.last:null;
+  if(L&&L.s!==null)return L.good?"tc_vui":(e.kind==="hiem"||e.kind==="nan"?"tc_hoang":"tc_buon");
+  if(S.i===0)return "tc_chao";
+  if(e.kind==="duyen")return e.learn?"tc_chi_dan":"tc_vui";
+  if(e.kind==="hiem")return "tc_canh_giac";
+  if(e.kind==="nan")return S.hac>=85?"tc_hoang":"tc_lo";
+  return "tc_nghi"}
+
 /* ---------- Giao diện ---------- */
 export function render(){
   var e=EV[S.i],heat=S.end?ENDS[S.end].heat:S.hac/100;
@@ -51,7 +61,7 @@ export function render(){
      +'<div class="deltas" style="justify-content:center"><span class="d up">Công đức +'+(merit(S.end).v||0)+'</span><span class="d '+(en.piece?'up':'')+'">Mảnh hồn '+(en.piece?'+1':'+0')+'</span></div>'
      +'<button class="btn primary" id="reset2">Cho tôi thử lại kiếp này</button></div>';
   }else{
-    r+='<div class="tieu"><div>'+pt("tc")+'</div><p class="bubble"><b>Tiểu Châu</b>'+(typeof e.tieu==="function"?e.tieu():e.tieu)+'</p></div>';
+    r+='<div class="tieu"><div>'+pt(tcMood(e))+'</div><p class="bubble"><b>Tiểu Châu</b>'+(typeof e.tieu==="function"?e.tieu():e.tieu)+'</p></div>';
     r+='<div class="panel ev k-'+e.kind+'"><span class="mono kind">'+KIND[e.kind]+'</span><span class="mono">'+e.place+'</span><span class="mono mk">MỐC #'+nmPad(S.i+1)+'</span><h3>'+e.title+'</h3>'+(e.ctx?'<p class="ctx"><b>Bối cảnh</b>'+ctxOf(e)+'</p>':'')+'<p>'+markNames(typeof e.text==="function"?e.text():e.text)+'</p>';
     if(S.phase==="event"){
       r+='<div class="choices">'+e.ch.map(function(c,n){

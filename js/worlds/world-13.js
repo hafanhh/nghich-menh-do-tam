@@ -64,4 +64,6 @@ WORLDS.w13={roles:{q_tq:["Nữ chính", "main", "Tiểu thư thói ở sạch, b
   boss:{key:"q_th",name:"Úc Tễ Hàn",role:"Người lập Tịch Chiếu căn cứ",desc:"28 tuổi, lạnh với mọi người nhưng chỉ mềm với bạn. Hắn đã trọng sinh, nhớ kiếp trước bạn bị bỏ rơi, nên mất bình tĩnh mỗi khi thấy bạn bị đối xử tệ.",quote:"“Ta ở đây.”",tag:"Trọng sinh trung khuyển"},
   tc:"“Ta xuyên tới đây còn mệt lắm, nói được ít thôi. Kẻ Ác niệm 100 là người lập Tịch Chiếu căn cứ, và hắn nhớ cả kiếp trước của ngươi. Thân thể này tự hồi rất nhanh, nhưng có một mũi tiêm đang chờ phía trước. Đừng để hắn thấy ngươi bị bỏ rơi lần nữa. Chúc may mắn nhé!”"})}
 };
+/* Chân dung nam chính đổi theo chỉ số: Hắc hóa từ 60 thì mặt lạnh; Hảo cảm từ 60 và Hắc hóa không quá 40 thì dịu lại. */
+(function(){var raw=WORLDS.w13.bossView;WORLDS.w13.bossView=function(){var b=raw();if(!S.end&&b.k==="q_th"){if(S.hac>=60)b.k="q_th_hac";else if(S.hao>=60&&S.hac<=40)b.k="q_th_hao"}return b}})();
 IXS.w13=IX13;PARAMS.w13=W13K;

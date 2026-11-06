@@ -73,4 +73,6 @@ WORLDS.w10={roles:{qv:["Nữ chính", "main", "Đích nữ nhà Phù 18 tuổi, 
   boss:{key:"qh",name:"Doãn Hiên Dật",role:"Tiểu vương gia, vị hôn phu cũ",desc:"20 tuổi, kẻ cuồng tu luyện. Hắn từng trốn nguyên chủ suốt mười năm vì tưởng đó chỉ là trò đùa trẻ con, nay hối hận và sợ mất người mình đã bỏ rơi.",quote:"“Ta cố gắng tiếp.”",tag:"Vị hôn phu cũ hối hận"},
   tc:"“Ta xuyên tới đây còn mệt lắm, nói được ít thôi. Kẻ Ác niệm 100 là vị hôn phu cũ của ngươi, và hắn chưa biết mình đã làm nguyên chủ đau thế nào. Cẩn thận người em trọng sinh của ngươi, nhớ có một đêm hang kín đang chờ phía trước. Chúc may mắn nhé!”"})}
 };
+/* Chân dung nam chính đổi theo chỉ số: Hắc hóa từ 60 thì mặt lạnh; Hảo cảm từ 60 và Hắc hóa không quá 40 thì dịu lại. */
+(function(){var raw=WORLDS.w10.bossView;WORLDS.w10.bossView=function(){var b=raw();if(!S.end&&b.k==="qh"){if(S.hac>=60)b.k="qh_hac";else if(S.hao>=60&&S.hac<=40)b.k="qh_hao"}return b}})();
 IXS.w10=IX10;PARAMS.w10=W10K;

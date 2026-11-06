@@ -1,7 +1,6 @@
 /*
  * Trang chủ: thẻ các thế giới, bảng "Hành trình của bạn", đổi tranh bìa ngày/đêm.
  */
-import { pt } from '../portraits.js';
 import { renderArchive } from './archive.js';
 import { REC_MEM, recLoad } from '../records.js';
 import { PICK } from './router.js';
@@ -59,7 +58,7 @@ export function renderHome(){
   $("nm-worlds").innerHTML=OPEN.map(nmCard).join("")+nmLocked(N+1);
   $("nm-wcount").textContent="Đang mở: "+N+" vực giới";
   $("nm-cta-label").textContent="Tôi đã sẵn sàng";
-  $("nm-portrait").innerHTML=pt("tc");
+  $("nm-portrait").innerHTML='<img class="nm-tcimg" src="assets/portraits/tc/full-chao.webp" alt="Tiểu Châu" width="220" height="220">';
   $("nm-year").textContent=new Date().getFullYear();
   nmHero(nmHeroGet());
   renderArchive();

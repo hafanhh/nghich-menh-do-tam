@@ -71,4 +71,6 @@ WORLDS.w12={roles:{n_th:["Nữ chính", "main", "Nữ diễn viên bị bôi nh�
   boss:{key:"n_mh",name:"Giản Mặc Hành",role:"Đạo diễn «quỷ tài»",desc:"30 tuổi, tối tăm, hay mắng diễn viên, mẹ mất sớm. Hắn từng dùng quyền thế chặn đường người khác, nay hối hận và dung túng bạn, nhưng mất bình tĩnh mỗi khi bạn gặp nguy.",quote:"“Ta chờ nàng.”",tag:"Đạo diễn chiếm hữu"},
   tc:"“Ta xuyên tới đây vẫn còn mệt, nói được ít thôi. Kẻ Ác niệm 100 là đạo diễn mà cả mạng đang mắng thay ngươi. Hắn dung túng ngươi, nên đừng để hắn dùng quyền thế cho xong chuyện. Rừng Lâm Hải đang chờ phía trước. Chúc may mắn nhé!”"})}
 };
+/* Chân dung nam chính đổi theo chỉ số: Hắc hóa từ 60 thì mặt lạnh; Hảo cảm từ 60 và Hắc hóa không quá 40 thì dịu lại. */
+(function(){var raw=WORLDS.w12.bossView;WORLDS.w12.bossView=function(){var b=raw();if(!S.end&&b.k==="n_mh"){if(S.hac>=60)b.k="n_mh_hac";else if(S.hao>=60&&S.hac<=40)b.k="n_mh_hao"}return b}})();
 IXS.w12=IX12;PARAMS.w12=W12K;
